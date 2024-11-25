@@ -1,0 +1,143 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 478  
+H.P. 317  House of Representatives, February 24, 2015  
+ 
+ 
+An Act To Require That Death Certificates Be Signed Using an 
+Electronic Signature System  
+ 
+ 
+ 
+ 
+Reference to the Committee on Health and Human Services suggested and ordered printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative STANLEY of Medway.  
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR1203(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  22 MRSA §2841, sub -§2, as amended by PL 1989, c. 274, §3, is further 2 
+amended to read:  3 
+2.  Medical certificate by physician.  The medical certification shall  must  be 4 
+completed and signed  using an electronic signature  within 5 days after delivery by the 5 
+physician in attendance at or after the delivery, except when an inquiry as to the cause of 6 
+fetal death is required by law.  For the purposes of this subsection, "electronic signature" 7 
+has the same meaning as in Title 10, section 9402, subsection 8.  8 
+Sec. 2.  22 MRSA §2842, sub -§§2 and 2 -A, as amended by PL 2009, c. 601, 9 
+§25, are further amended to read:  10 
+2.  Medical certificate by physician, nurse practitioner or physician assistant.  11 
+The med ical certification of the cause of death must be completed and signed using an 12 
+electronic signature  in a timely manner, as specified by department rule, by a physician, 13 
+nurse practitioner or physician assistant authorized to practice in the State who has 14 
+knowledge of the patient's recent medical condition, in accordance with department rules 15 
+and other laws detailing who can certify and in what time frame, except when the death 16 
+falls under the jurisdiction of the medical examiner as provided in section 3025.   If the 17 
+patient was a resident of a nursing home licensed under section 1817 at the time of death 18 
+and if the health care provider in charge of the patient's care or another health care 19 
+provider designated by the health care provider in charge had not exam ined the patient 20 
+within 48 hours prior to death, or within 2 weeks prior to death in the case of a terminally 21 
+ill patient, the health care provider in charge or another health care provider designated 22 
+by the health care provider in charge shall examine the  body prior to completing the 23 
+certification of death process.  Any health care provider who fails to complete the 24 
+medical certification of the cause of death fully, in a timely manner, or who fails to 25 
+examine the body of a nursing home resident prior to ce rtifying cause of death as required 26 
+by this section must be reported to the Board of Licensure in Medicine, the Board of 27 
+Osteopathic Licensure or the State Board of Nursing, whichever is appropriate, by the 28 
+State Registrar of Vital Statistics of the Depart ment of Health and Human Services.  29 
+For the purposes of this subsection, the following terms have the following meanings.  30 
+A.  "Life -sustaining procedure" means any medical procedure or intervention that, 31 
+when administered to a qualified patient, will serve only to prolong the dying process 32 
+and does not include nutrition and hydration.  33 
+B.  "Terminally ill patient" means a patient who has been diagnosed as having an 34 
+incurable or irreversible condition that, without the administration of life -sustaining 35 
+procedu res, will, in the opinion of the attending health care provider, result in death 36 
+within a short time.  37 
+C.  "Health care provider" means a physician authorized to practice in this State, 38 
+nurse practitioner or physician assistant.  39 
+ 
+ Page 2 - 127LR1203(01) -1 
+ D.  "Nurse practitioner" mea ns an advanced practice registered nurse who is a 1 
+certified nurse practitioner authorized to practice without the supervision of a 2 
+physician pursuant to Title 32, chapter 31.  3 
+E.  "Physician assistant" means a person who has graduated from a physician 4 
+assis tant or surgeon assistant program accredited by the American Medical 5 
+Association Committee on Allied Health Education and Accreditation or the 6 
+Commission on Accreditation of Allied Health Education Programs or its successor 7 
+and who has passed the certifyin g examination administered by the National 8 
+Commission on Certification of Physician Assistants or its successor.  9 
+F.  "Electronic signature" has the same meaning as in Title 10, section 9402, 10 
+subsection 8.  11 
+2-A.  Medical certification.  Notwithstanding subse ction 2, with respect to a person 12 
+who dies within the State naturally and for whom the physician, nurse practitioner or 13 
+physician assistant was the attending health care provider, the medical certification of the 14 
+cause of death may be completed and signed using an electronic signature  by a physician, 15 
+nurse practitioner or physician assistant authorized to practice at the United States 16 
+Department of Veterans Affairs at Togus or at another federal medical facility within the 17 
+State or by a physician, an advanc ed practice registered nurse or physician assistant 18 
+licensed to practice in New Hampshire, Vermont or Massachusetts who, at the request of 19 
+the Chief Medical Examiner, is willing to do so.  For the purposes of this subsection, 20 
+"electronic signature" has the  same meaning as in Title 10, section 9402, subsection 8.  21 
+Sec. 3.  22 MRSA §2842, sub -§3, as amended by PL 2013, c. 31, §1, is further 22 
+amended to read:  23 
+3.  Medical certificate by medical examiner or the Office of the Chief Medical 24 
+Examiner.  When a death o ccurs under circumstances that make it a medical examiner 25 
+case as defined in section 3025, or when inquiry as to the cause of death is required by 26 
+law, the medical examiner or the Office of the Chief Medical Examiner shall complete 27 
+the medical certificatio n of the cause of death as specified by department rule and sign 28 
+the death certificate using an electronic signature .  A certification need not be completed 29 
+before the remains are ready for release.  For the purposes of this subsection, "electronic 30 
+signatu re" has the same meaning as in Title 10, section 9402, subsection 8.  31 
+The medical examiner or the Office of the Chief Medical Examiner is responsible for the 32 
+identity of the deceased and the time, date, place, cause, manner and circumstances of 33 
+death on the  death certificate.  Entries may be left "pending" if further study is needed; or, 34 
+at the specific direction of the Attorney General relative to cases under investigation by 35 
+the Attorney General's office, entries must be left "withheld" until such time as the 36 
+Attorney General, in the Attorney General's sole discretion, determines that any criminal 37 
+investigation and prosecution will not be harmed by public disclosure of such 38 
+information.  Notwithstanding section 2706, subsection 4, unless directed otherwise by 39 
+the Attorney General as specified in this subsection, this information for which the 40 
+medical examiner is responsible may be made available to the general public by the 41 
+Office of the Chief Medical Examiner.  42 
+ 
+ Page 3 - 127LR1203(01) -1 
+ SUMMARY  1 
+This bill requires death certificates t o be signed using an electronic signature.  2 
+"Electronic signature" has the same meaning as in the Uniform Electronic Transactions 3 
+Act, an electronic sound, symbol or process attached to or logically associated with a 4 
+record and executed or adopted by a per son with the intent to sign the record.  5 
+ 

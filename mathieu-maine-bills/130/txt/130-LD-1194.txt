@@ -1,0 +1,168 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1194
+H.P. 872 House of  Representatives, March 22, 2021
+An Act  To Reduce  Health Care Worker  Shortages
+Received by the Clerk of the House on March 18, 2021.  Referred to the Committee  on 
+Health Coverage, Insurance  and Financial Services pursuant to Joint  Rule 308.2 and  ordered 
+printed pursuant to Joint Rule  401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative LIBBY of Auburn.
+Cosponsored by Representatives:  EVANS of  Dover-Foxcroft,  GEIGER  of Rockland,  PERRY  
+of Calais,  WHITE of Waterville, Senator: CLAXTON of Androscoggin.
+
+Page 1 - 130LR1022(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §4316, sub-§1, ¶C, as enacted by PL 2019, c. 289, §2, is 
+3 amended to read:
+4 C.  "Telehealth," as it pertains to the delivery of health care services, means the use of 
+5 interactive real-time visual and audio or other electronic media for the purpose of 
+6 consultation and education concerning and diagnosis, treatment, care management and 
+7 self-management of an enrollee's physical and mental health and includes real-time 
+8 interaction between the enrollee and the telehealth provider, synchronous encounters, 
+9 asynchronous encounters, store and forward transfers, the use of audio-only telephone 
+10 and telemonitoring.  "Telehealth" does not include the use of audio-only telephone, 
+11 facsimile machine, e-mail or texting.
+12Sec. 2.  24-A MRSA §4316, sub-§1, ¶E, as enacted by PL 2019, c. 289, §2, is 
+13 repealed.
+14Sec. 3.  24-A MRSA §4316, sub-§5, as enacted by PL 2019, c. 289, §2, is repealed.
+15Sec. 4.  32 MRSA §2213 is enacted to read:
+16§2213.  Licensing of nurse licensed in another state; authorized actions
+17 Notwithstanding any provision of this chapter to the contrary, the following provisions 
+18 apply. 
+191.  Issuance of license; provision of health care services in person or through 
+20telehealth.  The board shall issue a license to any nurse who seeks immediate licensure 
+21 who is licensed in good standing in another state and has not been subject to a disciplinary 
+22 or adverse action in the past 10 years involving loss of license, probation or practice 
+23 restriction or limitation.  A nurse licensed under this subsection may provide health care 
+24 services within the scope of practice of the nurse's license through an in-person encounter 
+25 in this State or across state lines into this State using telehealth, as defined in Title 24-A, 
+26 section 4316, subsection 1, paragraph C.  License application fees and renewal fees for 
+27 licenses issued pursuant to this subsection must be established by the board.
+282.  Issuance of license for retired nurse.  Upon request, the board shall immediately 
+29 issue a license to a nurse who retired in good standing in this State within 2 years of the 
+30 effective date of this section and who has not been subject to a disciplinary or adverse 
+31 action in the past 10 years involving loss of license, probation or practice restriction or 
+32 limitation and has no outstanding complaints or open investigations.  The board may 
+33 impose a fee for a license issued or renewed pursuant to this subsection.
+343.  Permitted activity without license.  A nurse who is licensed in good standing in 
+35 another state and who has patients residing in this State who travel to another state to 
+36 receive ongoing health care from that nurse may provide those health care services to those 
+37 patients through telehealth, as defined in Title 24-A, section 4316, subsection 1, paragraph 
+38 C, without obtaining a license under this section or another provision of this chapter. 
+394.  Supervision or collaborative practice agreements suspended.  Any requirement 
+40 related to mandatory supervision or collaborative practice agreements for an otherwise 
+41 qualified advanced practice registered nurse licensed in good standing in another state and 
+42 granted a license under this section is suspended. 
+Page 2 - 130LR1022(01)15.  Telehealth services.  A nurse licensed in this State or authorized to perform services 
+2 pursuant to this section may perform health care services through the use of all modes of 
+3 telehealth, as defined in Title 24-A, section 4316, subsection 1, paragraph C, including 
+4 video and audio, audio-only or other electronic media, to treat the residents of this State for 
+5 all medically necessary services.
+6Sec. 5.  32 MRSA §2571-B is enacted to read:
+7§2571-B.  Licensing of osteopathic physician or physician assistant licensed in another 
+8state; authorized actions
+9 Notwithstanding any provision of this chapter to the contrary, the following provisions 
+10 apply. 
+111.  Issuance of license; provision of health care services in person or through 
+12telehealth.  The board shall issue a license to any osteopathic physician or physician 
+13 assistant who seeks immediate licensure who is licensed in good standing in another state 
+14 and has not been subject to a disciplinary or adverse action in the past 10 years involving 
+15 loss of license, probation or practice restriction or limitation.  A physician or physician 
+16 assistant licensed under this subsection may provide health care services within the scope 
+17 of practice of the physician's or physician assistant's license through an in-person encounter 
+18 in this State or across state lines into this State using telehealth, as defined in Title 24-A, 
+19 section 4316, subsection 1, paragraph C.  License application fees and renewal fees for 
+20 licenses issued pursuant to this subsection must be established by the board.
+212.  Issuance of license for retired physician or physician assistant.  Upon request, 
+22 the board shall immediately issue a license to an osteopathic physician or physician 
+23 assistant who retired in good standing in this State within 2 years of the effective date of 
+24 this section and who has not been subject to a disciplinary or adverse action in the past 10 
+25 years involving loss of license, probation or practice restriction or limitation and has no 
+26 outstanding complaints or open investigations.  The board may impose a fee for a license 
+27 issued or renewed pursuant to this subsection.
+283.  Permitted activity without license.  An osteopathic physician or physician 
+29 assistant who is licensed in good standing in another state and who has patients residing in 
+30 this State who travel to another state to receive ongoing health care from that physician or 
+31 physician assistant may provide those health care services to those patients through 
+32 telehealth, as defined in Title 24-A, section 4316, subsection 1, paragraph C, without 
+33 obtaining a license under this section or another provision of this chapter. 
+344.  Supervision or collaborative practice agreements suspended.  Any requirement 
+35 related to mandatory supervision or collaborative practice agreements for an otherwise 
+36 qualified physician assistant licensed in good standing in another state and granted a license 
+37 under this section is suspended. 
+385.  Telehealth services.  An osteopathic physician or physician assistant licensed in 
+39 this State or authorized to perform services pursuant to this section may perform health 
+40 care services through the use of all modes of telehealth, as defined in Title 24-A, section 
+41 4316, subsection 1, paragraph C, including video and audio, audio-only or other electronic 
+42 media, to treat the residents of this State for all medically necessary services.
+43Sec. 6.  32 MRSA §3278-A is enacted to read:
+Page 3 - 130LR1022(01)1§3278-A.  Licensing of physician or physician assistant licensed in another state; 
+2authorized actions
+3 Notwithstanding any provision of this chapter to the contrary, the following provisions 
+4 apply. 
+51.  Issuance of license; provision of health care services in person or through 
+6telehealth.  The board shall issue a license to any physician or physician assistant who 
+7 seeks immediate licensure who is licensed in good standing in another state and has not 
+8 been subject to a disciplinary or adverse action in the past 10 years involving loss of license, 
+9 probation or practice restriction or limitation.  A physician or physician assistant licensed 
+10 under this subsection may provide health care services within the scope of practice of the 
+11 physician's or physician assistant's license through an in-person encounter in this State or 
+12 across state lines into this State using telehealth, as defined in Title 24-A, section 4316, 
+13 subsection 1, paragraph C.  License application fees or renewal fees for licenses issued 
+14 pursuant to this subsection are waived must be established by the board.
+152.  Issuance of license for retired physician or physician assistant.  Upon request, 
+16 the board shall immediately issue a license to a physician or physician assistant who retired 
+17 in good standing in this State within 2 years of the effective date of this section and who 
+18 has not been subject to a disciplinary or adverse action in the past 10 years involving loss 
+19 of license, probation or practice restriction or limitation and has no outstanding complaints 
+20 or open investigations.  The board may impose a fee for a license issued or renewed 
+21 pursuant to this subsection.
+223.  Permitted activity without license.  A physician or physician assistant who is 
+23 licensed in good standing in another state and who has patients residing in this State that 
+24 travel to another state to receive ongoing health care from that physician or physician 
+25 assistant may provide those health care services to those patients through telehealth, as 
+26 defined in Title 24-A, section 4316, subsection 1, paragraph C, without obtaining a license 
+27 under this section or another provision of this chapter. 
+284.  Supervision or collaborative practice agreements suspended.  Any requirement 
+29 related to mandatory supervision or collaborative practice agreements for an otherwise 
+30 qualified physician assistant licensed in good standing in another state and granted a license 
+31 under this section is suspended.
+325.  Telehealth services.  A physician or physician assistant licensed in this State or 
+33 authorized to perform services pursuant to this section may perform health care services 
+34 through the use of all modes of telehealth, as defined in Title 24-A, section 4316, subsection 
+35 1, paragraph C, including video and audio, audio-only or other electronic media, to treat 
+36 the residents of this State for all medically necessary services.
+37SUMMARY
+38 This bill makes permanent the authorization for licensing out-of-state and recently 
+39 retired doctors, physician assistants and nurses that was provided through executive order 
+40 during the declared state of civil emergency related to COVID-19.  The bill also expands 
+41 the scope of health care services that can be provided though telehealth to include the use 
+42 of audio-only telephone.38
+39
+40
+41
+42

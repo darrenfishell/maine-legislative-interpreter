@@ -1,0 +1,151 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1085
+H.P. 680 House of Representatives, March 9, 2023
+An Act to Increase Transparency of and Lower Health Care Costs
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MORRIS of Turner.
+Cosponsored by Representative PERKINS of Dover-Foxcroft,
+Senator MOORE of Washington and
+Representatives: ARATA of New Gloucester, BRADSTREET of Vassalboro, NESS of 
+Fryeburg, SWALLOW of Houlton, Senator: BRAKEY of Androscoggin.
+
+Page 1 - 131LR1301(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §4318-A, first ¶, as enacted by PL 2017, c. 232, §8, is 
+3 amended to read:
+4 Beginning January 1, 2019, a A carrier offering a health plan in this State shall 
+5 establish, at a minimum, for all small group health plans as defined in section 2808‑B, 
+6 subsection 1, paragraph G compatible with a health savings account authorized under 
+7 federal law, a health plan design in which enrollees are directly incentivized to shop for 
+8 low-cost, high-quality participating providers for comparable health care services.  
+9 Incentives may include, but are not limited to, cash payments, gift cards or credits or 
+10 reductions of premiums, copayments or deductibles.  A small group health plan design 
+11 created under this section must remain available to enrollees for at least 2 consecutive 
+12 years, except that any changes made to the program after 2 years, including, but not limited 
+13 to, ending the incentive, may not be construed as a change to the small group health plan 
+14 design for the purpose of guaranteed renewability under section 2808‑B, subsection 4 or 
+15 section 2850‑B. Incentives must be equal to or greater than 25% of the difference between 
+16 the price of the service from the provider selected and the statewide average for the same 
+17 covered health care service based on data reported on the publicly accessible health care 
+18 costs website of the Maine Health Data Organization.  A carrier may use the average price 
+19 paid to a network provider for the covered comparable health care service under the 
+20 enrollee’s health plan in lieu of the statewide average price on the Maine Health Data 
+21 Organization’s publicly accessible website as long as the carrier uses a reasonable method 
+22 to calculate the average price paid. A multiple-employer welfare arrangement is not 
+23 considered a carrier for the purposes of this section.
+24Sec. 2.  24-A MRSA §4318-A, sub-§1, ¶A, as enacted by PL 2017, c. 232, §8, is 
+25 amended to read:
+26 A.  "Comparable health care service" means nonemergency, outpatient health care 
+27 services in the following categories:
+28 (1)  Physical and occupational therapy services;
+29 (2)  Radiology and imaging services;
+30 (3)  Laboratory services; and
+31 (4)  Infusion therapy services. ; and
+32 (5)  Surgical procedures.
+33Sec. 3.  24-A MRSA §4318-A, sub-§8, as enacted by PL 2017, c. 232, §8, is 
+34 repealed.
+35Sec. 4.  24-A MRSA §4318-B, sub-§1, as enacted by PL 2017, c. 232, §9, is 
+36 amended to read:
+371.  Services from out-of-network provider; lower prices.  Beginning January 1, 
+38 2019, if  If an enrollee covered under a health plan  other than a health maintenance 
+39 organization plan elects to obtain a covered comparable health care service as defined in 
+40 section 4318‑A, subsection 1, paragraph A from an out-of-network provider at a price that 
+41 is the same or less than the statewide average for the same covered health care service based 
+42 on data reported on the publicly accessible health care costs website of the Maine Health 
+Page 2 - 131LR1301(01)43 Data Organization, the carrier shall allow the enrollee to obtain the service from the out-
+44 of-network provider at the provider's charge and, upon request by the enrollee, shall apply 
+45 the payments made by the enrollee for that comparable health care service toward the 
+46 enrollee's deductible and out-of-pocket maximum as specified in the enrollee's health plan 
+47 as if the health care services had been provided by an in-network provider.  A carrier may 
+48 use the average price paid to a network provider for the covered comparable health care 
+49 service under the enrollee's health plan in lieu of the statewide average price on the Maine 
+50 Health Data Organization's publicly accessible website as long as the carrier uses a 
+51 reasonable method to calculate the average price paid and the information is available to 
+52 enrollees through a website accessible to the enrollee and a toll-free telephone number that 
+53 provide, at a minimum, information relating to comparable health care services.  The 
+54 enrollee is responsible for demonstrating to the carrier that payments made by the enrollee 
+55 to the out-of-network provider should be applied toward the enrollee's deductible or out-
+56 of-pocket maximum pursuant to this section.  The carrier shall provide a downloadable or 
+57 interactive online form to the enrollee for the purpose of making such a demonstration and 
+58 may require that copies of bills and proof of payment be submitted by the enrollee.  For the 
+59 purposes of this section, "out-of-network provider" means a provider located in 
+60 Massachusetts, New Hampshire or this State that is enrolled in the MaineCare program and 
+61 participates in Medicare.
+20Sec. 5.  24-A MRSA §4318-B, sub-§3, as enacted by PL 2017, c. 232, §9, is 
+21 repealed.
+22SUMMARY
+23 This bill makes the following changes to the law relating to the comparable health care 
+24 incentive program. 
+25 1.  It removes the requirement that the small group health plan design be compatible 
+26 with a health savings account. 
+27 2.  It requires that the incentives be equal to or greater than 25% of the difference 
+28 between the price of the service from the provider selected and the statewide average for 
+29 the same covered health care service based on data reported on the publicly accessible 
+30 health care costs website of the Maine Health Data Organization.  
+31 3.  It adds surgical procedures to the categories of health care services included in the 
+32 definition of "comparable health care service."
+33 4.  It repeals the sunset date of the comparable health care service incentive program, 
+34 which is January 1, 2024. 
+35 Under current law, if an enrollee covered under a health plan other than a health 
+36 maintenance organization plan elects to obtain a covered comparable health care service 
+37 from an out-of-network provider at a price that is the same or less than the statewide 
+38 average for the same covered health care service, the carrier is required to allow the enrollee 
+39 to obtain the service from the out-of-network provider at the provider's charge and, upon 
+40 request by the enrollee, to apply the payments made by the enrollee for that comparable 
+41 health care service toward the enrollee's deductible and out-of-pocket maximum as 
+42 specified in the enrollee's health plan as if the health care services had been provided by an 
+43 in-network provider.  This bill removes the exception that the provision does not apply to 
+44 a health maintenance organization plan and the limitation defining an out-of-network 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+23
+24
+Page 3 - 131LR1301(01)45 provider as a provider located in Massachusetts, New Hampshire or this State that is 
+46 enrolled in the MaineCare program and participates in Medicare. The bill also removes the 
+47 sunset date of the provision of law regarding access to lower-priced services, which is 
+48 January 1, 2024.1
+2
+3
+4

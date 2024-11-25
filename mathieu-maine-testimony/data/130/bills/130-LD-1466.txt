@@ -1,0 +1,1051 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1466
+H.P. 1082 House of  Representatives,  April 12, 2021
+An Act  To Improve  the Efficiency of Certain  Consumer Credit 
+Protection Laws
+Submitted by the Department of  Professional and Financial Regulation pursuant to  Joint  
+Rule 204.
+Received by the Clerk of the House on April  8, 2021.  Referred to  the Committee  on Health 
+Coverage, Insurance  and Financial Services  pursuant to  Joint Rule 308.2 and ordered  printed 
+pursuant to Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TEPLER of Topsham.
+Cosponsored by Senator SANBORN of Cumberland.
+
+Page 1 - 130LR0146(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  9-A MRSA §1-201, sub-§1, as amended by PL 2005, c. 604, §1, is 
+4 further amended to read:
+51.   Except as otherwise provided in this section, this Act applies to consumer credit 
+6 transactions and open-end credit plans made or entered into in this State. For purposes of 
+7 this Act, a consumer credit transaction or open-end credit plan is made or entered into in 
+8 this State if:  the creditor, wherever located, enters into a consumer credit transaction or 
+9 open-end credit plan with a consumer who is located in this State.
+10 A.  A signed writing evidencing the obligation or offer of the consumer is received by 
+11 the creditor in this State;
+12 B.  The creditor, wherever located, induces the consumer who is a resident of this State 
+13 to enter into the transaction or open-end credit plan by face-to-face, mail, telephone or 
+14 electronic mail solicitation in this State; or
+15 C.  With respect to a payday loan, the lender, wherever located, enters into a payday 
+16 loan transaction with a consumer who is located in this State.
+17Sec. A-2.  9-A MRSA §1-301, sub-§17, as amended by PL 2017, c. 106, §1, is 
+18 further amended by amending the 4th blocked paragraph to read:
+19 A Except with respect to credit sales of automobiles, a person regularly extends consumer 
+20 credit only if the person extended credit other than credit subject to high-cost mortgage 
+21 loan requirements more than 25 times or more than 5 times for transactions secured by a 
+22 dwelling in the preceding calendar year. With respect to credit sales of automobiles, a 
+23 person regularly extends consumer credit only if the person extended credit more than 15 
+24 times in the preceding calendar year. If a person did not meet these numerical standards in 
+25 the preceding calendar year, the numerical standards must be applied to the current calendar 
+26 year.
+27Sec. A-3.  9-A MRSA §2-301, sub-§2, as amended by PL 2017, c. 106, §4, is 
+28 further amended to read:
+292.   Taking assignments of and undertaking direct collection of payments from or 
+30 enforcement of rights from an office in this State against debtors arising from supervised 
+31 loans; or
+32Sec. A-4.  9-A MRSA §6-116, sub-§2, as amended by PL 2009, c. 402, §4, is 
+33 further amended to read:
+342.   Financial information not normally available to the public that is submitted in 
+35 confidence by an individual or organization to comply with the licensing, registration or 
+36 other regulatory functions of the administrator, including information derived from a credit 
+37 or background investigation conducted pursuant to section 6-105-A, subsection 2;
+38Sec. A-5.  9-A MRSA §6-203, sub-§3-D is enacted to read:
+393-D.   Notwithstanding subsection 3-C, the administrator may by rule adjust the fees 
+40 paid with respect to creditors that are not supervised financial organizations making 
+41 residential mortgage loans to support the costs of compliance and staff attorney positions. 
+Page 2 - 130LR0146(01)42 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+43 chapter 375, subchapter 2-A.
+3Sec. A-6.  10 MRSA §1273, as enacted by PL 1993, c. 115, §1 and amended by PL 
+4 1995, c. 309, §27, is further amended to read:
+5§1273.  Administrative enforcement
+6 The Director of Consumer Credit Regulation Superintendent of Consumer Credit 
+7 Protection may take appropriate action to ensure compliance with this chapter, including 
+8 without limitation:  to receive and act on complaints; negotiate an assurance in writing that 
+9 a violator will not engage in the same or similar conduct in the future; conduct hearings in 
+10 accordance with the Maine Administrative Procedure Act and issue a cease and desist order 
+11 for violation of this chapter; and refer cases to the Attorney General, who may bring a civil 
+12 action against a person for knowingly violating a written assurance of discontinuance.  If a 
+13 court finds a violation of this chapter it may assess a civil forfeiture of not more than $1,000.
+14Sec. A-7.  10 MRSA §1495-H, sub-§6, as enacted by PL 2003, c. 668, §6 and 
+15 affected by §12, is repealed and the following enacted in its place:
+166.  Action on license. After notice and the opportunity for hearing before the 
+17 administrator, revocation, suspension or nonrenewal of the payroll processor's license.
+18 A respondent aggrieved by an order of the administrator may obtain judicial review of the 
+19 order in the Superior Court. The proceeding for review is initiated and conducted in 
+20 accordance with Title 5, chapter 375, subchapter 7.
+21Sec. A-8.  30-A MRSA §3964-A, sub-§3, as amended by PL 2011, c. 427, Pt. D, 
+22 §19, is further amended to read:
+233.  Model forms.  The Director of Consumer Credit Regulation Superintendent of 
+24 Consumer Credit Protection may issue model disclosure forms and clauses to facilitate 
+25 compliance with the disclosure and computational requirements of this subchapter, 
+26 pursuant to the truth-in-lending provisions of the Maine Consumer Credit Code, Title 9-A, 
+27 Article 8-A.
+28Sec. A-9.  32 MRSA §6102, sub-§10, as enacted by PL 1997, c. 155, Pt. A, §2, is 
+29 amended to read:
+3010.  Money transmission.  "Money transmission" means the business of selling or 
+31 issuing payment instruments or the business of receiving money, including digital 
+32 currencies, for transmission or transmitting money , including digital currencies, within the 
+33 United States or to locations abroad by any means, including, but not limited to, payment 
+34 instrument, wire, facsimile or electronic transfer.
+35Sec. A-10.  32 MRSA §11051, as amended by PL 2009, c. 243, §7, is further 
+36 amended to read:
+37§11051.  Investigation, suspension and revocation of licenses
+38 The Bureau of Consumer Credit Protection may examine or investigate the records and 
+39 practices of any person the superintendent administrator believes has engaged in conduct 
+40 governed by this chapter in accordance with Title 9‑A, section 6‑106, may review and 
+41 approve collection letters proposed for use in this State and may charge for expenses 
+42 incurred pursuant to Title 9‑A, section 6‑106, subsection 6.  The superintendent may file a 1
+2
+Page 3 - 130LR0146(01)43 complaint with the District Court to suspend or revoke a license issued pursuant to this 
+44 chapter, if, after investigation or hearing, or both, the superintendent has reason to believe 
+45 that the licensee has violated any provisions of this chapter or any administrative rules 
+46 issued pursuant to this chapter, or has failed to maintain its financial condition sufficient to 
+47 qualify for a license on an original application.
+6 After notice and opportunity for hearing, the administrator may suspend or revoke a 
+7 licensee's license issued pursuant to this chapter if the administrator finds that:
+81.  Grounds for denial.  A fact or condition exists that, if it had existed at the time 
+9 when the licensee applied for its license, would have been grounds for denying the 
+10 application;
+112.  Violations.  The licensee has knowingly violated any material provision of this 
+12 chapter or any rule adopted or order validly issued by the administrator under authority of 
+13 this chapter;
+143.  Safety and soundness.  The licensee is conducting its business in an unsafe or 
+15 unsound manner;
+164.  Insolvency.  The licensee is insolvent;
+175.  Failure to meet obligations.  The licensee has suspended payment of its 
+18 obligations, has made an assignment for the benefit of its creditors or has admitted in 
+19 writing its inability to pay its debts as they become due;
+206.  Bankruptcy.  The licensee has applied for an adjudication of bankruptcy, 
+21 reorganization, arrangement or other relief under any bankruptcy;
+227.  Refusal of examination.  The licensee has refused to permit the administrator to 
+23 make an examination authorized by this chapter;
+248.  Failure to respond.  The licensee has failed to promptly and adequately respond to 
+25 communications from the administrator; or
+269.  Failure to file report.  The licensee has willfully failed to make a report required 
+27 by this chapter.
+28Sec. A-11.  32 MRSA §11051-B is enacted to read:
+29§11051-B.  Administrative enforcement orders
+301.  Cease and desist.  After notice and hearing, the administrator may order a person 
+31 to cease and desist from engaging in violations of this chapter or a lawful rule adopted or 
+32 order issued by the administrator and may further order that the person take appropriate 
+33 corrective action to reimburse consumers in cases in which consumers have been charged 
+34 amounts in excess of those permitted by this chapter. Notice and hearing need not be 
+35 provided prior to issuance of an order to cease and desist when, in the opinion of the 
+36 administrator, immediate action is required to protect the public interest and:
+37 A.  The debt collector has not complied with section 11031; or
+38 B.  The debt collector does not maintain a permanent place of business in this State.
+39 A respondent aggrieved by an order of the administrator may obtain judicial review of the 
+40 order in the Superior Court. The proceeding for review is initiated and conducted in 
+41 accordance with Title 5, chapter 375, subchapter 7.1
+2
+3
+4
+5
+Page 4 - 130LR0146(01)12.  Objection not urged; remand.  An objection not urged at the hearing under 
+2 subsection 1 may not be considered by the court unless the failure to urge the objection is 
+3 excused for good cause shown. A party may move the court to remand the case to the 
+4 administrator in the interest of justice for the purpose of adducing additional specified and 
+5 material evidence and seeking findings thereon upon good cause shown for the failure to 
+6 adduce this evidence before the administrator.
+73.  Testimony available to parties.  The administrator's copy of the testimony at the 
+8 hearing under subsection 1 must be available at reasonable times to all parties for 
+9 examination without cost.
+104.  Obtain decree.  If no proceeding is initiated under subsection 1, the administrator, 
+11 through the Attorney General, may obtain a decree of the Superior Court for enforcement 
+12 of its order upon showing that the order was issued in compliance with this section, that no 
+13 proceeding for review was timely initiated and that the respondent is subject to the 
+14 jurisdiction of the court. The decree of the Superior Court may also provide any relief 
+15 available in an action brought under Title 9-A, section 6-110.
+165.  Unconscionable agreements; fraudulent, unconscionable conduct.  With respect 
+17 to unconscionable agreements or fraudulent or unconscionable conduct by the respondent, 
+18 the administrator may not issue an order pursuant to this section, but, through the Attorney 
+19 General, may bring a civil action for an injunction.
+20Sec. A-12.  32 MRSA §11051-C is enacted to read:
+21§11051-C.  Assurance of discontinuance
+22 If it is claimed that a person has engaged in conduct that could be subject to an order 
+23 by the administrator or by a court, the administrator may accept an assurance in writing 
+24 that the person will not engage in the same or in similar conduct in the future. Such an 
+25 assurance may include any or any combination of the following: stipulations for the 
+26 voluntary payment by the debt collector of the costs of investigation or of an amount to be 
+27 held in escrow as restitution to debtors aggrieved by past or future conduct of the debt 
+28 collector or to cover costs of future investigation; or admissions of past specific acts by the 
+29 debt collector or that such acts violated this chapter or other statutes. A violation of an 
+30 assurance of discontinuance is a violation of this chapter.
+31Sec. A-13.  33 MRSA §527, as amended by PL 2001, c. 44, §11 and affected by 
+32 §14, is further amended to read:
+33§527.  Enforcement
+34 With respect to lenders that are supervised financial organizations as that term is 
+35 defined in Title 9‑A, section 1‑301, subsection 38‑A, a violation of this subchapter is 
+36 deemed an anticompetitive and deceptive practice and the Superintendent of Financial 
+37 Institutions may take appropriate action to ensure compliance with this subchapter.  With 
+38 respect to all other supervised lenders, as that term is defined in Title 9-A, section 1-301, 
+39 subsection 39, the Director of Consumer Credit Regulation Superintendent of Consumer 
+40 Credit Protection may take such action.
+41PART B
+42Sec. B-1.  9-A MRSA §6-105-A, as amended by PL 2011, c. 427, Pt. B, §§10 and 
+43 11, is further amended to read:
+Page 5 - 130LR0146(01)1§6-105-A.  Uniform multistate automated licensing system
+2 For the purposes of participating in the establishment and implementation of a uniform 
+3 multistate automated licensing system, referred to in this section as "the system," for loan 
+4 brokers, supervised lenders that are not supervised financial organizations and individual 
+5 mortgage loan originators thereof, or entities in other license categories processed by the 
+6 system that are licensed or registered by the administrator, the administrator may undertake 
+7 the following actions.
+81.   The administrator may establish new rules and procedures, consistent with the 
+9 principles for operation and implementation established by the system, that are necessary 
+10 for the State to participate in the system, including rules and procedures authorizing the 
+11 system to collect license fees on behalf of the State and remit those fees to the State, 
+12 authorizing collection fees by the system to pay for its services, authorizing the system to 
+13 process and maintain license records and authorizing use of the system's uniform forms, 
+14 upon the director's administrator's finding that each new rule or procedure is consistent with 
+15 the public interest and the purposes of this Act.  Rules adopted pursuant to this subsection 
+16 are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+172.   The administrator may require a credit and background investigation of each 
+18 applicant for a license as a loan broker, a supervised lender that is not a supervised financial 
+19 organization or a mortgage loan originator thereof, or entity in another license category 
+20 processed by the system that is licensed or registered by the administrator, by means 
+21 including fingerprint checks for state and national criminal histories, commencing at the 
+22 time the State joins the system pursuant to this section.  The cost of the investigations must 
+23 be charged to the applicants.  Information obtained or held by the administrator pursuant 
+24 to this subsection is nonpublic pursuant to section 6-116 and not subject to disclosure.
+25 Any information provided by or to the administrator pursuant to this section that has 
+26 been designated as confidential by another state's regulatory agency remains the property 
+27 of the agency furnishing the information and must be kept confidential by the administrator 
+28 and the system except as authorized by the agency that furnished the information.
+29Sec. B-2.  9-A MRSA §6-202, sub-§1, as amended by PL 2009, c. 228, §1, is 
+30 further amended to read:
+311.   Persons subject to this Part shall file notification with the administrator before 
+32 commencing business in this State, and, annually thereafter, on or before January 31st  of 
+33 each year  or an alternate date established by the administrator. The notification filings must 
+34 be made to the administrator and must be in a form and contain information that the 
+35 administrator considers appropriate for the proper supervision and regulation of such 
+36 persons.
+37PART C
+38Sec. C-1.  9-A MRSA §12-107, sub-§4, as enacted by PL 2007, c. 394, §1 and 
+39 affected by §3, is repealed.
+40PART D
+41Sec. D-1.  9-A MRSA §2-302, sub-§1, as amended by PL 2017, c. 106, §5, is 
+42 further amended to read:
+Page 6 - 130LR0146(01)11.   The administrator shall receive and act on all applications for licenses to make or 
+2 service supervised loans under this Act.  Applications must be filed in the manner 
+3 prescribed by the administrator and must contain the information required by the 
+4 administrator to make an evaluation of the financial responsibility, character and fitness of 
+5 the applicant.
+6 A.  For a lender subject to this subsection whose activities include making or arranging 
+7 residential mortgage loans, an The administrator may require an application for a 
+8 license to make or service supervised loans must to be made electronically , through the 
+9 nationwide mortgage licensing system and registry as defined in section 13-102, 
+10 subsection 8.  Licenses for which applications were made electronically through the 
+11 nationwide mortgage licensing system and registry expire December 31st of each year 
+12 and must be renewed through the nationwide mortgage licensing system and registry.  
+13 An application for an initial license must be accompanied by a fee of $250, and an 
+14 annual renewal application must be accompanied by a fee of $100.  An application for 
+15 an initial license or renewal for a place of business other than that of the applicant's 
+16 first licensed location must be accompanied by a fee of $100.  The administrator may 
+17 establish, by rule, fees to apply for or renew licenses, except that the fee for an initial 
+18 application may not exceed $1,000 and for a renewal may not exceed $600 for any 
+19 licensed location. Renewal applications received after the expiration date are subject 
+20 to a late fee of $100.  An applicant who applies through the nationwide mortgage 
+21 licensing system and registry must also pay a nationwide mortgage licensing system 
+22 and registry processing fee in an amount to be determined by the administrators of the 
+23 nationwide mortgage licensing system and registry.  A Fees set by the administrator by 
+24 rule for a nonprofit organization exempt from taxation under the United States Internal 
+25 Revenue Code, Section 501(c)(3) and engaged in the financing of housing for low-
+26 income people under a program designed specifically for that purpose must pay an 
+27 initial licensing fee, and a fee for each branch location, of $20 and a renewal licensing 
+28 fee and renewal fee for each branch location of $10, may not exceed $150 for an initial 
+29 application and $100 per year for a renewal for any licensed location, plus the 
+30 applicable nationwide mortgage licensing system and registry processing fee.
+31 B.  For a lender subject to this subsection whose activities do not include making or 
+32 arranging residential mortgage loans, an initial application for a license must be 
+33 accompanied by a $500 fee and a renewal application must include a $200 fee.  A 
+34 license is granted for a 2-year period and expires on September 30th of the 2nd year.  
+35 An application for an initial license or renewal for a place of business other than that 
+36 of the applicant's first licensed location must be accompanied by a fee of $200.
+37 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+38 chapter 375, subchapter 2-A.
+39Sec. D-2.  9-A MRSA §10-201, as repealed and replaced by PL 2013, c. 466, §7, is 
+40 amended to read:
+41§10-201.  Licensing and biennial relicensing  renewal licensing
+42 A person desiring to engage or continue in business in this State as a loan broker shall 
+43 apply to the administrator for a license under this Article as set forth in this section.  The 
+44 administrator may refuse the application if it contains erroneous or incomplete information.  
+45 A license may not be issued unless the administrator, upon investigation, finds that the 
+Page 7 - 130LR0146(01)46 financial responsibility, character and fitness of the applicant and, when applicable, its 
+47 partners, officers and directors and, when applicable, the character and fitness of its 
+48 mortgage loan originators, warrant belief that the business will be operated honestly and 
+49 fairly within the purposes of this Title.
+51.  Loan broker whose activities include arranging for or obtaining an extension 
+6of credit for a residential mortgage loan.  A loan broker subject to this section whose 
+7 activities include arranging for or obtaining an extension of credit for a residential mortgage 
+8 loan must apply for a license electronically through the nationwide mortgage licensing 
+9 system and registry. The initial application must include a fee of $300 and a renewal 
+10 application must include a fee of $150.  An application for a branch location license for a 
+11 location other than that of the first licensed location from which the applicant conducts 
+12 business or from which the applicant conducts business under a different name than that 
+13 listed on the first license must be accompanied by a license fee of $150 and an annual 
+14 renewal fee of $75.  The applicant must also pay such nationwide mortgage licensing 
+15 system and registry processing fees as are established by the nationwide mortgage licensing 
+16 system and registry.  A license expires on December 31st of each year and must be renewed 
+17 through the nationwide mortgage licensing system and registry. Notwithstanding other 
+18 remedies available under this Title, an application received after the due date is subject to 
+19 an additional fee of $100.  A licensed loan broker subject to this subsection may conduct 
+20 business only through a mortgage loan originator who possesses a current, valid license.
+212.  Loan broker whose activities do not include arranging for or obtaining an 
+22extension of credit for a residential mortgage loan.  The initial application for a license 
+23 as a loan broker subject to this section whose activities do not include arranging for or 
+24 obtaining an extension of credit for a residential mortgage loan must be made directly to 
+25 the administrator.  Initial licenses are granted for a period not to exceed 2 years and expire 
+26 January 31st.  The initial application must include a fee of $600, and a biennial relicensing 
+27 application must include a fee of $300.  An application for a branch location license for a 
+28 location other than that of the first licensed location from which the applicant conducts 
+29 business or from which the applicant conducts business under a different name than that 
+30 listed on the first license must be accompanied by a license fee of $300 and a biennial 
+31 renewal fee of $150.  Notwithstanding other remedies available under this Title, 
+32 applications received after the due date are subject to an additional fee of $100.
+333.  Nationwide mortgage licensing system and registry.  The administrator may 
+34 require licensing of loan brokers subject to this section through the nationwide mortgage 
+35 licensing system and registry as defined in section 13-102, subsection 8. The administrator 
+36 is authorized to participate in the nationwide mortgage licensing system and registry.
+374.  Fees and requirements.  In all cases, whether licensing of loan brokers subject to 
+38 this section is through the nationwide mortgage licensing system and registry as defined in 
+39 section 13-102, subsection 8 or otherwise, the administrator may establish, by rule, 
+40 requirements for licensing, including but not limited to:
+41 A.  Background checks for:
+42 (1)  Criminal history through fingerprint or other databases;
+43 (2)  Civil or administrative records;
+44 (3)  Credit history; or1
+2
+3
+4
+Page 8 - 130LR0146(01)1 (4)  Any other information determined necessary by the nationwide mortgage 
+2 licensing system and registry;
+3 B.  The payment of fees to apply for or renew licenses, except that the fee for an initial 
+4 application may not exceed $1,000 and for a yearly renewal may not exceed $600. If 
+5 licensing is through the nationwide mortgage licensing system and registry, an 
+6 applicant must also pay a nationwide mortgage licensing system and registry 
+7 processing fee in an amount to be determined by the administrators of the nationwide 
+8 mortgage licensing system and registry. Renewal applications received after the due 
+9 date are subject to an additional fee of $100;
+10 C.  The setting or resetting as necessary of renewal or reporting dates; and
+11 D.  Other requirements for application for, amendment of or revocation of a license or 
+12 any other such activities as the administrator considers necessary.
+13 A licensed loan broker whose activities include arranging for or obtaining an extension 
+14 of credit for a residential mortgage loan may conduct business only through a mortgage 
+15 loan originator who possesses a current, valid license.
+16 The administrator may direct each licensee to file composite annual and quarterly 
+17 reports relating to all brokered loans arranged or obtained by that licensee. Information 
+18 contained in annual and quarterly reports is confidential and may be published only in 
+19 composite form. The administrator may at any time require additional reports if the 
+20 administrator determines such action necessary to the proper supervision of licensees.
+21 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+22 chapter 375, subchapter 2-A.
+23Sec. D-3.  9-A MRSA §12-106, sub-§2, as enacted by PL 2007, c. 394, §1 and 
+24 affected by §3, is amended to read:
+252.   Registration must be filed in the manner prescribed by the administrator and must 
+26 contain the information the administrator requires to make an evaluation of the character, 
+27 fitness and financial responsibility of the applicant.  The initial application must be 
+28 accompanied by a $500 fee.  A renewal registration must include a $200 fee.  A registration 
+29 must be renewed every 2 years and expires on September 30th.  The administrator may 
+30 require registration through the nationwide mortgage licensing system and registry as 
+31 defined in section 13-102, subsection 8. The administrator is authorized to participate in 
+32 the nationwide mortgage licensing system and registry.
+33 In all cases, whether registration is through the nationwide mortgage licensing system and 
+34 registry or otherwise, the administrator may establish, by rule, requirements for 
+35 registration, including but not limited to:
+36 A.  Background checks for:
+37 (1)  Criminal history through fingerprint or other databases;
+38 (2)  Civil or administrative records;
+39 (3)  Credit history; or
+40 (4)  Any other information determined necessary by the nationwide mortgage 
+41 licensing system and registry;
+Page 9 - 130LR0146(01)1 B.  The payment of fees to apply for or renew registrations, except that the fee for an 
+2 initial application may not exceed $800 and for a renewal may not exceed $500. If 
+3 registration is through the nationwide mortgage licensing system and registry, an 
+4 applicant must also pay a nationwide mortgage licensing system and registry 
+5 processing fee in an amount to be determined by the administrators of the nationwide 
+6 mortgage licensing system and registry. Renewal applications received after the due 
+7 date are subject to an additional fee of $100;
+8 C.  The setting or resetting as necessary of renewal or reporting dates; and
+9 D.  Other requirements for application for, amendment of or revocation of a registration 
+10 or any other such activities as the administrator considers necessary.
+11 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+12 chapter 375, subchapter 2-A.
+13Sec. D-4.  10 MRSA §1310-A, sub-§1, ¶G, as enacted by PL 2013, c. 228, §1, is 
+14 repealed and the following enacted in its place:
+15 G.  Require registration of consumer reporting agencies located in this State or serving 
+16 users within this State through the nationwide mortgage licensing system and registry 
+17 as defined in Title 9-A, section 13-102, subsection 8.  The administrator is authorized 
+18 to participate in the nationwide mortgage licensing system and registry.
+19 In all cases, whether licensing is through the nationwide mortgage licensing system 
+20 and registry, as defined in Title 9-A, section 13-102, subsection 8, or otherwise, the 
+21 administrator may establish, by rule, requirements for registration, including but not 
+22 limited to:
+23 (1)  Background checks for:
+24 (a)  Criminal history through fingerprint or other databases;
+25 (b)  Civil or administrative records;
+26 (c)  Credit history; or
+27 (d)  Any other information determined necessary by the nationwide mortgage 
+28 licensing system and registry;
+29 (2)  The payment of fees to apply for or renew registrations, except that the fee for 
+30 an initial application may not exceed $500 and for a renewal may not exceed $500. 
+31 If licensing is through the nationwide mortgage licensing system and registry, an 
+32 applicant must also pay a nationwide mortgage licensing system and registry 
+33 processing fee in an amount to be determined by the administrators of the 
+34 nationwide mortgage licensing system and registry. Renewal applications received 
+35 after the due date are subject to an additional fee of $100;
+36 (3)  The setting or resetting as necessary of renewal or reporting dates; and
+37 (4)  Other requirements for application for, amendment of or revocation of a 
+38 registration or any other such activities as the administrator considers necessary.
+39 Rules adopted pursuant to this paragraph are routine technical rules as defined in Title 
+40 5, chapter 375, subchapter 2-A.
+Page 10 - 130LR0146(01)1Sec. D-5.  10 MRSA §1396, sub-§2, as enacted by PL 2009, c. 61, §1, is amended 
+2 to read:
+32.  Issuance of license; requirements; fees.  An application for a license as an 
+4 exchange facilitator must be in writing and filed with the administrator in the manner and 
+5 form prescribed by the administrator. The administrator shall set an application fee for a 
+6 primary office not to exceed $350 and for any branch offices not to exceed $200. All funds 
+7 received by the administrator under this chapter are appropriated for the use of the 
+8 administrator.  The administrator may require licensing through the nationwide mortgage 
+9 licensing system and registry as defined in Title 9-A, section 13-102, subsection 8. The 
+10 administrator is authorized to participate in the nationwide mortgage licensing system and 
+11 registry.
+12 In all cases, whether licensing is through the nationwide mortgage licensing system and 
+13 registry or otherwise, the administrator may establish, by rule, requirements for licensing, 
+14 including but not limited to:
+15 A.  Background checks for:
+16 (1)  Criminal history through fingerprint or other databases;
+17 (2)  Civil or administrative records;
+18 (3)  Credit history; or
+19 (4)  Any other information determined necessary by the nationwide mortgage 
+20 licensing system and registry;
+21 B.  The payment of fees to apply for or renew licenses, except that the fee for an initial 
+22 application may not exceed $600 and for a renewal may not exceed $500. If licensing 
+23 is through the nationwide mortgage licensing system and registry, an applicant must 
+24 also pay a nationwide mortgage licensing system and registry processing fee in an 
+25 amount to be determined by the administrators of the nationwide mortgage licensing 
+26 system and registry. Renewal applications received after the due date are subject to an 
+27 additional fee of $100;
+28 C.  The setting or resetting as necessary of renewal or reporting dates; and
+29 D.  Other requirements for application for, amendment of or revocation of a license or 
+30 any other such activities as the administrator considers necessary.
+31 All funds received by the administrator under this chapter are appropriated for the use of 
+32 the administrator, and any balance of the funds does not lapse but must be carried forward 
+33 to be expended for the same purposes in the following fiscal year.
+34 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+35 chapter 375, subchapter 2-A.
+36Sec. D-6.  10 MRSA §1396, sub-§3, as enacted by PL 2009, c. 61, §1, is repealed.
+37Sec. D-7.  10 MRSA §1400-B, sub-§1, as enacted by PL 2009, c. 61, §2, is 
+38 amended to read:
+391.  Registration.  A person may not directly or indirectly engage in or carry on, or 
+40 purport to engage in or carry on, the business of, or act in the capacity of, a settlement 
+41 agency in this State without first registering with the administrator in accordance with this 
+Page 11 - 130LR0146(01)42 chapter. The registration must be in a manner and form prescribed by the administrator. 
+43 The administrator shall set a registration fee for a primary office or a branch office not to 
+44 exceed $25. All funds received by the administrator under this chapter are appropriated for 
+45 the use of the administrator.  The administrator may require registration through the 
+46 nationwide mortgage licensing system and registry as defined in Title 9-A, section 13-102, 
+47 subsection 8. The administrator is authorized to participate in the nationwide mortgage 
+48 licensing system and registry.
+8 In all cases, whether registration is through the nationwide mortgage licensing system and 
+9 registry or otherwise, the administrator may establish, by rule, requirements for 
+10 registration, including but not limited to:
+11 A.  Background checks for:
+12 (1)  Criminal history through fingerprint or other databases;
+13 (2)  Civil or administrative records;
+14 (3)  Credit history; or
+15 (4)  Any other information determined necessary by the nationwide mortgage 
+16 licensing system and registry;
+17 B.  The payment of fees to apply for or renew registrations, except that the fee for an 
+18 initial application may not exceed $300 and for a renewal may not exceed $300. If 
+19 registration is through the nationwide mortgage licensing system and registry, an 
+20 applicant must also pay a nationwide mortgage licensing system and registry 
+21 processing fee in an amount to be determined by the administrators of the nationwide 
+22 mortgage licensing system and registry. Renewal applications received after the due 
+23 date are subject to an additional fee of $100;
+24 C.  The setting or resetting as necessary of renewal or reporting dates; and
+25 D.  Other requirements for application for, amendment of or revocation of a registration 
+26 or any other such activities as the administrator considers necessary.
+27 All funds received by the administrator under this chapter are appropriated for the use of 
+28 the administrator, and any balance of the funds does not lapse but must be carried forward 
+29 to be expended for the same purposes in the following fiscal year.
+30 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+31 chapter 375, subchapter 2-A.
+32Sec. D-8.  10 MRSA §1400-B, sub-§3, as enacted by PL 2009, c. 61, §2, is 
+33 amended to read:
+343.  Renewal.  On or before April 30th of each year, a settlement agency registered 
+35 under this chapter shall pay an annual renewal fee of $25 as determined pursuant to 
+36 subsection 1 and shall file with the administrator a renewal form containing such 
+37 information as the administrator may require.
+38Sec. D-9.  10 MRSA §1495-D, sub-§1-A is enacted to read:
+391-A.  License requirements; fees.  The administrator may require licensing under this 
+40 section through the nationwide mortgage licensing system and registry as defined in Title 1
+2
+3
+4
+5
+6
+7
+Page 12 - 130LR0146(01)41 9-A, section 13-102, subsection 8. The administrator is authorized to participate in the 
+42 nationwide mortgage licensing system and registry.
+3 In all cases, whether licensing is through the nationwide mortgage licensing system and 
+4 registry or otherwise, the administrator may establish, by rule, requirements for licensing, 
+5 including but not limited to:
+6 A.  Background checks for:
+7 (1) Criminal history through fingerprint or other databases;
+8 (2) Civil or administrative records;
+9 (3) Credit history; or
+10 (4) Any other information determined necessary by the nationwide mortgage 
+11 licensing system and registry;
+12 B.  The payment of fees to apply for or renew licenses, except that the fee for an initial 
+13 application may not exceed $1,200 and for a renewal may not exceed $1,200. If 
+14 licensing is through the nationwide mortgage licensing system and registry, an 
+15 applicant must also pay a nationwide mortgage licensing system and registry 
+16 processing fee in an amount to be determined by the administrators of the nationwide 
+17 mortgage licensing system and registry. Renewal applications received after the due 
+18 date are subject to an additional fee of $100;
+19 C.  The setting or resetting as necessary of renewal or reporting dates; and
+20 D.  Other requirements for application for, amendment of or revocation of a license or 
+21 any other such activities as the administrator considers necessary.
+22 The aggregate of license fees and other fees and assessments provided for by this chapter 
+23 is appropriated for the use of the administrator. Any balance of these funds does not lapse 
+24 but must be carried forward to be expended for the same purpose in the following fiscal 
+25 year.
+26 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+27 chapter 375, subchapter 2-A.
+28Sec. D-10.  10 MRSA §1495-D, sub-§4, as repealed and replaced by PL 2011, c. 
+29 308, §5, is repealed.
+30Sec. D-11.  10 MRSA §1500-H, sub-§6, as repealed and replaced by PL 2017, c. 
+31 475, Pt. A, §13, is amended to read:
+326.  Enforcement.  The superintendent may require the filing of notification by an 
+33 administrator pursuant to Title 9‑A, section 6‑202 and section 6‑203, subsection 1.  The 
+34 superintendent may require the filing of waivers in use by an administrator.  Upon request 
+35 by the superintendent, an administrator shall annually file a record of waivers administered 
+36 by the administrator.
+37 The superintendent may take action that is necessary or appropriate to enforce the 
+38 provisions of this chapter and to protect borrowers who hold waivers in this State.  In cases 
+39 in which a credit union or financial institution authorized to do business in this State, as 
+40 defined in Title 9‑B, section 131, subsections 12-A and 17-A, is a creditor, the 1
+2
+Page 13 - 130LR0146(01)41 Superintendent of Financial Institutions is responsible for enforcement.  After notice and 
+42 opportunity for hearing, the superintendent may:
+3 A.  Order the creditor, administrator or any other person not in compliance with this 
+4 chapter to cease and desist from further waiver-related operations that are in violation 
+5 of this chapter; and
+6 B.  Impose a penalty of not more than $500 per violation and not more than $10,000 in 
+7 the aggregate for all violations of a similar nature.  For purposes of this paragraph, 
+8 violations must be considered of a similar nature if the violations consist of the same 
+9 or a similar course of conduct, action or practice, irrespective of the number of times 
+10 the conduct, action or practice that is determined to be a violation of this chapter 
+11 occurred.
+12Sec. D-12.  10 MRSA §1500-H, sub-§6-A is enacted to read:
+136-A.  Registration; fees.  The superintendent may require registration of an 
+14 administrator that may include use of the nationwide mortgage licensing system and 
+15 registry as defined in Title 9-A, section 13-102, subsection 8. The administrator is 
+16 authorized to participate in the nationwide mortgage licensing system and registry.
+17 In all cases, whether registration is through the nationwide mortgage licensing system and 
+18 registry or otherwise, the administrator may establish, by rule, requirements for 
+19 registration, including but not limited to:
+20 A.  Background checks for:
+21 (1) Criminal history through fingerprint or other databases;
+22 (2) Civil or administrative records;
+23 (3) Credit history; or
+24 (4) Any other information determined necessary by the nationwide mortgage 
+25 licensing system and registry;
+26 B.  The payment of fees to apply for or renew registrations, except that the fee for an 
+27 initial application may not exceed $300 and for a renewal may not exceed $300. If 
+28 registration is through the nationwide mortgage licensing system and registry, an 
+29 applicant must also pay a nationwide mortgage licensing system and registry 
+30 processing fee in an amount to be determined by the administrators of the nationwide 
+31 mortgage licensing system and registry. Renewal applications received after the due 
+32 date are subject to an additional fee of $100;
+33 C.  The setting or resetting as necessary of renewal or reporting dates; and
+34 D.  Other requirements for application for, amendment of or revocation of a registration 
+35 or any other such activities as the administrator considers necessary.
+36 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+37 chapter 375, subchapter 2-A.
+38Sec. D-13.  10 MRSA §1500-H, sub-§7, ¶B, as repealed and replaced by PL 2017, 
+39 c. 475, Pt. A, §13, is amended to read:1
+2
+Page 14 - 130LR0146(01)1 B.  Subsection 2, paragraph C and subsections 4 and , 6 and 6-A are not applicable to a 
+2 waiver offered in connection with a retail installment sale associated with a commercial 
+3 transaction.
+4Sec. D-14.  32 MRSA §6103, sub-§3 is enacted to read:
+53.  Nationwide mortgage licensing system and registry.  The administrator may 
+6 require licensing under this section through the nationwide mortgage licensing system and 
+7 registry as defined in Title 9-A, section 13-102, subsection 8. The administrator is 
+8 authorized to participate in the nationwide mortgage licensing system and registry.
+9Sec. D-15.  32 MRSA §6103, sub-§4 is enacted to read:
+104.  License requirements; fees.  In all cases, whether licensing is through the 
+11 nationwide mortgage licensing system and registry as defined in Title 9-A, section 13-102, 
+12 subsection 8 or otherwise, the administrator may establish, by rule, requirements for 
+13 licensing under this section, including but not limited to:
+14 A.  Background checks for:
+15 (1) Criminal history through fingerprint or other databases;
+16 (2) Civil or administrative records;
+17 (3) Credit history; or
+18 (4) Any other information determined necessary by the nationwide mortgage 
+19 licensing system and registry;
+20 B.  The payment of fees to apply for or renew licenses, except that the fee for an initial 
+21 application may not exceed $1,200 and for a renewal may not exceed $1,000. If 
+22 licensing is through the nationwide mortgage licensing system and registry, an 
+23 applicant must also pay a nationwide mortgage licensing system and registry 
+24 processing fee in an amount to be determined by the administrators of the nationwide 
+25 mortgage licensing system and registry. Renewal applications received after the due 
+26 date are subject to an additional fee of $100;
+27 C.  The setting or resetting as necessary of renewal or reporting dates; and
+28 D.  Other requirements for application for, amendment of or revocation of a license or 
+29 any other such activities as the administrator considers necessary.
+30 In addition, the application or renewal application must be accompanied by a registration 
+31 fee of $50 for each authorized delegate designated by the licensee, up to a maximum of 
+32 $2,500.
+33 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+34 chapter 375, subchapter 2-A.
+35Sec. D-16.  32 MRSA §6108, as enacted by PL 1997, c. 155, Pt. A, §2, is repealed.
+36Sec. D-17.  32 MRSA §6110, sub-§1, as enacted by PL 1997, c. 155, Pt. A, §2, is 
+37 repealed.
+38Sec. D-18.  32 MRSA §6110, sub-§2, as enacted by PL 1997, c. 155, Pt. A, §2, is 
+39 amended to read:
+Page 15 - 130LR0146(01)12.  Annual Renewal fee; annual report.  The renewal fee established pursuant to 
+2 section 6103, subsection 4 must be accompanied by a report in a form prescribed by the 
+3 administrator.  The form must be sent by the administrator to each licensee no later than 3 
+4 months immediately preceding the date established by the administrator for license 
+5 renewal.  The licensee must include the following in its annual renewal report:
+6 A.  A copy of its most recent audited annual financial statement, including balance 
+7 sheet, statement of income or loss, statement of changes in shareholder's equity and 
+8 statement of changes in financial position.  With the approval of the administrator, in 
+9 the case of a licensee that is a wholly owned subsidiary of another corporation, the 
+10 consolidated audited annual financial statement of the parent corporation may be filed 
+11 in lieu of the licensee's audited annual financial statement;
+12 B.  For the most recent quarter for which data are available prior to the date of the filing 
+13 of the renewal application, but in no event more than 120 days prior to the renewal 
+14 date, the number of payment instruments sold by the licensee in the State, the dollar 
+15 amount of those instruments and the dollar amount of those instruments currently 
+16 outstanding;
+17 C.  Any material changes to any of the information submitted by the licensee on its 
+18 original application that have not previously been reported to the administrator on any 
+19 other report required to be filed under this subchapter; and
+20 D.  A list of the locations within this State at which business regulated by this 
+21 subchapter is being conducted by either the licensee or its authorized delegate.
+22 The administrator is authorized, for good cause shown, to waive any requirement of this 
+23 subsection with respect to any renewal application or to permit a renewal applicant to 
+24 submit substituted information in its renewal application in lieu of the information required 
+25 by this subsection.
+26Sec. D-19.  32 MRSA §6110, sub-§3, as enacted by PL 1997, c. 155, Pt. A, §2, is 
+27 amended to read:
+283.  Suspension.  A licensee that has not filed a renewal report or paid its renewal fee 
+29 established pursuant to section 6103, subsection 4 by the renewal filing deadline and has 
+30 not been granted an extension of time to do so by the administrator must be notified by the 
+31 administrator, in writing, that its license is suspended.  At the licensee's request, the 
+32 suspension may be stayed, and a hearing will be scheduled, at which time the licensee will 
+33 be required to show cause why its license should not be suspended pending compliance 
+34 with these requirements.
+35Sec. D-20.  32 MRSA §6133, sub-§2, as enacted by PL 1997, c. 155, Pt. A, §2, is 
+36 amended to read:
+372.  Additional locations.  A registrant may conduct its business in this State at one or 
+38 more locations, directly or indirectly owned, or through one or more authorized delegates, 
+39 subject to the additional requirements set forth in this section  6137.
+40Sec. D-21.  32 MRSA §6133, sub-§3 is enacted to read:
+413.  Nationwide mortgage licensing system and registry.  The administrator may 
+42 require registration under this section through the nationwide mortgage licensing system 
+Page 16 - 130LR0146(01)43 and registry as defined in Title 9-A, section 13-102, subsection 8. The administrator is 
+44 authorized to participate in the nationwide mortgage licensing system and registry.
+3Sec. D-22.  32 MRSA §6133, sub-§4 is enacted to read:
+44.  Registration requirements; fees.  In all cases, whether registration is through the 
+5 nationwide mortgage licensing system and registry as defined in Title 9-A, section 13-102, 
+6 subsection 8 or otherwise, the administrator may establish, by rule, requirements for 
+7 registration under this section, including but not limited to:
+8 A.  Background checks for:
+9 (1) Criminal history through fingerprint or other databases;
+10 (2) Civil or administrative records;
+11 (3) Credit history; or
+12 (4) Any other information determined necessary by the nationwide mortgage 
+13 licensing system and registry;
+14 B.  The payment of fees to apply for or renew registrations, including for locations 
+15 other than the applicant's main office location, except that the fee for an initial 
+16 application may not exceed $500 and for a renewal may not exceed $500. If registration 
+17 is through the nationwide mortgage licensing system and registry, an applicant must 
+18 also pay a nationwide mortgage licensing system and registry processing fee in an 
+19 amount to be determined by the administrators of the nationwide mortgage licensing 
+20 system and registry. Renewal applications received after the due date are subject to an 
+21 additional fee of $100;
+22 C.  The setting or resetting as necessary of renewal or reporting dates; and
+23 D.  Other requirements for application for, amendment of or revocation of a registration 
+24 or any other such activities as the administrator considers necessary.
+25 The aggregate of all fees, including those provided for by this section and in section 6140, 
+26 is appropriated for the use of the administrator. Any balance of the funds does not lapse but 
+27 must be carried forward to be expended for the same purposes in the following fiscal year.
+28 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+29 chapter 375, subchapter 2-A.
+30Sec. D-23.  32 MRSA §6137, as enacted by PL 1997, c. 155, Pt. A, §2, is repealed.
+31Sec. D-24.  32 MRSA §6173, as amended by PL 2009, c. 243, §4, is further amended 
+32 to read:
+33§6173.  Registration and annual reregistration
+342.  Registration and reregistration.  An organization desiring to act, or continue to 
+35 act, as a debt management service provider shall apply to the administrator for registration 
+36 or reregistration in accordance with this chapter.  The application must be in a form 
+37 prescribed by the administrator.  The administrator may refuse the application if it contains 
+38 erroneous or incomplete information.  A registration may not be issued unless the 
+39 administrator, upon investigation, finds that the financial soundness and responsibility, 
+40 insurance coverage, consumer education programs and services component, character and 
+41 fitness of the applicant and, when applicable, its partners, officers or directors, warrant 1
+2
+Page 17 - 130LR0146(01)42 belief that the business will be operated honestly and fairly within the purposes of this 
+43 chapter.  The initial application for registration may be filed at any time and must include 
+44 a fee of $500.  A registration or reregistration under this chapter expires on December 31st 
+45 of the year approved.  An annual reregistration application must be filed by December 1st 
+46 of each year for the following year and must include a fee of $250.
+62-A.  Separate registration required.  A separate registration is required for each 
+7 place of business.  An application fee of $250 must accompany an application for 
+8 registration for a place of business other than that of the first registered location of the 
+9 registrant.
+102-B.  Registration requirements; fees.  The administrator may require registration 
+11 under this section through the nationwide mortgage licensing system and registry as 
+12 defined in Title 9-A, section 13-102, subsection 8. The administrator is authorized to 
+13 participate in the nationwide mortgage licensing system and registry.
+14 In all cases, whether registration is through the nationwide mortgage licensing system and 
+15 registry or otherwise, the administrator may establish, by rule, requirements for 
+16 registration, including but not limited to:
+17 A.  Background checks for:
+18 (1)  Criminal history through fingerprint or other databases;
+19 (2)  Civil or administrative records;
+20 (3)  Credit history; or
+21 (4)  Any other information determined necessary by the nationwide mortgage 
+22 licensing system and registry;
+23 B.  The payment of fees to apply for registrations or reregistrations, except that the fee 
+24 for an initial application may not exceed $800 and for a reregistration may not exceed 
+25 $600. If registration is through the nationwide mortgage licensing system and registry, 
+26 an applicant must also pay a nationwide mortgage licensing system and registry 
+27 processing fee in an amount to be determined by the administrators of the nationwide 
+28 mortgage licensing system and registry. Reregistration applications received after the 
+29 due date are subject to an additional fee of $100;
+30 C.  The setting or resetting as necessary of reregistration or reporting dates; and
+31 D.  Other requirements for application for, amendment of or revocation of a registration 
+32 or any other such activities as the administrator considers necessary.
+333.  Action on registration application.  The administrator shall take action on an 
+34 application within 30 days after the administrator has accepted the application as complete.  
+35 Upon written request, the applicant is entitled to a hearing on the question of the applicant's 
+36 qualifications for registration if the administrator has notified the applicant in writing that 
+37 the application has been denied or the administrator has not issued a registration within 30 
+38 days after the application for the registration was accepted as complete by the administrator.  
+39 A request for a hearing may not be made more than 60 days after the application was 
+40 accepted as complete or the administrator has mailed a written notice to the applicant 
+41 stating that the application has been denied and stating the reasons for the denial of the 
+42 application.1
+2
+3
+4
+5
+Page 18 - 130LR0146(01)1 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+2 chapter 375, subchapter 2-A.
+3Sec. D-25.  32 MRSA §6193, as enacted by PL 2007, c. 596, §1, is amended to read:
+4§6193.  License required; license requirements; fees
+5 A foreclosure purchaser may not engage in the business of foreclosure purchasing in 
+6 this State without first obtaining a license from the administrator, except that a supervised 
+7 financial organization as defined in Title 9‑A, section 1‑301, subsection 38‑A is not 
+8 required to be licensed. The requirements for obtaining a license under this chapter must 
+9 be substantially similar to the requirements for a supervised lender license as provided in 
+10 Title 9‑A, section 2‑301.  The administrator may require licensing through the nationwide 
+11 mortgage licensing system and registry as defined in Title 9-A, section 13-102, subsection 
+12 8 and referred to in this section as "the nationwide mortgage licensing system and registry." 
+13 The administrator is authorized to participate in the nationwide mortgage licensing system 
+14 and registry.
+15 In all cases, whether licensing is through the nationwide mortgage licensing system 
+16 and registry or otherwise, the administrator may establish, by rule or order, requirements 
+17 for licensing, including but not limited to:
+181.  Background checks.  Background checks for:
+19 A.  Criminal history through fingerprint or other databases;
+20 B.  Civil or administrative records;
+21 C.  Credit history; or
+22 D.  Any other information determined necessary by the nationwide mortgage licensing 
+23 system and registry;
+242.  Fees.  The payment of fees to apply for or renew licenses, except that the fee for an 
+25 initial application may not exceed $1,000 and for a renewal may not exceed $600. If 
+26 licensing is through the nationwide mortgage licensing system and registry, an applicant 
+27 must also pay a nationwide mortgage licensing system and registry processing fee in an 
+28 amount to be determined by the administrators of the nationwide mortgage licensing 
+29 system and registry. Renewal applications received after the due date are subject to an 
+30 additional fee of $100;
+313.  Dates.  The setting or resetting as necessary of renewal or reporting dates; and
+324.  Other requirements.  Other requirements for application for, amendment of or 
+33 revocation of a license or any other such activities as the administrator considers necessary.
+34 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+35 chapter 375, subchapter 2-A.
+36Sec. D-26.  32 MRSA §11031, sub-§2, as amended by PL 2009, c. 243, §6, is 
+37 further amended to read:
+382.  Licenses.  Licenses granted by the superintendent under this section are for a period 
+39 of 2 years and expire on July 31st or at such other times as the superintendent may 
+40 designate.  Each license may be renewed biennially as long as the superintendent regards 
+41 the business as responsible and safe, but in all cases terminate unless renewed by the 
+Page 19 - 130LR0146(01)42 expiration date. Each license must plainly state the name and business address of the 
+43 licensee and be posted in a conspicuous place in the office where the business is transacted.  
+44 The fee for each biennial license is $600.  When the unexpired license term of an applicant 
+45 is or will be less than one year at a time of licensure, the license fee may not exceed 1/2 the 
+46 biennial license fee.  The superintendent may permit affiliated companies to be under a 
+47 single license and subject to a single examination as long as all of the affiliated company 
+48 names are listed on the license. The superintendent may adopt rules to determine what 
+49 constitutes an affiliated company.  Rules adopted pursuant to this subsection are routine 
+50 technical rules as defined in Title 5, chapter 375, subchapter 2-A.  If a licensee desires to 
+51 carry on business in more than one place, the licensee shall procure a branch office license 
+52 for each additional place where the business is to be conducted.  The fee for each biennial 
+53 branch office license is $300.  Notwithstanding other remedies available under this chapter, 
+54 applications received after the due date are subject to an additional fee of $100.  The 
+55 administrator may require licensing through the nationwide mortgage licensing system and 
+56 registry as defined in Title 9-A, section 13-102, subsection 8. The administrator is 
+57 authorized to participate in the nationwide mortgage licensing system and registry.
+17 In all cases, whether licensing is through the nationwide mortgage licensing system and 
+18 registry or otherwise, the administrator may establish, by rule, requirements for licensing, 
+19 including but not limited to:
+20 A.  Background checks for:
+21 (1)  Criminal history through fingerprint or other databases;
+22 (2)  Civil or administrative records;
+23 (3)  Credit history; or
+24 (4)  Any other information determined necessary by the nationwide mortgage 
+25 licensing system and registry;
+26 B.  The payment of fees to apply for or renew licenses, except that the fee for an initial 
+27 application may not exceed $800 and for a renewal may not exceed $500. If licensing 
+28 is through the nationwide mortgage licensing system and registry, an applicant must 
+29 also pay a nationwide mortgage licensing system and registry processing fee in an 
+30 amount to be determined by the administrators of the nationwide mortgage licensing 
+31 system and registry. Renewal applications received after the due date are subject to an 
+32 additional fee of $100;
+33 C.  The setting or resetting as necessary of renewal or reporting dates; and
+34 D.  Other requirements for application for, amendment of or revocation of a license or 
+35 any other such activities as the administrator considers necessary.
+36 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+37 chapter 375, subchapter 2-A.
+38Sec. D-27.  32 MRSA §14053, as amended by PL 1997, c. 29, §1, is further amended 
+39 to read:
+40§14053.  Registration process requirements
+411.  Statement.  Except as otherwise provided in this section, each employee leasing 
+42 company required to be registered under section 14052 shall provide the superintendent 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Page 20 - 130LR0146(01)43 with information required by the superintendent on forms that the superintendent specifies.  
+44 At a minimum, employee leasing companies shall provide the following information:  The 
+45 superintendent may require registration through the nationwide mortgage licensing system 
+46 and registry as defined in Title 9-A, section 13-102, subsection 8. The superintendent is 
+47 authorized to participate in the nationwide mortgage licensing system and registry.
+6 The superintendent shall, at a minimum, require employee leasing companies to provide 
+7 the following information:
+8 A.  The name or names under which the registrant conducts business;
+9 B.  The address of the principal place of business of the employee leasing company 
+10 and the address of each office it maintains in this State;
+11 C.  The employee leasing company's taxpayer or employer identification number;
+12 D.  A list by jurisdiction of each name under which the employee leasing company has 
+13 operated in the preceding 5 years, including any alternative names, names of 
+14 predecessors and, if known, successor business entities;
+15 E.  A list of all persons or entities that own a 5% or greater interest in the employee 
+16 leasing company at the time of application and a list of persons who formerly owned a 
+17 5% or greater interest in the employee leasing company or its predecessors in the 
+18 preceding 5 years; and
+19 F.  A list of the cancellations or nonrenewals of workers' compensation insurance 
+20 issued to the employee leasing company or its predecessors in the preceding 5 years.  
+21 The list must include the policy or certificate numbers, names of insurers or other 
+22 providers of coverage, dates of cancellation and reasons for cancellation.  If coverage 
+23 has not been canceled or has been renewed, the registration must include a sworn 
+24 affidavit signed by the chief executive officer of the employee leasing company 
+25 attesting to that fact.
+261-A.  Registration process authorized.  In all cases, whether registration is through 
+27 the nationwide mortgage licensing system and registry as defined in Title 9-A, section 
+28 13-102, subsection 8 or otherwise, the superintendent may establish, by rule, requirements 
+29 for registration, including but not limited to:
+30 A.  Background checks for:
+31 (1)  Criminal history through fingerprint or other databases;
+32 (2)  Civil or administrative records;
+33 (3)  Credit history; or
+34 (4)  Any other information determined necessary by the nationwide mortgage 
+35 licensing system and registry;
+36 B.  The payment of fees to apply for or renew registrations, except that the fee for an 
+37 initial application may not exceed $1,000 and for a renewal may not exceed $500. If 
+38 registration is through the nationwide mortgage licensing system and registry, an 
+39 applicant must also pay a nationwide mortgage licensing system and registry 
+40 processing fee in an amount to be determined by the administrators of the nationwide 
+41 mortgage licensing system and registry. Renewal applications received after the due 
+42 date are subject to an additional fee of $100;1
+2
+3
+4
+5
+Page 21 - 130LR0146(01)1 C.  The setting or resetting as necessary of any renewal or reporting dates; and
+2 D.  Other requirements for application for, amendment of or revocation of a registration 
+3 or any other such activities as the superintendent considers necessary.
+4 Fees provided for by this chapter are appropriated for the use of the Bureau of Consumer 
+5 Credit Protection. Any balance of these funds does not lapse but must be carried forward 
+6 to be expended for the same purpose in the following year.
+72.  Renewal.  Prior to January 31st of each year or any other time fixed by the 
+8 superintendent, each registrant shall renew its registration by notifying the superintendent 
+9 of any changes in the information previously provided pursuant to this section.
+103.  List.  The superintendent shall maintain a list of employee leasing companies 
+11 registered under this chapter.
+124.  Forms.  The superintendent may prescribe forms necessary to promote the efficient 
+13 administration of this section.
+14 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+15 chapter 375, subchapter 2-A.
+16Sec. D-28.  32 MRSA §14054, as amended by PL 2013, c. 257, §2, is repealed.
+17PART E
+18Sec. E-1.  32 MRSA §11013, sub-§11 is enacted to read:
+1911.  Collection action prohibited on debt from medical expenses if eligible for free 
+20or charity care.  A debt collector may not collect or attempt to collect a debt from medical 
+21 expenses against a consumer who has been determined to be qualified for free or charity 
+22 care under guidelines adopted pursuant to Title 22, section 1716, or against a consumer 
+23 who would have been determined to be qualified for free or charity care under guidelines 
+24 adopted pursuant to Title 22, section 1716 but did not apply for good cause.
+25PART F
+26Sec. F-1.  32 MRSA §11019, sub-§1, as enacted by PL 2017, c. 216, §6, is amended 
+27 to read:
+281.  Complaint; required allegations.  A debt buyer may not initiate a collection action 
+29 against a consumer, including an action brought in small claims court pursuant to Title 14, 
+30 chapter 738, unless the debt buyer alleges all of the following information in the complaint:
+31 A.  The information described in section 11013, subsection 9, including that the debt 
+32 buyer possesses the documentation described in section 11013, subsection 9;
+33 B.  The basis for any interest and fees described in section 11013, subsection 9;
+34 C.  The basis for the request for attorney's fees, if applicable;
+35 D.  That the debt buyer is the current owner of the debt; and
+36 E.  That the cause of action is filed within the applicable statute of limitations period.
+37Sec. F-2.  32 MRSA §11020 is enacted to read:
+38§11020.  Collection action to collect credit card and student loan debts; additional 
+39requirements for collection action
+Page 22 - 130LR0146(01)11.  Applicability.  This section applies to any collection action against a consumer to 
+2 collect a credit card or student loan debt initiated by a debt collector.
+32.  Commencement of collection action.  A collection action may not be commenced 
+4 in small claims court pursuant to Title 14, chapter 738. A collection action is commenced 
+5 upon the filing or serving of a complaint that provides notice of the complaint in the same 
+6 manner as other civil complaints and satisfies the requirements of this section. 
+73.  Notice of complaint.  In a collection action subject to this section, the debt collector 
+8 shall attach to the front of the complaint a one-page form notice to the consumer as 
+9 developed by the Department of Professional and Financial Regulation, Bureau of 
+10 Consumer Credit Protection. The form notice must be written in language that is plain and 
+11 readily understandable by the general public and, at a minimum, must contain the 
+12 following:
+13 A.  A statement that failure to answer the complaint may result in entry of judgment in 
+14 the amount demanded by the debt collector; and 
+15 B.  A sample answer and an explanation that the consumer may fill out the form and 
+16 return it to the court as the answer to the complaint. If the consumer returns the form 
+17 to the court, the consumer does not need to file a more formal answer or responsive 
+18 pleading. 
+194.  Entry of judgment.  A court may not enter judgment unless it specifically finds 
+20 that all the requirements of this section and all other applicable requirements of this chapter 
+21 are met, including, but not limited to, whether the plaintiff has produced evidence that is 
+22 admissible pursuant to the Maine Rules of Evidence on all required elements of its claim.
+235.  Default judgment.  If the defendant has failed to plead or otherwise defend, the 
+24 plaintiff may apply for entry of default and a default judgment. The judge overseeing the 
+25 action is responsible for entering a default and a default judgment, not the clerk of the court. 
+26 Regardless of whether the defendant appears in the action or the judgment is based on a 
+27 proposed order concerning a settlement, the court may not enter judgment in favor of the 
+28 plaintiff unless the court determines that all the requirements of this section and all other 
+29 applicable requirements of this chapter are met, including, but not limited to, whether the 
+30 plaintiff has produced evidence admissible pursuant to the Maine Rules of Evidence on all 
+31 required elements of its claim.
+326.  Exclusion. This section does not apply to any collection action brought by a 
+33 supervised financial organization as defined in Title 9-A, section 1-301, subsection 38-A.
+347.  Rules.  The Supreme Judicial Court may adopt rules necessary to implement the 
+35 provisions of this section.
+36PART G
+37Sec. G-1.  4 MRSA §18-B, sub-§7, as enacted by PL 1995, c. 560, Pt. I, §3, is 
+38 amended to read:
+397.  Fees  Authority and fees.  When A court may refer cases to the Court Alternative 
+40 Dispute Resolution Service for mediation and, when a court refers parties case types or 
+41 individual cases to the Court Alternative Dispute Resolution Service  for mediation, the 
+42 court shall assess the parties a fee to be apportioned equally among the parties, unless the 
+43 court otherwise directs.  The fee must be deposited in the dedicated account created in 
+44 subsection 8.
+Page 23 - 130LR0146(01)1 A party may file an in forma pauperis application for waiver of fee.  If the court finds that 
+2 the party does not have sufficient funds to pay the fee, it shall order the fee waived.
+3SUMMARY
+4 Part A of this bill does the following.
+5 1. It clarifies the jurisdiction of the Department of Professional and Financial 
+6 Regulation, Bureau of Consumer Credit Protection to regulate transactions entered into by 
+7 mail, telephone or electronic mail or using a creditor's website when the consumer is 
+8 located in Maine.
+9 2. It establishes that an automobile seller is regularly engaged in credit sales if the seller 
+10 sells more than 15 cars per year on credit. Currently, a dealer can sell up to 25 cars a year 
+11 on credit without complying with any disclosure, rate cap or repossession standards.
+12 3. It defines a supervised lender to include a company that purchases and collects on 
+13 supervised loans, regardless of whether the company maintains an office in this State. 
+14 Current law already holds in-state companies to this standard.
+15 4. It clarifies confidentiality provisions by referencing an exception currently found in 
+16 another section of the Maine Consumer Credit Code.
+17 5. It authorizes the Superintendent of Consumer Credit Protection to adjust fees to 
+18 support the costs of compliance and staff attorney positions with revenues derived from 
+19 nonbank mortgage companies. It also allows the superintendent to reduce fees by 
+20 regulation.
+21 6. It corrects references to the Superintendent of Consumer Credit Protection.
+22 7. It specifically provides that the Superintendent of Consumer Credit Protection or the 
+23 Superintendent of Financial Institutions has the authority, after notice to the licensee and 
+24 opportunity to be heard, to suspend, revoke or deny renewal of a payroll processor's license.
+25 8. It confirms the ability of the Bureau of Consumer Credit Protection to regulate 
+26 transmission of digital currencies, such as Bitcoin.
+27 9. It establishes the Superintendent of Consumer Credit Protection's authority over debt 
+28 collectors consistent with authority granted the administrator with respect to other license 
+29 types.
+30 10. It adds to the laws governing debt collectors routine enforcement authority 
+31 consistent with authority currently applied with respect to consumer lenders and creditors.
+32 11. It adds to the laws governing debt collectors an assurance of discontinuance as an 
+33 enforcement option consistent with current law applicable to consumer lenders and 
+34 creditors.
+35 Part B does the following.
+36 1. It permits the use of a nationwide multistate licensing system to process licenses and 
+37 registrations with respect to general creditors, debt collectors, money transmitters and other 
+38 entities regulated by the Bureau of Consumer Credit Protection. It also authorizes the use 
+39 of that system by large, national companies that already use the system for their licenses in 
+40 other states.4
+Page 24 - 130LR0146(01)1 2. It amends a notification date provision in the law to permit the Bureau of Consumer 
+2 Credit Protection to use the nationwide mortgage licensing system for different business 
+3 types.
+4 Part C repeals language that requires annual reports to the joint standing committee of 
+5 the Legislature having jurisdiction over insurance and financial services matters relating to 
+6 the business of "legal funding practices."
+7 Part D does the following.
+8 1.  It amends application and renewal fee provisions for entities licensed and regulated 
+9 by the Bureau of Consumer Credit Protection to allow the bureau to use rulemaking to 
+10 adjust fees.
+11 2.  It allows the bureau to use the nationwide mortgage licensing system and registry 
+12 to license or register regulated entities.
+13 3.  It authorizes the Superintendent of Consumer Credit Protection to permit affiliated 
+14 companies to be under a single debt collector license.
+15 Part E makes it a violation of the Maine Fair Debt Collection Practices Act to collect 
+16 or attempt to collect a debt from medical expenses against an individual eligible for free or 
+17 charity care. 
+18 Part F adds requirements relating to collection actions for credit card debt and student 
+19 loan debt.
+20 Part G authorizes courts to refer cases to the Court Alternative Dispute Resolution 
+21 Service for mediation and assess fees for such mediation.

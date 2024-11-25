@@ -1,0 +1,158 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1407
+S.P. 485 In Senate, April 11, 2017
+An Act  Regarding Prescription  Drug Step Therapy
+Reference to the Committee on Insurance  and Financial Services suggested and  ordered 
+printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator ROSEN of Hancock.
+Cosponsored by Representative PIERCE  of Dresden  and
+Senators: CARSON of Cumberland, DOW  of Lincoln, GRATWICK of Penobscot,  
+Representatives: HARLOW of Portland, MALABY of Hancock,  POULIOT of Augusta, 
+SANBORN of Portland,  VACHON of Scarborough.
+
+ 
+ Page 1 - 128LR1195(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  24-A MRSA §4320 -K is enacted to read:  2 
+§4320 -K.  Step therapy  3 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 4 
+following terms have the following me anings.  5 
+A.  "Clinical practice guidelines" means a systematically developed statement to 6 
+assist prescriber and patient decisions about appropriate health care for specific 7 
+clinical circumstances and conditions.  8 
+B.  "Clinical review criteria" means the writ ten screening procedures, decision 9 
+abstracts, clinical protocols and practice guidelines used by an insurer, health plan or 10 
+utilization review organization to determine the medical necessity and 11 
+appropriateness of health care services.  12 
+C.  "Medically neces sary" means health services and supplies that, under the 13 
+applicable standard of care, are appropriate to improve or preserve health, life or 14 
+function; to slow the deterioration of health, life or function; or for the early 15 
+screening, prevention, evaluation , diagnosis or treatment of a disease, condition, 16 
+illness or injury.  17 
+D.  "Step therapy override exception determination" means a determination based on 18 
+a review of a patient's or prescriber's request for an override, along with supporting 19 
+rationale and doc umentation, that the step therapy protocol should be overridden in 20 
+favor of immediate coverage of the health care provider's selected prescription drug.  21 
+E.  "Step therapy protocol" means a protocol that establishes a specific sequence in 22 
+which prescription  drugs for a specified medical condition are medically necessary 23 
+for a particular patient and are covered under a pharmacy or medical benefit by an 24 
+insurer or health plan, including self -administered and physician -administered drugs.  25 
+F.  "Utilization revie w organization" means an entity that conducts a utilization 26 
+review, other than an insurer or health plan performing a utilization review for its 27 
+own health benefit plans.  28 
+2.  Clinical review criteria.  Clinical review criteria used to establish a step ther apy 29 
+protocol must be based on clinical practice guidelines that:  30 
+A.  Recommend that the prescription drugs be taken in the specific sequence required 31 
+by the step therapy protocol;  32 
+B.  Are developed and endorsed by a multidisciplinary panel of experts that manages 33 
+conflicts of interest among the members of the writing and review groups by:  34 
+(1)  Requiring members to disclose any potential conflicts of interest with 35 
+entities, including insurers, health plans and pharmaceutical manufacturers, and 36 
+recuse themsel ves from voting if they have a conflict of interest;  37 
+ 
+ Page 2 - 128LR1195(01) -1 
+ (2)  Using a methodologist to work with writing groups to provide objectivity in 1 
+data analysis and ranking of evidence through the preparation of evidence tables 2 
+and facilitating consensus; and  3 
+(3)  Offe ring opportunities for public review and comments;  4 
+C.  Are based on high -quality studies, research and medical practice;  5 
+D.  Are created by an explicit and transparent process that:  6 
+(1)  Minimizes biases and conflicts of interest;  7 
+(2)  Explains the relatio nship between treatment options and outcomes;  8 
+(3)  Rates the quality of the evidence supporting recommendations; and  9 
+(4)  Considers relevant patient subgroups and preferences; and  10 
+E.  Are continually updated through a review of new evidence, research and n ewly 11 
+developed treatments.  12 
+3.  Absence of clinical practice guidelines.  In the absence of clinical practice 13 
+guidelines that meet the requirements in subsection 2, peer -reviewed publications may be 14 
+substituted.  15 
+4.  Consideration of atypical populations and  diagnoses.  When establishing a step 16 
+therapy protocol, a utilization review organization shall also take into account the needs 17 
+of atypical patient populations and diagnoses when establishing clinical review criteria.  18 
+5.  Construction.  This section may n ot be construed to require insurers, health plans 19 
+or the State to set up a new entity to develop clinical review criteria used for step therapy 20 
+protocols.  21 
+6.  Exceptions process.  When coverage of a prescription drug for the treatment of 22 
+any medical condit ion is restricted for use by an insurer, health plan or utilization review 23 
+organization through the use of a step therapy protocol, the patient and prescriber must 24 
+have access to a clear, readily accessible and convenient process to request a step therapy 25 
+override exception determination from that insurer, health plan or utilization review 26 
+organization.  27 
+A.  An insurer, health plan or utilization review organization may use its existing 28 
+medical exceptions process to provide step therapy override exception 29 
+determinations, and the process established must be easily accessible on the insurer's, 30 
+health plan's or utilization review organization's website.  31 
+B.  An insurer, health plan or utilization review organization shall expeditiously grant 32 
+a step therapy overri de exception determination if:  33 
+(1)  The required prescription drug is contraindicated or will likely cause an 34 
+adverse reaction in or physical or mental harm to the patient;  35 
+(2)  The required prescription drug is expected to be ineffective based on the 36 
+know n clinical characteristics of the patient and the known characteristics of the 37 
+prescription drug regimen;  38 
+ 
+ Page 3 - 128LR1195(01) -1 
+ (3)  The patient has tried the required prescription drug while under the patient's 1 
+current or previous health insurance or health benefit plan, or an other prescription 2 
+drug in the same pharmacologic class or with the same mechanism of action, and 3 
+the prescription drug was discontinued due to lack of efficacy or effectiveness, 4 
+diminished effect or an adverse event;  5 
+(4)  The required prescription drug is  not in the best interest of the patient, based 6 
+on medical necessity; or  7 
+(5)  The patient is stable on a prescription drug selected by the patient's health 8 
+care provider for the medical condition under consideration while on a current or 9 
+previous health in surance or health benefit plan.  10 
+C.  Upon the granting of a step therapy override exception determination, the insurer, 11 
+health plan or utilization review organization shall authorize coverage for the 12 
+prescription drug prescribed by the prescriber.  13 
+D.  An in surer, health plan or utilization review organization shall respond to a 14 
+request for a step therapy override exception determination or an appeal of a 15 
+determination within 72 hours of receipt of the request.  In cases when exigent 16 
+circumstances exist, an i nsurer, health plan or utilization review organization shall 17 
+respond within 24 hours of receipt of the request.  If a response by an insurer, health 18 
+plan or utilization review organization is not received within the time required under 19 
+this paragraph, the exception or appeal is granted.  20 
+E.  An insured may appeal a step therapy override exception determination.  21 
+F.  This section does not prevent:  22 
+(1)  An insurer, health plan or utilization review organization from requiring a 23 
+patient to try a generic drug, as  defined in Title 32, section 13702 -A, subsection 24 
+14, prior to providing coverage for the equivalent brand name prescription drug; 25 
+or 26 
+(2)  A health care provider from prescribing a prescription drug that is 27 
+determined to be medically necessary.  28 
+7.  Rules.  The superintendent shall adopt rules to implement this section.  Rules 29 
+adopted pursuant to this subsection are routine technical rules as defined in Title 5, 30 
+chapter 375, subchapter 2 -A. 31 
+Sec. 2.  Application.  The requirements of this Act apply to all pol icies, contracts 32 
+and certificates executed, delivered, issued for delivery, continued or renewed in this 33 
+State on or after January 1, 2018.  For purposes of this Act, all contracts are deemed to be 34 
+renewed no later than the next yearly anniversary of the c ontract date.  35 
+SUMMARY  36 
+This bill requires health insurers to establish a process for prescription drug step 37 
+therapy override exception determinations.  38 
+ 

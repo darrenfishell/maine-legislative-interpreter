@@ -1,0 +1,272 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1399
+H.P. 894 House of Representatives, March 28, 2023
+An Act to Improve State Oversight of Proposed Health Care Entity 
+Transactions
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MORRIS of Turner.
+Cosponsored by Representative: GATTINE of Westbrook.
+
+Page 1 - 131LR1435(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §194-L is enacted to read:
+3§194-L.  Oversight of health care entity transactions
+4 This section governs material change transactions entered into by health care entities. 
+51.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+6 following terms have the following meanings.
+7 A.  "Acquisition" means the direct or indirect purchase of a material amount of the 
+8 assets or operations of a health care entity, including, but not limited to, a lease, 
+9 transfer, exchange, receipt of conveyance, creation of a joint venture or other manner 
+10 of purchase by another health care entity, a private equity group or a hedge fund.
+11 B.  "Health care entity" means a health care provider, health care facility or provider 
+12 organization.
+13 C.  "Health care facility" means a licensed institution providing health care services or 
+14 a health care setting, including, but not limited to, a hospital or other inpatient facility, 
+15 an ambulatory surgery facility, a treatment center, a skilled nursing facility, a 
+16 diagnostic facility, a residential treatment center, a medical laboratory and imaging 
+17 center, a freestanding emergency facility, an outpatient clinic, a rehabilitation center 
+18 and any other therapeutic health care setting.
+19 D.  "Health care provider" means any person, corporation, partnership, governmental 
+20 unit, state institution or any other entity qualified or licensed under state law to perform 
+21 or provide health care services.
+22 E.  "Health care services" means services, care or supplies used to treat issues related 
+23 to medical health, behavioral health, mental health and substance use disorder and 
+24 includes services that are surgical, optometric, dental, podiatric, chiropractic, 
+25 psychiatric, therapeutic, diagnostic, preventative, rehabilitative, supportive or geriatric.
+26 F.  "Material change transaction" means any combination of the following, occurring 
+27 during a single transaction or in a series of related transactions involving the same 
+28 health care entity within a 12-month period:
+29 (1) A corporate merger including one or more health care entities;
+30 (2) An acquisition of one or more health care entities;
+31 (3) Any affiliation, arrangement or contract that results in a change of control over 
+32 a health care entity. As used in this subparagraph, "change of control" means an 
+33 arrangement in which any person, corporation, partnership or other entity acquires 
+34 direct or indirect control over the operations of a health care facility or health care 
+35 entity in whole or in substantial part, and "arrangement" includes any agreement, 
+36 association, partnership or joint venture that results in a change of governance or 
+37 control over a health care facility or health care entity;
+38 (4) The formation of a partnership, joint venture, accountable care organization, 
+39 parent organization or management services organization for the purpose of 
+40 administering contracts with carriers, 3rd-party administrators, pharmacy benefits 
+41 managers or providers; or
+Page 2 - 131LR1435(01)1 (5) A sale, purchase, lease or affiliation that results in a transfer of control over a 
+2 board of directors for a hospital;
+3 "Material change transaction" does not include a clinical affiliation of health care 
+4 entities formed for the purpose of collaborating on clinical trials, graduate or medical 
+5 education programs or the hiring of, or offer of employment to, a physician.
+6 G. "Proprietary information" means information that is a trade secret or production, 
+7 commercial or financial information the disclosure of which would impair the 
+8 competitive position of the health care entity or person submitting the information and 
+9 would make available information not otherwise publicly available.
+10 H. "Provider organization" means any corporation, partnership, business trust, 
+11 association or organized group of persons that is in the business of health care delivery 
+12 or management, and that represents one or more health care providers in contracting 
+13 with insurance carriers for the payments of health care services. A provider 
+14 organization includes, but is not limited to, physician organizations, physician-hospital 
+15 organizations, independent practice associations, provider networks, accountable care 
+16 organizations and any other organization that contracts with carriers for payment for 
+17 health care services.
+18 I. "Significant power over the health care market" means that a single entity possesses 
+19 30% or more of the market share for any health care service in the geographic region 
+20 where it is located. The Attorney General may adopt rules establishing additional 
+21 criteria that the Attorney General may use to evaluate whether a health care entity has 
+22 significant power over the health care market.
+232.  Prohibition.  A health care entity may not enter into a material change transaction 
+24 unless the transaction is approved by the Attorney General through the process established 
+25 under this section.
+263.  Notice required.  A health care entity shall provide written notice to the Attorney 
+27 General of its intent to enter into a material change transaction at least 60 days prior to 
+28 making any commitment to enter into the material change transaction. Written notice under 
+29 this subsection must include, at a minimum, any information related to the material change 
+30 transaction required by the Attorney General by rule. Within 10 days of receiving written 
+31 notice of a material change transaction, the Attorney General shall post on the Office of the 
+32 Attorney General's publicly accessible website the following information:
+33 A.  A summary of the proposed material change transaction;
+34 B.  An explanation of the groups or individuals likely to be affected by the transaction;
+35 C.  Information about health care services currently provided by the health care entity, 
+36 any commitments by the health care entity to continue providing those services after 
+37 the material change transaction and any services that will be reduced or eliminated as 
+38 a result of the material change transaction;
+39 D.  A copy of the written notice and accompanying materials that were submitted to 
+40 the Attorney General under this subsection, except for materials that are confidential 
+41 under subsection 10 and any materials that the Attorney General determines may cause 
+42 harm to the public by being posted; and
+Page 3 - 131LR1435(01)1 E.  The time and location of any public hearing under subsection 5, paragraph A or 
+2 other opportunity for the public to provide comments regarding the material change 
+3 transaction, and instructions for how the public may participate.
+44.  Preliminary review.  Within 30 days of receiving written notice under subsection 
+5 3, the Attorney General shall provide written notice to the health care entity that the 
+6 Attorney General has:
+7 A.  Approved the material change transaction and determined that a comprehensive 
+8 review of the transaction is not required;
+9 B.  Approved the material change transaction subject to compliance with specific 
+10 conditions established by the Attorney General, under which the transaction may be 
+11 completed without a comprehensive review of the transaction; or
+12 C.  Determined that the material change transaction is subject to comprehensive review 
+13 under subsection 5 because: 
+14 (1) It will result in the transfer of assets valued at more than $2,000,000;
+15 (2) It will occur in a market that is highly consolidated with regard to any of the 
+16 health care services offered by a party to the material change transaction;
+17 (3) It will result in a significant change in the market share for health care services, 
+18 such that any resulting health care entity will possess significant power over the 
+19 health care market in its region;
+20 (4) A party to the material change transaction already possesses significant power 
+21 over the health care market in its region; or
+22 (5) The Attorney General determines that the material change transaction is likely 
+23 to have a material impact on the cost, quality or access to health care services in 
+24 any region of the State.
+255.  Comprehensive review.  Within 30 days of providing notice under subsection 4, 
+26 paragraph C, that a material change transaction is subject to comprehensive review, the 
+27 Attorney General shall:
+28 A.  Hold at least one public hearing to solicit public comment on the material change 
+29 transaction in the county where the health care entity that provided written notice is 
+30 located;
+31 B. Have the projected costs and market impact of the material change transaction 
+32 reviewed by an expert with experience in material change transactions. A review 
+33 required under this subsection may include an examination of factors relating to the 
+34 proposed transaction, the parties to the transaction and the relative market position of 
+35 the health care entities involved in the transaction, including, but not limited to, the 
+36 following:
+37 (1) The market share for health care services held by any of the health care entities 
+38 involved in the transaction;
+39 (2) Any previous material change transaction involving the parties, including, but 
+40 not limited to, mergers or acquisitions of similar health care entities;
+Page 4 - 131LR1435(01)1 (3) The cost of health care services provided by health care entities involved in the 
+2 material change transaction, including the relative price for similar services 
+3 provided by other health care entities in the same geographic region;
+4 (4) The quality of health care services provided by health care entities involved in 
+5 the material change transaction, including the quality of patient experiences;
+6 (5) The cost and cost trends for health care services provided by the health care 
+7 entities involved in the material change transaction, provided in comparison to total 
+8 health care expenditures statewide;
+9 (6) The availability and accessibility of health care services similar to those 
+10 provided, or proposed to be provided, in the geographic region that will be served 
+11 by a health care entity formed as a result of the material change transaction;
+12 (7) The impact of the material change transaction on consumer options for the 
+13 delivery of health care services within the geographic region that will be served by 
+14 a health care entity formed as a result of the material change transaction;
+15 (8) The degree to which a health care entity involved in the material change 
+16 transaction serves at-risk, underserved and government payer patient populations;
+17 (9) The degree to which a health care entity involved in the material change 
+18 transaction provides low-margin or negative-margin services within the 
+19 geographic region that will be served by a health care entity formed as a result of 
+20 the material change transaction;
+21 (10) Consumer concerns including, but not limited to, complaints or other 
+22 allegations that a party involved in the material change transaction has engaged in 
+23 unfair methods of competition or committed unfair or deceptive acts or practices; 
+24 and
+25 (11) Any other factors that the Attorney General determines to be in the public 
+26 interest.
+27 Within 185 days of providing written notice to the parties that the material change 
+28 transaction is subject to a comprehensive review, the expert shall submit the report required 
+29 under this subsection to the Attorney General for review, unless the Attorney General 
+30 determines that more time is necessary to complete the report. The Attorney General may 
+31 request additional information from the parties involved in the material change transaction 
+32 that the Attorney General determines is necessary to conduct the report required under this 
+33 subsection. If the parties involved in the material change transaction fail to respond to the 
+34 Attorney General's request for additional information within 21 days of the request, the 
+35 Attorney General may extend the report deadline as necessary to complete the report, set a 
+36 date by which the parties must respond to the request, impose additional conditions for 
+37 approval of the material change transaction or deny approval of the material change 
+38 transaction under subsection 6. 
+396.  Approval authority.  The Attorney General may approve, approve subject to 
+40 specific conditions or deny approval of any material change transaction for which notice is 
+41 provided under subsection 3. In making this determination, the Attorney General may 
+42 consider any factors that the Attorney General determines to be relevant, including, but not 
+43 limited to:
+Page 5 - 131LR1435(01)1 A.  The likely impact, based on the findings in the report required under subsection 5, 
+2 if any, that the material change transaction will have on the:
+3 (1)  Cost of health care services for patients;
+4 (2)  Availability or accessibility of health care services in the geographic region 
+5 served by a health care entity formed as a result of the material change transaction;
+6 (3) Cost trends of health care services provided by the parties involved in the 
+7 material change transaction, as evaluated against statewide costs for comparable 
+8 health care services;
+9 (4) Access to health care services in underserved areas;
+10 (5) Markets for health care services and health care insurance;
+11 (6) Health care outcomes or health care equity for residents of the State; and
+12 (7) Access to essential health care services for residents of the State;
+13 B. Whether the material change transaction violates the provisions of Title 10, chapter 
+14 201;
+15 C. Whether the benefits of the material change transaction to the public are likely to 
+16 outweigh the potential negative market impacts of the material change transaction; and
+17 D. Whether the material change transaction is in the public interest.
+18 For a material change transaction subject to comprehensive review under subsection 5, the 
+19 Attorney General shall provide written notice to the health care entity within 30 days of 
+20 receiving the report required under subsection 5, that the Attorney General has approved, 
+21 approved subject to specific conditions or denied the material change transaction.
+227.  Enforcement of conditions.  The Attorney General may monitor ongoing 
+23 compliance with any conditions imposed by the Attorney General on the material change 
+24 transaction. In addition to any other legal remedies that may be available, the Attorney 
+25 General may petition the Superior Court for specific performance, injunctive relief or other 
+26 equitable remedies that the Attorney General deems appropriate. The Attorney General is 
+27 entitled to recover reasonable costs and reasonable attorney's fees incurred in remedying a 
+28 violation of this section.
+298.  Reporting requirements.  One year, 2 years and 5 years following the completion 
+30 of a material change transaction subject to comprehensive review under subsection 5, a 
+31 health care entity formed as a result of the material change transaction, or any other entity 
+32 that acquired direct or indirect control over the health care entity, must submit reports to 
+33 the Attorney General that:
+34 A. Demonstrate compliance with any conditions imposed by the Attorney General in 
+35 the course of approving the material change transaction; and
+36 B. Summarize the cost trends and cost growth trends related to health care services 
+37 provided by the parties involved in the material change transaction.
+389.  Costs incurred for review and compliance.  The parties involved in the material 
+39 change transaction are liable for all reasonable costs incurred by the Attorney General in 
+40 making a determination to approve or deny a material change transaction under this section. 
+41 The parties to the material change transaction are also liable for all reasonable costs 
+Page 6 - 131LR1435(01)42 incurred by the Attorney General in monitoring ongoing compliance with the terms and 
+43 conditions of the material change transaction, including, but not limited to, administrative 
+44 costs and the costs of contracting with an expert for assistance in monitoring ongoing 
+45 compliance. 
+510.  Proprietary information confidential.  All records obtained by the Attorney 
+6 General under this section that contain private proprietary information are confidential and 
+7 may not be disclosed without the consent of the party that provided the information to the 
+8 Attorney General, except that the Attorney General may disclose such information to the 
+9 expert conducting review under subsection 5. The expert may not disclose any of the 
+10 information provided by the Attorney General under this subsection without the approval 
+11 of the Attorney General and the consent of the party that provided the information. 
+1211.  Authority not limited.  This section may not be construed to limit the authority 
+13 of the Attorney General, the State or any political subdivision of the State to review or 
+14 regulate under any other law a transaction defined as a material change transaction under 
+15 this section or to pursue any other administrative or legal action authorized by law.
+1612.  Rulemaking.  The Attorney General shall adopt rules necessary to implement this 
+17 section, including, but not limited to, rules that establish the process and requirements for 
+18 a health care entity to follow when providing written notice under subsection 3. Rules 
+19 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 
+20 375, subchapter 2‑A.
+21SUMMARY
+22 This bill defines a material change transaction involving a health care entity, creates a 
+23 process for review of a material change transaction and requires the Attorney General to 
+24 review and approve or deny any material change transaction.1
+2
+3
+4
+22
+23
+24

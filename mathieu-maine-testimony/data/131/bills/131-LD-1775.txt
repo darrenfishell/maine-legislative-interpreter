@@ -1,0 +1,132 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1775
+H.P. 1138 House of Representatives, April 25, 2023
+An Act to Establish a Clean Hydrogen Pilot Program
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DOUDERA of Camden.
+Cosponsored by Senator LAWRENCE of York and
+Representatives: BOYLE of Gorham, GEIGER of Rockland, RUNTE of York, WOODSOME 
+of Waterboro, Senators: BRENNER of Cumberland, FARRIN of Somerset, HARRINGTON of 
+York.
+
+Page 1 - 131LR1218(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §123 is enacted to read:
+3§123.  Clean hydrogen pilot program
+41. Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A. "Clean hydrogen" means hydrogen produced through a process that results in a life-
+7 cycle greenhouse gas emissions rate of not greater than 4 kilograms of carbon dioxide 
+8 or carbon dioxide equivalents per kilogram of hydrogen generated, as determined by 
+9 the commission in accordance with IRS production tax credit regulations.
+10 B. "Clean hydrogen facility" means a facility that produces clean hydrogen, has a peak 
+11 electricity demand that is no more than 20 megawatts and meets applicable 
+12 requirements for a federal production tax credit under the federal act and IRS 
+13 production tax credit regulations.
+14 C. "Federal act" means the Inflation Reduction Act of 2022, Public Law 117-169, 136 
+15 Stat. 1818.
+16 D. "IRS production tax credit regulations" means regulations of the federal Internal 
+17 Revenue Service adopted pursuant to the federal act governing clean hydrogen 
+18 production tax credits.
+19 E. "Pilot program" means the clean hydrogen program established pursuant to this 
+20 section.
+212. Clean hydrogen pilot program; criteria. The commission shall establish a clean 
+22 hydrogen pilot program in accordance with this section. The commission shall choose 
+23 through a competitive solicitation process 3 clean hydrogen facilities to participate in the 
+24 pilot program.  The first competitive solicitation must occur in 2024 and open no later than 
+25 January 15, 2024 and close no later than March 15, 2024 unless the commission determines 
+26 that a longer period is required to achieve the purposes of the pilot program.  The 
+27 commission shall conduct additional bid solicitations annually through 2029 until the 
+28 commission selects 3 clean hydrogen facilities for participation in the pilot program.  Under 
+29 the pilot program, the commission shall:
+30 A. When selecting clean hydrogen facilities:
+31 (1) Prioritize facilities with lower greenhouse gas emissions or facilities the 
+32 commission finds will advance the viability of technology that reduces greenhouse 
+33 gas emissions; 
+34 (2) Choose facilities the commission finds are in the public interest and are 
+35 reasonably likely not to cause significant costs for gas or electric ratepayers; and
+36 (3) Require bidders to demonstrate that the owner or operator of the facility:
+37 (a) Has control over the site where the facility is to be located; and
+38 (b) Has technical and financial capacity to construct, operate and 
+39 decommission the facility; 
+40 B. Require the owner or operator of a clean hydrogen facility chosen for the pilot 
+41 program to ensure that all persons engaged in the construction, alteration or repair of 
+Page 2 - 131LR1218(01)42 the facility, including all employees, contractors and subcontractors, are paid wages 
+43 that are not less than the prevailing hourly wages for work of a similar character in the 
+44 locality in which the facility is located as most recently determined by the Bureau of 
+45 Labor Standards in accordance with Title 26, section 1308 and in compliance with 
+46 applicable requirements of the federal act and the IRS production tax credit regulations; 
+47 and
+7 C. Prohibit the sale or purchase of thermal renewable energy credits, as defined in 
+8 section 3210, subsection 2, paragraph E, associated with the hydrogen produced by a 
+9 clean hydrogen facility chosen for the pilot program.
+103.  Exemptions for sales of electricity to clean hydrogen facility. Sales of electricity 
+11 to a clean hydrogen facility selected by the commission under subsection 2 are exempt 
+12 from:
+13 A. Any distribution, delivery or related charges regulated by the commission, 
+14 including, but not limited to, volumetric fees, stranded costs and demand and standby 
+15 charges; and
+16 B. Charges associated with the procurement of energy efficiency resources by 
+17 transmission and distribution utilities ordered under section 10110, subsection 4-A. 
+184. Exemption from portfolio requirements. A competitive electricity provider, as 
+19 defined in section 3201, subsection 5, is exempt from the requirements established by 
+20 section 3210 for the portion of its supply portfolio that is sold to a clean hydrogen facility 
+21 under the pilot program.
+225. Rules. The commission shall adopt rules to implement this section. Rules adopted 
+23 under this subsection are routine technical rules as defined in Title 5, chapter 375, 
+24 subchapter 2‑A.
+25Sec. 2.  Report. The Public Utilities Commission, by November 1, 2025, shall submit 
+26 a report to the joint standing committee of the Legislature having jurisdiction over energy 
+27 and utilities matters regarding the status of the pilot program. The joint standing committee 
+28 may report out a bill to the Second Regular Session of the 132nd Legislature based on the 
+29 report.
+30SUMMARY
+31 This bill requires the Public Utilities Commission to develop and oversee a pilot 
+32 program to produce clean hydrogen. The commission is directed to select 3 clean hydrogen 
+33 facilities to participate in the pilot program. Energy supplied to a clean hydrogen facility is 
+34 exempt from all transmission and distribution charges, charges associated with the 
+35 procurement of energy efficiency resources and the renewable resource requirements 
+36 established by the Maine Revised Statutes, Title 35-A, section 3210. By November 1, 2025, 
+37 the commission is required to submit a report to the joint standing committee of the 
+38 Legislature having jurisdiction over energy and utilities matters regarding the status of the 
+39 pilot program.1
+2
+3
+4
+5
+6
+31
+32
+33
+34
+35
+36
+37
+38
+39

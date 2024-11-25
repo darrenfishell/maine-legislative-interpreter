@@ -1,0 +1,117 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 802
+S.P. 113 In Senate,  March  5, 2021
+An Act  To Ensure Decommissioning of Solar Energy  Developments
+Submitted by the Department of  Environmental Protection pursuant to  Joint  Rule 204.
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BLACK of Franklin.
+
+Page 1 - 130LR0139(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA c. 34-D is enacted to read:
+3CHAPTER 34-D
+4SOLAR ENERGY DEVELOPMENT DECOMMISSIONING
+5§3491. Definitions
+6 As used in this chapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Decommissioning.  "Decommissioning" means the physical removal of all 
+9 components of a solar energy development, including but not limited to solar panels and 
+10 associated anchoring systems and foundations to a depth of at least 24 inches and other 
+11 structures, buildings, roads, cables, electrical components or associated facilities and 
+12 foundations to a depth of at least 24 inches, to the extent the components of the 
+13 development are not otherwise in or proposed to be placed in productive use. 
+14 "Decommissioning" includes the grading and revegetation of all earth disturbed during 
+15 construction and decommissioning, except for areas already restored.
+162.  Environmental permitting entity.  "Environmental permitting entity" means:
+17 A.  The Department of Environmental Protection in the case of a solar energy 
+18 development:
+19 (1)  Located wholly or partly outside of the unorganized and deorganized areas; or
+20 (2)  Subject to the department's jurisdiction pursuant to Title 38, chapter 3, 
+21 subchapter 1, article 6; or
+22 B.  The Maine Land Use Planning Commission in the case of a solar energy 
+23 development located wholly in the unorganized and deorganized areas and not subject 
+24 to the jurisdiction of the Department of Environmental Protection pursuant to Title 38, 
+25 chapter 3, subchapter 1, article 6.
+263.  Farmland.  "Farmland" has the same meaning as in Title 36, section 1102, 
+27 subsection 4.
+284.  Transfer of ownership.  "Transfer of ownership" means a change in the legal entity 
+29 that owns or operates a solar energy development.  A sale or exchange of stock or 
+30 membership interests or a merger is not a transfer of ownership as long as the legal entity 
+31 that owns or operates the solar energy development remains the same.
+325.  Unorganized and deorganized areas.  "Unorganized and deorganized areas" has 
+33 the same meaning as in Title 12, section 682, subsection 1.
+34§3492. Prohibition
+35 A person may not construct, cause to be constructed or operate a solar energy 
+36 development with ground-mounted solar panels occupying 3 or more acres without first 
+37 obtaining approval of a decommissioning plan from the environmental permitting entity 
+38 under section 3495.
+Page 2 - 130LR0139(01)1§3493.  Transfer of ownership
+2 Upon a transfer of ownership of a solar energy development subject to a 
+3 decommissioning plan approved under section 3495, a person that transfers ownership of 
+4 the development remains jointly and severally liable for implementation of the plan until 
+5 the environmental permitting entity approves transfer of the decommissioning plan to the 
+6 new owner or operator.
+7§3494.  Decommissioning plan
+8 A decommissioning plan must:
+91.  Decommissioning.  Provide for the decommissioning of a solar energy development 
+10 to a depth of at least 24 inches;
+112.  Farmland.  For any portion of a solar energy development located on land classified 
+12 as farmland any time within 5 years preceding the start of construction of the development, 
+13 provide for the decommissioning of that portion of the solar energy development to a depth 
+14 of at least 48 inches and for the restoration of the farmland sufficient to support resumption 
+15 of farming or agricultural activities;
+163.  Grading and revegetation of earth.  Provide for the grading and revegetation of 
+17 all earth disturbed during construction and decommissioning, except for areas already 
+18 restored; and
+194.  Financial capacity.  Include demonstration of current and future financial capacity, 
+20 which must be unaffected by the owner's or operator's future financial condition, to fully 
+21 fund decommissioning in accordance with an approved decommissioning plan under this 
+22 chapter.
+23§3495.  Standards
+24 An environmental permitting entity shall approve a decommissioning plan whenever it 
+25 finds the following:
+261.  Successful decommissioning.  The plan, if implemented, will result in successful 
+27decommissioning of the solar energy development, including the restoration of farmland 
+28sufficient to support resumption of farming or agricultural activities;
+292.  Financial assurance.  The person identified in the plan as responsible for 
+30 decommissioning demonstrates financial assurance, in the form of a performance bond, 
+31 surety bond, irrevocable letter of credit or other form of financial assurance acceptable to 
+32 the environmental permitting entity, for the total cost of decommissioning; and
+333.  Update.  The plan requires the financial assurance be updated no less frequently 
+34 than every 5 years.
+35Sec. 2.  Application.  This Act applies to a solar energy development on which 
+36 construction begins on or after October 1, 2021 and to any other solar energy development 
+37 that undergoes a transfer of ownership on or after October 1, 2021.
+38SUMMARY
+39 This bill requires a person to obtain approval of a decommissioning plan from the 
+40 Department of Environmental Protection or from the Maine Land Use Planning 
+41 Commission in the case of a solar energy development located in the unorganized and 
+Page 3 - 130LR0139(01)42 deorganized areas before constructing or operating a solar energy development with 
+43 ground-mounted solar panels occupying 3 or more acres.1
+2

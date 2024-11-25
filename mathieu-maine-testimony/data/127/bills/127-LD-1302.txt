@@ -1,0 +1,212 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1302  
+S.P. 467  In Senate, April 9, 2015  
+ 
+ 
+An Act To Increase Competition and Ensure a Robust Information 
+and Telecommunications Market  
+ 
+ 
+ 
+ 
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator MASON of Androscoggin.  
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR1797(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §102, sub -§21-B is enacted to read:  2 
+21-B.  Voice network service provider.   "Voice network service provider" means a 3 
+voice service provider that offers its subscribers the mea ns to initiate or receive voice 4 
+communications using the public switched telephone network.  5 
+Sec. 2.  35-A MRSA §7104, sub -§2, as amended by PL 2011, c. 623, Pt. B, §13, 6 
+is further amended to read:  7 
+2.  General availability.  The Until December 31, 2021, the  commission shall seek 8 
+to ensure that provider of last resort service is available at reasonably comparable rates  to 9 
+consumers throughout all areas of the State at reasonably comparable rates  in which the 10 
+service is available pursuant to section 7221 -A. 11 
+Sec. 3.  35-A MRSA §7104, sub -§3, as amended by PL 2013, c. 600, §2, is 12 
+further amended to read:  13 
+3.  Authority.   The commission shall adopt rules to implement this section and may 14 
+require voice network service providers to contribute to a state universal ser vice fund to 15 
+support programs consistent with the goals of applicable provisions of this Title and the 16 
+federal Telecommunications Act of 1996, Public Law 104 -104, 110 Stat. 56.  Prior to 17 
+requiring that voice network service providers contribute to a state universal service fund, 18 
+the commission shall assess the telecommunications needs of the State's consumers and 19 
+establish the level of support required to meet those needs.  If the commission establishes 20 
+a state universal service fund pursuant to this sectio n, the commission shall contract with 21 
+an appropriate independent fiscal agent that is not a state entity to serve as administrator 22 
+of the state universal service fund.  Funds contributed to a state universal service fund are 23 
+not state funds.  Rules and any  state universal service fund requirements established by 24 
+the commission pursuant to this section must:  25 
+A.  Be reasonably designed to maximize federal assistance available to the State for 26 
+universal service purposes;  27 
+B.  Meet the State's obligations under the federal Telecommunications Act of 1996, 28 
+Public Law 104 -104, 110 Stat. 56;  29 
+C.  Be consistent with the goals of the federal Telecommunications Act of 1996, 30 
+Public Law 104 -104, 110 Stat. 56;  31 
+D.  Ensure that any requirements regarding contributions to a st ate universal service 32 
+fund be nondiscriminatory and competitively neutral; and  33 
+G.  Require, if a voice network service provider recovers its contributions under this 34 
+section by means of a charge placed on a bill issued to a customer, explicit 35 
+identificatio n on that bill of any charge imposed under this section.  36 
+For purposes of this section, "voice network service provider" means a voice service 37 
+provider that offers its subscribers the means to initiate or receive voice communications 38 
+using the public switch ed telephone network.  After December 31, 2021, the commission 39 
+ 
+ Page 2 - 127LR1797(01) -1 
+ may not require contributions to the state universal service fund and may not disburse or 1 
+authorize disbursement of any money from the fund to any voice network service 2 
+provider for the purpose of ensuring reasonably comparable consumer rates.   Rules 3 
+adopted under this subsection are routine technical rules as defined in Title 5, chapter 4 
+375, subchapter 2 -A. 5 
+Sec. 4.  35-A MRSA §7201, sub -§7, as enacted by PL 2011, c. 623, Pt. A, §18, is 6 
+amended t o read:  7 
+7.  Provider of last resort service.   "Provider of last resort service" means a flat -rate 8 
+service with voice grade access to the public switched telephone network; local usage 9 
+within the basic service calling areas of incumbent local exchange carri ers as of January 10 
+1, 2012; dual -tone multifrequency signaling or its functional equivalent; single -party 11 
+service or its functional equivalent; access to emergency services; access to operator 12 
+services; access to interexchange service; access to directory a ssistance; and toll 13 
+limitation for qualifying low -income customers ; and the capacity to maintain 14 
+uninterrupted voice service during a power failure, either through the incorporation into 15 
+the network or network interface devices of suitable battery backup o r through electric 16 
+current . 17 
+Sec. 5.  35-A MRSA §7221, as enacted by PL 2011, c. 623, Pt. A, §18, is repealed.  18 
+Sec. 6.  35-A MRSA §7221 -A is enacted to read:  19 
+§7221 -A.  Designation of service providers  20 
+1.  Initial designation of service providers.   Until Dec ember 31, 2015, an entity that 21 
+was an incumbent local exchange carrier as of January 1, 2012 shall provide provider of 22 
+last resort service within its service area.  23 
+2.  Subsequent provision of service.   After December 31, 2015 and until December 24 
+31, 2021, p rovider of last resort service is available and the commission may designate a 25 
+voice network service provider to provide provider of last resort service in accordance 26 
+with the following.  27 
+A.  No voice network service provider may be required to provide prov ider of last 28 
+resort service without its express consent.  29 
+B.  Provider of last resort service is not available and the commission may not 30 
+designate any voice network service provider to provide provider of last resort 31 
+service in any United States census tra ct area in which the commission determines, 32 
+based on the national broadband map developed by the United States Department of 33 
+Commerce, National Telecommunications and Information Administration, there is:  34 
+(1)  In addition to the incumbent local exchange ca rrier, at least one voice 35 
+network service provider that provides telephone exchange service to at least 36 
+94% of the households in the census tract area; and  37 
+(2)  At least one mobile telecommunications services provider that provides 38 
+mobile telecommunication s services to at least 94% of the households in the 39 
+census tract area.  40 
+ 
+ Page 3 - 127LR1797(01) -1 
+ Areas of the State other than those areas determined by the commission to meet the 1 
+requirements of this paragraph are referred to in this subsection as potential provider 2 
+of last resort  service areas.  3 
+C.  The commission shall by rule develop a process for designating a voice network 4 
+service provider to provide provider of last resort service in potential provider of last 5 
+resort service areas in accordance with the following:  6 
+(1)  An incu mbent local exchange carrier designated pursuant to subsection 1 that 7 
+voluntarily agrees to continue providing provider of last resort service in a 8 
+potential provider of last resort service area remains the provider of provider of 9 
+last resort service in th at area until the earliest of the following:  10 
+(a)  The carrier notifies the commission that it no longer agrees to provide the 11 
+service in that area;  12 
+(b)  The commission designates another voice network service provider to 13 
+provide provider of last resort ser vice in that area; or  14 
+(c)  December 31, 2021; and  15 
+(2)  In order to encourage voice network service providers to provide provider of 16 
+last resort service in potential provider of last resort service areas, the 17 
+commission may make available and provide funds collected under section 7104 18 
+to providers of provider of last resort service.  19 
+3.  End of provider of last resort service.   After December 31, 2021, provider of 20 
+last resort service is not available and the commission may not designate any voice 21 
+network serv ice provider to provide provider of last resort service in any area of the State.  22 
+Sec. 7.  Commission report.   The Public Utilities Commission shall examine all 23 
+laws and rules relating to provider of last resort service and determine any changes that 24 
+may b e needed to conform those rules and laws to the provisions of this Act.   The 25 
+commission shall submit a report of its findings, together with any necessary draft 26 
+legislation to implement its recommendations, to the Joint Standing Committee on 27 
+Energy, Utili ties and Technology by December 15, 2015.  The Joint Standing Committee 28 
+on Energy, Utilities and Technology may report out a bill relating to provider of last 29 
+resort service to the Second Regular Session of the 127th Legislature.  30 
+SUMMARY  31 
+This bill makes t he following changes in the laws governing provider of last resort 32 
+service:  33 
+1.  Removes the requirement that a provider of provider of last resort service have the 34 
+capacity to maintain uninterrupted voice service during a power failure, either through the 35 
+incorporation into the network or network interface devices of suitable battery backup or 36 
+through electric current;  37 
+2.  Provides that after December 31, 2015 and until December 31, 2021:  38 
+ 
+ Page 4 - 127LR1797(01) -1 
+ A. No voice network service provider may be required to provide provi der of last 1 
+resort service without its express consent;  2 
+B. Provider of last resort service will not be provided in any United States census 3 
+tract area in which there are, in addition to the incumbent local exchange carrier, at 4 
+least one voice network servi ce provider that provides telephone exchange service to 5 
+at least 94% of the households in the census tract area and at least one mobile 6 
+telecommunications services provider that provides mobile telecommunications 7 
+services to at least 94% of the households in the census tract area;  8 
+C. For all other areas of the State, referred to as potential provider of last resort 9 
+service, or POLR, areas, the Public Utilities Commission is required to develop rules 10 
+establishing a process for designating willing providers o f provider of last resort 11 
+service.  An incumbent local exchange carrier that voluntarily agrees to continue 12 
+providing provider of last resort service in a potential POLR area remains the 13 
+provider of provider of last resort service in that area until no lon ger willing to 14 
+provide the service or until replaced by another provider or until December 31, 2021, 15 
+whichever occurs first; and  16 
+D.  In order to encourage voice network service providers to provide provider of last 17 
+resort service in potential POLR areas, t he commission is allowed to make available 18 
+and provide state universal service fund money to providers of provider of last resort 19 
+service;  20 
+3.  Provides that after December 31, 2021:  21 
+A.  Provider of last resort service is not available and the commission ma y not 22 
+designate any voice network service provider to provide provider of last resort 23 
+service in any area of the State; and  24 
+B.  The commission is prohibited from requiring contributions to the state universal 25 
+service fund and may not disburse or authorize disbursement of any money from the 26 
+fund to any voice network service provider for the purpose of ensuring reasonably 27 
+comparable consumer rates; and  28 
+4.  Directs the commission to examine all laws and rules relating to provider of last 29 
+resort service and det ermine any changes that may be needed to conform those rules and 30 
+laws to the provisions of this bill.  The commission is directed to submit a report, together 31 
+with any necessary draft legislation to implement its recommendations, to the Joint 32 
+Standing Comm ittee on Energy, Utilities and Technology by December 15, 2015.  The 33 
+committee is authorized to report out a bill relating to provider of last resort service to the 34 
+Second Regular Session of the 127th Legislature.  35 
+ 

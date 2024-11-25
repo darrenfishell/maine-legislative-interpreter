@@ -1,0 +1,272 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1465
+H.P. 1072 House of  Representatives,  April 2, 2019
+An Act  To Diversify Maine's  Energy Portfolio with  Renewable 
+Energy
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative HUBBELL of Bar  Harbor.
+
+Page 1 - 129LR0403(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3209-A, as corrected by RR 2017, c. 1, §32, is amended to 
+3read:
+4§3209-A.  Net energy billing
+5The commission may shall adopt or amend rules governing net energy billing.  Rules 
+6adopted or amended pursuant to this section must allow up to 200 customers to share 
+7ownership of an electricity generating facility under net energy billing; must allow 
+8electricity generating facilities of up to one megawatt installed capacity to qualify for net 
+9energy billing; and must require the commission to review net energy billing when the 
+10cumulative capacity of electricity generating facilities that participate in net energy 
+11billing in the service territory of a transmission and distribution utility reaches 10% of the 
+12utility's peak demand.  Rules adopted or amended under this section are routine technical 
+13rules as defined in Title 5, chapter 375, subchapter 2-A.  "Net energy billing" means a 
+14billing and metering practice under which a customer is billed on the basis of net energy 
+15over the billing period taking into account accumulated unused kilowatt-hour credits from 
+16the previous billing period.
+17Sec. 2.  35-A MRSA §3210, sub-§2, ¶B-3, as amended by PL 2015, c. 220, §1, is 
+18further amended to read:
+19B-3.  "Renewable capacity resource" means a source of electrical generation:
+20(1)  Whose total power production capacity does not exceed 100 megawatts and 
+21relies on one or more of the following:
+22(a)  Fuel cells;
+23(b)  Tidal power;
+24(c)  Solar arrays and installations;
+25(d)  Geothermal installations;
+26(e)  Hydroelectric generators that meet all state and federal fish passage 
+27requirements applicable to the generator;
+28(f)  Biomass generators that are fueled by wood, wood waste or landfill gas; 
+29or
+30(g)  Anaerobic digestion of by-products of waste from animals or agricultural 
+31crops, food or vegetative material, algae or organic refuse; or
+32(2)  That relies on solar arrays and installations or wind power installations.; or
+33(3)  That relies on hydroelectric generators whose total power production is 
+34greater than or equal to 25 megawatts, that meet all state and federal fish passage 
+35requirements applicable to the generator and that are highly productive, as 
+36defined by the commission by rule.
+37Sec. 3.  35-A MRSA §3210, sub-§2, ¶B-4, as amended by PL 2011, c. 413, §1, is 
+38further amended to read:
+Page 2 - 129LR0403(01)-11B-4.  "New" as applied to any renewable capacity resource means a renewable 
+2capacity resource that:
+3(1)  Has an in-service date after September 1, 2005;
+4(2)  Was added to an existing facility after September 1, 2005;
+5(3)  For at least 2 years was not operated or was not recognized by the New 
+6England independent system operator as a capacity resource and, after September 
+71, 2005, resumed operation or was recognized by the New England independent 
+8system operator as a capacity resource; or
+9(4)  Was refurbished after September 1, 2005 and before September 1, 2019 and 
+10is operating beyond its previous useful life or is employing an alternate 
+11technology that significantly increases the efficiency of the generation process.
+12For the purposes of this paragraph, "capacity resource" has the same meaning as in 
+13section 3210-C, subsection 1, paragraph A.  For the purposes of this paragraph, "to 
+14refurbish" means to make an investment in equipment or facilities, other than for 
+15routine maintenance and repair, to renovate, reequip or restore the renewable capacity 
+16resource.
+17Sec. 4.  35-A MRSA §3210, sub-§3-A, ¶A, as amended by PL 2017, c. 291, §1, 
+18is further amended to read:
+19A.  Except as provided in paragraph B, beginning January 1, 2008, as a condition of 
+20licensing pursuant to section 3203, each competitive electricity provider in this State 
+21must demonstrate in a manner satisfactory to the commission that the percentage of 
+22its portfolio of supply sources for retail electricity sales in this State accounted for by 
+23new renewable capacity resources is as follows:
+24(1)  One percent for the period from January 1, 2008 to December 31, 2008;
+25(2)  Two percent for the period from January 1, 2009 to December 31, 2009;
+26(3)  Three percent for the period from January 1, 2010 to December 31, 2010;
+27(4)  Four percent for the period from January 1, 2011 to December 31, 2011;
+28(5)  Five percent for the period from January 1, 2012 to December 31, 2012;
+29(6)  Six percent for the period from January 1, 2013 to December 31, 2013;
+30(7)  Seven percent for the period from January 1, 2014 to December 31, 2014;
+31(8)  Eight percent for the period from January 1, 2015 to December 31, 2015;
+32(9)  Nine percent for the period from January 1, 2016 to December 31, 2016; and
+33(10)  Ten percent for the period from January 1, 2017 to December 31, 2022. 
+342019;
+35(11) Fourteen percent for the period from January 1, 2020 to December 31, 2020;
+36(12) Eighteen percent for the period from January 1, 2021 to December 31, 2021;
+37(13) Twenty-two percent for the period from January 1, 2022 to December 31, 
+382022;
+Page 3 - 129LR0403(01)-11(14) Twenty-six percent for the period from January 1, 2023 to December 31, 
+22023;
+3(15) Thirty percent for the period from January 1, 2024 to December 31, 2024;
+4(16) Thirty-four percent for the period from January 1, 2025 to December 31, 
+52025;
+6(17) Thirty-eight percent for the period from January 1, 2026 to December 31, 
+72026;
+8(18) Forty-two percent for the period from January 1, 2027 to December 31, 
+92027;
+10(19) Forty-six percent for the period from January 1, 2028 to December 31, 2028; 
+11and
+12(20) Fifty percent beginning January 1, 2029.
+13New renewable capacity resources used to satisfy the requirements of this paragraph 
+14may not be used to satisfy the requirements of subsection 3.  The commission by rule 
+15shall establish a 40% minimum efficiency standard, to be phased in over a 5-year 
+16period, for biomass resources that are used to satisfy portfolio requirements under this 
+17paragraph. The rules must limit the use of a biomass resource to meet the portfolio 
+18requirements to 25% of the output of the resource if the resource does not meet the 
+19minimum efficiency standard after the 5-year phase-in period. For the purposes of 
+20this paragraph, "biomass resource" means a source of electrical generation described 
+21under subsection 2, paragraph B-3, subparagraph (1), division (f) or (g).
+22Sec. 5.  35-A MRSA §3210-C, sub-§3-A is enacted to read:
+233-A.  Long-term contracts for renewable resources.  The commission shall direct 
+24investor-owned transmission and distribution utilities to enter into long-term contracts 
+25for:
+26A.  New renewable capacity resources that are grid-scale, as defined by the 
+27commission by rule, referred to in this paragraph as "grid-scale renewable resources," 
+28in accordance with this paragraph.
+29(1)  Over a 5-year period beginning January 1, 2020, the commission shall direct 
+30investor-owned transmission and distribution utilities to enter into long-term 
+31contracts to procure, to the maximum extent possible, 800 megawatts from grid-
+32scale renewable resources.
+33(2)  The commission shall conduct annual competitive solicitations for the long-
+34term contracts and consider benefits to the state economy in selecting bids. If 
+35multiple bids are submitted, the commission shall select one or more winning 
+36bidders.
+37(3)  Contracts must include energy, renewable energy credits or both energy and 
+38renewable energy credits associated with grid-scale renewable resources, and 
+39may include capacity.  Renewable energy credits contracted under this paragraph 
+40may be used to satisfy the portfolio requirements of section 3210, subsection 3-A.
+Page 4 - 129LR0403(01)-11(4)  At least 80% of resources contracted under this paragraph must be from grid-
+2scale renewable resources that have an in-service date after December 31, 2018;
+3B.  New renewable capacity resources that are community-based, as defined by the 
+4commission by rule, referred to in this paragraph as "community-based renewable 
+5resources," in accordance with this paragraph.
+6(1)  Over a 5-year period beginning January 1, 2020, the commission shall direct 
+7investor-owned transmission and distribution utilities to enter into long-term 
+8contracts to procure, to the maximum extent possible, 90 megawatts from 
+9community-based renewable resources.
+10(2)  The commission shall conduct annual competitive solicitations for the long-
+11term contracts. The first annual solicitation must be for 10 megawatts and the 4 
+12subsequent annual solicitations must be for 20 megawatts.  If multiple bids are 
+13submitted, the commission shall select one or more winning bidders.  
+14Nongreenfield sites, as defined by the commission by rule, must be eligible for a 
+15bid enhancement value for the purpose of selecting winning bids.
+16(3)  Contracts must include energy, capacity or both energy and capacity 
+17associated with community-based renewable resources, and may include 
+18renewable energy credits.
+19(4)  To be eligible for contracting under this paragraph, a community-based 
+20renewable resource must have:
+21(a)  An in-service date after December 31, 2018 and a nameplate capacity of 
+22no more than 5 megawatts; and
+23(b)  At least 50% of the ownership of the resource accounted for by 
+24individual ownership shares that each represent no more than 25 kilowatts of 
+25generating capacity and at least 5% of the ownership of the resource 
+26accounted for by low-income to moderate-income customers, as defined by 
+27the commission by rule.
+28(5) Contracts must provide the owners of the community-based renewable 
+29resource a monthly credit, with a dollar value, on the owners' utility bills based 
+30on each owner's percentage interest in total production of the resource; and
+31C.  New renewable capacity resources that are commercial and industrial, as defined 
+32by the commission by rule, referred to in this paragraph as "commercial and 
+33industrial renewable resources," in accordance with this paragraph.
+34(1)  Over a 5-year period beginning January 1, 2020, the commission shall direct 
+35investor-owned transmission and distribution utilities to enter into long-term 
+36contracts to procure, to the maximum extent possible, 135 megawatts from 
+37commercial and industrial renewable resources.
+38(2)  The commission shall conduct annual competitive solicitations for the long-
+39term contracts. The first annual solicitation must be for 15 megawatts and the 4 
+40subsequent annual solicitations must be for 30 megawatts.  If multiple bids are 
+41submitted, the commission shall select one or more winning bidders. 
+Page 5 - 129LR0403(01)-11Nongreenfield sites, as defined by the commission by rule, must be eligible for a 
+2bid enhancement value for the purpose of selecting winning bids.
+3(3)  To be eligible for contracting under this paragraph, a commercial and 
+4industrial renewable resource must have an in-service date after December 31, 
+52018.
+6(4)  Contracts must provide the owner of the commercial and industrial 
+7renewable resource a monthly credit, with a dollar value, on the owner's utility 
+8bill.
+9Sec. 6.  Rulemaking.  The Public Utilities Commission shall amend its net energy 
+10billing rules within 90 days of the effective date of this Act to conform with the changes 
+11to the Maine Revised Statutes, Title 35-A, section 3209-A under this Act.
+12Sec. 7.  Thermal renewable portfolio standard.  The Public Utilities 
+13Commission shall develop a plan for implementing a thermal renewable resource 
+14portfolio standard in accordance with this section. The thermal renewable resource 
+15portfolio standard must:
+161. Define thermal renewable resources to include, at a minimum, commercial and 
+17industrial pellet and wood heating systems, residential biomass systems and combined 
+18heat and power systems fueled by biomass;
+192. Require each competitive electricity provider in the State to demonstrate in a 
+20manner satisfactory to the commission that by 2030 4% of its portfolio of supply sources 
+21for retail electricity sales in this State is accounted for by thermal renewable resources;
+223. Require emission control standards for large thermal renewable energy generating 
+23systems; and
+244. Establish a renewable energy credit value for net thermal energy produced and 
+25allow thermal renewable energy credits to be used to satisfy portfolio requirements as is 
+26allowed for other renewable resources.
+27The commission shall submit the plan, along with implementing legislation, to the 
+28Joint Standing Committee on Energy, Utilities and Technology by January 1, 2020.  The 
+29committee may submit a bill to the Second Regular Session of the 129th Legislature 
+30related to the thermal renewable resource portfolio standard.
+31Sec. 8.  Distributed generation pilot program.  The Public Utilities 
+32Commission, by rule or order, shall develop and implement a distributed generation pilot 
+33program, referred to as "the pilot program," to encourage on-site renewable energy 
+34generation in accordance with this section.  For purposes of this section, "distributed 
+35generation" means an electricity generating facility that is interconnected to the electric 
+36distribution system but not owned by a transmission and distribution utility.
+371. The pilot program must be made available to electricity customers that pay a 
+38demand charge based on the peak electricity usage during a billing period and own a 
+39distributed generation resource that has a nameplate capacity of at least 50 kilowatts and 
+Page 6 - 129LR0403(01)-11not more than one megawatt and that is fueled by a renewable resource, as defined by the 
+2commission by rule.
+32. The commission shall determine how the rate, or tariff, is set for the purchase of 
+4electricity generated by pilot program participants.  In determining the rate or tariff, the 
+5commission shall consider whether capacity associated with the energy is included in the 
+6program, and rate or tariff, or stays with the pilot program participant. 
+73. The commission shall implement the pilot program no later than January 1, 2020. 
+8The commission shall evaluate the pilot program and report its findings and 
+9recommendations to the joint standing committee of the Legislature having jurisdiction 
+10over energy matters no later than April 15, 2023.  The committee may submit a bill 
+11related to the pilot program to the First Regular Session of the 131st Legislature.
+12SUMMARY
+13This bill does the following.
+141. It increases the portfolio requirement for new renewable resources from 10% to 
+1550% by 2030 and makes several changes to resource eligibility for the requirement to 
+16encourage solar generation and highly productive hydropower resources and to provide 
+17minimum efficiency standards for biomass resources.
+182. It directs the Public Utilities Commission to procure long-term contracts over a 5-
+19year period for 800 megawatts of grid-scale renewable resources, 90 megawatts of 
+20community-based renewable resources and 135 megawatts of renewable resources owned 
+21by commercial and industrial electricity customers.  For each of these 3 types of 
+22renewable resources, the bill requires the commission to conduct annual solicitations for 
+23the long-term contracts and specifies requirements for the procurement process, resulting 
+24contracts and resource qualification.
+253. It requires that the Public Utilities Commission rules governing net energy billing 
+26allow up to 200 customers to share ownership of an electricity generating facility for net 
+27energy billing, allow electricity generating facilities of up to one megawatt installed 
+28capacity to qualify for net energy billing and require the commission to review net energy 
+29billing when the cumulative capacity of electricity generating facilities that participate in 
+30net energy billing in the service territory of a transmission and distribution utility reaches 
+3110% of the utility's peak demand.
+324. It directs the Public Utilities Commission to develop a plan for implementing a 
+33thermal renewable resource portfolio standard to encourage commercial and industrial 
+34pellet and wood heating systems, residential biomass systems and combined heat and 
+35power systems fueled by biomass.  It requires the commission to submit a plan for the 
+36thermal renewable resource portfolio standard by January 1, 2020.
+375. It directs the Public Utilities Commission to develop, implement and evaluate a 
+38distributed generation pilot program to encourage on-site renewable energy generation. It 
+39requires the commission to evaluate the pilot program after 3 years of operation and 
+Page 7 - 129LR0403(01)-11report its findings and recommendations to the joint standing committee of the 
+2Legislature having jurisdiction over energy matters by April 15, 2023.

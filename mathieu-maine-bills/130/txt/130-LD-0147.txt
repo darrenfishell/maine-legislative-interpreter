@@ -1,0 +1,191 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 147
+H.P. 103 House of  Representatives, January 21, 2021
+An Act  To Update References to the United States Internal Revenue 
+Code of  1986 Contained  in the Maine Revised Statutes and  Amend 
+Income Tax  Modifications and the Maine Capital Investment Tax 
+Credit
+(EMERGENCY)
+Submitted by the Department of  Administrative  and Financial Services pursuant to  Joint  
+Rule 204.
+Received by the Clerk of the House on January 19, 2021.  Referred to the Committee  on 
+Taxation pursuant to Joint  Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TERRY of Gorham.
+
+Page 1 - 130LR0109(01)1Emergency preamble.  Whereas, acts and resolves of the Legislature do not 
+2 become effective until 90 days after adjournment unless enacted as emergencies; and
+3Whereas, state tax law needs to be updated to conform to federal law before the 90-
+4 day period expires to avoid delay in the processing of income tax returns for 2020; and
+5Whereas, legislative action is immediately necessary to ensure continued and 
+6 efficient administration of the state income tax and certain other state taxes; and
+7Whereas, in the judgment of the Legislature, these facts create an emergency within 
+8 the meaning of the Constitution of Maine and require the following legislation as 
+9 immediately necessary for the preservation of the public peace, health and safety; now, 
+10 therefore,
+11Be it enacted by the People of the State of Maine as follows:
+12PART A
+13Sec. A-1.  36 MRSA §111, sub-§1-A, as amended by PL 2019, c. 616, Pt. X, §1, 
+14 is further amended to read:
+151-A.  Code.  "Code" means the United States Internal Revenue Code of 1986 and 
+16 amendments to that Code as of December 31, 2019  2020.
+17Sec. A-2.  Application. This Part applies to tax years beginning on or after January 
+18 1, 2018 and to any prior tax year as specifically provided by the United States Internal 
+19 Revenue Code of 1986 and amendments to that Code as of December 31, 2020.
+20PART B
+21Sec. B-1.  36 MRSA §5122, sub-§1, ¶MM is enacted to read:
+22 MM.  For each taxable year beginning after December 31, 2017 and before January 1, 
+23 2021, an amount equal to the taxpayer's excess business loss for the taxable year 
+24 determined under the Code, Section 461(l), reduced by any amount of the loss included 
+25 in Maine taxable income for a prior tax year pursuant to paragraph H.  Notwithstanding 
+26 the application dates contained in the Code, Section 461(l)(1)(B), Section 461(l)(1)(B) 
+27 applies to the calculation for the taxable year.
+28Sec. B-2.  36 MRSA §5122, sub-§2, ¶UU is enacted to read:
+29 UU.  An amount equal to the value of any prior year addition modification under 
+30 subsection 1, paragraph MM, but only to the extent that:
+31 (1)  Maine taxable income is not reduced below zero;
+32 (2)  The amount has not previously been used as a modification pursuant to this 
+33 paragraph or otherwise used to reduce Maine taxable income; and
+34 (3)  The taxpayer does not include the amount in computing any net operating loss 
+35 carryback or carryover pursuant to the Code, Section 172 for federal income tax 
+36 purposes.
+37PART C
+38Sec. C-1.  36 MRSA §5122, sub-§1, ¶NN is enacted to read:
+Page 2 - 130LR0109(01)1 NN.  For taxable years beginning on or after January 1, 2019 and before January 1, 
+2 2021, the amount of the taxpayer's federal business interest deduction for the taxable 
+3 year that exceeds the limitation for such deduction contained in the Code, Section 
+4 163(j), applying a rate of 30% to adjusted taxable income for the purposes of the Code, 
+5 Section 163(j)(1)(B) without regard to the special rule described in the Code, Section 
+6 163(j)(10)(A)(i).
+7Sec. C-2.  36 MRSA §5122, sub-§2, ¶VV is enacted to read:
+8 VV.  For taxable years beginning on or after January 1, 2021, an amount equal to the 
+9 value of any prior year addition modification under subsection 1, paragraph NN, but 
+10 only to the extent that:
+11 (1)  Maine taxable income is not reduced below zero;
+12 (2)  No more than 25% of the amount is used as a modification in any taxable year; 
+13 and
+14 (3)  The amount has not previously been used as a modification pursuant to this 
+15 paragraph or otherwise used to reduce Maine taxable income.
+16Sec. C-3.  36 MRSA §5200-A, sub-§1, ¶GG is enacted to read:
+17 GG.  For taxable years beginning on or after January 1, 2019 and before January 1, 
+18 2021, the amount of the taxpayer's federal business interest deduction for the taxable 
+19 year that exceeds the limitation for such deduction contained in the Code, Section 
+20 163(j), applying a rate of 30% to adjusted taxable income for the purposes of the Code, 
+21 Section 163(j)(1)(B) without regard to the special rule described in the Code, Section 
+22 163(j)(10)(A)(i).
+23Sec. C-4.  36 MRSA §5200-A, sub-§2, ¶HH is enacted to read:
+24 HH.  For taxable years beginning on or after January 1, 2021, an amount equal to the 
+25 value of any prior year addition modification under subsection 1, paragraph GG, but 
+26 only to the extent that:
+27 (1)  Maine taxable income is not reduced below zero;
+28 (2)  No more than 25% of the amount is used as a modification in any taxable year; 
+29 and
+30 (3)  The amount has not previously been used as a modification pursuant to this 
+31 paragraph or otherwise used to reduce Maine taxable income.
+32PART D
+33Sec. D-1.  36 MRSA §5219-NN, sub-§2, ¶F, as repealed and replaced by PL 2017, 
+34 c. 211, Pt. D, §8, is amended to read:
+35 F.  Property owned by a person that provides multichannel, multipoint television 
+36 distribution services; and
+37Sec. D-2.  36 MRSA §5219-NN, sub-§2, ¶G, as repealed and replaced by PL 2017, 
+38 c. 211, Pt. D, §8, is amended to read:
+39 G.  Property that is not in service in the State for the entire 12-month period following 
+40 the date it is placed in service in the State. ; and
+Page 3 - 130LR0109(01)1Sec. D-3.  36 MRSA §5219-NN, sub-§2, ¶H is enacted to read:
+2 H.  Qualified improvement property, as defined in the Code, Section 168(e)(6), placed 
+3 in service after December 31, 2017 and prior to January 1, 2020.
+4PART E
+5Sec. E-1.  36 MRSA §5200-A, sub-§1, ¶HH is enacted to read:
+6 HH.  For taxable years beginning after January 1, 2019 and before January 1, 2020, an 
+7 amount equal to the difference between the taxpayer's charitable deduction as 
+8 determined under the Code, Section 170 excluding application of the amendments 
+9 made by Section 2205 of the federal Coronavirus Aid, Relief, and Economic Security 
+10 Act, Public Law 116-136, and the taxpayer's charitable deduction as determined under 
+11 the Code, Section 170 including application of the amendments made by federal Public 
+12 Law 116-136, Section 2205.
+13Sec. E-2.  36 MRSA §5200-A, sub-§2, ¶II is enacted to read:
+14 II.  For taxable years beginning after January 1, 2020 and before January 1, 2025, an 
+15 amount equal to the amount by which federal taxable income was increased under 
+16 subsection 1, paragraph HH, but only to the extent that:
+17 (1)  Maine taxable income is not reduced below zero; and
+18 (2)  The amount has not previously been used as a modification pursuant to this 
+19 paragraph or otherwise used to reduce Maine taxable income.
+20PART F
+21Sec. F-1.  36 MRSA §5122, sub-§1, ¶LL, as corrected by RR 2019, c. 1, Pt. A, 
+22 §68, is repealed.
+23Sec. F-2.  36 MRSA §5122, sub-§2, ¶TT, as enacted by PL 2017, c. 474, Pt. C, §3 
+24 and reallocated by RR 2019, c. 1, Pt. A, §69, is repealed.
+25Sec. F-3.  36 MRSA §5200-A, sub-§1, ¶DD, as corrected by RR 2019, c. 1, Pt. A, 
+26 §72, is repealed.
+27Sec. F-4.  36 MRSA §5200-A, sub-§2, ¶GG, as enacted by PL 2017, c. 474, Pt. 
+28 C, §7 and reallocated by RR 2019, c. 1, Pt. A, §73, is repealed.
+29Sec. F-5.  Retroactivity.  This Part applies retroactively to tax years beginning on 
+30 or after January 1, 2018.
+31PART G
+32Sec. G-1.  36 MRSA §5200-A, sub-§1, ¶FF, as enacted by PL 2017, c. 474, Pt. D, 
+33 §1, is amended to read:
+34 FF.  An amount equal to the taxpayer's global intangible low-taxed income deduction 
+35 claimed in accordance with the Code, Section 250(a)(1)(B).
+36Sec. G-2.  Retroactivity. This Part applies retroactively to tax years beginning on 
+37 or after January 1, 2020.
+38Emergency clause.  In view of the emergency cited in the preamble, this legislation 
+39 takes effect when approved.
+Page 4 - 130LR0109(01)1SUMMARY
+2 The bill does the following.
+3 Part A updates references to the United States Internal Revenue Code of 1986 
+4 contained in the Maine Revised Statutes, Title 36 to refer to the United States Internal 
+5 Revenue Code of 1986 as amended through December 31, 2020, for tax years beginning 
+6 on or after January 1, 2018 and for any prior tax year as specifically provided by the United 
+7 States Internal Revenue Code of 1986, as amended.
+8 Part B requires an addition modification for taxable income for income tax purposes 
+9 for federal excess business losses allowed to noncorporate taxpayers pursuant to the 
+10 Coronavirus Aid, Relief, and Economic Security Act, or "CARES Act," for taxable years 
+11 beginning after December 31, 2017 and before January 1, 2021 and a subtraction 
+12 modification for the carry-over of this amount in future years.
+13 Part C requires an addition modification for taxable income for income tax purposes of 
+14 the federal business interest deduction that exceeds 30% of adjusted taxable income 
+15 pursuant to the CARES Act for taxable years beginning on or after January 1, 2019 and 
+16 before January 1, 2021 and a subtraction modification for the carry-over of this amount in 
+17 tax years beginning on or after January 1, 2021.
+18 Part D excludes qualified improvement property placed in service after December 31, 
+19 2017 and prior to January 1, 2020 from the Maine capital investment income tax credit.
+20 Part E requires an addition modification for taxable income for income tax purposes 
+21 for the additional charitable contribution deduction allowed to corporations pursuant to the 
+22 CARES Act for taxable years beginning after January 1, 2019 and before January 1, 2020 
+23 and a subtraction modification for the carry-over of this amount in future years.
+24 Part F updates and simplifies Maine income tax law by conforming the Maine income 
+25 tax with the federal net operating loss limitation, generally known as "the 80% taxable 
+26 income limitation," and the CARES Act suspension of the limitation. This Part and Maine's 
+27 conformity to the CARES Act net operating loss limitation suspension in Part A apply 
+28 retroactively to tax years beginning on or after January 1, 2018.  Under Part F, the 80% 
+29 taxable income limitation applies to tax years beginning after 2020.
+30 Part G expands the addition modification for the amount of the global intangible low-
+31 taxed income deduction.  For tax years beginning on or after January 1, 2020, the 
+32 modification is for the total amount of the foreign-derived intangible income and global 
+33 intangible low-taxed income deduction claimed in accordance with the Internal Revenue 
+34 Code, Section 250(a).

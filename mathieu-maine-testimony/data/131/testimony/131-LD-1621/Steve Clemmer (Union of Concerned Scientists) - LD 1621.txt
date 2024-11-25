@@ -1,0 +1,263 @@
+ 
+ 
+April 24 , 202 3 
+ 
+Committee on Environment and Natural Resources  
+c/o Office of Fiscal and Program Review  
+5 State House Station  
+Augusta, ME 04333  
+ 
+ 
+RE:  Support  of LD 1621 , An Act to Regarding Environmental Justice , with improvements  
+ 
+Dear Senator  Brenner, R epresentativ e Gramlich,  and other members of the Committee,  
+ 
+My name is Steve Clemmer, Director of Energy Research in the Union of Concerned Scientists 
+(UCS) Climate and Energy Program. UCS is the nation’s leading science based non -profit 
+organization with more than a half a million supporters, including more than 2 ,500 in Maine. On 
+behalf of UCS, I offer this testimony in support of LD 1621 with improvements  (as specifically 
+detailed in the attached Exhibit A) .   
+ 
+In addition  to testifying in support of LD 2018 last year , I participated in the subsequent Maine Public 
+Utilities Commission (PUC) proceeding to prioritize  funding to encourage greater participation by 
+environmental justice  groups and disadvantaged communities in PUC proceedings , submitting joint 
+comments with ot her environmental, community -based, and youth groups .1 I also participated in the 
+virtual public forums organized by the Governor’s Office on Policy Innovation and the Future 
+(GOPIF) , which incorporated feedback from diverse stakeholders  that attended tho se forums  into 
+their February 2022  report to the legislature .2 
+ 
+My comments on LD 1621  are also informed by work UCS is doing in collaboration with 
+environmental justice, frontline, and disadvantaged communities  in other states and at the federal 
+level. This includes being a  co-author and original signatory of the Equitable and Just National 
+Climate Platform, which  has been  signed by 324 organizations .3 
+ 
+UCS has support ed the creati on of state-specific  definition s of environmental just ice population s in 
+many  of these efforts . However, we’re concerned that the current version of LD 1621  is not likely to 
+result in a durab le and effe ctive state-specific definition  without significant improvements . 
+ 
+ 
+1 Joint Supplemental Comments of Conservation Law Foundation, Union of Concerned Scientists, Natural Resources 
+Defense Council of Maine, Acadia Center, Maine Conservation Voters, Maine Climate Action Now, and Slingshot. 
+Amendments to Intervenor and Particip ant Funding Rule (Chapter 840), Docket No. 2022 -00299, November 21, 2022. 
+Online at:  https://mpuc -cms.maine.gov/CQM.Public.WebUI/Common/ViewDoc.aspx?DocRefId={0DDF9B3A -9F16 -47A0 -
+B1C5 -E1871356F2B8}&DocExt=pdf&DocName={0DDF9B3A -9F16 -47A0 -B1C5 -E1871356F2B8}.p df 
+2 Governor’s Office of Policy Innovation and the Future Report on Equity Considerations in Decision Making Pursuant to 
+An Act To Require Consideration of Climate Impacts by the Public Utilities Commission and To Incorporate Equity 
+Considerations in Deci sion Making by State Agencies, Online at: 
+https://www.maine.gov/tools/whatsnew/attach.php?id=6869935&an=1  
+3 https://ajustclimate.org/index.html  
+ 
+ Exhibit A below includes several recommended changes and improvements to the bill language  
+drawing on  our experience and best practices from other states . The four main  improvements  include : 
+1) modifying some of the existing definitions  to be more inclusive , 
+2) adding new definitions for environmental benefits, environmental burdens, environmental 
+justice principles , and environmental justice population s,  
+3) requiring DEP to establish an  Environment al Justice Advisory Council , and 
+4) requiring DEP to create an Environmental Justice Community Engagement Plan .  
+ 
+As discussed  in our November 2022 joint intervenor funding comments to the  PUC , there is not one 
+single definition of “environmental justice populations” that will be  uniformly applicable across every 
+state seeking to define the term. The definition should reflect  the on -the-ground reality of geographic 
+areas that are: underserved by the current infrastructure,  markets, and laws; lacking a ccess to 
+environmental benefits; and overburdened by pollution,  infrastructure, and climate impacts. The 
+definition should be based on demographic factors  including race, income, and limited English 
+proficiency. In some circumstances, it will be  appropriat e to exclude high -income communities that 
+are encapsulated by other indicators  (although we caution that communities generally perceived as 
+wealthy are often not exclusively  so). The definition should also include an opt -in provision that 
+allows some flexi bility for  designation of neighborhoods that meet certain criteria. Any definitions 
+and thresholds used  should be carefully informed by resident input and local knowledge.  
+ 
+At least eight o ther states, including six in the Northeast (CT, MA, NJ, NY, RI  and VT) , have adopted 
+specific  definitions of environmental justice populations . Based on  analysis by the Conservation Law 
+Foundation , we laid out four possible state specific definitions  of environmental justice populations 
+for the Commission to consider  in our joint comments  using  criteria for income, race , and English 
+proficiency that would cover  an estimated  32% - 57% of the Maine’s population . We support using a 
+broader, more inclusive definition  of environmental justice populations in LD 1621  that would cover 
+an estimated 52%  of Maine’s population . Using  this definition, Maine would be among the regional 
+leaders in cover age of its population , compar able with Vermont  at 55% and New Jersey at 51%.   
+ 
+The federal government also provides approaches to identifying environmental justice  populations in 
+different contexts. However, we caution against wholesale adoption of those  definitions as we find 
+them deficient in multiple regards —principally, for failing to use race as  an indicat or—and in any 
+case, they are not designed to account for Maine’s  specific demographic composition.  
+ 
+We do not believe a  state specific definition will conflict with the federal  definition and J ustice40 
+initiative goal that at least “40 percent of the overall benefits of certain federal investments flow to 
+disadvantaged communities that are marginalized, underserved, and ov erburdened by pollution. ”4  
+This federal program effectively serves as a floor that states can build on . A state specific definition 
+will allow Maine to  target  supplement al funding  at populations not covered by the federal definition.   
+ 
+We believe these improvements to the bill will enhance the participation and contribution of more 
+diverse perspectives in state agency decision  making that will res ult in stronger and better -informed  
+decisions  and improv e services for all communiti es. We also believe that more robust processes and 
+upfront opportunities for engagement may lead to greater public support and buy -in to the results, 
+lowering  regulatory risk by obviating or reducing the need for subsequent challenges to agency 
+decisions . 
+ 
+Thank you for the opportunity to testify  on LD 1621 . 
+ 
+4 https://www.whitehouse.gov/environmentaljustice/justice40/  
+ 
+ Exhibit A: UCS recommended improvements to LD 1621  
+ 
+1 Be it enacted by the People of the State of Maine as  follows:  
+2 Sec. 1. 38 MRSA §349 -C is enacted to  read:  
+3 §349 -C. Environmental justice  
+4 1. Definitions.  As used in this section,  unless  the context  otherwise  indicates,  the 
+5 following terms have the following  meanings.  
+6 A. “Environmental justice ” means the fair treatment a nd meaningful involvement of  
+7 all people  regardless  of race,  color,  national  origin , ability, gender identify, sexual 
+orientation, ethnicity or ancestry, religious belief, English language proficiency , or 
+income  with respect  to the development, implementation and enforcement of 
+environmental laws,  rules, regulations and  policies. Environmental justice seeks to 
+ensure the equitable distribution of environmental benefits, protection from 
+environmental and health hazards, and access to the decision -making process to have a 
+healthy environment in which to live, learn, and work.  
+8 B. “Fair treatment ” means  that no group  of people  bears  a disproportionate  share  of 
+9 the negative  environmental  harms  consequences resulting  from  industrial,  
+governmental  or 
+10 commercial operations or  policies , and climate impacts . 
+11 C. “Frontline communities ” means those people and communities that experience  the 
+12 consequences of climate change first and to a greater degree than other people  and 
+13 communities.  
+14 D. “Meaningful  involvement ” means,  with respect  to the department ’s decision -making  
+15 process, that:  
+16 (1) People and communities have an opportunity to participate in  the 
+17 decision -making  process  regarding  activities  that have the potential  to affect  the 
+18 environment or public  health;  
+19 (2) The department  seeks  out and facilitates  the involvement  in the 
+20 decision -making process of potentially affected people and  communities;  
+21 (3) The contributions of people and communities to the decision -making  process  
+22 can influence the department ’s decision making;  and 
+(4)The  department shall address  considers in  its  decision  making  the  concerns  
+and contributions of people and communities provided as part of the  decision -
+making  process , as well as any cumulative impacts on those people and communities.  
+23  
+E. “Environmental benefits” means the access to clean natural resources, including air, 
+water, open space, and outdoor recreational facilities and venues; healthy homes and 
+buildings; community revitaliz ation, ecological restoration, clean energy access, 
+resilience planning, environmental enforcement; and a just recovery for communities 
+most affected by longstanding underinvestment, environmental burdens and extreme 
+weather and climate -related disasters.  
+ 
+F. “Environmental burdens” means any destruction, damage or impairment of natural 
+resources that is not insignificant, resulting from intentional or reasonably foreseeable 
+causes, including but not limited to, climate change, air pollution, water pollutio n, 
+ 
+ improper sewage disposal, dumping of solid wastes and other noxious substances, 
+excessive noise, activities that limit access to environmental benefits and natural 
+resources, inadequate remediation of pollution, reduction of ground water levels, 
+impairm ent of water quality, increased flooding or storm water flows, and damage to 
+inland waterways and waterbodies, wetlands, marine shores and waters, forests, and 
+open spaces from industrial, commercial or government operations or other activity that 
+contamin ates or alters the quality of the environment and poses a risk to public health.  
+ 
+G. “Environmental justice principles” means principles that support protection from 
+environmental pollution and the ability to live in and enjoy a clean and healthy 
+environment, regardless of race, color, income, class, national origin, ethnicity or 
+ancestry, ability, gender, identity, sexual orientation, religious belief, or English 
+language proficiency, which includes: (i) the meaningful involvement of environmental  
+justice populations with respect to the development, implementation and enforcement of 
+environmental laws, regulations and policies; and (ii) the equitable distribution of 
+environmental benefits and environmental burdens.  
+ 
+H.  “Environmental justice populations” means a census block group (1) where the 
+median annual household income does not exceed 80 percent of the state’s annual 
+median household income (2) where people of color and/or indigenous people make up 
+more than seven percent of the populatio n, but where the annual median household 
+income does not exceed  150 percen t of the s tate’s annual me dian househ old inc ome, or 
+(3) where more than one percent of households are categorized as limited English 
+proficient. For a census block group that does not meet said criteria, but a geographic 
+portion of that census block group meets at least 1 criterion, the commissioner ma y 
+designate that geographic portion as an environmental justice population upon the 
+petition of at least 10 residents of the geographic portion of that neighborhood meeting 
+any such criteria . 
+ 
+24 2. Consideration  of environmental  justice  populations  and frontline  communities.  
+25 The department  shall  ensure  that persons  in environmental  justice  populations  and frontline  
+26 communities   are   provided   with   fair   and   equitable   access   to   the   department's  
+27 decision -making  processes  under  section  341-H. When the department makes decisions that 
+have the potential to impact environmental justice populations concerning  the development, 
+implementation and enforcement of environmental laws, regulations and policies, it shall 
+implement its community engagement plan at the beginning of any related process, effectively 
+address community concerns before moving forward with a decision, and shall conduct and 
+consider in its final decision a cumulative environmental benefits and environm ental burdens 
+analysis.  The department  shall  adopt  rules  establishing procedures to implement this  
+subsection no later than July 31, 2024 . 
+28 A. Rules  adopted  by the department  pursu ant to this subsection  must  define  
+29 "environmental justice populations," taking into consideration, at a minimum,  median  
+30 household income, race, ethnicity and English language  proficiency.  
+31 BA. Rules adopted by the department pursuant to this subsection are routine  technical  
+32 rules  as defined  in Title  5, chapter  375, subchapter  2-A, except  that the board  shall  hold 
+33 a hearing  in accordance  with Title  5, section  8052  prior  to the adoption  of any rule 
+34 proposed pursuant to this  subsection.  
+3. Environmental Justice Advisory Council.  
+By December 1, 2023, the department shall establish an Environmental Justice Advisory 
+ 
+ Council. The department shall consult with the Environmental Justice Advisory Council, 
+which shall provide recommendations to the department in developing the rules to im plement 
+this section and its environmental justice community engagement plan. The Environmental 
+Justice Advisory Council shall be comprised of at least 7 and no more than 9 members, with 
+three appointed by the commissioner, four by the Speaker of the House , and the remainder by 
+the Governor.  Members of the Environmental Justice Advisory Council shall be well -
+informed regarding environmental justice principles and shall serve until the adoption of 
+final rules and an environmental justice community engagement plan . The Advisory Council 
+shall be comprised of environmental justice stakeholders including: scientific or other experts 
+in environmental or public health matters holding academic position in colleges, universities 
+or other research institutio ns and who work regularly in, or conduct substantial research 
+regarding environmental justice concerns;   representatives of the environmental nonprofit 
+sector;   representatives of conservation commissions or boards of health; residents or elected 
+officials  of Environmental Justice Population neighborhoods. No fewer than four of the 
+persons appointed to the Advisory Council shall be residents of Environmental Justice 
+Population neighborhoods within the  state of Maine.  
+4. Environmental Justice Community Engag ement Plan.  
+By July 31, 2024, the department shall create and adopt an environmental justice community 
+engagement plan that describes how it will engage with environmental justice populations as 
+it undertakes its decision making. The plan shall take into c onsideration the 
+recommendations of the Environmental Justice Advisory Council. The plan shall describe 
+how the department will provide meaningful involvement in the department’s decision -
+making process . 
+35 Sec. 2. Appropriations and allocations. The following appropriations  and 
+36 allocations are  made.  
+  
+ 
+ 5 
+12 
+19 
+20 
+21 
+22 
+23 
+24 1 ENVIRONMENTAL PROTECTION, DEPARTMENT  OF 
+2 Maine Environmental Protection Fund  0421  
+3 Initiative: Provides one -time funding for facilitator services, travel expenses,  facility  
+4 rentals and meeting  expenses.  
+ 
+5 GENERAL FUND  2023 -24  2024 -25 
+6 All Other  $150,000   $0 
+7     
+8 GENERAL FUND TOTAL  $150,000   $0 
+9 Maine Environmental Protection Fund 0421     
+10 Initiative:  Provides  funding  for one Public  Service  Coordinator  I position,  2 Law Clerk  
+11 positions, one GIS Coordinator position and associated position  costs.  
+12 GENERAL FUND  2023 -24 2024 - 
+13 POSITIONS - LEGISLATIVE  COUNT  4.000  4.000  
+14 Personal  Services  $210,522  $294,731  
+15 All Other   $9,219   $12,292  
+16 
+17 GENERAL  FUND  TOTAL  $219,741  $307,023 
+18 
+19 ENVIRONMENTAL  PROTECTION,  
+20 DEPARTMENT  OF 
+21 DEPARTMENT  TOTALS  2023 -24 2024 -25 
+22 
+23 GENERAL FUND  $369,741  $307,023  
+24 
+25 DEPARTMENT TOTAL - ALL  FUNDS  $369,741  $307,023  
+26 SUMMARY  
+27 This bill enacts  a provision  that requires  fair and equitable  access  to Department  of 
+28 Environmental  Protection  decision -making  processes  for environmental  justice  
+29 populations  and frontline  communities.  The bill provides  appropriations  for various  
+30 positions in the department and for facilitator services, travel expenses, facility rentals  and 
+31 meeting expenses.  
+ 

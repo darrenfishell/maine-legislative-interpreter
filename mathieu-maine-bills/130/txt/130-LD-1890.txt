@@ -1,0 +1,177 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1890
+H.P. 1400 House of Representatives, January 5, 2022
+An Act To Create a Rental Fleet Registration Program and Equalize 
+the Tax Rate Imposed on Rental Vehicles
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Transportation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative PERRY of Bangor.
+
+Page 1 - 130LR2393(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  29-A MRSA §412 is enacted to read:
+4§412.  Rental fleet registration
+51.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+6 following terms have the following meanings.
+7 A.  "Rental fleet" means a fleet containing more than 25 rental fleet vehicles.
+8 B.  "Rental fleet vehicle" means a motor vehicle that is:
+9 (1)  Owned by a person engaged in the business of renting motor vehicles;
+10 (2)  Offered for rental without a hired driver under a rental agreement; and
+11 (3)  Designated by the registered owner of the motor vehicle as a rental fleet vehicle 
+12 at the time of registration.
+132.  Program established.  A rental fleet registration program is established to provide 
+14 a means of issuing certificates of registration for rental fleet vehicles.  The Secretary of 
+15 State shall adopt rules to administer the rental fleet registration program.  Rules adopted 
+16 under this subsection must provide for:
+17 A.  An application form;
+18 B.  The payment of fees;
+19 C.  The addition of rental fleet vehicles to and the removal of rental fleet vehicles from 
+20 a rental fleet; 
+21 D.  The issuance of certificates of registration for rental fleet vehicles; and
+22 E.  The revocation of a certificate of registration for noncompliance with this section.
+233.  License plate.  The Secretary of State shall determine the design for a rental fleet 
+24 license plate. The design must include distinctive colors and graphics. The design may 
+25 indicate that the plate does not have an expiration date.  The design may not include an 
+26 expiration date.
+274.  Application.  The owner of a rental fleet may apply to the Secretary of State to 
+28 register rental fleet vehicles under this section.  The application for registration under this 
+29 section must be in a form prescribed by the Secretary of State and must include:
+30 A.  For each rental fleet vehicle, the information required in section 401, subsection 2;
+31 B.  The election of a common registration renewal month for the rental fleet; and
+32 C.  For each rental fleet vehicle, the municipality to which the excise tax described in 
+33 Title 36, section 1482 is to be paid.
+345.  Fees.  A registration fee must accompany a registration application submitted under 
+35 this section. The fee is in an amount equal to the applicable annual registration fee required 
+36 by section 501 or 504, as applicable.  In addition to the annual registration fee, an annual 
+37 $2.50 inspection exemption fee applies to a rental fleet vehicle exempt from inspection 
+38 under section 1752-A.  A fee collected under this subsection must be credited to the General 
+39 Highway Fund.
+Page 2 - 130LR2393(01)16.  Approval.  The Secretary of State shall approve an application for the registration 
+2 of rental fleet vehicles that conforms to the rules adopted pursuant to this section and is 
+3 accompanied by the appropriate fee.  On approval of an application for the registration of 
+4 rental fleet vehicles, the Secretary of State shall:
+5 A.  Record the registration of each rental fleet vehicle described in the registration 
+6 application;
+7 B.  Assign the owner of the rental fleet a rental fleet number;
+8 C.  Issue a certificate of registration that contains the name and address of the owner 
+9 of the rental fleet, the rental fleet number assigned under paragraph B and the 
+10 registration renewal month; and
+11 D.  Issue a set of 2 rental fleet license plates for each registered rental fleet vehicle.
+127.  Renewal; revocation.  The owner of a rental fleet shall renew the registration 
+13 together with the payment of the applicable registration fees annually on or before the last 
+14 day of the registration renewal month assigned to the rental fleet.  If an owner fails to renew 
+15 the registration as provided by this subsection, the Secretary of State shall revoke the 
+16 registration.
+178.  Validity.  A certificate of registration and rental fleet license plates issued under 
+18 this section are valid as long as the vehicle is maintained as part of the rental fleet and the 
+19 owner renews the registration annually.  Display of the rental fleet license plates is prima 
+20 facie evidence that a vehicle has been registered in accordance with this section.
+219.  Transfer.  If an owner removes a rental fleet vehicle registered under this section 
+22 from a rental fleet, the owner may transfer the registration, including the certificate of 
+23 registration and the rental fleet license plates, to another rental fleet vehicle, which must be 
+24 registered within the same registration year.  The fee for transferring a registration under 
+25 this subsection is $8.  If the registration fee for the vehicle to which the registration is 
+26 transferred is greater than the fee for the vehicle that was removed, the owner shall pay the 
+27 difference when registering the vehicle to which the registration was transferred.  A 
+28 registration transferred under this subsection is subject to reimbursement in the same 
+29 manner as described in Title 36, section 2015, subsection 2.
+3010.  Compliance with International Registration Plan.  Registration under this 
+31 section has no effect on a motor vehicle owner's responsibilities under the International 
+32 Registration Plan described in section 531.
+3311.  Rules.  The Secretary of State shall adopt rules to implement this section.  Rules 
+34 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 
+35 375, subchapter 2-A.
+36Sec. A-2.  29-A MRSA §1752-A is enacted to read:
+37§1752-A.  Temporary exemption
+38 A rental fleet vehicle registered under section 412 is exempt from inspection until the 
+39 last day of the registration renewal month of the 3rd year following the year the vehicle 
+40 was manufactured, or until the date the vehicle is removed from the rental fleet, whichever 
+41 is earlier.  After the exemption period has expired or the vehicle has been removed from 
+42 the rental fleet, the vehicle is subject to inspection in accordance with section 1751.  
+Page 3 - 130LR2393(01)43 Display of rental fleet license plates creates a presumption that the vehicle is exempt from 
+44 inspection.
+3PART B
+4Sec. B-1.  36 MRSA §1752, sub-§11, ¶B, as amended by PL 2021, c. 181, Pt. B, 
+5 §§2 and 3, is further amended by amending subparagraph (3) to read:
+6 (3)  The sale, to a person primarily engaged in the business of renting automobiles, 
+7 of automobiles, integral parts of automobiles or accessories to automobiles, for 
+8 rental or for use in an automobile rented for a period of less than one year  an 
+9 automobile or of a truck or van with a gross vehicle weight of less than 26,000 
+10 pounds for the purpose of rental for a period of less than one year or of integral 
+11 parts or accessories to an automobile or to a truck or van with a gross vehicle 
+12 weight of less than 26,000 pounds;
+13Sec. B-2.  36 MRSA §1752, sub-§14, ¶A, as amended by PL 2019, c. 401, Pt. B, 
+14 §5, is further amended by amending subparagraph (4) to read:
+15 (4)  In the case of the lease or rental for a period of less than one year of an 
+16 automobile or of a pickup truck or van with a gross vehicle weight of less than 
+17 26,000 pounds rented from a person primarily engaged in the business of renting 
+18 automobiles, the value is the total rental charged to the lessee and includes, but is 
+19 not limited to, maintenance and service contracts, drop-off or pick-up fees, airport 
+20 surcharges, mileage fees and any separately itemized charges on the rental 
+21 agreement to recover the owner's estimated costs of the charges imposed by 
+22 government authority for title fees, inspection fees, local excise tax and agent fees 
+23 on all vehicles in its rental fleet registered in the State.  All fees must be disclosed 
+24 when an estimated quote is provided to the lessee; and
+25Sec. B-3.  36 MRSA §1752, sub-§17-B, as amended by PL 2013, c. 156, §2, is 
+26 further amended to read:
+2717-B.  Taxable service.  "Taxable service" means the rental of living quarters in a 
+28 hotel, rooming house or tourist or trailer camp; the transmission and distribution of 
+29 electricity; the rental or lease of an automobile, a camper trailer, or a motor home, as 
+30 defined in Title 29‑A, section 101, subsection 40; the rental or lease of a pickup truck or 
+31 van with a gross vehicle weight of less than 26,000 pounds from a person primarily engaged 
+32 in the business of renting automobiles; the sale of an extended service contract on an 
+33 automobile or truck that entitles the purchaser to specific benefits in the service of the 
+34 automobile or truck for a specific duration; and the sale of prepaid calling service.
+35Sec. B-4.  36 MRSA §1811, sub-§1, ¶D, as amended by PL 2019, c. 607, Pt. B, 
+36 §5, is further amended by amending subparagraph (4), division (b) to read:
+37 (b)  A pickup truck or van with a gross vehicle weight of less than 26,000 
+38 pounds rented from a person primarily engaged in the business of renting 
+39 automobiles; or
+40SUMMARY
+41 Part A of this bill establishes a registration program for rental fleet vehicles that 
+42 includes:1
+2
+41
+42
+Page 4 - 130LR2393(01)1 1.  A common registration renewal month;
+2 2.  A unique owner registration number;
+3 3.  Required annual renewal;
+4 4.  The issuance of certificates of registration;
+5 5.  Distinctive license plates;
+6 6.  A temporary exemption from inspection requirements; and
+7 7.  The ability to transfer and remove rental fleet vehicles.
+8 Part A also specifies that participation in the rental fleet vehicle registration program 
+9 has no effect on the requirements of the International Registration Plan.
+10 Part B of the bill addresses the treatment of vehicles owned by a rental car company 
+11 for purposes of the sales and use tax.  Current law requires that a rental car company that 
+12 purchases a truck pay sales tax on that truck but is not required to charge sales tax on the 
+13 charge for renting the truck to a consumer.  Part B makes such a purchase exempt from the 
+14 sales tax and makes the rental subject to the rate of a taxable service.  Part B also makes 
+15 technical corrections to the tax law regarding trucks.

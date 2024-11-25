@@ -1,0 +1,91 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -800) (LD 2114 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR3220(02)-1
+COMMITTEE AMENDMENT1L.D. 2114
+2
+3VETERANS AND LEGAL AFFAIRS
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1507, L.D. 2114, Bill, “An Act To 
+10Implement the Recommendations of the Secretary of State Regarding Automatic Voter 
+11Registration”
+12Amend the bill in section 1 by striking out all of subsection 1 (page 1, lines 4 to 10 in 
+13L.D.) and inserting the following:
+14'1.  Application for driver's license or nondriver identification card; creation of 
+15pending voter registration record.  If an individual applies for a driver's license or 
+16nondriver identification card from the bureau, the bureau shall scan record the 
+17documentation provided by the individual that provides proof of voter eligibility and, 
+18unless the individual opts out under section 234, create a pending voter registration record 
+19for that individual, which must be stored electronically in the bureau's database.  The 
+20pending voter registration record and the record of the accompanying scanned 
+21documentation must be in a searchable, auditable format.' 
+22Amend the bill in section 2 in subsection 1-A in the 3rd line (page 1, line 14 in L.D.) 
+23by striking out the following: "necessary"
+24Amend the bill in section 2 in subsection 1-A in the 4th line (page 1, line 15 in L.D.) 
+25by striking out the following: "individual," and inserting the following: 'individual that 
+26provides proof of voter eligibility,'
+27Amend the bill by inserting after section 2 the following:
+28'Sec. 3.  21-A MRSA §232, sub-§3, as enacted by PL 2019, c. 409, §6 and 
+29affected by §9, is amended to read:
+303.  Electronic transmission of voter registration data.  Unless the individual has 
+31opted out of automatic voter registration as provided in section 234, if If an individual's 
+32pending voter registration record establishes voter eligibility, the bureau shall transmit 
+33electronically the individual's pending voter registration record to the applicable registrar 
+34of voters in a format that may be reviewed by the registrar and converted and uploaded 
+35into the central voter registration system.' Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1507, L.D. 2114
+Page 2 - 129LR3220(02)-1
+COMMITTEE AMENDMENT1Amend the bill by striking out all of section 4 and inserting the following:
+2'Sec. 4.  Effective date.  Those sections of this Act that amend the Maine Revised 
+3Statutes, Title 21-A, section 232, subsections 1 and 3 and enact Title 21-A, section 232, 
+4subsection 1-A take effect January 1, 2022.' 
+5Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+6section number to read consecutively.
+7SUMMARY
+8This amendment, which is the majority report of the committee, resolves a conflict in 
+9the law by clarifying that, when an individual provides documentation that provides proof 
+10of voter eligibility in the course of applying for a driver's license or nondriver 
+11identification card from the Department of the Secretary of State, Bureau of Motor 
+12Vehicles, the individual must be given the opportunity to opt out of voter registration 
+13before the bureau creates an electronic pending voter registration record for the 
+14individual.
+Approved: 03/13/20
+LD 2114 LR 3220 (02)
+No fiscal impact129th MAINE LEGISLATURE
+An Act To Implement the Recommendations of the Secretary of State Regarding Automatic Voter 
+Registration
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Veterans and Le gal Affairs
+Fiscal Note Re quired: No
+Fiscal Note
+LR3220(02) - Fiscal Note - Page 1 of 1

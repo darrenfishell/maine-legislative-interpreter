@@ -1,0 +1,524 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 668
+H.P. 495 House of  Representatives, March 3, 2021
+An Act  To Ensure Public Accountability While Implementing a 
+Practical Approach to  Remote Participation
+Received by the Clerk of the House on March 1, 2021.  Referred to the Committee  on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BABBIDGE of Kennebunk.
+
+Page 1 - 130LR1348(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  1 MRSA §403-B is enacted to read:
+4§403-B.  Remote participation in public proceedings
+5 It is the intent of the Legislature that actions of public bodies subject to this subchapter 
+6 be taken openly and their deliberations be conducted openly.  This section governs 
+7 participation in a public proceeding of such a public body by a member of that public body 
+8 when the member is not physically present.  Remote participation may not be used to defeat 
+9 the purposes of this subchapter as stated in section 401.  The Legislature may not allow its 
+10 members to participate remotely in public proceedings of the Legislature.
+111.  Definition.  As used in section, "remote participation" means participation through 
+12 telephonic, video, electronic or other similar means of communication.
+132.  Remote participation; requirements.  Except as provided in subsection 6, a public 
+14 body subject to this subchapter may not allow a member of the public body to participate 
+15 remotely in any of its public proceedings unless the remote participation is in accordance 
+16 with this subchapter and:
+17 A.  After notice and public hearing, the public body has adopted a written policy or 
+18 rule that authorizes a member of the public body who is not physically present to 
+19 participate in a public proceeding of that public body in a manner that allows all 
+20 members to simultaneously hear and speak to each other during the public proceeding 
+21 and allows members of the public attending the public proceeding at the location 
+22 identified in the notice required by section 406 to hear all members of the public body.  
+23 The policy may not allow remote participation in executive sessions.  The policy must 
+24 prohibit a member who is participating in the public proceeding remotely from voting 
+25 on an issue that was discussed in an executive session if the executive session 
+26 immediately precedes the proceeding in which the vote is taken;
+27 B.  For a public body consisting of 3 or fewer members, at least one member is 
+28 physically present at the location identified in the notice required by section 406; and, 
+29 for a public body consisting of more than 3 members, a quorum is physically present 
+30 at the location identified in the notice required by section 406, unless immediate action 
+31 is imperative and physical presence of a quorum is not reasonably practicable within 
+32 the period of time in which action must be taken.  The determination that a quorum is 
+33 not required under this paragraph must be made by the presiding officer of the public 
+34 body and the facts supporting that determination must be included in the minutes of the 
+35 meeting.  A public body consisting of 3 or more members may not consider matters 
+36 other than those requiring immediate action in a public proceeding held pursuant to this 
+37 subsection when a quorum is not physically present.  Each member must be physically 
+38 present for at least one proceeding each year;
+39 C.  Each member of the public body who is participating in the public proceeding 
+40 remotely identifies for the record all persons present at the location from which the 
+41 member is participating.  The member shall note for the record when any person enters 
+42 or leaves the location throughout the course of the public proceeding;
+43 D.  All votes taken during the public proceeding are taken by roll call; and
+Page 2 - 130LR1348(01)1 E.  Each member of the public body who is participating in the public proceeding 
+2 remotely receives any documents or other materials presented or discussed at the public 
+3 proceeding in advance or when made available at the public proceeding if the 
+4 transmission technology is available.
+5 A member of the public body who is not physically present at the location identified in the 
+6 notice required by section 406 may not participate and may not vote in an adjudicatory 
+7 proceeding.
+8 Failure to comply with this subsection does not invalidate an action of the body.
+93.  State public bodies.  The policy under subsection 2 applicable to a state public 
+10 body must be adopted by the public body as a major substantive rule under the Maine 
+11 Administrative Procedure Act.
+124.  County and municipal public bodies.  A county or municipality may by ordinance 
+13 require stricter requirements than those set out in this section and may prohibit remote 
+14 participation by any public body under its jurisdiction.
+155.  Elected public bodies.  A public body consisting of elected members may adopt 
+16 the policy under subsection 2 only after the constituents of the public body have voted to 
+17 authorize the public body to adopt the remote participation policy.  The public body shall 
+18 provide notice and hold a separate hearing before adopting the remote participation policy.
+196.  Exceptions.  The following public bodies are exempt from the provisions of this 
+20 section, and a member of the following bodies may participate in a public proceeding of 
+21 the public body when the member is not physically present:
+22 A.  The Finance Authority of Maine, as provided in Title 10, section 971-A;
+23 B.  The Commission on Governmental Ethics and Election Practices, as provided in 
+24 Title 21-A, section 1002, subsection 2;
+25 C.  The Maine Health and Higher Educational Facilities Authority, as provided in Title 
+26 22, section 2054, subsection 4;
+27 D.  The Maine State Housing Authority, as provided in Title 30-A, section 4723, 
+28 subsection 2, paragraph B;
+29 E.  The Maine Municipal Bond Bank, as provided in Title 30-A, section 5951, 
+30 subsection 4;
+31 F.  The Emergency Medical Services' Board, as provided in Title 32, section 88, 
+32 subsection 1, paragraph D; and
+33 G.  The Workers' Compensation Board, as provided in Title 39-A, section 151, 
+34 subsection 5.
+35 This subsection is repealed July 1, 2027.
+36PART B
+37Sec. B-1.  10 MRSA §971, as amended by PL 1995, c. 117, Pt. C, §1, is repealed.
+38Sec. B-2.  10 MRSA §971-A is enacted to read:
+39§971-A.  Actions of the members
+401.  Quorum required.  Seven members of the authority constitute a quorum of the 
+41 members.  The affirmative vote of the greater of 5 members, present and voting, or a 
+42 majority of those members present and voting is necessary for any action taken by the 
+Page 3 - 130LR1348(01)43 members.  A vacancy in the membership of the authority does not impair the right of the 
+44 quorum to exercise all powers and perform all duties of the members.
+32.  Emergency meeting.  Notwithstanding any provision of law to the contrary, in a 
+4 situation determined by the chief executive officer to be an emergency requiring action of 
+5 the members on not more than 3 days' oral notice, an emergency meeting of the members 
+6 may be conducted by telephone under the following conditions:
+7 A.  A conference call to the members must be placed by ordinary commercial means 
+8 at an appointed time;
+9 B.  The authority shall arrange for the conference call to be recorded when the authority 
+10 determines it to be appropriate and shall prepare minutes of the emergency meeting; 
+11 and
+12 C.  Public notice of the emergency meeting must be given in accordance with Title 1, 
+13 section 406 and that public notice must include the time of the meeting and the location 
+14 of a telephone with a speakerphone attachment that enables all persons participating in 
+15 the telephone meeting to be heard and understood and that is available for members of 
+16 the public to hear the business conducted at the telephone meeting.
+17 This subsection is repealed July 1, 2027.
+18Sec. B-3.  21-A MRSA §1002, sub-§2, as amended by PL 2011, c. 389, §2, is 
+19 further amended to read:
+202.  Telephone meetings.  The commission may hold meetings over the telephone if 
+21 necessary, as long as the commission provides notice to all affected parties in accordance 
+22 with the rules of the commission and the commission's office remains open for attendance 
+23 by complainants, witnesses, the press and other members of the public.  Notwithstanding 
+24 Title 1, chapter 13, telephone meetings of the commission are permitted:
+25 A.  During the 28 days prior to an election when the commission is required to meet 
+26 within 2 business days of the filing of any complaint with the commission; or
+27 B.  To address procedural or logistical issues before a monthly meeting, such as the 
+28 scheduling of meetings, deadlines for parties' submission of written materials, setting 
+29 of meeting agenda, requests to postpone or reschedule agenda items, issuing subpoenas 
+30 for documents or witnesses and recusal of commission members.
+31 This subsection is repealed July 1, 2027.
+32Sec. B-4.  22 MRSA §2054, sub-§4, as amended by PL 2015, c. 449, §2, is further 
+33 amended to read:
+344.  Powers of authority.  The powers of the authority are vested in its members, and 5 
+35 members of the authority constitute a quorum at any meeting of the authority.  A vacancy 
+36 in the membership of the authority does not impair the right of a quorum to exercise all the 
+37 rights and perform all the duties of the authority.  An action taken by the authority under 
+38 this chapter may be authorized by resolution approved by a majority of the members present 
+39 at any regular or special meeting, which resolution takes effect immediately, or an action 
+40 taken by the authority may be authorized by a resolution circularized or sent to each 
+41 member of the authority, which resolution takes effect at such time as a majority of the 
+42 members have signed an assent to such resolution.  Resolutions of the authority need not 1
+2
+Page 4 - 130LR1348(01)43 be published or posted.  The authority may delegate by resolution to one or more of its 
+44 members or its executive director such powers and duties as it considers proper.
+3 The authority may meet by telephonic, video, electronic or other similar means of 
+4 communication with less than a quorum assembled physically at the location of a public 
+5 proceeding identified in the notice required by Title 1, section 406 only if:
+6 A.  Each member can hear all other members, speak to all other members and, to the 
+7 extent reasonably practicable, see all other members by videoconferencing or other 
+8 similar means of communication during the public proceeding, and members of the 
+9 public attending the public proceeding at the location identified in the notice required 
+10 by Title 1, section 406 are able to hear and, to the extent reasonably practicable, see all 
+11 members participating from other locations by videoconferencing or other similar 
+12 means of communication;
+13 B.  Each member who is not physically present at the location of the public proceeding 
+14 and who is participating through telephonic, video, electronic or other similar means 
+15 of communication identifies all persons present at the location from which the member 
+16 is participating;
+17 C.  A member who participates while not physically present at the location of the public 
+18 proceeding identified in the notice required by Title 1, section 406 does so only when 
+19 the member's attendance is not reasonably practical.  The reason that the member's 
+20 attendance is not reasonably practical must be stated in the minutes of the meeting; and
+21 D.  Each member who is not physically present at the location of the public proceeding 
+22 and who is participating through telephonic, video, electronic or other similar means 
+23 of communication has received prior to the public proceeding all documents and 
+24 materials discussed at the public proceeding, with substantially the same content as 
+25 those presented at the public proceeding.  Documents or other materials made available 
+26 at the public proceeding may be transmitted to the member not physically present 
+27 during the public proceeding if the transmission technology is available.  Failure to 
+28 comply with this paragraph does not invalidate an action taken by the authority at the 
+29 public proceeding.
+30Sec. B-5.  22 MRSA §2054, sub-§4-A is enacted to read:
+314-A.  Remote participation in meetings.  The authority may meet by telephonic, 
+32 video, electronic or other similar means of communication with less than a quorum 
+33 assembled physically at the location of a public proceeding identified in the notice required 
+34 by Title 1, section 406 only if:
+35 A.  Each member can hear all other members, speak to all other members and, to the 
+36 extent reasonably practicable, see all other members by videoconferencing or other 
+37 similar means of communication during the public proceeding, and members of the 
+38 public attending the public proceeding at the location identified in the notice required 
+39 by Title 1, section 406 are able to hear and, to the extent reasonably practicable, see all 
+40 members participating from other locations by videoconferencing or other similar 
+41 means of communication;
+42 B.  Each member who is not physically present at the location of the public proceeding 
+43 identified in the notice required by Title 1, section 406 and who is participating through 1
+2
+Page 5 - 130LR1348(01)44 telephonic, video, electronic or other similar means of communication identifies all 
+45 persons present at the location from which the member is participating;
+3 C.  A member who participates while not physically present at the location of the public 
+4 proceeding identified in the notice required by Title 1, section 406 does so only when 
+5 the member's attendance is not reasonably practicable.  The reason that the member's 
+6 attendance is not reasonably practicable must be stated in the minutes of the meeting; 
+7 and
+8 D.  Each member who is not physically present at the location of the public proceeding 
+9 identified in the notice required by Title 1, section 406 and who is participating through 
+10 telephonic, video, electronic or other similar means of communication has received 
+11 prior to the public proceeding all documents and materials discussed at the public 
+12 proceeding, with substantially the same content as those presented at the public 
+13 proceeding.  Documents or other materials made available at the public proceeding 
+14 may be transmitted to the member not physically present during the public proceeding 
+15 if the transmission technology is available.  Failure to comply with this paragraph does 
+16 not invalidate an action taken by the authority at the public proceeding.
+17 This subsection is repealed July 1, 2027.
+18Sec. B-6.  30-A MRSA §4723, sub-§2, ¶B, as amended by PL 2015, c. 449, §3, is 
+19 further amended to read:
+20 B.  The Maine State Housing Authority, as authorized by Title 5, chapter 379, must 
+21 have 10 commissioners, 8 of whom must be appointed by the Governor, subject to 
+22 review by the joint standing committee of the Legislature having jurisdiction over 
+23 economic development and to confirmation by the Legislature.  The 9th commissioner 
+24 is the Treasurer of State who serves as an ex officio voting member.  The Treasurer of 
+25 State may designate the Deputy Treasurer of State to serve in place of the Treasurer of 
+26 State. The 10th commissioner is the director of the Maine State Housing Authority who 
+27 serves as an ex officio nonvoting member.  At least 3 gubernatorial appointments must 
+28 include a representative of bankers, a representative of elderly people and a resident of 
+29 housing that is subsidized or assisted by programs of the United States Department of 
+30 Housing and Urban Development or of the Maine State Housing Authority.  In 
+31 appointing the resident, the Governor shall give priority consideration to nominations 
+32 that may be made by tenant associations established in the State.  Of the 5 remaining 
+33 gubernatorial appointments, the Governor shall give priority to a representative 
+34 involved in the housing business and a representative of people with disabilities.  The 
+35 powers of the Maine State Housing Authority are vested in the commissioners.  The 
+36 commissioners may delegate such powers and duties to the director of the Maine State 
+37 Housing Authority as they determine appropriate.
+38 The Governor shall appoint the chair of the commissioners from among the 8 
+39 gubernatorial appointments.  The chair serves as a nonvoting member, except that the 
+40 chair may vote only when the chair's vote will affect the result.  The commissioners 
+41 shall elect a vice-chair of the commissioners from among their number.
+42 Following reasonable notice to each commissioner, 5 commissioners of the Maine 
+43 State Housing Authority constitute a quorum for the purpose of conducting its business, 
+44 exercising its powers and for all other purposes, notwithstanding the existence of any 1
+2
+Page 6 - 130LR1348(01)45 vacancies.  Action may be taken by the commissioners upon a vote of a majority of the 
+46 commissioners present, unless otherwise specified in law or required by its bylaws.
+3 The Maine State Housing Authority may meet by telephonic, video, electronic or other 
+4 similar means of communication with less than a quorum assembled physically at the 
+5 location of a public proceeding identified in the notice required by Title 1, section 406 
+6 only if:
+7 ( 1)  Each commissioner can hear all other commissioners, speak to all other 
+8 commissioners and, to the extent reasonably practicable, see all other 
+9 commissioners by videoconferencing or other similar means of communication 
+10 during the public proceeding, and members of the public attending the public 
+11 proceeding at the location identified in the notice required by Title 1, section 406 
+12 are able to hear and, to the extent reasonably practicable, see all commissioners 
+13 participating from other locations by videoconferencing or other similar means of 
+14 communication;
+15 ( 2)  Each commissioner who is not physically present at the location of the public 
+16 proceeding and who is participating through telephonic, video, electronic or other 
+17 similar means of communication identifies all persons present at the location from 
+18 which the commissioner is participating;
+19 ( 3)  A commissioner who participates while not physically present at the location 
+20 of the public proceeding identified in the notice required by Title 1, section 406 
+21 does so only when the commissioner's attendance is not reasonably practical.  The 
+22 reason that the commissioner's attendance is not reasonably practical must be stated 
+23 in the minutes of the meeting; and
+24 ( 4)  Each commissioner who is not physically present at the location of the public 
+25 proceeding and who is participating through telephonic, video, electronic or other 
+26 similar means of communication has received prior to the public proceeding all 
+27 documents and materials discussed at the public proceeding, with substantially the 
+28 same content as those presented at the public proceeding.  Documents or other 
+29 materials made available at the public proceeding may be transmitted to the 
+30 commissioner not physically present during the public proceeding if the 
+31 transmission technology is available.  Failure to comply with this subparagraph 
+32 does not invalidate an action taken by the Maine State Housing Authority at the 
+33 public proceeding.
+34Sec. B-7.  30-A MRSA §4723, sub-§2, ¶B-1 is enacted to read:
+35 B-1.  The Maine State Housing Authority may meet by telephonic, video, electronic or 
+36 other similar means of communication with less than a quorum assembled physically 
+37 at the location of a public proceeding identified in the notice required by Title 1, section 
+38 406 only if:
+39 (1)  Each commissioner can hear all other commissioners, speak to all other 
+40 commissioners and, to the extent reasonably practicable, see all other 
+41 commissioners by videoconferencing or other similar means of communication 
+42 during the public proceeding, and members of the public attending the public 
+43 proceeding at the location identified in the notice required by Title 1, section 406 
+44 are able to hear and, to the extent reasonably practicable, see all commissioners 1
+2
+Page 7 - 130LR1348(01)45 participating from other locations by videoconferencing or other similar means of 
+46 communication;
+3 (2)  Each commissioner who is not physically present at the location of the public 
+4 proceeding identified in the notice required by Title 1, section 406 and who is 
+5 participating through telephonic, video, electronic or other similar means of 
+6 communication identifies all persons present at the location from which the 
+7 commissioner is participating;
+8 (3)  A commissioner who participates while not physically present at the location 
+9 of the public proceeding identified in the notice required by Title 1, section 406 
+10 does so only when the commissioner's attendance is not reasonably practicable.  
+11 The reason that the commissioner's attendance is not reasonably practicable must 
+12 be stated in the minutes of the meeting; and
+13 (4)  Each commissioner who is not physically present at the location of the public 
+14 proceeding identified in the notice required by Title 1, section 406 and who is 
+15 participating through telephonic, video, electronic or other similar means of 
+16 communication has received prior to the public proceeding all documents and 
+17 materials discussed at the public proceeding, with substantially the same content 
+18 as those presented at the public proceeding.  Documents or other materials made 
+19 available at the public proceeding may be transmitted to the commissioner not 
+20 physically present during the public proceeding if the transmission technology is 
+21 available.  Failure to comply with this subparagraph does not invalidate an action 
+22 taken by the Maine State Housing Authority at the public proceeding.
+23 This paragraph is repealed July 1, 2027.
+24Sec. B-8.  30-A MRSA §5951, sub-§4, as amended by PL 2015, c. 449, §4, is 
+25 further amended to read:
+264.  Officers of board; exercise of powers.  The board of commissioners shall elect 
+27 one of its members as chair and one as vice-chair and shall appoint an executive director 
+28 who also serves as both secretary and treasurer.  The powers of the bank are vested in the 
+29 commissioners of the bank in office from time to time.  Three commissioners of the bank 
+30 constitute a quorum at any meeting of the commissioners.  Action may be taken and 
+31 motions and resolutions adopted by the bank at any meeting by the affirmative vote of at 
+32 least 3 commissioners of the bank.  A vacancy in the office of commissioner of the bank 
+33 does not impair the right of a quorum of the commissioners to exercise all the powers and 
+34 perform all the duties of the bank.
+35 The board of commissioners may meet by telephonic, video, electronic or other similar 
+36 means of communication with less than a quorum assembled physically at the location of 
+37 a public proceeding identified in the notice required by Title 1, section 406 only if:
+38 A.  Each commissioner can hear all other commissioners, speak to all other 
+39 commissioners and, to the extent reasonably practicable, see all other commissioners 
+40 by videoconferencing or other similar means of communication during the public 
+41 proceeding, and members of the public attending the public proceeding at the location 
+42 identified in the notice required by Title 1, section 406 are able to hear and, to the extent 
+43 reasonably practicable, see all commissioners participating from other locations by 
+44 videoconferencing or other similar means of communication;1
+2
+Page 8 - 130LR1348(01)1 B.  Each commissioner who is not physically present at the location of the public 
+2 proceeding and who is participating through telephonic, video, electronic or other 
+3 similar means of communication identifies all persons present at the location from 
+4 which the commissioner is participating;
+5 C.  A commissioner who participates while not physically present at the location of the 
+6 public proceeding identified in the notice required by Title 1, section 406 does so only 
+7 when the commissioner's attendance is not reasonably practical.  The reason that the 
+8 commissioner's attendance is not reasonably practical must be stated in the minutes of 
+9 the meeting; and
+10 D.  Each commissioner who is not physically present at the location of the public 
+11 proceeding and who is participating through telephonic, video, electronic or other 
+12 similar means of communication has received prior to the public proceeding all 
+13 documents and materials discussed at the public proceeding, with substantially the 
+14 same content as those presented at the public proceeding.  Documents or other 
+15 materials made available at the public proceeding may be transmitted to the 
+16 commissioner not physically present during the public proceeding if the transmission 
+17 technology is available.  Failure to comply with this paragraph does not invalidate an 
+18 action taken by the bank at the public proceeding.
+19Sec. B-9.  30-A MRSA §5951, sub-§4-A is enacted to read:
+204-A.  Remote participation.  The board of commissioners may meet by telephonic, 
+21 video, electronic or other similar means of communication with less than a quorum 
+22 assembled physically at the location of a public proceeding identified in the notice required 
+23 by Title 1, section 406 only if:
+24 A.  Each commissioner can hear all other commissioners, speak to all other 
+25 commissioners and, to the extent reasonably practicable, see all other commissioners 
+26 by videoconferencing or other similar means of communication during the public 
+27 proceeding, and members of the public attending the public proceeding at the location 
+28 identified in the notice required by Title 1, section 406 are able to hear and, to the extent 
+29 reasonably practicable, see all commissioners participating from other locations by 
+30 videoconferencing or other similar means of communication;
+31 B.  Each commissioner who is not physically present at the location of the public 
+32 proceeding identified in the notice required by Title 1, section 406 and who is 
+33 participating through telephonic, video, electronic or other similar means of 
+34 communication identifies all persons present at the location from which the 
+35 commissioner is participating;
+36 C.  A commissioner who participates while not physically present at the location of the 
+37 public proceeding identified in the notice required by Title 1, section 406 does so only 
+38 when the commissioner's attendance is not reasonably practicable.  The reason that the 
+39 commissioner's attendance is not reasonably practicable must be stated in the minutes 
+40 of the meeting; and
+41 D.  Each commissioner who is not physically present at the location of the public 
+42 proceeding identified in the notice required by Title 1, section 406 and who is 
+43 participating through telephonic, video, electronic or other similar means of 
+44 communication has received prior to the public proceeding all documents and materials 
+45 discussed at the public proceeding, with substantially the same content as those 
+Page 9 - 130LR1348(01)46 presented at the public proceeding.  Documents or other materials made available at 
+47 the public proceeding may be transmitted to the commissioner not physically present 
+48 during the public proceeding if the transmission technology is available.  Failure to 
+49 comply with this paragraph does not invalidate an action taken by the bank at the public 
+50 proceeding.
+6 This subsection is repealed July 1, 2027.
+7Sec. B-10.  32 MRSA §88, sub-§1, ¶D, as amended by PL 2007, c. 274, §19, is 
+8 further amended to read:
+9 D.  A majority of the members appointed and currently serving constitutes a quorum 
+10 for all purposes and no decision of the board may be made without a quorum present.  
+11 A majority vote of those present and voting is required for board action, except that for 
+12 purposes of either granting a waiver of any of its rules or deciding to pursue the 
+13 suspension or revocation of a license, the board may take action only if the proposed 
+14 waiver, suspension or revocation receives a favorable vote from at least 2/3 of the 
+15 members present and voting and from no less than a majority of the appointed and 
+16 currently serving members.  The board may use video conferencing and other 
+17 technologies to conduct its business but is not exempt from Title 1, chapter 13, 
+18 subchapter 1.  Members of the board, its subcommittees or its staff may participate in 
+19 a meeting of the board, subcommittees or staff via video conferencing, conference 
+20 telephone or similar communications equipment by means of which all persons 
+21 participating in the meeting can hear each other, and participation in a meeting pursuant 
+22 to this subsection constitutes presence in person at such meeting.
+23Sec. B-11.  32 MRSA §88, sub-§1, ¶E is enacted to read:
+24 E.  The board may use videoconferencing and other technologies to conduct its 
+25 business but is not exempt from Title 1, chapter 13, subchapter 1.  Members of the 
+26 board, its subcommittees or its staff may participate in a meeting of the board, 
+27 subcommittees or staff via videoconferencing, conference telephone or similar 
+28 communications equipment by means of which all persons participating in the meeting 
+29 can hear each other, and participation in a meeting pursuant to this paragraph 
+30 constitutes presence in person at such meeting.
+31 This paragraph is repealed July 1, 2027.
+32Sec. B-12.  39-A MRSA §151, sub-§5, as amended by PL 2003, c. 608, §9, is 
+33 further amended to read:
+345.  Voting requirements; meetings.  The board may take action only by majority vote 
+35 of its membership.  The board may hold sessions at its central office or at any other place 
+36 within the State and shall establish procedures through which members who are not 
+37 physically present may participate by telephone or other remote-access technology.  
+38 Regular meetings may be called by the executive director or by any 4 members of the board, 
+39 and all members must be given at least 7 days' notice of the time, place and agenda of the 
+40 meeting.  A quorum of the board is 4 members, but a smaller number may adjourn until a 
+41 quorum is present.  Emergency meetings may be called by the executive director when it 
+42 is necessary to take action before a regular meeting can be scheduled.  The executive 
+43 director shall make all reasonable efforts to notify all members as promptly as possible of 
+44 the time and place of any emergency meeting and the specific purpose or purposes for 1
+2
+3
+4
+5
+Page 10 - 130LR1348(01)45 which the meeting is called.  For an emergency meeting, the 4 members constituting a 
+46 quorum must include at least one board member representing management and at least one 
+47 board member representing labor.
+4Sec. B-13.  39-A MRSA §151, sub-§5-A is enacted to read:
+55-A.  Remote participation.  The board shall establish procedures through which 
+6 members who are not physically present at a meeting pursuant to subsection 5 may 
+7 participate by telephone or other remote-access technology.
+8 This subsection is repealed July 1, 2027.
+9PART C
+10Sec. C-1.  1 MRSA §431, sub-§4 is enacted to read:
+114.  Remote participation.  "Remote participation" means participation in a public 
+12 proceeding by a member of a body that is holding or conducting the public proceeding 
+13 while the member is not physically present at the location of the public proceeding 
+14 identified in the notice required by section 406.
+15Sec. C-2.  1 MRSA §435 is enacted to read:
+16§435.  Review of proposed remote participation authorization
+171.  Procedures before legislative committees.  Whenever a legislative measure 
+18 containing a new remote participation authorization or a change that affects the 
+19 accessibility of a public proceeding is proposed, the joint standing committee of the 
+20 Legislature having jurisdiction over the proposal shall hold a public hearing and determine 
+21 the level of support for the proposal among the members of the committee.  If there is 
+22 support for the proposal among a majority of the members of the committee, the committee 
+23 shall request the review committee to review and evaluate the proposal pursuant to 
+24 subsection 2 and to report back to the committee of jurisdiction.  A proposed remote 
+25 participation authorization or proposed change that affects the accessibility of a public 
+26 proceeding may not be enacted into law unless review and evaluation pursuant to 
+27 subsection 2 have been completed.
+282.  Review and evaluation.  Upon referral of a proposed remote participation 
+29 authorization or proposed limitation on accessibility from the joint standing committee of 
+30 the Legislature having jurisdiction over the proposal, the review committee shall conduct 
+31 a review and evaluation of the proposal and shall report in a timely manner to the committee 
+32 to which the proposal was referred.  The review committee shall use the following criteria 
+33 to determine whether the proposed remote participation authorization should be enacted:
+34 A.  Geographic distribution of members;
+35 B.  Demonstrated need based on emergency nature of action;
+36 C.  Demonstrated need based on exigent circumstances, such as a natural disaster or an 
+37 emergency declaration by the Governor directly related to the activities of the body; 
+38 and
+39 D.  Any other criteria that assist the review committee in determining the value of the 
+40 proposed remote participation authorization as compared to the public's interest in all 
+41 members participating.1
+2
+3
+Page 11 - 130LR1348(01)13.  Report.  The review committee shall report its findings and recommendations on 
+2 whether the proposed remote participation authorization or proposed limitation on 
+3 accessibility to public proceedings should be enacted to the joint standing committee of the 
+4 Legislature having jurisdiction over the proposal.
+5SUMMARY
+6 This bill clarifies when members of public bodies may participate remotely in public 
+7 proceedings of those bodies.  It prohibits a body subject to the Freedom of Access Act from 
+8 allowing its members to participate in its public proceedings through telephonic, video, 
+9 electronic or other similar means of communication unless the body has adopted through 
+10 major substantive rulemaking a written policy that authorizes remote participation in a 
+11 manner that allows all members to simultaneously hear and speak to each other during the 
+12 public proceeding and allows members of the public attending the public proceeding at the 
+13 location identified in the meeting notice to hear all members of the body.  It outlines 
+14 requirements for setting up remote participation, quorums, participation in executive 
+15 sessions and voting.  The bill also requires that each member of a public body subject to 
+16 the Freedom of Access Act be physically present in at least one public proceeding each 
+17 year and prohibits the Legislature from allowing its members to participate in its public 
+18 proceedings remotely.
+19 The bill authorizes municipalities and counties to impose stricter requirements than are 
+20 provided in the bill and allows municipalities and counties to prohibit the use of remote 
+21 participation by any public body under their jurisdictions.  It provides that an elected public 
+22 body may adopt a remote participation policy only after the constituency of the elected 
+23 public body has voted to authorize the body to adopt the policy.
+24 The bill provides, in Parts A and B, that the exemptions for the Finance Authority of 
+25 Maine, the Commission on Governmental Ethics and Election Practices, the Maine Health 
+26 and Higher Educational Facilities Authority, the Maine State Housing Authority, the Maine 
+27 Municipal Bond Bank, the Emergency Medical Services' Board and the Workers' 
+28 Compensation Board, whose statutes currently provide for remote participation, expire on 
+29 July 1, 2027.  Those entities will need to adopt policies that comply with the law to continue 
+30 any remote participation.
+31 The bill amends, in Part C, the Freedom of Access Act to require the joint standing 
+32 committee of the Legislature having jurisdiction over judiciary matters to conduct a review 
+33 of any proposed statutory authorization of remote participation or change in accessibility 
+34 with respect to public proceedings.6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18

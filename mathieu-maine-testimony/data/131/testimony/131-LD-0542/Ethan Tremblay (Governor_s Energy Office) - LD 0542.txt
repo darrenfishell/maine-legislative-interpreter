@@ -1,0 +1,125 @@
+STATE OF MAINE 
+gig OFFICE OF THE GOVERNOR 
+ISTATE HOUSE STATION 
+53 AUGUSTA MAINE 
+04333-0001 
+JANET IYIILLS DAN BURGESS 
+GOVERNOR DIRECTOR OF G0vERN0R ’s 
+ENERGY OFFICE 
+TESTIMONY BEFORE THE ENERGY, UTILITIES AND TECHNOLOGY COMMITTEE 
+An Act to Comprehensively and Equitably Reform Electricity Rates 
+L.D. 542 
+GOVERNOR'S ENERGY OFFICE 
+March 16, 2023 
+Senator Lawrence, Representative Zeigler, and Members of the Joint Standing Committee on Energy, 
+Utilities and Technology (EUT): My name is Ethan Tremblay, and l am the Policy and Markets Program 
+Manager for the Governor's Energy Office (GEO). 
+The GEO testifies neither for nor against L.D. 542. 
+The first three sections of this bill each amend portions of Title 35-A relating to utility ratemaking. The 
+final section requires the Public Utilities Commission to conduct a study relating to standard offer supply 
+rates and the commercial and industrial net energy billing tariff program. This testimony addresses each 
+section of the bill individually in order to provide information that may be helpful to the sponsor and the 
+committee. 
+As background, in 2022 Governor Mills proposed L.D. 1959, An Act Regarding Utility Accountability and 
+Grid Planning for Maine's Clean Energy Future, which was voted out of this Committee and enacted with 
+bipartisan support as Public Law 2022, Chapter 702. Among other provisions, that bipartisan legislation 
+established requirements for the Public Utilities Commission to establish by rule minimum service 
+standards for large transmission and distribution utilities, with specific, quantitative metrics measuring 
+performance including but not limited to: 
+1) Service quality, including but not limited to reliability of service and timeliness of restoring 
+service after outages; 
+2) Customer service, including but not limited to timeliness and accuracy of bills; 
+3) Field services, including but not limited to communication with and responsiveness to 
+municipalities, businesses and individuals; and 
+4) Distributed energy resources interconnection. ‘ 
+Beginning this year, Central Maine Power and Versant Power will provide quarterly report cards to the 
+Commission and to all of their residential customers showing their performance on many of these 
+important metrics. Furthermore, under that legislation the Commission must establish sen/ice 
+standards, or minimum requirements, for performance regarding each metric, and must impose 
+financial penalties for a utility's failure to achieve these requirements. 
+1 35-A M.R.S.A. §301 sub-§1-A, paragraph A
+1
+L.D. 542 would build upon those requirements. Section 1 of the bill provides that the Commission may 
+establish, for any transmission and distribution utility with more than 50,000 customers, a multi-year 
+rate plan that includes rate-adjustment mechanisms, including but not limited to positive and negative 
+financial incentives relating to the success or failure of the utility in meeting goals. The specific goals 
+would include: 
+1) Goals based on the metrics enacted by P.L. 2021 ch. 702, listed above; 
+2) Standards established by the Commission by rule pertaining to utility operations and activities in 
+the following categories: 
+1) Efforts to increase grid resiliency including but not limited to facilitating the 
+development and interconnection of distributed generation resources and grid security; 
+2) Measures taken to encourage peak load reduction and beneficial load-shaping; 
+3) Measures taken to encourage carbon reduction, beneficial electriﬁcation and energy 
+efficiency including but not limited to electric vehicles; and 
+4) Any other standards the Commission determines to be necessary. 
+The Commission has broad authority under section 35-A M.R.S.A. §3195 to promote transmission and 
+distribution utility efficiency by establishing or authorizing any reasonable rate-adjustment mechanisms. 
+Our interpretation of the intent of this proposed section is to clarify the metrics and standards the 
+Commission must incorporate into any multi-year rate plan it approves, while preserving the 
+Commission's broad authority to evaluate any proposed multi-year rate plan proposed by a large 
+transmission and distribution utility. 
+To the extent this section refers to the minimum performance metrics established by P.L. 2021 ch. 390, 
+the Committee may wish to consider whether additional clarification is warranted with respect to any 
+threshold the Commission may consider for a positive financial incentive. Satisfaction of a minimum 
+standard is not equivalent to exemplary performance worthy of a performance incentive. 
+Furthermore, the Committee may wish to consider whether any multi-year rate plan should be 
+approved by the Commission without satisfying the requirements of this legislation. lf this is the intent, 
+Section 1 of the bill may need to be amended to rule out the possibility of a multi-year rate plan that 
+does not conform to the criteria in the first sentence. 
+Section 2 of the bill amends 35-A M.R.S.A. §3195, sub-§1 to conform to the new language contained in 
+Section 1. 
+Section 3 of the bill amends the requirements established in 35-A M.R.S.A. §3212, sub-§6 to require 
+consumer-owned transmission and distribution utilities to offer an optional time-of-use rate to their 
+retail customers. In general, the GEO is supportive of retail rate options that enable customers to make 
+informed energy use decisions that can benefit the customer and others - including time-of-use rates, 
+which can provide useful price signals encouraging electricity consumption during beneficial periods, 
+such as when generation costs are lower. The GEO is not aware of whether the consumer-owned 
+utilities in the state possess access to sufficient resources and capabilities to comply with sucha 
+requirement. 
+Section 4 of the bill directs the Commission to investigate and submit a report with its results and any 
+findings and recommendations to the Committee no later than January 15, 2024 regarding: 
+1) The feasibility of requiring standard-offer service to include a time-of-use rate option; 
+2) The effect a standard-offer time-of-use rate would have on the tariff rate under the Maine 
+Revised Statutes, Title 35-A, section 3209-B, subsection 5 and options for utilizing a standard- 
+offer time-of-use rate in establishing a new tariff rate; and 
+Page 2 of3
+3) The feasibility of requiring all investor-owned transmission and distribution utilities to offera 
+time-of-use rate for the delivery of electricity for all customer classes that would complement a 
+time-of-use supply rate. 
+Regarding the first study item, as the Committee may be aware, the Commission recently initiated an 
+inquiry regarding rate structures for standard offer service, including time-of-use rate structures? 
+Standard offer sen/ice is the residential supply service utilized by most residential customers in the 
+state. Electricity supply comprises about half of a typical Maine household's electricity bill. A time- 
+varying supply rate could increase the price signal for customers to shift consumption to time periods 
+during the day when the cost to provide supply is lower. This could be helpful in increasing electric 
+affordability by more effectively utilizing existing infrastructure and avoiding costly upgrades. Well- 
+designed time-of-use rates can also align with Maine's energy goals, as time-varying rates could help to 
+achieve greenhouse gas emissions reductions by avoiding peak load and reducing the amount of 
+generation required from peaker plants typically powered by fossil fuels. Reductions in greenhouse gas 
+emissions from time-of-use rates are especially pronounced if the time-of-use period development 
+explicitly considers the generation fuel mix at different times. 
+Regarding the second study item, the standard offer supply rate applicable to small commercial 
+customers determined through the Commission's annual standard offer procurement is also used to 
+calculate the commercial and industrial net energy billing program tariff established in 35-A M.R.S.A. 
+§3209-B (the "original tariff program"). This program, as reformed through P.L. 2021 ch. 390 (LD 936) 
+and P.L. 2022 ch. 659 (LD 634), is no longer available for enrollment by new distributed generation 
+resources except those one megawatt or less or collocated with 50% of their subscribed load. It is not 
+clear from the language of this bill whether the Commission would be studying the use ofa time-of-use 
+standard offer rate to determine the annual tariff rate for all generators enrolled in the program, or for 
+generators participating in the program after a certain date. 
+Regarding the third study item, Central Maine Power and Versant Power both currently provide certain 
+time-of-use rate options to various customer classes. As pa rt of its ongoing rate case, which includes a 
+proposed multi-year rate plan, Central Maine Power has also proposed a range of new time-of-use rate 
+options for customers. 
+The GEO would be pleased to work with the sponsor, the Committee, and other interested parties 
+regarding this legislation. 
+Thank you for your consideration. l would be happy to answer any questions from the Committee. 
+ﬁlm: Ethan Tremblay, Policy and Markets Program Manager 
+Governoﬂs Energy Office 
+2 
+See Notice of Inquiry dated February 3, 2023 in Maine PUC docket 2023-00019, Inquiry Regarding Rate Structure 
+for Standard Offer Service. https:[[mQuc- 
+cms.maine.gov/CQM.Public.WebUl/Common/ViewDoc.aspx?DocRefld={1D318DEF-701D-4C32-BF36- 
+E8DCFF8F0088}&D0cExt=pdf&DocName={1D318DEF-701D-4C32-BF36 —E8DCFF8 F0088Lpdf 
+Page 3 of3

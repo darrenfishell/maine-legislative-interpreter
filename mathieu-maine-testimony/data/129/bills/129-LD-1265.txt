@@ -1,0 +1,214 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1265
+S.P. 385 In Senate,  March  14, 2019
+An Act  To Establish a Maine Low-income Housing Tax Credit
+Reference to the Committee on Taxation  suggested and ordered  printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator POULIOT of Kennebec.
+Cosponsored by Representative COLLINGS of Portland and
+Senator: VITELLI of  Sagadahoc.
+
+Page 1 - 129LR2047(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §2537 is enacted to read:
+3§2537.  Credit for low-income housing development
+4A taxpayer is allowed a credit against the tax otherwise due under this chapter as 
+5determined under chapter 916.
+6Sec. 2.  36 MRSA c. 916 is enacted to read:
+7CHAPTER 916
+8LOW-INCOME HOUSING DEVELOPMENT TAX CREDIT
+9§6701.  Definitions
+10As used in this chapter, unless the context otherwise indicates, the following terms 
+11have the following meanings.
+121.  Allocation certificate.  "Allocation certificate" means a statement issued by the 
+13authority under section 6702, subsection 2 certifying that a development qualifies for the 
+14credit and specifying the amount of the credit allowed.
+152.  Authority.  "Authority" means the Maine State Housing Authority under Title 
+1630-A, chapter 201.
+173.  Compliance period.  "Compliance period" means the period of 15 years 
+18beginning with the first taxable year of the credit period.
+194.  Credit.  "Credit" means the low-income housing development tax credit allowed 
+20pursuant to section 6702, subsection 1.
+215.  Credit period.  "Credit period" means the period of 6 taxable years beginning 
+22with the taxable year in which a qualified development is placed in service.  If a qualified 
+23development is composed of more than one building, the development is placed in service 
+24in the taxable year during which the last building of the qualified development is placed 
+25in service.
+266.  Federal tax credit.  "Federal tax credit" means the federal low-income housing 
+27tax credit provided by Section 42 of the Code.
+287.  Qualified allocation plan.  "Qualified allocation plan" means the qualified 
+29allocation plan adopted by the authority pursuant to Section 42(m) of the Code.
+308.  Qualified basis.  "Qualified basis" means the qualified basis of the development 
+31as determined pursuant to Section 42 of the Code.
+329.  Qualified development.  "Qualified development" means a qualified low-income 
+33housing project, as defined in Section 42 of the Code, that is financed with tax-exempt 
+34bonds pursuant to Section 42 of the Code and that is located in the State and is 
+Page 2 - 129LR2047(01)-11determined by the authority to be eligible for a federal tax credit whether or not a federal 
+2tax credit is allocated to the development.
+310.  Qualified taxpayer.  "Qualified taxpayer" means a person that owns a direct or 
+4indirect interest in a qualified development and is subject to the taxes imposed by Part 8.
+5§6702.  Low-income housing development tax credit
+61.  Tax credit allowed.  During each calendar year, the authority may allocate a 
+7credit in the form of an allocation certificate to a qualified taxpayer under subsection 2.  
+8The full amount of the credit may be claimed by the qualified taxpayer against the 
+9qualified taxpayer's taxes imposed by Part 8 for each taxable year of the credit period.
+102.  Allocation certificate.  The authority shall allocate a credit to a qualified taxpayer 
+11by issuing to the taxpayer an allocation certificate.  The authority may determine the time 
+12at which the allocation certificate is issued.  Unless otherwise provided in this chapter or 
+13the context clearly requires otherwise, the authority shall determine eligibility for a credit 
+14and allocate credits in accordance with the standards and requirements set forth in Section 
+1542 of the Code.  The credit must be in an amount determined by the authority, subject to 
+16the following:
+17A.  The credit must be necessary for the financial feasibility of the qualified 
+18development;
+19B.  The credit may not exceed the amount of the federal tax credit awarded to the 
+20qualified taxpayer.  Notwithstanding that the federal tax credit is claimed over 10 
+21years, the state credit must be claimed over the 6-year credit period.  An annual credit 
+22may exceed the annual federal tax credit for any year of the credit period;
+23C.  The credit must be made pursuant to the qualified allocation plan; and
+24D.  The credit combined with the federal tax credit must be in the least amount 
+25necessary to ensure the financial feasibility of a qualified development.
+263.  Pass-through entities.  If a qualified taxpayer receiving a credit is a partnership, 
+27limited liability company, S corporation or similar pass-through entity, the taxpayer may 
+28allocate the credit among its constituent taxpayers including partners, shareholders, 
+29members or other constituent taxpayers in any manner agreed to by the constituent 
+30taxpayers and, if there are multiple tiers of pass-through entities, the credit may be 
+31allocated through any number of pass-through entities in any manner agreed to by the 
+32owners of the pass-through entities. An allocation of a credit through multiple pass-
+33through entities under this subsection is not a transfer.  The qualified taxpayer shall 
+34certify to the State Tax Assessor the amount of credit allocated to each constituent 
+35taxpayer or shall notify the State Tax Assessor that the qualified taxpayer has assigned 
+36the duty of certification to a constituent taxpayer, and the constituent taxpayer shall 
+37provide the certification to the State Tax Assessor.  Each constituent taxpayer may claim 
+38as a credit against the taxpayer's tax under Part 8 the certified amount allocated under this 
+39subsection to the constituent taxpayer subject to any restrictions in this chapter.
+404.  Recorded restrictive covenant; compliance with federal requirements.  The 
+41authority may not allocate a credit pursuant to this section unless the qualified taxpayer:
+Page 3 - 129LR2047(01)-11A.  Subjects the qualified development to a recorded restrictive covenant requiring 
+2the development to be maintained and operated as a qualified development during the 
+3compliance period; and
+4B.  Beginning with the first taxable year of the compliance period or a longer period 
+5agreed to between the authority and the qualified taxpayer, ensures the compliance of 
+6the qualified development with the accessibility and adaptability requirements of the 
+7federal tax credits and Title VIII of the federal Civil Rights Act of 1968 as amended 
+8by the federal Fair Housing Amendments Act of 1988.
+95.  Application of credit.  A credit may be taken against the taxes imposed by Part 8 
+10for each taxable year of the credit period.  Any amount of a credit that exceeds the tax 
+11due for a taxable year may be carried forward as a tax credit against subsequent years' tax 
+12liability for up to 11 tax years following the tax year in which the allocation was made 
+13and must be applied first to the earliest years possible.  Any amount of the credit that is 
+14not used may not be refunded to the taxpayer.
+156.  Aggregate amount of credits.  The aggregate amount of all credits allocated by 
+16the authority in each calendar year may not exceed the total of:
+17A.  Forty-two million dollars for credits allocated pursuant to subsection 2 and 
+18section 6705;
+19B.  An amount totaling all unallocated credits, if any, for the preceding calendar 
+20years; and
+21C.  Any credit recaptured under section 6703 or otherwise returned to the authority in 
+22the calendar year.
+23§6703.  Recapture of credit
+241.  Recapture of credit.  On the last day of any taxable year during the compliance 
+25period, if the amount of the qualified basis of a qualified development is less than the 
+26amount of the qualified basis on the last day of the prior taxable year, then the amount of 
+27the qualified taxpayer's tax liability under Part 8 for that taxable year must be increased 
+28by the credit recapture amount under subsection 2.
+292.  Recapture amount.  The credit recapture amount is an amount equal to the 
+30aggregate decrease in the credit allowed to the qualified taxpayer for all prior taxable 
+31years that would have resulted if the accelerated portion of the credit under subsection 3 
+32were not allowed for all prior taxable years with respect to the reduced amount of 
+33qualified basis under subsection 1.
+343.  Accelerated portion of credit.  The accelerated portion of the credit for the prior 
+35taxable years for any amount of qualified basis is the difference between:
+36A.  The aggregate credit allowed under this chapter, not including this subsection, for 
+37the years with the qualified basis; and
+38B.  The aggregate credit that would be allowable under this chapter for the years with 
+39the qualified basis if the aggregate credit that would have been allowable, not 
+Page 4 - 129LR2047(01)-11including this subsection, for the entire compliance period were allowable ratably 
+2over 15 years.
+34.  Reporting of capture of credit.  If the recapture of any credit under this section is 
+4required in any tax year, the qualified taxpayer must report on the taxpayer's return 
+5submitted to the State Tax Assessor for that tax year the proportion of credit required to 
+6be recaptured, the identity of each taxpayer subject to the recapture and the amount of 
+7credit previously allocated to each taxpayer.
+8§6704.  Filing requirements
+9A qualified taxpayer to which a credit has been allocated under section 6702, 
+10subsection 2 shall file with the qualified taxpayer's income tax return under chapter 823 
+11and, if applicable, chapter 825 a copy of the allocation certificate issued by the authority 
+12for the qualified development allowing the credit and, if the qualified taxpayer has 
+13allocated the credit to constituent taxpayers under section 6702, subsection 3, a copy of 
+14the certification to the department for the allocation of the credit among the constituent 
+15taxpayers. A person that has received a portion of a credit as a constituent taxpayer under 
+16section 6702, subsection 3 shall file with the constituent taxpayer's income tax return 
+17under chapter 823 a copy of the allocation certificate issued by the authority for the 
+18qualified development allowing the credit and a copy of the certification for the allocation 
+19of the credit among the constituent taxpayers.
+20§6705.  Insurance premium taxes
+21A qualified taxpayer that is subject to a tax under chapter 357, does not pay taxes 
+22under Part 8 and is otherwise eligible to claim a credit under this chapter may claim and 
+23carry forward the credit against the tax under chapter 357 to the same extent as the 
+24taxpayer would have been able to claim or carry forward the credit under the tax in Part 8. 
+25All other provisions of this chapter apply to a credit claimed pursuant to this section.
+26§6706.  Rules
+27The authority and the State Tax Assessor, in consultation with each other, shall adopt 
+28rules, respectively, necessary to carry out the provisions of this chapter. Rules adopted 
+29pursuant to this section are routine technical rules as defined by Title 5, chapter 375, 
+30subchapter 2-A.
+31§6707.  Compliance monitoring
+32The authority, in consultation with the State Tax Assessor, shall monitor and oversee 
+33compliance with the provisions of this chapter and shall report specific occurrences of 
+34noncompliance to the State Tax Assessor.
+35§6708.  Report to the Legislature
+361.  Report.  By December 31st of each year in which an allocation has been made 
+37under this chapter, the authority shall provide a written report to the Legislature for that 
+38year.  A report under this section must be made available to the public.
+Page 5 - 129LR2047(01)-112.  Contents of report.  A report under this section must:
+2A.  Specify the number of qualified developments that have been allocated a tax 
+3credit during that year and the total number of housing units supported by each 
+4development;
+5B.  Describe for each qualified development under paragraph A the geographic 
+6location of the development, the household type and any specific demographic 
+7information available about residents intended to be served by the development, the 
+8income levels intended to be served by the development and the rents authorized for 
+9the development; and
+10C.  Provide housing market and demographic information that demonstrates how the 
+11qualified developments under paragraph A are addressing the need for affordable 
+12housing within the communities the developments are intended to serve and 
+13information about any remaining disparities in the affordability of housing within 
+14those communities.
+15Sec. 3.  Effective date.  This Act takes effect January 1, 2020.
+16SUMMARY
+17This bill creates a tax credit for owners of low-income housing developments that 
+18qualify for tax credits under federal law and are financed with tax-exempt bonds, located 
+19in the State and determined by the Maine State Housing Authority to be eligible for a 
+20federal tax credit whether or not a federal tax credit is allocated to the development. A 
+21taxpayer that receives the credit must agree to enter a restrictive covenant to maintain and 
+22operate the development as low-income housing and follow various federal requirements 
+23for 15 years.  The state tax credit is for 6 years and has a recapture provision if the basis, 
+24as determined under federal law, of the development goes below a certain amount.  An 
+25insurance company is allowed to apply the credit against the company's insurance 
+26premium tax.  The Maine State Housing Authority is required annually to report various 
+27details of the qualified developments that received a credit for the prior tax year.

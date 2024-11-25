@@ -1,0 +1,407 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1252  
+H.P. 852  House of Representatives, April 7, 2015  
+ 
+ 
+An Act To Protect Student Data  
+ 
+ 
+ 
+ 
+Reference to the Committee on Education and Cultural Affairs suggested and ordered 
+printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative MOONEN of Portland.  
+Cosponsored by Representative: GUERIN of Glenburn.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1805(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  20-A MRSA §6006 is enacted to read:  2 
+§6006.  Student electronic data  3 
+1.  Definitions.   As used in this section, unless the context otherwise indicates, the 4 
+following terms have the follo wing meanings.  5 
+A.  "Aggregate data" means student -related data collected and reported by an 6 
+educational institution at the group, cohort or institutional level that contain no 7 
+personally identifying student data.  8 
+B.  "Educational institution" means a schoo l administrative unit or private or public 9 
+elementary or secondary school under this Part or Part 2, including an employee or 10 
+agent of the unit or school acting as representative or on behalf of the unit or school.  11 
+C.  "Personally identifying student data"  means student data that include:  12 
+(1)  The name of a student or a parent, legal guardian or family member of a 13 
+student;  14 
+(2)  The address of a student or a parent, legal guardian or family member of a 15 
+student;  16 
+(3)  A student's date of birth, place of birth,  social security number, telephone 17 
+number, credit card account number, insurance account number, financial 18 
+services account number, e -mail address, social media address or password or 19 
+any other electronic address; and  20 
+(4)  Any information that, alone or in  combination, is linked or linkable to a 21 
+specific student that would allow a 3rd party to identify the student with 22 
+reasonable certainty.  23 
+D.  "Provider" means a person who sells, leases or provides to or operates or 24 
+maintains for an educational institution  a student information system.  25 
+E.  "Student data" means data about a student that are collected and stored by an 26 
+educational institution and included in a student's educational record.  27 
+F.  "Student information system" means a software application that allo ws an 28 
+educational institution to input, maintain and manage student data on a computer or 29 
+computer system.  30 
+G.  "System opt -in agreement" means a verifiable written or electronically generated 31 
+agreement by which access is granted to analyze, interact with, share or transfer 32 
+specific personally identifying student data.  33 
+2.  Student information system.   A contract or agreement between an educational 34 
+institution and a provider:  35 
+A.  Must expressly authorize and require the secure storage and transmission of all 36 
+student data;  37 
+ 
+ Page 2 - 127LR1805(01) -1 
+ B.  May authorize the provider to access, analyze, interact with, share or transfer 1 
+aggregate data transferred or stored in the student information system; and  2 
+C.  Must expressly prohibit the provider from accessing, analyzing, interacting wi th, 3 
+sharing or transferring any personally identifying student data transferred or stored in 4 
+the student information system unless:  5 
+(1)  The provider receives a valid system opt -in agreement under subsection 3 for 6 
+the personally identifying student data; o r 7 
+(2)  At the request of the educational institution, the provider de -identifies and 8 
+aggregates personally identifying student data for the sole purpose of enabling 9 
+the educational institution to comply with federal, state or local reporting 10 
+requirements.  11 
+3.  System opt -in agreement.   A system opt -in agreement must be signed by a 12 
+student and, if the student is less than 18 years of age, a parent or legal guardian of the 13 
+student. A student or parent or legal guardian of the student is not required to sign a 14 
+system opt -in agreement. A system opt -in agreement may be revoked at any time upon 15 
+written notice by the student or a parent or legal guardian of the student. An educational 16 
+benefit may not be withheld from or punitive measure taken against a student or pa rent, 17 
+legal guardian or family member of the student based in whole or in part upon a decision 18 
+not to sign or to revoke a system opt -in agreement. A provider may not share, sell or 19 
+otherwise transfer personally identifying student data obtained from a syst em opt -in 20 
+agreement except as provided in subsection 4. A system opt -in agreement may not grant 21 
+general access to personally identifying student data. A valid system opt -in agreement 22 
+must specify:  23 
+A.  The name of the provider to whom access is being grante d; 24 
+B.  The precise subset of personally identifying student data in the student 25 
+information system, such as attendance records or disciplinary records, to which the 26 
+provider is being granted access;  27 
+C.  The purpose for the access; and  28 
+D.  Any information r equired by subsection 4.  29 
+4.  Sharing or transferring personally identifying student data with or to a 3rd 30 
+party.   A provider may share with or transfer or otherwise disseminate to a 3rd party 31 
+personally identifying student data if:  32 
+A.  The 3rd party is ide ntified in the system opt -in agreement of the student under 33 
+subsection 3;  34 
+B.  The purpose of the sharing or transfer of the personally identifying student data is 35 
+to benefit the operational, administrative or educational functions of the educational 36 
+instit ution and that benefit is specified in the system opt -in agreement of the student 37 
+under subsection 3;  38 
+C.  The system opt -in agreement under subsection 3 specifies the subset of personally 39 
+identifying student data, such as attendance records or disciplinary  records, to be 40 
+shared or transferred; and  41 
+ 
+ Page 3 - 127LR1805(01) -1 
+ D.  Prior to sharing or transferring the personally identifying student data, the 1 
+provider notifies the 3rd party in writing that the 3rd party may not share the data 2 
+with or transfer or otherwise disseminate the data to another person not authorized 3 
+under this section.  4 
+A person who directly or indirectly receives personally identifying student data under this 5 
+subsection may not share the data with or transfer or otherwise disseminate the data to 6 
+another person not  authorized under this section.  7 
+5.  Educational institution employees.   An educational institution may authorize in 8 
+writing an employee of the educational institution to access personally identifying student 9 
+data on a student information system if the empl oyee is trained regarding the provisions 10 
+of this section and the access is limited to the extent required by the employee's 11 
+professional duties.  An employee under this subsection may not share, transfer or 12 
+otherwise disseminate personally identifying stud ent data unless specifically authorized 13 
+under this section.  14 
+6.  Parent or legal guardian of student.   Upon written request, a parent or legal 15 
+guardian of a student or a student who is 18 years of age or older may review the student's 16 
+personally identifying  student data that are stored on a student information system and 17 
+may request a correction to or seek removal of inaccurate data.  18 
+7.  Removal of personally identifying student data.   Except as otherwise provided 19 
+by law or if retention of personally identif ying student data is required pursuant to a 20 
+disciplinary, administrative or judicial action or proceeding, upon a student's graduation, 21 
+withdrawal or expulsion from an educational institution, the educational institution and 22 
+any employee, provider or 3rd p arty in possession of any of the student's personally 23 
+identifying student data shall delete or otherwise destroy the data.  Within 30 days of the 24 
+student's graduation, withdrawal or expulsion from the educational institution, the 25 
+educational institution sh all notify any employee, provider or 3rd party in possession of 26 
+the student's personally identifying student data of the provisions of this subsection.  27 
+8.  Limitations on use.   Evidence or information obtained or collected in violation of 28 
+this section is n ot admissible as evidence in any disciplinary, administrative, civil or 29 
+criminal trial, proceeding or hearing.  30 
+9.  Penalty.   An educational institution that violates this section is subject to the 31 
+provisions of section 6801 -A. 32 
+Sec. 2.  20-A MRSA c. 231 is enacted to read:  33 
+CHAPTER 231  34 
+ELECTRONIC DEVICES  35 
+§6991.  Definitions  36 
+As used in this chapter, unless the context otherwise indicates, the following terms 37 
+have the following meanings.  38 
+ 
+ Page 4 - 127LR1805(01) -1 
+ 1.  Device opt -in agreement.   "Device opt -in agreement" means a verifiable  written 1 
+or electronically generated agreement by which access is granted to analyze, interact 2 
+with, share or transfer specific personally identifying student data stored on a student 3 
+electronic device.  4 
+2.  Educational institution.   "Educational institutio n" means a school administrative 5 
+unit or private or public elementary or secondary school under this part or Part 2, 6 
+including an employee or agent of the unit or school acting as representative or on behalf 7 
+of the unit or school.  8 
+3.  Electronic device.  "Electronic device" has the same meaning as in Title 16, 9 
+section 647, subsection 3.  10 
+4.  Personal electronic device.   "Personal electronic device" means an electronic 11 
+device that was not provided by an educational institution and is owned, leased or 12 
+possesse d by a student.  13 
+5.  Personally identifying student data.   "Personally identifying student data" 14 
+means student data that include:  15 
+A.  The name of a student or a parent, legal guardian or family member of a student;  16 
+B.  The address of a student or a parent, legal guardian or family member of a 17 
+student;  18 
+C.  A student's date of birth, place of birth, social security number, telephone number, 19 
+credit card account number, insurance account number, financial services account 20 
+number, e -mail address, social media add ress or password or any other electronic 21 
+address; and  22 
+D.  Any information that, alone or in combination, is linked or linkable to a specific 23 
+student that would allow a 3rd party to identify the student with reasonable certainty.  24 
+6.  School -authorized elect ronic device.   "School -authorized electronic device" 25 
+means an electronic device that an educational institution or a 3rd party approved by the 26 
+educational institution provides to a student for overnight or at -home use.  27 
+7.  Student data.   "Student data" mea ns data on a school -authorized electronic device 28 
+or a personal electronic device, including browser, keystroke and location histories.  29 
+§6992.  School -authorized electronic devices  30 
+1.  School -authorized electronic devices.   An educational institution, emplo yee of 31 
+an educational institution or 3rd party may not directly or remotely access a school - 32 
+authorized electronic device or data stored on a school -authorized electronic device or 33 
+share, transfer or otherwise disseminate data stored on a school -authorized electronic 34 
+device, except pursuant to the provisions of this section.  35 
+2.  Access to a school -authorized electronic device.   As specified in this subsection, 36 
+an educational institution, employee of the educational institution, law enforcement 37 
+official or 3r d party may access a school -authorized electronic device owned by the 38 
+educational institution to analyze, interact with, share or transfer student data if:  39 
+ 
+ Page 5 - 127LR1805(01) -1 
+ A.  For the educational institution, employee of the educational institution or 3rd 1 
+party authorized  by the educational institution:  2 
+(1)  The data are not personally identifying student data;  3 
+(2)  The educational institution, employee of the educational institution or 3rd 4 
+party obtains a device opt -in agreement under subsection 7 authorizing the 5 
+specific  scope of the access; or  6 
+(3)  Access is necessary to update or upgrade the device's software and access is 7 
+limited to that purpose;  8 
+B.  For the educational institution or employee of the educational institution, the 9 
+educational institution or employee has reasonable suspicion that the student has 10 
+violated or is violating the educational institution's policy and that the device contains 11 
+evidence of the suspected violation, subject to the following:  12 
+(1)  Prior to searching the device, the educational institut ion or employee 13 
+documents the reasonable suspicion and notifies the student and, if the student is 14 
+less than 18 years of age, a parent or legal guardian of the student of the 15 
+suspected violation and the specific data to be searched for evidence of the 16 
+violation;  17 
+(2)  The search is strictly limited to the data listed in subparagraph (1); and  18 
+(3)  If the violation involves illegal conduct, a judicial warrant is obtained 19 
+pursuant to paragraph C prior to the search even if the device may also have 20 
+evidence of a  related or unrelated violation of the educational institution's policy;  21 
+C.  For the educational institution, employee of the educational institution or law 22 
+enforcement official, the educational institution, employee or law enforcement 23 
+official reasonably suspects the student has engaged or is engaging in illegal conduct 24 
+and reasonably suspects that data on the device contain evidence of the suspected 25 
+illegal conduct and has obtained a judicial warrant to search the device prior to the 26 
+search. A 3rd party o ther than a law enforcement official may not access a student 27 
+electronic device pursuant to this paragraph; or  28 
+D.  For the educational institution, employee of the educational institution, law 29 
+enforcement official or 3rd party, access by the educational in stitution, employee, law 30 
+enforcement official or 3rd party is necessary in response to an immediate threat to 31 
+life or safety and access is limited to that purpose.  Within 72 hours of accessing a 32 
+device under this paragraph, the educational institution, em ployee of the educational 33 
+institution, law enforcement official or 3rd party shall provide to the student whose 34 
+device was accessed, to a parent or legal guardian of the student if the student is less 35 
+than 18 years of age and to the educational institution  if the access was performed by 36 
+an employee of the educational institution, law enforcement official or 3rd party a 37 
+written explanation of the precise threat that prompted the access and the specific 38 
+data that were accessed.  39 
+3.  Tracking location.   If a sc hool-authorized electronic device is equipped with 40 
+location tracking technology, either to track the location in real time or a historical 41 
+location, an educational institution, employee of an educational institution or law 42 
+enforcement official may use the tracking technology to track the device if:  43 
+ 
+ Page 6 - 127LR1805(01) -1 
+ A.  The use is ordered pursuant to a judicial warrant. A 3rd party other than a law 1 
+enforcement official may not access a student electronic device pursuant to this 2 
+paragraph;  3 
+B.  The student or a parent or legal  guardian of the student to whom the device was 4 
+provided has notified the educational institution, employee of an educational 5 
+institution or a law enforcement official in writing that the device was lost or stolen; 6 
+or 7 
+C.  Tracking the device is necessary i n response to an immediate threat to life or 8 
+safety and access is limited to that purpose.  Within 72 hours of using tracking 9 
+technology of a device under this paragraph, the educational institution, employee of 10 
+an educational institution or 3rd party or a  law enforcement official shall provide to 11 
+the student whose device was tracked, to a parent or legal guardian of the student if 12 
+the student is less than 18 years of age and to the educational institution if the 13 
+tracking was performed by an employee of an educational institution or a law 14 
+enforcement official a written explanation of the precise threat that prompted the 15 
+tracking and the specific details of the tracking.  16 
+4.  Audio or video functions.   An educational institution, employee of the 17 
+educational in stitution, law enforcement official or 3rd party may activate or access any 18 
+audio or video receiving, transmitting or recording functions on a school -authorized 19 
+electronic device if:  20 
+A.  The student to whom the device was provided initiates the video or au dio function 21 
+for an educational purpose and activation or access by the educational institution, 22 
+employee of the educational institution, law enforcement official or 3rd party is 23 
+limited to that purpose;  24 
+B.  The activation or access is ordered by a judicia l warrant. A 3rd party other than a 25 
+law enforcement official may not activate or access any audio or video receiving, 26 
+transmitting or recording functions of a student electronic device pursuant to this 27 
+paragraph; or  28 
+C.  Activating or accessing the audio or  video function of the device is necessary in 29 
+response to an immediate threat to life or safety and access is limited to that purpose.  30 
+Within 72 hours of activating or accessing the audio or video function of a device 31 
+under this paragraph, the educational  institution, employee of the educational 32 
+institution, law enforcement official or 3rd party shall provide to the student whose 33 
+device's audio or video function was activated or accessed, to a parent or legal 34 
+guardian of the student if the student is less than 18 years of age and to the 35 
+educational institution if the activation or access was performed by an employee of 36 
+the educational institution or a law enforcement official a written explanation of the 37 
+precise threat that prompted the activation or access  and the specific details of the 38 
+activation or access.  39 
+5.  Employee training.   An employee of an educational institution may not 40 
+supervise, direct or participate in an educational program using a school -authorized 41 
+electronic device without receiving adequa te training on the provisions of this section.  42 
+ 
+ Page 7 - 127LR1805(01) -1 
+ 6.  Sharing, transferring or dissemination of personally identifying student data.   1 
+Personally identifying student data obtained from a school -authorized electronic device 2 
+may not be shared with or transferred  or disseminated to an employee of an educational 3 
+institution who has not satisfied the requirements of subsection 5.  4 
+7.  Device opt -in agreement.   A device opt -in agreement must be signed by the 5 
+student to whom a school -authorized electronic device is pro vided and, if the student is 6 
+less than 18 years of age, a parent or legal guardian of the student. A student or parent or 7 
+legal guardian of the student is not required to sign a device opt -in agreement. A device 8 
+opt-in agreement may be revoked at any time upon written notice by the student or a 9 
+parent or legal guardian of the student. An educational benefit may not be withheld from 10 
+or punitive measure taken against a student or parent, legal guardian or family member of 11 
+the student based in whole or in part  upon a decision not to sign or to revoke a device opt - 12 
+in agreement. A device opt -in agreement may not grant general access to personally 13 
+identifying student data and may not grant to a 3rd party authority to collect all the 14 
+personally identifying student data that are generated or used in connection with a 15 
+specific program or application on the device. A device opt -in agreement may not allow 16 
+an educational institution, an employee of an educational institution or a 3rd party to 17 
+share, sell or otherwise tra nsfer personally identifying student data to a 3rd party. A valid 18 
+device opt -in agreement must specify:  19 
+A.  The name of the employee of the educational institution or 3rd party to whom 20 
+access is being granted;  21 
+B.  The precise subset of personally identifyi ng data to which the person in paragraph 22 
+A is being granted access; and  23 
+C.  The purpose for the access.  24 
+8.  School -authorized program.   A school -authorized program requiring use of a 25 
+school -authorized electronic device may not condition a student's partici pation in the 26 
+program upon execution of a device opt -in agreement or authorization by the student or 27 
+the student's parent or legal guardian to allow access to the student's personally 28 
+identifying student data on a school -authorized electronic device.  29 
+9.  Return of device.   Upon return of a school -authorized electronic device to an 30 
+educational institution from a student, the educational institution shall fully erase all data 31 
+stored on the device and return the device to its default factory settings.  32 
+10.  Limitations on use.   Evidence or information obtained or collected in violation 33 
+of this section is not admissible as evidence in any disciplinary, administrative, civil or 34 
+criminal trial, proceeding or hearing.  35 
+11.  Penalty.   An educational institution that v iolates this section is subject to the 36 
+provisions of section 6801 -A. 37 
+§6993.  Personal electronic devices  38 
+1.  Personal electronic devices.   An educational institution, at its discretion, may 39 
+limit or prohibit a student from carrying or using a personal elec tronic device while on 40 
+the property of the educational institution. An educational institution, employee of an 41 
+ 
+ Page 8 - 127LR1805(01) -1 
+ educational institution or 3rd party may not directly or remotely access a personal 1 
+electronic device or data stored on a personal electronic dev ice or share, transfer or 2 
+otherwise disseminate data stored on a personal electronic device, except pursuant to the 3 
+provisions of this section.  4 
+2.  Access to a personal electronic device.   As specified in this subsection, an 5 
+educational institution, employ ee of the educational institution, law enforcement official 6 
+or 3rd party may not access any data or other content input into or stored on a personal 7 
+electronic device of a student of the educational institution, even if the device has been 8 
+carried or used in violation of the policy of the educational institution, unless:  9 
+A.  For the educational institution or employee of the educational institution, the 10 
+educational institution or employee has reasonable suspicion that the student has 11 
+violated or is violatin g the educational institution's policy and the device contains 12 
+evidence of the suspected violation, subject to the following:  13 
+(1)  Prior to searching the device, the educational institution or employee 14 
+documents the reasonable suspicion and notifies the st udent and, if the student is 15 
+less than 18 years of age, a parent or legal guardian of the student of the 16 
+suspected violation and the specific data to be searched for evidence of the 17 
+violation;  18 
+(2)  The search is strictly limited to the data listed in subpa ragraph (1); and  19 
+(3)  If the violation involves illegal conduct, a judicial warrant is obtained 20 
+pursuant to paragraph B prior to the search even if the device may also have 21 
+evidence of a related or unrelated violation of the educational institution's polic y; 22 
+B.  For the educational institution, employee of the educational institution or law 23 
+enforcement official, the educational institution, employee or law enforcement 24 
+official reasonably suspects the student has engaged or is engaging in illegal conduct, 25 
+reasonably suspects that data on the device contain evidence of the suspected illegal 26 
+conduct and has obtained a judicial warrant to search the device prior to the search. A 27 
+3rd party other than a law enforcement official may not access a student electronic 28 
+device pursuant to this paragraph; or  29 
+C.  For the educational institution, employee of the educational institution, law 30 
+enforcement official or 3rd party, access by the educational institution, employee, law 31 
+enforcement official or 3rd party is necessary i n response to an immediate threat to 32 
+life or safety and access is limited to that purpose.  Within 72 hours of accessing a 33 
+device under this paragraph, the educational institution, employee, law enforcement 34 
+official or 3rd party shall provide to the studen t whose device was accessed, to a 35 
+parent or legal guardian of the student if the student is less than 18 years of age and to 36 
+the educational institution if the access was performed by an employee of the 37 
+educational institution, law enforcement official or 3rd party a written explanation of 38 
+the precise threat that prompted the access and the specific data that were accessed.  39 
+3.  Sharing, transferring or dissemination of personally identifying student data.   40 
+Personally identifying student data obtained from a  personal electronic device may not be 41 
+shared with or transferred or disseminated to a 3rd party without the express written 42 
+ 
+ Page 9 - 127LR1805(01) -1 
+ consent of the student and, if the student is less than 18 years of age, a parent or legal 1 
+guardian of the student.  2 
+4.  Limitations  on use.   Evidence or information obtained or collected in violation of 3 
+this section is not admissible as evidence in any disciplinary, administrative, civil or 4 
+criminal trial, proceeding or hearing.  5 
+5.  Penalty.   An educational institution that violates t his section is subject to the 6 
+provisions of section 6801 -A. 7 
+SUMMARY  8 
+This bill establishes restrictions and protocols on the access and use of personally 9 
+identifying student data by public and private elementary and secondary schools in 10 
+software application s used to input, store and manage student data and on school - 11 
+authorized electronic devices provided to students for overnight or at -home use.  This bill 12 
+also establishes restrictions and protocols for public and private elementary and 13 
+secondary schools reg arding allowable limitations on students' possession and use of and 14 
+the schools' authority to access data on students' personal electronic devices.  15 
+ 

@@ -1,0 +1,233 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1373
+H.P. 952 House of  Representatives,  April 11, 2017
+An Act  To Protect  and Expand  Access  to Solar  Power  in Maine
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BERRY of Bowdoinham.
+Cosponsored by Representative DENNO of Cumberland, Senator DION of Cumberland and
+Representatives: ACKLEY of Monmouth, DeCHANT  of Bath, MAREAN of Hollis,  
+POULIOT of Augusta,  RYKERSON of Kittery,  SEAVEY of Kennebunkport, Senators: DOW 
+of Lincoln, JACKSON of Aroostook.
+
+ 
+ Page 1 - 128LR1071(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §3209 -A, as enacted by PL 2011, c. 262, §1, is repealed and 2 
+the following enacted in its place:  3 
+§3209 -A.  Net energy billing  4 
+1.  Definitions.   As used in this section, unless the context otherwise indicates, the 5 
+following terms have the following meanings.  6 
+A.  "Eligible facility" means an electric generating facility that uses a renewable 7 
+capacity resource as defined in section 3210, subsection 2, paragraph B -3 or is an 8 
+efficie nt combined heat and power system as defined in section 3201, subsection 7 -A 9 
+and that:  10 
+(1)  In an investor -owned transmission and distribution utility territory, does not 11 
+have an installed capacity greater than 2 megawatts; or  12 
+(2)  In a consumer -owned tran smission and distribution utility territory, does not 13 
+have an installed capacity greater than 100 kilowatts unless the consumer -owned 14 
+utility elects, pursuant to rules adopted by the commission, to allow an eligible 15 
+facility to have an installed capacity o f up to 2 megawatts.  16 
+B.  "Net energy billing" means a billing and metering practice under which a 17 
+customer is billed on the basis of net usage over the billing period, taking into 18 
+account accumulated unused kilowatt -hour credits from previous billing perio ds. 19 
+C.  "Shared ownership" means a shared financial interest as defined by the 20 
+commission of an eligible facility by multiple persons who have distinct billing 21 
+accounts with a transmission and distribution utility.  22 
+D.  "Third -party ownership" means ownersh ip of an eligible facility by a party other 23 
+than the customer of a transmission and distribution utility whose billing account 24 
+receives net energy billing credits.  25 
+2.  Net energy billing.   A customer of a transmission and distribution utility may 26 
+elect net  energy billing in accordance with this section and rules adopted by the 27 
+commission.  A transmission and distribution utility may not charge any fee or 28 
+assessment to a customer that elects to use net energy billing.  29 
+A.  A customer who elects net energy bil ling must receive bill credits per kilowatt - 30 
+hour of electricity generated equal to the customer's transmission and distribution and 31 
+generation service rates per kilowatt -hour.  32 
+B.  Unused bill credits expire 12 months from when they are received.  33 
+C.  The co mmission by rule shall permit eligible facilities with shared ownership or 34 
+3rd-party ownership to be eligible for net energy billing.  The commission may not 35 
+limit the number of participants in a shared ownership project but may set a minimum 36 
+share size.  37 
+3.  Cost and benefits review.   The commission shall undertake a comprehensive 38 
+review of the ratepayer costs and benefits from net energy billing within an investor - 39 
+ 
+ Page 2 - 128LR1071(01) -1 
+ owned transmission and distribution utility's territory in accordance with this subsection.  1 
+The review must be conducted when an investor -owned transmission and distribution 2 
+utility enters into net energy billing agreements for a total generating capacity of:  3 
+A.  Five percent of its annual peak demand;  4 
+B.  Eight percent of its annual peak demand;  and 5 
+C.  Every additional 3% of its annual peak demand beyond 8%.  6 
+The commission shall consider all identifiable costs and benefits over multiple time 7 
+periods.  The commission shall consider any costs of net energy billing separately from 8 
+the reduced purch ase of electricity from transmission and distribution utilities arising 9 
+from generation by the customer.  10 
+4.  Rules.   The commission shall adopt rules governing net energy billing in 11 
+accordance with this section.  Rules adopted pursuant to this section are routine technical 12 
+rules as defined in Title 5, chapter 375, subchapter 2 -A. 13 
+Sec. 2.  35-A MRSA §3475 is enacted to read:  14 
+§3475.  Solar energy rebate program; fund  15 
+1.  Definitions.   As used in this section, unless the context otherwise indicates, the 16 
+follow ing terms have the following meanings.  17 
+A.  "Eligible commercial customer" means a customer of a transmission and 18 
+distribution utility located in the State that is an owner or tenant of commercial 19 
+property located in the State, including but not limited to nonresidential property that 20 
+is owned by a municipality or a not -for-profit organization.  21 
+B.  "Eligible resident" means a resident of the State whose household income is less 22 
+than 200% of the median household income of the State.  23 
+C.  "Eligible 3rd -party ow ner" means an owner of a qualified solar energy system 24 
+located in the State that is connected to the electric meter of an eligible resident or 25 
+eligible commercial customer.  26 
+D.  "Low -income or moderate -income resident" means an eligible resident whose 27 
+house hold income is less than 100% of the median household income in the State.  28 
+E.  "Qualified solar energy system" means a solar photovoltaic system or a solar 29 
+thermal system that is installed after July 1, 2017.  30 
+F.  "Qualified solar photovoltaic system instal ler" means a person who has been 31 
+qualified by the Efficiency Maine Trust to install solar photovoltaic systems designed 32 
+to generate electricity and who holds all necessary licenses for such work from the 33 
+State.  34 
+G.  "Qualified solar thermal system installer " means a person who has been qualified 35 
+by the Efficiency Maine Trust to install solar thermal systems and who holds a 36 
+current license from the State as a master plumber, as a master oil burner technician 37 
+or as a propane and natural gas technician or has b een certified as a type II, type III or 38 
+universal heating, ventilation and air conditioning refrigeration technician through a 39 
+ 
+ Page 3 - 128LR1071(01) -1 
+ certification program approved by the United States Environmental Protection 1 
+Agency.  2 
+H.  "Solar photovoltaic system" means a sola r energy device with a peak generating 3 
+capacity of 200 kilowatts or less used for generating electricity for use in a residence 4 
+or place of business that is connected to the electric grid.  5 
+I.  "Solar thermal system" means a configuration of solar collector s and a pump, heat 6 
+exchanger and storage tank or fans designed to heat water or air for the purpose of 7 
+space heating, domestic water heating or both space and domestic water heating. 8 
+Solar thermal system types may include forced circulation, integral colle ctor storage, 9 
+thermosyphon and self -pumping systems.  10 
+2.  Solar energy rebate program.   The Efficiency Maine Trust shall administer a 11 
+solar energy rebate program.  To the extent that funds are available in the fund 12 
+established in subsection 3, an eligible r esident, eligible commercial customer or eligible 13 
+3rd-party owner is entitled to a rebate for the installation of a qualified solar energy 14 
+system in accordance with this section and rules adopted under this section.  15 
+A.  After accounting for any allocation for administrative costs pursuant to subsection 16 
+3, in each fiscal year the trust shall allocate 40% of available funds for eligible 17 
+commercial customers, 20% of available funds for low -income or moderate -income 18 
+residents and 40% of available funds for othe r eligible residents.  At the end of the 19 
+trust's fiscal year, the trust may reallocate any unexpended funds according to this 20 
+formula.  21 
+B.  The trust shall set rebate levels for qualified solar energy systems according to the 22 
+following requirements.  23 
+(1)  Fr om the effective date of this section to June 30, 2019, the rebate for eligible 24 
+residents may not exceed 12% of the cost of installation and the rebate for 25 
+eligible commercial customers may not exceed the lower of 12% of the cost of 26 
+installation or $50,000 . 27 
+(2)  For the period from July 1, 2019 to June 30, 2022, the rebate for eligible 28 
+residents may not exceed 10% of the cost of installation and the rebate for 29 
+eligible commercial customers may not exceed the lower of 10% of the cost of 30 
+installation or $40,0 00. 31 
+(3)  Rebates for low -income or moderate -income residents may not exceed 25% 32 
+of the cost of installation for projects that are eligible for federal renewable 33 
+energy tax credits or 45% of the cost of installation for projects that are not 34 
+eligible for fe deral renewable energy tax credits.  35 
+C.  Third -party owners are eligible to receive a rebate on behalf of eligible residents 36 
+or eligible commercial customers in accordance with paragraphs A and B.  37 
+D.  To qualify for a rebate, a qualified solar energy system  must be installed by a 38 
+qualified solar photovoltaic system installer or a qualified solar thermal system 39 
+installer.  40 
+E.  For the purposes of determining household income for eligible residents, the trust 41 
+may rely on a signed affidavit or affirmation by the  applicant attesting to the 42 
+ 
+ Page 4 - 128LR1071(01) -1 
+ applicant's household income as filed under state or federal tax returns.  The trust 1 
+shall assess the accuracy of income claims through random verification with the 2 
+Department of Administrative and Financial Services, Maine Reve nue Services of no 3 
+less than 5% of rebate applications.  4 
+F.  The trust may elect to distribute rebates for low -income or moderate -income 5 
+residents through agreements with one or more providers of affordable housing 6 
+development or services, as long as the tr ust does so through a public selection 7 
+process and is reasonably confident that participating households are likely to meet 8 
+the definition of low -income or moderate -income residents.  9 
+3.  Funding level; fund.   The commission shall assess transmission and di stribution 10 
+utilities to collect funds for the solar energy rebate program under subsection 2 in 11 
+accordance with this subsection.  The assessments by the commission under this 12 
+subsection must be in accordance with the following schedule:  13 
+A.  For the period from July 1, 2017 to June 30, 2019, the assessment is 0.017 cent 14 
+per kilowatt -hour;  15 
+B.  For the period from July 1, 2019 to June 30, 2021, the assessment is 0.013 cent 16 
+per kilowatt -hour; and  17 
+C.  For the period from July 1, 2021 to June 30, 2022, the assess ment is 0.008 cent 18 
+per kilowatt -hour.  19 
+The Efficiency Maine Trust shall establish a solar energy rebate program fund to be used 20 
+solely for the purposes of this section.  The commission shall transfer all assessments 21 
+made under this subsection to the trust t o be deposited in the fund.  Any interest on funds 22 
+in the fund must be credited to the fund.  Funds not spent in any fiscal year remain in the 23 
+fund to be used for the purposes of this section only.  The trust may use up to 5% of the 24 
+fund to cover the costs  of verification of eligibility and administration of the solar energy 25 
+rebate program.  26 
+4.  Rules.   The Efficiency Maine Trust shall adopt rules necessary to implement the 27 
+provisions of this section, including procedures and standards for demonstrating 28 
+eligibility for a rebate under this section and for quality assurance protocols.  Rules 29 
+adopted under this section are routine technical rules as defined in Title 5, chapter 375, 30 
+subchapter 2 -A. 31 
+5.  Report.   The Efficiency Maine Trust shall report by December 31st of each year 32 
+to the joint standing committee of the Legislature having jurisdiction over utilities and 33 
+energy matters a description of actions taken by the trust pursuant to this section during 34 
+the prior 12 months.  35 
+SUMMARY  36 
+This bill amends the laws go verning net energy billing.  It prohibits a charge to a 37 
+customer that elects to use net energy billing.  It provides specific provisions related to 38 
+net energy billing including:  39 
+ 
+ Page 5 - 128LR1071(01) -1 
+ 1. It provides that customers using net energy billing receive bill credits ne tted 1 
+against delivery and supply charges on a one -to-one basis;  2 
+2. It provides that unused bill credits accumulate on a 12 -month rolling basis;  3 
+3. It limits the installed capacity of an eligible facility to 2 megawatts in the territory 4 
+of an investor -owned  transmission and distribution utility and to 100 kilowatts in the 5 
+territory of a consumer -owned transmission and distribution utility, except that the 6 
+consumer -owned transmission and distribution utility may elect to allow an eligible 7 
+facility with instal led capacity up to 2 megawatts;  8 
+4. It allows an eligible facility with shared ownership or 3rd -party ownership to be 9 
+eligible for net energy billing and prohibits the Public Utilities Commission from limiting 10 
+the number of participants in a shared ownershi p project, but allows the commission to 11 
+set a minimum share size; and  12 
+5. It requires a comprehensive review of ratepayer benefits and costs from net 13 
+energy billing when any investor -owned transmission and distribution utility in the State 14 
+enters into net e nergy billing agreements for a total generating capacity equal to 5% of 15 
+the annual peak demand and again for every additional 3% of the utility's annual peak 16 
+demand thereafter.  17 
+This bill also establishes a solar energy rebate program to be administered by the 18 
+Efficiency Maine Trust. The program is to be funded through an assessment collected by 19 
+the Public Utilities Commission from transmission and distribution utilities. Available 20 
+funds are to be distributed in the following manner: 40% to eligible commerci al 21 
+customers, 20% to low -income or moderate -income residents and 40% to other eligible 22 
+residents.  This bill requires the trust to adopt routine technical rules to administer the 23 
+program and requires the trust to submit an annual report to the Legislature that describes 24 
+the actions of the trust related to the rebate program.  25 
+ 

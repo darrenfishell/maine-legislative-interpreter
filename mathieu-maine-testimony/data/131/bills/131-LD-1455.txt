@@ -1,0 +1,123 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1455
+S.P. 573 In Senate, March 30, 2023
+An Act to Establish the Weighing Point Preclearance Program
+Reference to the Committee on Transportation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator FARRIN of Somerset.
+Cosponsored by Representative PARRY of Arundel.
+
+Page 1 - 131LR0845(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  29-A MRSA §2366 is enacted to read:
+3§2366.  Weighing Point Preclearance Program
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Preclearance system" means an electronic system that verifies a commercial motor 
+7 vehicle's size, weight, registration and safety records as the commercial motor vehicle 
+8 drives on a highway and allows compliant commercial motor vehicles to bypass 
+9 weighing points. 
+10 B.  "Preclearance system provider" means a provider of the preclearance system under 
+11 subsection 6.
+12 C.  "Program" means the Weighing Point Preclearance Program established pursuant 
+13 to subsection 2.
+14 D.  "State Police" means the Department of Public Safety, Bureau of State Police.
+15 E.  "Weighing point" means a roadside station where commercial motor vehicles are 
+16 required to stop for weight and safety inspections by the State Police.
+172.  Establishment of program.  The State Police shall establish the Weighing Point 
+18 Preclearance Program in accordance with the commercial motor vehicle information 
+19 systems and networks electronic screening truck inspection and weighing point 
+20 preclearance standards authorized by the Federal Motor Carrier Safety Administration. 
+21 Any proposed infrastructure to be installed within the right-of-way of a state highway 
+22 pursuant to this subsection must be designed and constructed in accordance with standards 
+23 from the department, as applicable, and reviewed by the department, as applicable, for 
+24 approval prior to construction.  All costs associated with the design, inspection, installation, 
+25 maintenance and operation of the preclearance system is the responsibility of the 
+26 preclearance system provider.
+273.  Department preclearance system program.  If the department administers a 
+28 program that is not the Weighing Point Preclearance Program and that uses a preclearance 
+29 system, the department shall determine which weighing points must participate in that 
+30 program, and all preclearance system providers' devices and platforms must be treated 
+31 equally and used concurrently at participating weighing points in accordance with this 
+32 section.
+334.  Operation of program.  The State Police shall operate the program at each location 
+34 where commercial motor vehicle weight enforcement is conducted.  A preclearance system 
+35 provider's devices and platform must be used uniformly at each location where the program 
+36 is operated in accordance with subsection 6. 
+375.  Program standards.  The State Police shall establish standards for the program in 
+38 order to meet the needs of the State and conform with weighing point preclearance 
+39 programs in other states, including standards regarding safety history and preclearance 
+40 credential status.
+416.  Preclearance system criteria and devices.  The preclearance system used by the 
+42 program must meet the following criteria.
+Page 2 - 131LR0845(01)1 A.  The preclearance system must use global positioning system technology or 
+2 infrastructure-based equipment and be able to be used at both fixed weighing point 
+3 facilities and mobile or remote locations.
+4 B.  The preclearance system must be a system that is broadly deployed across the 
+5 United States for interstate operability purposes on the effective date of this section.
+67.  Software and hardware.  Computer software and hardware that are necessary for 
+7 the use of the preclearance system under subsection 6 must be made available at no cost to 
+8 the State Police. The preclearance system provider is responsible for all costs of operating 
+9 and maintaining the computer software and hardware. The computer software and 
+10 hardware must meet the following criteria.
+11 A.  The computer software and hardware must meet the requirements of the Federal 
+12 Motor Carrier Safety Administration for compliance with the commercial motor 
+13 vehicle information systems and networks electronic screening truck inspection and 
+14 weighing point preclearance standards.
+15 B.  Hardware installed in a commercial motor vehicle pursuant to the program must be 
+16 operated in compliance with applicable state law and rules relating to hands-free 
+17 devices and distracted driving.
+18 C.  Program preclearance information must be transmitted and received by the 
+19 commercial motor vehicle driver through electronic messaging within the cab of the 
+20 commercial motor vehicle.
+218.  Data access.  The State Police and the department, as applicable, have unrestricted 
+22 access to data provided by the preclearance system under subsection 6 as part of the 
+23 program, including real-time event data and real-time sensor data.
+249.  Rules; consultation.  The State Police may adopt rules as necessary to implement 
+25 the provisions of this section, including designating authorized devices that meet the 
+26 requirements under subsection 7 for use in the program.  The State Police may consult with 
+27 the department as necessary for the implementation of this section.  Rules adopted pursuant 
+28 to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 
+29 2-A.
+30SUMMARY
+31 This bill establishes the Weighing Point Preclearance Program, which is operated by 
+32 the Department of Public Safety, Bureau of State Police and which uses an electronic 
+33 system that verifies a commercial motor vehicle's size, weight, registration and safety 
+34 records as the commercial motor vehicle drives on a highway and allows compliant 
+35 commercial motor vehicles to bypass weighing points.  The bill also provides that if the 
+36 Department of Transportation administers a separate program that uses a preclearance 
+37 system, the department must determine which weighing points must participate in that 
+38 program, and all preclearance system providers' devices and platforms must be treated 
+39 equally and used concurrently at participating weighing points.31
+32
+33
+34
+35
+36
+37
+38
+39

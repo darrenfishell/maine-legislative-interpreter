@@ -1,0 +1,648 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1925
+H.P. 1230 House of Representatives, May 11, 2023
+An Act to Clarify and Improve the Laws Relating to the 
+Background Check Center and the Maine Certified Nursing 
+Assistant and Direct Care Worker Registry
+Submitted by the Department of Health and Human Services pursuant to Joint Rule 204.
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SHAGOURY of Hallowell.
+
+Page 1 - 131LR0403(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §1812-G, sub-§1-B, ¶E, as enacted by PL 2015, c. 196, §9, is 
+3 amended to read:
+4 E.  "Disqualifying offense" means a substantiation for abuse, neglect or exploitation  
+5 misappropriation of property, or a criminal conviction identified in rules adopted by 
+6 the department that prohibits employment as a certified nursing assistant or a direct 
+7 care worker in accordance with subsection 2‑C.
+8Sec. 2.  22 MRSA §1812-G, sub-§1-B, ¶F, as enacted by PL 2015, c. 196, §9, is 
+9 amended to read:
+10 F.  "Employer" means a person or licensed, certified or registered provider or other 
+11 entity that employs direct access workers, including certified nursing assistants and 
+12 direct care workers, to provide direct contact services in home, community or other 
+13 health care or direct access settings. An individual who employs an unlicensed person 
+14 to provide care for that individual is not an employer for the purposes of this section, 
+15 except when required by rules adopted by the department.
+16Sec. 3.  22 MRSA §1812-G, sub-§1-B, ¶J, as enacted by PL 2015, c. 196, §9, is 
+17 amended to read:
+18 J.  "Nondisqualifying criminal conviction" means a criminal conviction identified in 
+19 rules adopted by the department pursuant to subsection 18 that is included as a notation 
+20 on the registry but does not prohibit employment as a certified nursing assistant or a 
+21 direct care worker.
+22Sec. 4.  22 MRSA §1812-G, sub-§1-B, ¶K, as enacted by PL 2015, c. 196, §9, is 
+23 repealed.
+24Sec. 5.  22 MRSA §1812-G, sub-§1-B, ¶L, as enacted by PL 2015, c. 196, §9, is 
+25 amended to read:
+26 L.  "Registry" means the Maine Registry of Certified Nursing Assistants and Direct 
+27 Care Workers established in subsection 1, which identifies individuals qualified and 
+28 eligible for employment as a certified nursing assistant or a registered direct care 
+29 worker and individuals who are not eligible for employment as a certified nursing 
+30 assistant or direct care worker due to notations for disqualifying offenses.
+31Sec. 6.  22 MRSA §1812-G, sub-§2-A, as enacted by PL 2015, c. 196, §9, is 
+32 amended to read:
+332-A.  Registry listing.  All active certified nursing assistants employed in the State 
+34 must be listed on the registry.  The registry must contain a listing of certified nursing 
+35 assistants and direct care workers that are ineligible for employment based on notations for 
+36 disqualifying offenses. Direct care workers registered for training, education or compliance 
+37 purposes may apply for registration and listing on the registry.  Direct care workers who 
+38 may be listed on the registry include but are not limited to the following:
+39 A.  Behavior specialists;
+40 B.  Behavioral health professionals;
+41 C.  Certified residential care aides;
+Page 2 - 131LR0403(01)1 D.  Certified residential medication aides;
+2 E.  Direct support professionals;
+3 F.  Mental health rehabilitation technicians;
+4 G.  Mental health support specialists;
+5 H.  Other qualified mental health professionals;
+6 I.  Personal care attendants or  personal support specialists;
+7 J.  Registered medical assistants;
+8 K.  Residential care specialists;
+9 L.  Community health workers; and
+10 M.  Other direct care workers described in rules adopted by the department pursuant to 
+11 subsection 18.
+12Sec. 7.  22 MRSA §1812-G, sub-§2-C, as enacted by PL 2015, c. 196, §9, is 
+13 amended to read:
+142-C.  Registry notations.  The registry must include for a certified nursing assistant 
+15 and direct care worker listed on the registry a notation of:
+16 A.  Disqualifying criminal convictions;
+17 B.  Nondisqualifying criminal convictions, except that a notation is not required on the 
+18 registry for Class D and Class E criminal convictions over 10 years old that did not 
+19 involve as a victim of the act a patient, client or resident; and
+20 C.  Substantiated findings, including but not limited to the following information:
+21 (1)  Documentation of an investigation of a certified nursing assistant or a direct 
+22 care worker, including the nature of the allegation and evidence supporting a 
+23 determination that substantiates the allegation of abuse, neglect or 
+24 misappropriation of property of a client, patient or resident;
+25 (2)  Documentation of substantiated findings of abuse, neglect or misappropriation 
+26 of property of a client, patient or resident;
+27 (3)  If the certified nursing assistant or direct care worker appealed the 
+28 substantiated finding, the date of the hearing; and
+29 (4)  The statement of the certified nursing assistant or direct care worker disputing 
+30 the allegation of abuse, neglect or misappropriation of property of a client, patient 
+31 or resident if the certified nursing assistant or direct care worker submitted such a 
+32 statement; and .
+33 D.  Petitions filed by a certified nursing assistant or direct care worker for removal of 
+34 an employment ban issued by the department that was based on a criminal conviction 
+35 and the department’s review and determination.
+36Sec. 8.  22 MRSA §1812-G, sub-§3-A, as enacted by PL 2015, c. 196, §9, is 
+37 repealed and the following enacted in its place:
+Page 3 - 131LR0403(01)13-A.  Listing on the registry; direct care worker.  The department shall adopt routine 
+2 technical rules regarding listing direct care workers on the registry, including but not 
+3 limited to the following:
+4 A. Direct care workers with disqualifying offenses must be listed on the registry; and
+5 B. The notation for direct care workers listed on the registry for substantiated findings 
+6 must include the following information:
+7 (1) Documentation of an investigation of a direct care worker, including the nature 
+8 of the allegation and evidence supporting a determination that substantiates the 
+9 allegation of abuse, neglect or misappropriation of property of a client, patient or 
+10 resident;  
+11 (2) Documentation of substantiated findings of abuse, neglect or misappropriation 
+12 of property of a client, patient or resident;
+13 (3) If the direct care worker appealed the substantiated finding, the date of the 
+14 hearing; and
+15 (4) The statement of the direct care worker disputing the allegation of abuse, 
+16 neglect or misappropriation of property of a client, patient or resident if the direct 
+17 care worker submitted such a statement.
+18Sec. 9.  22 MRSA §1812-G, sub-§3-B is enacted to read:
+193-B.  Petition for removal of a substantiated finding of neglect or 
+20misappropriation of property.  No sooner than 12 months after the date a substantiated 
+21 finding of neglect or misappropriation of property is placed on the registry, a direct care 
+22 worker may petition the department to remove the notation from the registry if the 
+23 substantiated complaint is a one-time occurrence and there is no pattern of neglect or 
+24 misappropriation of property.
+25Sec. 10.  22 MRSA §1812-G, sub-§4, as amended by PL 2015, c. 196, §9, is further 
+26 amended to read:
+274.  Department verification of credentials and training.  The department may verify 
+28 the credentials and training of certified nursing assistants and registered direct care workers 
+29 listed on the registry.
+30Sec. 11.  22 MRSA §1812-G, sub-§4-A, as amended by PL 2015, c. 196, §9, is 
+31 further amended to read:
+324-A.  Provider verification fee.  The department may establish a provider verification 
+33 fee not to exceed $25 annually per provider for verification of a certified nursing assistant's 
+34 or registered direct care worker's credentials and training. Providers may not pass the cost 
+35 on to the individual certified nursing assistant or registered direct care worker. Provider 
+36 verification fees collected by the department must be placed in a special revenue account 
+37 to be used by the department to operate the registry, including but not limited to the cost of 
+38 criminal history record checks. The department may adopt rules necessary to implement 
+39 this subsection.  Rules adopted pursuant to this subsection are routine technical rules as 
+40 defined in Title 5, chapter 375, subchapter 2‑A.
+41Sec. 12.  22 MRSA §1812-G, sub-§5-A, as enacted by PL 2015, c. 196, §9, is 
+42 amended to read:
+Page 4 - 131LR0403(01)15-A.  Employment eligibility verification; direct care access worker.  An employer, 
+2 including a health care institution, facility or other organization that employs an individual 
+3 as a direct care access worker, shall verify that the direct care access worker , if listed on 
+4 the registry, has no disqualifying notations and has complied with the training or education 
+5 requirements for registration, if applicable  offenses.
+6Sec. 13.  22 MRSA §1812-G, sub-§6, as repealed and replaced by PL 2015, c. 494, 
+7 Pt. A, §16, is amended to read:
+86.  Prohibited employment based on disqualifying offenses.  An individual with a 
+9 disqualifying offense, including a substantiated complaint or a disqualifying criminal 
+10 conviction, may not work as a certified nursing assistant or a direct care access worker, and 
+11 an employer is subject to penalties for employing a disqualified or otherwise ineligible 
+12 person in accordance with applicable federal or state laws.
+13Sec. 14.  22 MRSA §1812-G, sub-§6-A, as amended by PL 2015, c. 494, Pt. A, 
+14 §§17 and 18, is further amended to read:
+156-A.  Background check.  Certified nursing assistants and  direct care workers are 
+16 subject to a background check as defined by rules adopted by the department  pursuant to 
+17 chapter 1691 and according to the following:
+18 A.  A training program for certified nursing assistants or direct care workers must 
+19 secure or pay for a background check on each individual who applies for enrollment. 
+20 The individual's current name and all previous names are subject to the background 
+21 check. A copy of the background check is given to the individual who, upon successful 
+22 completion of the training, submits it with an application to be listed on the registry as 
+23 a certified nursing assistant or a registered direct care worker.
+24 (1)  Prior to enrolling an individual, a training program for certified nursing 
+25 assistants or direct care workers must notify individuals that a background check 
+26 will be conducted and that certain disqualifying offenses, including criminal 
+27 convictions, may prohibit an individual from working as a certified nursing 
+28 assistant or a direct care worker.
+29 B.  Pursuant to sections 1717, 1724, 2137, 2149‑A, 7706, 8606 and , 9005 and 9054 
+30 and Title 34‑B, section 1225, licensed, certified or registered providers shall secure and 
+31 pay for a background check prior to hiring an individual who will work in direct contact 
+32 with clients, patients or residents, including a certified nursing assistant or a direct care 
+33 worker.
+34 C.  The department may secure a background check on certified nursing assistants and 
+35 registered direct care workers on the registry  every 2 years.
+36 D.  A person or other legal entity that is not otherwise licensed by the department and 
+37 that employs or places a certified nursing assistant or direct care worker to provide 
+38 services allowing direct access shall secure and pay for a background check in 
+39 accordance with state law and rules adopted by the department.
+40Sec. 15.  22 MRSA §1812-G, sub-§6-B, as enacted by PL 2015, c. 196, §9, is 
+41 repealed.
+42Sec. 16.  22 MRSA §1812-G, sub-§6-C, ¶A, as enacted by PL 2015, c. 196, §9, is 
+43 amended to read:
+Page 5 - 131LR0403(01)1 A.  A disqualifying criminal conviction within the previous 10 years prohibits 
+2 employment as a certified nursing assistant or a direct care access worker.
+3 (1)  An individual with a disqualifying criminal conviction is subject to an 
+4 employment ban of 5, 10 or 30 years. The department shall adopt rules that specify  
+5 disqualifying criminal convictions that prohibit employment for 5 years, 
+6 disqualifying criminal convictions that prohibit employment for 10 years and 
+7 disqualifying criminal convictions that prohibit employment for 30 years.
+8Sec. 17.  22 MRSA §1812-G, sub-§6-C, ¶B, as enacted by PL 2015, c. 196, §9, is 
+9 amended to read:
+10 B.  Nondisqualifying criminal convictions do not prohibit employment as a certified 
+11 nursing assistant or a direct care access worker.
+12Sec. 18.  22 MRSA §1812-G, sub-§6-D, as enacted by PL 2015, c. 196, §9, is 
+13 repealed.
+14Sec. 19.  22 MRSA §1812-G, sub-§8, as amended by PL 2015, c. 196, §9, is 
+15 repealed.
+16Sec. 20.  22 MRSA §1812-G, sub-§10, as enacted by PL 2015, c. 196, §9, is 
+17 amended to read:
+1810.  Complaint investigation.  The department may investigate complaints and 
+19 allegations against certified nursing assistants or registered direct care access workers of 
+20 abuse, neglect, exploitation or misappropriation of property of a client, patient or resident.
+21Sec. 21.  22 MRSA §1812-G, sub-§11, as enacted by PL 2015, c. 196, §9, is 
+22 amended to read:
+2311.  Issue a decision.  After an investigation under subsection 10, the department shall 
+24 issue a written decision that the allegation of abuse, neglect, exploitation or 
+25 misappropriation of property of a client, patient or resident is unsubstantiated or 
+26 substantiated. Each allegation of abuse, neglect or misappropriation of property must be 
+27 considered separately. A substantiated finding must be based on factors established by 
+28 department rules. The written decision must include at least the following information:
+29 A.  Whether the allegation is unsubstantiated or substantiated;
+30 B.  A description of the factors supporting a substantiated finding;
+31 C.  If a notation of a substantiated finding is entered on the registry;
+32 D.  A description of the employment prohibition, if any; and
+33 E.  Notice of the right to appeal the department’s decision pursuant to subsection 12.
+34Sec. 22.  22 MRSA §1812-G, sub-§13, as enacted by PL 2015, c. 196, §9, is 
+35 amended to read:
+3613.  Substantiated finding; lifetime employment ban.  A certified nursing assistant 
+37 or a registered direct care worker with a notation on the registry of a substantiated finding 
+38 on the registry of abuse of a patient, client or resident is banned for life from employment 
+39 as either a certified nursing assistant or a direct care worker.
+Page 6 - 131LR0403(01)1Sec. 23.  22 MRSA §1812-G, sub-§14, as enacted by PL 2015, c. 196, §9, is 
+2 repealed.
+3Sec. 24.  22 MRSA §1812-G, sub-§15, as enacted by PL 2015, c. 196, §9, is 
+4 repealed.
+5Sec. 25.  22 MRSA §1812-G, sub-§16, as enacted by PL 2015, c. 196, §9, is 
+6 repealed.
+7Sec. 26.  22 MRSA §1812-G, sub-§17, as enacted by PL 2015, c. 196, §9, is 
+8 repealed.
+9Sec. 27.  22 MRSA §1812-J, as amended by PL 2015, c. 299, §§11 to 17 and c. 494, 
+10 Pt. D, §3, is further amended by amending the section headnote to read:
+11§1812-J.  Unlicensed assistive persons  Direct care workers
+12Sec. 28.  22 MRSA §1812-J, sub-§1, ¶A-7, as enacted by PL 2011, c. 257, §3, is 
+13 amended to read:
+14 A-7.  "Nondisqualifying criminal conviction" means a criminal conviction identified 
+15 in rules adopted by the department that is included as a notation on the registry but 
+16 does not prohibit employment as an unlicensed assistive person  a direct care worker.
+17Sec. 29.  22 MRSA §1812-J, sub-§1, ¶B, as amended by PL 2015, c. 299, §12, is 
+18 further amended to read:
+19 B.  "Registry" means the Maine Registry of Certified Nursing Assistants and Direct 
+20 Care Workers, which is a list of certified nursing assistants, with notations if applicable, 
+21 and a list of direct care workers registered for training, education or compliance 
+22 purposes, or unlicensed assistive persons with notations and is established under 
+23 section 1812‑G.
+24Sec. 30.  22 MRSA §1812-J, sub-§1, ¶D, as amended by PL 2015, c. 299, §13, is 
+25 further amended to read:
+26 D.  "Unlicensed assistive person  Direct care worker" means an unlicensed individual 
+27 who by virtue of employment has direct access to and provides direct care or direct 
+28 contact assistance with activities of daily living or other services to individuals in 
+29 homes, assisted living programs, residential care facilities, hospitals and other health 
+30 care and direct access services settings. "Unlicensed assistive person  Direct care 
+31 worker" includes but is not limited to a direct support professional, residential care 
+32 specialist, behavioral health professional, personal support specialist, mental health 
+33 support specialist, mental health rehabilitation technician, behavior specialist, other 
+34 qualified mental health professional, certified residential medication aide and 
+35 registered medical assistant and other direct access workers or direct care workers as 
+36 described in rules adopted by the department.  "Unlicensed assistive person  Direct care 
+37 worker" does not include a certified nursing assistant employed in the capacity of a 
+38 certified nursing assistant.
+39Sec. 31.  22 MRSA §1812-J, sub-§1, ¶F, as enacted by PL 2015, c. 299, §14, is 
+40 repealed.
+41Sec. 32.  22 MRSA §1812-J, sub-§1, ¶G is enacted to read:
+Page 7 - 131LR0403(01)1 G.  "Registered direct care worker" means an individual listed on the registry.  
+2 "Registered direct care worker" does not include a certified nursing assistant employed 
+3 in the capacity of a certified nursing assistant or a direct care worker listed on the 
+4 registry with notations for disqualifying offenses.
+5Sec. 33.  22 MRSA §1812-J, sub-§2, as amended by PL 2015, c. 299, §15, is further 
+6 amended to read:
+72.  Complaint investigation.  The department may investigate complaints and 
+8 allegations of abuse, neglect, exploitation or misappropriation of property of a client, 
+9 patient or resident in a home or health care setting against unlicensed assistive persons  
+10 direct care workers.
+11Sec. 34.  22 MRSA §1812-J, sub-§3, as amended by PL 2011, c. 257, §5, is further 
+12 amended to read:
+133.  Substantiated finding of complaint; registry listing.  When a complaint against 
+14 an unlicensed assistive person  a direct care worker is substantiated by the department and 
+15 the unlicensed assistive person  direct care worker is listed on the registry pursuant to 
+16 subsection 4, the department's decision becomes final agency action as defined in Title 5, 
+17 section 8002, subsection 4.  The department shall notify the employer of the unlicensed 
+18 assistive person direct care worker that a substantiated finding of a complaint has been 
+19 listed as a notation on the registry.
+20Sec. 35.  22 MRSA §1812-J, sub-§3-A, as enacted by PL 2011, c. 257, §6, is 
+21 amended to read:
+223-A.  Indicated finding of complaint; no registry listing.  An indicated finding by 
+23 the department of a complaint against an unlicensed assistive person  a direct care worker 
+24 does not prohibit employment and is not listed as a notation on the registry.  The 
+25 department's complaint investigation decision becomes final agency action as defined in 
+26 Title 5, section 8002, subsection 4.
+27Sec. 36.  22 MRSA §1812-J, sub-§4, as amended by PL 2015, c. 299, §16, is further 
+28 amended to read:
+294.  Registry listing.  The department shall list an unlicensed assistive person employed 
+30 as a direct care worker direct care workers with a disqualifying offense  substantiated 
+31 finding notation  and may register an unlicensed assistive person or direct care worker for 
+32 training, education and compliance purposes.  Disqualifying notations must include but are 
+33 not limited to the following information:
+34 A.  Documentation of the department's investigation, including the nature of the 
+35 allegation and the evidence that led the department to substantiate the allegation of 
+36 abuse, neglect, exploitation or misappropriation of property;
+37 B.  The date of the hearing, if the unlicensed assistive person  direct care worker chose 
+38 to appeal the department finding that the complaint was substantiated; and
+39 C.  The unlicensed assistive person's  direct care worker's statement to the department 
+40 disputing the allegation, if the unlicensed assistive person  direct care worker chose to 
+41 submit one; and .
+Page 8 - 131LR0403(01)1 D.  Notations indicating the listed unlicensed assistive person is not in compliance with 
+2 training or educational requirements.
+3Sec. 37.  22 MRSA §1812-J, sub-§5, as enacted by PL 2009, c. 215, §2, is amended 
+4 to read:
+55.  Right to hearing.  The department shall notify the unlicensed assistive person  direct 
+6 care worker of the right to request a hearing to contest the finding that the complaint under 
+7 subsection 3 was substantiated.
+8Sec. 38.  22 MRSA §1812-J, sub-§6, as amended by PL 2011, c. 257, §7, is 
+9 repealed.
+10Sec. 39.  22 MRSA §1812-J, sub-§7, as amended by PL 2015, c. 494, Pt. D, §3, is 
+11 further amended to read:
+127.  Prohibited employment based on disqualifying offenses.  An employer who 
+13 employs an unlicensed assistive person  a direct care worker to provide direct access 
+14 services shall conduct a comprehensive background check in accordance with state law and 
+15 rules adopted by the department and is subject to the employment restrictions set out in 
+16 section 1812‑G and chapter 1691 and other applicable federal and state laws.  The employer 
+17 is subject to penalties for employing a disqualified or otherwise ineligible person in 
+18 accordance with applicable federal or state laws.
+19Sec. 40.  22 MRSA §1812-J, sub-§7-A is enacted to read:
+207-A.  Background check.  This subsection governs background checks for direct care 
+21 workers.
+22 A.  A training program for direct care workers may secure or pay for a background 
+23 check pursuant to chapter 1691 on each individual who applies for enrollment in the 
+24 program.  The background check may check the individual's current name and all 
+25 previous names.  The background check result may be shared with the individual's 
+26 prospective employer upon successful completion of the program.
+27 (1)  Prior to enrolling an individual, a training program for direct care workers must 
+28 notify individuals that a background check may be conducted and that certain 
+29 disqualifying offenses, including criminal convictions, may prohibit an individual 
+30 from working as a direct care worker.
+31 B.  Pursuant to sections 1717, 1724, 2137, 2149-A, 7706, 8606, 9005 and 9054 and 
+32 Title 34-B, section 1225, licensed, certified or registered providers shall secure and pay 
+33 for a background check prior to hiring an individual who will work in direct contact 
+34 with clients, patients or residents, including a direct care worker.
+35 C.  The department may review the results of a background check completed in 
+36 accordance with chapter 1691 on a registered direct care worker.
+37 D.  A person that is not otherwise licensed by the department that employs or places a 
+38 direct care worker to provide services allowing direct access shall secure and pay for a 
+39 background check in accordance with state law and rules adopted by the department.
+40Sec. 41.  22 MRSA §9053, sub-§2, as enacted by PL 2015, c. 299, §25, is amended 
+41 to read:
+Page 9 - 131LR0403(01)12.  Assisted housing program.  "Assisted housing program" means a program or 
+2 facility licensed pursuant to chapter 1663 or an independent housing with services program 
+3 exempt from licensing pursuant to chapter 1663.
+4Sec. 42.  22 MRSA §9053, sub-§3, as enacted by PL 2015, c. 299, §25, is amended 
+5 to read:
+63.  Background check.  "Background check" means the collection of personally 
+7 identifiable information and , data and biometric identifiers for comparison with criminal 
+8 record repositories and registry databases that are relevant to an individual's identity and 
+9 background, including monitoring for future offenses through a rap back monitoring 
+10 program.
+11Sec. 43.  22 MRSA §9053, sub-§5-A is enacted to read:
+125-A.  Biometric identifier.  "Biometric identifier" means a unique and measurable 
+13 biological, anatomical or physiological characteristic used for identification of an 
+14 individual, including, but not limited to, fingerprints, retinal or iris scans and palm prints.
+15Sec. 44.  22 MRSA §9053, sub-§14, as enacted by PL 2015, c. 299, §25, is amended 
+16 to read:
+1714.  Direct access worker.  "Direct access worker" means an individual who by virtue 
+18 of employment has direct access to a Medicare or Medicaid beneficiary or other protected 
+19 individual served by a provider subject to this chapter  generally provides to individuals 
+20 direct contact assistance or has direct access regardless of setting.  "Direct access worker" 
+21 does not include an individual performing repairs, deliveries, installations or similar 
+22 services who does not have direct access without supervision.  "Direct access worker" 
+23 includes but is not limited to the following individuals:
+24 A.  An individual seeking employment as a direct access worker;
+25 B.  An employee who is employed upon the effective date of this chapter and who is 
+26 required to have a background check in accordance with section 9058  9058-A;
+27 C.  A former employee who consents, prior to leaving employment, to periodic review 
+28 of that employee's criminal background for a fixed time;
+29 D.  An independent contractor pursuant to Title 26, section 1043, subsection 11, 
+30 paragraph E or Title 39‑A, section 102, subsection 13‑A or a worker who is placed with 
+31 a provider by a temporary nurse agency or a personal care agency or a placement 
+32 agency registered pursuant to section 1717; and
+33 E.  A volunteer, student or other person with direct access who routinely performs 
+34 unsupervised functions similar to those performed by a direct access worker for a 
+35 provider. ; and
+36 F.  A direct care worker pursuant to section 1812-J, subsection 1, paragraph G.
+37Sec. 45.  22 MRSA §9053, sub-§19, as enacted by PL 2015, c. 299, §25, is repealed 
+38 and the following enacted in its place:
+3919.  Grandfathered employee.  "Grandfathered employee" means an individual 
+40 subject to the requirements of this chapter who has been employed prior to October 1, 2023, 
+41 is subject to section 9058-A and has not previously submitted biometric identifier data for 
+42 a background check under this chapter.
+Page 10 - 131LR0403(01)1Sec. 46.  22 MRSA §9053, sub-§21-A is enacted to read:
+221-A.  Hospital.  "Hospital" means an entity licensed pursuant to chapter 405.
+3Sec. 47.  22 MRSA §9053, sub-§24-A is enacted to read:
+424-A.  Noncriminal justice submitting entity.  "Noncriminal justice submitting 
+5 entity" means the agency responsible for initiating requests under the rap back monitoring 
+6 program pursuant to federal implementation guidance documents.
+7Sec. 48.  22 MRSA §9053, sub-§28-A is enacted to read:
+828-A.  Portability.  "Portability" means the ability of a direct access worker to transfer 
+9 the results of a background check eligibility determination and information from the rap 
+10 back monitoring program to a new employer.
+11Sec. 49.  22 MRSA §9053, sub-§29, as amended by PL 2019, c. 660, §6, is further 
+12 amended to read:
+1329.  Provider.  "Provider" means a licensed, license-exempt, certified or registered 
+14 entity that employs direct care access workers to provide long-term care and in-home and 
+15 community-based services under this chapter.
+16Sec. 50.  22 MRSA §9053, sub-§32, as enacted by PL 2015, c. 299, §25, is amended 
+17 to read:
+1832.  Residential care facility.  "Residential care facility" means a residential care 
+19 facility licensed or exempted from licensing pursuant to chapter 1663.
+20Sec. 51.  22 MRSA §9053, sub-§32-A is enacted to read:
+2132-A.  Substance use disorder treatment agency.  "Substance use disorder treatment 
+22 agency" means an approved treatment facility or program licensed pursuant to Title 5, 
+23 chapter 521.
+24Sec. 52.  22 MRSA §9054, sub-§2, as enacted by PL 2015, c. 299, §25, is amended 
+25 to read:
+262.  Employer obligations.  An employer subject to this chapter shall use the 
+27 Background Check Center to conduct a comprehensive background check that includes a 
+28 criminal history records check for all direct access workers.  The employer shall comply 
+29 with the requirements of this chapter, including, but not limited to, a biometric identifier-
+30 based background check, when making employment-related decisions for direct access 
+31 workers.
+32Sec. 53.  22 MRSA §9054, sub-§5, as enacted by PL 2015, c. 299, §25, is amended 
+33 to read:
+345.  Subsequent background check; 5 years.  An employer shall conduct a periodic 
+35 subsequent background check in accordance with rules adopted pursuant to this chapter.  
+36 Criminal history record checks for all direct access workers using a biometric identifier 
+37 must be completed every 5 years subsequent to the date of hire or the anniversary date of a 
+38 previous background check completed through use of the Background Check Center.
+39Sec. 54.  22 MRSA §9054, sub-§7, ¶O, as enacted by PL 2015, c. 299, §25, is 
+40 amended to read:
+Page 11 - 131LR0403(01)1 O.  Mental health services facilities or providers; and
+2Sec. 55.  22 MRSA §9054, sub-§7, ¶P, as enacted by PL 2015, c. 299, §25, is 
+3 amended to read:
+4 P.  Drug treatment centers. ;
+5Sec. 56.  22 MRSA §9054, sub-§7, ¶Q is enacted to read:
+6 Q.  Substance use disorder treatment agencies; and
+7Sec. 57.  22 MRSA §9054, sub-§7, ¶R is enacted to read:
+8 R.  Hospitals.
+9Sec. 58.  22 MRSA §9054, sub-§8, ¶B, as enacted by PL 2015, c. 299, §25, is 
+10 amended to read:
+11 B.  Coordinating with the bureau and other federal or state agencies as applicable to 
+12 obtain data and analyze personally identifying information and biometric identifiers 
+13 regarding criminal record information and notations that represent disqualifying 
+14 offenses on relevant databases and registries;
+15Sec. 59.  22 MRSA §9054, sub-§8, ¶F, as enacted by PL 2015, c. 299, §25, is 
+16 amended to read:
+17 F.  Specifying offenses, including offenses that may appear in publicly available 
+18 criminal record information, that disqualify an individual from employment as a direct 
+19 access worker for a term of 5, 10 or 30 years or, for disqualifying offenses that occur 
+20 in health care settings, the lifetime of the individual, including, but not limited to, 
+21 convictions and other events or notations;
+22Sec. 60.  22 MRSA §9054, sub-§10, as enacted by PL 2015, c. 299, §25, is amended 
+23 to read:
+2410.  Background check report content.  The background check report must inform 
+25 employers whether the individual submitted for a background check has offenses that 
+26 disqualify the individual for employment as a direct access worker. The background check 
+27 report must include information specific to the individual along with information about the 
+28 source and type of offense sufficient to allow the individual named in the report to 
+29 challenge the information. The content of the background check report must include, but is 
+30 not limited to, notice that the individual submitted for a background check has  is:
+31 A.  No disqualifying offenses;
+32 A-1.  Eligible for hire; or
+33 B.  A disqualifying offense; or
+34 B-1.  Ineligible for hire and the length of any ban on employment as a result.
+35 C.  A criminal charge without disposition that upon final disposition may result in a 
+36 disqualifying offense.
+37Sec. 61.  22 MRSA §9054, sub-§13, as enacted by PL 2015, c. 299, §25, is amended 
+38 to read:
+Page 12 - 131LR0403(01)113.  Waiver; disqualifying offense.  In the event that no other federal or state law 
+2 mandates an employment prohibition by an employer subject to this chapter, an individual 
+3 who is banned from employment because of a disqualifying criminal offense may initiate 
+4 a request for a waiver under subsection 8, paragraph H in accordance with a process 
+5 established by rules adopted pursuant to this chapter under the following circumstances:
+6 A.  The individual is seeking to be employed or is currently employed by an employer 
+7 subject to the requirements of this chapter;
+8 B.  The employer has chosen to sponsor the individual's request for the removal of the 
+9 ban in order to create or maintain an employment relationship; and
+10 C.  The employer must attest to the department that the decision to sponsor the waiver 
+11 request occurred after the employer considered the objectively reasonable factors under 
+12 subsection 15 and the following factors:
+13 (1)  The nature and gravity of the disqualifying offense or offenses;
+14 (2)  The time that has passed since the disqualifying offense or offenses;
+15 (3)  The nature of the employment held or sought;
+16 (4)  Whether the criminal conduct was employment-related; and
+17 (5)  A reasonable conclusion that the individual does not pose a threat of harm to 
+18 a protected individual or others in the care and support of the individual.
+19 The waiver must be sought with respect to the prospective or continued employment by a 
+20 specific employer that is willing to sponsor the individual's request.  An employee seeking 
+21 a waiver may be conditionally employed in accordance with section 9057, subsection 4 and 
+22 section 9058  9058-A, subsection 3 until the waiver is denied.
+23Sec. 62.  22 MRSA §9055, sub-§2, as enacted by PL 2015, c. 299, §25, is amended 
+24 to read:
+252.  Special revenue account.  Revenue generated pursuant to this section must be 
+26 deposited in a special revenue account in the Division  division of  Licensing  licensing and 
+27 Regulatory Services  certification and dedicated for Background Check Center operations.
+28Sec. 63.  22 MRSA §9056, sub-§2, as enacted by PL 2015, c. 299, §25, is amended 
+29 to read:
+302.  Rap back monitoring program.  The bureau is authorized to initiate and provide 
+31 services pursuant to federal or state rap back monitoring to report new criminal record 
+32 events to the Background Check Center for noncriminal justice purposes.  The bureau is 
+33 authorized as the State's noncriminal justice submitting entity for federal rap back 
+34 monitoring.  Requests under the rap back monitoring program include the following 
+35 procedures:
+36 A.  The noncriminal justice submitting entity submits to an electronic repository 
+37 biometric identifier data of a direct access worker;
+38 B.  The electronic repository retains the biometric identifier data for a period of time 
+39 specified in the State's subscription with the electronic repository; and
+Page 13 - 131LR0403(01)1 C.  The electronic repository notifies the noncriminal justice submitting entity of any 
+2 new criminal record events tied to the biometric identifier data that may disqualify an 
+3 individual from continued employment as a direct access worker.
+4Sec. 64.  22 MRSA §9056, sub-§3, as enacted by PL 2015, c. 299, §25, is amended 
+5 to read:
+63.  Collection of identifier data.  The bureau shall coordinate with the Background 
+7 Check Center to collect the personally identifiable information and biometric identifier and 
+8 relevant data of individuals as needed to meet the requirements of the rap back monitoring 
+9 program or as otherwise required by this chapter and other laws.
+10Sec. 65.  22 MRSA §9056, sub-§4, ¶A, as enacted by PL 2015, c. 299, §25, is 
+11 amended to read:
+12 A.  Maintain the personally identifiable information and biometric identifier data in the 
+13 criminal history records repository;
+14Sec. 66.  22 MRSA §9056, sub-§4, ¶B, as enacted by PL 2015, c. 299, §25, is 
+15 amended to read:
+16 B.  Compare the personally identifiable data, biometric identifier data or other data or 
+17 both to criminal records to conduct a criminal record check and disseminate the results 
+18 of this record check to authorized entities;
+19Sec. 67.  22 MRSA §9057, sub-§4, ¶D-1 is enacted to read:
+20 D-1.  The individual provides evidence to the employer that the individual has 
+21 submitted the individual's biometric identifier data for the background check;
+22Sec. 68.  22 MRSA §9057, sub-§4, ¶E, as enacted by PL 2015, c. 299, §25, is 
+23 amended to read:
+24 E.  The employer verifies and documents that the individual has submitted the 
+25 individual's biometric identifier data required for the background check and the 
+26 mandatory identity verification and employment eligibility documents required by 
+27 rules adopted in accordance with this chapter; and
+28Sec. 69.  22 MRSA §9058, as enacted by PL 2015, c. 299, §25, is repealed.
+29Sec. 70.  22 MRSA §9058-A is enacted to read:
+30§9058-A.  Grandfathered employees prior to biometric identifier reporting
+311.  Background check.  Beginning October 1, 2024, an employer employing direct 
+32 access workers shall use the Background Check Center to secure a background check and 
+33 a background check report using biometric identifier data for each direct access worker.  
+342.  Gradual implementation of grandfathered employee background checks with 
+35biometric identifier data.  The department shall adopt rules under section 9065 describing 
+36 a staged and orderly process based on the type of provider and the number of direct access 
+37 workers employed that employers must follow to implement the background checks using 
+38 biometric identifier data for grandfathered employees consistent with this chapter. The 
+39 department may grant an employer a deadline extension for good cause shown, which may 
+40 not be unreasonably withheld.
+Page 14 - 131LR0403(01)13.  Background check deadline.  A grandfathered employee may continue to work in 
+2 direct access employment for up to 60 calendar days from the date the grandfathered 
+3 employee's first biometric identifier background check is initiated in accordance with 
+4 subsection 2 and if:  
+5 A.  The grandfathered employee signs a consent to release information and agrees in 
+6 writing to submit to the background check process;
+7 B.  The grandfathered employee signs a statement declaring that a background check 
+8 will not reveal any disqualifying offenses or that an offense that appears is inaccurate;
+9 C.  The employer verifies and documents that the grandfathered employee has 
+10 submitted the biometric identifier data and mandatory identity verification and 
+11 employment eligibility documents required by rules adopted in accordance with section 
+12 9065;
+13 D.  The employer initiates the background check by entering the individual into the 
+14 Background Check Center database as a grandfathered employee; and
+15 E.  The grandfathered employee is not identified in the Background Check Center 
+16 database as a disqualified person.
+174.  Disqualified grandfathered employee.  A grandfathered employee who receives 
+18 a disqualifying background check report is subject to the provisions of subsection 3 and 
+19 must be able to correct disqualifying offense information that appears in the background 
+20 check report through the inaccurate records corrections process within 60 calendar days 
+21 after the disqualifying report is issued. The grandfathered employee is subject to direct 
+22 personal supervision during the conditional employment period as described in rules 
+23 adopted pursuant to this chapter until a final background check report indicates that no 
+24 disqualifying offenses appear in the updated records.
+255.  Termination; disqualified grandfathered employees.  An employer shall 
+26 terminate or remove from direct access employment any grandfathered employee who has 
+27 not submitted the documents required in subsection 3, who refused to submit a biometric 
+28 identifier or otherwise participate in the background check or who fails to receive a final 
+29 nondisqualifying background check report in accordance with subsection 4.  
+30Sec. 71.  22 MRSA §9062, sub-§1, ¶B, as enacted by PL 2015, c. 299, §25, is 
+31 amended to read:
+32 B.  Failure or refusal to terminate or remove from direct access employment an 
+33 employee who is disqualified for employment based on the requirements of this 
+34 chapter; and
+35Sec. 72.  22 MRSA §9062, sub-§1, ¶C, as enacted by PL 2015, c. 299, §25, is 
+36 amended to read:
+37 C.  Substantial noncompliance with the procedures established by this chapter. ; and
+38Sec. 73.  22 MRSA §9062, sub-§1, ¶D is enacted to read:
+39 D.  Failure to enroll in the Background Check Center.
+40Sec. 74.  22 MRSA §9066 is enacted to read:
+41§9066.  Portability
+Page 15 - 131LR0403(01)11.  Portability authorized.  A direct access worker may choose to transfer the worker's 
+2 background check report to another employer.  The direct access worker may choose to 
+3 transfer confidential information contained in the worker's background check report, as 
+4 long as the background check used a biometric identifier, when:
+5 A.  The direct access worker agrees to submit to the requirements of this chapter;
+6 B.  The direct access worker signs a statement releasing the confidential information 
+7 to the new employer;
+8 C.  The employer verifies and documents that the direct access worker has submitted 
+9 the mandatory identity verification and employment eligibility documents required by 
+10 rules adopted in accordance with this chapter; and
+11 D.  The employer ensures the background check was completed within the last 5 years 
+12 and enters the direct access worker into the rap back monitoring program.
+13SUMMARY
+14 This bill:
+15 1. Amends the provisions of law relating to the Background Check Center, or BCC, 
+16 established under the Maine Revised Statutes, Title 22, chapter 1691, in order to:
+17 A.  Authorize the collection of biometric identifier data to enable the BCC to access 
+18 national criminal history backgrounds of potential employees and to amend related 
+19 grandfathering provisions;
+20 B.  Authorize the portability of background check results from one employer to 
+21 another;
+22 C.  Clarify the relationship of the provisions to direct access workers;
+23 D.  Authorize the BCC to specify offenses that disqualify an individual from 
+24 employment as a direct access worker; and
+25 E.  Establish the BCC as the noncriminal justice submitting entity for the federal rap 
+26 back monitoring program and outline procedures related to rap back monitoring;
+27 2.  Amends the provisions of law relating to the Maine Registry of Certified Nursing 
+28 Assistants and Direct Care Workers in order to:
+29 A.  Limit the registry's authority to the eligibility of certified nursing assistants and 
+30 listing direct care workers who have substantiated findings of abuse, neglect or 
+31 misappropriation of property;
+32 B.  Clarify the relationship of the provisions to direct care workers;
+33 C.  Allow a process for a direct care worker to petition removal of a substantiated 
+34 finding of neglect or misappropriation of property;
+35 D.  Clarify that certified nursing assistants and direct care workers are subject to the 
+36 background check required under the provisions of law governing the BCC;
+37 E.  Authorize the Department of Health and Human Services to adopt rules to specify 
+38 criminal convictions that disqualify a person from employment as a certified nursing 
+39 assistant or direct access worker; and14
+Page 16 - 131LR0403(01)1 F.  Remove the provisions related to the ability of applicants to seek relief relating to 
+2 disqualifying criminal convictions and site that authority within the BCC; and
+3 3.  Amends the provisions of law relating to unlicensed assistive persons in order to: 
+4 A.  Replace the term "unlicensed assistive person" with "direct care worker";
+5 B.  Remove the provisions related to the ability of applicants to seek relief relating to 
+6 disqualifying criminal convictions and site that authority within the BCC; and
+7 C.  Provide for individuals enrolling in a training program for direct care workers to 
+8 receive a background check through the BCC.

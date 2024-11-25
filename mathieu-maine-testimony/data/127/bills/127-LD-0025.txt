@@ -1,0 +1,184 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper  
+127th MAINE LEGISLATURE 
+ 
+FIRST REGULAR SESSION-2015 
+ 
+Legislative Document  No. 25  
+H.P. 24  House of Representatives, January 13, 2015  
+ 
+ 
+An Act To  Protect the Privacy of Citizens from Domestic Unmanned 
+Aerial Vehicle Uses  
+ 
+ 
+ 
+ 
+Reference to the Committee on Judiciary suggested and ordered printed. 
+ 
+ 
+  
+ ROBERT B. HUNT 
+ Clerk 
+ 
+Presented by Representative RUSSELL of Portland. 
+Cosponsored by Senator BRAKEY of Androscoggin. 
+ 
+ 
+
+ 
+ Page 1  - 127LR0247(01)-1 
+ Be it enacted by the People of the State of Maine as follows: 1 
+Sec. 1.  25 MRSA Pt. 12 is enacted to read: 2 
+PART 12 3 
+UNMANNED AERIAL VEHI CLES  4 
+CHAPTER 551 5 
+REGULATION OF UNMANNED AERIAL VEHICLES 6 
+§4501.  Definitions 7 
+As used in this chapter, unless the context otherwise indicates, the following terms 8 
+have the following meanings. 9 
+1.  Law enforcement agency.  "Law enforcement agency" has the same meaning as 10 
+in section 3701, subsection 1. 11 
+2.  Unmanned aerial vehicle. "Unmanned aerial vehicle" means an aircraft that i s 12 
+operated without a physical human presence within or on the aircraft and that is guided 13 
+by remote control. 14 
+§4502.  Operation of unmanned aerial vehicles 15 
+1.  Acquisition of unmanned aerial vehicles.  The acquisition of an unmanned aerial 16 
+vehicle by a law enforcement agency must be approved by the governing body of the 17 
+governmental unit overseeing the law enforcement agency seeking to make such an 18 
+acquisition. 19 
+2.  Moratorium.  Before July 1, 2017, a law enforcement agency may not use an 20 
+unmanned aerial vehicle except as provided in section 4503, subsection 1. 21 
+3.  Law enforcement operation of unmanned aerial vehicles.  A law enforcement 22 
+agency may not operate an unmanned aerial vehicle or collect, disclose or receive 23 
+information acquired through the operation of an unmanned aerial vehicle except: 24 
+A.  Pursuant to an emergency enforcement or administrative investigation exception 25 
+under section 4503; 26 
+B.  To collect, disclose or receive information about a person or the person's 27 
+residence, property or area if that person has given written consent; 28 
+C.  Pursuant to a warrant issued under Title 15, section 55; or 29 
+D.  Pursuant to an order issued by a court of competent jurisdiction if a law 30 
+enforcement agency offers specific and articulable facts demonstrating that there is a 31 
+reasonable suspicion of criminal activity, that the operation of the unmanned aerial 32 
+vehicle will uncover such activity and that alternative methods of collecting 33 
+information either are cost-prohibitive or present a significant risk to a person's 34 
+bodily safety.  An order issued under this paragraph may not allow operation for a 35 
+ 
+ Page 2  - 127LR0247(01)-1 
+ period greater than 48 hours.  An extension of an order issued under this paragraph 1 
+may be granted for a period no longer than the court determines necessary to achieve 2 
+the purposes for which the order was granted but not to exceed 30 days. 3 
+4.  Restrictions on operation.  An unmanned aerial vehicle may not employ the use 4 
+of facial recognition technology or be equipped with a weapon except as provided under 5 
+section 4503, subsection 3. 6 
+§4503.  Exceptions; allowed use of unmanned aerial vehicle 7 
+Notwithstanding any other provision in this chapter, the following are not prohibited 8 
+uses of unmanned aerial vehicles. 9 
+1.  Emergency enforcement exception.  A law enforcement agency may operate an 10 
+unmanned aerial vehicle and collect, disclose or receive information from the operation if 11 
+the law enforcement agency reasonably determines that an emergency enforcement 12 
+exception is required. 13 
+A.  An emergency enforcement exception may be required because a situation exists: 14 
+(1)  That threatens national security; 15 
+(2)  That threatens state or local security; or 16 
+(3)  That threatens the life or safety of one or more individuals. 17 
+B.  When a law enforcement agency has used an unmanned aerial vehicle to collect 18 
+or receive information pursuant to this subsection, the law enforcement agency shall 19 
+document the factual basis for the emergency enforcement exception in an affidavit 20 
+that the law enforcement agency retains. 21 
+2.  Administrative investigation exception.  The State or any political subdivision 22 
+of the State may operate an unmanned aerial vehicle: 23 
+A.  To investigate and respond to natural disasters; 24 
+B.  To monitor the status of dams and flood control systems; 25 
+C.  To conduct surveys, including, but not limited to, surveys conducted by the 26 
+Department of Agriculture, Conservation and Forestry, Division of Geology, Natural 27 
+Areas and Coastal Resources, Maine Geological Survey; 28 
+D.  To aid in weather forecasting; or 29 
+E.  To conduct search and rescue activities. 30 
+3.  Research, testing, training and manufacture.  A manufacturer, subcontractor of 31 
+a manufacturer, testing company or educational institution may deploy an unmanned 32 
+aerial vehicle or any component parts for the purposes of research, testing, training and 33 
+manufacture of such vehicles. 34 
+§4504.  Warrant provisions 35 
+1.  Absence of a warrant or court order.  If the information sought by the operation 36 
+of an unmanned aerial vehicle is obtained prior to the issuance of a warrant or court order 37 
+ 
+ Page 3  - 127LR0247(01)-1 
+ under section 4502, subsection 3, paragraph C or D, respectively, the law enforcement 1 
+agency shall immediately terminate the operation of the unmanned aerial vehicle. 2 
+2.  Denial of warrant or court order.  If an application for a warrant or court order 3 
+under section 4502, subsection 3, paragraph C or D, respectively, is denied, the law 4 
+enforcement agency shall immediately terminate the operation of the unmanned aerial 5 
+vehicle underlying the application and may not retain or disclose any information 6 
+obtained from the operation of the unmanned aerial vehicle. 7 
+3.  Delayed notice.  When a warrant or court order is sought under section 4502, 8 
+subsection 3, paragraph C or D, respectively, a law enforcement agency may request an 9 
+order delaying the notice required under the Maine Rules of Criminal Procedure, Rule 10 
+41B(b)(4) for a period not to exceed 10 days. The court may grant the request if the court 11 
+determines that providing the notice of the warrant or court order may have an adverse 12 
+result, which includes: 13 
+A.  The endangerment of the life or physical safety of a person; 14 
+B.  A person's fleeing from prosecution; 15 
+C.  Destruction of or tampering with evidence; 16 
+D.  A person's intimidating potential witnesses; and 17 
+E.  An event that seriously jeopardizes an investigation or unduly delays a trial. 18 
+4.  Extension.  The court may grant an extension of the delayed notice under 19 
+subsection 3 for up to 10 days for each extension upon application by the law 20 
+enforcement agency. 21 
+5.  Expiration of delayed notice.  Upon expiration of the period of delayed notice 22 
+under subsection 3, the law enforcement agency shall serve upon, or deliver by registered 23 
+or first-class mail to, the person about whom information was collected a copy of the 24 
+warrant or court order together with notice that: 25 
+A.  States with reasonable specificity the nature of the law enforcement inquiry; and 26 
+B.  Informs the person about whom information was collected: 27 
+(1)  That notification of the warrant or court order was delayed; 28 
+(2)  What law enforcement agency made the request for delayed notic e; 29 
+(3)  What court made the determination to delay notice; and 30 
+(4)  Which provision of subsection 3 supported the court's determination. 31 
+§4505.  Violations; private right of action 32 
+If a law enforcement agency violates any provision of this chapter, the person about 33 
+whom information was collected, personally or as owner of a residence, property or area, 34 
+in violation of this chapter may institute and prosecute in that person's own name and on 35 
+that person's behalf a civil action for legal or equitable relief.  In addition to 36 
+compensatory damages, a person whose rights have been violated by a violation of this 37 
+chapter may recover no more than $5,000 plus reasonable attorney's fees and court costs. 38 
+ 
+ Page 4  - 127LR0247(01)-1 
+ SUMMARY 1 
+This bill regulates unmanned aerial vehicles, including their acquisition and lawful 2 
+operation by law enforcement agencies.  The bill requires approval of the acquisition of 3 
+an unmanned aerial vehicle by the governing body overseeing the law enforcement 4 
+agency.  It prohibits a law enforcement agency from operating an unmanned aerial 5 
+vehicle or collecting, disclosing or receiving information acquired through the operation 6 
+of an unmanned aerial vehicle except pursuant to an emergency enforcement or 7 
+administrative investigation exception, with the written consent of the person or property 8 
+owner, pursuant to a warrant or pursuant to a court order.  It permits the deployment of an 9 
+unmanned aerial vehicle or any component parts by a manufacturer, subcontractor of a 10 
+manufacturer, testing company or educational institution for the purposes of research, 11 
+testing, training and manufacture of such vehicles.  The bill also creates a private right of 12 
+action against a law enforcement agency for violations of the provisions of the bill. 13 
+The bill includes a moratorium on all unmanned aerial vehicle use, with the exception 14 
+of emergency enforcement situations, until July 1, 2017. 15 
+ 

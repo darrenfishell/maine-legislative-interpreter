@@ -1,0 +1,131 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1757
+S.P. 703 In Senate, April 20, 2023
+An Act to Amend the Laws Governing the Reporting and Tracking 
+of Adult Use Cannabis
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator HICKMAN of Kennebec.
+Cosponsored by Representative PERRY of Bangor and
+Representatives: BOYER of Poland, COLLINGS of Portland, RIELLY of Westbrook, 
+SUPICA of Bangor.
+
+Page 1 - 131LR2065(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  28-B MRSA §105, as corrected by RR 2021, c. 2, Pt. A, §106, is repealed.
+3Sec. 2.  28-B MRSA §105-A is enacted to read:
+4§105-A.  Electronic portal for records submission and tracking
+51.  Development of electronic portal.  The department shall develop and implement 
+6 a statewide electronic portal through which licensees may submit to the department the 
+7 records required under section 511 and the label information required pursuant to 
+8 subsection 2. The department shall adopt rules regarding the process and content of records 
+9 to be submitted, the frequency with which the records must be submitted and any other 
+10 requirements necessary to implement this section.
+112.  Tracking of plants.  A licensee shall accompany all cannabis plants and harvested 
+12 cannabis being transported pursuant to this chapter with a label that identifies:
+13 A.  The person transferring the cannabis plants or harvested cannabis, including the 
+14 person's identification number for each license issued pursuant to this chapter and held 
+15 by that person;
+16 B.  The person receiving the cannabis plants or harvested cannabis, including the 
+17 person's license identification number;
+18 C.  A description of the cannabis plants or harvested cannabis being transferred, 
+19 including the amount and form;
+20 D.  The time and date of the transfer; and  
+21 E.  The destination of the cannabis plants or harvested cannabis.
+22 The department may adopt rules to implement this subsection.  Rules adopted pursuant to 
+23 this subsection are major substantive rules as defined in Title 5, chapter 375, subchapter 
+24 2‑A.
+253.  Costs to be borne by department.  The department shall absorb the costs of 
+26 developing and implementing the electronic portal pursuant to subsection 1 and may not 
+27 require a licensee to pay a fee or other cost for using the electronic portal to provide records 
+28 or labeling information through the electronic portal.
+29Sec. 3.  28-B MRSA §501, sub-§10, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+30 amended by PL 2021, c. 669, §5, is further amended to read:
+3110.  Tracking.  In accordance with the requirements of section 105  105-A, a cultivation 
+32 facility licensee shall track the adult use cannabis it cultivates from immature cannabis 
+33 plant to the point at which the cannabis plant or the cannabis produced by the cannabis 
+34 plant is delivered or transferred to a products manufacturing facility, a testing facility, a 
+35 cannabis store or another cultivation facility or is disposed of or destroyed.
+36Sec. 4.  28-B MRSA §502, sub-§13, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+37 amended by PL 2021, c. 669, §5, is further amended to read:
+3813.  Tracking.  In accordance with the requirements of section 105  105-A, a products 
+39 manufacturing facility licensee shall track the adult use cannabis it uses in its 
+40 manufacturing processes from the point the cannabis is delivered or transferred to the 
+Page 2 - 131LR2065(01)41 products manufacturing facility by a cultivation facility to the point the cannabis or 
+42 cannabis concentrate or an adult use cannabis product produced using the cannabis or 
+43 cannabis concentrate is delivered or transferred to another products manufacturing facility, 
+44 a testing facility or a cannabis store or is disposed of or destroyed.
+5Sec. 5.  28-B MRSA §503, sub-§9, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+6 amended by PL 2021, c. 669, §5, is further amended to read:
+79.  Tracking.  In accordance with the requirements of section 105  105-A, a testing 
+8 facility licensee shall track all adult use cannabis and adult use cannabis products it receives 
+9 from a licensee for testing purposes from the point at which the cannabis or cannabis 
+10 products are delivered or transferred to the testing facility to the point at which the cannabis 
+11 or cannabis products are disposed of or destroyed.
+12Sec. 6.  28-B MRSA §503-A, sub-§6, as enacted by PL 2019, c. 676, §13 and 
+13 amended by PL 2021, c. 669, §5, is further amended to read:
+146.  Tracking.  In accordance with the requirements of section 105  105-A, a sample 
+15 collector shall track all adult use cannabis and adult use cannabis products it collects from 
+16 a licensee for testing purposes from the point at which the cannabis or cannabis products 
+17 are collected from a licensee to the point at which the cannabis or cannabis products are 
+18 delivered to a testing facility or the cannabis or cannabis products are disposed of or 
+19 destroyed.
+20Sec. 7.  28-B MRSA §504, sub-§8, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+21 amended by PL 2021, c. 669, §5, is further amended to read:
+228.  Tracking.  In accordance with the requirements of section 105  105-A, a cannabis 
+23 store licensee shall track all adult use cannabis and adult use cannabis products from the 
+24 point at which the cannabis or cannabis products are delivered or transferred to the cannabis 
+25 store by a cultivation facility or a products manufacturing facility to the point at which the 
+26 cannabis or cannabis products are sold to a consumer, delivered or transferred to a testing 
+27 facility or disposed of or destroyed.
+28Sec. 8.  Cancellation of contract for tracking of cannabis.  The Department of 
+29 Administrative and Financial Services' office of cannabis policy shall immediately cancel 
+30 its contract with Metrc, LLC to implement the Maine Cannabis Enforcement Tracking 
+31 Reporting and Compliance webpage.
+32SUMMARY
+33 This bill replaces the tracking system required for adult use cannabis with an electronic 
+34 portal, similar to that used for medical cannabis.  The Department of Administrative and 
+35 Financial Services is required to develop and implement an electronic portal for use by 
+36 licensees to submit required records.  Licensees are required to accompany all cannabis 
+37 plants and harvested cannabis being transported with a label that provides specific 
+38 information about the licensee and the cannabis being transported; that information also 
+39 may be submitted through the electronic portal.  The department is prohibited from 
+40 charging a fee or other cost to a licensee for using the electronic portal.
+41 This bill also requires the department to terminate immediately its contract with Metrc, 
+42 LLC, the company that is required to administer the tracking system used for adult use 
+43 cannabis.1
+2
+3
+4
+33
+34
+35
+36
+37
+38
+39
+40

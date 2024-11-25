@@ -1,0 +1,365 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2105
+H.P. 1501 House of  Representatives, February 13, 2020
+An Act  To Protect  Consumers  from Surprise Emergency Medical 
+Bills
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+203.
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.
+Cosponsored by Senator SANBORN, H. of Cumberland and
+Representatives: BICKFORD of Auburn, FECTEAU of Biddeford, FOLEY of Biddeford,  
+HEPLER of Woolwich, MOONEN  of Portland, PRESCOTT of Waterboro, TEPLER of 
+Topsham, Senator: President JACKSON  of Aroostook.
+
+Page 1 - 129LR2881(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §1718-D, as enacted by PL 2017, c. 218, §1 and affected by §3, 
+3is amended to read:
+4§1718-D.  Prohibition on balance billing for surprise bills; disputes of surprise bills 
+5for uninsured patients and persons covered under self-insured health benefit 
+6plans
+71.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+8following terms have the following meanings.
+9A.  "Enrollee" has the same meaning as in Title 24-A, section 4301-A, subsection 5.
+10B.  "Health plan" has the same meaning as in Title 24-A, section 4301-A, subsection 
+117.
+12B-1.  "Knowingly elected to obtain the services from an out-of-network provider" 
+13means that an enrollee chose the services of a specific provider, with full knowledge 
+14that the provider is an out-of-network provider with respect to the enrollee's health 
+15plan, under circumstances that indicate that the enrollee had and was informed of the 
+16opportunity to receive services from a network provider but instead selected the out-
+17of-network provider. The disclosure by a provider of network status does not render 
+18an enrollee's decision to proceed with treatment from that provider a choice made 
+19knowingly pursuant to this paragraph.
+20C.  "Provider" has the same meaning as in Title 24-A, section 4301-A, subsection 16.
+21D.  "Surprise bill" has the same meaning as in Title 24-A, section 4303-C, subsection 
+221.
+23E.  "Visit" means any interaction between an enrollee and one or more providers for 
+24the purpose of assessing the health status of an enrollee or providing one or more 
+25health care services between the time an enrollee enters a facility and the time an 
+26enrollee is discharged.
+272.  Prohibition on balance billing.  An out-of-network provider reimbursed for a 
+28surprise bill under Title 24-A, section 4303-C, subsection 2, paragraph B may not bill an 
+29enrollee for health care services beyond the applicable coinsurance, copayment, 
+30deductible or other out-of-pocket cost expense that would be imposed for the health care 
+31services if the services were rendered by a network provider under the enrollee's health 
+32plan.  An out-of-network provider is also subject to the following with respect to any 
+33overpayment made by an enrollee.
+34A.  If an out-of-network provider provides health care services covered under an 
+35enrollee's health plan and the out-of-network provider receives payment from the 
+36enrollee for health care services for which the enrollee is not responsible pursuant to 
+37this subsection, the out-of-network provider shall reimburse the enrollee within 30 
+38calendar days after the earlier of the date that the provider received notice of the 
+39overpayment and the date the provider became aware of the overpayment.
+Page 2 - 129LR2881(01)-11B.  An out-of-network provider that fails to reimburse an enrollee for an overpayment 
+2as required by paragraph A shall pay interest on the overpayment at the rate of 10% 
+3per annum beginning on the earlier of the date the provider received notice of the 
+4overpayment and the date the provider became aware of the overpayment. An 
+5enrollee is not required to request the accrued interest from the out-of-network 
+6provider in order to receive interest with the reimbursement amount.
+73.  Uninsured patients; disputes of surprise bills.  An uninsured patient who has 
+8received a surprise bill from a provider for one or more health care services rendered 
+9during a single visit totaling $750 or more may dispute the bill and request resolution of 
+10the dispute using the process under Title 24-A, section 4303-C, subsection 3.  The 
+11independent dispute resolution entity contracted to resolve the dispute over the surprise 
+12bill shall select either the out-of-network provider's fee or the uninsured patient's 
+13proposed payment amount in accordance with Title 24-A, section 4303-C, subsection 3. 
+14In the case of emergency or other medically necessary care, an uninsured patient may not 
+15be charged by a provider more than the amounts generally billed to a patient who has 
+16insurance covering such care as determined using the method described in 26 Code of 
+17Federal Regulations, Section 1.501(r)-5, paragraph (b)(3) or (b)(4). A provider shall hold 
+18the uninsured patient harmless for the duration of the independent dispute resolution 
+19process and may not seek payment until the independent dispute resolution process is 
+20completed.  Notwithstanding Title 24-A, section 4303-C, subsection 3, paragraph F, 
+21payment for the independent dispute resolution process is the responsibility of the 
+22provider. In the event a claim includes more than one health care service rendered during 
+23a single visit, the independent dispute resolution entity may allocate the prorated 
+24independent dispute resolution costs at its discretion among providers.
+254.  Person covered under self-insured health benefit plan; disputes of surprise 
+26bills.  A person covered under a self-insured health benefit plan that is not subject to the 
+27provisions of Title 24-A, section 4303-C pursuant to Title 24-A, section 4303-C, 
+28subsection 4 and who has received a surprise bill may dispute the bill and request 
+29resolution of the dispute using the process under Title 24-A, section 4303-C, subsection 
+303.  The independent dispute resolution entity contracted to resolve the dispute over the 
+31surprise bill shall select either the out-of-network provider's fee or the covered person's 
+32proposed payment amount in accordance with Title 24-A, section 4303-C, subsection 3.
+335.  Applicability.  Subsections 3 and 4 do not apply to an uninsured patient or person 
+34covered under a self-insured health benefit plan who knowingly elected to obtain the 
+35services from an out-of-network provider.
+36Sec. 2.  24-A MRSA §4303-C, as enacted by PL 2017, c. 218, §2 and affected by 
+37§3, is amended to read:
+38§4303-C.  Protection from surprise bills
+391.  Surprise bill defined.  As used in this section, unless the context otherwise 
+40indicates, "surprise bill" means a bill for health care services, other than including, but not 
+41limited to, emergency services, received by an enrollee for covered services rendered by 
+42an out-of-network provider, when such services were rendered by that out-of-network 
+43provider at a network provider, during a service or procedure performed by a network 
+Page 3 - 129LR2881(01)-11provider or during a service or procedure previously approved or authorized by the carrier 
+2and the enrollee did not knowingly elect to obtain such services from that out-of-network 
+3provider. "Surprise bill" does not include a bill for health care services received by an 
+4enrollee when a network provider was available to render the services and the enrollee 
+5knowingly elected to obtain the services from another provider who was an out-of-
+6network provider.
+71-A.  "Knowingly elect to obtain such services from that out-of-network 
+8provider" defined.  As used in this section, unless the context otherwise indicates, 
+9"knowingly elect to obtain such services from that out-of-network provider" means that 
+10an enrollee chose the services of a specific provider, with full knowledge that the 
+11provider is an out-of-network provider with respect to the enrollee's health plan, under 
+12circumstances that indicate that the enrollee had and was informed of the opportunity to 
+13receive services from a network provider but instead selected the out-of-network 
+14provider. The disclosure by a provider of network status does not render an enrollee's 
+15decision to proceed with treatment from that provider a choice made knowingly pursuant 
+16to this subsection.
+172.  Requirements.  With respect to a surprise bill:
+18A.  A carrier shall require an enrollee to pay only the applicable coinsurance, 
+19copayment, deductible or other out-of-pocket expense that would be imposed for 
+20health care services if the services were rendered by a network provider;
+21B.  A carrier shall reimburse the out-of-network provider or enrollee, as applicable, 
+22for health care services rendered at the average network rate under the enrollee's 
+23health care plan as payment in full, unless the carrier and out-of-network provider 
+24agree otherwise.  If an out-of-network provider disagrees with a carrier's payment 
+25amount, the carrier and the out-of-network provider have 30 calendar days to 
+26negotiate an agreement on the payment amount in good faith.  If the carrier and the 
+27out-of-network provider do not reach agreement on the payment amount within 30 
+28calendar days, the out-of-network provider may submit a dispute regarding the 
+29payment and receive another payment from the carrier determined in accordance with 
+30the dispute resolution process in subsection 3, including any payment made pursuant 
+31to subsection 3, paragraph G; and
+32C.  Notwithstanding paragraph B, if a carrier has an inadequate network, as 
+33determined by the superintendent, the carrier shall ensure that the enrollee obtains the 
+34covered service at no greater cost to the enrollee than if the service were obtained 
+35from a network provider or shall make other arrangements acceptable to the 
+36superintendent.
+373.  Dispute resolution process for surprise bills.  The superintendent shall establish 
+38an independent dispute resolution process by which a dispute for a surprise bill in 
+39accordance with subsection 2 may be resolved as provided in this subsection.
+40A.  The superintendent may select an independent dispute resolution entity to conduct 
+41the dispute resolution process. The superintendent shall adopt rules establishing 
+42standards for the dispute resolution process, including a process for certifying and 
+43selecting independent dispute resolution entities.  An independent dispute resolution 
+Page 4 - 129LR2881(01)-11entity shall use licensed physicians in active practice in the same or similar specialty 
+2as the physician providing the service that is subject to the dispute resolution process.  
+3To the extent practicable, the physician must be licensed in this State.  Rules adopted 
+4pursuant to this paragraph are routine technical rules as defined in Title 5, chapter 
+5375, subchapter 2-A.
+6B.  An independent dispute resolution entity shall make a decision within 30 days of 
+7receipt of the dispute for review.
+8C.  In determining a reasonable fee for the health care services rendered, an 
+9independent dispute resolution entity shall select either the carrier's payment or the 
+10out-of-network provider's fee. The independent dispute resolution entity shall 
+11determine which amount to select based upon the conditions and factors set forth in 
+12this paragraph.  In determining the reasonable fee for a health care service, an 
+13independent dispute resolution entity shall consider all relevant factors, including:
+14(1)  Whether there is a gross disparity between the fee charged by the out-of-
+15network provider for services rendered as compared to:
+16(a)  Fees paid to the provider for the same services rendered by the provider 
+17to other enrollees in a carrier's health plans in which the provider is not 
+18participating; and
+19(b)  Fees paid by the carrier to reimburse similarly qualified providers for the 
+20same services in the same region who are not participating with the carrier;
+21(2)  The out-of-network provider's level of training, education, specialization, 
+22quality and experience and, in the case of a hospital, the teaching staff, scope of 
+23services and case mix;
+24(3)  The out-of-network provider's contracted rates for comparable services in the 
+25same geographic area with regard to patients in health care plans in which the 
+26provider is not participating;
+27(4)  The circumstances and complexity of the particular case, including time and 
+28place of the service;
+29(5)  Individual patient characteristics; and
+30(6)  The usual and customary cost of the health care service as determined by the 
+3180th percentile of the particular health care service performed by a provider in the 
+32same or similar specialty, as determined by the all-payer claims database 
+33maintained by the Maine Health Data Organization or, if Maine Health Data 
+34Organization claims data is insufficient or otherwise inapplicable, another 
+35independent medical claims database. If authorized by rule, the superintendent 
+36may enter into an agreement to obtain data from an independent medical claims 
+37database to carry out the functions of this subparagraph.
+38D.  If an independent dispute resolution entity determines, based on the carrier's 
+39payment and the out-of-network provider's fee, that a settlement between the carrier 
+40and out-of-network provider is reasonably likely, or that both the carrier's payment 
+41and the out-of-network provider's fee represent unreasonable extremes, the 
+42independent dispute resolution entity may direct both parties to attempt a good faith 
+Page 5 - 129LR2881(01)-11negotiation for settlement. The carrier and out-of-network provider may be granted 
+2up to 10 business days for this negotiation, which runs concurrently with the 30-day 
+3period for dispute resolution.
+4E.  The determination of an independent dispute resolution entity is binding on the 
+5carrier, out-of-network provider and enrollee and is admissible in any court 
+6proceeding between the carrier, out-of-network provider and enrollee or in any 
+7administrative proceeding between this State and the provider.
+8F.  When an independent dispute resolution entity determines the carrier's payment is 
+9reasonable, payment for the dispute resolution process is the responsibility of the out-
+10of-network provider. When the independent dispute resolution entity determines the 
+11out-of-network provider's fee is reasonable, payment for the dispute resolution 
+12process is the responsibility of the carrier. When a good faith negotiation directed by 
+13the independent dispute resolution entity results in a settlement between the carrier 
+14and the out-of-network provider, the carrier and the out-of-network provider shall 
+15evenly divide and share the prorated cost for dispute resolution.
+16G.  In a dispute for a surprise bill, when the difference between the out-of-network 
+17provider's charge and the average network rate under the enrollee's health plan 
+18pursuant to subsection 2, paragraph B, including any applicable enrollee cost sharing, 
+19is less than $750, a carrier shall reimburse the out-of-network provider directly for 
+20the provider's charges and the enrollee cost sharing for the services rendered as long 
+21as the provider's charges do not exceed the 80th percentile of charges for the 
+22particular health care service performed by a health care professional in the same or 
+23similar specialty and provided in the same geographical area as reported in a 
+24benchmarking database specified by the superintendent and maintained by a 
+25nonprofit organization that is not affiliated with and does not receive funding from a 
+26carrier. An out-of-network provider may dispute more than one bill with the same 
+27carrier for the same health care service under this subsection as long as the total of 
+28the bills with that carrier for that health care service exceeds $750.
+29H.  The superintendent shall enforce the determination of an independent dispute 
+30resolution entity pursuant to this subsection or any agreement made by a carrier and 
+31an out-of-network provider after the conclusion of the independent dispute resolution 
+32process pursuant to this subsection. The superintendent may use any powers provided 
+33to the superintendent under this Title.
+344.  Self-insured health benefit plans.  An entity providing or administering a self-
+35insured health benefit plan exempted from the applicability of this section under the 
+36federal Employee Retirement Income Security Act of 1974, 29 United States Code, 
+37Sections 1001 to 1461 (1988) may elect to be subject to the provisions of this section. In 
+38the event an entity providing or administering a self-insured health benefit plan elects to 
+39be subject to the provisions of this section, the provisions of this section apply to a self-
+40insured health benefit plan and its members in the same manner as the provisions of this 
+41section apply to a carrier and its enrollees. To elect to be subject to the provisions of this 
+42section, the entity shall provide notice, on an annual basis, to the superintendent, on a 
+43form and in a manner prescribed by the superintendent, attesting to the entity's 
+44participation and agreeing to be bound by the provisions of this section. The entity shall 
+Page 6 - 129LR2881(01)-11amend the health benefit plan, coverage policies, contracts and any other plan documents 
+2to reflect that the provisions of this section apply to the plan's members.
+35.  Information required from carriers.  As part of the carrier's annual public 
+4regulatory filings made to the superintendent, a carrier shall submit in a form and manner 
+5determined by the superintendent information related to:
+6A.  The use of out-of-network providers by enrollees and the impact on premium 
+7affordability and benefit design; and
+8B.  The number of claims submitted by a provider to the carrier that are denied or 
+9down coded by the carrier and the reason for the denial or down coding 
+10determination.
+116.  Report from superintendent.  On or before January 31st annually, beginning 
+12January 1, 2022, the superintendent shall report the following information received from 
+13all carriers in the aggregate:
+14A.  The number of requests for independent dispute resolution filed pursuant to this 
+15section between January 1st and December 31st of the previous calendar year, 
+16including the percentage of all claims that were subject to dispute. For each 
+17independent dispute resolution determination, the carrier shall provide aggregate 
+18information that does not identify any provider, carrier, enrollee or uninsured patient 
+19involved in each determination about:
+20(1)  Whether the determination was in favor of the carrier, out-of-network 
+21provider or uninsured patient;
+22(2)  The payment amount offered by each side of the independent dispute 
+23resolution process and the award amount from the independent dispute resolution 
+24determination;
+25(3)  The category and practice specialty of each out-of-network provider 
+26involved, as applicable; and
+27(4)  A description of the health care service that was subject to dispute;
+28B.  The percentage of facilities and hospital-based professionals, by specialty, that are 
+29in network for each carrier in this State as reported in access plans submitted to the 
+30superintendent;
+31C.  The number of complaints the superintendent receives relating to out-of-network 
+32health care charges;
+33D.  Annual trends on health benefit plan premium rates, the total annual amount of 
+34spending on inadvertent and emergency out-of-network costs by carriers and medical 
+35loss ratios in the State to the extent that the information is available;
+36E.  The number of physician specialists practicing in the State in a particular specialty 
+37and whether they are in network or out of network with respect to the carriers that 
+38administer the state employee group health plan under Title 5, section 285, the Maine 
+39Education Association benefits trust health plan, the qualified health plans offered 
+40pursuant to the federal Affordable Care Act and other health benefit plans offered in 
+41the State;
+Page 7 - 129LR2881(01)-11F.  A summary of the information submitted to the superintendent pursuant to 
+2subsection 5 concerning the number of claims submitted by health care providers to 
+3carriers that are denied or down coded by the carrier and the reasons for the denials or 
+4down coding determinations;
+5G.  An analysis of the impact of this section, with respect to both emergency services 
+6and other health care services, on premium affordability and the breadth of provider 
+7networks; and
+8H.  Any other benchmarks or information that the superintendent considers 
+9appropriate to make publicly available to further the goals of this section.
+10The superintendent shall submit the report to the joint standing committee of the 
+11Legislature having jurisdiction over health insurance matters and shall post the report on 
+12the bureau's publicly accessible website.
+13Sec. 3.  24-A MRSA §4303-E is enacted to read:
+14§4303-E.  Payment after resolution of surprise bill disputes
+15Following an independent dispute resolution determination pursuant to section 
+164303-C, subsection 3, the determination by the independent dispute resolution entity of a 
+17reasonable payment for a specific health care service or treatment rendered by an out-of-
+18network provider is binding on a carrier, out-of-network provider and enrollee for 90 
+19days.  During that 90-day period, a carrier shall reimburse an out-of-network provider at 
+20that same rate for that specific health care service or treatment and an out-of-network 
+21provider may not dispute any bill for that service under section 4303-C.
+22Sec. 4.  24-A MRSA §4320-C, as amended by PL 2019, c. 238, §3, is further 
+23amended to read:
+24§4320-C.  Emergency services
+25If a carrier offering a health plan provides or covers any benefits with respect to 
+26services in an emergency facility or setting, the plan must cover emergency services 
+27without prior authorization.  Cost-sharing requirements, expressed such as a deductible, 
+28copayment amount or coinsurance rate, for out-of-network services are the same as 
+29requirements that would apply if such services were provided in network, and any 
+30payment made by an enrollee pursuant to this section must be applied to the enrollee's in-
+31network cost-sharing limit. Except with respect to a surprise bill for emergency services 
+32as provided for in section 4303-C, the enrollee's responsibility for payment for covered 
+33out-of-network emergency services must be limited so that if the enrollee has paid the 
+34enrollee's share of the charge as specified in the plan for in-network services, the carrier 
+35shall hold the enrollee harmless from any additional amount owed to an out-of-network 
+36provider for covered emergency services and make payment to the out-of-network 
+37provider in accordance with subsection 1.  A carrier offering a health plan in this State 
+38shall also comply with the requirements of section 4304, subsection 5.
+391.  Payments for out-of-network emergency services.  With respect to any bill for 
+40covered emergency services by an out-of-network provider, except for a surprise bill as 
+41defined in section 4303-C, subsection 1, the following provisions apply.
+Page 8 - 129LR2881(01)-11A.  A carrier shall reimburse the out-of-network provider or enrollee, as applicable, 
+2for health care services rendered at the average network rate under the enrollee's 
+3health care plan as payment in full, unless the carrier and out-of-network provider 
+4agree otherwise.
+5B.  If a carrier cannot reach an agreement under paragraph A with an out-of-network 
+6provider that is not subject to the requirements in this chapter, the carrier shall hold 
+7the enrollee harmless.
+8C.  An out-of-network provider may not collect or attempt to collect any charge from 
+9an enrollee for covered health care services under this section beyond the applicable 
+10coinsurance, copayment, deductible or other out-of-pocket cost expense that would 
+11be imposed for the health care services if the services were rendered by a network 
+12provider under the enrollee's health plan, notwithstanding the carrier's insolvency, the 
+13carrier's failure to pay the amount owed by the carrier or any other breach by the 
+14carrier of any provider agreement. If an out-of-network provider provides covered 
+15emergency services and the provider receives payment from the covered person for 
+16services for which the covered person is not responsible pursuant to this section, the 
+17provider shall reimburse the covered person within 30 calendar days after the earlier 
+18of the date that the overpayment was reported to the provider and the date the 
+19provider became aware of the overpayment.  An out-of-network provider that fails to 
+20reimburse a covered person as required by this paragraph for an overpayment shall 
+21pay interest on the overpayment at the rate of 10% per annum beginning on the 
+22earlier of the date the provider received the notice of the overpayment and the date 
+23the provider became aware of the overpayment. The covered person is not required to 
+24request the accrued interest from the out-of-network provider in order to receive 
+25interest with the reimbursement amount.
+26SUMMARY
+27This bill amends the law providing consumer protection for surprise medical bills to 
+28include surprise bills for emergency services.  In the event of a dispute with respect to a 
+29surprise medical bill, the bill directs the Superintendent of Insurance to develop an 
+30independent dispute resolution process to determine a reasonable payment for health care 
+31services.

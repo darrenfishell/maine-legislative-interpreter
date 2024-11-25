@@ -1,0 +1,175 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1499
+H.P. 1109 House of  Representatives,  April 14, 2021
+An Act  To Improve  Accountability  in Asset Seizure and Forfeiture 
+Reporting
+Received by the Clerk of the House on April  12, 2021.  Referred to  the Committee  on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative ANDREWS of Paris.
+
+Page 1 - 130LR1091(01)1Be it enacted by the People of the State of Maine as follows:
+2CONCEPT DRAFT
+3SUMMARY
+4 This bill is a concept draft pursuant to Joint Rule 208.
+5 This bill would enact the Seizure and Forfeiture Reporting Act, which is model 
+6 legislation to provide "legislators with the information necessary for basic oversight of law 
+7 enforcement agencies that seize and forfeit property under state and federal laws"; the 
+8 verbatim, unedited text of that model legislation follows.
+9 1.  Purpose.  Under state and federal forfeiture laws, state law enforcement agencies can 
+10 seize money and other property, have it sold and use forfeiture proceeds to fund agency 
+11 budgets.  It is the responsibility of state legislators to monitor seizures and forfeitures.  This 
+12 bill provides legislators with the information necessary for basic oversight of law 
+13 enforcement agencies that seize and forfeit property under state and federal laws.
+14 2.  Definition of law enforcement agency.  "Law enforcement agency" means any police 
+15 force, multijurisdictional task force, prosecuting authority, fire department, or other 
+16 municipal, county or state agency that (a) has authority under state law or (b) collaborates 
+17 with a federal agency under federal law to seize or forfeit property.
+18 3.  This chapter is applicable to property seized and forfeited under the following sections 
+19 in the state criminal code:
+20 (1)  Section ________
+21 (2)  Section ________
+22 (3)  Section ________
+23 (4) Any other section in the state criminal code that authorizes a law enforcement 
+24 agency to seize property that is used in the commission of a criminal offense.
+25 4.  The Centralized Reporting Authority shall establish and maintain a case tracking system 
+26 and searchable public website that includes the following information about property seized 
+27 and forfeited under state law and under any agreement with the federal government.  It 
+28 shall assign the responsibility to report each element to relevant agencies. If forfeiture is 
+29 sought under federal law, answers to questions 12-22 may not be available readily and may 
+30 be skipped.
+31 (1)  Name of the law enforcement agency that seized the property or, if seized by a 
+32 multijurisdictional task force, the name of the lead agency;
+33 (2)  Date of the seizure;
+34 (3)  Type of property seized. Currency or, if property other than currency, a description 
+35 of property seized including make, model, and year;
+36 (4)  Place of seizure: home, business or traffic stop; and, if a traffic stop on an interstate 
+37 or state highway, the direction of the traffic flow: eastbound, westbound, southbound 
+38 or northbound;
+39 (5)  Estimated value of the seizure;4
+Page 2 - 130LR1091(01)1 (6)  Criminal offense alleged that led to the seizure (include whether under state or 
+2 federal law);
+3 (7)  Crime for which suspect was charged (include whether under state or federal law);
+4 (8)  Criminal case number and court in which the case was filed;
+5 (9)  The outcome of suspect's criminal case: no charge was filed, charges dropped, 
+6 acquittal, plea agreement, jury conviction or other;
+7 (10)  Whether forfeiture is sought under federal law: (yes or no),
+8 (11)  If forfeiture is sought under federal law, did a joint state-federal task force make 
+9 the seizure of property?  (yes or no);
+10 (12)  If forfeiture is sought under federal law, did a federal government adopt the 
+11 seizure that a state or municipal agency made without a federal agency's involvement 
+12 in the seizure?  (yes or no);
+13 (13)  Forfeiture case number and court in which the case was filed;
+14 (14)  If a property owner filed a claim or counterclaim, who by: the suspect, innocent 
+15 owner, joint owner or third-party owner;
+16 (15) Method of final forfeiture proceeding: criminal, civil-judicial or civil-
+17 administrative;
+18 (16)  Date of forfeiture order;
+19 (17)  Whether there was a forfeiture settlement agreement: (yes or no);
+20 (18) Property disposition: returned to owner, partially returned to owner, sold, 
+21 destroyed, retained by a law enforcement agency, or pending disposition;
+22 (19)  Date of property disposition;
+23 (20)  Total value of property forfeited under state law including currency, proceeds 
+24 from sale of non-currency property and distributions received from the federal 
+25 government (excluding the value of contraband);
+26 (21)  Market value of property forfeited under state law that was retained, destroyed or 
+27 donated (excluding the value of contraband).
+28 (22)  Estimate of total costs to the agency (a) to store property in impound lots or 
+29 evidence rooms, (b) to pay for law enforcement personnel and prosecutors' time and 
+30 expenses to litigate forfeiture cases and (c) cost to sell or dispose of forfeited property;
+31 (23)  Amount of the attorney fees awarded to property owners; and
+32 (24)  If any property was retained by a law enforcement agency, the purpose for which 
+33 it is used.
+34 5.  The Centralized Reporting Authority shall also establish and maintain a searchable public 
+35 website that includes:
+36 (a)  The total amount of funds expended, in each of the following ten categories, which resulted 
+37 from property seized, forfeited and reported in paragraph 4:
+38 (1)  Drug abuse, crime and gang prevention and other community programs;
+39 (2)  Victim reparations;
+Page 3 - 130LR1091(01)1 (3)  Investigation costs, including controlled buys, forensics, informant fees and 
+2 witness protection;
+3 (4)  Expenses related to seized property including storage, maintenance, repairs and 
+4 return of property;
+5 (5)  Expenses related to forfeiture litigation including court fees and expenses related 
+6 to auditing, discovery, court reporters, printing, postage, filing, witness, outside 
+7 counsel, and attorneys fee awarded to opposing counsel;
+8 (6)  Government personnel costs, including salaries, overtime and benefits, as 
+9 permitted by law;
+10 (7)  Government travel and training including conferences, continuing education, 
+11 entertainment, and meals;
+12 (8)  Government administrative and operating expenses including office supplies, 
+13 postage, printing, utilities and repairs and maintenance of vehicles and other 
+14 equipment; and
+15 (9) Government capital expenditures including appliances, canines, computers, 
+16 equipment, firearms, furniture and vehicles; and
+17 (10)  An itemized list of other expenditures of forfeiture proceeds, including payments 
+18 to trade associations and lobbyists, and transfer to other agencies.
+19 (b)  The total value of seized and forfeited property held by the agency at the end of the 
+20 reporting period.
+21 6.  The law enforcement agency that seizes property and prosecutors that litigate related 
+22 criminal cases and forfeiture proceedings shall update the Centralized Reporting Authority's 
+23 website with the information required under paragraph 4 at the end of the month following each 
+24 seizure of property.  The commander of a multijurisdictional task force may appoint one agency 
+25 to report its seizures.  If an agency has made no seizures during the previous year, a null report 
+26 shall be filed by the agency specifying that it did not engage in seizures or forfeitures under 
+27 this title during the reporting period.
+28 7.  The law enforcement agency that expends forfeiture-related proceeds shall update the 
+29 Centralized Reporting Authority's website with the information required under paragraph 5 
+30 within 30 days after the end of the fiscal year.  The commander of a multijurisdictional task 
+31 force may appoint one agency to report its expenditures.
+32 8.  The Centralized Reporting Authority, 120 days after the close of the fiscal year, shall submit 
+33 to the Speaker of the House of Representatives, President of the Senate, Attorney General and 
+34 Governor a written report summarizing activity in the state, for the preceding fiscal year, the 
+35 type, approximate value, and disposition of the property seized and the amount of any proceeds 
+36 received or expended at the state and local levels.  The report shall provide a categorized 
+37 accounting of all proceeds expended.  Summary data on seizures, forfeitures and expenditures 
+38 of forfeiture proceeds shall be disaggregated by agency.  The aggregate report shall also be 
+39 made available on the Centralized Reporting Authority's website.
+40 9.  Centralized Reporting Authority may include in its aggregate report required by paragraph 
+41 8 recommendations to improve statutes, rules and policies to better ensure that seizure, 
+42 forfeiture and expenditures are done and reported in a manner that is fair to crime victims, 
+43 innocent property owners, secured interest holders, citizens, law enforcement and taxpayers.
+Page 4 - 130LR1091(01)1 10.  If a law enforcement agency fails to file a report within 30 days after it is due and there is 
+2 no good cause as determined by the Centralized Reporting Authority, the agency or department 
+3 shall be subject to a civil fine payable to the General Revenue Fund of $500 or the equivalent 
+4 of one-quarter of the forfeiture proceeds received by the agency, whichever is greater.  In 
+5 addition, the Centralized Reporting Authority shall make no expenditures from the forfeiture 
+6 fund for the benefit of the agency until the report is filed.
+7 11.  The State Auditor shall perform annually a financial audit under the generally accepted 
+8 government auditing standards (GAGAS) of records submitted to the Centralized Reporting 
+9 Authority related to inventory of seized property and expenditures of forfeiture proceeds.  A 
+10 copy of the final audit report shall be submitted to the Centralized Reporting Authority no later 
+11 than 90 days after the end of the fiscal year and shall be made public.
+12 12.  The Centralized Reporting Authority may recoup its costs under this chapter by charging 
+13 a fee to the law enforcement agency filing a report.  The agency may use forfeiture proceeds to 
+14 pay the costs of compiling and reporting data under this chapter, and to pay any fees imposed 
+15 by the Centralized Reporting Authority.
+16 13.  The Centralized Reporting Authority may adopt rules necessary to implement this chapter.
+17 14.  The data and reports compiled and prepared under this chapter are public information under 
+18 the state's Open Records Act/Freedom of Information Act section _____.  They are not 
+19 exempted from disclosure by section______.

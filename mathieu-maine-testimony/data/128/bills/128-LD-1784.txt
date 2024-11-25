@@ -1,0 +1,278 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2018
+Legislative Document No. 1784
+H.P. 1229 House of  Representatives, January 16, 2018
+An Act  To Update the Laws Governing the Department of 
+Environmental Protection's Rule-making Authority Concerning Underground Oil Storage Facilities  To Align with Federal 
+Regulations
+Submitted by the Department of  Environmental Protection pursuant to  Joint  Rule 203.
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative KINNEY of  Limington.
+
+Page 1 - 128LR2737(01)-11 Be it enacted  by the People of  the State of Maine as  follows:
+2 Sec. 1.  38 MRSA §563-B, first ¶, as enacted by PL 1987, c. 491, §10, is 
+3 amended to read:
+4 In addition  to the rule-making authorities otherwise set forth in this subchapter, the 
+5 board department may  adopt  rules related to the following  matters:
+6 Sec. 2.  38 MRSA §563-B, sub-§2,  as amended by PL 1991, c. 763, §3, is further 
+7 amended to read:
+8 2.  Inventory reconciliation; precision testing;  leak detection  methods.  
+9 Procedures and methods to be used in conducting statistical inventory analyses  
+10 reconciliation, underground oil storage facility precision testing and other leak detection 
+11 methods.  The rules must  allow owners  or operators  of facilities undergoing  routine 
+12 monitoring in the  absence of any other evidence  of a leak:
+13 A.  To check the accuracy  of complete statistical inventory data within 75 30 days of 
+14 receipt by the commissioner of the initial  statistical analysis reconciliation by 
+15 rerunning analyses  reconciliations  before inconclusive reports are considered to be a 
+16 failure of  the tank  or piping;
+17 B.  To check for failures  in any mechanical and electronic monitoring devices  within 
+18 3 working days of an indication of failure before it is considered  a failure of the tank 
+19 or piping;
+20 C.  To engage in procedures  under paragraphs A and B before requiring the precision 
+21 testing of  facility components;  and
+22 D.  To check the accuracy of a failed  or inconclusive precision  test of facility 
+23 components before  the commissioner may order the excavation  of the facility or any 
+24 portion of the facility.   An owner or operator is allowed 2 weeks to schedule a repeat 
+25 of the precision test;
+26 Sec. 3.  38 MRSA  §564, first ¶, as amended by PL 1989, c. 865, §10, is further  
+27 amended to read:
+28 The board department shall  adopt rules necessary to minimize,  to the extent 
+29 practicable, the potential  for discharges of oil from underground oil storage  facilities and 
+30 tanks used to store motor fuel or used in the marketing  and distribution of oil to others.   
+31 These rules must ensure that requirements and standards governing facilities under this 
+32 section assure that the State's program meets requirements under the United  States 
+33 Resource Conservation and Recovery Act of 1976, Subtitle I, as amended.  These  rules 
+34 are limited to the following requirements.
+35 Sec. 4.  38 MRSA  §564, sub-§1-A, ¶¶A and B, as amended by PL 1991, c. 494, 
+36 §4, are  further  amended  to read:
+37 A.  Monthly statistical inventory reconciliation of daily product inventory  data and an 
+38 annual precision  test of all tanks and piping by an independent vendor  using 
+Page 2 - 128LR2737(01)-11 procedures approved by the United States  Environmental Protection  Agency .  
+2 Pressurized piping must be retrofitted with an  automated in-line leak detector; or
+3 B.  Installation of one of  the following  leak detection systems:
+4 (1)  Secondary containment of all underground  oil storage  facility  components  or 
+5 secondary containment for the tank and single-walled containment for suction  
+6 piping sloped evenly  to the tank and equipped with a single check valve under the 
+7 pump;
+8 (2)  Continuous monitoring for free product in monitoring wells installed in the 
+9 excavated area around the tank or tanks, and to detect a leak or discharge  of oil 
+10 from the piping not installed in accordance with subparagraph (1), one of the 
+11 following:
+12 (a)  Continuous vapor monitoring;
+13 (b)  Annual tightness testing;
+14 (c)  Secondary containment with interstitial space monitoring; or
+15 (d)  Other  methods  of leak detection  approved  by the department;
+16 (3)  Continuous  vapor monitoring in the unsaturated zone of all elements of the 
+17 facility, using  sufficient sampling points  to detect a leak or discharge of oil from 
+18 any point in the facility;
+19 (4)  Manual  ground water sampling capable  of detecting  the presence  of at least 
+20 1/8 inch of free product  on top of the ground water table in a reasonable  number  
+21 of ground water monitoring wells  installed in the excavated area, and to detect a 
+22 leak or discharge  of oil from the product piping not installed in accordance with 
+23 subparagraph (1), one  of the following:
+24 (a)  Continuous vapor monitoring;
+25 (b)  Annual tightness testing;
+26 (c)  Secondary containment with interstitial space monitoring; or
+27 (d)  Other  methods  of leak detection  approved  by the department;
+28 (5)  Automatic tank gauging that can detect a 0.2 gallon per hour loss, and to 
+29 detect a leak or discharge of oil from product  piping not installed  in accordance 
+30 with subparagraph (1), one  of the following:
+31 (a)  Continuous vapor monitoring;
+32 (b)  Annual tightness testing;
+33 (c)  Secondary containment with interstitial space monitoring; or
+34 (d)  Other  methods  of leak detection  approved  by the department; or
+35 (6)  Other leak detection  systems approved  by the department that can detect a 
+36 0.2 gallon per hour leak rate or a leak of 150 gallons in 30 days with a 95% 
+37 probability of detecting a  leak  and a 5%  chance  of false alarm.
+Page 3 - 128LR2737(01)-11 Ground water  monitoring for the detection of leaks  may only be used to meet the 
+2 requirements of this paragraph where the ground water table is never  more  than 20 
+3 feet from the ground surface and the hydraulic  conductivity  of the soils between the 
+4 tank and monitoring wells is not less than  0.01 centimeters per second.
+5 Sec. 5.  38 MRSA §564, sub-§2-A, as amended by PL 2011, c. 317, §1, is further 
+6 amended to read:
+7 2-A.  Monitoring, maintenance and operating procedures for existing, new and 
+8 replacement facilities and tanks.  The board's department's rules must require:
+9 A.  Collection of inventory  data for each day that oil is being added  to or withdrawn  
+10 from the facility  or tank,  reconciliation of the data, with monthly summaries, and 
+11 retention of records containing all such data for a period of at least 3 years either at 
+12 the facility or at the facility owner's  place  of business;
+13 B.  Annual Monthly statistical inventory  analysis reconciliation, the results of which  
+14 must be reported  to the commissioner.  Annual Monthly statistical  inventory analysis 
+15 reconciliation is not required for double-walled tanks equipped with interstitial space  
+16 monitors;
+17 C.  Voltage readings  for cathodically protected systems by a cathodic protection 
+18 tester 6 months  after  installation and annually thereafter;
+19 D.  Monthly inspections by a cathodic protection  tester of the rectifier meter on 
+20 impressed current systems;
+21 E.  Precision testing of any tanks and piping showing  evidence of a possible leak.   
+22 Results of all tests conducted must be submitted  to the commissioner by the facility  
+23 owner and  the person  who conducted the test;
+24 F.  Proper calibration,  operation and maintenance of leak detection devices;
+25 G.  Evidence  of financial responsibility  for taking corrective action  and for 
+26 compensating 3rd parties for bodily injury and property damage caused by sudden 
+27 and nonsudden accidental discharges  from an underground oil storage  facility  or tank;
+28 H.  Reporting to the commissioner any of the following indications of a possible leak 
+29 or discharge  of oil:
+30 (1)  Unexplained  differences in daily inventory reconciliation  values  that, over a 
+31 30-day period,  exceed 1.0%  of the product throughput;
+32 (2)  Unexplained losses detected  through  statistical  analysis reconciliation of 
+33 inventory records;
+34 (3)  Detection of product  in a monitoring well or by other leak detection methods;
+35 (4)  Failure of a tank or piping precision test, hydrostatic test or other tank or 
+36 piping tightness test approved by the department;  and
+37 (5)  Discovery of oil on or under the premises or abutting properties, including 
+38 nearby utility conduits, sewer lines, buildings, drinking  water supplies and  soil.
+Page 4 - 128LR2737(01)-11 The rules may not require  the reporting of a leak or discharge of oil above ground of 
+2 10 gallons or less that occurs on the premises,  including, but not limited to, spills,  
+3 overfills and leaks, when  those leaks  or discharges  do not reach groundwaters  or 
+4 surface waters of the State  and are cleaned up within 24 hours of discovery,  if a 
+5 written log is maintained at the facility  or the owner's place of business in this State.  
+6 For each discharge the log must record the date of discovery, its source, the general 
+7 location of the discharge  at the facility, the date and method of cleanup and the 
+8 signature of the facility owner or operator certifying the accuracy  of the log;
+9 I.  Compatibility of the materials from which the facility is constructed and the 
+10 product to be stored;
+11 J.  Owners and operators, upon request by the commissioner, to sample  their 
+12 underground oil tanks, to maintain records of all monitoring and sampling results at 
+13 the facility or the facility owner's  place of business and to furnish records of all 
+14 monitoring and sampling  results to the commissioner and to permit the commissioner 
+15 or the commissioner's  representative to inspect and  copy those records;
+16 K.  Owners and operators  to permit the commissioner or the commissioner's 
+17 designated representatives, including contractors,  access to all underground oil 
+18 storage facilities for all purposes connected  with administering this subchapter, 
+19 including, but not limited  to, for sampling the contents of underground oil tanks  and 
+20 monitoring wells.  This right of access is in addition to any other granted by law; and
+21 L.  Operators to complete a department training program that meets the minimum 
+22 requirements specified by the United States Environmental Protection Agency under  
+23 42 United States Code, Section  6991i (2007).  The training program must  provide 
+24 certification for the successful completion of the program, which must be renewed 
+25 every 2 years.  Training may be provided by a 3rd party if approved by the 
+26 department.
+27 The requirements in paragraphs A and B do not apply to the following tanks provided as 
+28 long as the associated piping has secondary  containment or a suction pump product  
+29 delivery system or another leak detection system approved by the commissioner and 
+30 provided that as long as the tank and associated  piping have  been installed  and are 
+31 operated in accordance with the requirements of this subchapter, including rules adopted 
+32 under this subchapter:  tanks  providing product to a generator; double-walled tanks with 
+33 continuous interstitial  space  monitoring; and existing tanks constructed of fiberglass, 
+34 cathodically protected steel or another  commissioner -approved noncorrosive material that 
+35 are monitored for a leak by a method able to detect a product loss or gain of 0.2 gallons  or 
+36 less per hour.
+37 Sec. 6.  38 MRSA §564, sub-§6, as enacted by PL 2015, c. 361, §1, is amended to 
+38 read:
+39 6.  Retrofit  of existing underground tanks.  The board's department's rules  must 
+40 allow a person to retrofit a single- walled underground  oil storage tank with secondary 
+41 containment as long as the retrofitted  tank complies with Underwriters Laboratories 
+42 Subject 1316 or 1856 and interstitial monitoring of the retrofitted tank is equal  to or 
+43 greater than interstitial  monitoring of a new tank.  The board department shall require a 
+Page 5 - 128LR2737(01)-11 site assessment of an underground oil storage facility when a tank is retrofitted in 
+2 accordance with this subsection.
+3 Sec. 7.  38 MRSA §566-A, sub-§1, as amended by PL 2011, c. 276, §2, is further 
+4 amended to read:
+5 1.  Abandonment.   All Except as provided by subsection 1-A, all underground oil 
+6 storage facilities and tanks  that have been, or are intended to be, taken  out of service for a 
+7 period of more than 24 12 months must be properly abandoned by the owner  or operator 
+8 of the facility or tank or, if the owner or operator is unknown, dissolved or insolvent, by 
+9 the current owner of the property where  the facility  or tank is located.  All abandoned 
+10 facilities and tanks must be removed, except where removal is not physically possible or 
+11 practicable because the tank or  other component of the facility to be removed is: 
+12 A.  Located beneath a  building  or other permanent structure;
+13 B.  Of a size and type of construction that  it cannot be removed;
+14 C.  Otherwise inaccessible to heavy equipment necessary  for removal; or
+15 D.  Positioned  in such a manner that removal  will endanger the structural integrity  of 
+16 nearby tanks.
+17 Sec. 8.  38 MRSA  §566-A, sub-§1-A, as amended by PL 2011, c. 276, §3, is 
+18 further amended  to read:
+19 1-A.  Abandoned tanks brought back into service.  Underground oil storage  tanks  
+20 and facilities that have been  out of service for a period  of more than 24 12 months may 
+21 not be brought back into service without the written  approval of the commissioner.  The 
+22 commissioner may approve the return to service if the owner  demonstrates  to the 
+23 commissioner's satisfaction that:
+24 A.  The facility is in compliance with this subchapter and rules  adopted  pursuant to 
+25 this subchapter;
+26 B.  The underground  oil storage tanks and piping have successfully passed testing as 
+27 directed by the commissioner; 
+28 C.  The underground oil storage  tanks  and piping are constructed of fiberglass, 
+29 cathodically protected steel or other equally noncorrosive material approved by the 
+30 commissioner;
+31 D.  The  facility has conforming suction or double-walled  pressurized piping; and
+32 E.  The return  of the facility to service does not pose an unacceptable risk to 
+33 groundwater resources.  In determining if the facility poses an unacceptable risk to 
+34 groundwater resources, the commissioner may consider the age and maintenance 
+35 history of the storage tanks and piping, the number and consequences of past oil 
+36 discharges from  the tanks and piping, the proximity of the facility to drinking water  
+37 supplies and the proximity of the facility to sensitive geologic areas.
+38 The commissioner may not approve the return to service of a single -walled  underground  
+39 oil storage tank that  has been out of service for  more than 24 12 consecutive months.
+Page 6 - 128LR2737(01)-11 Sec. 9.  38 MRSA §566-A, sub-§3,  as amended by PL 1991, c. 88, §1, is further 
+2 amended to read:
+3 3.  Rulemaking.  The board department shall  adopt rules  allowing for the granting of 
+4 a variance from the requirement of removal where  abandonment by removal  is not 
+5 physically possible or practicable due to circumstances  other than those  listed in this 
+6 subsection.  The board department shall adopt  rules setting forth the proper procedures 
+7 for abandonment  of underground oil storage facilities  and tanks, including requirements 
+8 and procedures  to conduct a site assessment for the presence of discharges of oil prior  to 
+9 completion of abandonment at facilities  storing motor  fuel or used in the marketing and 
+10 distribution of oil, acceptable  methods of disposing of the removed  tanks, requirements 
+11 for venting  at least 12 feet above  ground level flammable gases purged  from  tanks and 
+12 from trucks  removing oil from tanks and procedures for abandonment in place where 
+13 removal of a tank or other component of a facility  is determined not physically possible 
+14 or practicable.
+15 Sec. 10.  38 MRSA §570-F, as repealed  and replaced by PL 1991, c. 494, §15 and 
+16 affected by PL 1997, c. 374, §14, is amended to read:
+17 §570-F.  Special provisions
+18 This subchapter may not be construed  to authorize the department to require 
+19 registration of  or to regulate  the installation or operation of underground tanks used:
+20 1.  Propane storage.  For the storage of  propane;  or
+21 2.  Other structure.  As an oil-water  separator, catch  basin, flood drain  or other 
+22 emergency containment structure  provided that as  long as the structure:
+23 A.  Is used  to collect, capture or  treat storm water  surface runoff  or oil spills;  and
+24 B.  Is not  used for  the storage  of oil.; and
+25 C.  Is regulated  under the federal Clean Water  Act, 33 United States Code,  Section 
+26 1317(b) or Section  1342.
+27 The board department shall adopt rules for underground oil storage  facilities  for 
+28 storing waste oil.  The board department  shall also promulgate adopt rules governing 
+29 field- constructed,  airport hydrant and heavy oil underground oil storage facilities.  These 
+30 rules are not limited by the  other provisions of this subchapter II-B.
+31 Sec. 11.  38 MRSA  §570-N  is enacted to read:
+32 §570-N.  Rules;  wastewater treatment  tank systems
+33 The department may adopt rules  regulating  wastewater treatment tank systems,  
+34 including oil-water separators and catch  basins, that meet  the definition of "underground 
+35 oil storage tank," except that  this section  does  not apply to:
+36 1.  Oil-water separators.  Oil-water separators  and catch basins under section 570-F, 
+37 subsection 2; and
+Page 7 - 128LR2737(01)-11 2.  Storm water or wastewater collection.  Storm  water or wastewater collection 
+2 systems or  flow- through tanks.
+3 The department may adopt  rules under this section for wastewater treatment tank 
+4 systems relating  to registration, tank construction, financial assurance and discharge 
+5 response and corrective  action.   Rules adopted pursuant  to this section  are routine 
+6 technical rules as  defined in Title 5, chapter  375, subchapter 2-A.
+7 SUMMARY
+8 This bill amends the laws governing the Department  of Environmental  Protection's  
+9 rule-making authority pertaining  to underground  oil storage tanks.

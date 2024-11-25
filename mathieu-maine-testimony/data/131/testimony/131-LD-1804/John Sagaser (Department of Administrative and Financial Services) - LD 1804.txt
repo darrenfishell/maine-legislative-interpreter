@@ -1,0 +1,114 @@
+TESTIMONY OF 
+JOHN SAGASER, TAX POLICY COUNSEL, MAINE REVENUE SERVICES 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES 
+Before the Joint Standing Committee on Taxation 
+Hearing Date: May 1], 2023 
+LD 1804 — “An Act to Provide Transparency and Accountability for Corporate Tax 
+Expenditures ” 
+---------------------------------------------------------------------------------------------- -- 
+Senator Grohoski, Representative Perry, and members of the Taxation 
+Committee — good afternoon, my name is John Sagaser, Tax Policy Counsel for the 
+Office of Tax Policy, Maine Revenue Services. I am testifying at the request of the 
+Administration Against LD I 804, “An Act to Provide Transparency and 
+Accountability for Corporate Tax Expenditures. ” 
+This testimony is limited to the bill as it affects Maine Revenue Services. 
+The bill requires the State Tax Assessor to annually submit reports to the joint 
+standing committee of the Legislature having jurisdiction over taxation matters 
+(“TAX”) containing certain information on (l) the Business Equipment Tax 
+Exemption (“BETE”) Program; (2) the Business Equipment Tax Reimbursement 
+(“BETR”) Program; and (3) the Shipbuilding Facility tax credit. The annual report 
+on the BETE program must also be submitted to the joint standing committee of 
+the Legislature having jurisdiction over economic development matters. The bill 
+also requires the Commissioner of the Department of Economic and Community 
+Development (“DECD”) to submit an annual report regarding Employment Tax 
+Increment Financing (“ETIF”) beneﬁts to TAX. Each annual report must include 
+the location and nature of the applicants, eligible equipment, or business property, 
+whether certain program applicant and certiﬁcation documentation is available for 
+public review, certain company information (including parent companies), the
+1
+program beneﬁt amounts claimed, the projected and actual amounts of capital 
+investment achieved through the program, and how to obtain data about the 
+program. 
+The State Tax Assessor is currently required to annually report to the 
+Taxation Committee the revenue loss attributable to each taxpayer claiming the 
+Shipbuilding Facility credit (36 M.R.S. §§ l9l(2)(GGG) and 5219-RR(9)(C)) 
+(most recent report attached). Additionally, the State Tax Assessor may publicly 
+disclose the names and reimbursement amount of persons receiving beneﬁts under 
+the BETR program (36 M.R.S. § 6660). The biennial BETR report can be found 
+at: https://WWw.maine.gov/revenue/sites/maine.gov.revenue/ ﬁles/inline- 
+fi1es/Business%20Equipment%20Tax%20Reimbursement%2C%202021%20%28P 
+DF%29.pdf. 
+This proposal would expand such reporting and disclosure requirements, 
+causing MRS to conduct additional research, auditing, veriﬁcation, and 
+compilation. In order to satisfy the increased requirements of this bill, MRS would 
+need to hire an additional Revenue Agent and the Office of Tax Policy an 
+additional Economist. 
+The Administration also notes the following technical concerns: 
+0 The bill should be amended to include an application date and the timing for 
+when the annual reports must be submitted to the Legislature. 
+0 The bill should be amended to include exceptions to Maine’s conﬁdentiality 
+provisions under 36 M.R.S. § 191(2) to allow MRS to divulge the required 
+taxpayer information to the Legislative committees, to make the information 
+available for public review, and, for purposes of Section 4 of the bill, to 
+provide ETIF reimbursement information to DECD.
+2
+0 Section 5 of the bill should be amended to reﬂect the current Maine 
+Shipbuilding Facility Investment Credit under 36 M.R.S. § 5219-RR(9). 
+The Shipbuilding Facility Credit affected by 36 M.R.S. § 6854 ended 
+December 31, 2018. 
+The estimated revenue impact of the bill is revenue neutral. 
+The estimated administrative costs are between $260,000 and $360,000 
+beginning in the ﬁscal year during which the tax year begins for which the bill ﬁrst 
+applies. The costs include the addition of 9 lines to tax forms, an additional 
+Economist to comply with the increased reporting requirements, and an additional 
+Revenue Agent to audit and clarify information on the approximately 15,000 
+BETR and BETE accounts and to produce the annual report. Relative to the 
+reporting requirement for the Shipbuilding Facility credit, the estimated 
+administrative costs are nominal and can be absorbed by the Bureau. 
+The Administration looks forward to working with the Committee on the 
+bill; representatives from MRS will be here for the Work Session to provide 
+additional information and respond in detail to the Committee ’s questions.
+3
+Revenue loss to the State from the tax credit for Maine shipbuilding 
+facility investment 
+A Report Prepared for the: 
+Joint Standing Committee on Taxation 
+Department of Administrative and Financial Services 
+Maine Revenue Services 
+December 31, 2022
+I. Introduction 
+Maine Revenue Services (“MRS”) is providing this report in compliance with Maine Revised 
+Statutes Title 36, section 5219-RR, subsection 9, paragraph C, which requires MRS to provide 
+annual reports to the Joint Standing Cormnittee on Taxation of the revenue loss to the State asa 
+result of the income tax credit for Maine shipbuilding facility investment for each taxpayer 
+claiming the credit. This report follows the annual report on the credit issued by the Department 
+of Economic and Community Development pursuant to Title 36, section 5219-RR, subsection 9, 
+paragraph B. 
+II. Description of Beneﬁts 
+A nonrefundable income tax credit is available to shipbuilders who meet employment and 
+investment thresholds and are certiﬁed by the Commissioner of the Department of Economic and 
+Community Development to receive the credit. 
+Certiﬁcation requires, among other things, that the applicant owns and operates or proposes to 
+construct a Maine shipbuilding facility, employs at least 5,000 qualiﬁed workers, has madea 
+qualiﬁed investment of at least $100,000,000 at its Maine shipbuilding facility, and does not 
+receive Pine Tree Zone or Employment Ta.x Incremental Financing beneﬁts. 
+The credit is equal to $3,000,000 per year and can be increased up to $3,500,000 if the applicant 
+satisﬁes certain employment and investment criteria. The credit is reduced if qualiﬁed 
+employment falls below 5,500, and taxpayers with qualiﬁed employment below 4,000 cannot 
+claim the credit. Unused credits cannot be carried forward. 
+Taxpayers may claim the credit for l0 consecutive tax years. This limitation is extended to l5 
+consecutive tax years if the taxpayer makes an additional $100,000,000 qualiﬁed investment at its 
+Maine shipbuilding facility. 
+HI. General Fund Revenue Loss for Report Year 2021 
+MRS is required to report the revenue loss during the report year as a result of this credit for each 
+taxpayer claiming the credit. For purposes of the report, "revenue loss" means the credit claimed 
+by the taxpayer and allowed pursuant to Title 36, section 5219-RR. “Report year” means the tax 
+year ending during the immediately preceding calendar year. 
+For report year 2021, only one taxpayer with a tax year ending in 2021 claimed the credit. The 
+revenue loss to the State for this taxpayer was $3,250,000, represented in the table below: 
+Report Year Number of Taxpayers Claiming the Credit l Total Revenue Logs 
+2021 l ($3,250,000) 
+2020 1 l ($3,000,000)1 
+1 
+This represents the previously reported revenue loss in report year 2020 and is included for historical reference 
+only.

@@ -1,0 +1,137 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 946
+S.P. 275 In Senate, February 21, 2019
+An Act  To Protect  the Privacy of  Online  Customer Information
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BELLOWS of Kennebec.
+Cosponsored by Representative BERRY  of Bowdoinham  and
+Senators: GUERIN of Penobscot, President JACKSON of Aroostook, KEIM of Oxford, LAWRENCE of York, MIRAMANT of Knox, Representatives: GROHOSKI of Ellsworth, MOONEN of Portland,  SKOLFIELD of  Weld.
+
+Page 1 - 129LR1031(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA c. 94 is enacted to read:
+3CHAPTER 94
+4BROADBAND INTERNET ACCESS SERVICE CUSTOMER PRIVACY
+5§9301.  Privacy of broadband Internet access service customer personal information
+61.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+7following terms have the following meanings.
+8A.  "Broadband Internet access service" means a mass-market retail service by wire 
+9or radio that provides the capability to transmit data to and receive data from all or 
+10substantially all Internet endpoints, including any capabilities that are incidental to 
+11and enable the operation of the service, excluding dial-up Internet access service.
+12B.  "Customer" means an applicant for or a current or former subscriber of broadband 
+13Internet access service.
+14C.  "Customer personal information" means:
+15(1)  Personally identifying information about a customer, including but not 
+16limited to the customer's name, billing information, social security number, 
+17billing address and demographic data; and
+18(2)  Information from a customer's use of broadband Internet access service, 
+19including but not limited to:
+20(a)  The customer's web browsing history;
+21(b)  The customer's application usage history;
+22(c)  The customer's precise geolocation information;
+23(d)  The customer's financial information;
+24(e)  The customer's health information;
+25(f)  Information pertaining to the customer's children;
+26(g)  The customer's device identifier, such as a media access control address, 
+27international mobile equipment identity or Internet protocol address;
+28(h)  The content of the customer's communications; and
+29(i)  The origin and destination Internet protocol addresses.
+30D.  "Provider" means a person who provides broadband Internet access service.
+312.  Privacy of customer personal information.  A provider may not use, disclose, 
+32sell or permit access to customer personal information, except as provided in subsections 
+333 and 4.
+Page 2 - 129LR1031(01)-113.  Customer consent exception.  Consent of a customer is governed by this 
+2subsection.
+3A.  A provider may use, disclose, sell or permit access to a customer's customer 
+4personal information if the customer gives the provider express, affirmative consent 
+5to such use, disclosure, sale or access.  A customer may revoke the customer's 
+6consent under this paragraph at any time.
+7B.  A provider may not:
+8(1)  Refuse to serve a customer who does not provide consent under paragraph A; 
+9or 
+10(2)  Charge a customer a penalty or offer a customer a discount based on the 
+11customer's decision to provide or not provide consent under paragraph A.
+12C.  A provider may use, disclose, sell or permit access to information the provider 
+13collects pertaining to a customer that is not customer personal information, except 
+14upon written notice from the customer notifying the provider that the customer does 
+15not permit the provider to use, disclose, sell or permit access to that information.
+164.  Other exceptions.  Notwithstanding the provisions of subsections 2 and 3, a 
+17provider may collect, retain, use, disclose, sell and permit access to customer personal 
+18information without customer approval:
+19A.  For the purpose of providing the service from which such information is derived 
+20or for the services necessary to the provision of such service;
+21B.  To advertise or market the provider's communications-related services to the 
+22customer;
+23C.  To comply with a lawful court order;
+24D.  To initiate, render, bill for and collect payment for broadband Internet access 
+25service;
+26E.  To protect users of the provider's or other providers' services from fraudulent, 
+27abusive or unlawful use of or subscription to such services; and
+28F.  To provide geolocation information concerning the customer to:
+29(1)  For the purpose of responding to a customer's call for emergency services, a 
+30public safety answering point; a provider of` emergency medical or emergency 
+31dispatch services; a public safety, fire service or law enforcement official; or a 
+32hospital emergency or trauma care facility;
+33(2)  The customer's legal guardian or a member of the customer's immediate 
+34family in an emergency situation that involves the risk of death or serious 
+35physical harm; or
+36(3)  A provider of information or database management services solely for the 
+37purpose of assisting in the delivery of emergency services in response to an 
+38emergency.
+Page 3 - 129LR1031(01)-115.  Security of customer personal information.  A provider shall take reasonable 
+2measures to protect customer personal information from unauthorized use, disclosure or 
+3access.
+4A.  In implementing security measures required by this subsection, a provider shall 
+5take into account each of the following factors:
+6(1)  The nature and scope of the provider's activities;
+7(2)  The sensitivity of the data the provider collects;
+8(3)  The size of the provider; and
+9(4)  The technical feasibility of the security measures.
+10B.  A provider may employ any lawful measure that allows the provider to comply 
+11with the requirements of this subsection.
+126.  Notice required.  A provider shall provide to each of the provider's customers a 
+13clear, conspicuous and nondeceptive notice at the point of sale and on the provider's 
+14publicly accessible website of the provider's obligations and a customer's rights under this 
+15section.
+167.  Applicability.  The requirements of this section apply to providers operating 
+17within the State when providing broadband Internet access service to customers that are 
+18physically located and billed for service received in the State.
+19SUMMARY
+20This bill prohibits a provider of broadband Internet access service from using, 
+21disclosing, selling or permitting access to customer personal information unless the 
+22customer expressly consents to that use, disclosure, sale or access.  The bill provides 
+23other exceptions under which a provider may use, disclose, sell or permit access to 
+24customer personal information.  The bill prohibits a provider from refusing to serve a 
+25customer, charging a customer a penalty or offering a customer a discount if the customer 
+26does or does not consent to the use, disclosure, sale or access.  The bill requires providers 
+27to take reasonable measures to protect customer personal information from unauthorized 
+28use, disclosure, sale or access.  The provisions of the bill apply to providers operating 
+29within the State when providing broadband Internet access service to customers that are 
+30billed for service received in the State and are physically located in the State.

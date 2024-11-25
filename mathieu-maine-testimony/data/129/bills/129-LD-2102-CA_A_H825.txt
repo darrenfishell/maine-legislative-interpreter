@@ -1,0 +1,147 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -825) (LD 2102 2020)  
+Date: 8/12/2020
+
+Page 1 - 129LR3194(02)-1
+COMMITTEE AMENDMENT1L.D. 2102
+2
+3JUDICIARY
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1497, L.D. 2102, Bill, “An Act To 
+10Implement the Recommendations of the Right To Know Advisory Committee”
+11Amend the bill by striking out all of sections 1 to 3 (page 1, lines 2 to 16 in L.D.) and 
+12inserting the following:
+13'Sec. 1.  1 MRSA §411, sub-§2, as amended by PL 2015, c. 250, Pt. A, §§1 and 2, 
+14is further amended to read:
+152.  Membership.  The advisory committee consists of the following members:
+16A.  One Senator who is a member of the joint standing committee of the Legislature 
+17having jurisdiction over judiciary matters, appointed by the President of the Senate;
+18B.  One member of the House of Representatives who is a member of the joint 
+19standing committee of the Legislature having jurisdiction over judiciary matters, 
+20appointed by the Speaker of the House;
+21C.  One representative of municipal interests, appointed by the Governor;
+22D.  One representative of county or regional interests, appointed by the President of 
+23the Senate;
+24E.  One representative of school interests, appointed by the Governor;
+25F.  One representative of law enforcement interests, appointed by the President of the 
+26Senate;
+27G.  One representative of the interests of State Government, appointed by the 
+28Governor;
+29H.  One representative of a statewide coalition of advocates of freedom of access, 
+30appointed by the Speaker of the House;
+31I.  One representative of newspaper and other press interests, appointed by the 
+32President of the Senate;Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1497, L.D. 2102
+Page 2 - 129LR3194(02)-1
+COMMITTEE AMENDMENT1J.  One representative of newspaper publishers, appointed by the Speaker of the 
+2House;
+3K.  Two representatives of broadcasting interests, one appointed by the President of 
+4the Senate and one appointed by the Speaker of the House;
+5L.  Two representatives of the public, one appointed by the President of the Senate 
+6and one appointed by the Speaker of the House;
+7M.  The Attorney General or the Attorney General's designee; and
+8N.  One member with broad experience in and understanding of issues and costs in  
+9multiple areas of information technology, including practical applications concerning 
+10creation, storage, retrieval and accessibility of electronic records; use of 
+11communication technologies to support meetings, including teleconferencing and 
+12Internet-based conferencing; databases for records management and reporting; and 
+13information technology system development and support, appointed by the 
+14Governor.; and
+15O.  One representative having legal or professional expertise in the field of data and 
+16personal privacy, appointed by the Governor.
+17The advisory committee shall invite the Chief Justice of the Supreme Judicial Court to 
+18designate a member of the judicial branch to serve as a member of the committee.
+19In making appointments to the advisory committee, the appointing authorities shall take 
+20into consideration the racial and ethnic diversity of the State.' 
+21Amend the bill by adding after section 6 the following:
+22'Sec. 7.  Appropriations and allocations.  The following appropriations and 
+23allocations are made.
+24ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+25Freedom of Access Training N346
+26Initiative: Provides funding to reimburse municipalities for costs associated with 
+27requiring certain municipal officials to complete freedom of access training.
+28
+29
+30
+31
+32' 
+33Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+34section number to read consecutively.
+35SUMMARY
+36This amendment is the majority report of the Joint Standing Committee on Judiciary.GENERAL FUND 2019-20 2020-21
+All Other $0 $33,300
+GENERAL FUND TOTAL $0 $33,300
+COMMITTEE AMENDMENT “      ” to H.P. 1497, L.D. 2102
+Page 3 - 129LR3194(02)-1
+COMMITTEE AMENDMENT1This amendment explicitly requires that the appointments to the Right to Know 
+2Advisory Committee must take into consideration the racial and ethnic diversity of the 
+3State.
+4This amendment includes an appropriation to provide funds to reimburse 
+5municipalities for the costs required for additional municipal officials to meet the 
+6freedom of access training requirements.
+7FISCAL NOTE REQUIRED
+8(See attached)
+Revised: 07/30/20
+LD 21 02 LR 3194 (02)
+FY 2019-20 FY 2020-21Projections 
+FY 2021-22Projections 
+FY 2022-23
+Net Cost (Savings)
+General Fund $0 $33,300 $3,600 $3,600
+Appropriations/Allocations
+General Fund $0 $33,300 $3,600 $3,600
+State Mandates
+Unit Affected Local Cost
+Municipality $33,300 one-
+time, $3,600 
+annually
+Fiscal Detail and Notes129th MAINE LEGISLATURE
+The bill includes a General Fund appropriation of $33,300 in fi scal year 2020-21 to the Department of Administrative 
+and Financial Services to reimburse municipalities for 90% of the administrative costs associated with implementing 
+the bill. The cost was calculated using salary and positi on data provided by the Maine Municipal Association. 
+Projected future costs assume annual employee turnover of 11.8%, resulting in new employees each year who will 
+need training. Fiscal NoteAn Act To Implement the Recommendations of the Right To Know Advisory Committee 
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Judiciar y
+Fiscal Note Re quired: Yes
+State Mandate - Funded
+Required Activity
+This bill expands the number of municipal officials required to complete freedom of 
+access training to include code enforcement officers, town and city managers, administrators and planning board members.  It requires deputies of various officials 
+complete the training. School superintende nts, assistant superintendents and school 
+board members are also required to complete the training.
+The required local activities in this bill may represent a stat e mandate pursuant to the Constitution of Maine. If the bill 
+does require a local unit of government to expand or modify its activities so as to necessitate additional expenditures from local revenue, the state mandate provisions of th e Constitution of Maine require either: (1) General Fund 
+appropriations be provided to fund at least 90% of any additional necessitated local costs of the mandate; or (2) a 
+Mandate Preamble be added to the bill and two-thirds of the members of each House vote to exempt the mandate from the funding requirement. If the bill does represent a state ma ndate and neither one of these actions occurs, the local 
+units of government will not be required to implement the mandated activities.
+LR3194(02) - Fiscal Note - Page 1 of 1

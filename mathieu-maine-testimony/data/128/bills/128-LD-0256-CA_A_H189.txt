@@ -1,0 +1,233 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 L.D. 256 
+(Filing No. H-} 8~) 
+ENERGY, UTILITIES AND TECHNOLOGY 
+Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+128TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMITTEE AMENDMENT «A" to H.P. 189, L.D. 256, Bill, "An Act To 
+Ensure Continued Availability of High-speed Broadband Internet at Maine's Schools and 
+Libraries" 
+Amend the bill by striking out everything after the enacting clause and before the 
+summary and inserting the following: 
+'Sec. 1. 35-A MRSA §7104-B, sub-§2, as amended by PL 2011, c. 623, Pt. B, 
+§20, is further amended to read: 
+2. Authority. Pursuant to the authority granted in section 7104 and in order to carry 
+out the policy goals established by section 7101, subsections 1, 2 and 4, the commission 
+shall establish a telecommunications education access fund, refened to in this section as 
+the "fund," and require all voice network service providers providing service in the State 
+and any other entities identified by the eommission to contribute to the fund. The fund 
+must be available, with any accumulated interest, to qualified libraries, qualified schools 
+and the Raymond H. Fogler Library at the University of Maine to assist in paying the 
+costs of acquiring and using advanced telecommunications technologies. 
+Sec. 2. 35-A MRSA §7104-B, sub-§2-A, as enacted by PL 2011, c. 600, §6 and 
+affected by § 10, is amended to read: 
+2-A. Determination of amount of prepaid wireless telecommunications service 
+fee. The commission shall determine by rule the amount of the fee on prepaid wireless 
+telecommunications service that is required to be contributed to the fund. The 
+commission shall limit the fee is a fuwd amount to no more than 21¢ per retail transaction 
+established by multiplying $25 by a percentage that is determined by the commission for 
+purposes of calculating contrib«tions to the fund by providers of intrastate 
+telecommunications services. The fee must be rounded to the nearest penny. The fee 
+may not be adjusted by the commission more frequently than once every 24 months. The 
+collection of the fee is governed by section 7104-C. Rules adopted pursuant to this 
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A. 
+Page 1 -128LR1837(02)-1 
+COMMITTEE AMENDMENT 
+,, , (' 
+H. CI ~i. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 COMMITTEE AMENDMENT"~" to H.P. 189, L.D. 256 
+Sec. 3. 35-A MRSA §7104-B, sub-§3, as amended by PL 2011, c. 623, Pt. B, 
+§§21 to 23, is further amended to read: 
+3. Limitations; imposition. In carrying out the authority granted by subsection 2, 
+the commission shall: 
+A. bimit With respect to the contributions for the fund required from voice network 
+service providers other than prepaid wireless telecommunications service providers, 
+limit the amount oolleoted contributed to no more than 0.7% of retail ohal'ges for 
+2 way voioe oommunioations servioes as determined by the oommission, ex.eluding 
+interstate tolls or intel'state private line servioes; 21¢ per month per line or number, 
+assessed as a monthly surcharge, to be levied on: 
+(1) Residential and business telephone exchange lines, including private branch 
+exchange lines and Centrex lines; 
+(2) Interconnected voice over Internet protocol service; and 
+(3) Providers of mobile telecommunications services that. are not providers of 
+prepaid wireless telecommunications service. 
+The surcharge established in this paragraph may not be levied on more than 25 lines 
+or numbers per customer billing account; 
+B. Ensure that the funds are collected in a competitively neutral manner; 
+C. Integrate the collection of the eharge surcharge with any state universal service 
+fund developed by the commission; and 
+D. Require, if a voice network service provider recovers its contributions under this 
+section by means of a charge placed on a bill issued to a customer, explicit 
+identification on customer bills of any ohurge the surcharge imposed under this 
+section. 
+Sec. 4. Report. The Department of Education and the Maine State Library shall 
+jointly submit by January 15, 2018 to the Joint Standing Committee on Energy, Utilities 
+and Technology a report containing the following: 
+1. A list of all recipients of money from the telecommunications education access 
+fund established pursuant to the Maine Revised Statutes, Title 35-A, section 7104-B, 
+referred to in this section as "the fund"; a description of the goods or services for which 
+money from the fund was received, including the amount of money received by recipients 
+for such goods or services; and whether the goods or services for which money from the 
+fund was received were eligible for reimbursement through the federal E-rate program; 
+2. A description of the process used by recipients of money from the fund to select 
+vendors for goods or services, including whether there was a competitive bidding process 
+and, if so, whether the competitive bidding process included provisions for services that 
+were compensated with money from a source other than the fund; and 
+3. A list of qualified schools and qualified libraries pursuant to Title 35-A, section 
+7104-B, subsection 2 and, with respect to each school or library location, the following 
+information: 
+A. The broadband capacity; 
+Page 2 -128LR1837(02)-1 
+COMMITTEE AMENDMENT 
+11. ci s. 
+COMMITTEE AMENDMENT "A" to H.P. 189, L.D. 256 
+B. The average daily broadband use; 
+2 C. The amount received through the federal E-rate program to provide broadband 
+3 access; and 
+4 D. The amount received from the fund to provide broadband access. 
+5 Sec. 5. Prepaid wireless telecommunications service fee. Notwithstanding 
+6 the prohibition under the Maine Revised Statutes, Title 35-A, section 7104-B, subsection 
+7 2-A on the Public Utilities Commission's adjusting the prepaid wireless 
+8 telecommunications service fee more than once every 24 months, the Public Utilities 
+9 Commission shall adjust the prepaid wireless telecommunications service fee to conform 
+10 to Title 35-A, section 7104-B, subsection 2-A, as amended by this Act.' 
+11 SUMMARY 
+12 This amendment is the majority report of the committee, and it replaces the bill. It 
+13 caps the prepaid wireless telecommunications service fee that is contributed to the 
+14 telecommunications education access fund at 21¢ per retail transaction and caps the fee 
+15 levied on voice network service providers other than prepaid wireless 
+16 telecommunications service providers to no more than 21¢ per month per line or number, 
+17 assessed as a monthly surcharge. The amendment requires the Department of Education 
+18 and the Maine State Library to jointly submit a report by January 15, 2018 to the Joint 
+19 Standing Committee on Energy, Utilities and Technology that includes detailed 
+20 information on how the telecommunications education access fund is used. Lastly, this 
+21 amendment specifies that, notwithstanding the current prohibition under the Maine 
+22 Revised Statutes, Title 35-A, section 7104-B, subsection 2-A on the Public Utilities 
+23 Commission's adjusting the prepaid wireless telecommunications service fee more than 
+24 once every 24 months, the commission is required to adjust the prepaid wireless 
+25 telecommunications service fee to conform to the change made by this amendment. 
+26 FISCAL NOTE REQUIRED 
+27 (See attached) 
+Page 3 -128LR1837(02)-1 
+COMMITTEE AMENDMENT 
+Approved: 05/09/17 Mac 
+128th MAINE LEGISLATURE 
+LD256 LR 1837(02) 
+An Act To Ensure Continued Availability of High-speed Broadband Internet at Maine's Schools and 
+Libraries ~ \ 
+Fiscal Note for Bill as Amended by Committee Amendment fr C H-18°!) 
+Committee: Energy, Utilities and Technology 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Change to rate structure of fees assessed by PUC -Maine Telecommunications Education Access Fund 
+Minor cost increase -General Fund 
+Fiscal Detail and Notes 
+This bill would cap and change the rate structure for prepaid wireless telecommunications services and voice network 
+service providers that the Public Utilities Commission (PUC) uses to assess a surcharge or fee that is credited to the 
+Maine Telecommunications Education Access Fund (MTEAF). It also updates the definitions of the categories of 
+such services to reflect changes in telecommunications industry terminology and billing methods. These changes may 
+raise the fee for some services while others may be lowered. As under current law, the PUC will continue to have 
+some flexibility to adjust assessments up to the caps to assure adequate funding in the MTEAF. Any additional costs 
+to the PUC to implement these changes are anticipated to be minor and can be absorbed within existing budgeted 
+resources. 
+Additional costs to the Maine State Library and the Department of Education to prepare and submit the 
+required report can be absorbed within each agency's existing budgeted resources. 
+LR1837(02) -Fiscal Note -Page 1 of I 

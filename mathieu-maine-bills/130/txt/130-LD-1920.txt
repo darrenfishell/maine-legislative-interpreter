@@ -1,0 +1,797 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1920
+H.P. 1427 House of Representatives, January 13, 2022
+An Act To Enact the Interstate Counseling Compact To Address 
+Inequities in Access to Clinical Counseling Services and Increase 
+Maine's Provider Workforce
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Received by the Clerk of the House on January 11, 2022.  Referred to the Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative McCREIGHT of Harpswell.
+Cosponsored by Senator SANBORN of Cumberland and
+Representatives: BROOKS of Lewiston, CROCKETT of Portland, TEPLER of Topsham, 
+Senator: STEWART of Aroostook.
+
+Page 1 - 130LR2233(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  32 MRSA c. 147 is enacted to read:
+3CHAPTER 147
+4INTERSTATE COUNSELING COMPACT
+5§18551. Short title
+6 This chapter may be known and cited as "the Interstate Counseling Compact," which 
+7 is referred to in this chapter as "the compact."
+8§18552.  Purpose
+9 The purpose of this compact is to facilitate interstate practice of licensed professional 
+10 counselors with the goal of improving public access to professional counseling services.  
+11 The practice of professional counseling occurs in the state where the client is located at the 
+12 time of the counseling services.  The compact preserves the regulatory authority of states 
+13 to protect public health and safety through the current system of state licensure.
+14 This compact is designed to achieve the following objectives:
+151.  License recognition.  Increase public access to professional counseling services by 
+16 providing for the mutual recognition of other member state licenses;
+172.  State powers.  Enhance the states' ability to protect the public's health and safety;
+183.  Multistate practice.  Encourage the cooperation of member states in regulating 
+19 multistate practice for licensed professional counselors;
+204.  Military spouses.  Support spouses of relocating active duty military personnel;
+215.  Information exchange.  Enhance the exchange of licensure, investigative and 
+22 disciplinary information among member states;
+236.  Telehealth technology.  Allow for the use of telehealth technology to facilitate 
+24 increased access to professional counseling services;
+257.  Licensure requirements.  Support the uniformity of professional counseling 
+26 licensure requirements throughout the states to promote public safety and public health 
+27 benefits;
+288.  State authority.  Invest all member states with the authority to hold a licensed 
+29 professional counselor accountable for meeting all state practice laws in the state in which 
+30 the client is located at the time care is rendered through the mutual recognition of member 
+31 state licenses;
+329.  Multiple licenses.  Eliminate the necessity for licenses in multiple states; and
+3310.  Interstate practice.  Provide opportunities for interstate practice by licensed 
+34 professional counselors who meet uniform licensure requirements. 
+35§18553.  Definitions
+36 As used in this chapter, unless the context otherwise indicates, the following terms 
+37 have the following meanings. 
+Page 2 - 130LR2233(01)11.  Active duty military.  "Active duty military" means full-time duty status in the 
+2 active uniformed service of the United States, including members of the National Guard 
+3 and Reserves of the United States Armed Forces on active duty orders pursuant to 10 
+4 United States Code, Chapters 1209 and 1211.
+52.  Adverse action.  "Adverse action" means any administrative, civil, equitable or 
+6 criminal action permitted by a state's laws that is imposed by a licensing board or other 
+7 authority against a licensed professional counselor, including actions against an 
+8 individual's license or privilege to practice such as revocation, suspension, probation, 
+9 monitoring of the licensee, limitation on the licensee's practice or any other encumbrance 
+10 on licensure affecting a licensed professional counselor's authorization to practice, 
+11 including issuance of a cease and desist action.
+123.  Alternative program.  "Alternative program" means a nondisciplinary monitoring 
+13 or practice remediation process approved by a professional counseling licensing board to 
+14 address impaired practitioners.
+154.  Continuing competence and education.  "Continuing competence and education" 
+16 means a requirement, as a condition of license renewal, to provide evidence of participation 
+17 in, or completion of, educational and professional activities relevant to practice or area of 
+18 work.
+195.  Counseling compact commission.  "Counseling compact commission" or 
+20 "commission" means the national administrative body whose membership consists of all 
+21 states that have enacted the compact.
+226.  Current significant investigative information.  "Current significant investigative 
+23 information" means:
+24 A. Investigative information that a licensing board, after a preliminary inquiry that 
+25 includes notification and an opportunity for the licensed professional counselor to 
+26 respond, if required by state law, has reason to believe is not groundless and, if proved 
+27 true, would indicate more than a minor infraction; or
+28 B. Investigative information that indicates that the licensed professional counselor 
+29 represents an immediate threat to public health and safety regardless of whether the 
+30 licensed professional counselor has been notified and had an opportunity to respond.
+317.  Data system.  "Data system" means a repository of information about licensees, 
+32 including, but not limited to, continuing education, examination, licensure, investigative, 
+33 privilege to practice and adverse action information.
+348.  Encumbered license.  "Encumbered license" means a license in which an adverse 
+35 action restricts the practice of licensed professional counseling by the licensee and that 
+36 adverse action has been reported to the United States Department of Health and Human 
+37 Services, National Practitioner Data Bank.
+389.  Encumbrance.  "Encumbrance" means a revocation or suspension of, or any 
+39 limitation on, the full and unrestricted practice of licensed professional counseling by a 
+40 licensing board.
+4110.  Executive committee.  "Executive committee" means a group of directors elected 
+42 or appointed to act on behalf of, and within the powers granted to them by, the commission.
+Page 3 - 130LR2233(01)111.  Home state.  "Home state" means the member state that is the licensee's primary 
+2 state of residence.
+312.  Impaired practitioner.  "Impaired practitioner" means an individual who has a 
+4 condition that may impair that individual's ability to practice as a licensed professional 
+5 counselor without some type of intervention and may include, but is not limited to, alcohol 
+6 and drug dependence, mental health impairment and neurological or physical impairments.
+713.  Investigative information.  "Investigative information" means information, 
+8 records and documents received or generated by a professional counseling licensing board 
+9 pursuant to an investigation.
+1014.  Jurisprudence requirement.  "Jurisprudence requirement," if required by a 
+11 member state, means the assessment of an individual's knowledge of the laws and rules 
+12 governing the practice of professional counseling in a state.
+1315.  Licensed professional counselor.  "Licensed professional counselor" means a 
+14 counselor licensed by a member state, regardless of the title used by that state, to 
+15 independently assess, diagnose and treat behavioral health conditions.
+1616.  Licensee.  "Licensee" means an individual who currently holds an authorization 
+17 from a state to practice as a licensed professional counselor.
+1817.  Licensing board.  "Licensing board" means the agency of a state, or equivalent, 
+19 that is responsible for the licensing and regulation of licensed professional counselors.
+2018.  Member state.  "Member state" means a state that has enacted the compact.
+2119.  Privilege to practice.  "Privilege to practice" means a legal authorization that is 
+22 equivalent to a license permitting the practice of professional counseling in a remote state.
+2320.  Professional counseling.  "Professional counseling" means the assessment, 
+24 diagnosis and treatment of behavioral health conditions by a licensed professional 
+25 counselor.
+2621.  Remote state.  "Remote state" means a member state other than the home state 
+27 where a licensee is exercising or seeking to exercise the privilege to practice.
+2822.  Rule.  "Rule" means a regulation promulgated by the commission that has the force 
+29 of law.
+3023.  Single-state license.  "Single-state license" means a licensed professional 
+31 counselor license issued by a member state that authorizes practice only within the issuing 
+32 state and does not include a privilege to practice in any other member state.
+3324.  State.  "State" means any state, commonwealth, district or territory of the United 
+34 States that regulates the practice of professional counseling.
+3525.  Telehealth.  "Telehealth" means the application of telecommunication technology 
+36 to deliver professional counseling services remotely to assess, diagnose and treat 
+37 behavioral health conditions.
+3826.  Unencumbered license.  "Unencumbered license" means a license that authorizes 
+39 a licensed professional counselor to engage in the full and unrestricted practice of 
+40 professional counseling.
+41§18554.  State participation in the compact
+Page 4 - 130LR2233(01)11.  Participation requirements.  To participate in the compact, a state must currently:
+2 A.  License and regulate licensed professional counselors;
+3 B.  Require licensees to pass a nationally recognized exam approved by the 
+4 commission;
+5 C.  Require licensees to have a 60-semester-hour or 90-quarter-hour master's degree in 
+6 counseling or 60 semester hours or 90 quarter hours of graduate course work including 
+7 the following topic areas:
+8 (1)  Professional counseling orientation and ethical practice;
+9 (2)  Social and cultural diversity;
+10 (3)  Human growth and development;
+11 (4)  Career development;
+12 (5)  Counseling and helping relationships;
+13 (6)  Group counseling and group work;
+14 (7)  Diagnosis and treatment and assessment and testing;
+15 (8)  Research and program evaluation; and
+16 (9)  Other areas as determined by the commission;
+17 D.  Require licensees to complete a supervised postgraduate professional experience 
+18 as defined by the commission; and 
+19 E.  Have a mechanism in place for receiving and investigating complaints about 
+20 licensees.
+212.  Duties.  A member state shall:
+22 A.  Participate fully in the commission's data system, including using the commission's 
+23 unique identifier as defined in rules;
+24 B.  Notify the commission, in compliance with the terms of the compact and rules, of 
+25 any adverse action or the availability of investigative information regarding a licensee;
+26 C.  Implement or utilize procedures for considering the criminal history records of 
+27 applicants for an initial privilege to practice.  These procedures must include the 
+28 submission of fingerprints or other biometric-based information by applicants for the 
+29 purpose of obtaining an applicant's criminal history record information from the 
+30 Federal Bureau of Investigation and the agency responsible for retaining that state's 
+31 criminal records.  A member state shall fully implement a criminal background check 
+32 requirement, within a time frame established by rule, by receiving the results of the 
+33 Federal Bureau of Investigation record search and shall use the results in making 
+34 licensure decisions.  Communication between a member state and the commission and 
+35 among member states regarding the verification of eligibility for licensure through the 
+36 compact may not include any information received from the Federal Bureau of 
+37 Investigation relating to a federal criminal records check performed by a member state 
+38 under Public Law 92-544;
+39 D.  Comply with the rules of the commission;
+Page 5 - 130LR2233(01)1 E.  Require an applicant to obtain or retain a license in the home state and meet the 
+2 home state's qualifications for licensure or renewal of licensure, as well as all other 
+3 applicable state laws;
+4 F.  Grant the privilege to practice to a licensee holding a valid unencumbered license 
+5 in another member state in accordance with the terms of the compact and rules; and
+6 G.  Provide for the attendance of the state's commissioner to the counseling compact 
+7 commission meetings.
+83.  Fees.  Member states may charge a fee for granting the privilege to practice.
+94.  Nonresidents.  Individuals not residing in a member state may continue to be able 
+10 to apply for a member state's single-state license as provided under the laws of each 
+11 member state; however, the single-state license granted to these individuals may not be 
+12 recognized as granting a privilege to practice professional counseling in any other member 
+13 state.
+145.  Single-state license requirements.  Nothing in this compact may affect the 
+15 requirements established by a member state for the issuance of a single-state license.
+166.  License recognition.  A license issued to a licensed professional counselor by a 
+17 home state to a resident in that state must be recognized by each member state as 
+18 authorizing a licensed professional counselor to practice professional counseling, under a 
+19 privilege to practice, in each member state.
+20§18555.  Privilege to practice
+211.  Requirements.  To exercise the privilege to practice under the terms and provisions 
+22 of the compact, the licensee must:
+23 A.  Hold a license in the home state;
+24 B.  Have a valid United States social security number or national practitioner identifier;
+25 C.   Be eligible for a privilege to practice in any member state in accordance with 
+26 subsections 4, 7 and 8;
+27 D.  Have not had any encumbrance or restriction against any license or privilege to 
+28 practice within the previous 2 years;
+29 E.  Notify the commission that the licensee is seeking the privilege to practice within a 
+30 remote state;
+31 F.  Pay any applicable fees, including any state fee, for the privilege to practice;
+32 G.  Meet any continuing competence and education requirements established by the 
+33 home state;
+34 H.  Meet any jurisprudence requirements established by the remote state in which the 
+35 licensee is seeking a privilege to practice; and
+36 I.  Report to the commission any adverse action, encumbrance or restriction on the 
+37 license taken by any nonmember state within 30 days from the date the action is taken.
+382.  Validity.  The privilege to practice is valid until the expiration date of the home 
+39 state license.  The licensee must comply with the requirements of subsection 1 to maintain 
+40 the privilege to practice in the remote state.
+Page 6 - 130LR2233(01)13.  Laws and regulations.  A licensee providing professional counseling in a remote 
+2 state under the privilege to practice shall adhere to the laws and regulations of the remote 
+3 state.
+44.  Regulation.  A licensee providing professional counseling services in a remote state 
+5 is subject to that state's regulatory authority.  A remote state may, in accordance with due 
+6 process and that state's laws, remove a licensee's privilege to practice in the remote state 
+7 for a specific period of time, impose fines or take any other necessary actions to protect the 
+8 health and safety of its citizens.  The licensee may be ineligible for a privilege to practice 
+9 in any member state until the specific time for removal has passed and all fines are paid.
+105.  Encumbrance.  If a home state license is encumbered, the licensee must lose the 
+11 privilege to practice in any remote state until the following occur:
+12 A.  The home state license is no longer encumbered; and
+13 B.  The licensee has not had any encumbrance or restriction against any license or 
+14 privilege to practice within the previous 2 years.
+156.  Restoration after encumbrance.  Once an encumbered license in the home state 
+16 is restored to good standing, the licensee must meet the requirements of subsection 1 to 
+17 obtain a privilege to practice in any remote state.
+187.  Removal.  If a licensee's privilege to practice in any remote state is removed, the 
+19 individual may lose the privilege to practice in all other remote states until the following 
+20 occur:
+21 A.  The specific period of time for which the privilege to practice was removed has 
+22 ended;
+23 B.  All fines have been paid; and
+24 C.  The licensee has not had any encumbrance or restriction against any license or 
+25 privilege to practice within the previous 2 years.
+268.  Restoration after removal.  Once the requirements of subsection 7 have been met, 
+27 the licensee must meet the requirements in subsection 1 to obtain a privilege to practice in 
+28 a remote state.
+29§18556.  Obtaining a new home state license based on a privilege to practice
+301.  Home state license.  A licensed professional counselor may hold a home state 
+31 license that allows for a privilege to practice in other member states in only one member 
+32 state at a time.
+332.  Change of primary state of residence.  If a licensed professional counselor 
+34 changes the primary state of residence by moving between 2 member states:
+35 A.  The licensed professional counselor shall file an application for obtaining a new 
+36 home state license based on a privilege to practice, pay all applicable fees and notify 
+37 the current and new home state in accordance with applicable rules adopted by the 
+38 commission;
+39 B.  Upon receipt of an application for obtaining a new home state license by virtue of 
+40 a privilege to practice, the new home state shall verify that the licensed professional 
+41 counselor meets the pertinent criteria outlined in section 18555 via the data system, 
+42 without need for primary source verification except for:
+Page 7 - 130LR2233(01)1 (1) A Federal Bureau of Investigation fingerprint-based criminal background check 
+2 if not previously performed or updated pursuant to applicable rules adopted by the 
+3 commission in accordance with Public Law 92-544;
+4 (2) Any other criminal background check as required by the new home state; and
+5 (3)  Completion of any requisite jurisprudence requirements of the new home state;
+6 C.  The former home state shall convert the former home state license into a privilege 
+7 to practice once the new home state has activated the new home state license in 
+8 accordance with applicable rules adopted by the commission;
+9 D.  Notwithstanding any other provision of this compact, if the licensed professional 
+10 counselor cannot meet the criteria in section 18555, the new home state may apply its 
+11 requirements for issuing a new single-state license; and
+12 E.  The licensed professional counselor shall pay all applicable fees to the new home 
+13 state in order to be issued a new home state license.
+143.  Change of residence; nonmember states.  If a licensed professional counselor 
+15 changes the primary state of residence by moving from a member state to a nonmember 
+16 state, or from a nonmember state to a member state, the state criteria applies for issuance 
+17 of a single-state license in the new state.
+184.  Single-state licenses.  Nothing in this compact interferes with a licensee's ability to 
+19 hold a single-state license in multiple states; however, for the purposes of this compact, a 
+20 licensee may have only one home state license.
+215.  Single-state license requirements.  Nothing in this compact affects the 
+22 requirements established by a member state for the issuance of a single-state license.
+23§18557.  Active duty military personnel or their spouses
+24 Active duty military personnel, or their spouses, must designate a home state where the 
+25 individual has a current license in good standing.  The individual may retain the home state 
+26 designation during the period the service member is on active duty.  Subsequent to 
+27 designating a home state, the individual may only change the home state through 
+28 application for licensure in the new state or through the process outlined in section 18556.
+29§18558.  Compact privilege to practice telehealth
+301.  Telehealth practice.  Member states shall recognize the right of a licensed 
+31 professional counselor, licensed by a home state in accordance with section 18554 and 
+32 under rules promulgated by the commission, to practice professional counseling in any 
+33 member state via telehealth under a privilege to practice as provided in the compact and 
+34 rules promulgated by the commission.
+352.  Laws and regulations.  A licensee providing professional counseling services in a 
+36 remote state under the privilege to practice shall adhere to the laws and regulations of the 
+37 remote state.
+38§18559.  Adverse actions
+391.  Adverse action authority.  In addition to the other powers conferred by state law, 
+40 a remote state has the authority, in accordance with existing state due process law, to:
+Page 8 - 130LR2233(01)1 A.  Take adverse action against a licensed professional counselor's privilege to practice 
+2 within that member state; and
+3 B.  Issue subpoenas for both hearings and investigations that require the attendance and 
+4 testimony of witnesses as well as the production of evidence.  Subpoenas issued by a 
+5 licensing board in a member state for the attendance and testimony of witnesses or the 
+6 production of evidence from another member state must be enforced in the latter state 
+7 by any court of competent jurisdiction, according to the practice and procedure of that 
+8 court applicable to subpoenas issued in proceedings pending before it.  The issuing 
+9 authority shall pay any witness fees, travel expenses, mileage and other fees required 
+10 by the service statutes of the state in which the witnesses or evidence are located.
+11 Only the home state has the power to take adverse action against a licensed professional 
+12 counselor's license issued by the home state.
+132.  Conduct; appropriate action.  For purposes of taking adverse action, the home 
+14 state shall give the same priority and effect to reported conduct received from a member 
+15 state as it would if the conduct had occurred within the home state.  In so doing, the home 
+16 state shall apply its own state laws to determine appropriate action.
+173.  Change of residence.  The home state shall complete any pending investigations 
+18 of a licensed professional counselor who changes the primary state of residence during the 
+19 course of the investigations.  The home state also has the authority to take appropriate 
+20 action and shall promptly report the conclusions of the investigations to the administrator 
+21 of the data system.  The administrator of the coordinated licensure information system shall 
+22 promptly notify the new home state of any adverse actions.
+234.  Recovery.  A member state, if otherwise permitted by state law, may recover from 
+24 the affected licensed professional counselor the costs of investigations and dispositions of 
+25 cases resulting from any adverse action taken against that licensed professional counselor.
+265.  Remote state findings.  A member state may take adverse action based on the 
+27 factual findings of the remote state as long as the member state follows its own procedures 
+28 for taking the adverse action.
+296.  Joint investigations.  In addition to the authority granted to a member state by its 
+30 respective professional counseling practice act or other applicable state law, any member 
+31 state may participate with other member states in joint investigations of licensees.
+32 Member states shall share any investigative, litigation or compliance materials in 
+33 furtherance of any joint or individual investigation initiated under the compact.
+347.  Deactivation.  If adverse action is taken by the home state against the license of a 
+35 licensed professional counselor, the licensed professional counselor's privilege to practice 
+36 in all other member states must be deactivated until all encumbrances have been removed 
+37 from the state license.  All home state disciplinary orders that impose adverse action against 
+38 the license of a licensed professional counselor must include a statement that the licensed 
+39 professional counselor's privilege to practice is deactivated in all member states during the 
+40 pendency of the order.
+418.  Notification.  If a member state takes adverse action, it shall promptly notify the 
+42 administrator of the data system.  The administrator of the data system shall promptly notify 
+43 the home state of any adverse actions by remote states.
+Page 9 - 130LR2233(01)19.  Alternative program.  Nothing in this compact overrides a member state's decision 
+2 that participation in an alternative program may be used in lieu of adverse action.
+3§18560.  Establishment of counseling compact commission
+41.  Commission established.  The compact member states hereby create and establish 
+5 a joint public agency known as the counseling compact commission.
+6 A.  The commission is an instrumentality of the compact states.
+7 B.  Venue is proper and judicial proceedings by or against the commission must be 
+8 brought solely and exclusively in a court of competent jurisdiction where the principal 
+9 office of the commission is located.  The commission may waive venue and 
+10 jurisdictional defenses to the extent it adopts or consents to participate in alternative 
+11 dispute resolution proceedings.
+12 C.  Nothing in this compact may be construed to be a waiver of sovereign immunity.
+132.  Membership, voting and meetings.  Membership, voting and meetings are 
+14 governed by this subsection. 
+15 A.  Each member state has and is limited to one delegate selected by that member state's 
+16 licensing board.  
+17 B.  The delegate must be either:
+18 (1)  A current member of the licensing board at the time of appointment, who is a 
+19 licensed professional counselor or public member; or
+20 (2)  An administrator of the licensing board.
+21 C.  Any delegate may be removed or suspended from office as provided by the law of 
+22 the state from which the delegate is appointed.
+23 D.  The member state licensing board shall fill any vacancy occurring on the 
+24 commission within 60 days.
+25 E.  Each delegate is entitled to one vote with regard to the promulgation of rules and 
+26 creation of bylaws and must otherwise have an opportunity to participate in the 
+27 business and affairs of the commission.
+28 F.  A delegate shall vote in person or by such other means as provided in the bylaws.  
+29 The bylaws may provide for delegates' participation in meetings by telephone or other 
+30 means of communication.
+31 G.  The commission shall meet at least once during each calendar year.  Additional 
+32 meetings must be held as set forth in the bylaws.
+33 H.  The commission shall by rule establish a term of office for delegates and may by 
+34 rule establish term limits.
+353.  Powers and duties.  The commission has the following powers and duties:
+36 A.  Establish the fiscal year of the commission;
+37 B.  Establish bylaws;
+38 C.  Maintain its financial records in accordance with the bylaws;
+Page 10 - 130LR2233(01)1 D.  Meet and take such actions as are consistent with the provisions of this compact 
+2 and the bylaws;
+3 E.  Promulgate rules that are binding to the extent and in the manner provided for in 
+4 the compact;
+5 F.  Bring and prosecute legal proceedings or actions in the name of the commission, as 
+6 long as the standing of any state licensing board to sue or be sued under applicable law 
+7 is not affected;
+8 G.  Purchase and maintain insurance and bonds;
+9 H.  Borrow, accept or contract for services of personnel, including, but not limited to, 
+10 employees of a member state;
+11 I.  Hire employees, elect or appoint officers, fix compensation, define duties and grant 
+12 such individuals appropriate authority to carry out the purposes of the compact and 
+13 establish the commission's personnel policies and programs relating to conflicts of 
+14 interest, qualifications of personnel and other related personnel matters;
+15 J.  Accept appropriate donations and grants of money, equipment, supplies, materials 
+16 and services and receive, utilize and dispose of the same, as long as at all times the 
+17 commission avoids any appearance of impropriety or conflict of interest;
+18 K.  Lease, purchase, accept appropriate gifts or donations of or otherwise own, hold, 
+19 improve or use any property, real, personal or mixed, as long as at all times the 
+20 commission avoids any appearance of impropriety;  
+21 L.  Sell, convey, mortgage, pledge, lease, exchange, abandon or otherwise dispose of 
+22 any property, real, personal or mixed;  
+23 M.  Establish a budget and make expenditures;  
+24 N.  Borrow money;  
+25 O.  Appoint committees, including standing committees composed of members, state 
+26 regulators, state legislators or their representatives and consumer representatives and 
+27 such other interested persons as may be designated in this compact and the bylaws;  
+28 P.  Provide and receive information from, and cooperate with, law enforcement 
+29 agencies;  
+30 Q.  Establish and elect an executive committee; and  
+31 R.  Perform such other functions as may be necessary or appropriate to achieve the 
+32 purposes of this compact consistent with the state regulation of professional counseling 
+33 licensure and practice. 
+344.  Executive committee.  The establishment of an executive committee is governed 
+35 by this subsection. 
+36 A.  The executive committee has the power to act on behalf of the commission 
+37 according to the terms of this compact.  
+38 B.  The executive committee is composed of up to 11 members: 
+39 (1)  Seven voting members who are elected by the commission from the current 
+40 membership of the commission; and
+Page 11 - 130LR2233(01)1 (2)  Up to 4 ex officio, nonvoting members from 4 recognized national professional 
+2 counselor organizations.
+3 The ex officio members must be selected by their respective organizations.
+4 C.  The commission may remove any member of the executive committee as provided 
+5 in bylaws.
+6 D.  The executive committee shall meet at least annually.
+7 E.  The executive committee has the following duties and responsibilities:
+8 (1)  Recommend to the entire commission changes to the rules or bylaws, changes 
+9 to this compact legislation, fees paid by compact member states such as annual 
+10 dues and any commission compact fee charged to licensees for the privilege to 
+11 practice;
+12 (2)  Ensure compact administration services are appropriately provided, 
+13 contractual or otherwise;
+14 (3)  Prepare and recommend the budget;
+15 (4)  Maintain financial records on behalf of the commission;
+16 (5)  Monitor compact compliance of member states and provide compliance reports 
+17 to the commission;
+18 (6)  Establish additional committees as necessary; and
+19 (7)  Other duties as provided in rules or bylaws.
+205.  Meetings of the commission.  Meetings of the commission are governed by this 
+21 subsection. 
+22 A.  All meetings must be open to the public, and public notice of meetings must be 
+23 given in the same manner as required under the rule-making provisions in section 
+24 18562.
+25 B.  The commission or the executive committee or other committees of the commission 
+26 may convene in a closed, nonpublic meeting if the commission or executive committee 
+27 or other committees of the commission must discuss:
+28 (1)  Noncompliance of a member state with its obligations under the compact;
+29 (2)  The employment, compensation, discipline or other matters, practices or 
+30 procedures related to specific employees or other matters related to the 
+31 commission's internal personnel practices and procedures;
+32 (3)  Current, threatened or reasonably anticipated litigation;
+33 (4)  Negotiation of contracts for the purchase, lease or sale of goods, services or 
+34 real estate;
+35 (5)  Accusing any person of a crime or formally censuring any person;
+36 (6)  Disclosure of trade secrets or commercial or financial information that is 
+37 privileged or confidential;
+38 (7)  Disclosure of information of a personal nature where disclosure would 
+39 constitute a clearly unwarranted invasion of personal privacy;
+Page 12 - 130LR2233(01)1 (8)  Disclosure of investigative records compiled for law enforcement purposes;
+2 (9)  Disclosure of information related to any investigative reports prepared by or 
+3 on behalf of or for use of the commission or other committee charged with 
+4 responsibility of investigation or determination of compliance issues pursuant to 
+5 the compact; or
+6 (10)  Matters specifically exempted from disclosure by federal or member state 
+7 statute.
+8 C.  If a meeting, or portion of a meeting, is closed pursuant to paragraph B, the 
+9 commission's legal counsel or designee shall certify that the meeting may be closed 
+10 and shall reference each relevant exempting provision.
+11 D.  The commission shall keep minutes that fully and clearly describe all matters 
+12 discussed in a meeting and shall provide a full and accurate summary of actions taken, 
+13 and the reasons therefor, including a description of the views expressed.  All documents 
+14 considered in connection with an action must be identified in the minutes. All minutes 
+15 and documents of a closed meeting must remain under seal, subject to release by a 
+16 majority vote of the commission or order of a court of competent jurisdiction.
+176. Financing of the commission.  Financing of the commission is governed by this 
+18 subsection. 
+19 A.  The commission shall pay, or provide for the payment of, the reasonable expenses 
+20 of its establishment, organization and ongoing activities.
+21 B.  The commission may accept any appropriate revenue sources, donations and grants 
+22 of money, equipment, supplies, materials and services.
+23 C.  The commission may levy on and collect an annual assessment from each member 
+24 state or impose fees on other parties to cover the cost of the operations and activities 
+25 of the commission and its staff, which must be in a total amount sufficient to cover its 
+26 annual budget as approved each year for which revenue is not provided by other 
+27 sources.  The aggregate annual assessment amount must be allocated based upon a 
+28 formula to be determined by the commission, which shall promulgate a rule binding 
+29 upon all member states.
+30 D.  The commission may not incur obligations of any kind prior to securing the funds 
+31 adequate to meet the same, and the commission may not pledge the credit of any of the 
+32 member states, except by and with the authority of the member state.
+33 E.  The commission shall keep accurate accounts of all receipts and disbursements.  
+34 The receipts and disbursements of the commission are subject to the audit and 
+35 accounting procedures established under its bylaws; however, all receipts and 
+36 disbursements of funds handled by the commission must be audited yearly by a 
+37 certified or licensed public accountant, and the report of the audit must be included in 
+38 and become part of the annual report of the commission.
+397.  Qualified immunity, defense and indemnification.  Qualified immunity, defense 
+40 and indemnification are governed by this subsection. 
+41 A.  The members, officers, executive director, employees and representatives of the 
+42 commission are immune from suit and liability, either personally or in their official 
+43 capacity, for any claim for damage to or loss of property or personal injury or other 
+Page 13 - 130LR2233(01)44 civil liability caused by or arising out of any actual or alleged act, error or omission 
+45 that occurred, or that the person against whom the claim is made had a reasonable basis 
+46 for believing occurred, within the scope of commission employment, duties or 
+47 responsibilities, except that nothing in this paragraph may be construed to protect any 
+48 such person from suit or liability for any damage, loss, injury or liability caused by the 
+49 intentional or willful or wanton misconduct of that person.
+7 B.  The commission shall defend any member, officer, executive director, employee or 
+8 representative of the commission in any civil action seeking to impose liability arising 
+9 out of any actual or alleged act, error or omission that occurred within the scope of 
+10 commission employment, duties or responsibilities, or that the person against whom 
+11 the claim is made had a reasonable basis for believing occurred within the scope of 
+12 commission employment, duties or responsibilities, except that nothing in this 
+13 paragraph may be construed to prohibit that person from retaining that person's own 
+14 counsel, and as long as the actual or alleged act, error or omission did not result from 
+15 that person's intentional or willful or wanton misconduct.
+16 C.  The commission shall indemnify and hold harmless any member, officer, executive 
+17 director, employee or representative of the commission for the amount of any 
+18 settlement or judgment obtained against that person arising out of any actual or alleged 
+19 act, error or omission that occurred within the scope of commission employment, duties 
+20 or responsibilities, or that such person had a reasonable basis for believing occurred 
+21 within the scope of commission employment, duties or responsibilities, as long as the 
+22 actual or alleged act, error or omission did not result from the intentional or willful or 
+23 wanton misconduct of that person.
+24§18561.  Data system
+251.  Database and reporting system.  The commission shall provide for the 
+26 development, maintenance, operation and utilization of a coordinated database and 
+27 reporting system containing licensure, adverse action and investigative information on all 
+28 licensed individuals in member states.
+292.  Uniform data set submission.  Notwithstanding any other provision of state law to 
+30 the contrary, a member state shall submit a uniform data set to the data system on all 
+31 individuals to whom this compact is applicable as required by the rules of the commission, 
+32 including:
+33 A.  Identifying information;
+34 B.  Licensure data;
+35 C.  Adverse actions against a license or privilege to practice;
+36 D.  Nonconfidential information related to alternative program participation;
+37 E.  Any denial of application for licensure and the reasons for that denial;
+38 F.  Current significant investigative information; and
+39 G.  Other information that may facilitate the administration of this compact, as 
+40 determined by the rules of the commission.
+413.  Investigative information availability.  Investigative information pertaining to a 
+42 licensee in any member state may be made available only to other member states.1
+2
+3
+4
+5
+6
+Page 14 - 130LR2233(01)14.  Adverse action information.  The commission shall promptly notify all member 
+2 states of any adverse action taken against a licensee or an individual applying for a license. 
+3 Adverse action information pertaining to a licensee in any member state must be available 
+4 to any other member state.
+55.  Confidential information.  Member states contributing information to the data 
+6 system may designate information that may not be shared with the public without the 
+7 express permission of the contributing state.
+86.  Information expungement.  Any information submitted to the data system that is 
+9 subsequently required to be expunged by the laws of the member state contributing the 
+10 information must be removed from the data system.
+11§18562.  Rulemaking
+121.  Promulgation.  The commission shall promulgate reasonable rules in order to 
+13 effectively and efficiently achieve the purpose of the compact.  Notwithstanding the 
+14 foregoing, in the event the commission exercises its rule-making authority in a manner that 
+15 is beyond the scope of the purposes of the compact, or the powers granted hereunder, then 
+16 such an action by the commission is invalid and has no force or effect.
+172.  Powers.  The commission shall exercise its rule-making powers pursuant to the 
+18 criteria set forth in this section and the rules adopted thereunder.  Rules and amendments 
+19 become binding as of the date specified in each rule or amendment.
+203.  Rule rejection.  If a majority of the legislatures of the member states rejects a rule, 
+21 by enactment of a statute or resolution in the same manner used to adopt the compact within 
+22 4 years of the date of adoption of the rule, then that rule has no further force and effect in 
+23 any member state.
+244.  Rule adoption procedure.  Rules or amendments to the rules must be adopted at a 
+25 regular or special meeting of the commission.
+265.  Notice.  Prior to promulgation and adoption of a final rule or rules by the 
+27 commission, and at least 30 days in advance of the meeting at which the rule will be 
+28 considered and voted upon, the commission shall file a notice of proposed rulemaking:
+29 A.  On the website of the commission or other publicly accessible platform; and
+30 B.  On the website of each member state professional counseling licensing board or 
+31 other publicly accessible platform or the publication in which each state would 
+32 otherwise publish proposed rules.
+336.  Notice requirements.  The notice of proposed rulemaking must include:
+34 A.  The proposed time, date and location of the meeting in which the rule will be 
+35 considered and voted upon;
+36 B.  The text of the proposed rule or amendment and the reason for the proposed rule;
+37 C.  A request for comments on the proposed rule from any interested person; and
+38 D.  The manner in which interested persons may submit notice to the commission of 
+39 their intention to attend the public hearing and any written comments.
+Page 15 - 130LR2233(01)17.  Public comment.  Prior to adoption of a proposed rule, the commission shall allow 
+2 persons to submit written data, facts, opinions and arguments, which must be made 
+3 available to the public.
+48.  Public hearing.  The commission shall grant an opportunity for a public hearing 
+5 before it adopts a rule or amendment if a hearing is requested by:
+6 A.  At least 25 persons;
+7 B.  A state or federal governmental subdivision or agency; or
+8 C.  An association having at least 25 members.
+99.  Hearing notice.  If a hearing is held on the proposed rule or amendment, the 
+10 commission shall publish the place, time and date of the scheduled public hearing.  If the 
+11 hearing is held via electronic means, the commission shall publish the mechanism for 
+12 access to the electronic hearing.
+13 A.  All persons wishing to be heard at the hearing must notify the executive director of 
+14 the commission or other designated member in writing of their desire to appear and 
+15 testify at the hearing not less than 5 business days before the scheduled date of the 
+16 hearing.
+17 B.  Hearings must be conducted in a manner providing each person who wishes to 
+18 comment a fair and reasonable opportunity to comment orally or in writing.
+19 C.  All hearings must be recorded.  A copy of the recording must be made available on 
+20 request.
+21 D.  Nothing in this section may be construed as requiring a separate hearing on each 
+22 rule.  Rules may be grouped for the convenience of the commission at hearings required 
+23 by this section.
+2410.  Consideration.  Following the scheduled hearing date, or by the close of business 
+25 on the scheduled hearing date if the hearing was not held, the commission shall consider 
+26 all written and oral comments received.
+2711.  Proceeding without public hearing.  If no written notice of intent to attend the 
+28 public hearing by interested parties is received, the commission may proceed with 
+29 promulgation of the proposed rule without a public hearing.
+3012.  Final action.  The commission shall, by majority vote of all members, take final 
+31 action on the proposed rule and shall determine the effective date of the rule, if any, based 
+32 on the rule-making record and the full text of the rule.
+3313.  Emergency rulemaking.  Upon determination that an emergency exists, the 
+34 commission may consider and adopt an emergency rule without prior notice, opportunity 
+35 for comment or hearing, as long as the usual rule-making procedures provided in the 
+36 compact and in this section are retroactively applied to the rule as soon as reasonably 
+37 possible, in no event later than 90 days after the effective date of the rule.  For the purposes 
+38 of this subsection, "emergency rule" means a rule that must be adopted immediately in 
+39 order to:
+40 A.  Meet an imminent threat to public health, safety or welfare;
+41 B.  Prevent a loss of commission or member state funds;
+Page 16 - 130LR2233(01)1 C.  Meet a deadline for the promulgation of an administrative rule that is established 
+2 by federal law or rule; or
+3 D.  Protect public health and safety.
+414.  Rule revisions.  The commission or an authorized committee of the commission 
+5 may direct revisions to a previously adopted rule or amendment for purposes of correcting 
+6 typographical errors, errors in format, errors in consistency or grammatical errors.  Public 
+7 notice of any revisions must be posted on the website of the commission.  The revision is 
+8 subject to challenge by any person for a period of 30 days after posting.  The revision may 
+9 be challenged only on grounds that the revision results in a material change to a rule.  A 
+10 challenge must be made in writing and delivered to the chair of the commission prior to the 
+11 end of the notice period.  If no challenge is made, the revision takes effect without further 
+12 action.  If the revision is challenged, the revision may not take effect without the approval 
+13 of the commission.
+14§18563.  Oversight, dispute resolution and enforcement
+151.  Oversight.  Oversight of the compact is governed by this subsection. 
+16 A.  The executive, legislative and judicial branches of state government in each 
+17 member state shall enforce this compact and take all actions necessary and appropriate 
+18 to effectuate the compact's purposes and intent.  The provisions of this compact and 
+19 the rules promulgated hereunder have standing as statutory law.
+20 B.  All courts shall take judicial notice of the compact and the rules in any judicial or 
+21 administrative proceeding in a member state pertaining to the subject matter of this 
+22 compact that may affect the powers, responsibilities or actions of the commission.
+23 C.  The commission is entitled to receive service of process in any proceeding under 
+24 paragraph B and has standing to intervene in such a proceeding for all purposes.  
+25 Failure to provide service of process to the commission renders a judgment or order 
+26 void as to the commission, this compact or promulgated rules.
+272.  Default and technical assistance.  Default and technical assistance are governed 
+28 by this subsection. 
+29 A.  If the commission determines that a member state has defaulted in the performance 
+30 of its obligations or responsibilities under this compact or the promulgated rules, the 
+31 commission shall:
+32 (1)  Provide written notice to the defaulting state and other member states of the 
+33 nature of the default, the proposed means of curing the default and any other action 
+34 to be taken by the commission; and
+35 (2)  Provide remedial training and specific technical assistance regarding the 
+36 default.
+373.  Termination from compact.  If a state in default fails to cure the default, the 
+38 defaulting state may be terminated from the compact upon an affirmative vote of a majority 
+39 of the member states, and all rights, privileges and benefits conferred by this compact may 
+40 be terminated on the effective date of termination.  A cure of the default does not relieve 
+41 the offending state of obligations or liabilities incurred during the period of default.
+Page 17 - 130LR2233(01)14.  Termination regulation.  Termination of membership in the compact may be 
+2 imposed only after all other means of securing compliance have been exhausted.  Notice 
+3 of intent to suspend or terminate must be given by the commission to the governor, the 
+4 majority and minority leaders of the defaulting state's legislature and each of the member 
+5 states.
+65.  Responsibilities after termination.  A state that has been terminated is responsible 
+7 for all assessments, obligations and liabilities incurred through the effective date of 
+8 termination, including obligations that extend beyond the effective date of termination.
+96.  Costs.  The commission may not bear any costs related to a state that is found to be 
+10 in default or that has been terminated from the compact, unless agreed upon in writing 
+11 between the commission and the defaulting state.
+127.  Appeal.  The defaulting state may appeal the action of the commission by 
+13 petitioning the United States District Court for the District of Columbia or the federal 
+14 district where the commission has its principal offices. The prevailing member must be 
+15 awarded all costs of that litigation, including reasonable attorney's fees.
+168.  Dispute resolution.  Dispute resolution is governed by this subsection. 
+17 A.  Upon request by a member state, the commission shall attempt to resolve disputes 
+18 related to the compact that arise among member states and between member and 
+19 nonmember states.
+20 B.  The commission shall promulgate a rule providing for both mediation and binding 
+21 dispute resolution for disputes as appropriate.
+229.  Enforcement.  Enforcement of the compact is governed by this subsection. 
+23 A.  The commission, in the reasonable exercise of its discretion, shall enforce the 
+24 provisions and rules of this compact.
+25 B.  By majority vote, the commission may initiate legal action in the United States 
+26 District Court for the District of Columbia or the federal district where the commission 
+27 has its principal offices against a member state in default to enforce compliance with 
+28 the provisions of the compact and its promulgated rules and bylaws.  The relief sought 
+29 may include both injunctive relief and damages.  In the event judicial enforcement is 
+30 necessary, the prevailing member must be awarded all costs of that litigation, including 
+31 reasonable attorney's fees.
+32 C.  The remedies under this subsection are not the exclusive remedies of the 
+33 commission.  The commission may pursue any other remedies available under federal 
+34 or state law.
+35§18564.  Date of implementation of counseling compact; commission and associated 
+36rules, withdrawal and amendment
+371.  Effective date.  The compact takes effect on the date on which the compact statute 
+38 is enacted into law in the 10th member state.  The provisions of the compact that become 
+39 effective at that time are limited to the powers granted to the commission relating to 
+40 assembly and the promulgation of rules.  After the effective date of the compact, the 
+41 commission shall meet and exercise rule-making powers necessary to the implementation 
+42 and administration of the compact.
+Page 18 - 130LR2233(01)12.  Subsequent member states.  Any state that joins the compact subsequent to the 
+2 commission's initial adoption of the rules is subject to the rules as they exist on the date on 
+3 which the compact becomes law in that state.  Any rule that has been previously adopted 
+4 by the commission has the full force and effect of law on the day the compact becomes law 
+5 in that state.
+63.  Withdrawal.  Any member state may withdraw from this compact by enacting a 
+7 statute repealing the same.
+8 A.  A member state's withdrawal does not take effect until 6 months after enactment of 
+9 the repealing statute.
+10 B.  Withdrawal does not affect the continuing requirement of the withdrawing state's 
+11 professional counseling licensing board to comply with the investigative and adverse 
+12 action reporting requirements of this chapter prior to the effective date of withdrawal.
+134.  Other agreements or arrangements.  Nothing contained in this compact may be 
+14 construed to invalidate or prevent any professional counseling licensure agreement or other 
+15 cooperative arrangement between a member state and a nonmember state that does not 
+16 conflict with the provisions of this compact.
+175.  Amendment.  This compact may be amended by the member states.  An amendment 
+18 to this compact does not become effective and binding upon any member state until it is 
+19 enacted into the laws of all member states.
+20§18565.  Construction and severability
+21 This compact may be liberally construed so as to effectuate the purposes thereof.  The 
+22 provisions of this compact must be severable and if any phrase, clause, sentence or 
+23 provision of this compact is declared to be contrary to the constitution of any member state 
+24 or of the United States or the applicability thereof to any government, agency, person or 
+25 circumstance is held invalid, the validity of the remainder of this compact and the 
+26 applicability thereof to any government, agency, person or circumstance is not affected 
+27 thereby.  If this compact is held contrary to the constitution of any member state, the 
+28 compact remains in full force and effect as to the remaining member states and in full force 
+29 and effect as to the member state affected as to all severable matters.
+30§18566.  Binding effect of compact and other laws
+311.  Adherence.  A licensee providing professional counseling services in a remote state 
+32 under the privilege to practice shall adhere to the laws and regulations, including scope of 
+33 practice, of the remote state.
+342.  Enforcement.  Nothing in this chapter prevents the enforcement of any other law 
+35 of a member state that is not inconsistent with the compact.
+363.  Conflict.  Any laws in a member state in conflict with the compact are superseded 
+37 to the extent of the conflict.
+384.  Binding actions.  Any lawful actions of the commission, including all rules and 
+39 bylaws properly promulgated by the commission, are binding upon the member states.
+405.  Binding agreements.  All permissible agreements between the commission and the 
+41 member states are binding in accordance with their terms.
+Page 19 - 130LR2233(01)16.  Constitutional limits.  In the event any provision of the compact exceeds the 
+2 constitutional limits imposed on the legislature of any member state, the provision is 
+3 ineffective to the extent of the conflict with the constitutional provision in question in that 
+4 member state.
+5§18567.  Legislative intent
+6 This compact is the Maine enactment of the Interstate Counseling Compact.  The form, 
+7 format and text of the compact have been changed minimally so as to conform to Maine 
+8 statutory conventions.  The changes are technical in nature and it is the intent of the 
+9 Legislature that this compact be interpreted as substantively the same as the Interstate 
+10 Counseling Compact that is enacted by other member states.
+11SUMMARY
+12 This bill enacts the Interstate Counseling Compact, which provides a mechanism to 
+13 facilitate interstate practice of licensed professional counselors in order to improve public 
+14 access to professional counseling services.
+15 The form, format and text of the Interstate Counseling Compact have been changed 
+16 minimally so as to conform to Maine statutory conventions. The changes are technical in 
+17 nature and it is the intent of the Legislature that this compact be interpreted as substantively 
+18 the same as the Interstate Counseling Compact that is enacted by other member states.12
+13
+14

@@ -1,0 +1,156 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -874) (LD 2037 2020)  
+Date: 9/9/2020
+
+Page 1 - 129LR3142(02)-1
+COMMITTEE AMENDMENT1L.D. 2037
+2
+3CRIMINAL JUSTICE AND PUBLIC SAFETY
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1447, L.D. 2037, Bill, “An Act To 
+10Amend the Maine Criminal Code”
+11Amend the bill by striking out all of Part A and inserting the following:
+12'PART A
+13Sec. A-1.  17-A MRSA §755, sub-§1-E, as amended by PL 2019, c. 113, Pt. C, 
+14§62, is further amended to read:
+151-E.   A person is guilty of escape from the community confinement monitoring 
+16program granted pursuant to Title 30-A, section 1659-A if without official permission the 
+17person intentionally:
+18A.  Leaves or fails to return within 12 hours to that person's residence or other 
+19designated area in which that person is monitored.  Violation of this paragraph is a 
+20Class C crime; or
+21B.  Violates paragraph A and at the time of the escape the person uses physical force 
+22against another person, threatens to use physical force or is armed with a dangerous 
+23weapon.  Violation of this paragraph is a Class B crime.
+24A sentence imposed for a violation of this section is subject to the requirements of section 
+251609 1609-A.
+26Sec. A-2.  17-A MRSA §1609, as enacted by PL 2019, c. 113, Pt. A, §2, is 
+27repealed.
+28Sec. A-3.  17-A MRSA §1609-A is enacted to read:
+29§1609-A.  Discretionary sentence
+30Notwithstanding section 1608, when an individual subject to an undischarged term of 
+31imprisonment is convicted of a crime committed while in execution of any term of 
+32imprisonment, is convicted of a crime committed during a stay of execution of any term Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1447, L.D. 2037
+Page 2 - 129LR3142(02)-1
+COMMITTEE AMENDMENT1of imprisonment, is convicted of a crime committed after failure to report after a stay of 
+2execution of any term of imprisonment or is convicted of failure to report as ordered after 
+3a stay of execution of any term of imprisonment, the court may order that the sentence is 
+4not concurrent with any undischarged term of imprisonment. If the court orders that the 
+5sentence is not concurrent, the court may order that any undischarged term of 
+6imprisonment be tolled and service of the nonconcurrent sentence commence 
+7immediately, and the court shall so order if any undischarged term of imprisonment is a 
+8split sentence. No portion of the nonconcurrent sentence may be suspended. Any 
+9nonconcurrent sentence that the convicted individual receives as a result of an order 
+10entered pursuant to this section must be nonconcurrent with all other sentences.' 
+11Amend the bill in Part C by striking out all of sections 2 to 4 and inserting the 
+12following:
+13'Sec. C-2.  34-A MRSA §11273, sub-§16, ¶C, as enacted by PL 2011, c. 663, 
+14§3, is amended to read:
+15C.  Title 17-A, section 301, subsection 1, paragraph A, subparagraph (3) if the crime 
+16is committed prior to January 1, 2021;
+17Sec. C-3.  34-A MRSA §11273, sub-§16, ¶C-1 is enacted to read:
+18C-1.  Title 17-A, section 301, subsection 1, paragraph A, subparagraph (3-A) if the 
+19crime is committed on or after January 1, 2021;
+20Sec. C-4.  37-B MRSA §504, sub-§4, ¶H, as enacted by PL 2015, c. 175, §1, is 
+21amended by amending subparagraph (3) to read:
+22(3)  Been convicted of a Class A or Class B crime under:
+23(a)  Title 17-A, chapter 11;
+24(b)  Title 17-A, chapter 12; or
+25(c)  Title 17-A, section 301, subsection 1, paragraph A, subparagraph (3) if 
+26the crime is committed prior to January 1, 2021; or
+27(d) Title 17-A, section 301, subsection 1, paragraph A, subparagraph (3-A) if 
+28the crime is committed on or after January 1, 2021;' 
+29Amend the bill by inserting after Part D the following:
+30'PART E
+31Sec. E-1.  17-A MRSA §257, as amended by PL 2007, c. 476, §3, is repealed.
+32PART F
+33Sec. F-1.  25 MRSA §1509-B is enacted to read:
+COMMITTEE AMENDMENT “      ” to H.P. 1447, L.D. 2037
+Page 3 - 129LR3142(02)-1
+COMMITTEE AMENDMENT1§1509-B.  Annual reporting required
+2The Maine Information and Analysis Center, a program that is a cooperative effort 
+3between the Maine Emergency Management Agency and the State Police, established 
+4originally by executive order of Governor John E. Baldacci as the Maine Intelligence and 
+5Information Center in 2006, and referred to in this section as "the center," shall report 
+6annually in writing by February 1st each year beginning February 1, 2021, to the joint 
+7standing committee of the Legislature having jurisdiction over criminal justice and public 
+8safety matters regarding the performance of the center.  The reports must include a 
+9narrative of the types of cases, crimes, incidents and reports the center has reviewed and 
+10evaluated in a manner that protects personal privacy and the integrity of the work of the 
+11center.  The reports must include both privacy audits performed in the prior year and de-
+12identified information regarding the cases, crimes, incidents and reports on which the 
+13center worked during the prior year.' 
+14Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+15section number to read consecutively.
+16SUMMARY
+17This amendment is the majority report of the committee.
+18The amendment amends Part A of the bill to repeal the Maine Revised Statutes, Title 
+1917-A, section 1609, which requires a sentence to be nonconcurrent if it is imposed for a 
+20crime committed or attempted to be committed while the person is serving a sentence.  
+21The amendment enacts Title 17-A, section 1609-A, which grants to the court discretion to 
+22impose a sentence that is nonconcurrent if it is imposed for a crime committed or 
+23attempted to be committed while the person is serving a sentence or while a stay of 
+24execution of a sentence has been imposed.
+25The amendment removes from the bill a proposed amendment to the Sex Offender 
+26Registration and Notification Act of 1999 that was included in the bill in error.  The 
+27amendment separates 2 variants of kidnapping under Title 17-A, section 301, subsection 
+281, paragraph A, subparagraph (3).  The amendment clarifies that the amendments to the 
+29Sex Offender Registration and Notification Act of 2013 apply to a crime committed prior 
+30to January 1, 2021, if the offense is knowingly restraining another person with the intent 
+31to inflict bodily injury, and apply to a crime committed on or after January 1, 2021, if the 
+32crime is conduct defined as criminal in Title 17-A, chapter 11. 
+33The amendment repeals a section of law in Title 17-A, chapter 11 on factors aiding in 
+34predicting high-risk sex offenders for sentencing purposes, leaving individual risk 
+35assessment at sentencing to the judgment of the court.
+36This amendment adds Part F to the bill, requiring annual written reports from the 
+37Maine Information and Analysis Center by February 1st each year beginning February 1, 
+382021, to the joint standing committee of the Legislature having jurisdiction over criminal 
+39justice and public safety matters regarding the performance of the center.  The reports 
+40must include a narrative of the types of cases, crimes, incidents and reports the center has 
+41reviewed and evaluated in a manner that protects personal privacy and the integrity of the 
+42work of the center.  The reports must include both privacy audits performed in the prior 
+COMMITTEE AMENDMENT “      ” to H.P. 1447, L.D. 2037
+Page 4 - 129LR3142(02)-1
+COMMITTEE AMENDMENT1year and de-identified information regarding the cases, crimes, incidents and reports on 
+2which the center worked during the prior year.
+Approved: 08/03/20
+LD 2 037 LR 3142 (02)
+Fiscal Detail and NotesMinor cost increase - General Fund
+Additional costs to the Department of Public Safety to cr eate an annual report can be ab sorbed within existing budget 
+resources.129th MAINE LEGISLATURE
+An Act To Amend the Maine Criminal Code
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Criminal Justice and Public Safet y
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR3142(02) - Fiscal Note - Page 1 of 1

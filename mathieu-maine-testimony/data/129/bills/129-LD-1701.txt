@@ -1,0 +1,419 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1701
+H.P. 1216 House of  Representatives, May 8, 2019
+An Act  To Clarify Various  Provisions of the Maine Human  Rights 
+Act
+Submitted by the Maine Human Rights  Commission pursuant to  Joint  Rule 204.
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BAILEY of  Saco.
+
+Page 1 - 129LR2281(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §4553, as amended by PL 2015, c. 457, §§1 and 2, is further 
+3amended to read:
+4§4553.  Definitions
+5As used in this Act, unless the context or subchapter otherwise indicates, the 
+6following words have the following meanings.
+71.  Commission.  "Commission" means the Maine Human Rights Commission 
+8established by this Act. 
+91-A.  Commercial facilities.  "Commercial facilities" means facilities that are 
+10intended for nonresidential use.
+111-B.  Covered entity.  For purposes of subchapter III 3, "covered entity" means an 
+12employer, employment agency, labor organization or joint labor-management committee.  
+13For purposes of subchapter V 5, "covered entity" means any applicable private entity or 
+14public entity.
+151-C.  Direct threat.  For purposes of subchapter III 3, "direct threat" means a 
+16significant risk to the health or safety of others that can not be eliminated by reasonable 
+17accommodation.
+181-D.  Aggrieved person.  "Aggrieved person" includes any person who claims to 
+19have been subject to unlawful discrimination on the basis of protected class status, 
+20including discrimination based on the person's known relationship or association with a 
+21member of a protected class and discrimination on the basis of perceived protected class 
+22status.  "Aggrieved person" also includes any person who claims to have been injured by 
+23unlawful housing discrimination.
+241-E.  Complainant.  "Complainant" means a person who files a complaint under 
+25section 4611 or a civil action under section 4621.
+261-F.  Conciliation.  "Conciliation" means the attempted resolution after a finding by 
+27the commission that unlawful discrimination has occurred of issues raised by a complaint 
+28filed under section 4611 or by an investigation of such a complaint through informal 
+29negotiations involving the complainant, the respondent and the commission.
+301-G.  Conciliation agreement.  "Conciliation agreement" means a written agreement 
+31setting forth the resolution of the issues in conciliation.
+321-H.  Assistance animal.  "Assistance animal" means, for the purposes of subchapter 
+334:
+34A.  An animal that has been determined necessary for an individual with a physical or 
+35mental disability to mitigate the effects of a physical or mental disability by a 
+36physician, psychologist, physician assistant, nurse practitioner or, licensed social 
+Page 2 - 129LR2281(01)-11worker, licensed professional counselor or other licensed health professional with 
+2knowledge of the disability-related need for an assistance animal; or
+3B.  An animal individually trained to do work or perform tasks for the benefit of an 
+4individual with a physical or mental disability, including, but not limited to, guiding 
+5individuals with impaired vision, alerting individuals who are deaf or hard of hearing 
+6to intruders or sounds, providing reasonable protection or rescue work, pulling a 
+7wheelchair or retrieving dropped items.
+82.  Discriminate.  "Discriminate" includes, without limitation, segregate or, separate 
+9or subject to harassment.
+10For purposes of subchapter III 3, "discriminate" also includes, as it relates to individuals 
+11with physical or mental disability:
+12A.  Limiting, segregating or classifying a job applicant or employee in a way that 
+13adversely affects the opportunities or status of the applicant or employee because of 
+14the disability protected class of the applicant or employee;
+15B.  Participating in a contractual or other arrangement or relationship that has the 
+16effect of subjecting a covered entity's qualified applicant or employee with a 
+17disability to the discrimination prohibited by this Act.  A relationship includes a 
+18relationship with an employment or referral agency, labor union, an organization 
+19providing fringe benefits to an employee of the covered entity or an organization 
+20providing training and apprenticeship programs;
+21C.  Utilizing standards, criteria or methods of administration:
+22(1)  That have the effect of discrimination on the basis of disability protected 
+23class status; or
+24(2)  That perpetuate the discrimination of on the basis of protected class status by 
+25others who are subject to common administrative control;
+26D.  Excluding or otherwise denying equal jobs or benefits to a qualified individual 
+27because of the known disability protected class status of an individual with whom the 
+28qualified individual is known to have a relationship or association;
+29E.  Not making reasonable accommodations to the known physical or mental 
+30limitations of an otherwise qualified individual with a disability who is an applicant 
+31or employee, unless the covered entity can demonstrate that the accommodation 
+32would impose an undue hardship on the operation of the business of the covered 
+33entity;
+34F.  Denying employment opportunities to a job applicant or employee who is an 
+35otherwise qualified individual with a disability, if the denial is based on the need of 
+36the covered entity to make reasonable accommodation to the physical or mental 
+37impairments of the employee or applicant;
+38G.  Using qualification standards, employment tests or other selection criteria that 
+39screen out or tend to screen out an individual with a disability or a class of 
+40individuals with disabilities based on their protected class status unless the standard, 
+41test or other selection criteria, as used by the covered entity, is shown to be job-
+42related for the position in question and is consistent with business necessity; and
+Page 3 - 129LR2281(01)-11H.  Failing to select and administer tests concerning employment in the most 
+2effective manner to ensure that, when the test is administered to a job applicant or 
+3employee who has a disability that impairs sensory, manual or speaking skills, the 
+4test results accurately reflect the skills, aptitude or any other factor of the applicant or 
+5employee that the test purports to measure, rather than reflecting the impaired 
+6sensory, manual or speaking skills of the employee or applicant, except when the 
+7skills are the factors that the test purports to measure.
+82-A.  Educational institution.  "Educational institution" means any public school or 
+9educational program, any public post-secondary institution, any private school or 
+10educational program approved for tuition purposes if both male and female students are 
+11admitted and the governing body of each such school or program.  For purposes related to 
+12disability-related discrimination, "educational institution" also means any private school 
+13or educational program approved for tuition purposes.
+143.  Employee.  "Employee" means an individual employed by an employer.  
+15"Employee" does not include any individual employed by that individual's parents, 
+16spouse or child, except for purposes of disability-related discrimination, in which case the 
+17individual is considered to be an employee.
+184.  Employer.  "Employer" includes any person in this State employing any number 
+19of employees, whatever the place of employment of the employees, and any person 
+20outside this State employing any number of employees whose usual place of employment 
+21is in this State; any person acting in the interest of any employer, directly or indirectly, 
+22such that the person's actions are considered the actions of the employer for purposes of 
+23liability; and labor organizations, whether or not organized on a religious, fraternal or 
+24sectarian basis, with respect to their employment of employees.  "Employer" does not 
+25include a religious or fraternal corporation or association, not organized for private profit 
+26and in fact not conducted for private profit, with respect to employment of its members of 
+27the same religion, sect or fraternity, except for purposes of disability-related 
+28discrimination, in which case the corporation or association is considered to be an 
+29employer. 
+305.  Employment agency.  "Employment agency" includes any person undertaking 
+31with or without compensation to procure opportunities to work, or to procure, recruit, 
+32refer or place employees; it includes, without limitation, placement services, training 
+33schools and centers, and labor organizations, to the extent that they act as employee 
+34referral sources; and it includes any agent of such person acting in the interest of the 
+35person such that the agent's actions are considered the actions of the employment agency 
+36for purposes of liability.
+375-A.  Familial status.  "Familial status" means that a family unit may contain one or 
+38more individuals who have not attained the age of 18 years of age and are living with:
+39A.  A parent or another person having legal custody of the individual or individuals; 
+40or
+41B.  The designee of the parent or other person having custody, with the written 
+42permission of the parent or other person.
+Page 4 - 129LR2281(01)-11The protections afforded against discrimination on the basis of familial status shall apply 
+2to any person who is pregnant or who is in the process of securing legal custody of any 
+3individual who has not attained the age of 18 years of age.
+45-B.  Family.  "Family" includes, but is not limited to, a single individual.
+55-C.  Gender identity.  "Gender identity" means the gender-related identity, 
+6appearance, mannerisms or other gender-related characteristics of an individual, 
+7regardless of the individual's assigned sex at birth.
+85-D.  Harassment.  "Harassment" includes verbal or physical conduct related to a 
+9protected class or directed at an individual because of protected class status when:
+10A.  Submission to such conduct is made either explicitly or implicitly a term or 
+11condition of the individual's access to employment, housing, public accommodation, 
+12educational opportunity or extension of credit;
+13B.  Submission to or rejection of such conduct by an individual is used as the basis 
+14for the individual's access to employment, housing, public accommodation, 
+15educational opportunity or extension of credit;
+16C.  Such conduct has the purpose or effect of unreasonably interfering with the 
+17individual's access to employment, housing, public accommodation, educational 
+18opportunity or extension of credit or creating an intimidating, hostile or offensive 
+19environment in those settings; or
+20D.  Such conduct constitutes an assault, as defined by Title 17-A, section 207.
+216.  Housing accommodation.  "Housing accommodation" includes any building or 
+22structure or portion thereof, or any parcel of land, developed or undeveloped, that is 
+23occupied, or is intended to be occupied or to be developed for occupancy, for residential 
+24purposes.
+256-A.  Normal retirement age.  "Normal retirement age" means the specified age, the 
+26years of service requirement or any age and years of service combination at which a 
+27member may become eligible for retirement benefits. This subsection may not be 
+28construed to require the mandatory retirement of a member or to deny employment to any 
+29person based solely on that person's normal retirement age. 
+307.  Person.  "Person" includes one or more individuals, partnerships, associations, 
+31organizations, corporations, municipal corporations, legal representatives, trustees, 
+32trustees in bankruptcy, receivers and other legal representatives, labor organizations, 
+33mutual companies, joint-stock companies and unincorporated organizations and includes 
+34the State and all agencies thereof. 
+357-A.  Physical or mental disability.  "Physical or mental disability" has the meaning 
+36set forth in section 4553-A.
+378.  Place of public accommodation.  "Place of public accommodation" means a 
+38facility, operated by a public entity or private entity, whose operations fall within at least 
+39one of the following categories:
+Page 5 - 129LR2281(01)-11A.  An inn, hotel, motel or other place of lodging, whether conducted for the 
+2entertainment or accommodation of transient guests or those seeking health, 
+3recreation or rest;
+4B.  A restaurant, eating house, bar, tavern, buffet, saloon, soda fountain, ice cream 
+5parlor or other establishment serving or selling food or drink;
+6C.  A motion picture house, theater, concert hall, stadium, roof garden, airdrome or 
+7other place of exhibition or entertainment;
+8D.  An auditorium, convention center, lecture hall or other place of public gathering;
+9E.  A bakery, grocery store, clothing store, hardware store, shopping center, garage, 
+10gasoline station or other sales or rental establishment;
+11F.  A laundromat, dry cleaner, bank, barber shop, beauty shop, travel service, shoe 
+12repair service, funeral parlor, gas station, office of an accountant or lawyer, 
+13pharmacy, insurance office, professional office of a health care provider, hospital, 
+14dispensary, clinic, bathhouse or other service establishment;
+15G.  All public conveyances operated on land or water or in the air as well as a 
+16terminal, depot or other station used for specified public transportation;
+17H.  A museum, library, gallery or other place of public display or collection;
+18I.  A park, zoo, amusement park, race course, skating rink, fair, bowling alley, golf 
+19course, golf club, country club, gymnasium, health spa, shooting gallery, billiard or 
+20pool parlor, swimming pool, seashore accommodation or boardwalk or other place of 
+21recreation, exercise or health;
+22J.  A nursery, elementary, secondary, undergraduate or postgraduate school or other 
+23place of education;
+24K.  A day-care day care center, senior citizen center, homeless shelter, food bank, 
+25adoption agency or other social service center establishment;
+26L.  Public elevators of buildings occupied by 2 or more tenants or by the owner and 
+27one or more tenants;
+28M.  A municipal building, courthouse, town hall or other establishment of the State or 
+29a local government; and
+30N.  Any establishment that in fact caters to, or offers its goods, facilities or services 
+31to, or solicits or accepts patronage from, the general public.
+32When a place of public accommodation is located in a private residence, the portion of 
+33the residence used exclusively as a residence is not covered by this subchapter, but that 
+34portion used exclusively in the operation of the place of public accommodation or that 
+35portion used both for the place of public accommodation and for the residential purposes 
+36is covered by this subchapter.  The covered portion of the residence extends to those 
+37elements used to enter the place of public accommodation, and those exterior and interior 
+38portions of the residence available to or used by customers or clients, including rest 
+39rooms.
+408-A.  Private entity.  "Private entity" means any entity other than a public entity.
+Page 6 - 129LR2281(01)-118-B.  Public accommodation.  "Public accommodation" means a public entity or 
+2private entity that owns, leases, leases to or operates a place of public accommodation.
+38-C.  Public entity.  "Public entity" means:
+4A.  The State or any local government;
+5B.  Any department, agency, special purpose district or other instrumentality of the 
+6State, 2 or more states or a local government; and
+7C.  A state, local or private commuter authority as defined in the federal Rail 
+8Passenger Service Act, Section 103 (8).
+98-D.  Qualified individual with a disability.  "Qualified individual with a disability" 
+10applies to only:
+11A.  Subchapter III 3 (employment); and
+12B.  Subchapter V 5 (public accommodations) with regard to public entities only.
+13For purposes of subchapter III 3, "qualified individual with a disability" means an 
+14individual with a physical or mental disability who, with or without reasonable 
+15accommodation, can perform the essential functions of the employment position that the 
+16individual holds or desires.
+17For purposes of subchapter V 5, "qualified individual with a disability" means an 
+18individual with a disability who, with or without reasonable modification to rules, 
+19policies or practices, the removal of architectural, communication or transportation 
+20barriers or the provision of auxiliary aids and services, meets the essential eligibility 
+21requirements for the receipt of services or the participation in programs or activities 
+22provided by a public entity.
+238-E.  Protected class.  "Protected class" means a class of individuals protected from 
+24unlawful discrimination under this Act.
+259.  Real estate broker and sales agent.  "Real estate broker" and "real estate 
+26salesman sales agent" have the same definitions meanings as are given respectively in 
+27Title 32, section 4001, subsections 2 and 3 sections 13198 and 13200 respectively; but 
+28include all persons meeting those definitions, whether or not they are licensed or required 
+29to be licensed.
+309-A.  Reasonable accommodation.  For purposes of subchapter III 3, "reasonable 
+31accommodation" may include, but is not limited to:
+32A.  Making existing facilities used by employees readily accessible to and usable by 
+33individuals with disabilities; and
+34B.  Job restructuring, part-time or modified work schedules, reassignment to a vacant 
+35position, leaves of absence, acquisition or modification of equipment or devices, 
+36appropriate adjustment or modifications of examinations, training materials or 
+37policies, the provision of qualified readers or interpreters and other similar 
+38accommodations for individuals with disabilities.
+Page 7 - 129LR2281(01)-119-B.  Undue hardship; undue burden.  "Undue hardship" or "undue burden" mean 
+2means an action requiring undue financial or administrative hardship.  In determining 
+3whether an action would result in an undue hardship, factors to be considered include:
+4A.  The nature and cost of the accommodation needed under this Act;
+5B.  The overall financial resources of the facility or facilities involved in the action, 
+6the number of persons employed at the facility, the effect on expenses and resources 
+7or the impact otherwise of the action upon the operation of the facility;
+8C.  The overall financial resources of the covered entity, the overall size of the 
+9business of a covered entity with respect to the number of its employees and the 
+10number, type and location of its facilities;
+11D.  The type of operation or operations of the covered entity, including the 
+12composition, structure and functions of the work force of the entity, the geographic 
+13separateness, administrative or fiscal relationship of the facility or facilities in 
+14question to the covered entity;
+15E.  All the resources available to meet the costs of the accommodation, including any 
+16government funding or other grants available for making public accommodations and 
+17places of employment accessible;
+18F.  The extent to which current costs of accommodations have been minimized by 
+19past efforts to provide equal access to persons with disabilities;
+20G.  The extent to which resources spent on improving inaccessible equipment or 
+21service could have been spent on making an accommodation so that service or 
+22equipment is accessible to individuals with disabilities, as well as to individuals 
+23without disabilities;
+24H.  Documented good faith efforts to explore less restrictive or less expensive 
+25alternatives;
+26I.  The availability of equipment and technology for the accommodation;
+27J.  Whether an accommodation would result in a fundamental change in the nature of 
+28the public accommodation;
+29K.  Efforts to minimize costs by spreading costs over time; and
+30L.  The extent to which resources saved by failing to make an accommodation for 
+31persons who have disabilities could have been saved by cutting costs in equipment or 
+32services for the general public.
+33"Undue hardship" or "undue burden" is a higher standard than "readily achievable" and 
+34requires a greater level of effort on the part of the public accommodation.
+359-C.  Sexual orientation.  "Sexual orientation" means a person's actual or perceived 
+36heterosexuality, bisexuality, homosexuality or gender identity or expression.
+379-E.  Service animal.  "Service animal" means:
+38B.  For the purposes of subchapter 5, a dog that is individually trained to do work or 
+39perform tasks for the benefit of an individual with a disability, including a physical, 
+Page 8 - 129LR2281(01)-11sensory, psychiatric, intellectual or other mental disability. Other species of animals, 
+2whether wild or domestic, trained or untrained, are not service animals for the 
+3purposes of this definition. The work or tasks performed by a service animal must be 
+4directly related to the individual's disability. Examples of such work or tasks include, 
+5but are not limited to, assisting an individual who is totally or partially blind with 
+6navigation and other tasks, alerting an individual who is deaf or hard of hearing to the 
+7presence of people or sounds, providing nonviolent protection or rescue work, pulling 
+8a wheelchair, assisting an individual during a seizure, alerting an individual to the 
+9presence of allergens, retrieving items such as medicine or a telephone, providing 
+10physical support and assistance with balance and stability to an individual with a 
+11mobility disability and helping a person with a psychiatric or neurological disability 
+12by preventing or interrupting impulsive or destructive behaviors. The crime deterrent 
+13effects of an animal's presence and the provision of emotional support, well-being, 
+14comfort or companionship do not constitute work or tasks for the purposes of this 
+15definition.
+169-F.  Rent.  "Rent" includes to lease, to sublease, to let or otherwise to grant for a 
+17consideration the right to occupy premises not owned by the occupant.
+189-G.  Respondent.  "Respondent" means a person accused of unlawful 
+19discrimination in a complaint filed under section 4611 or a civil action filed under section 
+204621.
+2110.  Unlawful discrimination. "Unlawful discrimination" includes: 
+22A.  Unlawful employment discrimination as defined and limited by subchapter III 3;
+23B.  Unlawful housing discrimination as defined and limited by subchapter IV 4;
+24C.  Unlawful public accommodations discrimination as defined by subchapter V 5;
+25D.  Aiding, abetting, inciting, compelling or coercing another to do any of such types 
+26of unlawful discrimination; obstructing or preventing any person from complying 
+27with this Act or any order issued in this subsection; attempting to do any act of 
+28unlawful discrimination; and punishing or penalizing, or attempting to punish or 
+29penalize, any person for seeking to exercise any of the civil rights declared by this 
+30Act or for complaining of a violation of this Act or for testifying in any proceeding 
+31brought in this subsection;
+32E.  In determining whether a person is acting as an agent or employee of another 
+33person so as to make such other person responsible for that person's acts, the question 
+34of whether the specific acts performed were actually authorized or subsequently 
+35ratified is not controlling;
+36F.  Unlawful educational discrimination as defined and limited by subchapter 5-B; 
+37and
+38G.  Discrimination in employment, housing, public accommodation, credit and 
+39educational opportunity on the basis of sexual orientation or gender identity, except 
+40that a bona fide nonprofit religious corporation, association or organization that does 
+41not receive public funds is exempt from this provision with respect to:
+Page 9 - 129LR2281(01)-11(1)  Employment, as is more fully set forth in section 4553, subsection 4 and 
+2section 4573-A;
+3(2)  Housing; and
+4(3)  Educational opportunity, as is more fully set forth in section 4602, subsection 
+54.
+6Any for-profit organization owned, controlled or operated by a religious association 
+7or corporation and subject to the provisions of the Internal Revenue Code, 26 United 
+8States Code, Section 511(a) is not covered by the exemptions set forth in this 
+9paragraph.; and
+10H.  Harassment.
+11Sec. 2.  5 MRSA §4555, as enacted by PL 1995, c. 393, §10, is repealed.
+12Sec. 3.  5 MRSA §4573-A, sub-§1, as enacted by PL 1995, c. 393, §21, is 
+13amended to read:
+141.  General provisions.  It is a defense to a charge of discrimination under this 
+15subchapter that an alleged application of qualification standards, tests or selection criteria 
+16that screen out or tend to screen out or otherwise deny a job or benefit to an individual 
+17with a disability based on protected class status has been shown to be job-related and 
+18consistent with business necessity, and such performance can not be accomplished by 
+19reasonable accommodation, as required by this subchapter.
+20Sec. 4.  5 MRSA §4573-A, sub-§1-B, as enacted by PL 1995, c. 511, §1 and 
+21affected by §3, is repealed.
+22Sec. 5.  5 MRSA §4592, sub-§7, ¶B, as amended by PL 2007, c. 664, §6, is 
+23further amended to read:
+24B.  That perpetuate the discrimination of others who are subject to common 
+25administrative control; and
+26Sec. 6.  5 MRSA §4592, sub-§8, as amended by PL 2015, c. 457, §4, is further 
+27amended to read:
+288.  Service animals.  For any public accommodation or any person who is the owner, 
+29lessor, lessee, proprietor, operator, manager, superintendent, agent or employee of any 
+30place of public accommodation to refuse to permit the use of a service animal or 
+31otherwise discriminate against an individual with a physical or mental disability who uses 
+32a service animal at the public accommodation unless it is shown by defense that the 
+33service animal poses a direct threat to the health or safety of others or the use of the 
+34service animal would result in substantial physical damage to the property of others or 
+35would substantially interfere with the reasonable enjoyment of the public accommodation 
+36by others.  The use of a service animal may not be conditioned on the payment of a fee or 
+37security deposit, although the individual with a physical or mental disability is liable for 
+38any damage done to the premises or facilities by such a service animal.  This subsection 
+Page 10 - 129LR2281(01)-11does not apply to an assistance animal as defined in section 4553, subsection 1-H unless 
+2the assistance animal also qualifies as a service animal.; and
+3Sec. 7.  5 MRSA §4592, sub-§9 is enacted to read:
+49.  Unlawful public accommodations.  For any public accommodation to designate 
+5a single-occupancy toilet facility as for use only by members of one sex.  A single-
+6occupancy toilet facility may be identified by a sign, as long as the sign does not indicate 
+7that the facility is for use by members of one specific sex.  For the purposes of this 
+8subsection, a "single-occupancy toilet facility" is a restroom for use by one user at a time 
+9or for family or assisted use and that has an outer door that can be locked by the 
+10occupant.
+11Sec. 8.  5 MRSA §4633, as enacted by PL 1993, c. 303, §3, is amended by 
+12enacting a new first paragraph to read:
+13Notwithstanding any other provision of this Act to the contrary, a person may be held 
+14liable for that person's actions taken in violation of this section, without regard to whether 
+15such person would otherwise be a covered employer, housing provider, public 
+16accommodation, educational institution or other covered entity under this Act, when the 
+17individual engages in individual and independent unlawful conduct outside the scope of 
+18the individual's actions on behalf of a covered entity.
+19SUMMARY
+20This bill makes changes to the Maine Human Rights Act in order to clarify its proper 
+21application and interpretation.  In particular, the bill describes the behaviors that may 
+22constitute harassment in reference to unlawful discrimination; clarifies the Act's coverage 
+23of claims based on association and based on the perception that an individual belongs to a 
+24protected class; and provides a definition of "gender identity."  The bill provides needed 
+25clarification related to several Maine Human Rights Act provisions highlighted by recent 
+26court decisions, including confirming that a leave of absence can be a reasonable 
+27accommodation for a disability in employment, and that individual employees may be 
+28liable for their discriminatory behavior in certain circumstances.  The bill also makes 
+29grammatical changes and corrects cross-references.

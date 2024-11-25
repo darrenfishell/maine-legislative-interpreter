@@ -1,0 +1,270 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -807) (LD 30 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1L.D. 30
+2
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30, Bill, “An Act To Improve 
+10Health Care Data Analysis ”
+11Amend the bill by striking out everything after the enacting clause and inserting the 
+12following:
+13'PART A
+14Sec. A-1.  5 MRSA §12004-I, sub-§30-B is enacted to read:
+1530-B.  
+16
+17
+18
+19
+20
+21Sec. A-2.  22 MRSA §42, sub-§5, as amended by PL 2009, c. 514, §1, is further 
+22amended to read:
+235.  Confidentiality of records containing certain medical information.  
+24Department records that contain personally identifying medical information that are 
+25created or obtained in connection with the department's public health activities or 
+26programs are confidential.  These records include, but are not limited to, information on 
+27genetic, communicable, occupational or environmental disease entities, and information 
+28gathered from public health nurse activities, or any program for which the department 
+29collects personally identifying medical information.
+30The department's confidential records may not be open to public inspection, are not 
+31public records for purposes of Title 1, chapter 13, subchapter 1 and may not be examined 
+32in any judicial, executive, legislative or other proceeding as to the existence or content of 
+33any individual's records obtained by the department.Date: (Filing No. H-          )
+Health care; data Maine Health Data 
+Organization Health 
+Information 
+Advisory CommitteeExpenses Only 22 MRSA §8718
+COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30
+Page 2 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1Exceptions to this subsection include release of medical and epidemiologic information in 
+2such a manner that an individual can not be identified; disclosures that are necessary to 
+3carry out the provisions of chapter 250; disclosures made upon written authorization by 
+4the subject of the record, except as otherwise provided in this section; disclosures that are 
+5specifically required for purposes of reporting data to the Maine Health Data 
+6Organization as provided for by statute or by rules adopted by the Maine Health Data 
+7Organization; and disclosures that are specifically provided for by statute or by 
+8departmental rule.  The department may participate in a regional or national tracking 
+9system as provided in sections 1533 and 8824.
+10Nothing in this subsection precludes the department, during the data collection phase of 
+11an epidemiologic investigation, from refusing to allow the inspection or copying of any 
+12record or survey instrument, including any redacted record or survey instrument, 
+13containing information pertaining to an identifiable individual that has been collected in 
+14the course of that investigation.  The department's refusal is not reviewable.
+15Sec. A-3.  22 MRSA §8703, sub-§1, as amended by PL 2019, c. 470, §1, is 
+16further amended to read:
+171.  Objective.  The purposes of the organization are to create and maintain a useful, 
+18objective, reliable and comprehensive health information database that is used to improve 
+19the health of Maine citizens and to issue reports, as provided in sections 8712 and 8736 
+20this chapter.  This database must be publicly accessible while protecting patient 
+21confidentiality and respecting providers of care.  The organization shall collect, process, 
+22analyze and report clinical, financial, quality and restructuring data as defined in this 
+23chapter.
+24Sec. A-4.  22 MRSA §8712, sub-§2, as amended by PL 2017, c. 232, §2, is 
+25further amended to read:
+262.  Payments.  The organization shall create a publicly accessible interactive website 
+27that presents reports related to payments for services rendered by health care facilities and 
+28practitioners to residents of the State.  The services presented must include, but not be 
+29limited to, imaging, preventative health, radiology, surgical services, comparable health 
+30care services as defined in Title 24-A, section 4318-A, subsection 1, paragraph A and 
+31other services that are predominantly elective and may be provided to a large number of 
+32patients who do not have health insurance or are underinsured.  The website must also be 
+33constructed to display prices paid by individual commercial health insurance companies, 
+343rd-party administrators and, unless prohibited by federal law, governmental payors.  
+35Beginning October 1, 2012, price information posted on the website must be posted 
+36semiannually and beginning October 1, 2021 must be posted annually, must display the 
+37date of posting and, when posted, must be current to within 12 months of the date of 
+38submission of the information.  Payment reports and price information posted on the 
+39website must include data submitted by payors with regard to all health care facilities and 
+40practitioners that provide comparable health care services as defined in Title 24-A, 
+41section 4318-A, subsection 1, paragraph A or services for which the organization reports 
+42data pertaining to the statewide average price pursuant to this subsection or Title 24-A, 
+43section 4318-B.  Upon notice made by a health care facility or practitioner that data 
+44posted by the organization pertaining to that facility or practitioner is inaccurate or 
+COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30
+Page 3 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1incomplete, the organization shall remedy the inaccurate or incomplete data within the 
+2earlier of 30 days of receipt of the notice and the next semiannual posting date.
+3Sec. A-5.  22 MRSA §8712, sub-§3, as enacted by PL 2003, c. 469, Pt. C, §29, is 
+4repealed.
+5Sec. A-6.  22 MRSA §8712, sub-§4, as enacted by PL 2003, c. 469, Pt. C, §29, is 
+6repealed.
+7Sec. A-7.  22 MRSA §8715-A is enacted to read:
+8§8715-A.  Reporting on cancer data and vital statistics data
+9The organization may adopt rules to require the reporting of data from the cancer-
+10incidence registry established pursuant to section 1404 and data related to the registration 
+11of vital statistics pursuant to section 2701. Rules adopted pursuant to this subsection are 
+12routine technical rules as described in Title 5, chapter 375, subchapter 2-A.
+13Sec. A-8.  22 MRSA §8718 is enacted to read:
+14§8718.  Maine Health Data Organization Health Information Advisory Committee
+15The Maine Health Data Organization Health Information Advisory Committee, 
+16referred to in this section as "the advisory committee," is established in accordance with 
+17this section to make recommendations to the organization regarding public reporting of 
+18health care trends developed from data reported to the organization pursuant to this 
+19chapter.
+201.  Membership.  The advisory committee consists of the following 11 members:
+21A.  The executive director of the organization;
+22B.  One member of the House of Representatives, appointed by the Speaker of the 
+23House of Representatives;
+24C.  One member of the Senate, appointed by the President of the Senate;
+25D.  The commissioner or the commissioner's designee;
+26E.  The Superintendent of Insurance or the superintendent's designee; and
+27F.  Six members appointed by the board as follows:
+28(1)  One member representing consumers of health care;
+29(2)  One member representing providers of health care;
+30(3)  One member representing hospitals;
+31(4)  One member representing employers;
+32(5)  One member representing insurance carriers; and
+33(6)  One member representing the state employee health plan under Title 5, 
+34section 285.
+352.  Duties.  The advisory committee shall:
+COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30
+Page 4 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1A.  Make recommendations to the organization to establish priorities for health care 
+2trend data items;
+3B.  Make recommendations to the organization on the annual public reporting of 
+4health care trend data items pursuant to this chapter; and
+5C.  Make additional health care data trend-related recommendations as requested by 
+6the executive director of the organization.
+73.  Terms.  Members of the advisory committee appointed by the board serve 5-year 
+8terms except for initial appointments.  Initial appointments must include one member 
+9appointed to a 3-year term, 2 members appointed to 4-year terms and 3 members 
+10appointed to 5-year terms.  A member may not serve more than 2 consecutive terms.
+114.  Compensation.  Members of the advisory committee are eligible for 
+12compensation according to the provisions of Title 5, chapter 379.
+135.  Quorum.  A quorum is a majority of the members of the advisory committee.
+146.  Chair and officers.  The advisory committee shall annually choose one of its 
+15members to serve as chair for a one-year term.  The advisory committee may select other 
+16officers and designate their duties.
+177.  Meetings.  The advisory committee shall meet at least 4 times a year at regular 
+18intervals and may meet at other times at the call of the chair or the executive director of 
+19the organization.  Meetings of the council are public proceedings as provided by Title 1, 
+20chapter 13, subchapter 1.
+21PART B
+22Sec. B-1.  22 MRSA §3173, as amended by PL 1997, c. 676, §1 and PL 2003, c. 
+23689, Pt. B, §6, is further amended by adding at the end a new paragraph to read:
+24The department shall use the multipayor provider database established in section 
+258719 as its primary source of information to update the department's own data and 
+26publicly available information regarding health provider and service directory 
+27information, when the information required by the department is already available 
+28through the multipayor provider database.
+29Sec. B-2.  22 MRSA §8704, sub-§1, ¶A, as amended by PL 2019, c. 470, §2, is 
+30further amended to read:
+31A.  The board shall develop and implement policies and procedures for the collection, 
+32processing, storage and analysis of clinical, financial, quality, restructuring and 
+33provider data and prescription drug price data in accordance with this subsection for 
+34the following purposes:
+35(1)  To use, build and improve upon and coordinate existing data sources and 
+36measurement efforts through the integration of data systems and standardization 
+37of concepts;
+38(2)  To coordinate the development of a linked public and private sector 
+39information system;
+COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30
+Page 5 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1(3)  To emphasize data that is useful, relevant and not duplicative of existing 
+2data;
+3(4)  To minimize the burden on those providing data; and
+4(5)  To preserve the reliability, accuracy and integrity of collected data while 
+5ensuring that the data is available in the public domain.
+6Sec. B-3.  22 MRSA §8719 is enacted to read:
+7§8719.  Provider database and service locator tool
+81.  Provider database.  The organization shall develop and maintain a multipayor 
+9provider database that must be used by the department to provide information for a 
+10service locator available on a publicly accessible website for use by the public, by 
+11providers and by state agencies in accordance with this section. The organization and the 
+12department shall leverage existing data sources to maintain the database wherever 
+13possible, as allowable by state and federal law. Creation and maintenance of the database 
+14may not increase mandatory reporting requirements for providers of physical health 
+15services, and reporting requirements for providers of behavioral health services must be 
+16kept to the minimum necessary to ensure development of a useful database and tool for 
+17analytic, consumer service and provider identification and referral purposes. The 
+18organization shall collaborate with the department as necessary on the development and 
+19maintenance of the provider database.
+202.  Funding.  The development of the provider database and service locator tool must 
+21be funded using existing resources within the department and grant funding obtained by 
+22the department from public and private sources.  The organization and the Office of 
+23MaineCare Services within the Department of Health and Human Services are jointly 
+24responsible for the ongoing maintenance costs of the provider database using existing 
+25resources.
+26Sec. B-4.  Development of multipayor provider database.  In accordance 
+27with the Maine Revised Statutes, Title 22, section 8719, the Maine Health Data 
+28Organization shall develop a plan, in collaboration with the Department of Health and 
+29Human Services, payors, providers, health care purchasers and representatives of 
+30consumers, to develop a broad, multipayor provider database.  The organization's 
+31objective is to develop reporting, use and structure requirements for a multipayor 
+32provider database that will enable carriers to fulfill their obligation to provide timely and 
+33accurate provider directories without placing undue, additional administrative burdens on 
+34providers and to improve the accuracy and mapping of such data for analytic and 
+35consumer service and provider identification purposes.  The organization shall consult 
+36with other state and national agencies and organizations to determine best and promising 
+37practices for the development of the database. The organization shall submit the plan, its 
+38findings and any recommendations for suggested legislation to the joint standing 
+39committee of the Legislature having jurisdiction over health coverage and insurance 
+40matters no later than April 1, 2021. The committee may report out legislation based upon 
+41the report to any session of the 130th Legislature.' 
+42Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+43section number to read consecutively.
+COMMITTEE AMENDMENT “      ” to H.P. 31, L.D. 30
+Page 6 - 129LR0766(02)-1
+COMMITTEE AMENDMENT1SUMMARY
+2The amendment replaces the bill, which is a concept draft.
+3Part A of the amendment does the following.
+41.  It reduces the timing of when updates of price information must be posted on the 
+5Maine Health Data Organization's website from twice annually to once annually and also 
+6repeals the annual reports required related to a comparison of the 15 most common 
+7inpatient and outpatient services and to the 10 services and procedures most often 
+8provided by physicians in a private office setting.
+92.  It authorizes the Maine Health Data Organization to adopt rules related to the 
+10reporting of data from the statewide cancer-incidence registry and data related to vital 
+11statistics.
+123.  It establishes the Maine Health Data Organization Health Information Advisory 
+13Committee to make recommendations to the organization regarding public reporting of 
+14health care trends developed from data reported to the organization.
+15Part B of the amendment directs the Maine Health Data Organization to develop and 
+16maintain a multipayor provider database and service locator tool in conjunction with the 
+17Department of Health and Human Services.
+Revised: 07/30/20
+LD 30 LR 766 (02)
+Fiscal Detail and Notes
+The bill also establishes the Maine Health Data Organizati on Health Information Trend Advisory Committee. Costs to 
+the MHDO, the Bureau of Insurance, the Department of Administrative and Financial Services and the DHHS to serve on the committee are expected to be minimal and can  be absorbed within existing budgeted resources. This bill requires the Maine Health Data Organization (M HDO) and the Department of Health and Human Services 
+(DHHS) to develop a mu lti-payer provider database and service locator t ool, with any associated costs to be absorbed 
+by the DHHS within existing budgeted resources or through grant funding. The development and implementation of this tool is being funded by a $2 million federal grant wh ich expires on 03/29/21. The on-going operating cost for the 
+tool is estimated to be $250,000 annually and currently there is no funding for the on-going cost. If the DHHS is not able to secure additional grant funding, the impact of this new unfunded cost on other programs in the DHHS could be significant.Fiscal Note
+Current biennium cost increase - General Fund
+Current biennium cost increase - Federal Expenditures Fund129th MAINE LEGISLATURE
+An Act To Improve Health Care Data Analysis 
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Health Covera ge, Insurance and Financial Services
+Fiscal Note Re quired: Yes
+LR0766(02) - Fiscal Note - Page 1 of 1

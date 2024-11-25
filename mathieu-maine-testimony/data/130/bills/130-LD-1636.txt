@@ -1,0 +1,192 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1636
+S.P. 520 In Senate,  May 5, 2021
+An Act  To Reduce  Prescription Drug Costs by Using International 
+Pricing
+Received by the Secretary of the Senate on May 3, 2021.  Referred to  the Committee on 
+Health Coverage, Insurance  and Financial Services pursuant to Joint  Rule 308.2 and  ordered 
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator CLAXTON of Androscoggin.
+
+Page 1 - 130LR1575(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA c. 603, sub-c. 1-C is enacted to read:
+3SUBCHAPTER 1-C
+4PRESCRIPTION DRUG PRICING
+5§2688.  International pricing
+61.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+7 following terms have the following meanings.
+8 A.  "ERISA plan" means a plan qualified under the federal Employee Retirement 
+9 Income Security Act of 1974. 
+10 B.  "Health plan" has the same meaning as in Title 24-A, section 4301-A, subsection 
+11 7.
+12 C.  "Participating ERISA plan" means an ERISA plan that has elected to participate in 
+13 the requirements and restrictions of this section as described in subsection 3.
+14 D.  "Prescription drug" has the same meaning as in Title 32, section 13702-A, 
+15 subsection 30.
+16 E.  "Referenced drugs" means prescription drugs subject to a referenced rate. 
+17 F.  "Referenced rate" means the maximum rate established by the Superintendent of 
+18 Insurance using the wholesale acquisition cost and other pricing data described in 
+19 subsection 4.
+20 G.  "State entity" means any agency of State Government that purchases prescription 
+21 drugs on behalf of the State for a person whose health care is paid for by the State, 
+22 including any agent, vendor, fiscal agent, contractor or other party acting on behalf of 
+23 the State.  "State entity" does not include the medical assistance program established 
+24 under 42 United States Code, Section 1396 et seq.
+25 H.  "Wholesale acquisition cost" has the same meaning as in 42 United States Code, 
+26 Section 1395w-3a.
+272.  Payment in excess of referenced rate prohibited.  The following practices are 
+28 prohibited.
+29 A.  It is a violation of this section for a state entity or health plan or participating ERISA 
+30 plan to purchase referenced drugs to be dispensed or delivered to a consumer in the 
+31 State, whether directly or through a distributor, for a cost higher than the referenced 
+32 rate as determined in subsection 4. Contracts entered into by a state entity or health 
+33 plan or participating ERISA plan and a 3rd party for the purchase of prescription drugs 
+34 shall expressly provide that rates paid for referenced drugs may not exceed the 
+35 referenced rate.
+36 B.  It is a violation of this section for a retail pharmacy licensed in this State to purchase 
+37 for sale or distribution to a person whose health care is provided by a state entity or 
+Page 2 - 130LR1575(01)38 health plan or participating ERISA plan a referenced drug for a cost that exceeds the 
+39 referenced rate.
+33. ERISA plan opt-in.  An ERISA plan may elect to participate in the provisions of 
+4 this section. Any ERISA plan that desires its purchase of prescription drugs to be subject 
+5 to the prohibition described in subsection 2 shall notify the Superintendent of Insurance in 
+6 writing by December 15th of each year.
+74. Referenced drugs determined.  The following provisions govern the determination 
+8 of referenced drugs.
+9 A.  By April 30th of each calendar year, the Executive Director of Health Insurance in 
+10 the Department of Administrative and Financial Services, Bureau of Human 
+11 Resources, Division of State Employee Health Insurance shall transmit to the 
+12 Superintendent of Insurance a list of the 250 most costly prescription drugs based upon 
+13 net price times utilization.  For each of these prescription drugs, the Executive Director 
+14 of Health Insurance shall also provide the total net spent on each of those prescription 
+15 drugs for the previous calendar year.
+16 B.  Using the information described in paragraph A, by June 30th of each year the 
+17 Superintendent of Insurance shall create and publish a list of 250 referenced drugs that 
+18 are subject to the referenced rate.
+19 C.  The Superintendent of Insurance shall determine the referenced rate by comparing 
+20 the wholesale acquisition cost to the cost in official publications of the governments of 
+21 the Canadian provinces of Ontario, Quebec, British Columbia and Alberta,
+22 D.  The referenced rate for each prescription drug must be calculated as the lowest cost 
+23 among the resources described in paragraph C and the wholesale acquisition cost.  If a 
+24 specific referenced drug is not included within resources described in paragraph C, the 
+25 Superintendent of Insurance shall use for the purpose of determining the referenced 
+26 rate the ceiling price for drugs as reported in official publications of the government of 
+27 Canada.
+28 E.  The determination by the Superintendent of Insurance of which prescription drugs 
+29 to include on the list of referenced drugs must be based upon an analysis of the savings 
+30 that could be achieved by subjecting those prescription drugs to the referenced rate. In 
+31 making this determination, the Superintendent of Insurance shall consult with the 
+32 Executive Director of Health Insurance and the president of the Maine Board of 
+33 Pharmacy.
+34 F.  The Superintendent of Insurance may adopt rules to carry out the purposes of this 
+35 subchapter. Rules adopted pursuant to this paragraph are routine technical rules under 
+36 Title 5, chapter 375, subchapter 2-A.
+375.  Registered agent and office within State.  Any entity that sells, distributes, 
+38 delivers or offers for sale any prescription drug in the State shall maintain a registered agent 
+39 and office within the State.
+406.  Use of savings.  The following provisions govern the use of savings generated as a 
+41 result of the requirements in subsection 2.1
+2
+Page 3 - 130LR1575(01)1 A.  Any savings generated as a result of the requirements in subsection 2 must be used 
+2 to reduce costs to consumers. A state entity, health plan or participating ERISA plan 
+3 shall calculate its savings and use the savings directly to reduce costs for its members.
+4 B.  No later than April 1st of each calendar year, each state entity, health plan and 
+5 participating ERISA plan subject to this section shall submit to the Superintendent of 
+6 Insurance a report describing the savings achieved for each referenced drug for the 
+7 previous calendar year and how those savings were used to achieve the requirements 
+8 of paragraph A.
+97.  Enforcement.  Each violation of this section is subject to a fine of $1,000. Each 
+10 individual transaction in violation of subsection 2 is a separate violation.  The Attorney 
+11 General is authorized to enforce the provisions of this section on behalf of any state entity 
+12 or consumers of prescription drugs.
+138.  Prohibition on withdrawal of referenced drugs for sale.  The following 
+14 provisions govern the withdrawal of a referenced drug.
+15 A.  It is a violation of this section for any manufacturer or distributor of a referenced 
+16 drug to withdraw that drug from sale or distribution within this State for the purpose of 
+17 avoiding the effect of the rate limitations set forth in subsection 2.
+18 B.  Any manufacturer that intends to withdraw a referenced drug from sale or 
+19 distribution from within the State shall provide a notice of withdrawal in writing to the 
+20 Superintendent of Insurance and to the Attorney General 180 days prior to such 
+21 withdrawal.
+22 C.  The Superintendent of Insurance shall assess a penalty of $500,000 on any entity, 
+23 including any manufacturer or distributor of a referenced drug, that the superintendent 
+24 determines has withdrawn a referenced drug from distribution or sale in the State in 
+25 violation of paragraphs A or B.
+26Sec. 2.  Purpose; legislative findings.  The purpose of this Act is to protect the 
+27 safety, health and economic well-being of the people of this State by safeguarding them 
+28 from the negative and harmful effects of excessive and unconscionable prices for 
+29 prescription drugs. In enacting this section, the Legislature finds that:
+30 1.  Access to prescription drugs is necessary for the people of this State to maintain or 
+31 acquire good health;
+32 2.  Excessive prices negatively affect the ability of the people of this State to obtain 
+33 prescription drugs, and price increases that exceed reasonable levels endanger the health 
+34 and safety of the people of this State;
+35 3.  Excessive prices for prescription drugs threaten the economic well-being of the 
+36 people of this State and endanger their ability to pay for other necessary and essential goods 
+37 and services, including housing, food and utilities;
+38 4.  Excessive prices for prescription drugs contribute significantly to a dramatic and 
+39 unsustainable rise in health care costs and health insurance that threaten the overall ability 
+40 of the people of this State to obtain health coverage and maintain or acquire good health;
+41 5.  Excessive prices for prescription drugs contribute significantly to rising state costs 
+42 for health care provided and paid for through health insurance programs for public 
+43 employees, including employees of the State, municipalities and counties, school districts, 
+Page 4 - 130LR1575(01)44 institutions of higher education and retirees whose health care costs are funded by public 
+45 programs, thereby threatening the ability of the State to fund those programs adequately 
+46 and further threatening the ability of the State to fund other programs necessary for the 
+47 public good and safety, such as public education and public safety;
+5 6.  Because the costs of prescription drugs and health insurance are tax-deductible, 
+6 excessive costs for prescription drugs result in a reduction in the tax base and a consequent 
+7 reduction in state revenue;
+8 7.  The costs to consumers, health plans and the State for prescription drug coverage is 
+9 higher than the costs in other countries because the prices charged by manufacturers and 
+10 distributors of drugs in this State are higher; and
+11 8.  Based on findings in subsections 1 to 7, the Legislature finds that excessive prices 
+12 for prescription drugs threaten the safety and well-being of the people of this State and 
+13 finds it is necessary to act in order to protect the people of this State from the negative 
+14 effects of excessive costs.
+15SUMMARY
+16 This bill requires the Superintendent of Insurance to create a list of 250 referenced 
+17 drugs that are subject to a referenced rate.  The referenced rate must be calculated as the 
+18 lowest cost from official publications of certain Canadian provincial government agencies 
+19 and the wholesale acquisition cost.  A state entity, health plan or participating plan qualified 
+20 under the federal Employee Retirement Income Security Act of 1974 must purchase 
+21 referenced drugs to be dispensed or delivered to a consumer of this State at a cost equal to 
+22 or lower than the referenced rate.  Any savings generated as a result must be used to reduce 
+23 costs to consumers.1
+2
+3
+4
+16
+17
+18
+19
+20
+21
+22
+23

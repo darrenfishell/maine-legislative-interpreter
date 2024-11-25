@@ -1,0 +1,132 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1333
+H.P. 847 House of Representatives, March 28, 2023
+An Act to Protect Children by Modernizing Internet and Digital 
+Media Filtering Requirements for Education
+Reference to the Committee on Education and Cultural Affairs suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SAMPSON of Alfred.
+Cosponsored by Senator LIBBY of Cumberland and
+Representatives: CROCKETT of Portland, GUERRETTE of Caribou, HYMES of Waldo, 
+LYMAN of Livermore Falls, Senator: RAFFERTY of York.
+
+Page 1 - 131LR1236(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  20-A MRSA §405, sub-§3, ¶V, as amended by PL 2015, c. 72, §2, is further 
+3 amended to read:
+4 V.  Study school administrative unit configuration statewide; and
+5Sec. 2.  20-A MRSA §405, sub-§3, ¶W, as enacted by PL 2015, c. 72, §3, is 
+6 amended to read:
+7 W.  Enter into an interstate reciprocity agreement regarding postsecondary distance 
+8 education, administer the agreement and approve or disapprove an application to 
+9 participate in the agreement from a postsecondary institution that has its principal 
+10 campus in the State. ; and
+11Sec. 3.  20-A MRSA §405, sub-§3, ¶X is enacted to read:
+12 X.  Adopt or amend rules to prevent material that is child pornography, harmful to 
+13 minors, sexually explicit or obscene from being transmitted by video, computer system, 
+14 software or hardware product or Internet service managed or provided to school 
+15 administrative units, including prevention by means of filtering and technology 
+16 protection measures.  For purposes of this paragraph, "filtering" means a specific 
+17 technology that blocks or filters Internet access to defined types of material, "obscene" 
+18 means material that meets the 3 requirements set forth in Miller v. California, 413 U.S. 
+19 15, and "technology protection measures" means a hardware or software application 
+20 that limits access to content or applications according to parameters set by a user with 
+21 administrative access to the software or hardware application.
+22Sec. 4.  20-A MRSA §2416 is enacted to read:
+23§2416.  Filtering and technology protection measures
+241.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+25 following terms have the following meanings.
+26 A. "Filtering" means an application or tool that blocks or filters Internet access to 
+27 defined types of material.
+28 B. "Obscene" means material that meets the 3 requirements set forth in Miller v. 
+29 California, 413 U.S. 15.
+30 C. "Technology protection measures" means a hardware or software application that 
+31 limits access to content or applications according to parameters set by a user with 
+32 administrative access to the software or hardware application.
+332. Filtering required. A public charter school shall use the latest available filtering 
+34 technology to ensure that material that is child pornography, harmful to minors, sexually 
+35 explicit or obscene is not made available to students.
+363. Technology protection measures required.  If providing access to a computer or 
+37 digital device, a public charter school shall update and enforce technology protection 
+38 measures to ensure that no person using public charter school computers or digital devices 
+39 has access to materials that are child pornography, harmful to minors, sexually explicit or 
+40 obscene.
+Page 2 - 131LR1236(01)14. Disablement of technology protection measures. An employee of a public charter 
+2 school may disable technology protection measures otherwise required by this section or 
+3 department rule only for legitimate education purposes for students in secondary school. 
+4 An employee of an elementary school may not disable technology protection measures.
+55. Policies; report. A public charter school shall:
+6 A.  Update enforcement policies regarding filtering and technology protection 
+7 measures;
+8 B.  Report policies updated under paragraph A to the department; and
+9 C.  Make policies updated under paragraph A available to the public within one year 
+10 of the update.
+11Sec. 5.  20-A MRSA §4015 is enacted to read:
+12§4015.  Filtering and technology protection measures
+131.  Definitions. As used in this section, unless the context otherwise indicates, the 
+14 following terms have the following meanings.
+15 A. "Filtering" means an application or tool that blocks or filters Internet access to 
+16 defined types of material.
+17 B. "Obscene" means material that meets the 3 requirements set forth in Miller v. 
+18 California, 413 U.S. 15.
+19 C. "Technology protection measures" means a hardware or software application that 
+20 limits access to content or applications according to parameters set by a user with 
+21 administrative access to the software or hardware application.
+222. Filtering required. A school administrative unit shall use the latest available 
+23 filtering technology to ensure that material that is child pornography, harmful to minors, 
+24 sexually explicit or obscene is not made available to students.
+253. Technology protection measures required.  If providing access to a computer or 
+26 digital device, a school administrative unit shall update and enforce technology protection 
+27 measures to ensure that no person using school administrative unit computers or digital 
+28 devices has access to materials that are child pornography, harmful to minors, sexually 
+29 explicit or obscene.
+304. Disablement of technology protection measures. An employee of a school 
+31 administrative unit may disable technology protection measures otherwise required by this 
+32 section or department rule only for legitimate education purposes for students in secondary 
+33 school. An employee of an elementary school may not disable technology protection 
+34 measures.
+355. Policies; report. A school administrative unit shall:
+36 A.  Update enforcement policies regarding filtering and technology protection 
+37 measures;
+38 B.  Report policies updated under paragraph A to the department; and
+39 C.  Make policies updated under paragraph A available to the public within one year 
+40 of the update.
+Page 3 - 131LR1236(01)1SUMMARY
+2 This bill requires the State Board of Education to adopt rules to prevent material that 
+3 is child pornography, harmful to minors, sexually explicit or obscene from being 
+4 transmitted by video, computer system, software or hardware product or Internet service 
+5 managed or provided to school administrative units.  The bill requires public schools and 
+6 charter schools to implement policies, filtering and technology protection measures to 
+7 ensure that no person using school computers or digital devices has access to materials that 
+8 are child pornography, harmful to minors, sexually explicit or obscene.2
+3
+4
+5
+6
+7
+8

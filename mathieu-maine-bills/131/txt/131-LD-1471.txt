@@ -1,0 +1,197 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1471
+S.P. 590 In Senate, April 5, 2023
+An Act to Amend Provisions of the Maine Metallic Mineral Mining 
+Act
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BENNETT of Oxford.
+
+Page 1 - 131LR2272(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §490-OO, sub-§2, ¶B-1 is enacted to read:
+3 B-1.  A human health impact assessment for the proposed mining operation that 
+4 identifies all potential emissions and effects from the mining operation in a proposed 
+5 mining area and affected area that can reasonably be expected to cause or threaten harm 
+6 to human health, including, but not limited to, harm caused by air emissions, 
+7 contamination of groundwater or surface water, noise pollution, light pollution and the 
+8 effects of blasting and vibrations from the mining operation.  The human health impact 
+9 assessment must define the mining area and affected area and include practicable 
+10 alternatives to address identified potential human health risks.  The department shall 
+11 review the human health impact assessment and may approve, reject or require 
+12 modifications to the assessment;
+13Sec. 2.  38 MRSA §490-OO, sub-§2, ¶E, as enacted by PL 2011, c. 653, §23 and 
+14 affected by §33, is amended to read:
+15 E.  Financial assurance and insurance as described in section 490‑RR; and
+16Sec. 3.  38 MRSA §490-OO, sub-§4, ¶E-1 is enacted to read:
+17 E-1.  The mining operation will not involve or result in the release of perfluoroalkyl 
+18 and polyfluoroalkyl substances into the air, soil, groundwater or surface water within 
+19 any mining area or affected area.  As used in this paragraph, "perfluoroalkyl and 
+20 polyfluoroalkyl substances" has the same meaning as in Title 32, section 1732, 
+21 subsection 5-A.
+22Sec. 4.  38 MRSA §490-OO, sub-§4, ¶J-1 is enacted to read:
+23 J-1.  The mining operation will not involve the use of explosives or other blasting 
+24 materials that contain perchlorate.
+25Sec. 5.  38 MRSA §490-OO, sub-§4, ¶K-1 is enacted to read:
+26 K-1.  The mining operation meets all applicable setback requirements specified by the 
+27 department by rule.  The department shall by rule establish minimum setback 
+28 requirements for mining operations, which must include, but are not limited to, 
+29 setbacks from schools, day care facilities, residences, hospitals and national and state 
+30 parks.
+31Sec. 6.  38 MRSA §490-OO, sub-§4, ¶N-1 is enacted to read:
+32 N-1.  The applicant has made adequate provision for and demonstrated specific plans 
+33 to provide for and, in accordance with section 490-RR, subsection 2, paragraph A, fund 
+34 the perpetual treatment and monitoring of mine waste and tailings in the event that the 
+35 applicant fails to satisfy applicable mine waste or tailings management requirements, 
+36 applicable closure and post-closure monitoring requirements or other applicable 
+37 requirements resulting in the need for perpetual treatment of mine waste or tailings 
+38 following closure.
+39Sec. 7.  38 MRSA §490-OO, sub-§4, ¶P is enacted to read:
+40 P.  The applicant has made adequate provision for and demonstrated specific plans to 
+41 address natural events that may affect mining operations, including, but not limited to, 
+Page 2 - 131LR2272(01)42 fires, earthquakes, droughts, tidal waves and floods, and for the implementation of 
+43 climate adaptation measures in accordance with rules adopted by the department.
+3Sec. 8.  38 MRSA §490-OO, sub-§4, ¶Q is enacted to read:
+4 Q.  The applicant has demonstrated specific plans for ensuring that the mining 
+5 operation, to the greatest extent practicable, will use clean energy measures and 
+6 technologies, as identified by the department by rule, including, but not limited to, 
+7 generation of electricity for the mining operation through the use of solar, wind or other 
+8 clean energy technology; use of electric vehicles and electric-powered equipment in 
+9 the mining operation; and implementation of carbon capture technology for carbon 
+10 emissions from the mining operation.
+11Sec. 9.  38 MRSA §490-QQ, sub-§3-A is enacted to read:
+123-A.  Air quality monitoring.  Through rulemaking the department shall establish 
+13 standards for monitoring air quality as close as practicable to any mining area that may 
+14 pose a threat to air quality.  A permittee shall conduct air quality monitoring in accordance 
+15 with the provisions of a mining permit during mining operations, during suspension of 
+16 mining operations and during closure.
+17 A.  The permittee shall establish compliance with applicable air quality standards and 
+18 requirements through direct measurement of emissions and not by estimating emission 
+19 concentrations.  The permittee shall conduct air emissions monitoring for pollutants as 
+20 required by the department pursuant to chapter 4 and for other hazardous air pollutants 
+21 specified by the department by rule, which must include, but are not limited to, volatile 
+22 organic compounds, polycyclic aromatic hydrocarbons, other pollutants associated 
+23 with the use of petroleum-based products and other pollutants that are heavy metals.   
+24 B.  The permittee shall install and operate fenceline monitoring equipment for air 
+25 emissions from any stack, flue, chimney, vent or other potential source of air pollution 
+26 within a mining area and shall ensure the monitoring and measurement of fugitive air 
+27 emissions within a mining area, including, but not limited to, emissions from vehicles 
+28 and other equipment operated or used within the mining area.
+29Sec. 10.  38 MRSA §490-RR, sub-§2, ¶A, as enacted by PL 2017, c. 142, §9, is 
+30 amended by amending subparagraph (1) to read:
+31 (1)  The cost to investigate all possible releases of contaminants at the site, monitor 
+32 all aspects of the mining operation, close the mining operation in accordance with 
+33 the closure plan, conduct treatment activities of all expected fluids and wastes 
+34 generated by the mining operation for a minimum of 100 years, implement 
+35 remedial activities for all possible releases and maintenance of structures and waste 
+36 units as if these units have released contaminants to the groundwater and surface 
+37 water, conduct corrective actions for potential environmental impacts to 
+38 groundwater and surface water resources as identified in the environmental impact 
+39 assessment and conduct all other necessary activities at the mine site in accordance 
+40 with the environmental protection, reclamation and closure plan.  The amount of 
+41 the financial assurance must be sufficient to provide for the perpetual treatment 
+42 and monitoring of mine waste and tailings in the event that the permittee fails to 
+43 satisfy applicable mine waste or tailings management requirements, applicable 
+44 closure and post-closure monitoring requirements or other applicable requirements 1
+2
+Page 3 - 131LR2272(01)45 resulting in the need for perpetual treatment of mine waste or tailings following 
+46 closure; and
+3Sec. 11.  38 MRSA §490-RR, sub-§6 is enacted to read:
+46.  Insurance requirement.   In accordance with rules adopted by the department, a 
+5 permittee must provide proof of and maintain comprehensive general liability insurance 
+6 for the mining operation for the same duration as financial assurance is required under 
+7 subsection 1.  The insurance must provide sufficient coverage to address potential harm to 
+8 members of the public located adjacent to or in proximity to mining areas or affected areas, 
+9 including, but not limited to, harm resulting from fires, explosions or flooding originating 
+10 at or caused by the mining operation and harm resulting from exposure to air, water or soil 
+11 pollution caused by the mining operation.  The insurance may not include any provisions 
+12 or clauses that exclude coverage for harm or losses caused by pollution.
+13Sec. 12.  38 MRSA §490-TT, sub-§2, as enacted by PL 2011, c. 653, §23 and 
+14 affected by §33, is amended to read:
+152.  Imminent endangerment.  If the department determines that a violation under 
+16 subsection 1 mining operation is causing or resulting in , or has the potential to cause or 
+17 result in, an imminent and substantial endangerment to the public health or safety, 
+18 environment or natural resources, regardless of whether a violation under subsection 1 
+19 exists, the department shall take action necessary to  prevent, abate or eliminate the 
+20 endangerment. Such action may include one or more of the following:
+21 A.  Revoking the mining permit as authorized by section 342, subsection 11‑B;
+22 B.  Issuing an order to the permittee requiring immediate suspension of mining 
+23 activities, including, but not limited to, the removal of metallic product from the site;
+24 C.  Issuing an order to the permittee to undertake such other corrective or response 
+25 actions as may be necessary to prevent, abate or eliminate the endangerment; and
+26 D.  Issuance of an emergency order as authorized by section 347‑A, subsection 3.
+27SUMMARY
+28 This bill amends the Maine Metallic Mineral Mining Act as follows.
+29 1.  In addition to other requirements provided by that Act, the bill requires an applicant 
+30 for a mining permit to:
+31 A.  Submit a human health impact assessment for the proposed mining operation that 
+32 identifies all potential emissions and effects from the mining operation in a proposed 
+33 mining area and affected area that can reasonably be expected to cause or threaten harm 
+34 to human health;
+35 B.  Demonstrate specific plans to provide for and fund the perpetual treatment and 
+36 monitoring of mine waste and tailings in the event that the applicant fails to satisfy 
+37 applicable mine waste or tailings management requirements, applicable closure and 
+38 post-closure monitoring requirements or other applicable requirements resulting in the 
+39 need for perpetual treatment of mine waste or tailings following closure;  1
+2
+28
+Page 4 - 131LR2272(01)1 C.  Demonstrate specific plans to address natural events that may affect mining 
+2 operations and for the implementation of climate adaptation measures as specified by 
+3 rule; and
+4 D.  Demonstrate specific plans for ensuring that the mining operation will use clean 
+5 energy measures and technologies to the greatest extent practicable.
+6 2.  In addition to other restrictions provided by that Act, the bill prohibits the 
+7 Department of Environmental Protection from issuing a mining permit for a mining 
+8 operation that:
+9 A.  Will involve or result in the release of perfluoroalkyl and polyfluoroalkyl 
+10 substances into the air, soil, groundwater or surface water within any mining area or 
+11 affected area;
+12 B.  Will involve the use of explosives or other blasting materials that contain 
+13 perchlorate; or
+14 C.  Does not meet all applicable setback requirements specified in rule, which must 
+15 include, but are not limited to, minimum setbacks from schools, day care facilities, 
+16 residences, hospitals and national and state parks.
+17 3.  In addition to other requirements provided by that Act, the bill requires a mining 
+18 permittee to:
+19 A.  Establish compliance with applicable air quality standards and requirements 
+20 through direct measurement of emissions and not by estimating emission 
+21 concentrations; to conduct air emissions monitoring for the pollutants described in the 
+22 State's ambient air quality standards laws and for other hazardous air pollutants 
+23 specified in rule; to install and operate fenceline monitoring equipment for air 
+24 emissions from any stack, flue, chimney, vent or other potential source of air pollution 
+25 within a mining area; and to ensure the monitoring and measurement of fugitive air 
+26 emissions within a mining area; and
+27 B.  Provide proof of and maintain comprehensive general liability insurance for the 
+28 mining operation for the same duration as financial assurance is required by law, which 
+29 must provide sufficient coverage to address potential harm to members of the public 
+30 located adjacent to or in proximity to mining areas or affected areas.
+31 4.  The bill amends the provisions of the mining law regarding imminent endangerment 
+32 to provide the department with authority to take action necessary to prevent an imminent 
+33 and substantial endangerment to the public health or safety, environment or natural 
+34 resources that a mining operation has the potential to cause or result in, regardless of 
+35 whether a violation exists.

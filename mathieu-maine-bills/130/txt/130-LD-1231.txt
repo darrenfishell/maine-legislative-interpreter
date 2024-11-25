@@ -1,0 +1,213 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1231
+H.P. 902 House of  Representatives, March 24, 2021
+An Act  Concerning Climate  and Community Investment Projects
+Received by the Clerk of the House on March 22, 2021.  Referred to the Committee  on 
+Labor and Housing  pursuant to Joint Rule 308.2 and ordered printed pursuant to  Joint Rule 
+401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative CUDDY of Winterport.
+Cosponsored by Representatives:  Speaker FECTEAU of Biddeford, SYLVESTER of Portland, 
+WARREN of Scarborough, Senator: VITELLI of  Sagadahoc.
+
+Page 1 - 130LR0343(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  26 MRSA c. 47 is enacted to read:
+3CHAPTER 47
+4CLIMATE AND COMMUNITY INVESTMENT PROJECTS
+5§3701. Climate and community investment projects
+61.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+7 following terms have the following meanings.
+8 A.  "Assisted project" means a construction project that involves a renewable energy 
+9 project that will receive or is receiving economic assistance from the State with a total 
+10 present financial value as of the start of the assistance of at least $50,000, including but 
+11 not limited to renewable energy credits, grants, loans, commitments of funds or tax 
+12 abatements and tax exemptions.
+13 B.  "Disadvantaged community" means a zip code area of the State determined by the 
+14 Department of Labor by rule to have a high rate of poverty, unemployment and chronic 
+15 unemployment as well as a high number of individuals with barriers to employment, 
+16 including individuals who have been incarcerated and people who have been 
+17 traditionally underrepresented in a relevant employment area under this chapter.
+18 C.  "Labor organization" means an organization that is not a company union and that 
+19 is constituted for the purpose, in whole or in part, of engaging in collective bargaining, 
+20 dealing with employers concerning employee grievances or terms or conditions of 
+21 employment or providing other employee aid or protection. "Labor organization" 
+22 includes, but is not limited to, a bona fide labor organization that is certified or 
+23 recognized as the organization of jurisdiction representing the relevant workers or a 
+24 bona fide building and construction trades council or district council or state or local 
+25 labor federation comprised of local unions certified or recognized as the representative 
+26 of the relevant workers.
+27 D.  "Registered apprenticeship program" means an apprenticeship training program 
+28 that:
+29 (1) Is provided for each trade for which the employer employs craft workers;
+30 (2) Is registered with and approved by the United States Department of Labor or 
+31 the Maine Apprenticeship Program under section 3202; and
+32 (3) Actively trains employees, has functioning training facilities and is regularly 
+33 graduating apprentices to journeyman status who are then placed in employment 
+34 on an assisted project.
+35 E.  "Renewable energy project" means a project to construct a source of electrical 
+36 generation of 5 megawatts or more that relies on one or more of the following:
+37 (1)  Fuel cells;
+38 (2)  Tidal power;
+Page 2 - 130LR0343(01)1 (3)  Solar arrays and installations;
+2 (4)  Wind power installations;
+3 (5)  Geothermal installations;
+4 (6)  Hydroelectric generators;
+5 (7)  Biomass generators that are fueled by wood or wood waste, landfill gas or 
+6 anaerobic digestion of agricultural products, by-products or wastes; or
+7 (8)  Generators fueled by municipal solid waste in conjunction with recycling.  
+8 F.  "Workforce development program" means a program provided by an employer that:
+9 (1) Provides any employee from a disadvantaged community, including a newly 
+10 hired employee, opportunities for skill development that will enable the employee 
+11 to qualify for a higher-paying job; and
+12 (2) Provides apprenticeship training through a registered apprenticeship program 
+13 for each trade in which the employer employs craft workers.
+142.  Labor and project performance standards.  The following requirements apply to 
+15 an assisted project.
+16 A.  An entity responsible for an assisted project shall, in accordance with applicable 
+17 law, take all necessary actions to establish and administer a workforce development 
+18 program. 
+19 B.  A contractor working on an assisted project shall provide or participate in a 
+20 registered apprenticeship program for each trade in which it employs craft workers and 
+21 shall provide proof within 7 days of a request from the Department of Labor that the 
+22 apprenticeship program meets all the requirements of a registered apprenticeship 
+23 program.  
+24 C.  A contractor or subcontractor working on an assisted project shall pay craft workers 
+25 on the assisted project no less than the applicable prevailing wage and benefits for the 
+26 appropriate classification in which the worker is employed, as established by the 
+27 Bureau of Labor Standards under section 1308.  The contractor or subcontractor shall 
+28 provide all information to the bureau required under chapter 15.  
+29 (1) The entity responsible for the assisted project that is receiving state assistance 
+30 for that project shall take reasonable steps to ensure that all contractors and 
+31 subcontractors meet the requirements of this paragraph.  
+32 (2) The requirements of this paragraph do not apply if the entity responsible for the 
+33 assisted project has entered into or has ensured that the entity directly responsible 
+34 for the construction of the assisted project has entered into a project labor 
+35 agreement consistent with the requirements of subsection 3.
+36 D.  If the assisted project involves a renewable energy project with a generation 
+37 capacity of 50 megawatts or more, the entity responsible for the assisted project shall 
+38 also ensure that a project labor agreement under subsection 3 is executed between the 
+39 entity directly responsible for construction of the assisted project and a labor 
+40 organization to supply skilled craft workers in all crafts needed for the project in the 
+41 area where the project is located.
+Page 3 - 130LR0343(01)1 E.  Employers working on an assisted project shall adopt and follow any hiring policies 
+2 required by the Department of Labor by rule under subsection 5.
+33.  Terms of project labor agreement.  In order to meet the requirements of this 
+4 section, an assisted project must have in place a project labor agreement that conforms to 
+5 this subsection.  The project labor agreement must:
+6 A.  Bind all contractors and subcontractors on the assisted project to the project labor 
+7 agreement through the inclusion of appropriate specifications in all relevant solicitation 
+8 provisions and contract documents;
+9 B.  Allow all contractors and subcontractors to compete for contracts and subcontracts 
+10 on the assisted project without regard to whether they are otherwise parties to collective 
+11 bargaining agreements;
+12 C.  Establish uniform terms and conditions of employment for all craft workers 
+13 employed on the assisted project;
+14 D.  Contain guarantees against strikes, lockouts and similar job disruptions;
+15 E.  Set forth effective, prompt and mutually binding procedures for resolving labor 
+16 disputes arising during the project labor agreement; and
+17 F.  Include other provisions negotiated by the parties as needed to promote successful 
+18 delivery of the assisted project.
+194.  Penalties and sanctions.  Failure of an entity that receives state assistance for an 
+20 assisted project to comply with this section constitutes a material breach of the agreement, 
+21 grant, loan, commitment of funds or other instrument pursuant to which state assistance is 
+22 provided, and the relevant state agency may impose any available and appropriate penalties 
+23 for that breach, including, but not limited to, ending the assistance and recouping all or part 
+24 of any assistance already provided for the assisted project or directing that, in order for the 
+25 entity to receive continued assistance, the entity must meet the requirements of this section 
+26 and pay remedial compensation to any employees who were not paid prevailing wage and 
+27 benefits.
+285.  Rules; underrepresented populations.  The Department of Labor shall adopt rules 
+29 to implement this section.  The rules must require or incentivize employers working on 
+30 eligible projects to adopt and maintain hiring policies that will attract and retain a diverse 
+31 workforce that includes individuals who are traditionally underrepresented in that 
+32 workforce, including Native Americans, persons of color, women and veterans.  Rules 
+33 adopted under this subsection are routine technical rules as defined in Title 5, chapter 375, 
+34 subchapter 2-A.
+35Sec. 2.  32 MRSA §1101, sub-§2, as amended by PL 2017, c. 198, §2, is further 
+36 amended to read:
+372.  Electrical installations.  "Electrical installations" means the installation, repair, 
+38 alteration and maintenance of electrical conductors, fittings, devices and fixtures for 
+39 heating, lighting, power purposes or heat activated fire alarms, intrusion alarms, energy 
+40 management, telephone, cable and closed-circuit television, sound systems, data 
+41 transmission, conduit and raceway systems and electrically supervised manual fire alarms 
+42 and sprinkler systems.  "Electrical installations" includes complete but is not limited to 
+43 installations related to photovoltaic, fuel cell and wind power generation systems.  
+Page 4 - 130LR0343(01)44 Installation of photovoltaic systems includes but is not limited to the installation of 
+45 supporting structures, such as frames, racks, rails, purlins and any part of the supporting 
+46 structure that has an Underwriters Laboratories LLC listing as a raceway, and footings.  
+47 "Electrical installations" does not include the installation or repair of portable appliances 
+48 and other portable electrical equipment, installation of which involves only the insertion of 
+49 an attachment plug into a fixed receptacle outlet. It is the meaning and intent of this 
+50 subsection that the word "portable" does not include or apply to any type of fixed 
+51 electrically operated or driven equipment.
+9SUMMARY
+10 This bill does the following.
+11 1.  It requires projects involving the construction of renewable energy generating 
+12 systems that are receiving at least $50,000 in state assistance to meet certain requirements, 
+13 including the following.
+14 A.  The entity responsible for the assisted project must establish a workforce 
+15 development program that provides employees from disadvantaged communities 
+16 opportunities for skill development and that also provides apprenticeship training 
+17 through a registered apprenticeship program for each trade in which the employer 
+18 employs craft workers.
+19 B.  A contractor working on the assisted project must provide or participate in a 
+20 registered apprenticeship training program for each trade in which it employs craft 
+21 workers.
+22 C.  A contractor or subcontractor working on the assisted project must pay craft 
+23 workers on the project no less than the applicable prevailing wage and benefits, and 
+24 the entity responsible for the assisted project that is receiving state assistance for that 
+25 project must take reasonable steps to ensure that all contractors and subcontractors 
+26 meet this requirement.  This requirement does not apply, however, if the entity 
+27 responsible for the assisted project has ensured that the entity directly responsible for 
+28 the construction of the project has entered into a project labor agreement that meets 
+29 certain requirements.
+30 D.  If the assisted project involves a renewable energy project with a generation 
+31 capacity of 50 megawatts or more, the entity responsible for the project is required to 
+32 ensure that a project labor agreement is executed between the entity directly 
+33 responsible for construction of the project and a labor organization to supply skilled 
+34 craft workers in all crafts needed for the project in the area where the project is located.
+35 E.  Employers working on an assisted project are required to adopt any hiring policies 
+36 established by the Department of Labor by rule that require employers working on 
+37 assisted projects to adopt and maintain hiring policies that will attract and retain a 
+38 diverse workforce.  The department may adopt incentives for adopting such policies 
+39 rather than establishing requirements. 
+40 2.  It amends the definition of "electrical installation" in the law governing the licensing 
+41 of electricians.  Under the law, undertaking an electrical installation generally requires a 
+42 license.  The bill defines an electrical installation of a photovoltaic system to include the 
+43 installation of supporting structures, such as frames, racks, rails, purlins and any part of the 1
+2
+3
+4
+5
+6
+7
+8
+10
+Page 5 - 130LR0343(01)44 supporting structure that has an Underwriters Laboratories LLC listing as a raceway, and 
+45 footings.1
+2

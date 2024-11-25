@@ -1,0 +1,1039 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1628
+H.P. 1171 House of  Representatives,  April 25, 2019
+An Act  To Implement  Recommendations of the Department of 
+Environmental Protection Regarding the State's Container Redemption Laws
+Reported by Representative TUCKER of Brunswick for the Joint  Standing Committee  on 
+Environment and  Natural  Resources pursuant to Joint  Order  2019, H.P. 883.
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed pursuant to Joint Rule  218.
+ROBERT  B. HUNT
+Clerk
+
+Page 1 - 129LR2466(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §1760, sub-§93, as amended by PL 2015, c. 166, §13, is 
+3further amended to read:
+493.  Plastic bags sold to redemption centers.  Sales to a local redemption center 
+5licensed under Title 38, section 3113 of plastic bags used by the redemption center to 
+6sort, store or transport returnable beverage containers.
+7Sec. 2.  38 MRSA §352, sub-§5-A, as amended by PL 2009, c. 374, §1, is further 
+8amended to read:
+95-A.  Accounting system.  In order to determine the extent to which the functions set 
+10out in this section are necessary for the licensing process or are being performed in an 
+11efficient and expeditious manner, the commissioner shall require that all employees of the 
+12department involved in any aspect of these functions keep accurate and regular daily time 
+13records.  These records must describe the matters worked on, services performed and the 
+14amount of time devoted to those matters and services, as well as amounts of money 
+15expended in performing those functions.  Records must be kept for a sufficient duration 
+16of time as determined by the commissioner to establish to the commissioner's satisfaction 
+17that the fees are appropriate.
+18TABLE I
+19MAXIMUM FEES IN DOLLARS
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37TITLE 36
+SECTION PROCESSING FEE CERTIFICATION 
+FEE
+656, sub-§1, ¶E, Pollution Control 
+Facilities
+A.  Water pollution control facilities 
+with capacities at least 4,000 gallons 
+of waste per day and §1760, sub-§29, 
+water pollution control facilities$250 $20
+B.  Air pollution control and §1760, 
+sub-§30, air pollution control facilities250 20
+TITLE 38
+SECTIONPROCESSING FEE LICENSE
+FEE
+344, sub-§7, Permit by rule $50 $0
+413, Waste discharge licenses See section 353-B
+420-D, Storm water management
+Page 2 - 129LR2466(01)-11
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42A. If structural means of storm water 
+control are used$400 for the first 
+acre of disturbed 
+area, plus $200 for 
+each additional 
+whole acre of 
+disturbed area$100 for the first 
+acre of disturbed 
+area, plus $50 for 
+each additional 
+whole acre of 
+disturbed area
+B. If solely vegetative means of storm 
+water control are used$200 for the first 
+acre of disturbed 
+area, plus $100 for 
+each additional 
+whole acre of 
+disturbed area$50 for the first acre 
+of disturbed area, 
+plus $25 for each 
+additional whole 
+acre of disturbed 
+area
+C. When a permit by rule is required $55 none
+If a project described in paragraph A or B is reviewed and approved by a 
+professional engineer at a soil and water conservation district office that has a 
+memorandum of understanding with the department concerning review of projects 
+pursuant to this section, the total applicable fee is reduced to a processing fee of 
+$100 for the first acre of disturbed area, plus a license fee of $50 for each 
+additional whole acre of disturbed area.
+480-E, Natural resources protection
+A.  Any alteration of a protected 
+natural resource, except coastal 
+wetlands and coastal sand dunes, 
+causing less than 20,000 square feet of 
+alteration of the resource140 50
+B.  Any alteration of a coastal wetland 
+causing less than 20,000 square feet of 
+alteration of the resource240 60
+C.  Any alteration of a protected 
+natural resource, except coastal sand 
+dunes, causing 20,000 square feet or 
+more of alteration of the resource.015/sq. ft. alteration .005/sq. ft. alteration
+C-1.  Significant groundwater well 4,577 1,961
+C-2.  Activity within a community 
+public water supply primary protection 
+area183 64
+D.  Any alteration of a coastal sand 
+dune3,500 1,500
+E.  Condition compliance 84 0
+F.  Minor modification 184 0
+485-A, Site location of development
+A.  Residential subdivisions
+Page 3 - 129LR2466(01)-11
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+411. Affordable housing 50/lot 50/lot
+2. On public water and sewers 175/lot 175/lot
+3. All Other 250/lot 250/lot
+B.  Industrial parks 460/lot 460/lot
+C.  Mining 1,500 1,000
+D.  Structures 4,000 2,000
+E.  Other 1,000 1,000
+543, Oily waste discharge 40 160
+560, Vessels at anchorage 125 100
+587, Ambient air quality or emissions 
+standards variances5,050 50
+590, Air emissions licenses See section 353-A
+633, Hydropower projects
+A.  New or expanded generating 
+capacity450/MW 50/MW
+B.  Maintenance and repair or other 
+structural alterations not involving an 
+increase in generating capacity150 150
+33 United States Code, Chapter 26, Water 
+Quality Certifications, in conjunction with 
+applications for hydropower project 
+licensing or relicensing
+A.  Initial consultation 1,000 0
+B.  Second consultation 1,000 0
+C.  Application
+1. Storage 1,000 0
+2. Generating 300/MW 50/MW
+1304, Waste management
+A.  Septage disposal
+1. Site designation 50 25
+B.  Land application of sludges and 
+residuals program approval
+1. Industrial sludge 400 400
+2. Municipal sludge 300 275
+3. Bioash 300 275
+4. Wood ash 300 75
+5. Food waste 300 75
+6. Other residuals 300 175
+C.  Landfill
+1. Closing plans for secure 
+landfills1,500 1,500
+Page 4 - 129LR2466(01)-11
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30TABLE II
+31WASTE MANAGEMENT FEES - ANNUAL LICENSE
+32MAXIMUM FEES IN DOLLARS
+33
+34
+35
+36
+37
+38
+392. Closing plans for attenuation 
+landfills500 500
+3. Post-closure report 175 175
+4.  Preliminary information reports 175 175
+5. License transfers 500 175
+6. Special waste disposal 
+a. One-time disposal of 
+quantities of 6 cubic yards or 
+less 50 50
+b. One-time disposal of 
+quantities greater than 6 cubic 
+yards 100 100
+c. Program approval for 
+routine disposal of a special 
+waste300 300
+7. Minor revision for secure 
+landfills 600 100
+8. Minor revision for attenuation 
+landfills100 100
+9. Public benefit determination 175 175
+D.  Incineration facility
+2.  License transfer 175 175
+E.  License transfer other than for 
+landfills and incinerators100 100
+F. Minor revision for septage facilities 
+and solid waste facilities other than 
+landfills100 100
+G. Permit by rule for one-time 
+activities100 100
+TITLE 38
+SECTIONPROCESSING FEE ANNUAL LICENSE 
+FEE
+1278, Asbestos abatement
+A.  Asbestos abatement contractor $0 $650
+B.  Asbestos abatement worker 0 50
+C.  Asbestos consultant 0 650
+D.  Asbestos analytical laboratory 0 400
+Page 5 - 129LR2466(01)-11
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42E.  Training provider 0 500
+F.  Other categories of asbestos 
+professionals except asbestos 
+abatement workers0 100
+G.  Notification
+1.  Project size greater than 100 
+square feet or 100 linear feet and 
+less than 500 square feet or 2,500 
+linear feet100 0
+2.  Project size 500 square feet or 
+2,500 linear feet, or greater, and 
+less than 1,000 square feet or 
+5,000 linear feet150 0
+3.  Project size 1,000 square feet 
+or 5,000 linear feet, or greater 300 0
+1304, Waste management
+A.  Septage disposal
+1. Landspreading $550 $250
+2. Storage 50 75
+B.  Residuals compost facility
+1. Type I 150 150
+3. Type II and Type III less than 
+3,500 cubic yards700 500
+5.  Type II and Type III 3,500 
+cubic yards or greater1,400 850
+C.  Land application of sludges and 
+residuals 
+1. Sites with program approval 
+a. Industrial sludge 150 250
+b. Municipal sludge 75 200
+c. Bioash 75 200
+d. Wood ash 50 125
+e. Food waste 50 125
+f. Other residuals 50 125
+2. Sites without program approval 
+a. Industrial sludge 300 550
+b. Municipal sludge 150 250
+c. Bioash 150 250
+d. Wood ash 75 200
+e. Food waste 75 200
+f. Other 75 200
+1310-N, Solid waste facility siting
+Page 6 - 129LR2466(01)-11
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39Sec. 3.  38 MRSA §3102, sub-§12, as enacted by PL 2015, c. 166, §14, is 
+40repealed.
+41Sec. 4.  38 MRSA §3102, sub-§13, as enacted by PL 2015, c. 166, §14, is 
+42amended to read:A.  Landfill
+1. Existing, nonsecure municipal 
+solid waste landfills accepting 
+waste from fewer than 15,000 
+people 3,500 3,500
+2. Existing, nonsecure municipal 
+solid waste landfills accepting 
+waste from more than 15,000 
+people 3,500 3,500
+3. New or expanded for secure 
+landfill5,000 8,500
+5. Nonsecure wood waste or 
+demolition debris landfills, or 
+both, if less than or equal to 6 
+acres 700 750
+B.  Incineration facilities
+1. New or expanded for the 
+acceptance of municipal or special 
+wastes, or both 3,500 5,000
+2. Municipally owned and 
+operated solid waste incinerators 
+with licensed capacity of 10 tons 
+per day or less 3,500 1,000
+C.  Transfer station and storage 
+facility750 175
+D.  Tire storage facility 400 450
+F.  Processing facility other than 
+municipal solid waste composting 700 700
+G.  Beneficial use activities other than 
+agronomic utilization 
+3. Fuel substitution 700 500
+4. Beneficial use without risk 
+assessment700 200
+5. Beneficial use with risk 
+assessment1,400 500
+H.  Permit by rule for ongoing 
+activities100 100
+3109, Redemption centers 0 100
+Page 7 - 129LR2466(01)-1113.  Manufacturer.  "Manufacturer" means a person who bottles, cans or otherwise 
+2places beverages in beverage containers for sale to distributors or dealers. that:
+3A.  Sells or offers for sale a beverage in the State under the manufacturer's brand or 
+4label;
+5B.  Licenses another person to sell or offer for sale a beverage in the State under the 
+6manufacturer's brand or label;
+7C.  Imports into the United States for sale or offering for sale in the State a beverage 
+8that is manufactured outside of the United States by another person without a 
+9presence in the United States; or
+10D.  Is an out-of-state wholesaler of liquor that holds a certificate of approval issued 
+11pursuant to Title 28-A.
+12Sec. 5.  38 MRSA §3102, sub-§§16-A, 17-A and 17-B are enacted to read:
+1316-A.  Pick-up agent.  "Pick-up agent" means an initiator of deposit, a distributor or 
+14a contracted agent of an initiator of deposit or a distributor that receives redeemed 
+15beverage containers from a redemption center and transports those containers for 
+16recycling.
+1717-A.  Proprietary information.  "Proprietary information" means information that 
+18is a trade secret or production, commercial or financial information the disclosure of 
+19which would impair the competitive position of the submittor and would make available 
+20information not otherwise publicly available.
+2117-B.  Redemption center.  "Redemption center" means a place of business that 
+22deals in acceptance of empty returnable beverage containers from either consumers or 
+23from dealers, or both, and that is licensed under section 3113.
+24Sec. 6.  38 MRSA §3105, sub-§5, as enacted by PL 2015, c. 166, §14, is amended 
+25to read:
+265.  Label registration.  An initiator of deposit shall register the container label of any 
+27beverage offered for sale in the State on which it initiates a deposit.  Registration must be 
+28on forms or in an electronic format provided by the department and must include the 
+29universal product code for each combination of beverage and container manufactured.  
+30The initiator of deposit shall renew a label registration annually and whenever that label 
+31is revised by altering the universal product code or whenever the container on which it 
+32appears is changed in size, composition or glass color.  The initiator of deposit shall also 
+33include as part of the registration the method of collection for that type of container, 
+34identification of a collection agent, identification of all of the parties to a commingling 
+35agreement that applies to the container and proof of the collection agreement.  The 
+36department may charge a fee for registration and registration renewals under this 
+37subsection.  Rules adopted pursuant to this subsection that establish fees are major 
+38substantive rules as defined in Title 5, chapter 375, subchapter 2-A and subject to review 
+39by the joint standing committee of the Legislature having jurisdiction over environmental 
+40and natural resources matters.
+Page 8 - 129LR2466(01)-11Sec. 7.  38 MRSA §3106, as enacted by PL 2015, c. 166, §14, is amended to read:
+2§3106.  Application
+31.  Dealer acceptance.  Except as otherwise provided in this section, a dealer 
+4operating a retail space of 5,000 square feet or more may not refuse to accept from any 
+5consumer or other person not a dealer any empty, unbroken and reasonably clean 
+6beverage container of the kind, size and brand sold by the dealer, or refuse to pay in cash 
+7the refund value of the returned beverage container as established by section 3103 unless 
+8the dealer has a written agreement with a redemption center that is located within 10 
+9miles from the dealer, as measured along public roadways, to provide redemption 
+10services on behalf of the dealer. This section does not require an operator of a vending 
+11machine to maintain a person to accept returned beverage containers on the premises 
+12where the vending machine is located.
+132.  Permissive refusal by dealer.  A dealer may refuse to accept from a consumer or 
+14other person and to pay the refund value on any beverage container, if the place of 
+15business of the dealer and the kind, size and brand of beverage container are included in 
+16an order of the department approving a redemption center under section 3109.
+173.  Limitation or number of returnables accepted.  A dealer may limit the total 
+18number of beverage containers that the dealer will accept from any one consumer or other 
+19person in any one business day to 240 containers, or any other number greater than 240.
+204.  Limitation on hours for returning containers.  A dealer may refuse to accept 
+21beverage containers during no more than 3 hours in any one business day. If a dealer 
+22refuses to accept containers under this subsection, the hours during which the dealer will 
+23not accept containers must be conspicuously posted.
+245.  Distributor acceptance.  A distributor may not refuse to accept from any dealer 
+25or local redemption center any empty, unbroken and reasonably clean beverage container 
+26or any beverage container that has been processed through an approved reverse vending 
+27machine that meets the requirements of rules adopted by the department pursuant to this 
+28chapter of the kind, size and brand sold by the distributor or refuse to pay to the dealer or 
+29local redemption center the refund value of a beverage container as established by section 
+303103.
+316.  Obligation to preserve recycling value.  Notwithstanding subsection 8, a 
+32distributor or its agent may refuse to accept, or pay the refund value and handling costs to 
+33a dealer, redemption center or other person for, a beverage container that has been 
+34processed by a reverse vending machine in a way that has reduced the recycling value of 
+35the container below current market value.  This subsection may not be interpreted to 
+36prohibit a written processing agreement between a distributor and a dealer or redemption 
+37center and does not relieve a distributor of its obligation under subsection 8 to accept 
+38empty, unbroken and reasonably clean beverage containers.  The department shall adopt 
+39rules to establish the recycling value of beverage containers under this subsection and the 
+40rules may authorize the use of a 3rd-party vendor to determine if a beverage container has 
+41been processed by a reverse vending machine in a manner that has reduced the recycling 
+42value below current market value.  The rules must outline the method of allocating 
+Page 9 - 129LR2466(01)-11among the parties involved the payment for 3rd-party vendor costs.  Rules adopted under 
+2this subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 
+32-A.
+47.  Reimbursement of handling costs.  Reimbursement of handling costs is 
+5governed by this subsection.
+6A.  In addition to the payment of the refund value, the initiator of the deposit under 
+7section 3103, subsections 1, 2 and 4 shall reimburse the dealer or local redemption 
+8center for the cost of handling beverage containers subject to section 3103, in an 
+9amount that equals at least 3¢ per returned container for containers picked up by the 
+10initiator before March 1, 2004, at least 3 1/2¢ for containers picked up on or after 
+11March 1, 2004 and before March 1, 2010 and at least 4¢ for containers picked up on 
+12or after March 1, 2010.  The initiator of the deposit may reimburse the dealer or local 
+13redemption center directly or indirectly through a party with which it has entered into 
+14a commingling agreement.
+15B.  In addition to the payment of the refund value, the initiator of the deposit under 
+16section 3103, subsection 3 shall reimburse the dealer or local redemption center for 
+17the cost of handling beverage containers subject to section 3103 in an amount that 
+18equals at least 3¢ per returned container for containers picked up by the initiator 
+19before March 1, 2004, at least 3 1/2¢ for containers picked up on or after March 1, 
+202004 and before March 1, 2010 and at least 4¢ for containers picked up on or after 
+21March 1, 2010.  The initiator of the deposit may reimburse the dealer or local 
+22redemption center directly or indirectly through a contracted agent or through a party 
+23with which it has entered into a commingling agreement.
+24C.  The reimbursement that the initiator of the deposit is obligated to pay the dealer or 
+25redemption center pursuant to paragraph A or B must be reduced by 1/2¢ for any 
+26returned container that is subject to managed in a commingling program in 
+27accordance with a qualified commingling agreement that allows the dealer or 
+28redemption center to commingle beverage containers of like product group, material 
+29and size.  A commingling agreement is qualified for purposes of this paragraph if the 
+30department determines that 50% or more of the beverage containers of like product 
+31group, material and size for which the deposits are being initiated in the State are 
+32covered by the commingling agreement or that the initiators of deposit covered by the 
+33commingling agreement are initiators of deposit for wine containers who each sell no 
+34more than 100,000 gallons of wine or 500,000 beverage containers that contain wine 
+35in a calendar year.  Once the initiator of deposit has established a qualified 
+36commingling agreement for containers of a like product group, material and size, the 
+37department shall allow additional brands to be included from a different product 
+38group if they are of like material.  The State, through the Department of 
+39Administrative and Financial Services, Bureau of Alcoholic Beverages and Lottery 
+40Operations, shall make every reasonable effort to enter into a qualified commingling 
+41agreement under this paragraph with every other initiator of deposit for beverage 
+42containers that are of like product group, size and material as the beverage containers 
+43for which the State is the initiator of deposit.
+44D.  Paragraphs A, B and C do not apply to a brewer who annually produces no more 
+45than 50,000 gallons of its product or a bottler of water who annually sells no more 
+Page 10 - 129LR2466(01)-11than 250,000 containers each containing no more than one gallon of its product.  In 
+2addition to the payment of the refund value, an initiator of deposit under section 
+33103, subsections 1 to 4 who is also a brewer who annually produces no more than 
+450,000 gallons of its product or a bottler of water who annually sells no more than 
+5250,000 containers each containing no more than one gallon of its product shall 
+6reimburse the dealer or local redemption center for the cost of handling beverage 
+7containers subject to section 3103 in an amount that equals at least 3¢ per returned 
+8container.
+98.  Obligation to pick up and recycle containers.  The obligation to pick up and 
+10recycle beverage containers subject to this chapter is determined as follows.
+11A.  A distributor that initiates the deposit under section 3103, subsection 2 or 4 has 
+12the obligation to pick up and recycle any empty, unbroken and reasonably clean 
+13beverage containers of the particular kind, size and brand sold by the distributor from 
+14dealers to whom that distributor has sold those beverages and from licensed 
+15redemption centers designated to serve those dealers pursuant to an order entered 
+16under section 3109.  A distributor that, within this State, sells beverages under a 
+17particular label exclusively to one dealer, which dealer offers those labeled beverages 
+18for sale at retail exclusively at the dealer's establishment, shall pick up any empty, 
+19unbroken and reasonably clean beverage containers of the kind, size and brand sold 
+20by the distributor to the dealer only from those licensed redemption centers that serve 
+21the various establishments of the dealer, under an order entered under section 3109 
+22are located within 25 miles from the dealer, as measured along public roadways.  A 
+23dealer that manufactures its own beverages for exclusive sale by that dealer at retail 
+24has the obligation of a distributor under this section.  The commissioner may 
+25establish by rule, in accordance with the Maine Administrative Procedure Act, 
+26criteria prescribing the manner in which distributors shall fulfill the obligations 
+27imposed by this paragraph.  The rules may establish a minimum number or value of 
+28containers below which a distributor is not required to respond to a request to pick up 
+29empty containers.  Any rules adopted under this paragraph must allocate the burdens 
+30associated with the handling, storage and, transportation and recycling of empty 
+31containers to prevent unreasonable financial or other hardship.
+32B.  The initiator of the deposit under section 3103, subsection 3 has the obligation to 
+33pick up and recycle any empty, unbroken and reasonably clean beverage containers 
+34of the particular kind, size and brand sold by the initiator from dealers to whom a 
+35distributor has sold those beverages and from licensed redemption centers designated 
+36to serve those dealers pursuant to an order entered under section 3109.  The 
+37obligation may be fulfilled by the initiator directly or indirectly through a contracted 
+38agent.
+39C.  An initiator of the deposit under section 3103, subsection 2, 3 or 4 has the 
+40obligation to pick up and recycle any empty, unbroken and reasonably clean beverage 
+41containers that are commingled pursuant to a commingling agreement along with any 
+42beverage containers that the initiator is otherwise obligated to pick up and recycle 
+43pursuant to paragraphs A and B.
+44D.  The initiator of deposit or initiators of deposit who are members of a 
+45commingling agreement have the obligation under this subsection to pick up and 
+Page 11 - 129LR2466(01)-11recycle empty, unbroken and reasonably clean beverage containers of the particular 
+2kind, size and brand sold by the initiator from dealers to whom a distributor has sold 
+3those beverages and from licensed redemption centers designated to serve those 
+4dealers every 15 days.  The initiator of deposit or initiators of deposit who are 
+5members of a commingling agreement have the obligation to make additional pickups 
+6when a redemption center has collected 10,000 beverage containers from that initiator 
+7of deposit or from the initiators of deposit who are members of a commingling 
+8agreement.
+9The obligation obligations of the initiator of the deposit under this subsection may be 
+10fulfilled by the initiator directly or through a party with which it has entered into a 
+11commingling agreement.  A contracted agent hired to pick up beverage containers for one 
+12or more initiators of deposit is deemed to have made a pickup at a redemption center for 
+13those initiators of deposit when it picks up beverage containers belonging to those 
+14initiators of deposit.
+159.  Plastic bags.  A dealer or redemption center has an obligation to pick up plastic 
+16bags that are used by that dealer or redemption center to contain beverage containers.  
+17Plastic bags used by a dealer or redemption center and the cost allocation of these bags 
+18must conform to rules adopted by the department concerning size and gauge.  Rules 
+19adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+20chapter 375, subchapter 2-A.
+2110.  Application to containers originally sold in the State.  The obligations to 
+22accept or take empty beverage containers and to pay the refund value and handling fees 
+23for such containers as described in subsections 1, 2, 5, 7 and 8 apply only to containers 
+24originally sold in this State as filled beverage containers.  A person who tenders to a 
+25dealer, distributor, redemption center or bottler more than 48 empty beverage containers 
+26that the person knows or has reason to know were not originally sold in this State as filled 
+27beverage containers is subject to the enforcement action and civil penalties set forth in 
+28this subsection.  At each location where consumers tender containers for redemption, 
+29dealers and redemption centers must conspicuously display a sign in letters that are at 
+30least one inch in height with the following information:  "WARNING:  Persons tendering 
+31containers for redemption that were not originally purchased in this State may be subject 
+32to a fine of the greater of $100 per container or $25,000 for each tender.  (38 MRSA 
+33Section 3106)."  A person who violates the provisions of this subsection is subject to a 
+34civil penalty of the greater of $100 for each container or $25,000 for each tender of 
+35containers.
+3611.  License revocation.  The department may revoke the license of a dealer or 
+37redemption center that has been adjudged to have committed a violation of this section.
+3812.  Bulk redemption.  In order to prevent fraud from the redemption of beverage 
+39containers not originally sold in this State, this subsection governs the redemption of 
+40more than 2,500 beverage containers.
+41A.  A person tendering for redemption more than 2,500 beverage containers at one 
+42time to a dealer or redemption center must provide to the dealer or redemption center 
+43that person’s name and address and the license plate number of the vehicle used to 
+Page 12 - 129LR2466(01)-11transport the beverage containers. The dealer or redemption center redeeming these 
+2beverage containers shall forward that information to the department within 10 days, 
+3and the information must be kept on file for a minimum of 12 months.
+4B.  After complying at least once with the requirements of paragraph A, a person 
+5need not comply with paragraph A each subsequent time that person tenders to a 
+6dealer or redemption center for redemption more than 2,500 beverage containers if:
+7(1)  All of the containers were collected at one location in this State;
+8(2)  All proceeds of the refund value benefit a nonprofit organization that has 
+9been determined by the United States Internal Revenue Service to be exempt 
+10from taxation under the United States Internal Revenue Code of 1986, Section 
+11501(c)(3); and
+12(3)  The person tendering the containers for redemption signs a declaration 
+13indicating the person’s name, the address of the collection point and the name of 
+14the organization or organizations that will receive the refund value.
+1513.  Private right of action; containers not originally sold in the State.  An 
+16initiator of deposit may maintain a civil action in Superior Court against a person, other 
+17than a local redemption center licensed in accordance with section 3113, that tenders to a 
+18redemption center or retailer more than 48 empty beverage containers that the person 
+19knows or has reason to know were not originally sold in this State as filled beverage 
+20containers.  If the initiator of deposit prevails in any action, the initiator of deposit is 
+21entitled to an award of reasonable attorney's fees and court costs, including expert witness 
+22fees.
+23Sec. 8.  38 MRSA §3107, as enacted by PL 2015, c. 166, §14, is amended to read:
+24§3107.  Commingling of beverage containers
+25Notwithstanding any other provision of this chapter to the contrary, 2 or more 
+26initiators of deposit may enter into a commingling agreement through which some or all 
+27of the beverage containers for which the initiators have initiated deposits may be 
+28commingled by dealers and operators of redemption centers as provided in this section.  
+29No later than January 1, 2023, each initiator of deposit shall enter into a commingling 
+30agreement pursuant to this section.
+31An initiator of deposit that enters into a commingling agreement pursuant to this 
+32section shall permit any other initiator of deposit to become a party to that agreement on 
+33the same terms and conditions as the original agreement.  Once the initiator of deposit has 
+34established a qualified commingling agreement pursuant to the requirements of 
+35subsection 1-A, the department shall allow additional brands of beverage containers from 
+36a different product group to be included in the commingling agreement if those additional 
+37brands are of like material to those containers already managed under the commingling 
+38agreement.
+39For the purposes of this chapter and notwithstanding any provision of this chapter to 
+40the contrary, the State, through the Department of Administrative and Financial Services, 
+41Bureau of Alcoholic Beverages and Lottery Operations, is deemed to be managing 
+Page 13 - 129LR2466(01)-11returned containers for which the State has initiated deposits in a commingling program 
+2pursuant to a qualified commingling agreement as long as the State allows a dealer or 
+3redemption center to commingle returned containers of like material.
+41.  Commingling requirement.  If initiators of deposit enter into a commingling 
+5agreement pursuant to this section, commingling of beverage containers must be by all 
+6containers of like product group, material and size. An initiator of deposit required 
+7pursuant to section 3106, subsection 8 to pick up beverage containers subject to a 
+8commingling agreement also shall pick up all other beverage containers subject to the 
+9same agreement.  The initiator of deposit may not require beverage containers that are 
+10subject to a commingling agreement to be sorted separately by a dealer or redemption 
+11center.
+121-A.  Qualified commingling agreements.  The department shall determine that a 
+13commingling agreement is qualified for the purposes of this chapter if:
+14A.  Fifty percent or more of beverage containers of like product group, material and 
+15size for which the deposits are being initiated in the State are included in the 
+16commingling agreement;
+17B.  The initiators of deposit included in the commingling agreement are initiators of 
+18deposit for beverage containers containing wine and each initiator of deposit sells no 
+19more than 100,000 gallons of wine or 500,000 beverage containers containing wine 
+20in a calendar year; or
+21C.  The commingling agreement has been approved by the department pursuant to 
+22subsection 3-A.
+232.  Commingling of like materials.  For purposes of this section, containers are 
+24considered to be of like materials if made up of one of the following:
+25A.  Plastic;
+26B.  Aluminum;
+27C.  Metal other than aluminum; and
+28D.  Glass.
+293.  Commingling of like products.  For purposes of this section, like products are 
+30those that are made up of one of the following:
+31A.  Beer, ale or other beverage produced by fermenting malt, wine and wine coolers;
+32B.  Spirits;
+33C.  Soda;
+34D.  Noncarbonated water; and
+35E.  All other beverages.
+363-A.  Commingling by 3rd party or stewardship organization.  Subject to the 
+37requirements of this subsection, an initiator of deposit may enter into a commingling 
+38agreement for its beverage containers to be managed in a commingling program operated 
+Page 14 - 129LR2466(01)-11by a 3rd party or by a stewardship organization as defined in section 1771, subsection 
+28-A.  The 3rd party or stewardship organization shall submit a plan for the operation of 
+3the commingling program to the department for review and approval as a qualified 
+4commingling agreement.  A commingling program under this subsection must:
+5A.  Require redemption centers to commingle all beverage containers of initiators of 
+6deposit included in the program by like material;
+7B.  Establish standards to provide for fair apportionment of costs among initiators of 
+8deposit included in the program either on the basis of the count of containers 
+9redeemed or on the total weight of containers marketed in the State.  These standards 
+10may provide for determination of the amount to be paid to a redemption center as 
+11based on the unit counts generated by a reverse vending machine, as long as the 
+12reverse vending machine is subject to periodic audits by the 3rd party or stewardship 
+13organization on a schedule approved by the department; and
+14C.  Require that, no later than the 20th day of the month following the end of March, 
+15June, September and December, each initiator of deposit included in the program 
+16report to the 3rd party or stewardship organization operating the program regarding 
+17its sales of beverages into the State for the previous 3-month period by brand and by 
+18number of nonrefillable beverage containers sold by product size and material type as 
+19well as the average beverage container weight by material type and size.  The 3rd 
+20party or stewardship organization shall assign financial responsibility for the costs of 
+21operating the program to the initiators of deposit included in the program based on 
+22each initiator of deposit's proportion of the total weight of beverage containers 
+23marketed in the State by material type or by actual count of containers redeemed;
+24The 3rd party or stewardship organization operating the program may require an initiator 
+25of deposit included in the program to provide financial assurance in the form of a deposit 
+26no greater than the initiator of deposit's anticipated costs for beverage container deposits, 
+27redemption center handling costs and any contractual fees for up to 4 months of 
+28anticipated sales in the State.  The 3rd party or stewardship organization shall retain any 
+29financial assurance required pursuant to this subsection in a separate account.  In the 
+30event that an initiator of deposit that has provided financial assurance in accordance with 
+31this subsection fails to reimburse the 3rd party or stewardship organization for its 
+32incurred costs within 90 days of receipt of an invoice for such costs, the 3rd party or 
+33stewardship organization may cover those invoiced costs using the financial assurance 
+34provided by the initiator of deposit in accordance with this subsection.
+35The department may approve no more than 2 commingling agreements as qualified 
+36commingling agreements under this subsection and may not approve a qualified 
+37commingling agreement under this subsection for a period exceeding 10 years.
+384.  Registration of commingling agreements.  Not later than 48 hours following the 
+39execution or amendment of a commingling agreement, including an amendment that adds 
+40an additional party to an existing agreement, the parties shall file a copy of the 
+41commingling agreement or amendment with the department.
+425.  Reapproval of qualified commingling agreements.  This subsection provides for 
+43the reapproval of qualified commingling agreements that have been approved or 
+44reapproved by the department pursuant to this section.
+Page 15 - 129LR2466(01)-11A.  The initiators of deposit participating in a qualified commingling agreement under 
+2this section that was approved as a qualified commingling agreement prior to 
+3November 9, 2016 shall, no later than July 1, 2021, submit to the department an 
+4application for reapproval of that commingling agreement in a form prescribed by the 
+5department.
+6B.  The initiators of deposit participating in a qualified commingling agreement under 
+7this section that was approved or reapproved on or after November 9, 2016 must 
+8submit to the department an application for reapproval of that commingling 
+9agreement in a form prescribed by the department at least 6 months prior to the date 
+10of expiration of the department's prior approval or reapproval.
+11C.  After review of an application submitted under this subsection, the department 
+12may reapprove the commingling agreement for an additional period not to exceed 10 
+13years.
+14Sec. 9.  38 MRSA §3109, as enacted by PL 2015, c. 166, §14, is amended to read:
+15§3109.  Redemption centers
+161.  Establishment.  Local redemption Redemption centers may be established and 
+17operated by any person or municipality, agency or regional association as defined in 
+18section 1303-C, subsection 24, subject to the approval of the commissioner, to serve local 
+19dealers and consumers, at which consumers may return empty beverage containers as 
+20provided under section 3106.
+212.  Application for approval.  Application for approval of a local redemption center 
+22must be filed with the department. The application must state the name and address of the 
+23person responsible for the establishment and operation of the center, the kinds, sizes and 
+24brand names of beverage containers that will be accepted and the names and addresses of 
+25dealers to be served each dealer with whom the redemption center has entered into a 
+26written agreement to provide redemption services in accordance with section 3106, 
+27subsection 1 and their distances from the local redemption center, as measured along 
+28public roadways, and must include a statement that the redemption center will accept and 
+29manage all beverage containers the labels for which are registered in accordance with 
+30section 3105.
+313.  Approval.  The commissioner may by order approve the licensing of a local 
+32redemption center if the redemption center complies with the requirements established 
+33under section 3113 and the applicable rules adopted pursuant to this chapter.  The order 
+34approving a local redemption center license must state the dealers to be served and the 
+35kinds, sizes and brand names of empty beverage containers that the center accepts.
+364.  Redemption center acceptance refund account.  A local licensed redemption 
+37center may not refuse to accept from any consumer or other person not a dealer any 
+38empty, unbroken and reasonably clean beverage container of the kind, size and brand sold 
+39by a dealer served by the center in the State as long as the label for the container is 
+40registered under section 3105, subsection 5 or refuse to pay in cash the refund value of 
+41the returned beverage container as established by section 3103. A redemption center or 
+42reverse vending machine is not obligated to count containers or to pay a cash refund at 
+Page 16 - 129LR2466(01)-11the time the beverage container is returned as long as the amount of the refund value due 
+2is placed into an account to be held for the benefit of the consumer and funded in a 
+3manner that allows the consumer to obtain deposits due within 2 business days of the 
+4time of the return.
+55.  Posted lists.  A list of the dealers served and the kinds, sizes and brand names of 
+6empty beverage containers accepted must be prominently displayed at each local 
+7redemption center.
+85-A.  Beverage container handling.  A redemption center shall tender to pick-up 
+9agents only beverage containers sold in the State that are placed in shells, shipping 
+10cartons, bags or other containers in a manner that facilitates accurate eligible beverage 
+11container unit counts.
+126.  License revocation.  The District Court department may, in a manner consistent 
+13with the Maine Administrative Procedure Act, withdraw approval of a local revoke the 
+14license of a redemption center if there the redemption center has not been compliance 
+15complied with the commissioner's approval order issued under subsection 3 or if the local 
+16redemption center no longer provides a convenient service to the public.
+17Sec. 10.  38 MRSA §3113, as enacted by PL 2015, c. 166, §14, is amended to 
+18read:
+19§3113.  Licensing requirements
+20A license issued annually by the department is required before any person may 
+21initiate deposits under section 3103, operate a redemption center under section 3109 or 
+22act as a contracted agent for the collection of beverage containers under section 3106, 
+23subsection 8, paragraph B.
+241.  Procedures; licensing fees.  The department shall adopt rules establishing the 
+25requirements and procedures for issuance of licenses and annual renewals under this 
+26section, including a fee structure.  Initial rules adopted pursuant to this subsection are 
+27routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.  Rules adopted 
+28effective after calendar year 2003 are major substantive rules as defined in Title 5, 
+29chapter 375, subchapter 2-A and are subject to review by the joint standing committee of 
+30the Legislature having jurisdiction over environmental and natural resources matters.
+312.  Redemption center licensing criteria.  In developing rules under subsection 1 for 
+32licensing redemption centers, the department shall consider at least the following:
+33A.  The health and safety of the public, including sanitation protection when food is 
+34also sold on the premises;
+35B.  The convenience for the public, including standards governing the distribution of 
+36centers by population or by distance, or both;
+37C.  The proximity of the proposed redemption center to existing redemption centers 
+38and the potential impact that the location of the proposed redemption center may have 
+39on an existing redemption center;
+Page 17 - 129LR2466(01)-11D.  The proposed owner's record of compliance with this chapter and rules adopted 
+2by the department pursuant to this chapter; and
+3E.  The hours of operation of the proposed redemption center and existing redemption 
+4centers in the proximity of the proposed redemption center.
+53.  Location of redemption centers; population requirements.  The department 
+6may grant a license to a redemption center if the following requirements are met:
+7A.  The department may license up to 5 redemption centers in a municipality with a 
+8population over 30,000;
+9B.  The department may license up to 3 redemption centers in a municipality with a 
+10population over 20,000 but no more than 30,000; and
+11C.  The department may license up to 2 redemption centers in a municipality with a 
+12population over 5,000 but no more than 20,000.
+13For a municipality with a population of no more than 5,000, the department may license 
+14redemption centers in accordance with rules adopted by the department.  Rules adopted 
+15pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+16subchapter 2-A.
+174.  Exceptions.  Notwithstanding subsection 3:
+18A.  An owner of a redemption center who is renewing the license of a redemption 
+19center licensed by the department as of April 1, 2009 need not comply with 
+20subsection 3;
+21B.  An entity that is a food establishment or distributor licensed by or registered with 
+22the department need not comply with subsection 3;
+23C.  A reverse vending machine is not considered a redemption center for purposes of 
+24subsection 3 when it is located in a licensed redemption center; and
+25D.  The department may grant a license that is inconsistent with the requirements set 
+26out in subsection 3 only if the applicant has demonstrated a compelling public need 
+27for an additional redemption center in the municipality.
+28Sec. 11.  38 MRSA §3115, first ¶, as enacted by PL 2015, c. 166, §14, is 
+29amended to read:
+30The department shall administer this chapter and has the authority, following public 
+31hearing, to adopt necessary rules to carry it into effect.  The department may adopt rules 
+32governing local redemption centers that receive beverage containers from dealers 
+33supplied by distributors other than the distributors servicing the area in which the local 
+34redemption center is located in order to prevent the distributors servicing the area within 
+35which the redemption center is located from being unfairly penalized.  Rules adopted by 
+36the department pursuant to this chapter are routine technical rules as defined in Title 5, 
+37chapter 375, subchapter 2-A, except that rules adopted by the department pursuant to this 
+38chapter that establish or modify fees are major substantive rules as defined in Title 5, 
+39chapter 375, subchapter 2-A.  In addition to other actions required by this chapter, 
+40department responsibilities include the following.
+Page 18 - 129LR2466(01)-11Sec. 12.  38 MRSA §3116, sub-§2, as enacted by PL 2015, c. 166, §14, is 
+2amended to read:
+32.  Aggrieved applicants.  An applicant aggrieved by a decision made by the 
+4department may appeal the decision to the board in accordance with section 344, 
+5subsection 2-A or by filing an appeal with the Superior Court and serving a copy of the 
+6appeal upon the department in accordance with the Maine Rules of Civil Procedure, Rule 
+780C.  The appeal to the board or to the Superior Court must be filed and served within 30 
+8days of the mailing of the department's decision.
+9Sec. 13.  38 MRSA §3117, sub-§3, as enacted by PL 2015, c. 166, §14, is 
+10amended to read:
+113.  Private right of action; containers not originally sold in the State.  An initiator 
+12of deposit may maintain a civil action in Superior Court against a person, other than a 
+13local redemption center licensed in accordance with section 3113, in possession of more 
+14than 48 beverage containers that the person knows or has reason to know were not 
+15originally sold in this State as filled beverage containers.  If the initiator of deposit 
+16prevails in any action, the initiator of deposit is entitled to an award of reasonable 
+17attorney's fees and court costs, including expert witness fees.
+18Sec. 14.  38 MRSA §3119 is enacted to read:
+19§3119.  Reporting requirements
+20This section establishes annual reporting requirements for initiators of deposit and for 
+21pick-up agents that are not initiators of deposit.
+221.  Initiator of deposit annual report.  Each initiator of deposit shall report annually 
+23by March 1st to the department concerning its deposit transactions in the preceding 
+24calendar year.  The report must be in a form prescribed by the department and must 
+25include the number of nonrefillable beverage containers sold by the initiator of deposit in 
+26the State by container size, by beverage type and by redemption value, delineated at a 
+27minimum into wine, spirits and all other beverage types, and must include the number of 
+28nonrefillable beverage containers returned to the initiator of deposit by beverage type and 
+29by redemption value.
+302.  Pick-up agent annual report.  Each pick-up agent that is not an initiator of 
+31deposit shall report annually by March 1st to the department concerning the redemptions 
+32for each initiator of deposit it served in the preceding calendar year.  The report must be 
+33in a form prescribed by the department and must include the number of nonrefillable 
+34containers returned by the pick-up agent to each initiator of deposit it served by 
+35redemption value, except that the pick-up agent may report by average weight and total 
+36weight of beverage containers returned by material type for containers managed pursuant 
+37to a qualified commingling agreement under section 3107.
+383.  Proprietary information.  Proprietary information submitted to the department in 
+39a report required under this section that is identified by the submittor as proprietary 
+Page 19 - 129LR2466(01)-11information is confidential and must be handled by the department in the same manner as 
+2confidential information is handled under section 1310-B.
+3SUMMARY
+4This bill, which is reported out by the Joint Standing Committee on Environment and 
+5Natural Resources pursuant to Joint Order 2019, H.P. 883, implements the Department of 
+6Environmental Protection's recommendations regarding the State's container redemption 
+7laws as included in the department's annual report on the State's product stewardship 
+8programs.
+9This bill makes a number of changes to the State's container redemption laws 
+10including the following.
+111.  It amends the laws to provide that a dealer of beverage containers with 5,000 or 
+12more square feet of retail space must accept beverage container returns unless the dealer 
+13has a written agreement with a redemption center located within 10 miles of the dealer, as 
+14measured along public roadways, to provide redemption services on the dealer's behalf.
+152.  It establishes an annual license fee for redemption centers of $100.  The current 
+16annual license fee is $50.
+173.  It clarifies the ability of the Department of Administrative and Financial Services, 
+18Bureau of Alcoholic Beverages and Lottery Operations to manage its returned containers 
+19as a qualified commingling program.
+204.  It eliminates the special handling fee for small brewers and bottlers of water.
+215.  It clarifies the obligation of initiators of deposit to recycle returned beverage 
+22containers that the initiator of deposit has picked up or that a 3rd party has picked up on 
+23the initiator of deposit's behalf.
+246.  It clarifies the requirements for qualified commingling agreements under the law, 
+25provides for the creation of an additional commingling group to be operated by a 3rd 
+26party or stewardship organization and requires all initiators of deposit to enter into a 
+27commingling agreement by January 1, 2023.
+287.  It clarifies licensing standards and other requirements for redemption centers.
+298.  It clarifies the Department of Environmental Protection's rule-making and 
+30administrative authority under the law.
+319.  It establishes annual reporting requirements for initiators of deposit and for pick-
+32up agents that are not initiators of deposit.
+3310.  It makes a number of terminology changes and other technical changes to the 
+34law.
+35The committee has not taken a position on the substance of the bill and by reporting 
+36this bill out, the committee is not suggesting and does not intend to suggest that it agrees 
+Page 20 - 129LR2466(01)-11or disagrees with any aspect of this bill.  The committee is reporting the bill out for the 
+2sole purpose of obtaining a printed bill that can be referred to the committee for a public 
+3hearing and subsequent committee action in the normal course.

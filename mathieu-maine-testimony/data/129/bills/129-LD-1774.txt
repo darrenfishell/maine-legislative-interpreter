@@ -1,0 +1,569 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1774
+H.P. 1261 House of  Representatives, May 23, 2019
+An Act  To Reduce  Child Poverty by Leveraging Investments so  
+Families Can Thrive
+Reference to the Committee on Health  and Human Services suggested and  ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.
+Cosponsored by President  JACKSON  of Aroostook and
+Representatives: HYMANSON of York,  O'CONNOR of Berwick, STEWART of Presque Isle, 
+STOVER of Boothbay, TALBOT ROSS  of Portland, Senators:  CLAXTON of Androscoggin, 
+MOORE of Washington.
+
+Page 1 - 129LR0035(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §3109 is enacted to read:
+3§3109.  Promoting accountable public programs that reduce poverty, alleviate 
+4hardship and increase sustainable employment for low-income families with 
+5children
+6The department shall implement a system of accountability to measure access to and 
+7the performance of certain programs administered by the department under this Subtitle 
+8to ensure that those programs are working effectively to improve the health and well-
+9being of program participants.  The department shall establish improvement targets each 
+10year to ensure that the programs are being accessed by and improving the lives of as 
+11many eligible families and individuals as possible.
+121.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+13following terms have the following meanings.
+14A.  "Federal poverty level" has the same meaning as in section 3762, subsection 1, 
+15paragraph C.
+16B.  "Food supplement" means the federal supplemental nutrition assistance program 
+17administered by the State pursuant to section 3104.
+18C.  "TANF" has the same meaning as in section 3762, subsection 1, paragraph E.
+19D.  "WIC" means the Women, Infants and Children Special Supplemental Food 
+20Program described in section 3107.
+212.  Identify measures of child and family economic security.  Beginning October 
+2215, 2019 and annually thereafter, the department shall obtain and compile the following 
+23data for the State from those sources reasonably available to the department, including 
+24data collected and maintained by the department, data available from other state or 
+25federal agencies and such other data as can reasonably be obtained from other public or 
+26private sources upon request. The data must include:
+27A.  The ratio of families with children receiving TANF cash assistance to the number 
+28of families with children and income at or below 100% of the federal poverty level in 
+29the current year and in the previous 4 years;
+30B.  The percentage of children under 5 years of age receiving TANF cash assistance 
+31that also receive assistance from WIC in the current year and in the previous 4 years;
+32C.  The percentage of children under 5 years of age receiving food supplement 
+33assistance that also receive assistance from WIC in the current year and in the 
+34previous 4 years;
+35D.  For all families for whom TANF cash assistance has terminated:
+36(1)  The number and percentage of families with no quarterly earnings from 
+37unsubsidized employment:
+38(a)  At the time participation in the program was terminated;
+Page 2 - 129LR0035(01)-11(b)  During the 2nd quarter after participation in the program was terminated; 
+2and
+3(c)  During the 4th quarter after participation in the program was terminated;
+4(2)  The number and percentage of families with quarterly earnings from 
+5unsubsidized employment that are at least 50% but below 100% of the federal 
+6poverty level:
+7(a)  At the time participation in the program was terminated;
+8(b)  During the 2nd quarter after participation in the program was terminated; 
+9and
+10(c)  During the 4th quarter after participation in the program was terminated;
+11(3)  The number and percentage of families with quarterly earnings from 
+12unsubsidized employment that are at least 100% but below 150% of the federal 
+13poverty level:
+14(a)  At the time participation in the program was terminated;
+15(b)  During the 2nd quarter after participation in the program was terminated; 
+16and
+17(c)  During the 4th quarter after participation in the program was terminated;
+18(4)  The number and percentage of families with quarterly earnings from 
+19unsubsidized employment that are at least 150% but below 200% of the federal 
+20poverty level:
+21(a)  At the time participation in the program was terminated;
+22(b)  During the 2nd quarter after participation in the program was terminated; 
+23and
+24(c)  During the 4th quarter after participation in the program was terminated;
+25(5)  The number and percentage of families with quarterly earnings from 
+26unsubsidized employment that are at least 200% of the federal poverty level:
+27(a)  At the time participation in the program was terminated;
+28(b)  During the 2nd quarter after participation in the program was terminated; 
+29and
+30(c)  During the 4th quarter after participation in the program was terminated;
+31(6)  The mean and median income of families with no quarterly earnings from 
+32unsubsidized employment:
+33(a)  At the time participation in the program was terminated;
+34(b)  During the 2nd quarter after participation in the program was terminated; 
+35and
+36(c)  During the 4th quarter after participation in the program was terminated; 
+37and
+Page 3 - 129LR0035(01)-11(7)  The number and percentage of families receiving income from the federal 
+2supplemental security income program or federal social security disability 
+3benefits:
+4(a)  At the time participation in the program was terminated;
+5(b)  During the 2nd quarter after participation in the program was terminated; 
+6and
+7(c)  During the 4th quarter after participation in the program was terminated;
+8E.  Cumulative data on the highest level of educational attainment of adult parents or 
+9caretaker relatives receiving TANF cash assistance and cumulative data on the 
+10highest level of educational attainment of adult parents or caretaker relatives whose 
+11participation in the program was terminated in the prior year;
+12F.  The ratio of individuals receiving food supplement assistance to the total number 
+13of potentially eligible persons and the ratio of households with individuals 
+14participating in the food supplement program to the total number of households that 
+15include a person 60 years of age or older, a nonelderly person with disabilities or a 
+16child under 18 years of age;
+17G.  The number and percentage of adult parents or caretaker relatives who have 
+18children in the household and who are receiving food supplement assistance, grouped 
+19by highest level of educational attainment of the adult parent or caretaker relative;
+20H.  The ratio of people participating in the MaineCare program, by eligibility group, 
+21to the total number of potentially eligible persons within each group;
+22I.  The number and percentage of applications received by the department for the 
+23MaineCare program and the children's health insurance program as defined in section 
+243174-X, subsection 1, paragraph A, by eligibility group, that are processed in less 
+25than 24 hours; that are processed within one to 7 days; that are processed within 8 to 
+2630 days; that are processed within 31 to 45 days; and that are processed more than 45 
+27days after receipt;
+28J.  The average waiting times, by month, for a person calling the department's call 
+29center to speak to a person; and
+30K.  The number and percentage, by month, of telephone calls to the department's call 
+31center that are terminated by a caller prior to the caller's speaking to a person.
+323.  Improvement targets established.  The department shall examine and use the 
+33data related to program measures compiled pursuant to subsection 2 and any 
+34recommendations provided by legislatively established working groups to establish 
+35proposed improvement targets on an annual basis to serve as a baseline against which 
+36progress related to program accessibility and participant well-being may be measured.  
+37Beginning January 15, 2020 and annually thereafter, the department shall present 
+38proposed improvement targets to the joint standing committee of the Legislature having 
+39jurisdiction over human services matters along with data compiled pursuant to subsection 
+402 for the most recent year and comparative data for the 4 prior years for the committee's 
+41review. The committee's review must include the opportunity for public comment on the 
+Page 4 - 129LR0035(01)-11department's proposed improvement targets.  After the committee's review and by March 
+215th annually, the department shall finalize improvement targets for the current year.
+34.  Report.  By January 15, 2021 and annually thereafter, the department shall 
+4provide data describing the rates of poverty, food insecurity and health coverage for the 
+5State's families, children and individuals over the past 5 years.  The department shall 
+6specifically report on its progress in meeting improvement targets established for the 
+7preceding year, along with proposed improvement targets for the following year, to the 
+8joint standing committee of the Legislature having jurisdiction over human services 
+9matters.  If the improvement targets established for the preceding year are not met, the 
+10department shall identify the obstacles to meeting those improvement targets and present 
+11a plan for addressing those obstacles to increase the likelihood of success in meeting 
+12those improvement targets in the following year.  The joint standing committee of the 
+13Legislature having jurisdiction over human services matters shall conduct a public 
+14hearing on the department's plan and may introduce any legislation that it considers 
+15necessary to improve the department's ability to meet improvement targets in future 
+16years.
+17Sec. 2.  22 MRSA §3174-G, as amended by IB 2017, c. 1, Pt. A, §§1 to 3, is 
+18further amended to read:
+19§3174-G.  Medicaid coverage of certain elderly and disabled individuals, children 
+20and pregnant women; transitional Medicaid
+211.  Delivery of services.  The department shall provide for the delivery of federally 
+22approved Medicaid services to the following persons:
+23A.  A qualified woman during her pregnancy and up to 60 days following delivery 
+24when the woman's family income is equal to or below 200% of the nonfarm income 
+25official poverty line;
+26B.  An infant under one year of age when the infant's family income is equal to or 
+27below 200% of the nonfarm income official poverty line, except that the department 
+28may adopt a rule that provides that infants in families with income over 185% and 
+29equal to or below 200% of the nonfarm income official poverty line who meet the 
+30eligibility requirements of the Cub Care program established under section 3174-T 
+31are eligible to participate in the Cub Care program instead of Medicaid. Rules 
+32adopted pursuant to this paragraph are routine technical rules as defined in Title 5, 
+33chapter 375, subchapter 2-A;
+34C.  A qualified elderly or disabled person when the person's family income is equal to 
+35or below 100% of the nonfarm income official poverty line;
+36D.  A child one year of age or older and under 19 years of age when the child's family 
+37income is equal to or below 200% of the nonfarm income official poverty line, except 
+38that the department may adopt a rule that provides that children described in this 
+39paragraph in families with income over 150% and equal to or below 200% of the 
+40nonfarm income official poverty line who meet the eligibility requirements of the 
+41Cub Care program established under section 3174-T are eligible to participate in the 
+Page 5 - 129LR0035(01)-11Cub Care program instead of Medicaid. Rules adopted pursuant to this paragraph are 
+2routine technical rules as defined in Title 5, chapter 375, subchapter 2-A;
+3E.  On or before September 30, 2012, the parent or caretaker relative of a child 
+4described in paragraph B or D when the child's family income is equal to or below 
+5200% of the nonfarm income official poverty line, subject to adjustment by the 
+6commissioner under this paragraph and, beginning October 1, 2012, the parent or 
+7caretaker relative of a child described in paragraph B or D when the child's family 
+8income is equal to or below 133% of the nonfarm income official poverty line, 
+9subject to adjustment by the commissioner under this paragraph.  Medicaid services 
+10provided under this paragraph must be provided within the limits of the program 
+11budget.  Funds appropriated for services under this paragraph must include an annual 
+12inflationary adjustment equivalent to the rate of inflation in the Medicaid program.  
+13On a quarterly basis, the commissioner shall determine the fiscal status of program 
+14expenditures under this paragraph.  If the commissioner determines that expenditures 
+15will exceed the funds available to provide Medicaid coverage pursuant to this 
+16paragraph, the commissioner must adjust the income eligibility limit for new 
+17applicants to the extent necessary to operate the program within the program budget.  
+18If, after an adjustment has occurred pursuant to this paragraph, expenditures fall 
+19below the program budget, the commissioner must raise the income eligibility limit to 
+20the extent necessary to provide services to as many eligible persons as possible within 
+21the fiscal constraints of the program budget, as long as on or before September 30, 
+222012 the income limit does not exceed 200% of the nonfarm income official poverty 
+23line and, beginning October 1, 2012, the income limit does not exceed 133% of the 
+24nonfarm income official poverty line;
+25F.  A person 20 to 64 years of age who is not otherwise covered under paragraphs A 
+26to E when the person's family income is below or equal to 125% of the nonfarm 
+27income official poverty line, as long as the commissioner adjusts the maximum 
+28eligibility level in accordance with the requirements of the paragraph.
+29(2)  If the commissioner reasonably anticipates the cost of the program to exceed 
+30the budget of the population described in this paragraph, the commissioner shall 
+31lower the maximum eligibility level to the extent necessary to provide coverage 
+32to as many persons as possible within the program budget.
+33(3)  The commissioner shall give at least 30 days' notice of the proposed change 
+34in maximum eligibility level to the joint standing committee of the Legislature 
+35having jurisdiction over appropriations and financial affairs and the joint standing 
+36committee of the Legislature having jurisdiction over health and human services 
+37matters; 
+38G.  A person who is a noncitizen legally admitted to the United States to the extent 
+39that coverage is allowable by federal law if the person is:
+40(1)  A woman during her pregnancy and up to 60 days following delivery; or
+41(2)  A child under 21 years of age; and
+42H.  No later than 180 days after the effective date of this paragraph, a person under 65 
+43years of age who is not otherwise eligible for assistance under this chapter and who 
+44qualifies for medical assistance pursuant to 42 United States Code, Section 
+Page 6 - 129LR0035(01)-111396a(a)(10)(A)(i)(VIII) when the person's income is at or below 133% plus 5% of 
+2the nonfarm income official poverty line for the applicable family size. The 
+3department shall provide such a person, at a minimum, the same scope of medical 
+4assistance as is provided to a person described in paragraph E.
+5Cost sharing, including copayments, for coverage established under this paragraph 
+6may not exceed the maximum allowable amounts authorized under section 3173-C, 
+7subsection 7.
+8No later than 90 days after the effective date of this paragraph, the department shall 
+9submit a state plan amendment to the United States Department of Health and Human 
+10Services, Centers for Medicare and Medicaid Services ensuring MaineCare eligibility 
+11for people under 65 years of age who qualify for medical assistance pursuant to 42 
+12United States Code, Section 1396a(a)(10)(A)(i)(VIII).
+13The department shall adopt rules, including emergency rules pursuant to Title 5, 
+14section 8054 if necessary, to implement this paragraph in a timely manner to ensure 
+15that the persons described in this paragraph are enrolled for and eligible to receive 
+16services no later than 180 days after the effective date of this paragraph.  Rules 
+17adopted pursuant to this paragraph are routine technical rules as defined by Title 5, 
+18chapter 375, subchapter 2-A.
+19For the purposes of this subsection, the "nonfarm income official poverty line" is that 
+20applicable to a family of the size involved, as defined by the federal Department of 
+21Health and Human Services and updated annually in the Federal Register under authority 
+22of 42 United States Code, Section 9902(2).  For purposes of this subsection, "program 
+23budget" means the amounts available from both federal and state sources to provide 
+24federally approved Medicaid services.
+251-B.  Funding.  State funds necessary to implement subsection 1-C must include 
+26General Fund appropriations and Other Special Revenue allocations from the Fund for a 
+27Healthy Maine to the elderly low-cost drug program operated pursuant to section 254-D, 
+28including rebates received in that program from pharmaceutical manufacturers, that are 
+29no longer needed in that program as a result of the Medicaid waiver obtained pursuant to 
+30subsection 1-C.
+311-C.  Prescription drug waiver program.  Except as provided in paragraph G, the 
+32department shall apply to the federal Centers for Medicare and Medicaid Services for a 
+33waiver or amend a pending or current waiver under the Medicaid program authorizing the 
+34department to use federal matching dollars to enhance the prescription drug benefits 
+35available to persons who qualify for the elderly low-cost drug program established under 
+36section 254-D.  The program created pursuant to the waiver is the prescription drug 
+37waiver program, referred to in this subsection as the "program."
+38A.  As funds permit, the department has the authority to establish income eligibility 
+39levels for the program up to and including 200% of the federal nonfarm income 
+40official poverty level, except that for individuals in households that spend at least 
+4140% of income on unreimbursed direct medical expenses for prescription 
+42medications, the income eligibility level is increased by 25%.
+Page 7 - 129LR0035(01)-11B.  To the extent reasonably achievable under the federal waiver process, the program 
+2must include the full range of prescription drugs provided under the Medicaid 
+3program on the effective date of this subsection and must limit copayments and cost 
+4sharing for participants.  If cost sharing above the nominal cost sharing for the 
+5Medicaid program is determined to be necessary, the department may use a sliding 
+6scale to minimize the financial burden on lower-income participants.
+7C.  Coverage under the program may not be less beneficial to persons who meet the 
+8qualifications of former section 254 than the coverage available under that section on 
+9September 30, 2001.
+10D.  In determining enrollee benefits under the program, to the extent possible, the 
+11department shall give equitable treatment to coverage of prescription medications for 
+12cancer, Alzheimer's disease and behavioral health.
+13E.  The department is authorized to provide funding for the program by using funds 
+14appropriated or allocated to provide prescription drugs under sections 254-D and 258.
+15F.  The department is authorized to amend the waiver or adjust program requirements 
+16as necessary to take advantage of enhanced federal matching funds that may become 
+17available.
+18G.  If, upon thorough analysis, the department determines that a waiver under this 
+19subsection is not feasible or would not significantly benefit participants in the elderly 
+20low-cost drug program, the department may decide not to pursue the waiver.  Within 
+2130 days of a decision not to proceed with a waiver and before taking action on that 
+22decision, the department shall report to the joint standing committee of the 
+23Legislature having jurisdiction over health and human services matters and shall 
+24provide a detailed analysis of the reasons for reaching that decision.
+251-D.  Enrollment fee.  The department may assess an annual enrollment fee of $25 
+26for participation in the MaineCare program for a family including a parent or caretaker 
+27relative of a child described in subsection 1, paragraph B or D when the family's income 
+28exceeds 150% of the nonfarm income official poverty line.
+292.  Resource test.  The department may not apply a resource test to those children 
+30and pregnant women who are made eligible under this section, unless these persons also 
+31receive Temporary Assistance for Needy Families or United States Supplemental 
+32Security Income benefits.
+333.  Benefits authorized.  The scope of medical assistance to be provided within this 
+34section shall must be that authorized by the Federal Sixth Omnibus Budget Reconciliation 
+35Act, Public Law 99-509.
+364.  Transitional Medicaid.  The department shall administer a program of 
+37transitional Medicaid to families receiving benefits under Section 1931 of the federal 
+38Social Security Act in accordance with 42 United States Code, Section 1396r-6 and this 
+39subsection.  The amount, duration and scope of services provided under this subsection 
+40must be the same as that provided to a parent or caretaker relative of a child described in 
+41subsection 1, paragraph B or D.
+Page 8 - 129LR0035(01)-11A.  The department shall provide transitional Medicaid for a 12-month extension 
+2period in accordance with 42 United States Code, Section 1396r-6, Subsection (a), 
+3Paragraph (5) to families whose eligibility for Medicaid assistance terminated due to 
+4an increase in earned income, an increase in hours of employment or a loss of a time-
+5limited earnings disregard.
+6B.  The department shall provide transitional Medicaid for 4 months to families 
+7whose eligibility for Medicaid assistance terminated due to an increase in the amount 
+8of child support received by the family.
+9Sec. 3.  22 MRSA §3762, sub-§3, ¶B, as amended by PL 2017, c. 256, §1; c. 284, 
+10Pt. NNNNNNN, §10; c. 290, §1; and c. 412, §2, is further amended to read:
+11B.  The department may use funds, insofar as resources permit, provided under and in 
+12accordance with the United States Social Security Act or state funds appropriated for 
+13this purpose or a combination of state and federal funds to provide assistance to 
+14families under this chapter.  In addition to assistance for families described in this 
+15subsection, funds must be expended for the following purposes:
+16(1)  To continue the pass-through of the first $50 per month of current child 
+17support collections and the exclusion of the $50 pass-through from the budget 
+18tests and benefit calculations;
+19(2)  To provide financial assistance to noncitizens legally admitted to the United 
+20States who are receiving assistance under this subsection as of July 1, 2011.  
+21Recipients of assistance under this subparagraph are limited to the categories of 
+22noncitizens who would be eligible for the TANF programs but for their status as 
+23aliens under PRWORA.  Eligibility for the TANF program for these categories of 
+24noncitizens must be determined using the criteria applicable to other recipients of 
+25assistance from the TANF program. Any household receiving assistance as of  
+26July 1, 2011 may continue to receive assistance, as long as that household 
+27remains eligible, without regard to interruptions in coverage or gaps in eligibility 
+28for service. A noncitizen legally admitted to the United States who is neither 
+29receiving assistance on July 1, 2011 nor has an application pending for assistance 
+30on July 1, 2011 that is later approved is not eligible for financial assistance 
+31through a state-funded program unless that noncitizen is:
+32(a)  Elderly or disabled, as described under the laws governing supplemental 
+33security income in 42 United States Code, Sections 1381 to 1383f (2010);
+34(b)  A victim of domestic violence; 
+35(c)  Experiencing other hardship, such as time necessary to obtain proper 
+36work documentation, as defined by the department by rule. Rules adopted by 
+37the department under this division are routine technical rules as defined by 
+38Title 5, chapter 375, subchapter 2-A; or
+39(d)  Unemployed but has obtained proper work documentation, as defined by 
+40the department by rule.  Rules adopted by the department under this division 
+41are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A;
+Page 9 - 129LR0035(01)-11(3) To provide benefits to 2-parent families with children using the same 
+2eligibility requirements as apply to families headed by a single custodial parent or 
+3caretaker relative;
+4(4)  To provide an assistance program for needy children, 19 to 21 years of age, 
+5who are in full-time attendance in secondary school.  The program is operated for 
+6those individuals who qualify for TANF under the United States Social Security 
+7Act, except that they fail to meet the age requirement, and is also operated for the 
+8parent or caretaker relative of those individuals.  Except for the age requirement, 
+9all provisions of TANF, including the standard of need and the amount of 
+10assistance, apply to the program established pursuant to this subparagraph;
+11(5)  To provide assistance for a pregnant woman who is otherwise eligible for 
+12assistance under this chapter, except that she has no dependents under 19 years of 
+13age.  An individual is eligible for the monthly benefit for one eligible person if 
+14the medically substantiated expected date of the birth of her child is not more 
+15than 90 days following the date the benefit is received;
+16(6)  To provide a special housing allowance for TANF families whose shelter 
+17expenses for rent, mortgage or similar payments, homeowners insurance and 
+18property taxes equal or exceed 50% of their monthly income.  The special 
+19housing allowance is limited to $300 per month for each family.  For purposes of 
+20this subparagraph, "monthly income" means the total of the TANF monthly 
+21benefit and all income countable under the TANF program, plus child support 
+22received by the family, excluding the $50 pass-through payment;
+23(7)  In determining benefit levels for TANF recipients who have earnings from 
+24employment, the department shall disregard from monthly earnings the 
+25following:
+26(a)  One hundred and eight dollars;
+27(b)  Fifty percent of the remaining earnings that are less than the federal 
+28poverty level; and
+29(c)  All actual child care costs necessary for work, except that the department 
+30may limit the child care disregard to $175 per month per child or $200 per 
+31month per child under 2 years of age or with special needs;
+32(7-A)  In determining eligibility and benefit levels, the department may apply a 
+33gross income test only to applicants and not to recipients;
+34(7-C)  In determining financial eligibility and benefit levels for TANF applicants 
+35and TANF recipients, the department shall deduct the income less any applicable 
+36income disregards from the standard of need and may not apply any other income 
+37test;
+38(8)  In cases when the TANF recipient has no child care cost, the monthly TANF 
+39benefit is the maximum payment level or the difference between the countable 
+40earnings and the standard of need established by rule adopted by the department, 
+41whichever is lower;
+Page 10 - 129LR0035(01)-11(9)  In cases when the TANF recipient has child care costs, the department shall 
+2determine a total benefit package, including TANF cash assistance, determined in 
+3accordance with subparagraph (7) and additional child care assistance, as 
+4provided by rule, necessary to cover the TANF recipient's actual child care costs 
+5up to the maximum amount specified in section 3782-A, subsection 5, paragraph 
+6B.  The benefit amount must be paid as provided in this subparagraph.
+7(a)  Before the first month in which child care assistance is available to an 
+8ASPIRE-TANF recipient under this paragraph and periodically thereafter, the 
+9department shall notify the recipient of the total benefit package and the 
+10following options of the recipient: to receive the total benefit package 
+11directly; or to have the department pay the recipient's child care assistance 
+12directly to the designated child care provider for the recipient and pay the 
+13balance of the total benefit package to the recipient.
+14(b)  If an ASPIRE-TANF recipient notifies the department that the recipient 
+15chooses to receive the child care assistance directly, the department shall pay 
+16the total benefit package to the recipient.
+17(c)  If an ASPIRE-TANF recipient does not respond or notifies the 
+18department of the choice to have the child care assistance paid directly to the 
+19child care provider from the total benefit package, the department shall pay 
+20the child care assistance directly to the designated child care provider for the 
+21recipient.  The department shall pay the balance of the total benefit package 
+22to the recipient;
+23(10)  Child care assistance under this paragraph must be paid by the department 
+24in a prompt manner that permits an ASPIRE-TANF recipient to access child care 
+25necessary for work; and
+26(11)  The department shall adopt rules pursuant to Title 5, chapter 375 to 
+27implement this subsection.  Rules adopted pursuant to this subparagraph are 
+28routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+29Sec. 4.  22 MRSA §3762, sub-§8, ¶A, as amended by PL 1999, c. 731, Pt. OO, 
+30§2, is repealed.
+31Sec. 5.  22 MRSA §3769-B, as amended by PL 1999, c. 401, Pt. S, §4, is repealed.
+32Sec. 6.  22 MRSA §3790, sub-§§3-A and 3-B are enacted to read:
+333-A.  Coordination with state educational institutions and programs.  The 
+34department shall deem a referral from an educational institution or program that is part of 
+35the University of Maine System; the Maine Community College System; Jobs for Maine's 
+36Graduates, established in Title 20-A, chapter 226; an adult education program established 
+37in Title 20-A, chapter 315; or the career centers established by the Department of Labor 
+38as an application for the Parents as Scholars Program as long as, in accordance with 
+39department rules, it is submitted by a qualified person at the institution or program on a 
+40form provided by the department for this purpose and signed by the prospective student 
+41expressing a desire to enroll in the Parents as Scholars Program.  The department shall 
+42notify these institutions and programs of the opportunity to refer prospective students in 
+Page 11 - 129LR0035(01)-11accordance with this subsection and make available to prospective students and these 
+2institutions and programs referral forms to serve as an application for purposes of this 
+3subsection.
+43-B.  Campus-based student support and navigation; working group.   The 
+5commissioner or the commissioner's designee shall convene a working group to make 
+6recommendations to the department regarding the most effective means to establish or 
+7supplement personalized professional guidance, support and navigation services for 
+8participants in the Parents as Scholars Program in order to promote program completion 
+9and student success.  The working group includes the Chancellor of the University of 
+10Maine System or the chancellor's designees; the President of the Maine Community 
+11College System or the president's designees; members of advocacy or other organizations 
+12with expertise in policy related to supports and other assistance needed to help adults with 
+13low incomes successfully achieve higher education credentials or degrees; low-income 
+14students currently or previously enrolled in the University of Maine System or Maine 
+15Community College System; and other members determined appropriate by the 
+16commissioner.  The working group shall also make recommendations to the department 
+17as to how the department may best contribute, through administration of the Parents as 
+18Scholars Program and the Higher Opportunity for Pathways to Employment Program 
+19established under chapter 1054-C, to the goal established in Title 26, section 2006, 
+20subsection 1, paragraph K.  The department shall provide up to $500,000 annually to 
+21educational institutions or programs identified under subsection 3-A to implement 
+22services identified to achieve the purposes under this section.  These funds must be 
+23provided under the TANF block grant available under Title IV-A of the United States 
+24Social Security Act.  The commissioner or the commissioner's designee shall convene the 
+25first meeting of the working group no later than November 1, 2019.
+26Sec. 7.  Working group to improve performance of Department of Health 
+27and Human Services programs and systems to alleviate poverty, food 
+28insecurity and hardship.  The Commissioner of Health and Human Services or the 
+29commissioner's designee shall convene a working group to review and make 
+30recommendations to improve the operations of systems and programs administered by the 
+31Department of Health and Human Services providing services to persons in need.  The 
+32commissioner or the commissioner's designee shall convene the first meeting of the 
+33working group no later than November 1, 2019.
+341.  Members.  The working group consists of at least 12 members, in addition to 
+35department staff as the commissioner determines appropriate, including persons that now 
+36receive or previously received assistance from department core safety net programs; 
+37members of advocacy organizations with expertise in policy or legal matters related to 
+38programs administered by the department; providers of health care or social services 
+39serving persons receiving assistance from the department; and persons with technological 
+40expertise who could assist with recommendations related to creating efficiencies in 
+41program enrollment, recertification and improved program integration.  The working 
+42group may create subgroups to work on specific issues or initiatives and may include 
+43persons who are not working group members. 
+Page 12 - 129LR0035(01)-112.  Duties. In developing its recommendations under this section, the working group 
+2shall:
+3A.  Review opportunities to simplify operations and improve business processes that 
+4facilitate cross-enrollment and linkages connecting eligible persons enrolled in one 
+5program to other core services available to them related to health care, nutrition and 
+6help meeting basic needs;
+7B.  Examine the potential for improved electronic data sharing between department 
+8programs to streamline and promote efficiencies in verification processes required for 
+9eligibility and recertification determinations;
+10C. Review state policy and procedural options available under federal law to improve 
+11or increase access to services to reduce food insecurity and improve the health and 
+12well-being of persons in the State living in poverty; 
+13D. Investigate ways to transform the department into a more holistic and person-
+14centered and better coordinated human services system with an approach that puts the 
+15varying needs of persons and families first and ensures more efficient access, clarity 
+16of information and respectful interactions; 
+17E. Determine the extent to which the department could facilitate enrollment for 
+18families and persons receiving its services in programs administered by other 
+19agencies of State Government, including low-income home energy assistance 
+20benefits and the property tax fairness credit under the Maine Revised Statutes, Title 
+2136, section 5219-KK; and
+22F. Make recommendations related to improvement targets for reduced levels of 
+23poverty and food insecurity and improved health outcomes to be considered by the 
+24department as it establishes improvement targets pursuant to the Maine Revised 
+25Statutes, Title 22, section 3109, subsection 3. 
+263.  Report. No later than February 15, 2020, the Commissioner of Health and Human 
+27Services shall submit a report including the recommendations developed pursuant to this 
+28section, including any suggested legislation, to the Joint Standing Committee on 
+29Appropriations and Financial Affairs and the Joint Standing Committee on Health and 
+30Human Services. 
+31Sec. 8.  Funding.  Any additional costs to the State resulting from the 
+32implementation of this Act must be paid from funds provided to the Department of Health 
+33and Human Services under the Temporary Assistance for Needy Families block grant 
+34available under Title IV-A of the United States Social Security Act or from resources 
+35representing the State's maintenance of effort in order to qualify for federal funds and 
+36may not result in an additional net cost to the General Fund.
+37SUMMARY
+38This bill makes the following changes, which are intended to reduce child poverty, 
+39increase food security and create stronger bridges to employment for families with 
+40children.
+Page 13 - 129LR0035(01)-111.  It requires the Department of Health and Human Services to collect data to 
+2measure access to and the performance of certain programs administered by the 
+3Department of Health and Human Services and establish improvement targets on an 
+4annual basis to monitor year-to-year improvements related to program accessibility and 
+5participant well-being.
+62. It reallocates the provisions relating to transitional Medicaid from the Maine 
+7Revised Statutes, Title 22, chapter 1053-B, which pertains to temporary assistance for 
+8needy families, to Title 22, chapter 855, which pertains to aid to needy persons, to reflect 
+9that the federal Personal Responsibility and Work Opportunity Reconciliation Act of 
+101996, Public Law 104-193, 110 Stat. 2105 no longer just applies to families losing 
+11eligibility for Medicaid as a result of losing eligibility for the Temporary Assistance for 
+12Needy Families program but instead applies to all parents who lose eligibility for 
+13Medicaid.
+143. It removes the requirement that a family must have received Medicaid assistance 
+15for at least 3 of the last 6 months in order for that family to receive transitional Medicaid.
+164. It requires that the Department of Health and Human Services provide transitional 
+17Medicaid for a 12-month extension period pursuant to the state option provided in 42 
+18United States Code, Section 1396r-6, Subsection (a), Paragraph (5) when a person's 
+19eligibility was terminated because of an increase in earned income or hours of 
+20employment or a loss of a time-limited earnings disregard.
+215.  It eliminates the TANF gross income test for applicants to conform the eligibility 
+22methodology for both applicants and recipients.
+236.  It establishes a procedure by which the Department of Health and Human Services 
+24must consider referrals made in accordance with department rule from educational 
+25institutions and similar programs as applications for the Parents as Scholars Program 
+26under the Maine Revised Statutes, Title 22, section 3790.
+277.  It provides funds from the TANF block grant to provide personalized professional 
+28guidance, support and navigation services for participants in the Parents as Scholars 
+29Program in order to promote program completion and student success and requires the 
+30Commissioner of Health and Human Services to convene a working group to make 
+31recommendations related to the most effective way to achieve this goal, along with other 
+32suggestions to improve the program.
+338.  It requires the Commissioner of Health and Human Services to convene a working 
+34group to review and make recommendations to improve the operations of systems and 
+35programs administered by the Department of Health and Human Services providing 
+36services to people in need.
+379.  It provides that additional costs to the State resulting from implementation of this 
+38legislation must be paid from funds provided to the Department of Health and Human 
+39Services under the Temporary Assistance for Needy Families block grant or from 
+40resources representing the State's maintenance of effort to qualify for federal funds.

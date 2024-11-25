@@ -1,0 +1,190 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1725
+S.P. 570 In Senate,  May 19, 2021
+An Act  To Clarify the Deferral of the  Pooled Market and  Link  
+Small Employer Clear Choice to Pooling in the Made for Maine 
+Health Coverage  Act
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator SANBORN  of Cumberland.  (GOVERNOR'S BILL)
+
+DRAFT DRAFT DRAFT        Page 1 - 130LR2078(01)        DRAFT DRAFT DRAFT1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §2792, sub-§1, as enacted by PL 2019, c. 653, Pt. B, §2, is 
+3 amended to read:
+41.  Pooled market established.  Subject to the requirements of subsection 5, all 
+5 individual and small group health plans offered in this State with effective dates of coverage 
+6 on or after January 1, 2022 2023 must be offered through a pooled market.  A health 
+7 insurance carrier offering an individual health plan subject to this section shall make the 
+8 plan available to all eligible small employers within the plan's approved service area, and 
+9 a health insurance carrier offering a small group health plan subject to this section shall 
+10 make the plan available to all eligible individuals residing within the plan's approved 
+11 service area.  This subsection does not require the Maine Health Insurance Marketplace 
+12 established in Title 22, chapter 1479 to offer identical choices of health plans to individuals 
+13 and to small employers under Title 22, chapter 1479.
+14Sec. 2.  24-A MRSA §2792, sub-§5, as enacted by PL 2019, c. 653, Pt. B, §2, is 
+15 amended to read:
+165.  Preconditions for pooled market.  This section may not be implemented unless 
+17 routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A are adopted to 
+18 implement this section and the Federal Government approves a state innovation waiver 
+19 amendment that extends reinsurance under section 3953 to the pooled market established 
+20 pursuant to this section based on projections by the superintendent that both average 
+21 individual premium rates and average small group premium rates would be the same or 
+22 lower than they would have been absent the provisions of this section and chapter 54-A.  If 
+23 this section is not implemented, the superintendent shall conduct an analysis of alternative 
+24 proposals to improve the stability and affordability of the small group market.
+25Sec. 3.  24-A MRSA §2793, as enacted by PL 2019, c. 653, Pt. B, §2, is amended to 
+26 read:
+27§2793.  Clear choice designs
+28 The superintendent shall develop clear choice designs for the individual and small 
+29 group health insurance markets health plans in order to reduce consumer confusion and 
+30 provide meaningful choices for consumers by promoting a level playing field on which 
+31 carriers compete on the basis of price and quality.
+321.  Clear choice design.  For the purposes of this section, "clear choice design" means 
+33 a set of annual copayments, coinsurance and deductibles for all or a designated subset of 
+34 the essential health benefits. An individual health plan subject to section 2736-C or small 
+35 group a pooled market health plan subject to section 2792 must conform to one of the clear 
+36 choice designs developed pursuant to this section unless an opt-out request is granted it is 
+37 approved as an alternative plan under subsection 4.
+382.  Development of clear choice designs.  The superintendent shall develop clear 
+39 choice designs in consultation with working groups consisting of consumers, carriers, 
+40 health policy experts and other interested persons. The superintendent shall adopt rules for 
+41 clear choice designs, taking into consideration the ability of plans to conform to actuarial 
+42 value ranges, consumer needs and promotion of benefits with high value and return on 
+43 investment.  The superintendent shall develop at least one clear choice design for each tier 
+DRAFT DRAFT DRAFT        Page 2 - 130LR2078(01)        DRAFT DRAFT DRAFT44 of health insurance plan designated as bronze, silver, gold and platinum in accordance with 
+45 the federal Affordable Care Act. Rules adopted pursuant to this subsection are routine 
+46 technical rules as defined in Title 5, chapter 375, subchapter 2‑A. Clear choice designs 
+47 apply to all individual and small group health plans offered in this State with effective dates 
+48 of coverage on or after January 1, 2022 and to all small group health plans offered through 
+49 the pooled market under section 2792.
+73.  Annual review.  The superintendent shall consider annually whether to revise, 
+8 discontinue or add any clear choice designs for use by carriers in the following calendar 
+9 year, including but not limited to considering whether deductible and copayment levels 
+10 should be changed to reflect medical inflation and conform with actuarial value and annual 
+11 maximum out-of-pocket limits.
+124.  Alternative plan designs.  In addition to one or more health plans that include cost-
+13 sharing parameters consistent with a clear choice design developed pursuant to this section, 
+14 a carrier may offer up to 3 health plans plan designs that modify one or more specific cost-
+15 sharing parameters in a clear choice design if the carrier submits an actuarial certification 
+16 to the satisfaction of the superintendent that the alternative plan design offers significant 
+17 consumer benefits and does not result in adverse selection.  An alternative plan design may 
+18 be offered only in a service area where the carrier offers at least one clear choice design 
+19 plan at the same tier.
+20Sec. 4.  24-A MRSA §3957, sub-§7, as enacted by PL 2011, c. 90, Pt. B, §8, is 
+21 amended to read:
+227.  Excess funds.  If assessments and other receipts by the association, board or 
+23 administrator selected pursuant to section 3956 exceed the actual losses and administrative 
+24 expenses of the association, the board shall hold the excess as at interest and shall use those 
+25 excess funds to offset future losses or to reduce reinsurance premiums  make adjustments 
+26 to a reinsurance program operated pursuant to section 3953.  As used in this subsection, 
+27 "future losses" includes reserves for claims incurred but not reported.
+28Sec. 5.  24-A MRSA §3958, sub-§1, as amended by PL 2019, c. 653, Pt. B, §18, is 
+29 further amended to read:
+301.  Reinsurance amount.  A member insurer offering an individual health plan under 
+31 section 2736‑C must be reinsured by the association to the level of coverage provided in 
+32 this subsection and is liable to the association for any applicable reinsurance premium at 
+33 the rate established in accordance with subsection 2.  For calendar year 2022 2023 and 
+34 subsequent calendar years, the association shall also reinsure member insurers for small 
+35 group health plans issued under section 2808‑B, unless otherwise provided in rules adopted 
+36 by the superintendent pursuant to section 2792, subsection 5.
+37 A.  Beginning July 1, 2012, except as otherwise provided in paragraph A‑1, the 
+38 association shall reimburse a member insurer for claims incurred with respect to a 
+39 person designated for reinsurance by the member insurer pursuant to section 3959 after 
+40 the insurer has incurred an initial level of claims for that person of $7,500 for covered 
+41 benefits in a calendar year.  In addition, the insurer is responsible for 10% of the next 
+42 $25,000 of claims paid during a calendar year.  The amount of reimbursement is 90% 
+43 of the amount incurred between $7,500 and $32,500 and 100% of the amount incurred 
+44 in excess of $32,500 for claims incurred in that calendar year with respect to that 
+45 person.  For calendar year 2012, only claims incurred on or after July 1st are considered 1
+2
+3
+4
+5
+6
+DRAFT DRAFT DRAFT        Page 3 - 130LR2078(01)        DRAFT DRAFT DRAFT46 in determining the member insurer's reimbursement.  With the approval of the 
+47 superintendent, the association may annually adjust the initial level of claims and the 
+48 maximum limit to be retained by the insurer to reflect changes in costs, utilization, 
+49 available funding and any other factors affecting the sustainable operation of the 
+50 association.
+6 A-1.  In any plan year in which a pooled market is operating in accordance with section 
+7 2792, the association shall operate a retrospective reinsurance program providing 
+8 coverage to member insurers for all individual and small group health plans issued in 
+9 this State in that plan year.  For plan years beginning in 2022, if the pooled market has 
+10 not been implemented pursuant to section 2792, subsection 5, the association may 
+11 operate a retrospective reinsurance program for individual health plans, subject to the 
+12 approval of the superintendent.
+13 (1)  The association shall reimburse member insurers based on the total eligible 
+14 claims paid during a calendar year for a single individual in excess of the 
+15 attachment point specified by the board. The board may establish multiple layers 
+16 of coverage with different attachment points and different percentages of claims 
+17 payments to be reimbursed by the association.
+18 (2)  Eligible claims by all individuals enrolled in individual or small group health 
+19 plans in this State may not be disqualified for reimbursement on the basis of health 
+20 conditions, predesignation by the member insurer or any other differentiating 
+21 factor.
+22 (3)  The board shall annually review the attachment points and coinsurance 
+23 percentages and make any adjustments that are necessary to ensure that the 
+24 retrospective reinsurance program operates on an actuarially sound basis.
+25 (4)  The board shall ensure that any surplus in the retrospective reinsurance 
+26 program at the conclusion of a plan year is used to lower attachment points, 
+27 increase coinsurance rates or both for that plan year, consistent with its 
+28 responsibility to ensure that the program operates on an actuarially sound basis.
+29 B.  A member insurer shall apply all managed care, utilization review, case 
+30 management, preferred provider arrangements, claims processing and other methods 
+31 of operation without regard to whether claims paid for coverage are reinsured under 
+32 this subsection.  A member insurer shall report for each plan year the name of each 
+33 high-priced item or service for which its payment exceeded the amount allowed for 
+34 eligible claims and the name of the provider that received this payment.  The 
+35 association shall annually compile and publish a list of all reported names.
+36SUMMARY
+37 This bill changes the effective date of individual and small group health plans that must 
+38 be offered in the State through a pooled market from January 1, 2022 to January 1, 2023. 
+39 The bill requires the Superintendent of Insurance to develop clear choice designs for all 
+40 individual health plans offered in the State with effective dates on or after January 1, 2022 
+41 and for all pooled market health plans.  The bill clarifies that health insurance carriers may 
+42 offer up to 3 health plan designs that modify one or more cost-sharing parameters of a clear 
+43 choice design.  The bill modifies the permissible use of excess funds derived from 
+44 assessments against insurers under the Maine Revised Statutes, Title 24-A, section 3957.  1
+2
+3
+4
+5
+37
+38
+39
+40
+41
+42
+43
+44
+DRAFT DRAFT DRAFT        Page 4 - 130LR2078(01)        DRAFT DRAFT DRAFT45 The bill delays the implementation of the requirement that the Maine Guaranteed Access 
+46 Reinsurance Association reinsure certain insurers offering small group health plans in the 
+47 State to calendar year 2023.1
+2
+3

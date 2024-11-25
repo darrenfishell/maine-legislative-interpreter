@@ -1,0 +1,1534 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycl ed paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 815  
+S.P. 289  In Senate, March 10, 2015  
+ 
+ 
+An Act To Establish a Unified -payor, Universal Health Care System  
+ 
+ 
+ 
+ 
+Reference to the Committee on Insurance and Financial Services suggested and ordered 
+printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator GRATWICK of Penobscot.  
+Cosponsored by Representatives: BROOKS of Lewiston, TUCKER of Brunswick, 
+Representative SANBORN of Gorham and  
+Senators: ALFOND of Cumberland, JOHNSON of Lincoln, MIRAMANT of Knox, 
+Representatives: BURSTEIN of Lincolnville, HYMANSON of York.  
+ 
+ 
+
+ 
+ Page 1 - 127LR0584(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+PART A  2 
+Sec. A -1.  2 MRSA §6, sub -§1, as amended by PL 2011, c. 657, Pt. Y, §1, is 3 
+further amended to read:  4 
+1.  Range 91.   The salaries of the following state officials and employees are within 5 
+salary range 91:  6 
+Commissioner of Transportation;  7 
+Commissioner of Agriculture, Conservation and Forestry;  8 
+Commissioner of Administrative and Financial Services;  9 
+Commissioner of Education;  10 
+Commissioner of Environmental Protection;  11 
+Executive Director of Dirigo  Health;  12 
+Commissioner of Public Safety;  13 
+Commissioner of Professional and Financial Regulation;  14 
+Commissioner of Labor;  15 
+Commissioner of Inland Fisheries and Wildlife;  16 
+Commissioner of Marine Resources;  17 
+Commissioner of Corrections;  18 
+Commissioner of Economic and  Community Development;  19 
+Commissioner of Defense, Veterans and Emergency Management; and 20 
+Executive Director, Workers' Compensation Board .; and  21 
+Executive Director, Maine Health Benefit Marketplace.  22 
+Sec. A -2.  24-A MRSA c. 93 is enacted to read:  23 
+CHAPTER 93  24 
+MAINE HEALTH BENEFIT M ARKETPLACE ACT  25 
+§7201.  Short title  26 
+This chapter may be known and cited as "the Maine Health Benefit Marketplace 27 
+Act."  28 
+§7202.  Definitions  29 
+As used in this chapter, unless the context otherwise indicates, the following terms 30 
+have the foll owing meanings.  31 
+ 
+ Page 2 - 127LR0584(01) -1 
+ 1.  Commissioner.   "Commissioner" means the Commissioner of Professional and 1 
+Financial Regulation.  2 
+2.  Educated health care consumer.   "Educated health care consumer" means an 3 
+individual who is knowledgeable about the health care system, wh o has no financial 4 
+interest in the delivery of health care services or sale of health insurance and has a 5 
+background or experience in making informed decisions regarding health, medical or 6 
+scientific matters.  7 
+3.  Health benefit plan.   "Health benefit plan"  means a policy, contract, certificate or 8 
+agreement offered or issued by a health carrier to provide, deliver, arrange for, pay for or 9 
+reimburse any of the costs of health care services.  10 
+A.  "Health benefit plan" does not include:  11 
+(1)  Coverage only for ac cident and disability income insurance or any 12 
+combination of accident and disability income insurance;  13 
+(2)  Coverage issued as a supplement to liability insurance;  14 
+(3)  Liability insurance, including general liability insurance and automobile 15 
+liability ins urance;  16 
+(4)  Workers' compensation or similar insurance;  17 
+(5)  Automobile medical payment insurance;  18 
+(6)  Credit -only insurance;  19 
+(7)  Coverage for on -site medical clinics; or  20 
+(8)  Insurance coverage similar to any coverage listed in subparagraphs (1) to (7) , 21 
+as specified in federal regulations issued pursuant to the federal Health Insurance 22 
+Portability and Accountability Act of 1996, Public Law 104 -191, under which 23 
+benefits for health care services are secondary or incidental to other insurance 24 
+benefits.  25 
+B.  "Health benefit plan" does not include the following benefits if the benefits are 26 
+provided under a separate policy, certificate or contract of insurance or are otherwise 27 
+not an integral part of the plan:  28 
+(1)  Limited -scope dental or vision benefits;  29 
+(2)  Benefits for long -term care, nursing home care, home health care, 30 
+community -based care or any combination of those benefits; or  31 
+(3)  Limited benefits similar to benefits listed in subparagraphs (1) and (2) as 32 
+specified in federal regulations issued pursuan t to the federal Health Insurance 33 
+Portability and Accountability Act of 1996, Public Law 104 -191. 34 
+C.  "Health benefit plan" does not include the following benefits if the benefits are 35 
+provided under a separate policy, certificate or contract of insurance, there is no 36 
+coordination between the provision of the benefits and any exclusion of benefits 37 
+under any group health plan maintained by the same plan sponsor and the benefits are 38 
+paid with respect to an event without regard to whether benefits are provided with 39 
+ 
+ Page 3 - 127LR0584(01) -1 
+ respect to such an event under any group health plan maintained by the same plan 1 
+sponsor:  2 
+(1)  Coverage only for a specified disease or illness; or  3 
+(2)  Hospital indemnity or other fixed indemnity insurance.  4 
+D.  "Health benefit plan" does not include the following if offered as a separate 5 
+policy, certificate or contract of insurance:  6 
+(1)  Medicare supplemental health insurance as defined under the United States 7 
+Social Security Act, Section 1882(g)(1);  8 
+(2)  Coverage supplemental to the coverage provided  under 10 United States 9 
+Code, Chapter 55; or  10 
+(3)  Supplemental coverage similar to coverage listed in subparagraphs (1) and 11 
+(2) provided under a group health plan.  12 
+4.  Health carrier.   "Health carrier" or "carrier" means:  13 
+A.  An insurance company licensed in accordance with this Title to provide health 14 
+insurance;  15 
+B.  A health maintenance organization licensed pursuant to chapter 56;  16 
+C.  A preferred provider arrangement administrator registered pursuant to chapter 32;  17 
+D.  A nonprofit hospital or medical serv ice organization or health benefit plan 18 
+licensed pursuant to Title 24; or  19 
+E.  An employee benefit excess insurance company licensed in accordance with this 20 
+Title to provide property and casualty insurance that provides employee benefit 21 
+excess insurance pur suant to section 707, subsection 1, paragraph C -1. 22 
+5.  Marketplace.   "Marketplace" means the Maine Health Benefit Marketplace 23 
+established in section 7203 pursuant to Section 1311 of the federal Affordable Care Act.  24 
+6.  Qualified employer.   "Qualified emplo yer" means a small employer that elects to 25 
+make its full -time employees and, at the option of the employer, some or all of its part - 26 
+time employees eligible for one or more qualified health plans or qualified stand -alone 27 
+dental benefit plans offered through  the SHOP exchange and that:  28 
+A.  Has its principal place of business in this State and elects to provide coverage 29 
+through the SHOP exchange to all of its eligible employees, wherever employed; or  30 
+B.  Elects to provide coverage through the SHOP exchange to all of its eligible 31 
+employees who are principally employed in this State.  32 
+7.  Qualified health plan.   "Qualified health plan" means a health benefit plan that 33 
+has in effect a certification that the plan meets the criteria for certification described in 34 
+Section 1311(c) of the federal Affordable Care Act and this chapter.  35 
+8.  Qualified individual.   "Qualified individual" means an individual, including a 36 
+minor, who:  37 
+ 
+ Page 4 - 127LR0584(01) -1 
+ A.  Is seeking to enroll in a qualified health plan or qualified stand -alone dental 1 
+benefit pla n offered to individuals through the marketplace;  2 
+B.  Resides in this State within the meaning of the federal Affordable Care Act;  3 
+C.  At the time of enrollment, is not incarcerated, other than incarceration pending the 4 
+disposition of charges; and  5 
+D.  Is, and is reasonably expected to be, for the entire period for which enrollment is 6 
+sought, a citizen or national of the United States or an alien lawfully present in the 7 
+United States.  8 
+9.  Qualified stand -alone dental benefit plan.   "Qualified stand -alone den tal benefit 9 
+plan" means a stand -alone dental benefit plan that has been certified in accordance with 10 
+section 7208, subsection 5.  11 
+10.  Secretary.   "Secretary" means the Secretary of the United States Department of 12 
+Health and Human Services.  13 
+11.  SHOP exchan ge.  "SHOP exchange" means the Small Business Health Options 14 
+Program established pursuant to section 7203.  15 
+12.  Small employer.   "Small employer" means an employer that employed an 16 
+average of not more than 100 employees during the preceding calendar year e xcept that, 17 
+for plan years beginning before January 1, 2018, "small employer" means an employer 18 
+that employed an average of not more than 50 employees during the preceding calendar 19 
+year.  For purposes of this subsection:  20 
+A.  All persons treated as a single  employer under 26 United States Code, Section 21 
+414(b), (c), (m) or (o) must be treated as a single employer;  22 
+B.  A successor employer and a predecessor employer must be treated as a single 23 
+employer;  24 
+C.  All employees must be counted, including part -time em ployees and employees 25 
+who are not eligible for coverage through the employer;  26 
+D.  If an employer was not in existence throughout the preceding calendar year, the 27 
+determination of whether that employer is a small employer must be based on the 28 
+average number  of employees reasonably expected to be employed by that employer 29 
+on business days in the current calendar year; and  30 
+E.  An employer that makes enrollment in qualified health plans or qualified 31 
+stand -alone dental benefit plans available to its employees th rough the SHOP 32 
+exchange, and would cease to be a small employer by reason of an increase in the 33 
+number of its employees, must continue to be treated as a small employer for 34 
+purposes of this chapter as long as the employer continuously makes enrollment 35 
+through the SHOP exchange available to its employees.  36 
+13.  Stand -alone dental benefit plan.   "Stand -alone dental benefit plan" means a 37 
+policy, contract, certificate or agreement offered or issued by a carrier to provide, deliver, 38 
+arrange for, pay for or reimbu rse any of the costs of limited -scope dental benefits meeting 39 
+the requirements of Section 9832(c)(2)(A) of the federal Internal Revenue Code of 1986.  40 
+ 
+ Page 5 - 127LR0584(01) -1 
+ §7203.  Maine Health Benefit Marketplace established; declaration of necessity  1 
+1.  Marketplace established .  The Commissioner of Professional and Financial 2 
+Regulation shall establish the Maine Health Benefit Marketplace to provide, pursuant to 3 
+the federal Affordable Care Act, for the establishment of a health benefit exchange to 4 
+facilitate the purchase and sal e of qualified health plans and qualified stand -alone dental 5 
+benefit plans in the individual market in this State and for the establishment of the SHOP 6 
+exchange to assist qualified employers in this State in facilitating the enrollment of their 7 
+employees i n qualified health plans and qualified stand -alone dental benefit plans offered 8 
+in the small group market. The intent of the marketplace is to reduce the number of 9 
+uninsured individuals, provide a transparent marketplace and consumer education and 10 
+assist i ndividuals with access to programs, premium tax credits and cost -sharing 11 
+reductions.  It is also the intent of the marketplace to maximize the receipt of federal 12 
+funds, including those available pursuant to the federal Affordable Care Act, and to be the 13 
+foundation for a universal health care system in the State through the Maine Health Care 14 
+Plan pursuant to Title 22, chapter 106. The exercise by the Maine Health Benefit 15 
+Marketplace of the powers conferred by this chapter is deemed and held to be the 16 
+perform ance of an essential government function.  17 
+2.  Contracting authority.   The marketplace may contract with an eligible entity for 18 
+any of its functions described in this chapter. For the purposes of this subsection, "eligible 19 
+entity" includes, but is not limit ed to, the federally facilitated marketplace, any entity 20 
+under contract with the federally facilitated marketplace, the MaineCare program or any 21 
+entity that has experience in individual and small group health insurance or benefit 22 
+administration or other ex perience relevant to the responsibilities to be assumed by the 23 
+entity, except that a health carrier or an affiliate of a health carrier is not an eligible entity.  24 
+3.  Information sharing.   The marketplace may enter into information -sharing 25 
+agreements with federal and state agencies and other states' exchanges to carry out its 26 
+responsibilities under this chapter; such agreements must include adequate protections 27 
+with respect to the confidentiality of the information to be shared and comply with all 28 
+state and  federal laws, rules and regulations.  29 
+§7204.  Records  30 
+Except as provided in subsections 1 and 2, information obtained by the marketplace 31 
+under this chapter is a public record within the meaning of Title 1, chapter 13, subchapter 32 
+1. 33 
+1.  Financial informatio n.  Any personally identifiable financial information, 34 
+supporting data or tax return of any person obtained by the marketplace under this chapter 35 
+is confidential and not open to public inspection.  36 
+2.  Health information.   Health information obtained by the  marketplace under this 37 
+chapter that is covered by the federal Health Insurance Portability and Accountability Act 38 
+of 1996, Public Law 104 -191 or information covered by chapter 24 or Title 22, section 39 
+1711 -C is confidential and not open to public inspectio n. 40 
+ 
+ Page 6 - 127LR0584(01) -1 
+ §7205.  Executive director  1 
+1.  Appointed position.   The commissioner shall appoint an executive director, who 2 
+serves at the pleasure of the commissioner.  3 
+2.  Duties of executive director.   The executive director appointed under subsection 4 
+1 shall:  5 
+A.  Serve as the liaison between the commissioner and the marketplace;  6 
+B.  Manage the marketplace's programs and services;  7 
+C.  Employ or contract on behalf of the marketplace for professional and 8 
+nonprofessional personnel or services. Employees of the marketpla ce are subject to 9 
+the Civil Service Law;  10 
+D.  Approve all accounts for salaries, per diems or allowable expenses of the 11 
+marketplace or of any employee or consultant of the marketplace and expenses 12 
+incidental to the operation of the marketplace; and  13 
+E.  Perform other duties as necessary to carry out the functions of this chapter.  14 
+§7206.  Availability of coverage  15 
+1.  Coverage.   The marketplace shall make qualified health plans and qualified 16 
+stand -alone dental benefit plans available to qualified individuals an d qualified employers 17 
+no later than January 1, 2017.  The marketplace may enroll qualified individuals and 18 
+qualified employers beginning on or after October 15, 2016.  19 
+2.  Other eligible populations.  To the extent allowable under federal law, the 20 
+marketplac e may make qualified health plans and qualified stand -alone dental benefit 21 
+plans available to other populations in addition to those eligible under the federal 22 
+Affordable Care Act, including:  23 
+A.  To individuals and employers who are not qualified individua ls or qualified 24 
+employers as defined by this chapter and by the federal Affordable Care Act;  25 
+B.  To individuals who are eligible for Medicaid benefits, upon approval by the 26 
+federal Centers for Medicare and Medicaid Services, as long as including these 27 
+individuals in the marketplace will not reduce their Medicaid benefits;  28 
+C.  To individuals who are eligible for Medicare benefits, upon approval by the 29 
+federal Centers for Medicare and Medicaid Services, as long as including these 30 
+individuals in the marketplac e will not reduce their Medicare benefits;  31 
+D.  To state employees and municipal employees, including teachers; and  32 
+E.  To the extent allowable under federal law, to employees for injuries arising out of 33 
+or in the course of employment in lieu of medical b enefits provided pursuant to Title 34 
+39-A.  35 
+3.  Qualified plan required.   The marketplace may not make available any health 36 
+benefit plan that is not a qualified health plan or any stand -alone dental benefit plan that 37 
+is not a qualified stand -alone dental ben efit plan.  38 
+ 
+ Page 7 - 127LR0584(01) -1 
+ 4.  Dental benefits.   The marketplace shall allow a health carrier to offer a qualified 1 
+stand -alone dental benefit plan through the marketplace, either separately or in 2 
+conjunction with a qualified health plan, if the plan provides pediatric den tal benefits 3 
+meeting the requirements of Section 1302(b)(1)(J) of the federal Affordable Care Act.  4 
+This subsection does not prohibit a carrier from offering other dental benefit plans 5 
+consistent with the requirements of section 7208, subsections 5 and 6.  6 
+5.  No fee or penalty for termination of coverage.   The marketplace or a carrier 7 
+offering qualified health plans or qualified stand -alone dental benefit plans through the 8 
+marketplace may not charge an individual a fee or penalty for termination of coverage  if 9 
+the individual enrolls in another type of minimum essential coverage because the 10 
+individual has become newly eligible for that coverage or because the individual's 11 
+employer -sponsored coverage has become affordable under the standards of Section 1401 12 
+of the federal Affordable Care Act.  13 
+6.  Standardized plans.   The marketplace may standardize qualified health plans to 14 
+be offered through the marketplace.  15 
+§7207.  Powers and duties of the Maine Health Benefit Marketplace  16 
+1.  Powers.   Subject to any limitatio ns contained in this chapter or in any other law, 17 
+the marketplace may:  18 
+A.  Take any legal actions that are necessary for the proper administration of the 19 
+marketplace;  20 
+B.  Make and alter bylaws, not inconsistent with this chapter or with the laws of this 21 
+State, for the administration and regulation of the activities of the marketplace;  22 
+C.  Have and exercise all powers necessary or convenient to effect the purposes for 23 
+which the marketplace is organized or to further the activities in which the 24 
+marketplace ma y lawfully be engaged, including the establishment of the 25 
+marketplace;  26 
+D.  Engage in legislative liaison activities, including gathering information regarding 27 
+legislation, analyzing the effect of legislation, communicating with Legislators and 28 
+attending an d giving testimony at legislative sessions, public hearings or committee 29 
+hearings;  30 
+E.  Enter into contracts with qualified 3rd parties both private and public for any 31 
+service necessary to carry out the purposes of this chapter;  32 
+F.  Apply for and receive fu nds, grants or contracts from public and private sources; 33 
+and 34 
+G.  In accordance with the limitations and restrictions of this chapter, cause any of its 35 
+powers or duties to be carried out by one or more organizations organized, created or 36 
+operated under the  laws of this State.  37 
+2.  Duties.   The marketplace shall:  38 
+A.  Implement procedures for the certification, recertification and decertification, 39 
+consistent with guidelines developed by the secretary under Section 1311(c) of the 40 
+ 
+ Page 8 - 127LR0584(01) -1 
+ federal Affordable Care Act and  pursuant to section 7208, of health benefit plans as 1 
+qualified health plans and of stand -alone dental benefit plans as qualified stand -alone 2 
+dental benefit plans;  3 
+B.  Provide for the operation of a toll -free telephone hotline to respond to requests for 4 
+assistance except that the hotline may not be automated unless the hotline provides 5 
+the opportunity for live customer service;  6 
+C.  Provide for enrollment periods as provided under Section 1311(c)(6) of the 7 
+federal Affordable Care Act;  8 
+D.  Maintain a publicly  accessible website through which enrollees and prospective 9 
+enrollees of qualified health plans and qualified stand -alone dental benefit plans may 10 
+obtain standardized comparative information on such plans;  11 
+E.  Assign a rating to each qualified health plan offered through the marketplace in 12 
+accordance with the criteria developed by the secretary under Section 1311(c)(3) of 13 
+the federal Affordable Care Act and determine each qualified health plan's level of 14 
+coverage in accordance with regulations issued by the  secretary under Section 15 
+1302(d)(2)(A) of the federal Affordable Care Act;  16 
+F.  Use a standardized format for presenting health and dental benefit options in the 17 
+marketplace, including the use of the uniform outline of coverage established under 18 
+the federal  Public Health Service Act, 42 United States Code, Section 300gg -15 19 
+(2010);  20 
+G.  In accordance with Section 1413 of the federal Affordable Care Act, inform 21 
+individuals of eligibility requirements for the Medicaid program under the United 22 
+States Social Secur ity Act, Title XIX or the State Children's Health Insurance 23 
+Program under the United States Social Security Act, Title XXI or under any 24 
+applicable state or local public program and if, through screening of an application by 25 
+the marketplace, the marketplace  determines that an individual is eligible for any 26 
+such program, enroll the individual in that program;  27 
+H.  Determine the criteria and process for eligibility, enrollment and disenrollment of 28 
+enrollees and potential enrollees in the marketplace and coordin ate that process with 29 
+the state and local government entities administering other health care coverage 30 
+programs, including the MaineCare program and the basic health program, if 31 
+established by paragraph O, in order to ensure consistent eligibility and enro llment 32 
+processes and seamless transitions between coverages. To the extent possible, the 33 
+executive director shall encourage the use of existing infrastructure and capacity from 34 
+other state agencies;  35 
+I.  Determine the minimum requirements a carrier must mee t to be considered for 36 
+participation in the marketplace and the standards and criteria for selecting qualified 37 
+health plans to be offered through the marketplace that are in the best interests of 38 
+qualified individuals and qualified employers. The executive  director shall 39 
+consistently and uniformly apply these requirements, standards and criteria to all 40 
+carriers offering qualified health plans through the marketplace and, if relevant, shall 41 
+apply those requirements, standards and criteria to carriers offerin g qualified stand - 42 
+alone dental benefit plans or other dental benefit plans through the marketplace. In 43 
+the course of selectively contracting for health care coverage offered to qualified 44 
+ 
+ Page 9 - 127LR0584(01) -1 
+ individuals and qualified employers through the marketplace, the exec utive director 1 
+shall seek to contract with carriers so as to provide health care coverage choices that 2 
+offer the optimal combination of choice, value, quality and service. In evaluating the 3 
+quality of health care coverage offered by a carrier, the executiv e director shall 4 
+consider comparative health care quality information and assessments developed by 5 
+the Maine Quality Forum, as established in section 6951;  6 
+J.  Provide, in each region of the State, a choice of qualified health plans at each of 7 
+the 5 levels  of coverage contained in Section 1302(d) and (e) of the federal 8 
+Affordable Care Act;  9 
+K.  Require, as a condition of participation in the marketplace, carriers to fairly and 10 
+affirmatively offer, market and sell in the marketplace at least one product withi n 11 
+each of the 5 levels of coverage contained in Section 1302(d) and (e) of the federal 12 
+Affordable Care Act. The executive director may require carriers to offer additional 13 
+products within each of those 5 levels of coverage. This paragraph does not apply to  a 14 
+carrier that solely offers supplemental coverage in the marketplace or that solely 15 
+offers a qualified stand -alone dental benefit plan;  16 
+L.  Require, as a condition of participation in the marketplace, carriers that sell any 17 
+products outside the marketpla ce to:  18 
+(1)  Fairly and affirmatively offer, market and sell all products made available to 19 
+individuals in the marketplace to individuals purchasing coverage outside the 20 
+marketplace; and  21 
+(2)  Fairly and affirmatively offer, market and sell all products made  available to 22 
+small employers in the marketplace to small employers purchasing coverage 23 
+outside the marketplace;  24 
+M.  Establish and make available by electronic means and by a toll -free telephone 25 
+number a calculator to determine the actual cost of coverage after application of any 26 
+premium tax credit under Section 1401 of the federal Affordable Care Act and any 27 
+cost-sharing reduction under Section 1402 of the federal Affordable Care Act;  28 
+N.  Establish a SHOP exchange through which qualified employers may acce ss 29 
+coverage for their employees, enabling any qualified employer to specify a level of 30 
+coverage or amount of contribution toward coverage so that any of its employees may 31 
+enroll in any qualified health plan or qualified stand -alone dental benefit plan offe red 32 
+through the SHOP exchange at the specified level of coverage;  33 
+O.  Consider, in consultation with the Department of Health and Human Services and 34 
+the MaineCare Advisory Committee, establishing a basic health program for eligible 35 
+individuals in accordanc e with Section 1331 of the federal Affordable Care Act in 36 
+order to ensure continuity of care and that families previously enrolled in Medicaid 37 
+remain in the same plan. On or before April 1, 2016, the executive director shall 38 
+submit the executive director's  recommendation on whether to establish a basic health 39 
+plan in accordance with this paragraph for review by the joint standing committee of 40 
+the Legislature having jurisdiction over insurance matters;  41 
+P.  Subject to Section 1411 of the federal Affordable Ca re Act, issue a certification 42 
+attesting that, for purposes of the individual responsibility penalty under 26 United 43 
+ 
+ Page 10 - 127LR0584(01) -1 
+ States Code, Section 5000A, an individual is exempt from the individual 1 
+responsibility requirement or from the penalty because:  2 
+(1)  There i s no affordable qualified health plan available through the 3 
+marketplace, or the individual's employer, covering the individual; or  4 
+(2)  The individual meets the requirements for any other exemption from the 5 
+individual responsibility requirement or penalty;  6 
+Q.  Transfer to the United States Secretary of the Treasury the following:  7 
+(1)  A list of the individuals who are issued a certification under paragraph P, 8 
+including the name and taxpayer identification number of each individual;  9 
+(2)  The name and taxpaye r identification number of each individual who was an 10 
+employee of an employer but who was determined to be eligible for the premium 11 
+tax credit under Section 1401 of the federal Affordable Care Act because:  12 
+(a)  The employer did not provide the minimum esse ntial coverage; or  13 
+(b)  The employer provided the minimum essential coverage, but it was 14 
+determined under Section 1401 of the federal Affordable Care Act to either 15 
+be unaffordable to the employee or not provide the required minimum 16 
+actuarial value; and  17 
+(3)  The name and taxpayer identification number of:  18 
+(a)  Each individual who notifies the marketplace under Section 1411(b)(4) 19 
+of the federal Affordable Care Act that the individual has changed 20 
+employers; and  21 
+(b)  Each individual who ceases coverage under a qualified health plan 22 
+during a plan year and the effective date of that cessation;  23 
+R.  Provide to each employer the name of each employee of the employer described 24 
+in paragraph Q, subparagraph (3) who ceases coverage under a qualified health plan 25 
+during a plan year and the effective date of the cessation;  26 
+S.  Perform duties required of the marketplace by the secretary and the United States 27 
+Secretary of the Treasury related to determining eligibility for premium tax credits, 28 
+reduced cost sharing and individu al responsibility requirement exemptions;  29 
+T.  Select entities qualified to serve as navigators in accordance with section 7209, 30 
+Section 1311(i) of the federal Affordable Care Act and standards developed by the 31 
+secretary and award grants to enable navigator s to: 32 
+(1)  Conduct public education activities to raise awareness of the availability of 33 
+qualified health plans and qualified stand -alone dental benefit plans;  34 
+(2)  Distribute fair and impartial information concerning enrollment in qualified 35 
+health plans a nd qualified stand -alone dental benefit plans and the availability of 36 
+premium tax credits under Section 1401 of the federal Affordable Care Act and 37 
+cost-sharing reductions under Section 1402 of the federal Affordable Care Act;  38 
+(3)  Facilitate enrollment in  qualified health plans and qualified stand -alone 39 
+dental benefit plans;  40 
+ 
+ Page 11 - 127LR0584(01) -1 
+ (4)  Provide referrals to any applicable office of health insurance consumer 1 
+assistance or health insurance ombudsman established under the federal Public 2 
+Health Service Act, 42 United  States Code, Section 300gg -93 (2010), or any 3 
+other appropriate state agency, for an enrollee with a grievance, complaint or 4 
+question regarding a health benefit plan or stand -alone dental benefit plan or 5 
+coverage or a determination under that plan or cover age; and  6 
+(5)  Provide information in a manner that is culturally and linguistically 7 
+appropriate to the needs of the population being served by the marketplace.  8 
+An individual licensed as an insurance producer pursuant to chapter 16 may serve as 9 
+a navigator to qualified individuals in the marketplace and in the SHOP exchange in 10 
+accordance with Section 1311(i) of the federal Affordable Care Act;  11 
+U.  Review the rate of premium growth within the marketplace and outside the 12 
+marketplace and consider the informatio n in developing recommendations on 13 
+whether to continue limiting qualified employer status to small employers;  14 
+V.  Credit the amount of any free choice voucher to the monthly premium of the 15 
+health benefit plan in which an employee is enrolled, in accordance  with Section 16 
+10108 of the federal Affordable Care Act, and collect the amount credited from the 17 
+offering qualified employer;  18 
+W.  Consult with stakeholders regarding carrying out the activities required under this 19 
+chapter, including, but not limited to:  20 
+(1)  Educated health care consumers who are enrollees in qualified health plans 21 
+and qualified stand -alone dental benefit plans;  22 
+(2)  Individuals and entities with experience in facilitating enrollment in qualified 23 
+health plans and qualified stand -alone denta l benefit plans;  24 
+(3)  Representatives of small businesses and self -employed individuals;  25 
+(4)  Representatives of the MaineCare program; and  26 
+(5)  Advocates for enrolling hard -to-reach populations;  27 
+X.  Keep an accurate accounting of all activities, receipts and expenditures and 28 
+annually submit to the secretary, the Governor, the superintendent and the Legislature 29 
+a report concerning such accountings; and  30 
+Y.  Fully cooperate with any investigation conducted by the secretary pursuant to the 31 
+secretary's authorit y under the federal Affordable Care Act and allow the secretary, in 32 
+coordination with the Inspector General of the United States Department of Health 33 
+and Human Services, to:  34 
+(1)  Investigate the affairs of the marketplace;  35 
+(2)  Examine the properties and r ecords of the marketplace; and  36 
+(3)  Require periodic reports of the marketplace in relation to the activities 37 
+undertaken by the marketplace.  38 
+The marketplace may not use any funds intended for the administrative and operational 39 
+expenses of the marketplace f or staff retreats, promotional giveaways, excessive 40 
+ 
+ Page 12 - 127LR0584(01) -1 
+ executive compensation or promotion of federal or state legislative and regulatory 1 
+modifications.  2 
+3.  Budget.   The revenues and expenditures of the marketplace are subject to 3 
+legislative approval in the b iennial budget process. The executive director shall prepare 4 
+the budget for the administration and operation of the marketplace in accordance with the 5 
+provisions of law that apply to departments of State Government.  6 
+4.  Audit.   The marketplace must be audi ted annually by the State Auditor. The 7 
+executive director may, in the executive director's discretion, arrange for an independent 8 
+audit to be conducted.  A copy of any audit must be provided to the State Controller, the 9 
+superintendent, the joint standing c ommittee of the Legislature having jurisdiction over 10 
+appropriations and financial affairs, the joint standing committee of the Legislature 11 
+having jurisdiction over insurance and financial services matters and the joint standing 12 
+committee of the Legislature  having jurisdiction over health and human services matters.  13 
+5.  Rulemaking.   The marketplace may adopt rules as necessary for the proper 14 
+administration and enforcement of this chapter pursuant to the Maine Administrative 15 
+Procedure Act.  Unless otherwise s pecified, rules adopted pursuant to this subsection are 16 
+routine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. Rules adopted 17 
+pursuant to this subsection may not conflict with or prevent the application of regulations 18 
+promulgated by the  secretary under the federal Affordable Care Act.  19 
+6.  Annual report.   Beginning February 1, 2017, and annually thereafter, the 20 
+executive director shall report on the operation of the marketplace to the Governor, the 21 
+joint standing committee of the Legislat ure having jurisdiction over appropriations and 22 
+financial affairs, the joint standing committee of the Legislature having jurisdiction over 23 
+insurance and financial services matters and the joint standing committee of the 24 
+Legislature having jurisdiction ove r health and human services matters.  25 
+7.  Technical assistance from other state agencies.   Other state agencies, including, 26 
+but not limited to, the bureau; the Department of Health and Human Services; the 27 
+Department of Administrative and Financial Services,  Maine Revenue Services; and the 28 
+Maine Health Data Organization, shall provide technical assistance and expertise to the 29 
+marketplace upon request.  30 
+8.  Legal counsel.   The Attorney General, when requested, shall furnish any legal 31 
+assistance, counsel or advi ce the marketplace requires in the discharge of its duties.  32 
+9.  Coordination with federal, state and local health care programs.   The 33 
+marketplace shall institute a system to coordinate the activities of the marketplace with 34 
+the health care programs of the Federal Government and state and municipal 35 
+governments.  36 
+10.  Advisory committees.   The executive director may appoint advisory committees 37 
+to advise and assist the executive director in discharging the executive director's 38 
+responsibilities under this chapte r. Members of an advisory committee serve without 39 
+compensation but may be reimbursed by the marketplace for necessary expenses while on 40 
+official business of the advisory committee.  41 
+ 
+ Page 13 - 127LR0584(01) -1 
+ 11.  Publication of costs.   The marketplace shall publish the average costs  of 1 
+licensing, regulatory fees and any other payments required by the marketplace, and the 2 
+administrative costs of the marketplace, on a publicly accessible website to educate 3 
+consumers on such costs. This information must include information on money lost  to 4 
+waste, fraud and abuse.  5 
+§7208.  Health benefit plan certification  6 
+1.  Certification.   The marketplace shall certify a health benefit plan as a qualified 7 
+health plan if:  8 
+A.  The health benefit plan provides the essential health benefits package describe d in 9 
+Section 1302(a) of the federal Affordable Care Act, except that the plan is not 10 
+required to provide essential benefits that duplicate the minimum benefits of qualified 11 
+stand -alone dental benefit plans, as provided in subsection 5, if:  12 
+(1)  The marketp lace has determined that at least one qualified stand -alone dental 13 
+benefit plan is available to supplement the plan's coverage; and  14 
+(2)  The carrier makes prominent disclosure at the time it offers the plan, in a 15 
+form approved by the marketplace, that the plan does not provide the full range 16 
+of essential pediatric dental benefits and that qualified stand -alone dental benefit 17 
+plans providing those benefits and other dental benefits not covered by the plan 18 
+are offered through the marketplace;  19 
+B.  The premium rates and contract language have been approved by the 20 
+superintendent;  21 
+C.  The health benefit plan provides at least a bronze level of coverage, as determined 22 
+pursuant to Section 1302(d)(1)(A) of the federal Affordable Care Act for catastrophic 23 
+plans, and w ill be offered only to individuals eligible for catastrophic coverage;  24 
+D.  The health benefit plan's cost -sharing requirements do not exceed the limits 25 
+established under Section 1302(c)(1) of the federal Affordable Care Act and, if the 26 
+plan is offered thro ugh the SHOP exchange, the plan's deductible does not exceed the 27 
+limits established under Section 1302(c)(2) of the federal Affordable Care Act;  28 
+E.  The health carrier offering the health benefit plan:  29 
+(1)  Is licensed and in good standing to offer health insurance coverage in this 30 
+State;  31 
+(2)  Offers at least one qualified health plan in the silver level and at least one 32 
+plan in the gold level as described in Section 1302(d)(1)(B) and (d)(1)(C) of the 33 
+federal Affordable Care Act through each component of th e marketplace in 34 
+which the carrier participates. As used in this subparagraph, "component" means 35 
+the SHOP exchange and the marketplace;  36 
+(3)  Offers at least one qualified health plan that provides the essential health 37 
+benefits package described in Section 1302(a) of the federal Affordable Care Act 38 
+without benefits that duplicate the minimum dental benefits of stand -alone dental 39 
+benefit plans, if the marketplace has determined that at least one qualified stand - 40 
+ 
+ Page 14 - 127LR0584(01) -1 
+ alone dental benefit plan is available through t he marketplace to supplement the 1 
+qualified health plan's coverage;  2 
+(4)  Charges the same premium rate for each qualified health plan without regard 3 
+to whether the plan is offered through the marketplace and without regard to 4 
+whether the plan is offered dir ectly from the carrier or through an insurance 5 
+producer;  6 
+(5)  Does not charge any fees or penalties for termination of coverage in violation 7 
+of section 7206, subsection 5; and  8 
+(6)  Complies with the regulations developed by the secretary under Section 9 
+1311 (c) of the federal Affordable Care Act and such other requirements as the 10 
+marketplace may establish;  11 
+F.  The health benefit plan meets the requirements of certification as adopted by rules 12 
+pursuant to section 7207, subsection 5 and by regulations promulgat ed by the 13 
+secretary under Section 1311(c) of the federal Affordable Care Act that include, but 14 
+are not limited to, minimum standards in the areas of marketing practices, network 15 
+adequacy, essential community providers in underserved areas, accreditation, q uality 16 
+improvement, uniform enrollment forms and descriptions of coverage and 17 
+information on quality measures for health benefit plan performance; and  18 
+G.  The marketplace determines that making the health benefit plan available through 19 
+the marketplace is i n the interest of qualified individuals and qualified employers.  20 
+2.  Authority to exclude health benefit plans.   The marketplace may not exclude a 21 
+health benefit plan:  22 
+A.  On the basis that the health benefit plan is a fee -for-service plan;  23 
+B.  Through the  imposition of premium price controls by the marketplace; or  24 
+C.  On the basis that the health benefit plan provides treatments necessary to prevent 25 
+patients' deaths in circumstances in which the marketplace determines the treatments 26 
+are inappropriate or to o costly.  27 
+3.  Carrier requirements.   The marketplace shall require each health carrier seeking 28 
+certification of a health benefit plan as a qualified health plan to:  29 
+A.  Submit a justification for any premium rate increase before implementation of 30 
+that incr ease. The carrier shall prominently post the information concerning the 31 
+justification on its publicly accessible website. The marketplace shall take this 32 
+information, along with the information and the recommendations provided to the 33 
+marketplace by the sup erintendent under the federal Public Health Service Act, 42 34 
+United States Code, Section 300gg -94 (2010), into consideration when determining 35 
+whether to allow the carrier to make health benefit plans available through the 36 
+marketplace;  37 
+B.  Make available to the public and submit to the marketplace, the secretary and the 38 
+superintendent accurate, transparent and timely disclosure of the following:  39 
+(1)  Claims payment policies and practices;  40 
+ 
+ Page 15 - 127LR0584(01) -1 
+ (2)  Periodic financial disclosures;  1 
+(3)  Data on enrollment;  2 
+(4)  Data  on disenrollment;  3 
+(5)  Data on the number of claims that are denied;  4 
+(6)  Data on rating practices;  5 
+(7)  Information on cost sharing and payments with respect to any out -of-network 6 
+coverage;  7 
+(8)  Information on enrollee and participant rights under Title I of the federal 8 
+Affordable Care Act; and  9 
+(9)  Other information as determined appropriate by the secretary.  10 
+The information required in this paragraph must be provided in plain language, as 11 
+that term is defined in Section 1311(e)(3)(B) of the federal Affo rdable Care Act;  12 
+C.  Make available to an individual, in a timely manner upon the request of the 13 
+individual, the amount of cost sharing, including deductibles, copayments and 14 
+coinsurance, under the individual's plan or coverage that the individual would be  15 
+responsible for paying with respect to the furnishing of a specific item or service by a 16 
+participating provider. At a minimum, this information must be made available to the 17 
+individual through a publicly accessible website and through other means for an 18 
+individual without access to the Internet; and  19 
+D.  Make a separate disclosure of the price of pediatric dental benefits if the plan 20 
+provides a comprehensive essential health benefits package described in Section 21 
+1302(a) of the federal Affordable Care Act, a s long as the carrier is not required to 22 
+offer the pediatric dental benefit for sale on the marketplace on a stand -alone basis.  23 
+4.  No exemption from licensing or solvency requirements.   The marketplace may 24 
+not exempt any health carrier seeking certificati on of a qualified health plan, regardless of 25 
+the type or size of the carrier, from state licensure or solvency requirements.  26 
+5.  Application to qualified stand -alone dental benefit plans.   The provisions of 27 
+this chapter that are applicable to qualified hea lth plans also apply to the extent relevant 28 
+to qualified stand -alone dental benefit plans except as provided in this subsection or by 29 
+rules adopted by the marketplace.  30 
+A.  The marketplace may certify a stand -alone dental benefit plan as a qualified 31 
+stand -alone dental benefit plan if the carrier offering the plan:  32 
+(1)  Is licensed and in good standing to offer dental coverage in this State. The 33 
+carrier need not be licensed to offer other health benefits;  34 
+(2)  Offers at least one stand -alone dental benefit pl an that includes only the 35 
+essential pediatric dental benefit requirement of Section 1302(b)(1)(J) of the 36 
+federal Affordable Care Act, as long as this requirement does not limit a carrier 37 
+from providing other stand -alone dental benefit plans that are certif ied by the 38 
+marketplace;  39 
+ 
+ Page 16 - 127LR0584(01) -1 
+ (3)  Charges the same premium rate for each stand -alone dental benefit plan 1 
+without regard to whether the plan is offered through the marketplace and 2 
+without regard to whether the plan is offered directly from the carrier or through  3 
+an insurance producer;  4 
+(4)  Submits the premium rates and contract language to the superintendent for 5 
+approval;  6 
+(5)  Does not charge any fees or penalties for termination of coverage in violation 7 
+of section 7206, subsection 5; and  8 
+(6)  Complies with any r egulations adopted by the secretary under Section 9 
+1311(d) of the federal Affordable Care Act and any rules adopted by the 10 
+marketplace pursuant to this chapter.  11 
+B.  The qualified stand -alone dental benefit plan must be limited to dental and oral 12 
+health bene fits, without substantially duplicating the benefits typically offered by 13 
+health benefit plans without dental coverage, and must meet the requirements for 14 
+essential pediatric dental benefits prescribed by the secretary pursuant to Section 15 
+1302(b)(1)(J) of the federal Affordable Care Act and such other dental benefits as the 16 
+marketplace or the secretary may specify by rule or regulation.  17 
+C.  Carriers may jointly offer a comprehensive plan through the marketplace in which 18 
+the dental benefits are provided by a  carrier through a qualified stand -alone dental 19 
+benefit plan and the other benefits are provided by a carrier through a qualified health 20 
+plan, if the plans are priced separately and are also made available for purchase 21 
+separately at the same prices.  22 
+D.  The marketplace may not exclude a stand -alone dental benefit plan on the basis 23 
+that the plan is a fee -for-service plan or through the imposition of premium price 24 
+controls by the marketplace.  25 
+6.  Other stand -alone dental benefit plans.   In addition to the cer tification of a 26 
+qualified stand -alone dental benefit plan pursuant to this section, the marketplace may 27 
+certify other stand -alone dental benefit plans, either as part of a qualified health plan or 28 
+separately, in accordance with this section and any rules a dopted by the marketplace.  29 
+The marketplace shall apply the criteria of this section in a manner that ensures 30 
+fairness between or among health carriers participating in the marketplace.  31 
+§7209.  Navigators  32 
+1.  Navigator grant program.   The marketplace shall establish a navigator grant 33 
+program to award grants to entities qualified to serve as navigators, in accordance with 34 
+this section, Section 1311(i) of the federal Affordable Care Act and standards developed 35 
+by the secretary, to enable navigators to perform the activities described in section 7207, 36 
+subsection 2, paragraph T.  37 
+2.  Selection of navigators.   The executive director shall, in the executive director's 38 
+sole discretion, select as a navigator and award a navigator grant to an eligible entity 39 
+described in subsection 3 that demonstrates to the satisfaction of the executive director 40 
+that it has the capacity and experience to effectively reach out to individuals, including 41 
+ 
+ Page 17 - 127LR0584(01) -1 
+ uninsured individuals, underinsured individuals, low -income individuals and self - 1 
+empl oyed individuals, and small employers and their employees likely to be qualified to 2 
+enroll in a qualified health plan or qualified stand -alone dental benefit plan. In awarding a 3 
+grant to an eligible entity, the executive director shall ensure that the enti ty is able to 4 
+address the needs of individuals and small employers and their employees in all 5 
+geographic regions of the State in a manner that is culturally and linguistically 6 
+appropriate to the needs of the population being served.  7 
+3.  Eligible entities.   The executive director may award navigator grants in 8 
+accordance with subsection 1 to any of the following eligible entities:  9 
+A.  A trade, industry or professional association;  10 
+B.  A community -focused and consumer -focused nonprofit group;  11 
+C.  A chamber of commerce;  12 
+D.  A labor union;  13 
+E.  A small business development center; or  14 
+F.  An insurance producer or broker licensed in this State.  15 
+A navigator may not be a carrier or receive any consideration directly or indirectly from 16 
+any carrier in connection with th e enrollment of any qualified individual or employees of 17 
+a qualified employer in a qualified health plan.  18 
+4.  Compliance.   A navigator shall comply with all applicable provisions of the 19 
+federal Affordable Care Act, regulations adopted thereunder and federa l guidance issued 20 
+pursuant to the federal Affordable Care Act.  21 
+5.  Information standards.   The marketplace shall collaborate with the secretary to 22 
+develop standards to ensure that the information distributed and provided by navigators is 23 
+fair and accurate.  24 
+6.  Performance standards; accountability.   The marketplace shall establish 25 
+performance standards, accountability requirements and maximum grant amounts for 26 
+navigators.  27 
+7.  Antisteering provisions; participation of insurance producers.   The 28 
+marketplace sh all prohibit an insurance producer, as a condition of that insurance 29 
+producer's participation as a navigator, from steering, directly or indirectly, a qualified 30 
+individual or an employee of a qualified employer to any particular qualified health plan 31 
+or qu alified stand -alone dental benefit plan.  32 
+§7210.  Carrier participation  33 
+1.  Required levels of coverage.   Beginning January 1, 2016, a carrier shall, with 34 
+respect to health benefit plans, fairly and affirmatively offer, market and sell only the 5 35 
+levels of coverage contained in Section 1302(d) and (e) of the federal Affordable Care 36 
+Act, except that a carrier that does not participate in the marketplace shall, with respect to 37 
+health benefit plans, fairly and affirmatively offer, market and sell only the 4 lev els of 38 
+coverage contained in Section 1302(d) of the federal Affordable Care Act.  39 
+ 
+ Page 18 - 127LR0584(01) -1 
+ 2.  Standardized products.   Beginning January 1, 2016, a carrier that does not 1 
+participate in the marketplace shall, with respect to health benefit plans, fairly and 2 
+affirmati vely offer at least one standardized health benefit plan that has been designated 3 
+by the marketplace in each of the 4 levels of coverage contained in Section 1302(d) of the 4 
+federal Affordable Care Act. This subsection applies only if the executive director  5 
+exercises the executive director's authority under section 7207, subsection 2, paragraph K. 6 
+This subsection may not be construed to:  7 
+A.  Require a carrier that does not participate in the marketplace to offer standardized 8 
+health benefit plans in the small  group market if the carrier sells health benefit plans 9 
+only in the individual market;  10 
+B.  Require a carrier that does not participate in the marketplace to offer standardized 11 
+health benefit plans in the individual market if the carrier sells health benefi t plans 12 
+only in the small group market; or  13 
+C.  Prohibit a carrier from offering other health benefit plans as long as the carrier 14 
+complies with the required levels of coverage described in subsection 1.  15 
+§7211.  The Maine Health Benefit Marketplace Enterpri se Fund  16 
+The Maine Health Benefit Marketplace Enterprise Fund is created as an enterprise 17 
+fund for the deposit of any funds advanced for initial operating expenses, payments made 18 
+by employers and individuals, federal funds and any funds received from any pu blic or 19 
+private source. The fund may not lapse, but must be carried forward to carry out the 20 
+purposes of this chapter.  21 
+§7212.  Relation to other laws  22 
+This chapter, and any action taken by the marketplace pursuant to this chapter, may 23 
+not be construed to pr eempt or supersede the authority of the superintendent to regulate 24 
+the business of insurance within this State. Except as expressly provided to the contrary 25 
+in this chapter, all health carriers offering qualified health plans or qualified stand -alone 26 
+denta l benefit plans in this State shall comply fully with all applicable health insurance 27 
+laws of this State and rules adopted and orders issued by the superintendent.  28 
+§7213.  Suspension of operations  29 
+The marketplace shall suspend its operations pursuant to th is chapter upon the 30 
+issuance of a waiver by the secretary pursuant to Section 1332 of the federal Affordable 31 
+Care Act.  32 
+Sec. A -3.  Declaration of intent to establish state -based exchange.   No later 33 
+than November 18, 2015, the Executive Director of the Maine  Health Benefit 34 
+Marketplace shall submit a declaration of intent to establish a state -based exchange to the 35 
+Secretary of the United States Department of Health and Human Services, together with 36 
+any necessary supporting documentation as required by the secr etary, pursuant to the 37 
+federal Patient Protection and Affordable Care Act, Public Law 111 -148, as amended by 38 
+the federal Health Care and Education Reconciliation Act of 2010, Public Law 111 -152 39 
+and any rules adopted by the secretary.  40 
+ 
+ Page 19 - 127LR0584(01) -1 
+ Sec. A -4.  Transition.  The following provisions apply to the establishment of the 1 
+Maine Health Benefit Marketplace pursuant to the Maine Revised Statutes, Title 24 -A, 2 
+chapter 93.  3 
+1. Appointment of executive director; hiring of staff.   As soon as practicable but 4 
+no later than 30  days following the effective date of this Act, the Commissioner of 5 
+Professional and Financial Regulation shall appoint the Executive Director of the Maine 6 
+Health Benefit Marketplace. The Executive Director of the Maine Health Benefit 7 
+Marketplace shall hir e staff and contract for services to implement this Act. In hiring and 8 
+contracting, the Executive Director of the Maine Health Benefit Marketplace may give 9 
+preference to state employees and other contractors who are employed by the State.  10 
+2. Grant funding.   As soon as practicable, the Executive Director of the Maine 11 
+Health Benefit Marketplace shall submit an application to the Secretary of the United 12 
+States Department of Health and Human Services for any grant funding made available to 13 
+states for exchange p lanning and implementation pursuant to the federal Patient 14 
+Protection and Affordable Care Act, Public Law 111 -148, as amended by the federal 15 
+Health Care and Education Reconciliation Act of 2010, Public Law 111 -152. 16 
+3. Report.   Beginning 90 days after the e ffective date of this Act and until June 30, 17 
+2017, the Executive Director of the Maine Health Benefit Marketplace shall report on a 18 
+quarterly basis to the joint standing committee of the Legislature having jurisdiction over 19 
+insurance and financial services  matters on the initial operations of the Maine Health 20 
+Benefit Marketplace.  21 
+Sec. A -5.  Maine Health Benefit Marketplace funding mechanism; report.   22 
+The Executive Director of the Maine Health Benefit Marketplace shall consider how to 23 
+ensure that the marketp lace is financially sustainable by 2018 as required by federal law, 24 
+including, but not limited to:  25 
+1. A recommended plan for the budget of the marketplace; and  26 
+2. The funding mechanism recommended by the marketplace to fund its operations. 27 
+Any funding mech anism recommended by the marketplace must be broad -based, may not 28 
+disadvantage health benefit plans offered inside the marketplace and must minimize 29 
+adverse selection.  30 
+On or before February 1, 2017, the Executive Director of the Maine Health Benefit 31 
+Market place shall submit a report, including suggested legislation, with its recommended 32 
+funding mechanism to the joint standing committee of the Legislature having jurisdiction 33 
+over insurance matters. The joint standing committee of the Legislature having 34 
+jurisdiction over insurance matters may submit a bill based on the report to the First 35 
+Regular Session of the 128th Legislature.  36 
+Sec. A -6.  Impact of adverse selection on the Maine Health Benefit 37 
+Marketplace; report.   The Executive Director of the Maine Health Benefit 38 
+Marketplace, in consultation with any stakeholders, shall study and make 39 
+recommendations regarding rules under which health benefit plans should be offered 40 
+ 
+ Page 20 - 127LR0584(01) -1 
+ inside and outside the marketplace in order to mitigate adverse selection and encourage 1 
+enrollment in the marketplace, including:  2 
+1. Whether any benefits should be required of qualified health plans beyond those 3 
+mandated by the federal Patient Protection and Affordable Care Act, Public Law 111 - 4 
+148, as amended by the federal Health Care and Educat ion Reconciliation Act of 2010, 5 
+Public Law 111 -152, and whether any such additional benefits should be required of 6 
+health benefit plans offered outside the marketplace; and  7 
+2. Whether carriers offering health benefit plans outside the marketplace should be  8 
+required to offer either all the same health benefit plans inside the marketplace or, 9 
+alternatively, at least one health benefit plan inside the marketplace.  10 
+On or before April 1, 2016, the Executive Director of the Maine Health Benefit 11 
+Marketplace shall submit a report, including any suggested legislation, with the executive 12 
+director's recommendations to the Joint Standing Committee on Insurance and Financial 13 
+Services. The joint standing committee may submit a bill based on the report to the 14 
+Second Regula r Session of the 127th Legislature.  15 
+PART B  16 
+Sec. B -1.  22 MRSA c. 106 is enacted to read:  17 
+CHAPTER 106  18 
+ACCESS TO AFFORDABLE  HEALTH CARE  19 
+§371.  Definitions  20 
+As used in this chapter, unless the context otherwise indicates, the following terms 21 
+have the following  meanings.  22 
+1.  Agency.   "Agency" means the Maine Health Care Agency established by section 23 
+376. 24 
+2.  Council.   "Council" means the Maine Health Care Council established by section 25 
+378. 26 
+3.  Federal Affordable Care Act.   "Federal Affordable Care Act" has the same 27 
+meaning as in Title 24 -A, section 14.  28 
+4.  Fund.   "Fund" means the Maine Health Care Trust Fund established by section 29 
+375, subsection 1.  30 
+5.  Global budget.   "Global budget" means a statewide aggregate amount budgeted 31 
+for the provision of all health ca re services or for any sector of health care services.  32 
+6.  Open plan.   "Open plan" means the benefit delivery system for the Maine Health 33 
+Care Plan that is open to all plan members and all participating providers, as described in 34 
+section 372, subsection 4,  paragraph B.  35 
+ 
+ Page 21 - 127LR0584(01) -1 
+ 7.  Organized delivery system.   "Organized delivery system" means an organization 1 
+that provides or enters into a contract with another person to provide for a complete range 2 
+of health care services to plan members, as described in section 372 , subsection 4, 3 
+paragraph A.  4 
+8.  Participating provider.   "Participating provider" means a provider approved for 5 
+the delivery of health care services pursuant to section 372, subsection 4.  6 
+9.  Plan.   "Plan" means the Maine Health Care Plan established by s ection 372.  7 
+10.  Plan card.  "Plan card" means a card to authenticate patient identity that, 8 
+consistent with privacy and security standards established by the agency, enables a health 9 
+care professional or provider to access patient records and facilitate p ayment for services.  10 
+11.  Provider.   "Provider" means any person, organization, corporation or association 11 
+that provides health care services and is authorized to provide those services under the 12 
+laws of this State.  "Provider" includes persons and entitie s that provide healing, 13 
+treatment and care for those relying on a recognized religious method of healing as 14 
+provided for in the federal Social Security Act, Title XVIII and permitted under state law.  15 
+12.  Resident.   "Resident" means a person who resides wi thin the State as defined by 16 
+rules adopted by the agency pursuant to section 377, subsection 1.  17 
+§372.  Maine Health Care Plan  18 
+The Maine Health Care Plan is established to provide security through high -quality, 19 
+affordable health care for the people of the S tate and to include federal funds to the 20 
+maximum extent allowable under federal law and waivers from federal law.  The plan 21 
+becomes effective and binding upon the approval of a state waiver from the Secretary of 22 
+the United States Department of Health and H uman Services pursuant to Section 1332 of 23 
+the federal Affordable Care Act.  The plan must offer health care services no later than 10 24 
+months after the plan becomes effective, and the agency shall administer and oversee the 25 
+plan in accordance with this chap ter. 26 
+1.  Goals of Maine Health Care Plan.   The plan has the following goals:  27 
+A.  To provide uniform access to health care for every resident;  28 
+B.  To eliminate income -based disparity in the health care status of residents;  29 
+C.  To reduce the rate of growth i n the cost of health care services;  30 
+D.  To reduce waste and inefficiency in the administration of health care services and 31 
+health insurance;  32 
+E.  To increase access to primary and preventive health care services;  33 
+F.  To reduce the number of excessively expe nsive health care procedures and 34 
+eliminate unnecessary and harmful procedures;  35 
+G.  To promote cooperation among communities and providers, to eliminate cost - 36 
+accelerating practices, to coordinate the delivery of health care and use of technology 37 
+and equipme nt and to increase quality and cost efficiency;  38 
+ 
+ Page 22 - 127LR0584(01) -1 
+ H.  To distribute the costs of health care fairly and equitably;  1 
+I.  To simplify the health care system for consumers, businesses and providers;  2 
+J.  To ensure providers the clinical freedom to treat patients based on health care 3 
+needs and criteria; and  4 
+K.  To ensure accountability in all aspects of the health care system to promote public 5 
+confidence and control of costs.  6 
+2.  Eligibility for Maine Health Care Plan.   In accordance with this subsection, 7 
+residents  and nonresidents are eligible to receive covered health care services from 8 
+participating providers under the plan within this State if the service is necessary or 9 
+appropriate for the prevention, diagnosis or treatment of, or maintenance or rehabilitation 10 
+following, injury, disability or disease.  11 
+A.  Each resident is eligible to receive health care under the plan and may enroll in 12 
+the plan.  13 
+B.  A nonresident who maintains significant contact with the State, including 14 
+employment or self -employment within the  State or attendance at a college, 15 
+university or other institution of higher education in the State, is eligible to receive 16 
+health care under the plan. Eligibility extends to a person qualifying under this 17 
+paragraph and to that person's spouse and dependen ts.  The agency shall adopt rules 18 
+establishing criteria for eligibility for nonresidents.  19 
+C.  A plan member who becomes ineligible for enrollment in the plan may elect, 20 
+within 60 days of the event that causes ineligibility, to continue participation in the  21 
+plan for a period of up to 18 months.  For the purposes of this paragraph, a plan 22 
+member is considered to have lost eligibility due to disability if the member could be 23 
+determined disabled under the federal Social Security Act, Title II or Title XVI.  The  24 
+agency shall ensure that a plan member who becomes ineligible for enrollment in the 25 
+plan is promptly notified of the provisions of this paragraph. The agency shall adopt 26 
+rules establishing the premium to be paid by persons eligible under this paragraph 27 
+and the method of payment.  28 
+D.  To establish membership eligibility, a person must apply for a plan card and 29 
+satisfy the application requirements established by the agency.  30 
+3.  Coverage of health care services.   As provided in this subsection, the plan must 31 
+provide coverage for health care services from participating providers within this State if 32 
+those services are necessary or appropriate for the prevention, diagnosis or treatment of, 33 
+or maintenance or rehabilitation following, injury, disability or disease.   The plan must 34 
+provide coverage for the following covered health care services:  35 
+A.  Hospital services;  36 
+B.  Medical and other professional services furnished by participating providers;  37 
+C.  Laboratory tests and imaging procedures;  38 
+D.  Home health care for persons requiring services performed by or under the 39 
+supervision of professional or technical personnel, including, but not limited to, home 40 
+care for acute illness, personal care attendant services and the medical component of 41 
+ 
+ Page 23 - 127LR0584(01) -1 
+ home care for chronic illness . Notwithstanding any other provision of law, the plan 1 
+may use nominal copayments for permanent care services;  2 
+E.  Rehabilitative services for persons receiving therapeutic care;  3 
+F.  Prescription drugs and devices.  Unless the prescriber certifies that a m ore 4 
+expensive package or form of dosage or administration of a drug is medically 5 
+necessary, the plan may cover only part of the cost of a drug dispensed in a package 6 
+or form of dosage or administration when the agency determines that a less expensive 7 
+packa ge or form of dosage or administration that is pharmaceutically equivalent in its 8 
+therapeutic effect is available.  If a plan member chooses to purchase a more 9 
+expensive package or form of dosage or administration of a drug under this 10 
+paragraph, the plan m ember is responsible for paying the amount not covered by the 11 
+plan;  12 
+G.  Mental health services;  13 
+H.  Substance abuse treatment;  14 
+I.  Primary and acute dental services;  15 
+J.  Vision appliances, including lenses, frames and contact lenses, according to a 16 
+schedul e established by the agency;  17 
+K.  Medical supplies, durable medical equipment and selected assistive devices;  18 
+L.  Hospice care; and  19 
+M.  Health care services the costs of which are payable pursuant to Title 39 -A for all 20 
+employees whose date of injury is on o r after the effective date of this section.  21 
+4.  Benefit delivery.   Covered health care services must be provided to plan members 22 
+by the participating providers of their choice through organized delivery systems or the 23 
+open plan.  The delivery of covered he alth care services to plan members is subject to the 24 
+provisions of this subsection.  25 
+A.  Organized delivery systems authorized by the agency may provide a complete 26 
+range of health care services to plan members.  27 
+B.  The open plan is available to all plan mem bers and to all participating providers 28 
+approved by the plan.  29 
+C.  The plan must pay for health care services provided to a plan member while the 30 
+plan member is out of the State.  The plan member must have been out of the State 31 
+temporarily for reasons other  than to obtain the health care services, or the plan 32 
+member must have obtained the health care services out of the State for compelling 33 
+reasons related to the suitability of the services, the nature of the condition and 34 
+personal circumstances.  The agency  shall establish and operate a plan to pay for 35 
+health care services provided to a plan member while the plan member is out of the 36 
+State.  The payments must be made at the rates established by the agency for 37 
+comparable services provided by the plan in the S tate. Charges in excess of the 38 
+payment rates established in accordance with this paragraph are the responsibility of 39 
+the plan member.  40 
+ 
+ Page 24 - 127LR0584(01) -1 
+ D.  The plan must pay cash benefits to a provider or to a plan member for a 1 
+reasonable amount charged for medically necess ary emergency health care services 2 
+obtained by a plan member from a provider who is not a participating provider.  3 
+E.  Copayments or deductibles may not be charged for health care services provided 4 
+through the plan, except that, to encourage the use of the most appropriate and cost - 5 
+effective mode of service, an organized delivery system may require reasonable 6 
+copayments or deductibles by a plan member if copayments or deductibles are 7 
+approved by the agency and do not substantially interfere with access to ne eded 8 
+health care services.  9 
+F.  The plan must ensure accountability to the public of the open plan and organized 10 
+delivery systems in order to promote public confidence in the plan and awareness of 11 
+the costs of care.  12 
+G.  The plan must provide flexible enroll ment and transfer processes that preserve 13 
+plan member confidence and ensure that health care needs are met.  14 
+H.  The plan must provide an opportunity for negotiation of fair rates of 15 
+compensation with participating providers in the open plan and organized d elivery 16 
+systems and negotiation with pharmaceutical companies for similarly classified 17 
+pharmaceuticals.  18 
+I.  The plan must establish a program to expand services to underserved rural and 19 
+low-income communities.  20 
+J.  The plan must develop mechanisms to provid e incentives to participating 21 
+providers in the open plan and to organized delivery systems for additional savings 22 
+that do not compromise the quality of health care.  23 
+5.  Participating provider requirements.   Except as provided in subsection 4, 24 
+paragraph E, participating providers, the open plan and organized delivery systems may 25 
+not charge a plan member or a 3rd party for covered health care services and may not 26 
+charge rates in excess of the reimbursement levels set by the agency.  A participating 27 
+provider, the open plan and organized delivery systems may not refuse to provide 28 
+services to a plan member on the basis of health status, medical condition, previous 29 
+insurance status, race, color, creed, age, national origin, citizenship status, gender, sexual 30 
+orien tation, disability, marital status or arrest record except as appropriate to the 31 
+provider's professional specialization or in other medically appropriate circumstances.  32 
+6.  Provision of information by participating providers.   A participating provider 33 
+shall make information available to the agency and permit examination of its records by 34 
+the agency as necessary for the purposes of this section and section 374.  35 
+7.  Organized delivery system requirements.   Organized delivery systems may not 36 
+have loss ratios t hat exceed 90% and administrative costs may not exceed 10%.  37 
+8.  Role of other health care programs.   Until the agency determines otherwise, the 38 
+plan is supplemental to all coverage available to a plan member from another health care 39 
+program, including, but  not limited to, the Medicare program of the federal Social 40 
+Security Act, Title XVIII; the Medicaid program of the federal Social Security Act, Title 41 
+XIX; the federal TRICARE program, 10 United States Code, Chapter 55; the federal 42 
+ 
+ Page 25 - 127LR0584(01) -1 
+ Indian Health Care Improv ement Act, 25 United States Code, Sections 1601 to 1683; 1 
+other 3rd -party payors who may be billable for health care services; and any state and 2 
+local health care programs, including, but not limited to, workers' compensation and 3 
+employers' liability insura nce, pursuant to former Title 39 and Title 39 -A.  Health care 4 
+services billed to another health care program or a 3rd -party payor other than the plan 5 
+must be paid for by that program or 3rd -party payor, and coverage under the plan is 6 
+supplemental to that c overage.  The plan may require a plan member who receives health 7 
+care services under another health care program or from a 3rd -party payor to which the 8 
+plan is supplemental to pay a premium to the fund in proportion to the health care 9 
+benefits available to  the plan member under the plan.  10 
+§373.  Implementation; waiver  11 
+1.  Implementation.   The plan must be implemented 90 days following the last to 12 
+occur of:  13 
+A.  Receipt of a waiver under Section 1332 of the federal Affordable Care Act 14 
+pursuant to subsection 2;  15 
+B.  Enactment of a law establishing the financing for the plan;  16 
+C.  Initial approval by the agency of the plan;  17 
+D.  Initial appropriations of funds for the plan; and  18 
+E.  A determination by the agency that each of the following conditions will be met:  19 
+(1)  Each resident covered by the plan will receive benefits with an actuarial 20 
+value of 80% or greater;  21 
+(2)  When implemented, the plan will not have a negative aggregate impact on 22 
+the State's economy;  23 
+(3)  The financing for the plan is sustainable;  24 
+(4)  Admin istrative expenses will be reduced;  25 
+(5)  Plan cost -containment efforts will result in a reduction in the rate of growth 26 
+in the State’s per capita health care spending; and  27 
+(6)  Health care professionals will be reimbursed at levels sufficient to allow the 28 
+State to recruit and retain high -quality health care professionals.  29 
+2.  Waiver; suspension of marketplace.   As soon as allowed under federal law, the 30 
+agency shall seek a waiver to allow the State to suspend operation of the Maine Health 31 
+Benefit Marketplace  and to enable the State to receive the appropriate federal fund 32 
+contribution in lieu of the federal premium tax credits, cost -sharing subsidies and small 33 
+business tax credits provided in the federal Affordable Care Act. The agency may seek a 34 
+waiver from o ther provisions of the federal Affordable Care Act as necessary to ensure 35 
+the operation of the plan.  36 
+ 
+ Page 26 - 127LR0584(01) -1 
+ §374.  Quality; affordability; efficiency; health care planning  1 
+The agency shall undertake the following duties to ensure the quality, affordability, 2 
+efficiency and planning of health care for the citizens of the State.  3 
+1.  Quality of care.   The agency shall establish a quality assurance program.  At a 4 
+minimum, the program must provide for:  5 
+A.  Operation of the plan;  6 
+B.  Use of covered health care services o f participating providers and 7 
+nonparticipating providers;  8 
+C.  Evaluation of the performance of participating providers;  9 
+D.  Standards and continuity of care;  10 
+E.  A plan for increased delivery of preventive and primary care;  11 
+F.  Access to information and da ta for the agency;  12 
+G.  A plan to ensure that the open plan and organized delivery systems address public 13 
+health needs;  14 
+H.  Plan member involvement in policy decisions; and  15 
+I.  An efficient complaint resolution process regarding quality of care and utilizat ion 16 
+and rate controls.  17 
+2.  Affordability of health care.   The agency shall establish an affordability 18 
+assurance program.  The program must include, but is not limited to:  19 
+A.  Rates of compensation for participating providers in organized delivery systems 20 
+and in the open plan;  21 
+B.  Rates of payment for durable and nondurable medical devices, supplies and 22 
+related items;  23 
+C.  Rates of payment for medical tests to detect or evaluate disease and to determine 24 
+treatment, including, but not limited to, blood tests, c omputerized tomography scans, 25 
+DNA testing, electrocardiogram screening, HIV screening, magnetic resonance 26 
+imaging and positron emission tomography scans and ultrasounds;  27 
+D.  Maintenance of a prescription drug formulary; and  28 
+E.  Cost-containment mechanisms for organized delivery systems and for the open 29 
+plan.  Cost -containment mechanisms may include primary care case management, 30 
+guaranteed provider payment, variable reimbursement rates for providers, review of 31 
+treatment and services concurrent with the provi sion of the treatment and services, 32 
+expenditure targets, practice parameters and treatment norms.  33 
+3.  Efficiency of health care.   The agency shall establish an efficiency of health care 34 
+program.  The agency shall review health care malpractice insurance co sts and work with 35 
+organized delivery systems, participating providers and carriers to ensure that the 36 
+resources of the fund are used for best possible service delivery.  The agency shall 37 
+contract with a 3rd -party administrator located in this State to prov ide claims handling 38 
+ 
+ Page 27 - 127LR0584(01) -1 
+ and data collection services, including, but not limited to, uniform billing procedures to 1 
+facilitate the exchange of information and communication between the agency and 2 
+participating providers.  3 
+4.  Health care planning.   The agency sh all establish a health care planning 4 
+program.  The agency shall consider health care planning in light of the programs on 5 
+quality, affordability and efficiency established under subsections 1 to 3.  The program 6 
+must include, but is not limited to:  7 
+A.  Glob al budgets for all expenditures of the plan for the base year of the plan and 8 
+for each following year based on the level of expenditures in the preceding year as 9 
+increased by the percentage of increase in the average per capita personal income 10 
+applicable t o the State, as developed by the United States Department of Commerce;  11 
+B.  Global budgets for hospitals and institutional providers with adjustments for case 12 
+mix, volume and region and separate capital budgets for hospitals and institutional 13 
+providers;  14 
+C.  A certificate of need program pursuant to chapter 103 -A; and  15 
+D.  Data collection regarding health care needs, resources and expenditures.  16 
+§375.  Financing of Maine Health Care Plan  17 
+Financing of the plan is accomplished by the fund.  18 
+1.  Maine Health Care T rust Fund.   The Maine Health Care Trust Fund is 19 
+established to finance the plan. Deposits into the fund and expenditures from the fund 20 
+must be made pursuant to this section and to rules adopted pursuant to section 377, 21 
+subsection 1 by the agency to carry o ut the purposes of this section. All income generated 22 
+pursuant to this chapter must be deposited in the fund, which does not lapse but carries 23 
+forward from one fiscal year to the next.  24 
+A.  Payments are deposited into the fund from the following sources:  25 
+(1) Authorized transfers or appropriations from the General Fund;  26 
+(2) If authorized by a waiver from federal law, federal funds for Medicaid, 27 
+Medicare and the Maine Health Benefit Marketplace established in Title 24 -A, 28 
+chapter 93; and  29 
+(3) The proceeds from g rants, donations, contributions, taxes and any other 30 
+sources of revenue.  31 
+B.  Expenditures from the fund are authorized for the following purposes:  32 
+(1)  The administration and delivery of health care services covered by the plan 33 
+as provided in this chapter;  34 
+(2)  Expenses related to the duties and operation of the plan; and  35 
+(3) Other payments made pursuant to law.  36 
+ 
+ Page 28 - 127LR0584(01) -1 
+ §376.  Maine Health Care Agency; establishment  1 
+The Maine Health Care Agency is established as an independent executive agency to:  2 
+1.  Maine Health Care Plan.   Administer and oversee the plan;  3 
+2.  Maine Health Care Council.   Take action under the direction of the council; and  4 
+3.  Maine Health Care Trust Fund.   Administer and oversee the fund.  5 
+§377.  Maine Health Care Agency; general powers  6 
+In addition  to the powers granted to the agency elsewhere in this chapter, the agency 7 
+is authorized to act as necessary to carry out the purposes of this chapter.  8 
+1.  Rulemaking.   The agency may adopt, amend and repeal rules as necessary for the 9 
+proper administration  and enforcement of this chapter, subject to the Maine 10 
+Administrative Procedure Act. Rules adopted pursuant to this subsection are routine 11 
+technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 12 
+2.  Executive director and staff.   The agency sha ll employ an executive director 13 
+who has experience in the organization, financing or delivery of health care and who shall 14 
+perform the duties delegated by the agency.  The agency may delegate to the executive 15 
+director any of its functions and duties except  the adoption of rules and the establishment 16 
+of a global budget for health care for the State under section 374, subsection 4.  The 17 
+executive director is an unclassified employee and serves at the pleasure of the council. 18 
+The executive director, at the dir ection of the agency, shall hire personnel to administer 19 
+this chapter, subject to the Civil Service Law and within the budget set by the agency.  20 
+3.  Receipt of gifts, grants and payments; fees.   The agency may solicit, receive and 21 
+accept gifts, grants, pay ments and other funds and advances from any person and enter 22 
+into agreements with respect to those gifts, grants, payments and other funds and 23 
+advances, including agreements that involve the undertaking of studies, plans, 24 
+demonstrations and projects.  The agency may charge and retain fees to recover the 25 
+reasonable costs incurred in reproducing and distributing reports, studies and other 26 
+publications and in responding to requests for information.  27 
+4.  Studies and analyses.   The agency may conduct studies and analyses related to 28 
+the provision of health care, health care costs and matters it considers appropriate.  29 
+5.  Grants.   The agency may make grants to persons to support research or other 30 
+activities undertaken in furtherance of the purposes of this chapter.  Without the specific 31 
+written authorization of the agency, a person receiving a grant from the agency may not 32 
+release, publish or otherwise use results of the research or information made available by 33 
+the agency.  34 
+6.  Contracts.   The agency may contract wit h any person for services necessary to 35 
+carry out the activities of the agency. Without the specific written authorization of the 36 
+agency, a person entering into a contract with the agency may not release, publish or 37 
+otherwise use information made available to that person under contracted responsibilities.  38 
+ 
+ Page 29 - 127LR0584(01) -1 
+ 7.  Audits.   To the extent necessary to carry out its responsibilities, the agency, 1 
+during normal business hours and upon reasonable notification, may audit, examine and 2 
+inspect the records of any participa ting provider, organized delivery system or contractor 3 
+under subsection 6.  4 
+8.  Data collection and analysis.   The agency shall institute a data collection system 5 
+to acquire and analyze information on the provision of health care and health care costs.  6 
+The agency shall coordinate with existing medical information centers that currently 7 
+provide such services to the State.  All data released by the agency must protect the 8 
+confidentiality of the participating provider and the plan member and, whenever possible , 9 
+must be released as aggregate data.  10 
+9.  Complaint resolution.   In cooperation with participating providers and plan 11 
+members, the agency shall institute a complaint resolution system to handle the 12 
+complaints of participating providers and plan members.  13 
+10.  Funding.   The agency shall determine the level of funding required to carry out 14 
+the purposes of this chapter.  The agency shall submit biennially to the Legislature for 15 
+approval a proposed budget.  Funding for the agency budget approved by the Legislatu re 16 
+is paid from the fund.  17 
+11.  Coordination with federal, state and local health care programs.   The agency 18 
+shall institute a system to coordinate the activities of the agency and the plan with the 19 
+health care programs of federal, state and municipal gover nments.  20 
+12.  Reports.   By March 1st of each year, the agency shall submit to the Governor 21 
+and the Legislature a report of its operations and activities during the previous year, 22 
+including its operations and activities with respect to the funding, tax and b udget 23 
+requirements pursuant to subsection 10. This report must include facts and suggestions 24 
+and policy recommendations that the agency considers necessary.  As it determines 25 
+appropriate, the agency shall publish and disseminate information helpful to the citizens 26 
+of this State in making informed choices in obtaining health care, including the results of 27 
+studies or analyses undertaken by the agency.  28 
+13.  Advisory committees.   The agency may appoint advisory committees to advise 29 
+and assist the agency.  Membe rs of those committees serve without compensation but 30 
+may be reimbursed by the agency for necessary expenses while on official business of the 31 
+committee.  32 
+14.  Headquarters.   The agency's central office must be in the Augusta area, but the 33 
+agency may hold h earings and sessions at any place in the State.  34 
+15.  Seal.   The agency may have a seal bearing the words "Maine Health Care 35 
+Agency."  36 
+§378.  Maine Health Care Council  37 
+The Maine Health Care Council is established as the decision -making and directing 38 
+council for the agency.  39 
+ 
+ Page 30 - 127LR0584(01) -1 
+ 1.  Membership.   The council is composed of 5 members who serve full -time, are 1 
+appointed by the Governor and, within 30 days after appointment, are subject to review 2 
+by the joint standing committee of the Legislature having jurisdiction ove r insurance and 3 
+financial services matters and the joint standing committee of the Legislature having 4 
+jurisdiction over health and human services matters and to confirmation by the 5 
+Legislature.  6 
+In order to be eligible for appointment to the council, a pers on must have experience in 7 
+the organization, delivery or financing of health care.  At least one member of the council 8 
+must be an individual with experience in the delivery and organization of primary and 9 
+preventive care and public health services.  At lea st one member of the council must be 10 
+an individual who is not a provider and has not worked for a provider or health insurer.  11 
+2.  Terms.   All appointments are for 5 -year terms, except that a member appointed to 12 
+fill a vacancy in an unexpired term serves on ly for the remainder of that term.  Members 13 
+hold office until the appointment and confirmation of their successors.  14 
+3.  Chair; voting.   The Governor shall designate one member of the council as chair.  15 
+The chair shall preside at meetings of the council, is  responsible for the expedient 16 
+organization of the council's work and may vote on all matters before the council. Three 17 
+council members constitute a quorum.  The council may take action only by an 18 
+affirmative vote of at least 3 members.  19 
+4.  Duties.   The co uncil shall direct, administer and oversee the agency in the 20 
+performance of its duties under this chapter.  The council has broad authority to carry out 21 
+the purposes of this chapter.  22 
+Sec. B -2.  Working capital advance.   The State Controller shall transfer a 23 
+$600,000 working capital advance to the dedicated account of the Maine Health Care 24 
+Trust Fund, established pursuant to the Maine Revised Statutes, Title 22, section 375, on 25 
+or before January 1, 2017.  The Maine Health Care Agency, established pursuant to  Title 26 
+22, section 376, shall repay this working capital advance by June 30, 2020.  27 
+Sec. B -3.  Initial appointees of Maine Health Care Council; staggered 28 
+terms.   The terms of the members of the Maine Health Care Council, established in the 29 
+Maine Revised Sta tutes, Title 22, section 378 are staggered.  Of the initial appointees, one 30 
+must be appointed for 2 years, 2 for 3 years and 2 for 5 years.  31 
+PART C  32 
+Sec. C -1.  Maine Health Care Plan Transition Advisory Committee.   The 33 
+Maine Health Care Plan Transition Advis ory Committee, referred to in this section as 34 
+"the committee," is established to advise the members of the Maine Health Care Council 35 
+as established in the Maine Revised Statutes, Title 22, section 378.  36 
+1.  Membership.   The committee consists of 20 members,  who are appointed as 37 
+specified in this subsection and are subject to confirmation by the Legislature.  38 
+A.  Four members must be Legislators.  Two of those members must be appointed by 39 
+the President of the Senate, one from each of the 2 political parties ha ving the largest 40 
+ 
+ Page 31 - 127LR0584(01) -1 
+ number of members in the Senate, and 2 must be appointed by the Speaker of the 1 
+House of Representatives, one from each of the 2 political parties having the largest 2 
+number of members in the House.  3 
+B.  Sixteen members must be representative s of the public.  Eight of those members 4 
+must be appointed by the Governor, 4 of those members must be appointed by the 5 
+President of the Senate and 4 of those members must be appointed by the Speaker of 6 
+the House of Representatives.  7 
+The public members must  represent statewide organizations from the following groups: 8 
+consumers, uninsured persons, providers of maternal and child health services, Medicaid 9 
+recipients, persons with disabilities, persons who are elderly, organized labor, allopathic 10 
+and osteopathi c physicians, nurses and allied health care professionals, organized delivery 11 
+systems, hospitals, community health centers, the family planning system and the 12 
+business community, including a representative of small business.  13 
+The appointing authorities shal l notify the Executive Director of the Legislative Council 14 
+upon making their appointments.  All appointments must be made within 30 days of the 15 
+effective date of this Act.  Within the following 30 days, the appointments must be 16 
+reviewed and approved by the  joint standing committee of the Legislature having 17 
+jurisdiction over insurance and financial services matters and the joint standing 18 
+committee of the Legislature having jurisdiction over health and human services matters 19 
+and must be confirmed by the Legis lature.  20 
+When appointment of all members of the committee is completed, the chair of the 21 
+Legislative Council shall call the first meeting of the committee.  The first meeting must 22 
+be held within 90 days of the effective date of this Act.  The members of the  committee 23 
+shall elect a chair from among the members.  24 
+2.  Duties.   The committee shall hold public hearings, solicit public comments and 25 
+advise the Maine Health Care Council for the purposes of planning the transition to the 26 
+Maine Health Care Plan establi shed in the Maine Revised Statutes, Title 22, section 372 27 
+and recommending legislative changes to accomplish the purposes of Title 22, chapter 28 
+106. 29 
+3.  Staffing and funding.   The Maine Health Care Council shall provide staffing and 30 
+funding for the committe e. 31 
+4.  Compensation.   Members of the committee serve without compensation.  They 32 
+are entitled to reimbursement from the Maine Health Care Council for travel and other 33 
+necessary expenses incurred in the performance of their duties on the committee.  34 
+5.  Repo rts.  Every 6 months beginning July 1, 2019, the committee shall report to 35 
+the Maine Health Care Council, the Governor and the Legislature on planning for the 36 
+transition to the Maine Health Care Plan and any recommended legislative changes.  37 
+6.  Completion of duties.   The duties of the committee are considered complete and 38 
+the committee is dissolved when the Maine Health Care Plan becomes effective.  39 
+ 
+ Page 32 - 127LR0584(01) -1 
+ PART D  1 
+Sec. D -1.  2 MRSA §6 -F is enacted to read:  2 
+§6-F.  Salaries of members of the Maine Health Care Council and executive director 3 
+of the Maine Health Care Agency  4 
+Notwithstanding any other provision of law, the salaries of the members of the Maine 5 
+Health Care Council, as established in Title 22, section 378, and the salary of the 6 
+executive director of the Maine Health Care Agency, as established in Title 22, section 7 
+376, are within salary range 91.  8 
+PART E  9 
+Sec. E -1.  24-A MRSA §2189 is enacted to read:  10 
+§2189.  Benefits that duplicate health care benefits of the Maine Health Care Plan  11 
+Health insurance policies and contracts and health care contracts and plans are 12 
+subject to the provisions of this section.  13 
+1.  Prohibited conduct.   A person, insurer, health maintenance organization or 14 
+nonprofit hospital or medical service organization may not sell or offer for sale in  this 15 
+State a health insurance policy or contract or a health care contract or plan that offers 16 
+benefits that duplicate the covered health care benefits offered by the Maine Health Care 17 
+Plan under Title 22, section 372, subsection 3 unless that person, ins urer, health 18 
+maintenance organization or nonprofit hospital or medical service organization has been 19 
+authorized as an organized delivery system by the Maine Health Care Agency pursuant to 20 
+Title 22, section 372, subsection 4, paragraph A.  A violation of th is subsection 21 
+constitutes an unfair or deceptive act or practice under section 2152.  22 
+2.  Allowed conduct.   A person, insurer, health maintenance organization or 23 
+nonprofit hospital or medical service organization may sell or offer for sale in the State a 24 
+health insurance policy or contract or a health care contract or plan that offers coverage 25 
+and benefits that are supplemental to and do not duplicate covered health care benefits 26 
+offered by the Maine Health Care Plan under Title 22, section 372, subsection 3 . 27 
+PART F  28 
+Sec. F -1.  Financing plan.   The Maine Health Care Agency, as established in the 29 
+Maine Revised Statutes, Title 22, section 376, shall recommend 2 plans for sustainable 30 
+financing to the Legislature no later than January 15, 2018.  31 
+1. One plan must re commend the amounts and necessary mechanisms to finance any 32 
+initiatives in order to provide coverage to all Maine residents in the absence of a waiver 33 
+from certain federal health care reform provisions established in Section 1332 of the 34 
+federal Patient Pro tection and Affordable Care Act, Public Law 111 -148, as amended by 35 
+the federal Health Care and Education Reconciliation Act of 2010, Public Law 111 -152. 36 
+ 
+ Page 33 - 127LR0584(01) -1 
+ 2.  The 2nd plan must recommend the amounts and necessary mechanisms to finance 1 
+the Maine Health Care P lan and any systems improvements needed to achieve a public - 2 
+private universal health care system. The agency shall recommend whether nonresidents 3 
+employed by Maine businesses should be eligible for the Maine Health Care Plan and 4 
+solutions to other cross -border issues.  5 
+3. In developing both financing plans, the agency shall consider the following:  6 
+A.  All financing sources, including adjustments to the income tax, a payroll tax, 7 
+consumption taxes, provider and employer assessments, other new or existing taxe s 8 
+and additional options as determined by the agency;  9 
+B.  The impacts of the various financing sources, including levels of deductibility of 10 
+any tax or assessment system;  11 
+C.  Issues involving federal law and taxation;  12 
+D.  The impact of tax system changes:  13 
+(1)  On individuals, households, businesses, public sector entities and the 14 
+nonprofit community, including the circumstances under which a particular tax 15 
+change may result in the potential for double payments, such as double payments 16 
+of premiums and tax ob ligations;  17 
+(2)  Over time, on changing revenue needs; and  18 
+(3)  For a transitional period, while the tax system and health care cost structure 19 
+are changing;  20 
+E.  Growth in health care spending relative to consumer needs and capacity to pay;  21 
+F.  Anticipated f ederal funds that may be used for health care services and how to 22 
+maximize the amount of federal funding available for this purpose;  23 
+G.  The amounts required to maintain existing state insurance benefit requirements 24 
+and other appropriate considerations in order to determine the state contribution 25 
+toward federal premium tax credits available in the Maine Health Benefit 26 
+Marketplace under the Maine Revised Statutes, Title 24 -A, chapter 93 pursuant to the 27 
+federal Patient Protection and Affordable Care Act, Publ ic Law 111 -148, as amended 28 
+by the federal Health Care and Education Reconciliation Act of 2010, Public Law 29 
+111-152; 30 
+H.  Additional funds needed to support recruitment and retention programs for high - 31 
+quality health care professionals in order to address the  shortage of primary care 32 
+professionals and other specialty care professionals in this State;  33 
+I.  Additional funds needed to provide coverage for the uninsured who are eligible for 34 
+public coverage and the Maine Health Benefit Marketplace;  35 
+J.  Funding mecha nisms to ensure that operations of both the Maine Health Benefit 36 
+Marketplace and Maine Health Care Plan are self -sustaining;  37 
+K.  How to maximize the flow of federal funds to the State for individuals eligible for 38 
+Medicare, such as enrolling eligible indivi duals in Medicare and paying or 39 
+supplementing the cost -sharing requirements on behalf of those individuals;  40 
+ 
+ Page 34 - 127LR0584(01) -1 
+ L.  The use of financial or other incentives to encourage healthy lifestyles and patient 1 
+self-management for individuals enrolled in the Maine Healt h Care Plan;  2 
+M.  Preserving retirement health benefits while enabling retirees to participate in the 3 
+Maine Health Care Plan;  4 
+N.  The implications of the Maine Health Care Plan regarding funds set aside to pay 5 
+for future retiree health benefits; and  6 
+O.  Cha nges in federal health care funding through reduced payments to health care 7 
+professionals or through limitations or restrictions on the availability of grant funding 8 
+or federal matching funds available to states through the Medicaid program.  9 
+4. In developi ng the financing plan for the Maine Health Care Plan, the agency shall 10 
+consult with interested stakeholders, including health care professionals, employers and 11 
+members of the public, to determine the potential impact of various financing sources on 12 
+Maine b usinesses and on the State's economy and economic climate.  13 
+5. In addition to the consultation required by this section, in developing the financing 14 
+plan for the Maine Health Care Plan, the agency shall solicit input from interested 15 
+stakeholders, including  health care professionals, employers and members of the public, 16 
+and shall provide opportunities for public engagement in the design of the financing plan.  17 
+6. The agency shall consider strategies to address individuals who receive health care 18 
+coverage thro ugh the United States Department of Veterans Affairs, the federal 19 
+TRICARE program under 10 United States Code, Chapter 55, the Federal Employees 20 
+Health Benefits Program or the government of a foreign nation or from another federal 21 
+governmental or foreign s ource.  22 
+Sec. F -2.  Employment retraining.   The Maine Health Care Agency, as 23 
+established in the Maine Revised Statutes, Title 22, section 376, shall coordinate with the 24 
+Department of Economic and Community Development, the Department of Labor and 25 
+private ind ustry councils to ensure that employment retraining services are available for 26 
+administrative workers employed by insurers and health care service providers who are 27 
+displaced due to the transition to the Maine Health Care Plan established in Title 22, 28 
+section 372.  29 
+Sec. F -3.  Delivery of long -term health care services.   The Maine Health Care 30 
+Agency, as established in the Maine Revised Statutes, Title 22, section 376, shall study 31 
+the delivery of long -term health care services to Maine Health Care Plan members  under 32 
+Title 22, chapter 106.  The study must address the best and most efficient manner of 33 
+delivery of health care services to individuals needing long -term health care and funding 34 
+sources for long -term health care.  In undertaking the study, the agency s hall consult with 35 
+the Maine Health Care Plan Transition Advisory Committee established in this Act, 36 
+representatives of consumers and potential consumers of long -term health care services, 37 
+representatives of providers of long -term health care services and r epresentatives of 38 
+employers, employees and the public.  The agency shall report to the Legislature on or 39 
+before January 1, 2020 and may include suggested legislation in the report.  40 
+ 
+ Page 35 - 127LR0584(01) -1 
+ Sec. F -4.  Provision of health care services.   The Maine Health Care Agency , as 1 
+established in the Maine Revised Statutes, Title 22, section 376, shall study the provision 2 
+of health care services under the MaineCare and Medicare programs.  The study must 3 
+consider the waivers necessary to coordinate the MaineCare and Medicare prog rams with 4 
+the Maine Health Care Plan established in Title 22, section 372; the method of 5 
+coordination of benefit delivery and compensation; reorganization of State Government 6 
+necessary to achieve the objectives of the agency; and any other changes in law n eeded to 7 
+carry out the purposes of Title 22, chapter 106.  The agency shall apply for all waivers 8 
+required to coordinate the benefits of the Maine Health Care Plan and the MaineCare and 9 
+Medicare programs.  The agency shall report to the Legislature on or b efore March 1, 10 
+2019 and may include suggested legislation in the report.  11 
+PART G  12 
+Sec. G -1.  1 MRSA §71, sub -§7-B is enacted to read:  13 
+7-B.  Payer; payor.  The words "payer" and "payor" may be used interchangeably in 14 
+the statutes and have the same meaning.  15 
+SUMMARY  16 
+Part A of the bill establishes the Maine Health Benefit Marketplace as the State's 17 
+health benefit exchange as authorized by the federal Patient Protection and Affordable 18 
+Care Act to facilitate the purchase of health care coverage by individuals and s mall 19 
+businesses. The Maine Health Benefit Marketplace is established within the Department 20 
+of Professional and Financial Regulation. The bill requires coverage to be available 21 
+through the state -based marketplace no later than January 1, 2017 and requires t he 22 
+Executive Director of the Maine Health Benefit Marketplace to submit a declaration of 23 
+intent to establish a state -based exchange under federal law to the federal Department of 24 
+Health and Human Services no later than November 18, 2015. The bill also requ ires the 25 
+executive director to submit applications for any available federal grant funding to 26 
+support planning and implementation of the exchange as soon as practicable.  27 
+Part B of the bill establishes the Maine Health Care Plan to provide security through 28 
+high-quality, affordable health care for the people of the State. The plan will become 29 
+effective and binding on the State upon the approval of a waiver from the United States 30 
+Department of Health and Human Services. All residents and nonresidents who maint ain 31 
+significant contact with the State are eligible for covered health care services through the 32 
+Maine Health Care Plan. The Maine Health Care Plan must conform to the minimum 33 
+essential benefits required under federal law, but may require additional benefi ts within 34 
+existing resources. Health care services under the Maine Health Care Plan are provided 35 
+by participating providers in organized delivery systems and through the open plan, 36 
+which is available to all providers. It establishes the Maine Health Care A gency to 37 
+administer and oversee the Maine Health Care Plan, to act under the direction of the 38 
+Maine Health Care Council and to administer and oversee the Maine Health Care Trust 39 
+Fund. The Maine Health Care Council is the decision -making and directing counc il for 40 
+the agency and is composed of 5 full -time appointees.  41 
+ 
+ Page 36 - 127LR0584(01) -1 
+ Part B also directs the Maine Health Care Agency to establish programs to ensure 1 
+quality, affordability, efficiency of care and health care planning. The agency health care 2 
+planning program inclu des the establishment of global budgets for health care 3 
+expenditures for the State and for institutions and hospitals. The health care planning 4 
+program also encompasses the certificate of need responsibilities of the agency pursuant 5 
+to the Maine Revised St atutes, Title 22, chapter 103 -A. 6 
+The bill contains a directive to the State Controller to advance $600,000 to the Maine 7 
+Health Care Trust Fund. This amount must be repaid by the Maine Health Care Agency 8 
+by June 30, 2020.  9 
+Part C of the bill establishes the Maine Health Care Plan Transition Advisory 10 
+Committee. Composed of 20 members, appointed by the Governor, President of the 11 
+Senate and Speaker of the House of Representatives and subject to confirmation by the 12 
+Legislature, the committee is charged with holdi ng public hearings, soliciting public 13 
+comments and advising the Maine Health Care Council on the transition from the current 14 
+health care system to the Maine Health Care Plan. Members of the committee serve 15 
+without compensation but may be reimbursed for the ir expenses. The committee is 16 
+directed to report to the Governor and to the Legislature every 6 months beginning July 1, 17 
+2019. The committee completes its work when the Maine Health Care Plan becomes 18 
+effective.  19 
+Part D of the bill establishes the salaries o f the members of the Maine Health Care 20 
+Council and the executive director of the Maine Health Care Agency.  21 
+Part E of the bill prohibits the sale on the commercial market of health insurance 22 
+policies and contracts that duplicate the coverage provided by the  Maine Health Care 23 
+Plan. It allows the sale of health care policies and contracts that do not duplicate and are 24 
+supplemental to the coverage of the Maine Health Care Plan.  25 
+Part F of the bill directs the Maine Health Care Agency to submit 2 financing plans to 26 
+the Legislature by January 15, 2018. Part F also directs the Maine Health Care Agency to 27 
+ensure employment retraining for administrative workers employed by insurers and 28 
+providers who are displaced by the transition to the Maine Health Care Plan. It dir ects the 29 
+Maine Health Care Agency to study the delivery and financing of long -term care services 30 
+to plan members. Consultation is required with the Maine Health Care Plan Transition 31 
+Advisory Committee, representatives of consumers and potential consumers o f long -term 32 
+care services and representatives of providers of long -term care services, employers, 33 
+employees and the public. A report by the agency to the Legislature is due January 1, 34 
+2020.  35 
+Part G clarifies that throughout the Maine Revised Statutes, the w ords "payer" and 36 
+"payor" have the same meaning.  37 
+ 

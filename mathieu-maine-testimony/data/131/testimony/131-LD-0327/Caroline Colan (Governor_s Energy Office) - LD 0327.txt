@@ -1,0 +1,426 @@
+S'r,u‘1-1 or IViAl1\'F. 
+()Fl?!(fE or THE C()\*ERZ\i()R 
+Q z 1S"r.u‘r~:H(>vsr: STA'I‘l()E\‘ 
+Av(;vs"iz>., MAl.\‘E 
+04333-0001 
+<--~.-\.,=...- 
+J;-\:\’E'l‘ NHL LS DAN BI ?R(i I-ISS 
+G()\’F.R.\‘OR DIRECTOR or G()\"ERN()R ’S 
+ENERGY OFFICE 
+TESTIMONY BEFORE THE ENERGY, UTILITIES AND TECHNOLOGY COMMITTEE 
+An Act to Provide Maine Ratepayers with Equitable Access to Interconnection of Distributed 
+Energy Resources 
+L.D. 327 
+GOVERNOR'S ENERGY OFFICE 
+May 10, 2023_ 
+Senator Lawrence, Representative Zeigler, and Members of the Joint Standing Committee on Energy, 
+Utilities and Technology (EUT): My name is Caroline Colan, and l am the Legislative Liaison for the 
+Governor ’ s Energy Office (GEO). 
+The GEO testifies in support of L.D. 327. 
+The GEO appreciates the opportunity to comment on this legislation. Since taking office, Governor Mills 
+has prioritized advancing clean energy in Maine to mitigate the impacts of climate change, reduce 
+Maine's dependence on expensive imported fossil fuels, and grow Maine's own clean energy economy 
+with jobs for Maine people. increasing the number of Maine homes and businesses with renewable 
+generation and energy storage facilities contributes toward meeting these policy goals, as well as 
+helping to provide resiliency in the face of increasingly volatile weather and natural gas prices. 
+Our office has recognized the important role interconnection procedures play in facilitating the 
+deployment of new renewable energy needed to achieve our state's requirements. Two years ago, in 
+response to reports of significant cost changes and other unexpected delays related to interconnection 
+agreements for distributed energy resources, Governor Mills sent a letter to the Public Utilities 
+Commission (the Commission) requesting an investigation into the genesis of the problems reported to 
+avoid future challenges with interconnection of distributed energy resources. Additionally, in the letter 
+Governor Mills requested the initiation of a broader review "to ensure that Maine's electric utilities have 
+the systems and planning in place to accommodate the growth of renewables and distributed energy 
+resources that will allow our state to reduce our historically high dependency on high cost fossil fuels.“ 
+Later in 2021, the legislature passed L.D. 1100} An Act to Support the Continued Access to Solar Energy 
+and Battery Storage by Maine Homes and Businesses. Pursuant to that act, the Commission engaged 
+experts at the interstate Renewable Energy Council (IREC) to "evaluate Maine's procedures and 
+practices to ensure solar and storage projects that serve a customer's own electricity needs are 
+interconnected efficiently and without bearing costs for distribution grid upgrades." The GEO 
+appreciates the work of the Commission and IREC on this topic; their report was thorough, engaged 
+stakeholders, and provides useful recommendations based on national best practices. 
+1 https:1/www.maine.gov/energy/sites/maine.gov.energv/files/iniine-fiies/Mills%20PUC%20i_etter.pdf 
+Z P.L. 2021, Ch. 264
+1
+The Commission issued a Notice of lnquiry (NOI) in late 2022 requesting comments on potential changes 
+to its interconnection rules, Chapter 324, based on the recommendations of lREC's report. The GEO 
+submitted comments in response to the NOI, several of which relate to portions of L.D. 327. l have 
+attached the GEO's full comments to this testimony for the Committee's reference. Regarding this 
+legislation, the GEO's previous comments express support for: 
+0 The establishment of an interconnection ombudsperson role at the Commission, which we 
+believe will improve dispute resolution and reduce costs for Maine people and businesses over 
+the long-term, and provide equitable options for interconnecting customers that lack the 
+resources to participate effectively in the existing dispute resolution process; 
+0 The inclusion of specific energy storage interconnection procedures; and 
+0 Various approaches aimed at expediting interconnection applications. 
+We understand that the Commission is likely to initiate a rulemaking in the near future regarding several 
+of the topics addressed in l..D. 327. The GEO will remain engaged in the Commission's process on this 
+inquiry, but is also open to other approaches, such as this one, to address interconnection challenges 
+that have often led to increased costs, unpredictable timelines, and limited transparency into renewable 
+energy development in Maine. 
+Thank you for your consideration. 
+QMi~_Ca4.»\ Caroline Colan, Legislative Liaison 
+Governor's Energy Office 
+Page 2 of2
+STATE OF MAINE DOCKET NO. 2022-00345 
+PUBLIC UTILITIES COMMISSION 
+January 20, 2023 
+PUBLIC UTILITIES COMMISSION COMMENTS OF THE MAINE 
+Interconnection Procedures (Chapter 324) GOVERNOR'S ENERGY OFFICE 
+The Maine Public Utilities Commission (Commission) issued a Notice of Inquiry (NOI) on 
+December 5, 2022 requesting comments regarding "potential changes to Chapter 324 based on 
+issues raised in the Interstate Renewable Energy Council, INC (IREC) Report in Docket No. 
+2022-00071 including a straw proposal (the straw proposal) the Commission attached with the 
+Inquiry (NOI at 1).‘ The Commission notes that it intends to open a rulemaking proceeding 
+following this Inquiry.' 
+The Governor's Energy Office (GEO) submits these comments in response to the NOI. The 
+GEO appreciates the Commission's initiation of this Inquiry to address changes needed to small 
+generator interconnection procedures, and the inclusion of a straw proposal with specific 
+proposed changes to Chapter 324 for input from interested parties. 
+To summarize, the GEO supports inclusion of specific energy storage interconnection 
+procedures, enhancing dispute resolution processes particularly for small and on-site 
+interconnecting customers, adoption of a table-based screening approach for expedited 
+interconnection applications, and adoption of IEEE 1547-2018 standards. Additionally, the GEO 
+encourages the Commission to use this Chapter 324 Inquiry to solicit speciﬁc interconnection~ 
+related performance metrics, as required by P.L. 2021, Chapter 702 (LD 1959). For clarity, the 
+GEO has organized its comments following the structure of the NOI. 
+Background 
+IREC was engaged by the Commission pursuant to P.L. 2021, Ch. 264 (LD 1100, An Act To 
+Support the Continued Access to Solar Energy and Battery Storage by Maine Homes and 
+Businesses) to “evaluate Maine’s procedures and practices to ensure solar and storage projects 
+that sen/e a customer ’s own electricity needs are interconnected efficiently and without bearing 
+costs for distribution grid upgrades" (NOI at 1). In the NOI, the Commission stated “pursuant to 
+the Act, IREC also evaluated the transparency of the screening process for these projects as 
+well as the dispute resolution process" (NOI at 2). The GEO appreciates the work of the 
+Commission and IREC pursuant to P.L. 2021, Chapter 264 (LD 1100); It was thorough, obtained 
+input from stakeholders, and provided clear recommendations based on national best practices. 
+1 “The IREC report" is Interconnection Standards, Practices, and Procedures to Support Access to Solar 
+Energy and Battery Storage for Maine Homes and Businesses. Report Prepared for the Maine Public 
+Utilities Commission. Interstate Renewable Energy Council. February 2022. Available online at 
+https://mpuc-cms.maineqov/CQM.Public.WebUI/CommonNiewDoc.aspx?DocRefld={2882E685-4281- 
+4280-B921-A63EBDDOBEDB}&DocExt=pdf&DocName={2882E685-42B1-4280-B921- 
+A63EBDDOBEDB}.Qdf
+1
+1. Review requirements that on-site solar and storage projects sewing . 
+customer load must pay for distribution upgrades in some circumstances 
+in light of direction contained in L.D. 1100. 
+a. Waiver of Distribution Upgrade Costs 
+P.L. 2021 Chapter 264 (LD 1100) §2 requires the Commission to ensure, based on an. 
+independent expert review (the IREC report), that "the timelines and requirements for 
+interconnection do not unduly limit the ability of residential and nonresidential customers to 
+install on-site solar energy generation and battery storage systems to offset a customer's 
+electrical consumption and that interconnection costs for these customers are limited to 
+interconnection facility upgrades and do not include the cost of distribution upgrades." To 
+implement this directive, the Commission proposes changes to Chapter 324 that would exempt 
+projects up to 500 kW from paying any Distribution Upgrade costs, including operations and 
+maintenance. t t. 
+The Commission requested comments on “whether limiting the exemption to projects 500 kW is 
+a reasonable way to meet the definition in LD 1100" (NOI at 4). instead of adopting the 
+proposed 500 kW exemption, the Commission should establish in rule an appropriate definition 
+related to the “on~site...systems to offset a customer ’s electric consumption" requirement 
+contained in P.L. 2021 Chapter 264 (LD 1100). Chapter 313 of the Commission's rules 
+establishes a seemingly equivalent definition of “collocated ” facilities that could be instructive 
+here: ““Collocated" means an eligible facility that is located on the same premise, property, or 
+development area of a net energy billing customer facility-or facilities that are subscribed to that 
+eligible facility" (Chapter 313, §2). A definition for “on-site” or “collocated ”2 adopted in Chapter 
+324 should be modified to remove reference to net energy billing or any other specific programs 
+that may not be relevant to all interconnecting facilities. Adopting this approach would obviate a 
+potentially arbitrary designation of 500 kW as the limit for a distribution upgrade cost waiver, 
+instead aligning the implementation of the distribution upgrade cost waiver with its clear intent to 
+avoid allocating costs to projects that are intentionally planned to offset customer load on-site. 
+The GEO also recommends that table-based eligibility criteria for Level 2 projects be adopted as 
+recommended on pages 37-38 of the IREC report, rather than lowering the Level 2 threshold 
+capacity from 2 MW to 500 kW. A table-based approach better serves the intent of P.L. 2021 
+Chapter 264 (LD 1100) by basing screens on the capacity of the distribution system at the 
+proposed interconnection location. Linking project capacity to location-related factors that affect 
+the likelihood of having an adverse impact on the electric system through a table-based 
+approach will increase the likelihood of efficiently utilizing existing infrastructure. That, in turn, 
+may help minimize the overall cost of interconnection upgrades, reducing overall costs and 
+enabling more renewable distributed generation consistent with P.L. 2021 Chapter 264 (LD 
+1100). The table-based approach is discussed further in section 5 below. 
+The Commission should also consider whether implementation of any cost waivers could be 
+accomplished through a mechanism that would preserve the ability for interconnecting 
+customers to leverage the forthcoming eligibility for certain interconnection costs to be included 
+2 The GEO uses these terms interchangeably throughout these comments.
+2
+in the basis for the federal Investment Tax Credit and Clean Energy Investment Tax Credits 
+under the inflation Reduction Act. 
+b. Waiver of Distribution Upgrade O&M Costs 
+The GEO agrees with the Commission's interpretation of P.L. 2021 Chapter 264 (LD 1100) as 
+intending to relieve eligible customers of distribution cost O&M charges. 
+c. Flat Fee for interconnection Facilities- 
+The Commission seeks comments on “whether a flat fee approach for the cost of 
+Interconnection Facilities would be appropriate for customers with projects 500 kW or less asa 
+means of streamlining the process for small projects" and specifically whether adopting a ﬁxed 
+$14 per kW— New York’s ﬂat fee - would be appropriate. (NOI at 5). The Commission also 
+seeks comments on "how to recover the costs of Distribution Upgrades for projects. 500kW and 
+under” (NOI at 5). _ .. 
+The GEO supports a flat fee approach for all Level 1 and Level 2 projects, in conjunction with 
+the adoption of a table-based screening approach. Flat fees are more time-efﬁcient and thus 
+consistent with expedited review intended for Level 1 and Level 2 projects. The Commission 
+may wish to consider whether a flat fee should be reconciled periodically based on actual 
+prudently incurred interconnection facility and distribution upgrade costs. . 
+d. Distribution Upgrade Definition 
+The GEO supports the clarified definition of “Interconnection Facilities" proposed by the 
+Commission.- 
+2. The definition of “Aggregated Generation ” leaves gaps in how projects will 
+be studied and upgrade costs allocated. 
+As explained in the IREC report, "The issue of the deﬁnition of “Aggregated Generation ” 
+highlights the need to balance two factors: on one hand, the State's policy interest in moving the 
+(generally smaller) solar projects serving on-site load forward with minimal delay, and on the 
+other, the need to ensure that interconnection is an efficient and predictable process for 
+proposed DER of all sizes” (at 20). The Commission has proposed that once a project has paid 
+distribution costs, it will be counted as Aggregated Generation. 
+The GEO notes two other potential options for consideration: inclusion of projects with 
+completed i.3.9 study results (these projects might not yet have been invoiced for all 
+transmission costs, but may be reasonably certain to proceed); and reservation of a certain 
+amount of capacity on each circuit for small or on-site projects, as discussed by IREC report on 
+pages 23-24. 
+The GEO also notes that using a table-based approach in conjunction with a ﬂat fee per kW 
+cost allocation structure would streamline the interconnection process and likely reduce the 
+number of projects that withdraw, whether formally from the Level 4 queue or by failing to move
+3
+forward after an adverse Level 1 or Level 2 screen?’ A table-based approach would reduce the 
+likelihood that a feasible project fails a screen and a flat fee would improve predictability. 
+3. The current manner in which “automatic sectionalizing devices” are- 
+defined in the screen contained in Section 7(A) results in excessive screen 
+failure without safety and reliability benefits. 
+The GEO supports the Commission's proposed changes to the definition of “automatic 
+sectionalizing device” and Section 7(A) screen consistent with lREC’s recommendation and 
+national best practices. 
+4. The screen contained in Section 7(E) relies on an assumption of 
+transformer size that may be insufficiently conservative in some cases and 
+overly conservative in others. 
+The GEO supports the Commission's proposed changes to the Section 7(E) screen 
+recommended by lREC. The GEO also supports additional amendments to Chapter 324 that 
+streamline storage interconnection consistent with lREC’s best practices, as discussed further in 
+section 9 below. 
+5. Level 2 eligibility is fixed at 2 MW instead of relative to the-likely capacity of 
+different feeder types. 
+The lREC report notes that the FERC and multiple states have moved away from a 2 MW cap 
+for Level 2 review, to a table-based approach based on location~related factors (lREC Report at 
+37). lREC further notes that it has “|ong recommended the table-based approach to Level2 
+eligibility in nearly all circumstances because it strikes a reasonable balance between taking into 
+account factors that could limit safe and reliable interconnection of a project without upgrades, 
+while ensuring the maximum number of small projects receive faster review" (at 38). 
+The Commission states that “While the table-based approach is more nuanced than a hard cap, 
+it appears to be more complex and gives the utilities the opportunity to exercise more discretion, 
+which could subsequently reduce transparency. At this time, the Commission is more inclined to 
+learn from the experience of FERC and other states that have begun this approach and re- 
+examine the table-based approach in the future. Thus, while the attached draft does not usea 
+table-based approach, the Commission welcomes comments on lREC’s recommendation. ” (NOI 
+at 9). 
+The GEO believes transparency can be required regardless of the level of discretion available to 
+the utility on this matter. Furthermore, as discussed above, the GEO supports lREC’s 
+recommendation that the Commission adopt a table-based approach to Level '2 eligibility (at 38- 
+39). A table-based approach supports the public interest in minimizing interconnection costs, 
+expanding access to renewable energy, and most efficiently utilizing existing infrastructure. A 
+table-based approach would reduce the likelihood that a feasible project fails a static screen, 
+3 The number of projects in these latter categories is presumably known to the interconnecting utilities, 
+but not reported publicly on a regular basis to the GEO's knowledge.-
+and a flat fee would improve cost predictability and avoid some scenarios where one project 
+gets stuck with “the whole tab" and needs to withdraw as a result. Reducing the Level 2 size 
+from 2 MW to 500 kW could simply result in an increase in the number of 499 kW projects, with 
+the same results for “|eap-frogging ” and queue unpredictability. indeed, IREC states that it “is 
+not persuaded that reducing the size limit of the Level 2 process would benefit the process and 
+may contribute instead to more delays and potentially expose applicants to more review than is 
+necessary to ensure safety and reliability ” (at 38). 
+The table-based eligibility approach is consistent with best practices and broader grid 
+modernization principles that seek to utilize existing infrastructure more efficiently. To support 
+the Commission ’s laudable interest in transparency, the GEO suggests robust and standardized 
+reporting requirements and performance metrics as discussed later in these comments. 
+6. Maine's Procedures lack a well-defined “Supplemental Review” process 
+that utilitiesmust offer to applicants. . . 
+The GEO supports adoption of lREC’s supplemental review recommendations, as proposed by 
+the Commission, to "require that utilities offer applicants who fail screening the option to 
+proceed with Supplemental Review instead of going on to Level 4 detailed study...and that the 
+Supplemental Review process add three new screens: the 100% of minimum voltage screen, 
+the voltage regulation screen, and the safety and reliability screen" (NOI at 11). The 
+Commission has also requested comments on specific technical standards to be included in the 
+new screens. The Commission, GEO, and other interested parties may benefit from examples 
+of recent, real-life supplemental reviews (currently named ‘additional reviews’) to-obtain a better 
+understanding of how the existing process is implemented and what information would be 
+helpful to be included. The GEO would welcome an opportunity for interested parties to submit 
+examples to this docket, such as through reply comments. 
+Regardless of the specific technical standards, the GEO supports clear and consistent 
+standards and templates for the provision of required information at each stage, including 
+information provided on interconnection screen failures discussed in section 8, below. 
+The GEO also recommends that the supplemental review process “allow for a short period of 
+design change and review, as necessary, to help projects move forward quickly with minimal 
+effects on the queue" as recommended by the national Toolkit and Guidance for the 
+Interconnection of Energy Storage and Solar-Plus-Storage ‘ (BATRIES Toolkit) (at 21). This 
+would require a section in interconnection procedures that provides guidance on whether and 
+how design changes can be accommodated without submitting a new application. IREC also 
+recommends that "Impact study results provide an analysis of potential changes to the DER 
+system that could eliminate or reduce the need for upgrades. Utilities should provide, ata 
+minimum, a limited analysis of alternative DER conﬁgurations, ideally during the normal 
+4 Building a Technically Reliable interconnection Evolution for Storage (BATRIES) is a three-year project 
+focused on developing solutions to a suite of critical barriers to energy storage interconnection to the 
+distribution system. BATRIES is supported by the Department of Energy's Solar Energy Technologies 
+Office and is led by the interstate Renewable Energy Council with its partners, the Electric Power 
+Research institute, Solar Energy industries Association, California Solar & Storage Association, New 
+Hampshire Electric Cooperative, lnc., PacifiCorp, and Shute, Mihaly & Weinberger, LLP. The BATRIES 
+Toolkit includes model rule language, which has been adopted by Commissions in otherjurisdictions, 
+most recently New Mexico. For more information, see httios:/fenerqystoraqeinterconnection.orq1
+5
+timeframe of the study process (rather than requiring restudy after study results are delivered) ” 
+(BATRIES at 20). 
+7. The utilities ’ technical requirements for.interconnection may not reflect 
+best practices and thus may unnecessarily increase interconnection costs. 
+lREC recommended that a technical working group be formed to address five specific technical 
+requirements. The Commission has indicated that it does not expect to create a technical 
+working group but instead seeks comments in this Inquiry, especially from Versant since “it 
+appears that these technical issues are largely Versant-specific ” (NOI at 12). 
+As a general matter, the GEO supports the recommendation by IREC related to adoption of 
+lEEE’s latest standards, IEEE 1547-2018 (IREC Report at 80), and believes this would help 
+resolve some of the technical issues. lEEE 1547-2018 includes many new requirements that 
+would clarify technical requirements and improve safety, including voltage and frequency ride- 
+through and regulation, power quality, intentional islands, and new concepts including the 
+Reference Point of Applicability (IREC Report at 81). 
+While lEEE 1547-2018 is not mentioned in the NOl, the GEO believes it important to develop a 
+schedule for addressing all 1547 adoption topics whether within a working group, as 
+recommended in the IREC Report (at 82), or on an alternative Commission-specified schedule. 
+lREC noted that "|SO-NE has published guidelines for 1547-2018 implementation which can be 
+followed by Maine, and which can help simplify the process” (at 82). 
+8. Information provided on interconnection screen failures may be insufficient 
+to inform customers about next steps. 
+While “The Commission declines to adopt lREC's suggestion that the Commission convene a 
+working group to create a standardized form for reporting screen failures" (NOI at 13), the GEO 
+suggests that the Commission direct the utilities to jointly propose, with input from stakeholders, 
+a standard form that incorporates the detailed information recommended by IREC. The. 
+Commission could delegate approval of such a standard form, and any updates that may be 
+proposed from time to time, to the Director of the Electric and Gas Division. 
+9. Chapter 324 is not prepared to accommodate the unique features and 
+capabilities of energy storage systems. 
+P.L. 2021 Chapter 298 established statewide energy storage deployment goals of 300 MW by 
+2025 and 400 MW by 2030. it also directed the GEO to conduct an energy storage market 
+assessment, which was completed with stakeholder input and released in March 2022.5 Among 
+the policy considerations identiﬁed in the energy storage market assessment was: 
+5 Maine Energy Storage Market Assessment. March 2022. 
+https:/ivmm/.mainegov/energy/sites/maine.Qov.enerqyi ﬁlesiinline- 
+files/GEO State%20of%20Maine%2OEnerw/%20Sto2'aqe%20Market°/620/Assessment March%202022.g 
+Q3
+6
+Supporting actions that ease the development process for storage resources. Stakeholders 
+A identiﬁed roadblocks to permitting, interconnection, siting, and customer identification as 
+hurdles to storage deployment in Maine. Specific strategies to alleviate these hurdles 
+include... 
+0 Establish policies and guides for storage interconnection that reduce uncertainty for 
+storage developers, as well as support utilities aligning their interconnection 
+processes with ISO-NE to streamline the process for developers and reduce costs. 
+0 Support updating interconnection procedures to encourage energy storage 
+development, including, as identified by stakeholders, how storage is treated in 
+System Impact Studies as a load during peak events instead of a generator, which 
+can often run contrary to typical battery operations." (Energy Storage Market 
+Assessment at 64). 
+The GEO urges the Commission to integrate energy storage into interconnection procedures by 
+adopting the national best practices documented in the BATRIES report recommendations and 
+model rule in whole, as applicable, including: 
+Require utilities to update all related interconnection documents, studies, agreements, 
+and application forms to include energy storage (i.e. whether energy storage is used, 
+where export controls are used, and what type/equipment settings) 
+Amend Ch.324 Subsection 1 “Scope” to include “These Interconnection Procedures are 
+applicable to all state-jurisdictional Interconnection Customer Generator Facilities,C 
+including Energy Storage Systems" (adopted from BATRIES at 41) 
+Insert a deﬁnition for Energy Storage Systems (ESS) that clearly states that the 
+interconnection procedures apply to new standalone ESS and ESS paired with other 
+generators, such as the model definition provided: "Energy Storage System or ESS 
+means a mechanical, electrical, or electrochemical means to store and release electrical 
+energy, and its associated interconnection and control equipment. For the purposes of 
+these Interconnection Procedures, an Energy Storage System can be considered part of 
+a DER or a DER in whole that operates in parallel with the distribution system’-’ 
+(BATRIES at 41). 
+identify a list of acceptable methods that can be trusted and relied upon by both 
+interconnection customer and utility for both non-export and limited-export to avoid 
+customized reviews. There is model language at BATRIES pgs. 57-59. This might fit well 
+in Chapter 324 Section 5, "Standards for the certiﬁcation of generators and 
+interconnection equipment" . 
+Amend the definition of interconnection Customer Generator Facility to mean, 
+"lnterconnection Customer Generating Facility means the equipment used by an 
+interconnection Customer to generate, store, manage, interconnect, and monitor 
+electricity. An Interconnection Customer Generating Facility includes the interconnection 
+equipment required to safely interconnect the facility with the distribution system." 
+(BATRIES at 41) 
+Add a deﬁnition of Operating Schedule and Operating Profile. Model language for each 
+is provided in BATRIES.‘ 
+Deﬁne and describe requirements and use of Power Control Systems. 
+Add a question in the interconnection Application to flag whether or not grid services will 
+be utilized because different functionalities and technical requirements might be required 
+(BATRIES at 24) 
+In the pre-application report, require utilities to provide basic distribution system map 
+data for substation and feeder (BATRlES at 96).
+7
+10.Construction of interconnection upgrades may not be occurring in a timely 
+manner, resulting in delays. 
+IREC recommended that the Commission adopt regular reporting for small projects to ensure 
+compliance with the timelines established in Chapter 324 (IREC Report at 63-64). The 
+Commission “is not inclined to adopt additional reporting requirements at this time” (NOl at 13) 
+and instead suggests that updating the interconnection agreement to “include greater level of 
+detail regarding construction timelines may be appropriate and less burdensome" (Id at 14). 
+The GEO believes the Commission should both require regular reporting and require greater 
+detail in interconnection agreements. Timely interconnection would be an appropriate 
+performance metric well in line with the requirements of LD 1959 and other metrics discussed 
+below. 
+11.Dispute resolution procedures may need improvement to resolve disputes 
+in an efficient and fair manner.I 
+The GEO supports establishment of an interconnection ombudsperson role at the Commission. 
+The NO! states: 
+“lREC’s interviews with the utilities and developers revealed that the current process is 
+resource intensive and that parties are concerned with the time and cost required to 
+, engage in'dispute resolution. lREC Report at 66. Utilities and developers also 
+expressed concern that Commission staff does not always have sufﬁcient resources to 
+resolve these disputes and that they often still result in a formal proceeding. Id. at 67. 
+IREC pointed to Massachusetts and New York, which have staffed an interconnection 
+ombudsperson to resolve disputes. Id. ln addition to an ombudsperson, Massachusetts 
+also has a process for resolving disputes through neutral mediators and technical 
+experts. Id. at 68. IREC recommended Maine adopt a similar approach to 
+Massachusetts, including creating an ombudsperson position, having pre-qualified set 
+of neutral mediators and technical experts and a three-phase process for non-binding 
+arbitration. Id. at 69-70. 
+Given the costs needed to hire additional staff, the Commission declines to adopt lREC’s 
+suggestion at this time. However, the Commission seeks comments on how Section 15 
+of Chapter 324 could be amended to ensure that disputes are resolved efficiently. For 
+instance, could the timeframes listed in Section 15 be shortened? Are certain steps 
+unnecessary?" 
+The Commission should consider adoption of a modest per-kW fee for all Chapter 324 projects 
+that is sufficient to fund the necessary staff.“ The GEO believes improved dispute resolution will 
+reduce costs for Maine people and businesses over the long-term, and provide equitable 
+options for interconnecting customers that lack the resources to participate effectively in the 
+existing dispute resolution process. 
+6 Reports filed by Central Maine Power and Versant Power in docket 2020-00199 indicate more than 160 
+megawatts of distributed generation became operational in 2022. A per-kW fee designed to fund an 
+ombudsperson role could be modest if spread across such a volume of projects.
+I
+8
+The Commission should incorporate development of performance standards as 
+required by P.L. 2021, Chapter 702 (LD 1959) in this proceeding 
+The GEO supports public reporting by utilities regarding performance of interconnection 
+procedures. P.L. 2021, Chapter 702 (LD 1959) instructed the Commission to adopt metrics 
+pertaining to “distributed energy resources interconnection" among others (35-A MRSA §301, 
+sub-§1-A (A)(4)). The Commission stated in Docket No. 2022-00052, “With respect to 
+distributed energy resources interconnection...the Accountability Act [LD 1959] requires that 
+metrics, standards, and reporting requirements be established. Although not included in this 
+Chapter, Chapter 324 of the Commission's rules governs utility small generation interconnection 
+procedures, including timing requirements for the interconnection process. The Commission 
+may consider additional provisions and metrics in a future Chapter 324 rulemaking ” (2022- 
+00052, Order Adopting Rule and Statement of Factual and Policy Basis dated July 29, 2022 at 
+5). The GEO believes that this Inquiry is an opportune time to incorporate performance metrics 
+for interconnection and encourages the Commission to request comments from all parties on 
+applicable performance metrics that would meet the requirement of P.L. 2021, Chapter 702 (LD 
+1959). 
+The GEO appreciates the Commission ‘s consideration of these comments and looks forward to 
+actively participating throughout this Inquiry and subsequent rulemaking processes. 
+Dated at _Augusta, Maine this 20”‘ day of January 2023. 
+_ Respectfully submitted,
+W Claire Swingle 
+Governor's Energy Office 
+Energy Policy Analyst 
+(207) 530~7376 
+claire.swingle@maine.gov 
+ﬂea: 
+Ethan Tremblay 
+Governor ’s Energy Ofﬁce 
+Energy Policy Analyst 
+(207) 530-2603 
+ethan.tremblay@maine.gov
+9

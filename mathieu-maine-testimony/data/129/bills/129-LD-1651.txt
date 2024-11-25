@@ -1,0 +1,315 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1651
+H.P. 1187 House of  Representatives,  April 30, 2019
+An Act  To Promote Equitable and  Responsible  Broadband 
+Investment
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative STEWART of  Presque Isle.
+Cosponsored by Representatives:  FOSTER of Dexter, HANLEY  of Pittston,  O'CONNOR of  
+Berwick, WADSWORTH of Hiram,  Senator:  WOODSOME  of York.
+
+Page 1 - 129LR1607(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §9211-A, sub-§5, ¶¶D and E, as enacted by PL 2015, c. 
+3323, §1, are amended to read:
+4D.  Information gathered from local public and private institutions that identifies how 
+5the broadband services will expand access to state and local services identified under 
+6subsection 3; and
+7E.  A summary of input received from the business community to identify the 
+8services that will be used in planning the implementation grant application.; and
+9Sec. 2.  35-A MRSA §9211-A, sub-§5, ¶F is enacted to read:
+10F.  Evidence of compliance with the requirements of chapter 94.
+11Sec. 3.  35-A MRSA §9217, sub-§1, ¶¶D and E, as enacted by PL 2015, c. 284, 
+12§11, are amended to read:
+13D.  Include one or more potential network designs, cost estimates, operating models 
+14and potential business models based on input from broadband providers operating 
+15within the municipality, municipalities or region and any other parties that submit a 
+16network design solution in the course of developing the plan to address any 
+17broadband gaps identified in paragraph C; and
+18E.  Include an assessment of all municipal procedures, policies, rules and ordinances 
+19that have the effect of delaying or increasing the cost of broadband infrastructure 
+20deployment.; and
+21Sec. 4.  35-A MRSA §9217, sub-§1, ¶F is enacted to read:
+22F.  Include evidence of compliance with the requirements of chapter 94.
+23Sec. 5.  35-A MRSA c. 94 is enacted to read:
+24CHAPTER 94
+25MUNICIPAL BROADBAND PRIVATE INDUSTRY SAFEGUARDS
+26§9401.  Definitions
+27As used in this chapter, unless the context otherwise indicates, the following terms 
+28have the following meanings.
+291.  Broadband service.  "Broadband service" means service of high-speed Internet 
+30access capability in excess of 144 kilobits per second both to and from a computer or 
+31network.
+322.  Capital costs.  "Capital costs" means all costs of providing a service that are 
+33capitalized in accordance with generally accepted accounting principles.
+Page 2 - 129LR1607(01)-113.  Direct costs.  "Direct costs" means those expenses of a municipality that are 
+2directly attributable to providing broadband service and would be eliminated if broadband 
+3service was not provided by the municipality.
+44.  Feasibility consultant.  "Feasibility consultant" means a person with expertise in 
+5the processes and economics of providing broadband service.
+65.  Full-cost accounting.  "Full-cost accounting" means the accounting of all costs 
+7incurred by a municipality in providing broadband service, including all capital costs, 
+8direct costs and indirect costs.
+96.  Indirect costs.  "Indirect costs" means any costs identified with 2 or more services 
+10or other functions that are not directly identified with a single service or function.  
+11"Indirect costs" includes the costs of administration, accounting, personnel, purchasing, 
+12legal support and other staff or departmental support.
+137.  Private provider.  "Private provider" means a private entity that provides 
+14broadband service.
+158.  Provide.  "Provide" means, as it relates to a municipality and broadband service, 
+16to provide or offer broadband service directly or indirectly, including through an 
+17authority or instrumentality acting on behalf of the municipality or for the benefit of the 
+18municipality, through a partnership or joint venture or by contract, resale or otherwise.
+199.  Subscriber.  "Subscriber" means a person that lawfully receives broadband 
+20service from another person that provides broadband service.
+21§9402.  Scope of chapter
+22Nothing in this chapter applies to a municipality purchasing, leasing, constructing or 
+23equipping facilities that are designed to provide services within the municipality and that 
+24the municipality uses for internal municipal government purposes or, by written contract, 
+25leases, sells capacity in or grants other similar rights to a private provider to use the 
+26facilities in connection with the private provider's offering broadband service.
+27§9403.  Municipal limitations on providing broadband service
+28Except as provided in this chapter, a municipality may not provide broadband service 
+29to a subscriber or, for the purpose of providing broadband service to a subscriber, 
+30purchase, lease, construct, maintain or operate a facility that is designed to provide 
+31broadband service.  A municipality may not offer to provide or provide broadband service 
+32to a subscriber that is not located within the geographic boundaries of the municipality.
+33§9404.  Antitrust immunity
+34Notwithstanding Title 10, section 1104, subsection 4, a municipality that provides 
+35broadband service is not exempt from the recovery of damages, interest on damages, 
+36costs and attorney's fees for antitrust violations in providing broadband service.  A 
+37municipality that provides broadband service is subject to applicable antitrust liabilities 
+Page 3 - 129LR1607(01)-11under the federal Local Government Antitrust Act of 1984, 15 United States Code, 
+2Sections 34 to 36.
+3§9405.  Preliminary public hearing
+4Before a municipality may engage or offer to engage in an activity to provide 
+5broadband service, the legislative body of the municipality shall hold a preliminary public 
+6hearing.
+7If the legislative body elects to proceed after holding the preliminary public hearing 
+8required by this section, the legislative body of the municipality must approve the hiring 
+9of a feasibility consultant to conduct a feasibility study in accordance with section 9406.
+10§9406.  Feasibility study; additional public hearing requirements
+11If a feasibility consultant is hired pursuant to section 9405, the legislative body of the 
+12municipality shall require the feasibility consultant to complete a feasibility study in 
+13accordance with this section, submit to the legislative body no later than 180 days from 
+14the date the feasibility consultant is hired to conduct the feasibility study the full written 
+15results of the feasibility study with a summary of the results that is no longer than one 
+16page in length and attend the public hearings described in this section to present the 
+17feasibility study results and respond to questions from the public.
+181.  Feasibility study.  A feasibility study must at a minimum consider:
+19A.  Whether the municipality's providing broadband service in the manner proposed 
+20by the municipality hinders or advances competition for broadband service in the 
+21municipality;
+22B.  Whether but for the municipality any person would provide the proposed 
+23broadband service;
+24C.  The fiscal impact on the municipality of the capital investment in facilities to be 
+25used to provide the proposed broadband service;
+26D.  The expenditure of funds for labor, financing and administering the proposed 
+27broadband service;
+28E.  The projected growth in demand in the municipality for the proposed broadband 
+29service;
+30F.  The projections at the time of the feasibility study and for the next 5 years of a 
+31full-cost accounting for a municipality to purchase, lease, construct, maintain or 
+32operate the facilities necessary to provide the proposed broadband service; and
+33G.  The projections at the time of the feasibility study and for the next 5 years of the 
+34revenues to be generated from the proposed broadband service.
+352.  Public hearings.  If the feasibility study shows that the average annual revenues 
+36under subsection 1, paragraph G exceed the average annual costs under subsection 1, 
+37paragraph F by at least the amount necessary to meet the bond obligations of any bonds 
+38issued to fund the proposed broadband service based on the first year of the study and the 
+395-year projection and the legislative body of the municipality elects to proceed with 
+Page 4 - 129LR1607(01)-11providing broadband service, the legislative body shall, at the legislative body's next 
+2regular meeting after receiving the results of the feasibility study, schedule at least 2 
+3public hearings to be held within 60 days of the meeting at which those public hearings 
+4are scheduled and at least 7 days apart.  The purpose of these public hearings is to allow 
+5the public to be informed about the feasibility study through a presentation by the 
+6feasibility consultant of the results of the study and an opportunity for the public to 
+7question the feasibility consultant about the study.
+83.  Public hearing notices.  The public hearing notices described under subsection 2 
+9must be published in a newspaper of general circulation in the municipality at least once a 
+10week for 3 consecutive weeks, with the last publication of notice at least 3 days before 
+11the first public hearing.  If there is no newspaper of general circulation in the 
+12municipality, the municipality shall post, for each 1,000 residents, at least one notice of 
+13the hearings in a conspicuous place within the municipality that is likely to give notice of 
+14the hearings to the greatest number of residents of the municipality at least 7 days before 
+15the first public hearing is held.
+16For purposes of the financial projections required under this section, the feasibility 
+17consultant shall assume that the municipality sets prices for the proposed broadband 
+18service consistent with section 9410.
+19§9407.  Municipal vote
+20A municipality may not provide broadband service unless the municipality holds an 
+21election under this section and the ballot proposition is approved.  The legislative body of 
+22the municipality by a majority vote must call the election on whether or not to allow the 
+23municipality to provide the proposed broadband service.  The election must be held at the 
+24next municipal general election or at a referendum called for the purpose of deciding 
+25whether to allow the municipality to provide broadband service.
+26The election must be called, advertised and conducted according to Title 30-A, 
+27chapter 121, subchapter 2.  Notice of the election must also include a summary of the 
+28broadband service that the legislative body of the municipality proposes to provide to 
+29subscribers residing within the boundaries of the municipality; the feasibility study 
+30summary under section 9406; a statement that a full copy of the feasibility study under 
+31section 9406 is available for inspection and copying; and the location in the municipality 
+32where the feasibility study may be inspected or copied.
+33The ballot at the election must pose the question substantially as follows:
+34"Shall (name of municipality) provide broadband service to the 
+35inhabitants of (name of municipality)?"
+36The voters shall indicate by a cross or check mark placed against the word "Yes" or 
+37"No" their opinion of the same.  The results must be declared by the legislative body of 
+38the municipality and due certificate of the results filed by the municipal clerk with the 
+39Secretary of State.  The ballot proposition takes effect immediately upon its approval by a 
+40majority of the legal voters of the municipality voting at the election.
+Page 5 - 129LR1607(01)-11§9408.  Enterprise funds
+21.  Enterprise funds.  A municipality that provides broadband service under this 
+3chapter:
+4A.  Shall establish an enterprise fund to account for the municipality's operations of 
+5broadband service;
+6B.  Shall adopt separate operating and capital budgets for the municipality's 
+7broadband service;
+8C.  May not transfer any appropriation or other balance in any enterprise fund 
+9established by the municipality under this section to another enterprise fund; and
+10D.  May not transfer any appropriation or other balance in any other enterprise fund 
+11established by the municipality to any enterprise fund established by the municipality 
+12under this section.
+13§9409.  Bonding authority
+14The legislative body of a municipality may by resolution issue one or more bonds to 
+15finance the capital costs for facilities necessary to provide broadband service to 
+16subscribers.  The resolution must describe the purpose for which the indebtedness is to be 
+17created and specify the dollar amount of the one or more bonds proposed to be issued.
+18A bond issued under this section must be secured and paid for solely from the 
+19revenues generated by the municipality from providing broadband service.  A 
+20municipality may not pay the origination, financing or other carrying costs associated 
+21with the one or more bonds issued under this section from any other funds of the 
+22municipality.
+23§9410.  General operating limitations
+24A municipality that provides broadband service under this chapter is subject to the 
+25operating limitations of this section.
+261.  Applicable laws.  In addition to complying with the provisions of this Title, a 
+27municipality that provides broadband service shall comply with:
+28A.  The federal Telecommunications Act of 1996, Public Law 104-104; and
+29B.  The regulations issued by the Federal Communications Commission under the 
+30federal Telecommunications Act of 1996, Public Law 104-104.
+312.  Subsidization.  A municipality may not subsidize its broadband service with:
+32A.  Tax dollars;
+33B.  Income from other municipal or utility services;
+34C.  Below market rate loans from the municipality; or
+35D.  Any other municipal funds.
+Page 6 - 129LR1607(01)-113.  Unreasonable preference.  A municipality may not give any undue or 
+2unreasonable preference or advantage to itself or to any private provider of broadband 
+3service.  A municipality shall apply without discrimination as to itself and to any private 
+4provider the municipality's ordinances, rules and policies, including those relating to:
+5A.  Obligation to serve;
+6B.  Access to public rights-of-way;
+7C.  Permitting;
+8D.  Performance bonding;
+9E.  Reporting; and
+10F.  Quality of service.
+114.  Rate calculations.  In calculating the rates charged by a municipality for 
+12broadband service, the municipality:
+13A.  Shall include within its rates an amount equal to all taxes, fees and other 
+14assessments that apply to a similarly situated private provider of the same services, 
+15including federal, state and local taxes, franchise fees, permit fees and pole 
+16attachment fees; and
+17B.  May not set a price for any broadband service at a level that is less than the sum 
+18of the actual direct costs of providing the service, the actual indirect costs of 
+19providing the service and the amount determined under paragraph A.
+205.  Price list.  A municipality that provides broadband service shall establish and 
+21maintain a comprehensive price list of all types of broadband services offered by the 
+22municipality.  The price list must:
+23A.  Include all terms and conditions relating to the provision of each broadband 
+24service offered by the municipality;
+25B.  Be published in a newspaper having general circulation in the municipality, if 
+26available; and
+27C.  Be available for inspection at a designated office of the municipality during 
+28normal business hours.
+296.  Price change.  At least 5 days before the date a change to a municipality's price 
+30list under subsection 5 becomes effective, the municipality shall:
+31A.  Notify all subscribers to the broadband services for which the price list is being 
+32changed and any other persons requesting notification of any changes to the 
+33municipality's price list; and
+34B.  Publish notice in a newspaper of general circulation in the municipality.  If there 
+35is no newspaper of general circulation in the municipality, the municipality shall 
+36publish the notice in a newspaper of general circulation that is nearest the 
+37municipality.
+Page 7 - 129LR1607(01)-11A municipality may not offer broadband service except in accordance with the prices, 
+2terms and conditions set forth in the municipality's price list.
+37.  Books and records.  A municipality shall keep accurate books and records of the 
+4municipality's broadband service.  The books and records required under this chapter are 
+5subject to audit by the commission to verify the municipality's compliance with the 
+6requirements of this chapter including pricing, record keeping and antidiscrimination.
+78.  State universal service fund.  A municipality providing broadband service may 
+8not receive distributions from the state universal service fund under section 7104.
+9§9411.  Eminent domain
+10A municipality may not exercise its power of eminent domain to condemn the plant 
+11and equipment of a private provider for the purpose of providing broadband service to a 
+12subscriber.  A municipality may not exercise its power of eminent domain to condemn 
+13any real property in whole or to obtain an easement for the purpose of providing 
+14broadband service to a subscriber.
+15§9412.  Service quality
+161.  Ordinance adoption.  A municipality that provides broadband service shall adopt 
+17an ordinance governing the quality of broadband service the municipality must provide to 
+18its subscribers.  The ordinance must:
+19A.  Be competitively neutral; and
+20B.  Contain standards that are substantially similar to the standards imposed on 
+21private providers operating within the geographic boundaries of the municipality 
+22under the federal Telecommunications Act of 1996, Public Law 104-104 and 
+23regulations issued by the Federal Communications Commission under the federal 
+24Telecommunications Act of 1996, Public Law 104-104 and any applicable state 
+25standards.
+26§9413.  Enforcement
+27Before a person that has or is likely to have a substantial interest affected by a 
+28municipality's violation of this chapter may file an action in District Court for violation of 
+29this chapter, that person must file a written complaint with the municipality in accordance 
+30with this section.
+311.  Ordinance adoption.  A municipality that provides broadband service shall enact 
+32an ordinance establishing a procedure for the filing and resolution of complaints relating 
+33to the municipality's providing broadband service.  The ordinance must:
+34A.  Permit any person to file a complaint, including an individual subscriber or a 
+35private provider that competes with the municipality in the geographic boundaries of 
+36the municipality;
+37B.  Establish an expedited process that requires within 45 days after the date the 
+38complaint is filed that a hearing be held, unless the parties to the proceeding waive 
+39the requirement of a hearing and a final decision is issued; and
+Page 8 - 129LR1607(01)-11C.  Provide that failure to render a decision within 45 days is deemed a denial of 
+2relief sought under the complaint.  Failure to render a decision within 45 days may be 
+3appealed in the same manner as a denial.
+4Appeal of a decision of the municipality may be made under the Maine Rules of Civil 
+5Procedure, Rule 80B.
+6SUMMARY
+7This bill creates requirements that a municipality must meet in order to provide 
+8broadband service to its residents.  It requires the completion of a feasibility study and 
+9requires the municipality to hold a referendum to decide whether the municipality may 
+10offer broadband service.  It includes general operation limitations, including those related 
+11to the establishment of rates, the use of subsidization and the use of eminent domain.  It 
+12requires the adoption of ordinances relating to service quality and enforcement by a 
+13municipality that elects to provide broadband service.  It also removes antitrust liability 
+14protections from a municipality as those protections relate to the municipality's offering 
+15broadband service.
+16The bill also requires that in order to receive any grants from the ConnectME 
+17Authority, the municipality must show evidence of compliance with the requirements of 
+18the Maine Revised Statutes, Title 35-A, chapter 94.

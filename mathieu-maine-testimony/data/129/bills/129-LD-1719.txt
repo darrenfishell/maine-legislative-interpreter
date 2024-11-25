@@ -1,0 +1,374 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1719
+S.P. 568 In Senate,  May 14, 2019
+An Act  To Improve  Geographic Information System Data  
+Acquisition and Maintenance
+Reference to the Committee on Agriculture, Conservation and  Forestry suggested and 
+ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BLACK of Franklin.
+Cosponsored by Representative HICKMAN of Winthrop and
+Senators: CARSON of Cumberland, DAVIS of Piscataquis, MIRAMANT of Knox,  
+Representatives: AUSTIN of Gray, KESCHL of Belgrade.
+
+Page 1 - 129LR0736(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §1993, as enacted by PL 2005, c. 12, Pt. SS, §16, is amended to 
+3read:
+4§1993.  Powers
+5The Office of Information Technology through the Office of Geographic Information 
+6Systems shall:
+71.  Geographic information system.  Establish In coordination with the Maine 
+8Library of Geographic Information established under Title 12, chapter 432, establish, 
+9maintain and operate a geographic data base information center, develop and administer 
+10standards related to state agencies, subject to the approval of the Chief Information 
+11Officer, and provide for the public's access to geographic information system services to 
+12the public data.  A request to provide the Legislature or an office of the Legislature with 
+13existing information for the purposes of making policy decisions must be considered high 
+14priority;
+152.  GIS data repository.  Create In coordination with the Maine Library of 
+16Geographic Information established under Title 12, chapter 432, create a GIS data 
+17repository for the proper management of GIS data and ensure the GIS data are 
+18documented, including ownership.  Data must be stored and managed in a manner that 
+19facilitates the evolution of a distributed agency GIS network; and
+203.  Data ownership.  Maintain GIS base map data and other multipurpose data not 
+21specific to any state agency.  All other GIS data are owned by the agency originally 
+22compiling the mapped data that were digitized for the GIS.  Data owners are responsible 
+23for updating their GIS data and certifying its accuracy;
+244.  Accuracy level.  Ensure that GIS data added on the GIS data repository are 
+25developed and maintained at an accuracy level and in a format that meets the GIS data 
+26standards, kept in a format that is compatible with the GIS and, upon request of a 
+27potential user, made available to the user;
+285.  Charges.  Levy appropriate charges on those using the services provided by the 
+29office, except that charges may not be levied on the Legislature for existing information.  
+30The charges must be fixed in a schedule or schedules.  The schedule of charges must be 
+31supported and explained by accompanying information and approved by the Chief 
+32Information Officer and the commissioner; and
+336.  Consultation with Chief Information Officer.  Consult with the Chief 
+34Information Officer on all major policy issues, including fee schedules, related to the 
+35management of GIS data and development of GIS data standards.
+36Sec. 2.  5 MRSA §§1994 and 1995, as enacted by PL 2005, c. 12, Pt. SS, §16, are 
+37repealed.
+Page 2 - 129LR0736(01)-11Sec. 3.  5 MRSA §1996, as enacted by PL 2005, c. 12, Pt. SS, §16, is amended to 
+2read:
+3§1996.  Priority of responsibilities
+4The activities authorized under this subchapter do not take priority over the primary 
+5responsibilities of the Office of Information Technology.  If there are not sufficient 
+6financial or personnel resources for the Office of Geographic Information Systems to 
+7perform certain GIS services and deliver GIS data and products as provided in this 
+8subchapter, the The administrative management functions related to the Office of 
+9Geographic Information Systems, technical support for other state agency GIS users, 
+10office equipment maintenance and GIS data base management must take precedence.
+11Sec. 4.  5 MRSA c. 163, sub-c. 4, as amended, is repealed.
+12Sec. 5.  5 MRSA §12004-G, sub-§30-B, as amended by PL 2005, c. 12, Pt. SS, 
+13§18, is further amended to read:
+1430-B.  
+15
+16
+17
+18Sec. 6.  12 MRSA c. 432 is enacted to read:
+19CHAPTER 432
+20MAINE LIBRARY OF GEOGRAPHIC INFORMATION
+21§5301.  Short title
+22This chapter may be known and cited as "the Maine Library of Geographic 
+23Information Act."
+24§5302.  Definitions
+25As used in this chapter, unless the context otherwise indicates, the following terms 
+26have the following meanings.
+271.  Association.  "Association" means an organization:
+28A.  Whose membership is identifiable by regular payment of organizational dues or 
+29regularly maintained membership lists;
+30B.  That is registered with the State or is a legal entity chartered in the State; and
+31C.  That exists for the purpose of advancing the common goals, occupation or 
+32profession of its membership.
+332.  Data custodian.  "Data custodian" means a federal data custodian, state data 
+34custodian or  nonstate data custodian.Public 
+InformationMaine Library of 
+Geographic 
+Information BoardExpenses Only 5  12 MRSA §2003 
+§5304
+Page 3 - 129LR0736(01)-113.  Federal data custodian.  "Federal data custodian" means any branch, agency or  
+2instrumentality of the Federal Government.
+34.  Geographic information board.  "Geographic information board" means the 
+4Maine Library of Geographic Information Board as set out in section 5304.
+55.  Geographic information system or GIS.  "Geographic information system" or 
+6"GIS" means a computer system capable of assembling, storing, manipulating, analyzing 
+7and displaying information identified according to location.  A GIS includes operating 
+8personnel, hardware, software and the data that go into the system.
+96.  Geographic information system data or GIS data.  "Geographic information 
+10system data" or "GIS data" means geographic information that has been compiled and 
+11digitized for use in geographic information systems.
+127.  Geolibrarian.  "Geolibrarian" means the librarian of the Maine Library of 
+13Geographic Information appointed pursuant to section 5303, subsection 2.
+148.  GIS information officer.  "GIS information officer" means the person appointed 
+15pursuant to section 5303, subsection 3.
+169.  Maine Library of Geographic Information.  "Maine Library of Geographic 
+17Information" or "Geolibrary" means the statewide network created within the Department 
+18of Agriculture, Conservation and Forestry pursuant to this chapter by which data 
+19custodians or their designees organize and catalog public geographic information and 
+20provide access to that information to all levels of government and to the public.
+2110.  Nonstate data custodian.  "Nonstate data custodian" means any agency or 
+22instrumentality of a political subdivision of the State.
+2311.  Public geographic information.  "Public geographic information" means public 
+24information that is referenced to a location.  Public geographic information includes, but 
+25is not limited to, physical, legal, economic or environmental information or 
+26characteristics concerning land, water, groundwater, subsurface resources or air in this 
+27State relating to:
+28A.  Topography, soil, soil erosion, geology, minerals, vegetation, land cover, wildlife 
+29and associated natural resources;
+30B.  Land ownership, land use, land use controls and restrictions, jurisdictional 
+31boundaries, tax assessments, land value and land survey records and references; and
+32C.  Geodetic control networks, aerial photographs, maps, planimetric data, remote 
+33sensing data, historic and prehistoric sites and economic projections.
+3412.  Public information.  "Public information" means information that is stored, 
+35gathered, generated, maintained or financed by a data custodian.  Information of state and 
+36nonstate data custodians is public information only if it is either:
+37A.  A public record under Title 1, section 402, subsection 3; or
+38B.  Otherwise expressly authorized by law to be released.
+Page 4 - 129LR0736(01)-11The presence of data in the Geolibrary does not, by itself, make that information a public 
+2record.
+313.  State data custodian.  "State data custodian" means any branch, agency or 
+4instrumentality of State Government.
+514.  State funds.  "State funds" means bond revenues and General Fund money 
+6appropriated by the Legislature for the purposes of this chapter.
+7§5303.  Geolibrary; staff
+81.  Geolibrary.  The Maine Library of Geographic Information is established within 
+9the Department of Agriculture, Conservation and Forestry pursuant to this chapter.
+102.  Geolibrarian.  The commissioner shall appoint as the Geolibrarian a person with 
+11knowledge of GIS data models, concepts, techniques and technologies and information 
+12and library science who shall:
+13A.  Collect, organize, disseminate and preserve geographically referenced data in the 
+14Geolibrary;
+15B.  Provide assistance in referencing and displaying GIS data;
+16C.  Coordinate information systems support with an emphasis on geographic data and 
+17map-based interfaces.
+183.  GIS information officer.  The commissioner shall appoint as the GIS information 
+19officer a person to advise the geographic information board and the commissioner 
+20regarding GIS data needs for acquisition, maintenance and distribution of GIS data.  The 
+21GIS information officer shall:
+22A.  Plan, organize and direct the Geolibrary's GIS data program;
+23B.  Formulate statewide GIS data acquisition and distribution programs;
+24C.  Develop policies and procedures for GIS data acquisition and distribution;
+25D.  Design, oversee and manage projects;
+26E.  Manage grant funds; and
+27F.  Coordinate partnerships with local, state and federal agencies, public and private 
+28companies, nonprofit organizations and other GIS stakeholders.
+29§5304.  Maine Library of Geographic Information Board
+301.  Purposes and duties.  The Maine Library of Geographic Information Board, as 
+31established by Title 5, section 12004-G, subsection 30-B, is created within the 
+32Department of Agricultural, Conservation and Forestry and has the following purposes 
+33and duties:
+34A.  To oversee the Geolibrary to ensure that it operates as a coordinated, cost-
+35effective electronic gateway providing public access to data custodians' public 
+36geographic information.  Nothing in this paragraph may be construed to affect the 
+Page 5 - 129LR0736(01)-11rights of persons to inspect or copy public records under Title 1, chapter 13, 
+2subchapter 1 or the duty of data custodians to provide for public inspection and 
+3copying of those records;
+4B.  To maintain GIS base map data and other multipurpose data not specific to any 
+5state agency.  All other GIS data are owned by the agency that originally compiled 
+6the mapped data that were digitized for the GIS.  Data owners are responsible for 
+7updating their GIS data and certifying data accuracy;
+8C.  To ensure that GIS data acquired by the Geolibrary for base mapping purposes 
+9and added to the Geolibrary are developed and maintained at an accuracy level and in 
+10a format that meets current GIS data standards, maintained in a format that is 
+11compatible with the GIS and made available to a user upon request;
+12D.  To establish and maintain standards, rules and policies for nonstate data 
+13custodians' geographic information that is incorporated into the Geolibrary.  These 
+14standards, rules and policies must be consistent with the standards, rules and policies 
+15set by the Chief Information Officer within the Department of Administrative and 
+16Financial Services that govern state data custodians' information technology.  The 
+17geographic information board shall adopt rules to carry out this chapter.  Rules 
+18adopted pursuant to this paragraph are routine technical rules as defined in Title 5, 
+19chapter 375, subchapter 2-A.  Standards and policies may concern, without 
+20limitation:
+21(1)  Methods of access to and delivery of information held by the Geolibrary;
+22(2)  Geographic information system technical specifications;
+23(3)  Data content, metadata and security, including guideline criteria for 
+24accepting 3rd-party data from data custodians or data volunteered from the 
+25private sector;
+26(4)  Privacy and privacy protection;
+27(5)  Mechanisms to correct inaccuracies; and
+28(6)  Data validation tools and processes;
+29E.  To reduce redundancies in the creation, verification and maintenance of public 
+30geographic information and to enhance its utility for complex analyses.
+31(1)  Each state data custodian that acquires, purchases, verifies, maintains or 
+32produces geographic information with state funds or grants shall:
+33(a)  Inform the geographic information board and the Office of Geographic 
+34Information Systems, established in Title 5, section 1992, of the existence of 
+35this information and its geographic extent; and
+36(b)  Upon request, provide to the Geolibrary an electronic copy of all 
+37information classified as public, in a form compatible with standards set by 
+38the Chief Information Officer within the Department of Administrative and 
+39Financial Services.
+Page 6 - 129LR0736(01)-11(2)  Each nonstate data custodian, or its designee, that acquires, purchases, 
+2verifies, maintains or produces geographic information with state funds 
+3specifically provided for that purpose shall:
+4(a)  Inform the geographic information board and the Office of Geographic 
+5Information Systems, established in Title 5, section 1992, of the existence of 
+6this information and its geographic extent; and
+7(b)  Upon request, provide to the Geolibrary and Office of Geographic 
+8Information Systems, established in Title 5, section 1992, an electronic copy 
+9of all information classified as public, in a form compatible with standards 
+10set by the Chief Information Officer within the Department of Administrative 
+11and Financial Services;
+12F.  To set priorities and authorize the expenditure of state funds, including awarding 
+13grants or subgrants to data custodians when available.  The geographic information 
+14board may seek federal and other funding partners, accept gifts and grants and 
+15expend the funds acquired for purposes consistent with this chapter;
+16G.  To promote innovative uses of geographic information through the provision of 
+17verified, coordinated, intergovernmental information via the Geolibrary.  The 
+18geographic information board shall seek advice from the general public, professional 
+19associations, academic groups and institutions and individuals with knowledge of and 
+20interest in geographic information regarding needed information and potential 
+21innovative uses of geographic information;
+22H.  To enter partnerships to promote the purposes of this chapter;
+23I.  To conduct studies relating to the coordination, development and use of statewide 
+24geographic information;
+25J.  To report annually by January 1st to the joint standing committees of the 
+26Legislature having jurisdiction over natural resources matters and state and local 
+27government matters.  The report must provide a review of the past year's activities, 
+28including, but not limited to, a description of standards adopted, data added to the 
+29Geolibrary, partnerships established, studies conducted and financial activity.  The 
+30Geolibrary shall also make this report available to the public.  This report may also 
+31include suggested legislative language intended to address geographic information 
+32issues needing legislative action; and
+33K.  To develop appropriate internal services to facilitate access to and use of data by 
+34governmental agencies and the public.  The Geolibrary may not compete directly 
+35with private enterprise.  The Geolibrary shall work in partnership with nonstate data 
+36custodians to promote the purposes of this chapter.
+372.  Membership.  The geographic information board consists of 14 voting members 
+38as follows:
+39A.  The commissioner or the commissioner's designee;
+40B.  Two members who are responsible for overseeing GIS functions of a state 
+41department that is a data custodian of geographic information, appointed by the 
+42Governor;
+Page 7 - 129LR0736(01)-11C.  Eight representatives as follows:
+2(1)  A representative of the University of Maine System, appointed by the 
+3Chancellor of the University of Maine System;
+4(2)  Two representatives of a statewide association of municipalities, one 
+5representative appointed by the President of the Senate from nominations made 
+6by the association's governing body and one representative appointed by the 
+7Speaker of the House from nominations made by the association's governing 
+8body;
+9(3)  One representative of a statewide association of regional councils, appointed 
+10by the Speaker of the House from nominations made by the Department of 
+11Agriculture, Conservation and Forestry;
+12(4)  One representative of a statewide association of counties, appointed by the 
+13Governor from nominations made by the association's governing body;
+14(5)  One representative of a statewide association representing real estate and 
+15development interests, appointed by the President of the Senate;
+16(6)  One representative of a statewide association representing environmental 
+17interests, appointed by the Speaker of the House; and
+18(7)  One member representing public utilities, appointed by the Governor;
+19D.  Two members of the private sector representing geographic information vendors, 
+20one member appointed by the President of the Senate and one member appointed by 
+21the Speaker of the House; and
+22E.  One public member, appointed by the President of the Senate.
+23The terms for the members appointed pursuant to paragraphs B, C, D and E are 3 years.  
+24A member who designates another person to serve on the geographic information board 
+25as that member's designee pursuant to paragraph A shall provide written notice to the 
+26geographic information board's staff of the name and title of the designee.
+273.  Board chair.  The geographic information board shall annually elect a chair from 
+28its membership at the first meeting in each year.
+294.  Staff.  Staff support to the geographic information board is provided by the 
+30Department of Agriculture, Conservation and Forestry.
+315.  Quorum; action.  Eight members of the geographic information board constitute 
+32a quorum.  The affirmative vote of 7 members is necessary for any action taken by the 
+33geographic information board.  A vacancy in the membership of the geographic 
+34information board does not impair the right of a quorum to exercise all the powers and 
+35perform the duties of the geographic information board.  The geographic information 
+36board may use video conferencing and other technologies to conduct its business but is 
+37not exempt from Title 1, chapter 13, subchapter 1.
+386.  Meetings.  The geographic information board shall meet at the call of the chair 
+39but not less than quarterly.  Notice must be provided no less than 5 working days prior to 
+40the meeting.  Notice may be in writing by facsimile or electronic transmission.
+Page 8 - 129LR0736(01)-117.  Memoranda of understanding.  Information to be provided by a nonstate data 
+2custodian to the Geolibrary may be governed by memoranda of understanding between 
+3the geographic information board and the nonstate data custodian.
+48.  Data custodian responsibilities.  Federal and nonstate data custodians may 
+5voluntarily contribute data to the Geolibrary.  Data developed with state funds must be 
+6submitted to the Geolibrary, except when distribution of the data is prohibited under state 
+7or federal laws.  Data custodians or their designees are responsible for:
+8A.  Ensuring that the public geographic information is accurate, complete and current 
+9through the creation of adequate procedures;
+10B.  Updating source databases following verification of suggested corrections that 
+11users submit in accordance with geographic information board standards;
+12C.  Complying with standards adopted by the geographic information board; and
+13D.  Providing reasonable safeguards to protect confidentiality.
+14§5305.  Liability
+15The geographic information board and any of the parties submitting data to the 
+16Geolibrary for public use may not be held liable for any use of the data.
+17§5306.  Copyrights and fees
+18Copyright or licensing restrictions may not be fixed by the geographic information 
+19board or data custodians to the information made available through the Geolibrary.  The 
+20geographic information board may set fees for electronic copies of Geolibrary data that 
+21are no more than 3 times the actual cost of reproduction.  The geographic information 
+22board shall set fee schedules annually and make them readily available to requestors.
+23§5307.  Geographic information system data accounts
+241.  Accounts established.  There are established within the Geolibrary separate 
+25accounts, referred to in this section as "the accounts," to be administered by the 
+26geographic information board.
+272.  Sources of funding.  The following must be paid into the accounts:
+28A.  All money appropriated for inclusion in the accounts;
+29B.  All interest earned from investments of the accounts;
+30C.  Any money allocated from Other Special Revenue Funds accounts for the purpose 
+31of the accounts;
+32D.  Proceeds from any bonds issued for the purpose of the accounts; and
+33E.  Matching funds received from the Federal Government or other legal entity for 
+34GIS data acquisition expenditures made from the accounts pursuant to subsection 4.
+353.  Use of accounts.  The purpose of the accounts is to continue projects developed 
+36by the geographic information board. The accounts must be used to provide and maintain 
+Page 9 - 129LR0736(01)-11to the extent practicable statewide GIS datasets necessary for the efficient delivery of 
+2state services and to conserve state expenditures through partnerships with other GIS 
+3stakeholders interested in acquiring the same datasets. The accounts may be used at the 
+4discretion of the geographic information board for acquiring GIS data primarily including 
+5but not limited to the following datasets:
+6A.  An orthoimagery program. Imagery collected through this program must be from 
+7all areas of the State and be 4-band images that include the red, green, blue and near 
+8infrared bands; and
+9B.  An elevation dataset. A consistent statewide elevation dataset must be collected 
+10using light detection and ranging technology or an equivalent method.
+114.  Matching funds.  State funds used to purchase GIS data must be matched by 
+12funding from other sources at at least a one-to-one ratio.
+135.  Annual report.  The GIS information officer shall submit a written report by 
+14January 15, 2020 and annually thereafter to the Governor and the Legislature on the 
+15accounts' balances and expenditures.
+16SUMMARY
+17This bill moves the Maine Library of Geographic Information, the Geolibrary, from 
+18the Department of Administrative and Financial Services to the Department of 
+19Agriculture, Conservation and Forestry and establishes the Maine Library of Geographic 
+20Information Board in the Department of Agriculture, Conservation and Forestry to 
+21administer the Geolibrary.  This bill adds a Geolibrarian and a GIS information officer, 
+22appointed by the Commissioner of Agriculture, Conservation and Forestry, to the staff of 
+23the Maine Library of Geographic Information, to collect, perserve and disseminate data, 
+24manage funds and direct the Geolibrary's activities.  The bill repeals language allowing 
+25the administrator of the Office of Geographic Information Systems to enter into 
+26agreements with other agencies and to accept funds from public and private 
+27organizations, repeals language describing licensing agreement and fee requirements for 
+28geographic information system data and repeals language allowing the Maine Library of 
+29Geographic Information Board to hear and resolve disputes related to geographic 
+30information system data.

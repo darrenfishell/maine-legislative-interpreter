@@ -1,0 +1,165 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 765
+S.P. 324 In Senate, February 21, 2023
+An Act to Permit Recordings of a Protected Person to Be Admissible 
+in Evidence
+Reference to the Committee on Judiciary suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator CARNEY of Cumberland.
+Cosponsored by Representative HENDERSON of Rumford and
+Senators: BEEBE-CENTER of Knox, BENNETT of Oxford, DUSON of Cumberland, 
+Representatives: CLOUTIER of Lewiston, LEE of Auburn, MILLETT of Cape Elizabeth, 
+MOONEN of Portland, POIRIER of Skowhegan.
+
+Page 1 - 131LR0999(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  16 MRSA §358 is enacted to read:
+3§358.  Admissibility of recordings of protected person
+41.  Definitions. As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Forensic interview" means a fact-finding conversation conducted by a forensic 
+7 interviewer using an evidence-based practice.
+8 B.  "Forensic interviewer" means an individual who meets the qualifications in 
+9 subsection 2.
+10 C.  "Protected person" means a person who at the time of a recording of a forensic 
+11 interview:
+12 (1)  Has not attained 18 years of age; or
+13 (2)  Is an adult who is eligible for protective services pursuant to the Adult 
+14 Protective Services Act.
+152.  Qualifications of forensic interviewer.  In order to be qualified as a forensic 
+16 interviewer, an individual must:
+17 A.  Be employed by a child advocacy center or affiliated with a child advocacy center;
+18 B.  Have completed a minimum of 32 hours of specialized instruction on an evidence-
+19 supported interview protocol; and
+20 C.  Participate in ongoing education in the field of child maltreatment or forensic 
+21 interviewing. 
+223.  Admissibility of recording.  A recording of a forensic interview of a protected 
+23 person is admissible as evidence and is an exception to the hearsay rule pursuant to the 
+24 Maine Rules of Evidence, Rule 802 in the courts of this State if:
+25 A.  The interview was conducted by a forensic interviewer;
+26 B.  The interview is relevant pursuant to the Maine Rules of Evidence, Rule 401;
+27 C.  A relative of the protected person was not present in the room during the substantive 
+28 phase of the interview;
+29 D.  An attorney for any party in a proceeding with the protected person was not present 
+30 in the room with the protected person during the interview;
+31 E.  The recording is both visual and audio;
+32 F.  The recording is a fair and accurate representation of the statements made by the 
+33 protected person and has not been altered except for purposes of relevancy pursuant to 
+34 the Maine Rules of Evidence, Rule 401; and
+35 G.  The protected person is available to testify or be cross-examined by any party in a 
+36 criminal matter.
+374.  Recordings of protected persons preserved.  A recording of a protected person 
+38 that is made part of the court record must be preserved under a protective order of the court 
+Page 2 - 131LR0999(01)39 in order to protect the privacy of the protected person. The court shall maintain a copy of 
+40 the recording as part of the court file for 20 years. 
+35.  Certification of forensic interview recordings.  Forensic interview recordings are 
+4 admissible as evidence in the courts of this State in accordance with subsection 3. The court 
+5 shall admit copies of the recordings if certified by the forensic interviewer to be true and 
+6 complete and to have met all requirements in subsection 3 and the forensic interviewer 
+7 identifies the location of the interview and the identity of the individuals in the recording 
+8 in the certification.
+9Sec. 2.  22 MRSA §4019, sub-§1, ¶B, as enacted by PL 2013, c. 364, §1, is 
+10 amended to read:
+11 B.  "Child advocacy center" or "center" means a community-based center that provides 
+12 multidisciplinary services for children and families affected by child sexual abuse and 
+13 other child abuse and neglect, including a center in another jurisdiction.
+14Sec. 3.  22 MRSA §4019, sub-§1, ¶D is enacted to read:
+15 D.  "Forensic interview" has the same meaning as in Title 16, section 358, subsection 
+16 1, paragraph A.
+17Sec. 4.  22 MRSA §4019, sub-§9, as enacted by PL 2013, c. 364, §1, is amended to 
+18 read:
+199.  Confidential records except recordings of forensic interviews.  The Except for 
+20 recordings of forensic interviews, the files, reports, records, communications and working 
+21 papers used or developed in providing services under this section are confidential and are 
+22 not public records for purposes of Title 1, chapter 13, subchapter 1.  Information may be 
+23 disclosed only to the following in order for them to carry out their duties:
+24 A.  The department, department employees, law enforcement agencies, prosecuting 
+25 attorneys  assistant attorneys general who are involved in child protective cases, 
+26 medical professionals and other state agencies that provide services to children and 
+27 families; .
+28 B.  The attorney for a child who is the subject of confidential records; and
+29 C.  A guardian ad litem appointed under section 4005 for a child who is the subject of 
+30 confidential records.
+31Sec. 5.  22 MRSA §4019, sub-§9-A is enacted to read:
+329-A.  Recordings of forensic interviews confidential.  The following provisions 
+33 govern recordings of forensic interviews.  Recordings of forensic interviews are 
+34 confidential and are not public records for purposes of Title 1, chapter 13, subchapter 1. 
+35 Information may be disclosed: 
+36 A. To the department, department employees, law enforcement agencies, assistant 
+37 attorneys general who are involved in child protective cases, prosecuting attorneys, 
+38 medical professionals and other state agencies that provide services to children and 
+39 families in order for them to carry out their duties;
+40 B. To the attorney for a child who is the subject of confidential records;1
+2
+Page 3 - 131LR0999(01)1 C. To a guardian ad litem appointed under section 4005 for a child who is the subject 
+2 of confidential records;
+3 D. In a matter under Title 18-C or 19-A, upon specific request for the recording of the 
+4 forensic interview by the parties or on the court's own motion. A court may order 
+5 disclosure of the recording of a forensic interview in accordance with section 4008, 
+6 subsection 3, paragraph B if the court finds that access to the recording is necessary for 
+7 the determination of an issue before the court and that the necessity of access to the 
+8 recording outweighs the potential effect on the alleged victim. The court shall follow 
+9 the following procedure.
+10 (1)  Before ordering disclosure of the recording, the court shall require that an 
+11 investigating law enforcement agency, if any, has been given an opportunity to 
+12 indicate its position on disclosure of the recording. 
+13 (2) If the court determines based on the pleadings that the recording is necessary 
+14 for the determination of an issue before the court and that the necessity of access 
+15 to the recording outweighs the potential effect on the alleged victim, the court shall 
+16 order the department, pursuant to section 4008, subsection 3, paragraph B, to 
+17 provide a copy to the court for in camera inspection.  The court shall conduct an in 
+18 camera review of the recording in order to make a determination about who should 
+19 be entitled to view the recording.
+20 (3) If the court determines that the recording should be disclosed, the court shall 
+21 consider whether a guardian ad litem should be appointed in the case if one is not 
+22 already appointed. If there is a guardian ad litem, the court shall consider whether 
+23 to restrict access to the recording only to the guardian ad litem.  
+24 (4) The court shall issue a protective order of confidentiality ordering who is 
+25 allowed to view the recording and how and where viewing will occur.  In making 
+26 its determination, the court shall weigh whether the parties are represented by 
+27 counsel and whether restricting viewing of the recording will be unduly prejudicial 
+28 to a party.  The recording may not be copied, reproduced or disseminated in any 
+29 way.  
+30 (5) If the recording is admitted pursuant to Title 16, section 358, subsection 3, the 
+31 court shall admit the recording under seal; and
+32 E. In a criminal matter, to a defendant pursuant to the Maine Rules of Unified Criminal 
+33 Procedure, Rule 16(b)(6).  Before releasing the recording, the prosecutor shall request 
+34 that the court issue a protective order of confidentiality ordering who is allowed to view 
+35 the recording and how and where viewing will occur.  In making its determination, the 
+36 court shall weigh whether the defendant is represented by counsel and whether 
+37 restricting viewing of the recording will be unduly prejudicial to the defendant.
+38SUMMARY
+39 This bill creates a comprehensive assessment for courts to apply in evaluating whether 
+40 to admit forensic interviews into evidence in criminal and civil cases by specifying the 
+41 requirements for those interviews to be admissible into evidence.
+42 The bill also clarifies who has access to forensic interviews.  The bill establishes a 
+43 process for civil cases that mirrors how Department of Health and Human Services records 39
+40
+41
+Page 4 - 131LR0999(01)44 are accessed in other cases. The bill codifies the current practice used in criminal cases and 
+45 follows the criminal rules of procedure.1
+2

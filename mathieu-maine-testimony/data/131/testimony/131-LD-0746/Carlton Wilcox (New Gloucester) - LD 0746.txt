@@ -1,0 +1,254 @@
+Published by NHTSA’s National Center for Statistics and Analysis  1200 New Jersey Avenue SE., Washington, DC 20590TRAFFIC SAFETY FACTS
+Crash • StatsDOT HS 812 506  A Brief Statistical Summary  March 2018
+Critical Reasons for Crashes Investigated in the 
+National Motor Vehicle Crash Causation Survey
+†  95% conf. limits: ± tα/2; deg. freedom × Std. Dev. ( α = 0.05, t-value = 2.179)Summary
+The National Motor Vehicle Crash Causation Survey 
+(NMVCCS), conducted from 2005 to 2007 , was aimed at col -
+lecting on-scene information about the events and associ -
+ated factors leading up to crashes involving light vehicles. 
+Several facets of crash occurrence were investigated during 
+data collection, namely the pre-crash movement, critical pre-
+crash event, critical reason for the critical pre-crash event, and 
+the associated factors. In each investigated crash, these were 
+assigned to driver, vehicle, or environment without suggest -
+ing that any of these was cause of the crash or assignment 
+of fault to driver, vehicle, or other crash element. A sample 
+of 5,470 NMVCCS-qualified crashes (i.e., the crashes meeting 
+certain criteria listed in the section:  Scope and Limitations 
+of NMVCCS data) was investigated over a period of two and 
+a half years, which represents an estimated 2,189,000 crashes 
+nationwide. About 4,031,000 vehicles, 3,945,000 drivers, and 
+1,982,000 passengers were estimated to have been involved 
+in these crashes. The critical reason, which is the last event 
+in the crash causal chain, was assigned to the driver in 94 
+percent (±2.2%)† of the crashes. In about 2 percent (±0.7%) 
+of the crashes, the critical reason was assigned to a vehicle 
+component’s failure or degradation, and in 2 percent (±1.3%) 
+of crashes, it was attributed to the environment (slick roads, 
+weather, etc.). Among an estimated 2,046,000 drivers who 
+were assigned critical reasons, recognition errors accounted 
+for about 41 percent (±2.1%), decision errors 33 percent (±3.7%), 
+and performance errors 11 percent (±2.7%) of the crashes.
+Introduction
+Databases such as the National Automotive Sampling 
+System (NASS) Crashworthiness Data System (CDS) do not 
+provide information on pre-crash scenarios and the reasons 
+underlying the critical pre-crash events. In 2005, the National 
+Highway Traffic Safety Administration (NHTSA) was autho -
+rized under Section 2003(c) of the Safe, Accountable, Flexible, 
+Efficient, Transportation Equity Act: A Legacy for Users 
+(SAFETEA-LU) to conduct a national survey to collect on-
+scene data pertaining to events and associated factors that 
+possibly contributed to crash occurrence. NHTSA’s National Center for Statistics and Analysis (NCSA) conducted the 
+NMVCCS from July 3, 2005, to December 31, 2007 . Crashes 
+were investigated at the crash scene to collect driver, vehicle, 
+and environment-related information pertaining to crash 
+occurrence, with a focus on driver’s role. The targeted infor -
+mation was captured mainly through four data elements: (i) 
+movement prior to critical pre-crash event (i.e., the movement 
+of the vehicle immediately before the occurrence of the criti -
+cal event); (ii) critical pre-crash event (i.e., the circumstance 
+that led to vehicle’s first impact); (iii) critical reason for the 
+critical pre-crash event (i.e., the immediate reason for the crit -
+ical event, which is often the last failure in the causal chain 
+of events leading up to the crash); and (iv) the crash associ -
+ated factors (i.e., the factors that are likely to add to the prob -
+ability of crash occurrence). This was done with reference to 
+the crash envelope that comprises of a sequence of events, 
+referring to the above data elements, which eventually led 
+to the crash. Refer to the section Scope and Limitations of 
+NMVCCS data.
+This Crash•Stats presents some statistics related to one of the 
+above-mentioned four data elements, namely “critical reason 
+for the critical pre-crash event.” The data obtained through 
+the sample of 5,470 NMVCCS crashes and the weights asso -
+ciated with them were used to obtain national estimates of 
+frequencies and percentages along with their 95-percent con -
+fidence limits, as presented in the following sections.
+Critical Reasons for the Critical Pre‑Crash Event
+The critical reason is the immediate reason for the critical pre-crash 
+event and is often the last failure in the causal chain of events lead -
+ing up to the crash. Although the critical reason is an important 
+part of the description of events leading up to the crash, it is not 
+intended to be interpreted as the cause of the crash nor as the assign -
+ment of the fault to the driver, vehicle, or environment.
+A critical reason can be assigned to a driver, vehicle, or envi -
+ronment. Normally, one critical reason was assigned per 
+crash, based upon NMVCCS researcher’s crash assessment 
+without suggesting the cause of the crash or assignment of 
+fault. The critical reason was assigned to the driver in an esti -
+Published by NHTSA’s National Center for Statistics and Analysis  1200 New Jersey Avenue SE., Washington, DC 205902
+mated 94 percent (±2.2%) of the NMVCCS-qualified crashes 
+(Table 1). In addition, the critical reason was assigned to the 
+vehicle in an estimated 2 percent (±0.7%) and to the environ -
+ment in about 2 percent (±1.3%) of the crashes.
+Table 1. Driver, Vehicle, and Environment Related Critical 
+Reasons
+Critical Reason 
+Attributed toEstimated
+NumberPercentage*  
+± 95% conf. limits
+Drivers 2,046,000 94% ±2.2%
+Vehicles 44,000 2% ±0.7%
+Environment 52,000 2% ±1.3%
+Unknown Critical Reasons 47,000 2% ±1.4%
+Total  2,189,000 100%
+* Percentages are based on unrounded estimated frequencies  
+(Data Source: NMVCCS 2005–2007)
+The critical reasons related statistics are presented in detail in 
+Table 2 for drivers, Table 3 for vehicles, and Table 4 for envi -
+ronment.
+Critical reason attributed to drivers
+The critical reason was assigned to drivers in an estimated 
+2,046,000 crashes that comprise 94 percent of the NMVCCS 
+crashes at the national level. However, in none of these 
+crashes was the assignment intended to blame the driver 
+for causing the crash. The driver-related critical reasons are 
+broadly classified into recognition errors, decision errors, 
+performance errors, and non-performance errors. Statistics 
+in Table 2 show that the recognition error, which included 
+driver’s inattention, internal and external distractions, and 
+inadequate surveillance, was the most frequently assigned 
+(41% ±2.2%) critical reason. Decision errors such as driving 
+too fast for conditions, too fast for the curve, false assump -
+tion of others’ actions, illegal maneuver and misjudgment of 
+gap or others’ speed accounted for about 33 percent (±3.7%) 
+of the crashes. In about 11 percent (±2.7%) of the crashes, 
+the critical reason was performance error such as overcom -
+pensation, poor directional control, etc. Sleep was the most 
+common critical reason among non-performance errors that 
+accounted for 7 percent (±1.0%) of the crashes. Other driver 
+errors were recorded as critical reasons for about 8 percent 
+(±1.9%) of the drivers.Table 2. Driver ‑Related Critical Reasons
+Critical ReasonEstimated (Based on 94% of the 
+NMVCCS crashes)
+NumberPercentage*  
+± 95% conf. limits
+Recognition Error 845,000 41% ±2.2%
+Decision Error 684,000 33% ±3.7%
+Performance Error 210,000 11% ±2.7%
+Non-Performance Error (sleep, etc.) 145,000 7% ±1.0%
+Other 162,000 8% ±1.9%
+Total  2,046,000          100%
+* Percentages are based on unrounded estimated frequencies  
+(Data Source: NMVCCS 2005–2007)
+Critical reason attributed to vehicles
+The critical reason was assigned to vehicles in an estimated 
+44,000 crashes comprising about 2 percent of the NMVCCS 
+crashes, though none of these reasons implied a vehicle 
+causing the crash. There were no detailed inspections of 
+vehicles during the NMVCCS on-scene crash investigation; 
+the vehicle-related critical reasons were mainly inferred 
+through external visual inspection of the vehicle compo -
+nents. This resulted in only mostly external, easily visible 
+factors (tires, brakes, steering column, etc.) that were cited 
+as the few vehicle-related critical reasons. The related statis -
+tics may not, therefore, be representative of the role of other 
+internal vehicle related problems that might have led to the 
+crash. Of the small percentage (2%) of the crashes in which 
+the critical reason was assigned to the vehicle, the tire prob -
+lem accounted for about 35 percent (±11.4%) of the crashes. 
+Brake-related problems as critical reasons accounted for 
+about 22 percent (±15.4%) of such crashes. Steering/suspen -
+sion/transmission/engine-related problems were assigned 
+as critical reasons in 3 percent (±3.3%) of such crashes. Other 
+vehicle-related problems were assigned as critical reason in 
+about 40 percent (±24.0%) percent of such crashes.
+Table 3. Vehicle ‑Related Critical Reasons
+Critical Reason Estimated (Based on 2% of 
+the NMVCCS crashes)
+NumberPercentage*  
+± 95% conf. limits
+Tires /wheels-related 15,000 35% ± 11.4%
+Brakes-related 10,000 22% ± 15.4%
+Steering/suspension/transmission/
+engine-related2,000 3% ± 3.3%
+Other/unknown vehicle-related problems 17,000 40% ± 24.0%
+Total 44,000           100%
+* Percentages are based on unrounded estimated frequencies  
+(Data Source: NMVCCS 2005–2007)
+Published by NHTSA’s National Center for Statistics and Analysis  1200 New Jersey Avenue SE., Washington, DC 205903
+13421-031518-v3Critical reason attributed to environment
+The critical reason was assigned to about 2 percent of the 
+estimated 2,189,000 NMVCCS crashes. However, none of 
+these is suggestive of the cause of the crash. Table 4 pres -
+ents statistics related to crashes in which the critical reason 
+was attributed to roadway and atmospheric conditions. In 
+about 50 percent (±14.5%) of the 52,000 crashes the critical 
+reason was attributed to slick roads. Glare as a critical reason 
+accounted for about 17 percent (±16.7%) of the environment-
+related crashes, and view obstruction was assigned in 11 per -
+cent (±7 .2%) of the crashes. Signs and signals accounted for 3 
+percent (±2.5%) of such crashes. In addition, in 52,000 of the 
+crashes with a critical reason attributed to the environment, 
+the weather condition (fog/rain/snow) was cited in 4 percent 
+(±2.9%) of the crashes.
+Table 4. Environment‑ Related Critical Reasons
+Critical Reason Estimated (Based on 2% of the  
+NMVCCS crashes)
+NumberPercentage*  
+± 95% conf. limits
+Slick roads (ice, loose debris, etc.) 26,000 50% ±14.5%
+Glare 9,000 17% ±16.7%
+View obstructions 6,000 11% ±7.2%
+Other highway-related condition 5,000 9% (0, 9.9)††%
+Fog/rain/snow 2,000 4% ±2.9%
+Other weather-related condition 2,000 4% (0.0, 9.1)††%
+Signs/signals 1,000 3% ± 2.5%
+Road design 1,000 1% (0, 3.3)††%
+Total 52,000 100%
+*Percentages are based on unrounded estimated frequencies  
+††Conf. limits with lower limit 0  
+(Data Source: NMVCCS 2005–2007)Scope and Limitations of NMVCS Data
+NMVCCS data is restricted to crashes that occurred from 
+6 a.m. to midnight. In addition, the following criteria must 
+be met by a crash to qualify for an on-scene investigation 
+(NMVCCS-qualified crash):
+n The crash must have resulted in a harmful event associ -
+ated with a vehicle in transport on a trafficway. 
+n EMS must have been dispatched to the crash scene. 
+n At least one of the first three crash-involved vehicles 
+must be present at the crash scene when the NMVCCS 
+researcher arrives. 
+n The police must be present at the scene of the crash when 
+the NMVCCS researcher arrives. 
+n At least one of the first three vehicles involved in the 
+crash must be a light passenger vehicle that was towed 
+or will be towed due to damage. 
+n A completed police accident report for this crash must be 
+available.
+It is important to note that the pre-crash assessment of crashes 
+in terms of the critical event, critical reasons, and associated 
+factors is neither suggestive of the cause of the crash nor of 
+a fault to the driver, vehicle, or environment. Therefore, care 
+needs to be taken in interpreting the results of the explor -
+atory and descriptive analyses of the data or of the clinical 
+investigation. Since NMVCCS only collects data on crashes 
+that meet the above-mentioned criteria, the estimates based 
+on NMVCCS data should not be compared with those from 
+other databases such as NHTSA’s General Estimates System 
+(GES) or the NASS-CDS.
+This Crash•Stats was prepared by Santokh Singh, Senior 
+Statistician, Bowhead Systems Management, Inc., working 
+under contract with the Mathematical Analysis Division of the 
+National Center for Statistics and Analysis, NHTSA. For ques -
+tions regarding the information presented in this document, 
+please contact NCSAWEB@dot.gov.Suggested APA Format Citation for This Document:
+Singh, S. (2018, March). Critical reasons for crashes investigated in the 
+National Motor Vehicle Crash Causation Survey . (Traffic Safety Facts 
+Crash•Stats. Report No. DOT HS 812 506). Washington, DC: 
+National Highway Traffic Safety Administration.
+Carlton Wilcox
+New Gloucester
+LD 746
+State auto inspections are worthless and corrupt.  It is a waste of resources from 
+actions that would actually improve auto safety.  Per the attached extensive study by 
+NHTSA 96% of auto accidents are due to the driver, 2% due to weather, 2% unknown
+cause, and 2% due to the vehicle condition.  In 2020, the most recent data is publicly 
+available, 39% of all traffic fatalities the primary cause was alcohol. 29% due to 
+excessive speed, 13% were unhelmeted motorcyclist. Per NHTSA 2% of the 164 
+fatalities would be from the vehicle condition.  Why are we wasted our time and 
+money with vehicle safety inspections?  35 other states have done away with them 
+and Maine should as well.  Safety inspections are nothing more than an opportunity to
+be taken advantage of by auto shops.

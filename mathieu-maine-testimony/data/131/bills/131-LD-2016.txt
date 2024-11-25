@@ -1,0 +1,139 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 2016
+S.P. 838 In Senate, June 22, 2023
+An Act to Implement Recommendations of the Distributed 
+Generation Stakeholder Group
+Reported by Senator LAWRENCE of York for the Joint Standing Committee on Energy, 
+Utilities and Technology pursuant to Joint Order 2023, S.P. 747.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed pursuant to Joint Rule 218.
+DAREK M. GRANT
+Secretary of the Senate
+
+Page 1 - 131LR2579(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3209-C is enacted to read:
+3§3209-C.  Distributed generation
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Combined project" means a distributed generation resource that is paired with an 
+7 energy storage system in accordance with rules adopted by the commission.
+8 B.  "Community" means:
+9 (1) The State or an agency of the State;
+10 (2) A municipality;
+11 (3) A school administrative unit, as defined in Title 20-A, section 1, subsection 26; 
+12 or
+13 (4) A federally recognized Indian nation, tribe or band in the State.
+14 C. "Distributed generation resource" means an electric generating facility that uses a 
+15 renewable fuel or technology under section 3210, subsection 2, paragraph B‑3, is 
+16 located in the service territory of a transmission and distribution utility in the State and 
+17 has a nameplate capacity of one megawatt or greater and not more than 5 megawatts.
+18 D.  "Energy storage system" has the same meaning as in section 3481, subsection 6.
+19 E. "Previously developed or impacted land" has the same meaning as in section 3484, 
+20 subsection 6.
+21 F. "Program goal" means the development, by 2028, of commercially operational 
+22 combined projects in the State that have a combined capacity to generate an amount of 
+23 electric energy that is, as close as possible, equal to 7% of the total megawatts of 
+24 electricity load in this State minus any amount of capacity in excess of 750 megawatts 
+25 procured pursuant to sections 3209-A and 3209-B, as determined by the commission 
+26 by rule.
+272.  Program.  The Distributed Generation and Energy Storage System Program, 
+28 referred to in this section as "the program," is established to achieve the program goal.  The 
+29 commission, in consultation with the Governor's Energy Office, shall by rule design the 
+30 program to achieve the program goal.  Rules adopted under this section are routine 
+31 technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+323.  Competitive procurement.  Under the program, beginning in 2024, the 
+33 commission shall seek to procure at least 70% of the program goal through a competitive 
+34 procurement process in accordance with this subsection.
+35 A.  Each year, beginning in 2024 and ending in 2028, the commission shall seek to 
+36 procure 25% of the total amount to be procured under this subsection.  If the 
+37 commission fails to procure this target amount in any year, the commission shall 
+38 increase the amount solicited in the following year in order to achieve the program 
+39 goal. 
+Page 2 - 131LR2579(01)1 B.  Each year, beginning in 2024 and ending in 2028, the commission shall conduct 
+2 annual competitive solicitations for power purchase agreements in accordance with this 
+3 subsection.  A bid in response to a competitive solicitation under this paragraph must 
+4 offer both the energy and the associated renewable energy credits from a combined 
+5 project and must offer a fixed price or a price with an annual escalator.  The 
+6 commission shall evaluate a bid for a combined project located on previously 
+7 developed or impacted land as if it were 15% lower than the price actually bid. 
+8 C.  Upon selecting winning bids in a competitive solicitation, the commission shall 
+9 direct the transmission and distribution utility in whose service territory a winning 
+10 bidder's combined project is located to enter into a power purchase agreement for that 
+11 combined project on terms established by the commission by rule and at the bid price 
+12 for the combined project.
+13 (1)  A contract under this paragraph may not exceed 20 years.
+14 (2)  The commission shall require a transmission and distribution utility to apply 
+15 the value of the renewable energy credits purchased under the contract to benefit 
+16 low-income or moderate-income customers of the transmission and distribution 
+17 utility.  The manner in which this value is applied must be designed to ensure that 
+18 the combined project from which the credits are purchased qualifies for the 
+19 maximum available federal income tax credits.
+204. Community owners.  Under the program, the commission shall seek to procure up 
+21 to 30% of the program goal from community-owned combined projects in accordance with 
+22 this subsection.
+23 A.  Each year, beginning in 2024 and ending in 2028, the commission shall seek to 
+24 procure 1/4 of the amount of the program goal to be procured under this subsection.  If 
+25 the commission fails to procure this amount in any year, the commission shall increase 
+26 the amount to be procured in the following year in order to achieve the program goal.
+27 B.  Each year, beginning in 2024 and ending in 2028, the commission shall establish 
+28 an open enrollment for communities to apply for contracts under this subsection.  The 
+29 commission shall establish the terms of the contracts by rule.  The commission shall 
+30 award contracts to community owners of combined projects that meet requirements 
+31 established by the commission by rule on a first-come, first-awarded basis.  Each year, 
+32 beginning in 2024 and ending in 2028, the commission shall set the base contract price 
+33 for contracts available under this subsection equal to the capacity-weighted 50th 
+34 percentile of all selected bids under subsection 3 for that year, as determined by the 
+35 commission by rule, except that any combined project located on previously developed 
+36 or impacted land must receive a contract price that is equal to the base price divided by 
+37 0.85.  The commission by rule may include an escalator on a base price. 
+38 C.  The commission shall require a transmission and distribution utility to apply the 
+39 value of the renewable energy credits purchased under the contract pursuant to this 
+40 subsection in a manner that maximizes the benefits to all customers of the transmission 
+41 and distribution utility, as determined by the commission by rule.
+Page 3 - 131LR2579(01)1SUMMARY
+2 This bill is reported out by the Joint Standing Committee on Energy, Utilities and 
+3 Technology pursuant to Public Law 2021, chapter 390 and Joint Order, S.P. 747 for the 
+4 sole purpose of obtaining a printed bill that can be referred to the committee.
+5 The bill establishes the Distributed Generation and Energy Storage System Program.  
+6 Under the program, the Public Utilities Commission, beginning in 2024, is directed to seek 
+7 to procure distributed generation resources paired with energy storage systems, called 
+8 combined projects.  
+9 By 2028 the commission is directed to procure combined projects that will have a 
+10 capacity to generate an amount of electric energy that is, as close as possible, equal to 7% 
+11 of the total megawatts of electricity load in this State minus any amount of capacity in 
+12 excess of 750 megawatts that is procured through current net energy billing programs.  The 
+13 commission is directed to procure at least 70% of this amount through a competitive 
+14 procurement process resulting in power purchase agreements.  The commission is directed 
+15 to procure up to 30% of the amount from community-owned projects through an open 
+16 enrollment process resulting in standardized power purchase agreements with prices set in 
+17 relation to the winning bids under the competitive procurement.  
+18 A contract with a combined project under the program must be for both the energy 
+19 from the project and renewable energy credits associated with that energy. The renewable 
+20 energy credits purchased under the program must be monetized and applied to benefit 
+21 transmission and distribution utility ratepayers.2
+3
+4

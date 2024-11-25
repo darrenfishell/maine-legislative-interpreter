@@ -1,0 +1,93 @@
+ 
+  
+ 
+ 
+ 
+Testimony in Support of LD 519 ,  
+ A Resolve, to Conduct a Vehicle -to-grid Pilot Project Using Electric School Buses   
+By Rebecca Schultz, Senior Advocate for Climate and Clean Energy  
+March 7, 2023  
+ 
+Senator Lawrence, Representative Zeigler, and members of the Joint Committee on Energy, Utilities and Technology, my name is Rebecca Schultz. I am a Senior Advocate for Climate and Clean Energy at the Natural Resources Council of Maine (NRCM). NRCM  has been  working  for more  than  60 years  to protect,  
+restore,  and conserve  Maine’s  environment,  on behalf  of our 25,000 members  and supporters . 
+ I am here today to testify in strong support of LD 519, which resolves to establish a vehicle -to-grid pilot 
+project for electric school buses in the Wells -Ogunquit school district.
+1   
+ 
+“Vehicle -to-grid,” V2G or bi -directional charging, as it’s also known, is a system that allows energy in a 
+vehicle battery to be pushed back into the grid. This is a critical part of the future of electrified 
+transportation. With this functionality, vehicles plug ged in across the grid can provide a wide range of 
+services that in aggregate represent significant and monetizable benefits to the electric system. School buses are excellent candidates for V2G applications due to their battery size and use- patterns, as I’ll 
+discuss below.  
+ 
+In recent years, Maine has made good strides in electric vehicle adoption, and clean school bus es are a 
+bright spot. In 2022, the U .S. EPA awarded funding for 34  electric school buses to Maine , the 4
+th most 
+per capita of any state .2 This includes 11 buses for the Wells -Ogunquit Community School District, more 
+than any other district in Maine , which provides us with an enormous learning opportunity.  
+ It’s long been known that conventional diesel school buses contaminate the air inside the buses, 
+exposing our children to high levels of diesel exhaust and fuel vapors in an enclosed space  on their 
+way to and from school.
+3 This is not acceptable , and the primary reason for deployin g electric school 
+buses is to reduce these negative health exposures to children, one of our most vulnerable populations. 
+Of course, they  improve ground -level pollution within our communities too and bring reductions in 
+greenhouse gas  emissions. But t he fact that electric school buses give us all these other benefits does 
+not mean we should delay in tapping the servic es they can provide to the grid .   
+ As mentioned, school buses are ripe candidates for V2G applications for two main reasons :  
+ 
+1. Each bus houses a large battery pack, mo re than  200 kWh capacity in the latest standard bus 
+models.
+4 That’s enough to power seven homes for a day .   
+ 
+1 LD 519 available at https://legislature.maine.gov/bills/getPDF.asp?paper=HP0324&item=1&snum=131   
+2 More than $13 million from EPA’s Clean School Bus Program for 13 Maine School Districts, October 12, 2022, 
+available at https://www.epa.gov/newsreleases/biden -harris -administr ation -announces -more -13-million -epas-clean -
+school -bus-program -13.  
+3 Air quality inside a diesel bus is at least five times worse than outside the bus. Compilation of School Bus 
+Pollution Studies, Environmental Defense Fund, available at 
+https://www.edf.org/sites/default/files/5342_School_bus_pollution_studies.pdf .  
+4 Battery capacity in Type D models for Lion and Thomas Built are 210 KWh and 220 KWh respectively. See:    
+https://schoolbus.thelionelectric.com/;  https://thomasbuiltbuses.com/school -buses/saf -t-liner-c2-jouley/ .  
+2. They have long and predictable periods of downtime  when they are usually parked in one 
+location. On average, school buses transport children just 5.5 hours per day, 180 days per 
+year .5 
+ 
+Pilot projects will be crucial in  learning how best to use these buses, owing in part to the wide range of 
+services that they can provide to the grid. These services include :  
+ 
+• Stabilizing fluctuations in energy conditions on the grid,  
+• Shifting load to less expensive times,  
+• Reducing peaks in demand to avoid having to start up expensive oil and gas peaker plants, and   
+• Serving as mobile sources of emergency back -up power.  
+ 
+To give a more concrete sense of the potential value of an  electrified school bus fleet with V2G 
+capabilities, consider that the total battery capacity of the 11 buses going to the Wells -Ogunquit school 
+district alone is nearly the size of the battery installed in the pioneering Boo thbay non -wires alternative 
+project in 2015 – a project that helped avoid $18 million in grid upgrades. T his is a rough comparison, 
+but it illustrates that these buses represent significant potential value to the grid and savings to 
+ratepayers.6 Maine would be wise to figure ou t how to maximize their use as soon as possible.  
+ 
+At least 14 states around the country have vehicle -to-grid pilot programs for school buses.7 Well -
+designed pilots can help us understand how to get the right combination of services from these 
+batteries to best serve our communities, how to get the incentive structures right , and how to tease out 
+and resolve obstacles to implementation, whether technical, economic, or institutional.   
+ Efficiency Maine Trust (the Trust) is well positioned to run a V2G school bus pilot due to its experience with demand -side management and non -wires alternatives. While the program should be narrow in 
+focus, we recom mend that the legislation be broad enough to give the Trust discretion to test the most 
+relevant issues that it and stakeholders  may  identify. To this effect, the Committee could consider 
+striking the requirement that the pilot be limited to summer months.  While load shifting during summer 
+months would be the most sensible place to start, there might be additional  use-cases that the pilot 
+might  investigate, and the legislation need s not be overly prescriptive. The two -year timeframe, 
+adoption of a permanent  program, and creating an option to renew or expand the pilot  are among 
+features that the Committee might also consider.  
+ 
+In conclusion, NRCM strongly supports this bill. We are on the cusp of a rapid deployment of electric 
+school buses across our state, and this bill will help us maximize the benefits of these powerful mobile batteries in our communities. We urge you to vote Ought To Pass on this bill.  
+ NRCM would be happy to provide any additional support to the Committee in work session. Thank you 
+for this opportunity  to provide testimony .  
+ 
+5 Electr ic School Bus Glossary, available  at https://envirocenter.org/electric -school -bus-glossary/ .  
+6 Smart Electric Pow er Alliance, “Waiting for Load Growth: Maine’s Boothbay projects shows how non- wires 
+alternatives head off expensive grid upgrades,” Nov 15, 2018, available at https://sepapower.org/knowledge/waiting-
+for-load-growth- maines -boothbay- project -shows -how-non-wires -alternatives -head -off-expensive -grid-upgrades/ .  
+7 Three Design Considerations for Electric School Bus Vehicle -to-Grid Programs, World Resources Institute, 
+February 14, 2022, available at https://www.wri.org/insights/electric -school -bus-vehicle -grid-programs .  

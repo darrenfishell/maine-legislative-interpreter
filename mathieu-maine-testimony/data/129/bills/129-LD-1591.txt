@@ -1,0 +1,150 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1591
+H.P. 1150 House of  Representatives,  April 18, 2019
+An Act  To Provide  Access to Health Care for Maine Citizens
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BRENNAN of Portland.
+
+Page 1 - 129LR1546(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §1722, sub-§1, ¶¶A and B, as reallocated by RR 2007, c. 2, 
+3§9, are amended to read:
+4A.  Each hospital may voluntarily hold its consolidated operating margin to no more 
+5than 3%.  For purposes of this paragraph, a hospital's consolidated operating margin 
+6is calculated by dividing its consolidated operating income by its total consolidated 
+7operating revenue.  Annually, for each hospital, the department shall establish a 
+8recommended percentage that the hospital should hold its consolidated operating 
+9margin to and notify a hospital of the department's recommendation for that hospital.
+10B.  Each hospital may voluntarily restrain its increase in its expense per 
+11casemix-adjusted inpatient and volume-adjusted outpatient discharge to no more than 
+12110% of the forecasted increase in the hospital market basket index for the coming 
+13federal fiscal year, as published in the Federal Register, when the federal Centers for 
+14Medicare and Medicaid Services publishes the Medicare program's hospital inpatient 
+15prospective payment system rates for the coming federal fiscal year.  For purposes of 
+16this paragraph, the measure of a hospital's expense per casemix-adjusted inpatient and 
+17volume-adjusted outpatient discharge is calculated by:
+18(1)  Calculating the hospital's total hospital-only expenses;
+19(2)  Subtracting from the hospital's total hospital-only expenses the amount of the 
+20hospital's bad debt;
+21(3)  Subtracting from the amount reached in subparagraph (2) the hospital taxes 
+22paid to the State during the hospital's fiscal year; and
+23(4)  Dividing the amount reached in subparagraph (3) by the product of:
+24(a)  The number of inpatient discharges, adjusted by the all payer case mix 
+25index for the hospital; and
+26(b)  The ratio of total gross patient service revenue to gross inpatient service 
+27revenue.
+28For the purposes of this paragraph, a hospital's total hospital-only expenses include 
+29any item that is listed on the hospital's Medicare cost report as a subprovider, such as 
+30a psychiatric unit or rehabilitation unit, and does not include nonhospital cost centers 
+31shown on the hospital's Medicare cost report, such as home health agencies, nursing 
+32facilities, swing beds, skilled nursing facilities and hospital-owned physician 
+33practices.  For purposes of this paragraph, a hospital's bad debt is as defined and 
+34reported in the hospital's Medicare cost report and as submitted to the Maine Health 
+35Data Organization pursuant to Title 22, chapter 1683. Annually, for each hospital, the 
+36department shall establish a recommended limit on an increase in the hospital's 
+37expenses under this paragraph and notify the hospital of the department's 
+38recommendation for that hospital.
+39Sec. 2.  36 MRSA §2892, as amended by PL 2017, c. 284, Pt. IIII, §1, is further 
+40amended by adding at the end a new paragraph to read:
+Page 2 - 129LR1546(01)-11For state fiscal years beginning on or after July 1, 2020, the hospital's taxable year is 
+2the hospital's fiscal year that ended during calendar year 2018.
+3Sec. 3.  Medicare Buy-in Program and Affordable Care Act subsidies; 
+4plan for increased funding.  The Department of Health and Human Services shall 
+5develop a plan to provide increased funding for the Medicare Buy-in Program and for 
+6subsidies to individuals under the federal Patient Protection and Affordable Care Act 
+7using revenue resulting from changing, from 2014 to 2018, the base year on which the 
+8hospital tax is imposed under the Maine Revised Statutes, Title 36, section 2892.  By 
+9December 4, 2019, the department shall submit a report on the plan to the Joint Standing 
+10Committee on Health Coverage, Insurance and Financial Services and the committee may 
+11report out a bill relating to the report to the Second Regular Session of the 129th 
+12Legislature.
+13Sec. 4.  Wholesale prescription drug importation program; design.  The 
+14Department of Health and Human Services, in consultation with relevant other state 
+15agencies, federal agencies and interested parties, shall design a wholesale prescription 
+16drug importation program that complies with 21 United States Code, Section 384, 
+17including requirements regarding safety and cost savings.  By December 4, 2019, the 
+18department shall submit the design for a wholesale prescription drug importation program 
+19to the Joint Standing Committee on Health Coverage, Insurance and Financial Services 
+20and the committee may report out a bill to the Second Regular Session of the 129th 
+21Legislature.  In designing the wholesale prescription drug importation program, the 
+22department must ensure that the program:
+231.  Designates a state agency to oversee the program and become a licensed 
+24wholesaler for the purpose of seeking federal certification and approval to import safe 
+25prescription drugs that will provide savings to consumers in the State;
+262.  Uses Canadian suppliers of prescription drugs regulated under the appropriate 
+27Canadian or provincial laws;
+283.  Includes a process to sample the purity, chemical composition and potency of 
+29imported prescription drugs;
+304.  Ensures that only those prescription drugs expected to generate substantial savings 
+31for consumers in the State are imported into the State;
+325.  Ensures that imported prescription drugs will not be distributed, dispensed or sold 
+33outside of the State;
+346.  Ensures that consumers and health plans are charged only the actual acquisition 
+35cost of the imported, dispensed prescription drugs;
+367.  Ensures that the health plan payment of the prescription drug component of 
+37pharmacy and health care provider billing reimburses no more than the actual acquisition 
+38cost of the dispensed, imported prescription drug;
+Page 3 - 129LR1546(01)-118.  Ensures that participating health plans keep their formularies and claims payment 
+2systems up to date with the prescription drugs provided through the program;
+39.  Ensures that participating health plans base consumer cost sharing on no more 
+4than the actual acquisition cost of the dispensed, imported prescription drug;
+510.  Requires participating health plans to demonstrate to the state agency designated 
+6to oversee the program how savings on imported drugs are reflected in premiums;
+711.  Limits the profit margin of any participating wholesaler or distributor of 
+8imported prescription drugs to a specified amount established by the designated state 
+9agency designated to oversee the program;
+1012.  Does not permit the import of generic prescription drugs that would violate 
+11United States patent laws on United States branded products;
+1213.  Complies with the transaction and tracing requirements of 21 United States 
+13Code, Sections 360eee and 360eee-1 to the extent practical and feasible prior to imported 
+14prescription drugs coming into the possession of the licensed wholesaler and that the 
+15program complies fully with those federal requirements after imported prescription drugs 
+16are in the possession of the licensed wholesaler;
+1714.  Is adequately financed through a fee on each prescription or other appropriate 
+18approach, as long as the fee does not jeopardize significant consumer savings; and
+1915.  Includes an audit function.
+20SUMMARY
+21This bill specifies that the base year for the hospital tax imposed under the Maine 
+22Revised Statutes, Title 36, section 2892 is 2018.  It directs the Department of Health and 
+23Human Services to submit a plan to the Joint Standing Committee on Health and Human 
+24Services regarding how the additional state revenue resulting from that change can be 
+25used for the Medicare Buy-in Program and for subsidies under the federal Patient 
+26Protection and Affordable Care Act.
+27Current law provides that each hospital may voluntarily hold its consolidated 
+28operating margin to no more than 3% and its increase in its expense per casemix-adjusted 
+29inpatient and volume-adjusted outpatient discharge to no more than 110% of the 
+30forecasted increase in the hospital market basket index for the coming federal fiscal year.  
+31The bill does not change those percentages but requires the Department of Health and 
+32Human Services to annually establish recommended percentages for each hospital.
+33The bill requires the Department of Health and Human Services, in consultation with 
+34relevant other state agencies, federal agencies and interested parties, to design a 
+35wholesale prescription drug importation program.  It requires the department to submit 
+36the design for the wholesale prescription drug importation program to the Joint Standing 
+37Committee on Health Coverage, Insurance and Financial Services and authorizes the 
+38committee to report out a bill to the Second Regular Session of the 129th Legislature.

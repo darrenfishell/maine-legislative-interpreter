@@ -1,0 +1,6 @@
+Mark Chasse
+Auburn
+LD 970
+LD 970 ought-NOT-to pass as it is presented in the supporting draft as there is 
+currently no context to the proposal.
+Thank you, 

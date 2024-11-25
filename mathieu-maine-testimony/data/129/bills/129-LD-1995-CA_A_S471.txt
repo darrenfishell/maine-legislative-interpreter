@@ -1,0 +1,157 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (S -471) (LD 1995 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR3022(02)-1
+COMMITTEE AMENDMENT1L.D. 1995
+2
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to S.P. 697, L.D. 1995, Bill, “An Act To Enact 
+10the Maine Insurance Data Security Act”
+11Amend the bill in section 1 in §2262 in the first paragraph in the first line (page 1, 
+12line 8 in L.D.) by inserting after the following: "and" the following: 'exclusive'
+13Amend the bill in section 1 in §2263 by striking out all of subsection 1 (page 1, lines 
+1416 to 19 in L.D.) and inserting the following:
+15'1.  Authorized individual.  "Authorized individual" means an individual whose 
+16access to the nonpublic information held by the licensee and its information systems is 
+17authorized and determined by the licensee to be necessary and appropriate.' 
+18Amend the bill in section 1 in §2263 by striking out all of subsection 7 (page 2, lines 
+1910 to 12 in L.D.) and inserting the following:
+20'7.  Insurance carrier.  "Insurance carrier" has the same meaning as in section 2204, 
+21subsection 15.' 
+22Amend the bill in section 1 in §2263 in subsection 10 by inserting at the end a new 
+23blocked paragraph to read:
+24'"Nonpublic information" does not include a consumer's personally identifiable 
+25information that has been anonymized using a method no less secure than the safe harbor 
+26method under the federal Health Insurance Portability and Accountability Act of 1996, 
+27Public Law 104-191.' 
+28Amend the bill in section 1 in §2264 in subsection 2 in paragraph B in the first line 
+29(page 3, line 36 in L.D.) by inserting after the following: "against" the following: 
+30'reasonably foreseeable'
+31Amend the bill in section 1 in §2264 in subsection 6 in paragraph B in the last line 
+32(page 6, line 16 in L.D.) by inserting after the following: "accessible" the following: 'to'
+33Amend the bill in section 1 in §2264 in subsection 9 in the first line (page 7, line 1 in 
+34L.D.) by striking out the following: "February" and inserting the following: 'April'Date: (Filing No. S-          )
+COMMITTEE AMENDMENT “      ” to S.P. 697, L.D. 1995
+Page 2 - 129LR3022(02)-1
+COMMITTEE AMENDMENT1Amend the bill in section 1 in §2265 by striking out all of subsection 2 (page 7, lines 
+225 to 28 in L.D.) and inserting the following:
+3'2.  System maintained by 3rd-party service provider.  If a licensee learns that a 
+4cybersecurity event has or may have occurred in an information system maintained by a 
+53rd-party service provider, the licensee shall either use its best efforts to complete the 
+6steps listed in subsection 1 or confirm that the 3rd-party service provider has completed 
+7those steps.' 
+8Amend the bill in section 1 in §2266 in subsection 1 in the 3rd line (page 7, line 35 in 
+9L.D.) by striking out the following: "72 hours" and inserting the following: '3 business 
+10days'
+11Amend the bill in section 1 in §2266 in subsection 5 in paragraph A in subparagraph 
+12(1) in the 2nd line (page 9, line 32 in L.D.) by striking out the following: "72 hours" and 
+13inserting the following: '3 business days'
+14Amend the bill in section 1 in §2266 in subsection 5 in paragraph B in subparagraph 
+15(1) in the 2nd line (page 10, line 2 in L.D.) by striking out the following: "72 hours" and 
+16inserting the following: '3 business days'
+17Amend the bill in section 1 in §2266 in subsection 6 in the 6th line (page 10, line 13 
+18in L.D.) by striking out the following: "as soon as practicable" and inserting the 
+19following: 'no later than the time consumers must be notified under subsection 3 or'
+20Amend the bill in section 1 in §2269 in subsection 1 in the last line (page 11, line 12 
+21in L.D.) by inserting after the following: "contractors" the following: 'working for the 
+22licensee in the business of insurance'
+23Amend the bill in section 1 in §2269 by striking out all of subsection 2 (page 11, lines 
+2413 to 18 in L.D.) and inserting the following:
+25'2.  Licensees subject to federal law.  The following provisions apply to licensees 
+26subject to federal law.
+27A.  A licensee that is subject to and in compliance with the federal Health Insurance 
+28Portability and Accountability Act of 1996, Public Law 104-191 and related privacy, 
+29security and breach notification regulations pursuant to 45 Code of Federal 
+30Regulations, Parts 160 and 164 and the Health Information Technology for Economic 
+31and Clinical Health Act, Public Law 111-5 is considered to meet the requirements of 
+32this chapter, other than the requirements of section 2266, subsection 1 for notice to 
+33the superintendent, if:
+34(1)  The licensee maintains a program for information security and breach 
+35notification that treats all nonpublic information relating to consumers in this 
+36State in the same manner as protected health information;
+37(2)  The licensee annually submits to the superintendent a written statement 
+38certifying that the licensee is in compliance with the requirements of this 
+39paragraph; and
+40(3)  The superintendent has not issued a determination finding that the applicable 
+41federal regulations are materially less stringent than the requirements of this 
+42chapter.
+COMMITTEE AMENDMENT “      ” to S.P. 697, L.D. 1995
+Page 3 - 129LR3022(02)-1
+COMMITTEE AMENDMENT1B.  A licensee that is a producer business entity owned by a depository institution and 
+2maintains an information security program in compliance with the standards for 
+3safeguarding customer information as set forth pursuant to the Gramm-Leach-Bliley 
+4Act, 15 United States Code, Sections 6801 and 6805 is considered to meet the 
+5requirements of section 2264 if:
+6(1)  Upon request, the licensee produces documentation satisfactory to the 
+7superintendent that independently validates the controlling depository 
+8institution's adoption of an information security program that satisfies the 
+9standards for safeguarding customer information;
+10(2)  The licensee annually submits to the superintendent a written statement 
+11certifying that the licensee is in compliance with the requirements of this 
+12paragraph; and
+13(3)  The superintendent has not issued a determination finding that the standards 
+14for safeguarding customer information are materially less stringent than the 
+15requirements of section 2264.' 
+16Amend the bill in section 1 in §2272 in the first paragraph in the first line (page 11, 
+17line 34 in L.D.) by striking out the following: "January" and inserting the following: 
+18'June'
+19Amend the bill in section 1 in §2272 in the first paragraph in the 2nd line (page 11, 
+20line 35 in L.D.) by striking out the following: "January" and inserting the following: 
+21'June'
+22Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+23section number to read consecutively.
+24SUMMARY
+25This amendment makes the following changes to the bill.
+261.  It clarifies the definitions of "authorized individual," "insurance carrier" and 
+27"nonpublic information."
+282.  It extends the time period for notification of a cybersecurity event from 72 hours 
+29to no later than 3 business days.
+303.  It changes the date that an insurance carrier annually certify compliance with the 
+31requirements for an information security program from February 15th to April 15th.
+324.  It clarifies the exemption for small business licensees and for certain licensees 
+33subject to federal law.
+345.  It changes the effective date to June 1, 2021.
+35FISCAL NOTE REQUIRED
+36(See attached)
+Approved: 03/16/20
+LD 1995 LR 3022 (02)
+Fiscal Detail and NotesMinor cost increase - Ot her Special Revenue Funds
+Any additional costs to the Department of Professional and Financial Regulation to adopt the changes in this bill are 
+expected to be minor and can be absorbed within existing budgeted resources.129th MAINE LEGISLATURE
+An Act To Enact the Maine Insurance Data Security Act
+Fiscal Note for Bill as Amended by Committee Amendment " "
+Committee: Health Coverage, Insurance and Financial Services
+Fiscal Note Required: Yes
+Fiscal Note
+LR3022(02) - Fiscal Note - Page 1 of 1

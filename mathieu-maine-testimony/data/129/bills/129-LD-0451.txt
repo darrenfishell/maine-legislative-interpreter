@@ -1,0 +1,109 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 451
+S.P. 129 In Senate,  January  29, 2019
+An Act  To Repeal  the Recently Enacted Changes to  the Law 
+Governing Tax Lien  Foreclosure
+Reference to the Committee on Taxation  suggested and ordered  printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator MOORE of Washington.
+Cosponsored by Representative TUELL  of East  Machias and
+Senator: ROSEN of  Hancock, Representatives:  CRAVEN of  Lewiston, DENNO  of 
+Cumberland, GRIFFIN of  Levant, HIGGINS of Dover-Foxcroft.
+
+Page 1 - 129LR0325(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §683, sub-§1, as amended by PL 2017, c. 478, §1, is further 
+3amended to read:
+41.  Exemption amount.  Except for assessments for special benefits, the just value of 
+5$10,000 of the homestead of a permanent resident of this State who has owned a 
+6homestead in this State for the preceding 12 months is exempt from taxation.  
+7Notwithstanding this subsection, a permanent resident of this State who loses ownership 
+8of a homestead in this State due to a tax lien foreclosure and subsequently regains 
+9ownership of the homestead from the municipality that foreclosed on the tax lien is 
+10deemed to have continuously owned the homestead and may not be determined ineligible 
+11for the exemption provided in this section due to the ownership of the homestead by the 
+12municipality.  In determining the local assessed value of the exemption, the assessor shall 
+13multiply the amount of the exemption by the ratio of current just value upon which the 
+14assessment is based as furnished in the assessor's annual return pursuant to section 383.  
+15If the title to the homestead is held by the applicant jointly or in common with others, the 
+16exemption may not exceed $10,000 of the just value of the homestead, but may be 
+17apportioned among the owners who reside on the property to the extent of their respective 
+18interests.  A municipality responsible for administering the homestead exemption has no 
+19obligation to create separate accounts for each partial interest in a homestead owned 
+20jointly or in common.
+21Sec. 2.  36 MRSA §942, 3rd ¶, as enacted by PL 2017, c. 478, §2, is repealed.
+22Sec. 3.  36 MRSA §943-C, as enacted by PL 2017, c. 478, §3, is repealed.
+23Sec. 4.  36 MRSA §1281, as amended by PL 2017, c. 478, §4, is further amended 
+24to read:
+25§1281.  Payment of taxes; delinquent taxes; publication; certificate filed in registry
+26Taxes on real estate mentioned in section 1602, including supplementary taxes 
+27assessed under section 1331, are delinquent on the 15th day of January next following the 
+28date of assessment.  Annually, on or before February 1st, the State Tax Assessor shall 
+29send by mail to the last known address of each owner of such real estate upon which 
+30taxes remain unpaid a notice in writing, containing a description of the real estate 
+31assessed and the amount of unpaid taxes and interest, and alleging that a lien is claimed 
+32on that real estate for payment of those taxes, interests and costs, with a demand that 
+33payment be made by the next February 21st.  For property that constitutes a homestead 
+34for which a property tax exemption is claimed under chapter 105, subchapter 4-B, the 
+35State Tax Assessor shall include in the written notice written notice to the owner named 
+36on the tax lien mortgage that that owner may be eligible to file an application for tax 
+37abatement under section 841, subsection 2, indicating that the State Tax Assessor, upon 
+38request, will assist the owner in requesting an abatement and provide information 
+39regarding the procedures for making such a request.  The notice must also indicate that 
+40the owner may seek assistance from the Department of Professional and Financial 
+41Regulation, Bureau of Consumer Credit Protection regarding options for finding an 
+Page 2 - 129LR0325(01)-11advisor who can help the owner work with the State Tax Assessor to avoid tax lien 
+2foreclosure and provide information regarding ways to contact the bureau.  The 
+3Department of Professional and Financial Regulation, Bureau of Consumer Credit 
+4Protection, by July 15th annually, shall provide to a statewide organization representing 
+5municipalities and to the State Tax Assessor information regarding assistance in avoiding 
+6tax lien foreclosure to assist municipalities and the State Tax Assessor in providing the 
+7information required in the notice.  If the owners of any such real estate are unknown, 
+8instead of sending the notices by mail, the assessor shall cause the information required in 
+9this section on that real estate to be advertised in the state paper and in a newspaper, if 
+10any, of general circulation in the county in which the real estate lies.  Such a statement or 
+11advertisement is sufficient legal notice of delinquent taxes. If those taxes and interest to 
+12date of payment and costs are not paid by February 21st, the State Tax Assessor shall 
+13record by March 15th, in the registry of deeds of the county or registry district where the 
+14real estate lies, a certificate signed by the assessor, setting forth the name or names of the 
+15owners according to the last state valuation, or the valuation established in accordance 
+16with section 1331; the description of the real estate assessed as contained in the last state 
+17valuation, or the valuation established in accordance with section 1331; the amount of 
+18unpaid taxes and interest; the amount of costs; and a statement that demand for payment 
+19of those taxes has been made, and that those taxes, interest and costs remain unpaid.  The 
+20costs charged by the register of deeds for the filing may not exceed the fees established 
+21by Title 33, section 751.
+22SUMMARY
+23This bill repeals or removes the changes to the foreclosure law that were made by 
+24Public Law 2017, chapter 478.  Under that law, a municipality is restricted in how it may 
+25sell a foreclosed property that was owned by a person who is at least 65 years of age, 
+26occupied the property as a homestead and meets specified income and asset requirements.  
+27The law also places specific notice requirements regarding the foreclosure process on 
+28the State Tax Assessor and municipalities and provides for continuous eligibility under 
+29the Maine resident homestead property tax exemption for a person who loses ownership 
+30of a homestead to tax lien foreclosure and subsequently regains ownership of the 
+31homestead; these provisions are also removed by this bill.

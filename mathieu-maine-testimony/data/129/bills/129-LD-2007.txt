@@ -1,0 +1,641 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2007
+H.P. 1425 House of  Representatives, January 8, 2020
+An Act  To Enact the Made for  Maine Health Coverage Act and 
+Improve Health  Choices  in Maine
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.   (GOVERNOR'S BILL)
+Cosponsored by President  JACKSON  of Aroostook.
+
+Page 1 - 129LR3131(01)-11Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  22 MRSA c. 1479 is enacted to read:
+4CHAPTER 1479
+5MADE FOR MAINE HEALTH COVERAGE ACT
+6§5401.  Short title
+7This Act may be known and cited as "the Made for Maine Health Coverage Act."
+8§5402.  Definitions
+9As used in this chapter, unless the context otherwise indicates, the following terms 
+10have the following meanings.
+111.  Educated health care consumer.  "Educated health care consumer" means an 
+12individual who is knowledgeable about the health care system, has no financial interest in 
+13the delivery of health care services or sale of health insurance and has a background or 
+14experience in making informed decisions regarding health, medical or scientific matters.
+152.  Federal Affordable Care Act.  "Federal Affordable Care Act" means the federal 
+16Patient Protection and Affordable Care Act, Public Law 111-148, as amended by the 
+17federal Health Care and Education Reconciliation Act of 2010, Public Law 111-152, and 
+18any amendments to or regulations or guidance issued under those acts.
+193.  Marketplace.  "Marketplace" means the Maine Health Insurance Marketplace 
+20established by this chapter.
+214.  Marketplace trust fund.  "Marketplace trust fund" means the Maine Health 
+22Insurance Marketplace Trust Fund established by this chapter.
+235.  Superintendent.  "Superintendent" means the Superintendent of Insurance.
+24§5403.  Maine Health Insurance Marketplace established
+25The Maine Health Insurance Marketplace is established to conduct the functions 
+26defined in 42 United States Code, Section 18031(d)(4).  The purpose of the marketplace 
+27is to benefit the State's health insurance market and persons enrolling in health insurance 
+28policies, facilitate the purchase of qualified health plans, reduce the number of uninsured 
+29individuals, improve transparency and conduct consumer education and outreach.
+30§5404.  Powers and duties of the commissioner
+311.  Powers.  In addition to any other powers specified in this chapter and subject to 
+32any limitations contained in this chapter or in any other law, the commissioner:
+Page 2 - 129LR3131(01)-11A.  Has and may exercise powers necessary to carry out the purposes for which the 
+2marketplace is organized or to further the functions in which the marketplace may 
+3lawfully be engaged, including the creation and operation of the marketplace;
+4B.  May charge user fees to health insurance carriers that offer qualified health plans 
+5in the marketplace or otherwise secure funding necessary to support the functions of 
+6the marketplace subject to the limitations imposed by section 5406;
+7C.  May apply for and receive funds, grants or contracts from public and private 
+8sources to be used for marketplace functions;
+9D.  May enter into interagency agreements with state or federal entities as considered 
+10necessary to efficiently and effectively perform marketplace functions; and
+11E.  May enter into contracts with qualified 3rd parties both private and public for any 
+12service necessary to carry out marketplace functions.
+132.  Duties.  The commissioner shall:
+14A.  Direct the operations of the marketplace as provided in this chapter;
+15B.  Consult with stakeholders regarding the execution of the functions of the 
+16marketplace required under this chapter.  Stakeholders include, but are not limited to:
+17(1)  Educated health care consumers who are enrollees in qualified health plans;
+18(2)  Individuals and entities with experience in facilitating enrollment in qualified 
+19health plans;
+20(3)  Representatives of small businesses and self-employed individuals;
+21(4)  Representatives and members of the MaineCare program;
+22(5)  Advocates for enrolling hard-to-reach populations;
+23(6)  Representatives of the Passamaquoddy Tribe, the Penobscot Nation, the 
+24Houlton Band of Maliseet Indians and the Aroostook Band of Micmacs, 
+25appointed by the tribes' respective chiefs in consultation with their tribal councils;
+26(7)  Representatives of health care providers;
+27(8)  Representatives of insurance carriers;
+28(9)  Representatives of insurance producers; and
+29(10)  Any other groups or representatives required by the federal Affordable Care 
+30Act and recommended by the commissioner;
+31C.  Accept recommendations from the superintendent on certification of qualified 
+32health plans and shall exercise the discretion to delegate to the superintendent 
+33authority and duties as appropriate for effective administration of the marketplace, 
+34including but not limited to the responsibility for plan management.  Authority 
+35delegated pursuant to this paragraph is in addition to any other powers or duties of the 
+36superintendent established by statute with respect to the marketplace; and
+37D.  Initially and subsequently as needed assess and report to the Legislature on the 
+38feasibility and cost of the State's using the federal platform as described in 45 Code of 
+Page 3 - 129LR3131(01)-11Federal Regulations, Section 155.200(f) compared to the State's performing all the 
+2functions of a state-based marketplace as described in 45 Code of Federal 
+3Regulations, Section 155.200. These reports must consider the availability of federal 
+4grants, whether existing user fees are sufficient to create and operate state-run 
+5functions and whether use of a state-run platform would improve the accessibility and 
+6affordability of health insurance in the State.
+7§5405.  Maine Health Insurance Marketplace Trust Fund
+81.  Establishment.  The Maine Health Insurance Marketplace Trust Fund is 
+9established as a special fund within the State Treasury for the deposit of any funds 
+10generated by user fees, any funds secured by the commissioner for marketplace functions, 
+11federal funds and any funds received from any public or private source.  The marketplace 
+12trust fund must be administered by the commissioner for the purposes set forth in this 
+13chapter, including the deposit of money that may be received pursuant to and 
+14disbursements permitted by this chapter.
+152.  Deposit and use of money.  Money deposited into the marketplace trust fund 
+16must be held solely for the purposes set forth in this chapter as determined by the 
+17commissioner, including but not limited to costs of initial start-up and creation of the 
+18marketplace, marketplace operations, outreach, enrollment and other functions supporting 
+19the marketplace, including any efforts that may increase market stabilization and that may 
+20result in a net benefit to the participants in the marketplace.  All interest earned from the 
+21investment or deposit of money in the marketplace trust fund must be deposited into the 
+22marketplace trust fund.  All accrued and future earnings from money held by the 
+23marketplace trust fund, including but not limited to money obtained from the Federal 
+24Government and fees, must be available to the marketplace.  Any unexpended balance in 
+25the marketplace trust fund at the end of a year may not lapse and must be carried forward 
+26to be available for expenditure by the commissioner in the subsequent year for 
+27marketplace functions.
+28§5406.  User fees
+29The commissioner shall charge a user fee to all carriers that offer qualified health 
+30plans in the marketplace.  The user fee must be paid monthly by the carrier and deposited 
+31into the marketplace trust fund and may be used only for marketplace functions.  The user 
+32fee must be applied at a rate that is a percentage of the total monthly premium charged by 
+33a carrier for each qualified health plan sold in the marketplace and may not exceed the 
+34total user fee rate charged by the Federal Government for use of the federally facilitated 
+35exchange during plan year 2020.  The rate is 0.5% during any period that the State is 
+36using the federal platform as described in 45 Code of Federal Regulations, Section 
+37155.200(f) and 3% during any period that the State is performing all the functions of a 
+38state-based marketplace as described in 45 Code of Federal Regulations, Section 155.200.
+39§5407.  Rulemaking
+40The commissioner may adopt rules as necessary for the proper administration and 
+41enforcement of this chapter.  Rules adopted pursuant to this section are routine technical 
+Page 4 - 129LR3131(01)-11rules as defined in Title 5, chapter 375, subchapter 2-A. Rules adopted pursuant to this 
+2section must be consistent with the federal Affordable Care Act and state law.
+3§5408.  Technical assistance from other state agencies
+4State agencies, including but not limited to the Department of Professional and 
+5Financial Regulation, Bureau of Insurance, the Department of Administrative and 
+6Financial Services, Bureau of Revenue Services and the Maine Health Data Organization, 
+7shall provide technical assistance and expertise to the marketplace upon request.
+8§5409.  Records
+9Except as provided in this section or by other provision of law, information obtained 
+10by the marketplace under this chapter is a public record within the meaning of Title 1, 
+11chapter 13, subchapter 1.
+121.  Financial information.  Any personally identifiable financial information, 
+13supporting data or tax return of any person obtained by the marketplace under this chapter 
+14is confidential and not open to public inspection pursuant to 26 United States Code, 
+15Section 6103 and Title 36, section 191.
+162.  Health information.  Health information obtained by the marketplace under this 
+17chapter that is covered by the federal Health Insurance Portability and Accountability Act 
+18of 1996, Public Law 104-191, or information covered by Title 22, section 1711-C is 
+19confidential and not open to public inspection.
+20§5410.  Relation to other laws
+21Nothing in this chapter and no action taken by the marketplace pursuant to this 
+22chapter may be construed to preempt or supersede the authority of the superintendent to 
+23regulate the business of insurance within this State.
+24§5411.  Reporting
+25Beginning in 2021 and annually thereafter, the marketplace shall submit a report to 
+26the Governor and the Legislature summarizing enrollment, the affordability of health 
+27insurance for consumers using the marketplace, marketing activity and operations.  This 
+28report must be submitted no later than 45 days after the end of the open enrollment 
+29period.
+30PART B
+31Sec. B-1.  24-A MRSA c. 34-A is enacted to read:
+32CHAPTER 34-A
+33STATE-FEDERAL HEALTH COVERAGE PARTNERSHIPS
+Page 5 - 129LR3131(01)-11§2781.  State-federal health coverage partnerships
+21.  Partnerships authorized.  The State may enter into state-federal health coverage 
+3partnerships that support the availability of affordable health coverage in the State in 
+4accordance with this section.  As used in this chapter, "state-federal health coverage 
+5partnership" means a program established or authorized under federal law that provides or 
+6reallocates federal funding or that provides for the waiver or modification of otherwise 
+7applicable provisions of federal laws governing health insurance.  "State-federal health 
+8coverage partnership" includes, but is not limited to, innovation waivers under Section 
+91332 of the federal Affordable Care Act.
+102.  Application.  Unless the applicable federal laws, regulations or administrative 
+11guidelines require a different state official to be the applicant, the superintendent may 
+12apply to the appropriate federal agency or agencies to establish or participate in a state-
+13federal health coverage partnership or to modify the terms and conditions of an existing 
+14partnership if the superintendent determines that the application, if approved, is likely to 
+15improve the affordability, availability or quality of health coverage in this State and the 
+16Governor approves the submission of the application.
+173.  Notice and consultation.  The superintendent shall ensure that all federally 
+18required notices and opportunities for consultation with respect to a state-federal health 
+19coverage partnership or proposed partnership are provided.  The superintendent shall take 
+20any additional measures that may be necessary to identify persons and constituencies 
+21likely to be materially affected by a state-federal health coverage partnership or proposed 
+22partnership and to provide such persons and constituencies with reasonable notice and 
+23opportunity for input.
+244.  MaineCare program and Maine Health Insurance Marketplace.  A state-
+25federal health coverage partnership may coordinate with the MaineCare program or the 
+26Maine Health Insurance Marketplace established in Title 22, chapter 1479 and 
+27incorporate provisions affecting these programs, including but not limited to a joint 
+28Medicaid Section 1115 demonstration waiver and state innovation waiver, with the 
+29approval or joint application of the Commissioner of Health and Human Services.
+30Sec. B-2.  24-A MRSA c. 34-B is enacted to read:
+31CHAPTER 34-B
+32POOLED MARKET AND CLEAR CHOICE DESIGN
+33§2791.  Affordable health coverage for individuals, families and small businesses
+341.  Pooled market established.  Subject to the requirements of subsection 5, all 
+35individual and small group health plans offered in this State with effective dates of 
+36coverage on or after January 1, 2022 must be offered through a pooled market.  Health 
+37insurance carriers offering individual health plans subject to this section shall make the 
+38same health plans available to eligible small employers, and health insurance carriers 
+39offering small group health plans subject to this section shall make the same health plans 
+40available to all residents of this State.  This subsection does not require the Maine Health 
+Page 6 - 129LR3131(01)-11Insurance Marketplace established in Title 22, chapter 1479 to offer identical choices of 
+2health plans to individuals and to small employers under Title 22, chapter 1479.
+32.  Premium rates.  Premium rates for a health plan offered in the pooled market 
+4described in subsection 1 may not vary based on whether the plan is issued to an 
+5individual or to a small employer.  Rate filings and review for the pooled market are 
+6subject to the provisions of sections 2736 to 2736-C.  For health plans that are issued on 
+7other than a calendar year basis, rates applicable on and after January 1st of any plan year 
+8must be the approved rates for the most similar plan offered during the new calendar year, 
+9adjusted by a factor, approved by the superintendent as part of the rating plan, that 
+10appropriately accounts for any differences in plan design.
+113.  Harmonization of mandated benefit laws.  A health plan subject to this section 
+12must comply with either the applicable mandated benefit provisions in chapter 33 or the 
+13corresponding provisions of chapter 35.  A health maintenance organization or a 
+14nonprofit hospital and medical service organization may offer any health plan approved 
+15by the superintendent for sale in the pooled market established pursuant to this section, 
+16notwithstanding any provision of chapter 56 or Title 24 to the contrary.
+174.  Conforming references.  All references in this Title to the individual health 
+18insurance market, the small group health insurance market or any equivalent terminology 
+19refer to the pooled market established pursuant to this section.
+205.  Preconditions for pooled market.  This section may not be implemented unless 
+21routine technical rules as defined in Title 5, chapter 375, subchapter 2-A are adopted to 
+22implement this section and the Federal Government approves a state innovation waiver 
+23amendment that both extends reinsurance under section 3953 to the pooled market 
+24established pursuant to this section and projects that average premium rates would be the 
+25same or lower than they would have been absent the provisions of this section.
+26§2792.  Clear choice designs
+27The superintendent shall develop clear choice designs for the individual and small 
+28group health insurance markets in order to reduce consumer confusion and provide 
+29meaningful choices for consumers by promoting a level playing field on which carriers 
+30compete on the basis of price and quality.
+311.  Clear choice design.  For the purposes of this section, "clear choice design" 
+32means a set of annual copayments, coinsurance and deductibles for all or a designated 
+33subset of the essential health benefits. An individual or small group health plan subject to 
+34section 2791 must conform to one of the clear choice designs developed pursuant to this 
+35section unless an opt-out request is granted under subsection 4.
+362.  Development of clear choice designs.  The superintendent shall develop clear 
+37choice designs in consultation with working groups consisting of consumers, carriers, 
+38health policy experts and other interested persons. The superintendent shall adopt rules 
+39for clear choice designs, taking into consideration the ability of plans to conform to 
+40actuarial value ranges, consumer needs and promotion of benefits with high value and 
+41return on investment.  There must be at least one clear choice design available at each tier 
+Page 7 - 129LR3131(01)-11of health insurance plan designated as bronze, silver, gold and platinum in accordance 
+2with the federal Affordable Care Act. Rules adopted pursuant to this subsection are 
+3routine technical rules as defined in Title 5, chapter 375, subchapter 2-A. Clear choice 
+4designs apply to all individual and small group health plans offered in this State with 
+5effective dates of coverage on or after January 1, 2022.
+63.  Annual review.  The superintendent shall consider annually whether to revise, 
+7discontinue or add any clear choice designs for use by carriers in the following calendar 
+8year, including but not limited to considering whether deductible and copayment levels 
+9should be changed to reflect medical inflation and conform with actuarial value and 
+10annual maximum out-of-pocket limits.
+114.  Opt-out request.  A carrier may offer a health plan that modifies one or more 
+12specific cost-sharing parameters in a clear choice design developed pursuant to this 
+13section if the carrier requests to opt out of the requirement in subsection 1 and 
+14demonstrates to the satisfaction of the superintendent that the alternative plan design 
+15offers significant consumer benefits and does not result in adverse selection. If the opt-out 
+16request is granted, the carrier may also choose to offer another plan conforming to the 
+17original unmodified clear choice design.
+18Sec. B-3.  24-A MRSA §2808-B, sub-§2, ¶E, as amended by PL 2019, c. 96, §1, 
+19is repealed and the following enacted in its place:
+20E.  The superintendent may authorize a carrier to establish a separate community rate 
+21for an association group organized pursuant to section 2805-A or a trustee group 
+22organized pursuant to section 2806 consistent with the provisions of this paragraph 
+23and applicable federal law.
+24(1)  Association group membership or eligibility for participation in the trustee 
+25group may not be conditioned on health status, claims experience or other risk 
+26selection criteria.
+27(2)  All health plans offered by the carrier through that association or trustee 
+28group must be made available on a guaranteed issue basis to all eligible 
+29employers that are members of the association or are eligible to participate in the 
+30trustee group except that a professional association may require that a minimum 
+31percentage of the eligible professionals employed by a subgroup be members of 
+32the association in order for the subgroup to be eligible for issuance or renewal of 
+33coverage through the association. The minimum percentage must not exceed 
+3490%. For purposes of this subparagraph, "professional association" means an 
+35association that:
+36(a)  Serves a single profession that requires a significant amount of education, 
+37training or experience or a license or certificate from a state authority to 
+38practice that profession;
+39(b)  Has been actively in existence for 5 years;
+40(c)  Has a constitution and bylaws or other analogous governing documents;
+41(d)  Has been formed and maintained in good faith for purposes other than 
+42obtaining insurance;
+Page 8 - 129LR3131(01)-11(e)  Is not owned or controlled by a carrier or affiliated with a carrier;
+2(f)  Has at least 1,000 members if it is a national association; 200 members if 
+3it is a state or local association;
+4(g)  All members and dependents of members are eligible for coverage 
+5regardless of health status or claims experience; and
+6(h)  Is governed by a board of directors and sponsors annual meetings of its 
+7members.
+8(3)  The aggregate rate charged by the carrier to the association or trustee group 
+9is considered a large group rate, and the terms of coverage are considered a large 
+10group health plan.  Rates for participating employers within the group may vary 
+11only as permitted by paragraphs B to D-2.
+12(4)  Producers may only market association memberships, accept applications for 
+13membership or sign up members in a professional association in which the 
+14individuals are actively engaged in or directly related to the profession 
+15represented by the professional association.
+16(5)  Carriers may not be reinsured under section 3958 for coverage issued under 
+17this paragraph.
+18(6)  Except for employers with plans that have grandfathered status under the 
+19federal Affordable Care Act, this paragraph does not apply to policies, contracts 
+20or certificates that are executed, delivered, issued for delivery, continued or 
+21renewed in this State on or after January 1, 2014 until December 31, 2019.  To 
+22the extent permitted under the federal Affordable Care Act, this paragraph applies 
+23to policies, contracts or certificates that are executed, delivered, issued for 
+24delivery, continued or renewed in this State on or after January 1, 2020.
+25Sec. B-4.  24-A MRSA §2808-B, sub-§2-A, as amended by PL 2009, c. 244, Pt. 
+26C, §7 and c. 439, Pt. D, §1, is further amended to read:
+272-A.  Rate filings.  A carrier offering small group health plans shall file with the 
+28superintendent the community rates for each plan and every rate, rating formula and 
+29classification of risks and every modification of any formula or classification that it 
+30proposes to use.
+31A.  Every filing must state the effective date of the filing.  Every filing must be made 
+32not less than 60 days in advance of the stated effective date, unless the 60-day 
+33requirement is waived by the superintendent.  The effective date may be suspended 
+34by the superintendent for a period of time not to exceed 30 days. 
+35B.    A filing and all supporting information, except for protected health information 
+36required to be kept confidential by state or federal statute and except for descriptions 
+37of the amount and terms or conditions or reimbursement in a contract between an 
+38insurer and a 3rd party, are public records notwithstanding Title 1, section 402, 
+39subsection 3, paragraph B and become part of the official record of any hearing held 
+40pursuant to subsection 2-B, paragraph B or F section 2791, subsection 2.
+Page 9 - 129LR3131(01)-11C.  Rates for small group health plans must be filed in accordance with this section 
+2and subsections 2-B and 2-C or section 2791, as applicable, for premium rates 
+3effective on or after July 1, 2004, except that the filing of rates for small group health 
+4plans are not required to account for any payment or any recovery of that payment 
+5pursuant to subsection 2-B, paragraph D and former section 6913 for rates effective 
+6before July 1, 2005.
+7Sec. B-5.  24-A MRSA §2808-B, sub-§2-B, as amended by PL 2011, c. 364, 
+8§15, is further amended to read:
+92-B.  Rate review and hearings.  Except as provided in subsection 2-C and section 
+102791, rate filings are subject to this subsection.
+11A.  Rates subject to this subsection must be filed for approval by the superintendent. 
+12The superintendent shall disapprove any premium rates filed by any carrier, whether 
+13initial or revised, for a small group health plan unless it is anticipated that the 
+14aggregate benefits estimated to be paid under all the small group health plans 
+15maintained in force by the carrier for the period for which coverage is to be provided 
+16will return to policyholders at least 75% of the aggregate premiums collected for 
+17those policies, as determined in accordance with accepted actuarial principles and 
+18practices and on the basis of incurred claims experience and earned premiums. For 
+19the purposes of this calculation, any payments paid pursuant to former section 6913 
+20must be treated as incurred claims.
+21B.    If at any time the superintendent has reason to believe that a filing does not meet 
+22the requirements that rates not be excessive, inadequate or unfairly discriminatory or 
+23that the filing violates any of the provisions of chapter 23, the superintendent shall 
+24cause a hearing to be held.  Hearings held under this subsection must conform to the 
+25procedural requirements set forth in Title 5, chapter 375, subchapter 4.  The 
+26superintendent shall issue an order or decision within 30 days after the close of the 
+27hearing or of any rehearing or reargument or within such other period as the 
+28superintendent for good cause may require, but not to exceed an additional 30 days.  
+29In the order or decision, the superintendent shall either approve or disapprove the rate 
+30filing.  If the superintendent disapproves the rate filing, the superintendent shall 
+31establish the date on which the filing is no longer effective, specify the filing the 
+32superintendent would approve and authorize the insurer to submit a new filing in 
+33accordance with the terms of the order or decision.
+34C.  When a filing is not accompanied by the information upon which the carrier 
+35supports the filing or the superintendent does not have sufficient information to 
+36determine whether the filing meets the requirements that rates not be excessive, 
+37inadequate or unfairly discriminatory, the superintendent shall require the carrier to 
+38furnish the information upon which it supports the filing.
+39D.  A carrier that adjusts its rate shall account for the savings offset payment or any 
+40recovery of that savings offset payment in its experience consistent with this section 
+41and former section 6913.
+42Sec. B-6.  24-A MRSA §2808-B, sub-§2-C, as amended by PL 2011, c. 364, 
+43§16, is further amended to read:
+Page 10 - 129LR3131(01)-112-C.  Guaranteed loss ratio.  Notwithstanding subsection 2-B, rate filings for a 
+2credible block of small group health plans may be filed in accordance with this subsection 
+3instead of subsection 2-B, except as otherwise provided in section 2791.  Rates filed in 
+4accordance with this subsection are filed for informational purposes.
+5A.  A block of small group health plans is considered credible if the anticipated 
+6average number of members during the period for which the rates will be in effect 
+7meets standards for full or partial credibility pursuant to the federal Affordable Care 
+8Act. The rate filing must state the anticipated average number of members during the 
+9period for which the rates will be in effect and the basis for the estimate.  If the 
+10superintendent determines that the number of members is likely to be less than 
+11needed to meet the credibility standard, the filing is subject to subsection 2-B.
+12Sec. B-7.  24-A MRSA §3952, sub-§4-A is enacted to read:
+134-A.  Eligible claim.  "Eligible claim" means either:
+14A.  For a high-priced item or service, a claim amount that is no greater than 200% of 
+15the allowed charge determined for the item or service under the original Medicare 
+16fee-for-service program under Part A and Part B of Title XVIII of the Social Security 
+17Act for the applicable year; or
+18B.  For all other items or services, a claim paid by the member insurer in accordance 
+19with the terms of the policy.
+20Sec. B-8.  24-A MRSA §3952, sub-§5-A is enacted to read:
+215-A.  High-priced item or service.  "High-priced item or service" means an item or 
+22service covered under the original Medicare fee-for-service program under Part A and 
+23Part B of Title XVIII of the Social Security Act that the board, in consultation with and 
+24based on analysis by the Department of Health and Human Services and Maine Health 
+25Data Organization, has identified in advance of a plan year that contributes to association 
+26costs and offers an opportunity for savings.
+27Sec. B-9.  24-A MRSA §3952, sub-§6, as enacted by PL 2011, c. 90, Pt. B, §8, is 
+28amended to read:
+296.  Insurer.  "Insurer" means an entity that is authorized to write medical insurance 
+30or that provides medical insurance in this State.  For the purposes of this chapter, 
+31"insurer" includes an insurance company, a nonprofit hospital and medical service 
+32organization, a fraternal benefit society, a health maintenance organization, a self-insured 
+33employer subject to state regulation as described in section 2848-A, a 3rd-party 
+34administrator, a multiple-employer welfare arrangement, a reinsurer that reinsures health 
+35insurance in this State, or a captive insurance company established pursuant to chapter 83 
+36that insures the health coverage risks of its members, the Dirigo Health Program 
+37established in chapter 87 or any other state-sponsored health benefit program whether 
+38fully insured or self-funded.
+39Sec. B-10.  24-A MRSA §3952, sub-§9, as enacted by PL 2011, c. 90, Pt. B, §8, 
+40is amended to read:
+Page 11 - 129LR3131(01)-119.  Member insurer.  "Member insurer" means an insurer that offers individual 
+2health plans and is actively marketing individual health plans in this State.  In any 
+3calendar year in which the association reinsures small group health plans, "member 
+4insurer" also includes an insurer that offers small group health plans and is actively 
+5marketing small group health plans in this State.
+6Sec. B-11.  24-A MRSA §3953, sub-§1, as amended by PL 2017, c. 124, §1, is 
+7further amended to read:
+81.  Guaranteed access reinsurance mechanism established.  The Maine 
+9Guaranteed Access Reinsurance Association is established as a nonprofit legal entity.  As 
+10a condition of doing business in the State, an insurer that has issued or administered 
+11medical insurance within the previous 12 months or is actively marketing a medical 
+12insurance policy or medical insurance administrative services in this State must 
+13participate in the association.  The Dirigo Health Program established in chapter 87 and 
+14any other state-sponsored health benefit program shall also participate in the association.  
+15Unless an earlier resumption of operations is ordered by the superintendent in accordance 
+16with paragraph A, operations of the association are suspended until December 31, 2023 
+17except to the extent provided in section 3962 and the association may not collect 
+18assessments as provided in section 3957, provide reinsurance for member insurers under 
+19section 3958 or provide reimbursement for member insurers under section 3961 as of the 
+20date on which a transitional reinsurance program established under the authority of 
+21Section 1341 of the federal Affordable Care Act commences operations in this State.
+22A.  If the board proposes a revised plan of operation that calls for the resumption of 
+23operations earlier than December 31, 2023 and the superintendent determines that the 
+24revised plan is likely to provide significant benefit to the State's health insurance 
+25market, the superintendent may order the association to resume operations in 
+26accordance with the revised plan. This paragraph applies only if:
+27(1)  An innovation waiver under Section 1332 of the federal Affordable Care Act 
+28as contemplated by paragraphs B and C is granted; or
+29(2)  The federal Affordable Care Act is repealed or amended in a manner that 
+30makes the granting of an innovation waiver unnecessary or inapplicable.
+31B.  After consulting with the board and receiving public comment, the superintendent 
+32may develop a proposal for an innovation waiver under Section 1332 of the federal 
+33Affordable Care Act that facilitates the resumption of operations of the association in 
+34a manner that prevents or minimizes the loss of federal funding to support the 
+35affordability of health insurance in the State.
+36C.  With the approval of the Governor, the superintendent may submit an application 
+37on behalf of the State in accordance with the proposal developed under paragraph B 
+38for the purposes of resuming operations of the association to the United States 
+39Department of Health and Human Services and to the United States Secretary of the 
+40Treasury to waive certain provisions of the federal Affordable Care Act as provided 
+41in Section 1332. The superintendent may implement any federally approved waiver.
+42Sec. B-12.  24-A MRSA §3955, sub-§1, ¶D, as enacted by PL 2011, c. 90, Pt. B, 
+43§8, is amended to read:
+Page 12 - 129LR3131(01)-11D.  Establish procedures for the handling and accounting of association assets; and
+2Sec. B-13.  24-A MRSA §3955, sub-§1, ¶E, as amended by PL 2011, c. 621, §2, 
+3is repealed.
+4Sec. B-14.  24-A MRSA §3955, sub-§2, ¶H, as enacted by PL 2011, c. 90, Pt. B, 
+5§8, is amended to read:
+6H.  Apply for Accept and administer funds or grants from public or private sources, 
+7including federal grants, and apply for such funding.
+8Sec. B-15.  24-A MRSA §3956, sub-§3, ¶C, as enacted by PL 2011, c. 90, Pt. B, 
+9§8, is amended to read:
+10C.  Following the close of each calendar year in which premiums are collected for 
+11reinsurance, determine reinsurance premiums less any administrative expense 
+12allowance, the expense of administration pertaining to the reinsurance operations of 
+13the association and the incurred losses of the year, and report this information to the 
+14superintendent; and
+15Sec. B-16.  24-A MRSA §3957, sub-§9, as enacted by PL 2011, c. 90, Pt. B, §8, 
+16is repealed.
+17Sec. B-17.  24-A MRSA §3958, as amended by PL 2011, c. 621, §§4 and 5, is 
+18further amended to read:
+19§3958.  Reinsurance; premium rates
+201.  Reinsurance amount.  A member insurer offering an individual health plan under 
+21section 2736-C must be reinsured by the association to the level of coverage provided in 
+22this subsection and is liable to the association for the any applicable reinsurance premium 
+23at the rate established in accordance with subsection 2.  For calendar year 2022 and 
+24subsequent calendar years, the association shall also reinsure member insurers for small 
+25group health plans issued under section 2808-B, unless otherwise provided in rules 
+26adopted by the superintendent pursuant to section 2791, subsection 5.
+27A.   Beginning July 1, 2012, except as otherwise provided in paragraph A-1, the 
+28association shall reimburse a member insurer for claims incurred with respect to a 
+29person designated for reinsurance by the member insurer pursuant to section 3959 or 
+303961 after the insurer has incurred an initial level of claims for that person of $7,500 
+31for covered benefits in a calendar year.  In addition, the insurer is responsible for 10% 
+32of the next $25,000 of claims paid during a calendar year.  The amount of 
+33reimbursement is 90% of the amount incurred between $7,500 and $32,500 and 
+34100% of the amount incurred in excess of $32,500 for claims incurred in that 
+35calendar year with respect to that person.  For calendar year 2012, only claims 
+36incurred on or after July 1st are considered in determining the member insurer's 
+37reimbursement.  The With the approval of the superintendent, the association may 
+38annually adjust the initial level of claims and the maximum limit to be retained by the 
+39insurer to reflect increases changes in costs and, utilization within the standard 
+40market for individual health plans within the State.  The adjustments may not be less 
+Page 13 - 129LR3131(01)-11than the annual change in the Consumer Price Index for medical care services unless 
+2the superintendent approves a lower adjustment factor as requested by, available 
+3funding and any other factors affecting the sustainable operation of the association.
+4A-1.  Subject to approval by the superintendent, the association shall operate a 
+5retrospective reinsurance program providing coverage to member insurers for all 
+6individual and small group health plans issued in this State with effective dates on 
+7and after January 1, 2022.
+8(1)  The association shall reimburse member insurers based on the total eligible 
+9claims paid during a calendar year for a single individual in excess of the 
+10attachment point specified by the board.  The board may establish multiple layers 
+11of coverage with different attachment points and different percentages of claims 
+12payments to be reimbursed by the association.
+13(2)  Eligible claims by all individuals enrolled in individual or small group health 
+14plans in this State may not be disqualified for reimbursement on the basis of 
+15health conditions, predesignation by the member insurer or any other 
+16differentiating factor.
+17(3)  The board shall annually review the attachment points and coinsurance 
+18percentages and make any adjustments that are necessary to ensure that the 
+19retrospective reinsurance program operates on an actuarially sound basis.
+20(4)  The board shall ensure that any surplus in the retrospective reinsurance 
+21program at the conclusion of a plan year is used to lower attachment points, 
+22increase coinsurance rates or both for that plan year, consistent with its 
+23responsibility to ensure that the program operates on an actuarially sound basis.
+24B.  An A member insurer shall apply all managed care, utilization review, case 
+25management, preferred provider arrangements, claims processing and other methods 
+26of operation without regard to whether claims paid for coverage are reinsured under 
+27this subsection.  A member insurer shall report for each plan year the name of each 
+28high-priced item or service for which its payment exceeded the amount allowed for 
+29eligible claims and the name of the provider that received this payment.  The 
+30association shall annually compile and publish a list of all reported names.
+312.  Premium rates.  The association, as part of the plan of operation under section 
+323953, subsection 3, shall establish a methodology for determining premium rates to be 
+33charged member insurers to reinsure persons eligible for coverage under this chapter.  
+34The methodology must include a system for classification of persons eligible for coverage 
+35that reflects the types of case characteristics used by insurers for individual health plans 
+36pursuant to section 2736-C, together with any additional rating factors the association 
+37determines to be appropriate.  The methodology must provide for the development of 
+38base reinsurance premium rates, subject to approval of the superintendent, set at levels 
+39that, together with other funds available to the association, will be sufficient to meet the 
+40anticipated costs of the association.  The association shall periodically review the 
+41methodology established under this subsection and may make changes to the 
+42methodology as needed with the approval of the superintendent.  The association may 
+43consider adjustments to the premium rates charged for reinsurance to reflect the use of 
+44effective cost containment and managed care arrangements by an insurer.  This 
+Page 14 - 129LR3131(01)-11subsection does not apply to reinsurance with respect to any calendar year for which the 
+2association operates a retrospective reinsurance program under subsection 1, paragraph 
+3A-1.
+4Sec. B-18.  24-A MRSA §3959, sub-§1, ¶A, as enacted by PL 2011, c. 621, §6, 
+5is amended to read:
+6A.  By using the health statement developed by the board pursuant to section 3955, 
+7subsection 1, paragraph E or by using the person's claims history or risk scores or any 
+8other reasonable means;
+9Sec. B-19.  24-A MRSA §3959, sub-§5 is enacted to read:
+105.  Inapplicability.  This section does not apply to reinsurance with respect to any 
+11calendar year for which the association operates a retrospective reinsurance program 
+12under section 3958, subsection 1, paragraph A-1.
+13Sec. B-20.  24-A MRSA §3961, as amended by PL 2011, c. 621, §§7 and 8, is 
+14repealed.
+15Sec. B-21.  24-A MRSA §3962, as amended by PL 2015, c. 404, §§2 and 3, is 
+16repealed.
+17Sec. B-22.  24-A MRSA §3963 is enacted to read:
+18§3963.  State-federal health coverage partnerships involving the association
+191.  Consultation with board.  The superintendent shall consult with the board before 
+20developing any proposal to apply for a state-federal health coverage partnership as 
+21defined in section 2781, subsection 1 or to modify the terms of an existing state-federal 
+22health coverage partnership involving federal funding for the association or otherwise 
+23significantly affecting the operations of the association.  The superintendent shall give 
+24prompt notice to the board if the superintendent becomes aware of a new federal program 
+25or material changes to an existing program with the potential for a significant effect on 
+26the operations of the association.
+27PART C
+28Sec. C-1.  24-A MRSA §4320-A, as amended by PL 2017, c. 343, §1, is further 
+29amended to read:
+30§4320-A.  Coverage of preventive and primary health services
+31Notwithstanding any other requirements of this Title, a carrier offering a health plan 
+32in this State shall, at a minimum, provide coverage for and may not impose cost-sharing 
+33requirements for preventive and primary health services as required by this section.
+341.  Preventive services.  A health plan must, at a minimum, provide coverage for:
+Page 15 - 129LR3131(01)-11A.  The evidence-based items or services that have a rating of A or B in the 
+2recommendations of the United States Preventive Services Task Force or equivalent 
+3rating from a successor organization;
+4B.  With respect to the individual insured, immunizations that have a 
+5recommendation from the federal Department of Health and Human Services, 
+6Centers for Disease Control and Prevention, Advisory Committee on Immunization 
+7Practices and that are consistent with the recommendations of the American 
+8Academy of Pediatrics, the American Academy of Family Physicians or the 
+9American College of Obstetricians and Gynecologists or a successor organization;
+10C.  With respect to infants, children and adolescents, evidence-informed preventive 
+11care and screenings provided for in the most recent version of the comprehensive 
+12guidelines supported by the federal Department of Health and Human Services, 
+13Health Resources and Services Administration that are consistent with the 
+14recommendations of the American Academy of Pediatrics or a successor 
+15organization; and
+16D.  With respect to women, such additional preventive care and screenings not 
+17described in paragraph A, provided for in the comprehensive guidelines supported by 
+18the federal Department of Health and Human Services, Health Resources and 
+19Services Administration women's preventive services guidelines that are consistent 
+20with the recommendations of the American College of Obstetricians and 
+21Gynecologists women's preventive services initiative.
+222.  Change in recommendations.  If a recommendation described in subsection 1 is 
+23changed during a health plan year, a carrier is not required to make changes to that health 
+24plan during the plan year.
+253.  Primary health services.  A health plan with an effective date on or after January 
+261, 2021 must provide coverage without cost sharing for the first primary care and 
+27behavioral health visits in each plan year and may not apply a deductible or coinsurance 
+28to the 2nd or 3rd primary care and behavioral health visits in a plan year. This subsection 
+29does not apply to a plan offered for use with a health savings account unless the federal 
+30Internal Revenue Service determines that the benefits required by this section are 
+31permissible benefits in a high deductible health plan as defined in the federal Internal 
+32Revenue Code, Section 223(c)(2).
+33Sec. C-2.  Notification regarding fulfillment of contingency.  Upon adoption 
+34of routine technical rules and notification from the Federal Government of its approval of 
+35a state innovation waiver amendment in accordance with the Maine Revised Statutes, 
+36Title 24-A, section 2791, subsection 5, the Superintendent of Insurance shall notify the 
+37Secretary of State, the Secretary of the Senate, the Clerk of the House of Representatives 
+38and the Revisor of Statutes that the contingencies set forth in section 2791, subsection 5 
+39have been met.
+40Sec. C-3.  Revisor's review; cross-references.  The Revisor of Statutes shall 
+41review the Maine Revised Statutes and include in the errors and inconsistencies bill 
+42submitted to the First Regular Session of the 130th Legislature pursuant to Title 1, section 
+Page 16 - 129LR3131(01)-1194 any sections necessary to correct and update any cross-references in the statutes to 
+2provisions of law repealed in this Act.
+3SUMMARY
+4This bill:
+51.  Establishes the Made for Maine Health Coverage Act;
+62.  Establishes the Maine Health Insurance Marketplace Trust Fund;
+73.  Authorizes the State to enter into state-federal health coverage partnerships that 
+8support the availability of affordable health coverage;
+94.  Establishes a pooled market for individual health plans and small group health 
+10plans and changes reinsurance to be retrospective and applied to the pooled market; and
+115.  Creates clear choice design for cost sharing and requires coverage of certain 
+12primary care and behavioral health visits without the application of any deductible.

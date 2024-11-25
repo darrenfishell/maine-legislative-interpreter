@@ -1,0 +1,625 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1045
+H.P. 773 House of  Representatives, March 10, 2021
+An Act  To Support  Universal Health Care
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BROOKS  of Lewiston.
+Cosponsored by Representatives:  ARFORD  of Brunswick, EVANS  of Dover-Foxcroft, 
+GRAMLICH of Old Orchard Beach, MORALES of South Portland, SACHS of Freeport.
+
+Page 1 - 130LR0166(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-G, sub-§14-J is enacted to read:
+314-J.   
+Health Care Maine Health Care Board Compensation 
+determined under 24-A 
+MRSA §7510, sub-§3 24-A MRSA 
+§7510 
+4Sec. 2.  24-A MRSA c. 97 is enacted to read:
+8CHAPTER 97
+9MAINE HEALTH CARE ACT
+10§7501.  Short title
+11 This chapter may be known and cited as "the Maine Health Care Act."
+12§7502.  Maine Health Care Plan
+131.  Plan established; requirements.  The Maine Health Care Plan is established in 
+14 order to keep residents of this State healthy and provide the best quality of health care.  The 
+15 Maine Health Care Plan must:
+16 A.  Ensure all residents of this State are covered uniformly and unrelated to their 
+17 employment status;
+18 B.  Cover all necessary care, including dental, vision and hearing, mental health, 
+19 chemical dependency treatment, prescription drugs, medical equipment and supplies, 
+20 long-term care and home care;
+21 C.  Allow patients to choose their providers;
+22 D.  Reduce costs by cutting administrative bureaucracy, not by restricting or denying 
+23 care;
+24 E.  Set premiums based on ability to pay and eliminate cost sharing;
+25 F.  Focus on preventive care and early intervention to improve health;
+26 G.  Ensure that there are enough health care providers to guarantee timely access to 
+27 care;
+28 H.  Continue the State's leadership in medical education, research and technology;
+29 I.  Provide adequate and timely payments to providers;
+30 J.  Address imbalances in access to health care in urban and rural areas;
+31 K.  Address socioeconomic and racial disparities in access to health care; and
+32 L.  Use a simple funding and payment system.
+332.  Purpose.  The Maine Health Care Plan must provide all medically necessary health 
+34 care services for all residents of this State in a manner that meets the requirements of this 
+35 chapter.
+363.  Definitions. As used in this chapter, unless the context otherwise indicates, the 
+37 following terms have the following meanings.
+38 A.  "Institutional provider" means an inpatient hospital, nursing facility, rehabilitation 
+39 facility or other health care facility that provides overnight care.4
+5
+6
+7
+11
+13
+14
+15
+Page 2 - 130LR0166(01)1 B.  "Maine Health Care Board" or "board" means the Maine Health Care Board as 
+2 established in section 7510.
+3 C.  "Maine Health Care Fund" or "fund" means the Maine Health Care Fund as 
+4 established pursuant to section 7506.
+5 D.  "Maine Health Care Plan" or "plan" means the Maine Health Care Plan as 
+6 established in subsection 1.
+7 E.  "Medically necessary" means, with regard to services or supplies, needed to 
+8 promote health and to prevent, diagnose or treat a particular patient's medical condition 
+9 and meeting accepted standards of medical practice within a provider's professional 
+10 peer group and geographic region.
+11 F.  "Noninstitutional provider" means an individual provider, group practice, clinic, 
+12 outpatient surgical center, imaging center or other health care facility that does not 
+13 provide overnight care.
+14§7503.  Eligibility
+151.  Residency.  All residents of this State are eligible for the Maine Health Care Plan.
+162.  Enrollment; identification.  The Maine Health Care Board shall establish a 
+17 procedure to enroll residents and provide each with identification that may be used by 
+18 health care providers to confirm eligibility for services.  The application for enrollment 
+19 must be no more than 2 pages.
+203.  Residents temporarily out of state.  The Maine Health Care Plan must provide 
+21 health care coverage to residents of this State who are temporarily out of the State who 
+22 intend to return and reside in the State.  Coverage for emergency care obtained out of the 
+23 State must be at prevailing local rates.  Coverage for nonemergency care obtained out of 
+24 the State must be according to rates and conditions established by the board.  The board 
+25 may require that a resident be transported back to the State when prolonged treatment of 
+26 an emergency condition is necessary and when that transport will not adversely affect a 
+27 patient's care or condition.
+284.  Visitors.  Nonresidents visiting the State must be billed by the board for all services 
+29 received under the Maine Health Care Plan.  The board may enter into intergovernmental 
+30 arrangements or contracts with other states and countries to provide reciprocal coverage 
+31 for temporary visitors.
+325.  Nonresident employed in State.  The board shall extend eligibility for the plan to 
+33 nonresidents employed in this State under a premium schedule set by the board.
+346.  Business outside of State employing residents of State.  The board shall apply for 
+35 a federal waiver to collect the employer contribution mandated by federal law.
+367.  Retiree benefits.  All persons who are eligible for retiree medical benefits under an 
+37 employer-employee contract remain eligible for those benefits as long as the contractually 
+38 mandated payments for those benefits are made to the Maine Health Care Fund, which 
+39 assumes financial responsibility for care provided under the terms of the contract along 
+40 with additional health care benefits covered by the Maine Health Care Plan.  Retirees who 
+41 elect to reside out of the State are eligible for benefits under the terms and conditions of the 
+42 retirees' employer-employee contract.  The board may establish financial arrangements 
+43 with states and foreign countries in order to facilitate meeting the terms of the contracts 15
+Page 3 - 130LR0166(01)44 described in this subsection.  Payments for care provided by providers out of the State to 
+45 retirees of this State must be reimbursed at rates established by the Maine Health Care 
+46 Board.  Providers who accept any payment from the Maine Health Care Plan for a covered 
+47 service may not bill the patient for the covered service.
+58.  Presumptive eligibility.  The following provisions apply.
+6 A.  An individual is presumed eligible for coverage under the Maine Health Care Plan 
+7 if the individual arrives at a health care facility unconscious, comatose or otherwise 
+8 unable, because of the individual's physical or mental condition, to document eligibility 
+9 or to act on the individual's own behalf.  If the patient is a minor, the patient is presumed 
+10 eligible, and the health care facility shall provide care as if the patient were eligible.
+11 B.  An individual is presumed eligible for coverage under the Maine Health Care Plan 
+12 when brought to a health care facility licensed in this State for emergency care and 
+13 treatment in accordance with any provision of law providing for involuntary care and 
+14 treatment.
+15 C.  Any individual involuntarily committed to an acute psychiatric facility or to a 
+16 hospital with psychiatric beds in accordance with any provision of law providing for 
+17 involuntary commitment is presumed eligible for coverage under the Maine Health 
+18 Care Plan.
+19 D.  All health care facilities subject to state and federal provisions governing 
+20 emergency medical treatment shall comply with those provisions.
+219.  Data.  Data collected because an individual applies for or is enrolled in the Maine 
+22 Health Care Plan are confidential, but may be released to:
+23 A.  Providers for purposes of confirming enrollment and processing payments for 
+24 benefits; or
+25 B.  The State Auditor for purposes of the duties of that office.
+26§7504.  Benefits
+271.  General provisions.  Any eligible individual may choose to receive services under 
+28 the Maine Health Care Plan from any participating provider.
+292.  Covered benefits.  Covered health care benefits in this chapter include all medically 
+30 necessary care, subject to the limitations specified in this chapter.  Covered health care 
+31 benefits for Maine Health Care Plan enrollees include:
+32 A.  Inpatient and outpatient health care facility services;
+33 B.  Inpatient and outpatient professional health care provider services;
+34 C.  Diagnostic imaging, laboratory services and other diagnostic and evaluative 
+35 services;
+36 D.  Medical equipment, appliances and assistive technology, including prosthetics, 
+37 eyeglasses and hearing aids and repair, technical support and customization needed for 
+38 individual use;
+39 E.  Inpatient and outpatient rehabilitative care;
+40 F.  Emergency care services;
+41 G.  Emergency transportation;1
+2
+3
+4
+27
+28
+Page 4 - 130LR0166(01)1 H.  Necessary transportation for health care services for persons with disabilities or 
+2 who may qualify as persons with low income;
+3 I.  Child and adult immunizations and preventive care;
+4 J.  Health and wellness education;
+5 K.  Hospice care;
+6 L.  Care in a skilled nursing facility;
+7 M.  Home health care including health care provided in an assisted living facility;
+8 N.  Mental health services;
+9 O.  Substance use disorder treatment;
+10 P.  Dental care;
+11 Q.  Vision care;
+12 R.  Hearing care;
+13 S.  Prescription drugs;
+14 T.  Podiatric care;
+15 U.  Chiropractic care;
+16 V.  Acupuncture;
+17 W.  Therapies that are shown by the United States Department of Health and Human 
+18 Services, National Institutes of Health, National Center for Complementary and 
+19 Integrative Health to be safe and effective;
+20 X.  Blood and blood products;
+21 Y.  Dialysis;
+22 Z.  Adult day care;
+23 AA.  Rehabilitative and habilitative services;
+24 BB.  Ancillary health care or social services covered by the State's public health 
+25 programs prior to establishment of the Maine Health Care Plan;
+26 CC.  Case management and care coordination;
+27 DD.  Language interpretation and translation for health care services, including sign 
+28 language and Braille or other services needed for individuals with communication 
+29 barriers; and
+30 EE.  Those health care and long-term supportive services covered under the laws of 
+31 this State for persons receiving medical assistance from the State, including home and 
+32 community-based services provided under the MaineCare program or funded by the 
+33 State.
+343.  Benefit expansion.  The Maine Health Care Board may expand health care benefits 
+35 beyond the minimum benefits described in this section when expansion meets the intent of 
+36 this chapter and when there are sufficient funds to cover the expansion.
+374.  Cost sharing for the room and board portion of long-term care.  The Maine 
+38 Health Care Board shall develop income and asset qualifications based on state medical 
+39 assistance standards for covered benefits.  All health care services for long-term care in a 
+40 skilled nursing facility or assisted living facility are fully covered but room and board costs 
+41 may be charged to patients who do not meet income and asset qualifications.
+Page 5 - 130LR0166(01)15.  Exclusions.  The following health care services may be excluded from coverage by 
+2 the Maine Health Care Plan:
+3 A.  Health care services determined to have no medical benefit by the board;
+4 B.  Treatments and procedures primarily for cosmetic purposes, unless:
+5 (1)  Required to correct a congenital defect or restore or correct a part of the body 
+6 that has been altered as a result of injury, disease or surgery; or
+7 (2)  Determined to be medically necessary by a qualified, licensed health care 
+8 provider in the Maine Health Care Plan; and
+9 C.  Services of a health care provider or facility that is not licensed or accredited by the 
+10 State, except for approved services provided to a resident of this State who is 
+11 temporarily out of the State and for approved services provided to a resident of this 
+12 State if the services of a health care provider or facility in the State are not available to 
+13 provide those services.
+14§7505.  Patient care
+151.  Primary care.  All patients are entitled to have a primary care provider and have 
+16 access to care coordination.
+172.  Referrals not required.  Referrals are not required for a patient to see a health care 
+18 specialist.  If a patient sees a specialist and does not have a primary care provider, the Maine 
+19 Health Care Plan may assist with choosing a primary care provider.
+203.  Electronic registry.  The board may establish an electronic registry to assist patients 
+21 in identifying appropriate providers.
+22§7506.  Maine Health Care Fund
+231.  General provisions.  The board shall establish the Maine Health Care Fund to 
+24 implement the Maine Health Care Plan and to receive premiums and other sources of 
+25 revenue.  The fund must be administered by a director appointed by the Maine Health Care 
+26 Board.
+27 A.  All money collected, received and transferred according to this chapter must be 
+28 deposited in the Maine Health Care Fund.
+29 B.  Money deposited in the Maine Health Care Fund must be used to finance the Maine 
+30 Health Care Plan.
+31 C.  All claims for health care services rendered must be made to the Maine Health Care 
+32 Fund.
+33 D.  All payments made for health care services must be disbursed from the Maine 
+34 Health Care Fund.
+35 E.  Premiums and other revenues collected each year must be sufficient to cover that 
+36 year's projected costs.
+372.  Accounts.  The Maine Health Care Fund must have operating, capital and reserve 
+38 accounts.
+393.  Operating account.  The operating account in the Maine Health Care Fund 
+40 comprises the accounts specified in this subsection.15
+16
+23
+24
+25
+26
+Page 6 - 130LR0166(01)1 A.  The medical services account must be used to provide for all medical services and 
+2 benefits covered under the Maine Health Care Plan.
+3 B.  The prevention account must be used to establish and maintain primary community 
+4 prevention programs, including preventive screening tests.
+5 C.  The plan administration, evaluation, planning and assessment account must be used 
+6 to monitor and improve the plan's effectiveness and operations.  The board may 
+7 establish grant programs including demonstration projects for this purpose.
+8 D.  The training and development account must be used to incentivize the training and 
+9 development of health care providers and the health care workforce needed to meet the 
+10 health care needs of the population.
+11 E.  The health service research account must be used to support research and innovation 
+12 as determined by the Maine Health Care Board.
+134.  Capital account.  The capital account in the Maine Health Care Fund must be used 
+14 to pay for capital expenditures for institutional providers.
+155.  Reserve account.  The Maine Health Care Plan must at all times hold in the reserve 
+16 account an amount estimated in the aggregate to provide for the payment of all losses and 
+17 claims for which the Maine Health Care Plan may be liable and to provide for the expense 
+18 of adjustment or settlement of losses and claims.  Money currently held in reserve by state, 
+19 city and county health programs must be transferred to the Maine Health Care Fund when 
+20 the Maine Health Care Plan replaces those programs.  The board shall adopt rules to insure 
+21 the Maine Health Care Plan against unforeseen expenditures or revenue shortfalls not 
+22 covered by the reserve account.  The board may borrow money to cover temporary 
+23 shortfalls.
+24§7507.  Revenue sources
+251.  Maine Health Care Plan premium.  The Maine Health Care Board shall:
+26 A.  Determine the aggregate cost of providing health care according to this chapter;
+27 B.  Develop an equitable and affordable premium structure based on income, including 
+28 unearned income, and a business health tax based on payroll;
+29 C.  In consultation with the State Tax Assessor, develop an efficient means of collecting 
+30 premiums and the business health tax developed under paragraph B;
+31 D.  Coordinate with existing, ongoing funding sources from federal and state programs;
+32 E.  Base the premium structure developed under paragraph B on ability to pay; and
+33 F.  On or before January 15, 2022, submit to the Governor and the Legislature a report 
+34 on the premium structure and business health tax developed under paragraph B to 
+35 finance the Maine Health Care Plan.
+362.  Federal receipts.  All federal funding received by the State, including the premium 
+37 subsidies under the federal Affordable Care Act, is appropriated to the Maine Health Care 
+38 Fund to be used to administer the Maine Health Care Plan under this chapter.  Federal 
+39 funding that is received for implementing and administering the Maine Health Care Plan 
+40 must be used to provide health care for residents of this State.
+413.  Funds from outside sources.  Institutional providers operating under Maine Health 
+42 Care Plan operating budgets may raise and expend funds from sources other than the Maine 25
+Page 7 - 130LR0166(01)43 Health Care Plan including private donors.  Contributions to institutional providers in 
+44 excess of $500,000 must be reported to the board.
+34.  Governmental payments.  The Governor and, if required under federal law, the 
+4 Commissioner of Health and Human Services and the Commissioner of Economic and 
+5 Community Development shall seek all necessary waivers, exemptions, agreements and 
+6 legislation so that all applicable federal payments to the State, including the premium tax 
+7 credits under the federal Affordable Care Act, are paid directly to the Maine Health Care 
+8 Fund.  When all required waivers, exemptions, agreements and legislation are obtained, the 
+9 Maine Health Care Plan assumes responsibility for all health care benefits and health care 
+10 services previously paid for with federal funds.  In obtaining the waivers, exemptions, 
+11 agreements or legislation, the Governor and, if required, commissioners shall seek from the 
+12 Federal Government a contribution for health care services in the State that reflects: 
+13 medical inflation, the state gross domestic product, the size and age of the population of 
+14 the State, the number of residents of the State living below the poverty level and the number 
+15 of individuals in this State eligible for Medicare and services from the United States 
+16 Department of Veterans Affairs and that does not decrease in relation to the federal 
+17 contributions to other states as a result of the waivers, exemptions, agreements or savings 
+18 from implementation of the Maine Health Care Plan.
+195.  Federal preemption.  The board shall seek to secure a repeal or a waiver of any 
+20 provision of federal law that preempts any provision of this chapter.  The Commissioner of 
+21 Health and Human Services shall provide all necessary assistance.  In the application for 
+22 an innovation waiver under Section 1332 of the federal Affordable Care Act, the board 
+23 shall request to waive any provisions of the federal Social Security Act and any of the 
+24 following provisions of the federal Affordable Care Act to the extent necessary to 
+25 implement this Act:
+26 A.  In 42 United States Code, Sections 18021 to 18024;
+27 B.  In 42 United States Code, Sections 18031 to 18033;
+28 C.  In 42 United States Code, Section 18071; and
+29 D.  In 26 United States Code, Sections 36B and 5000A.
+30 The request for a waiver of the federal Social Security Act must seek authorization for the 
+31 Maine Health Care Plan to operate as a Medicare Advantage plan for eligible individuals.
+32 In the event that a repeal or a waiver of law or regulations cannot be secured, the board 
+33 shall adopt rules, or seek conforming state legislation or state plan amendments, consistent 
+34 with federal law, in an effort to best fulfill the purposes of this chapter.
+356.  Secondary to federal government programs.  The Maine Health Care Plan's 
+36 responsibility for providing care is secondary to existing federal government programs for 
+37 health care services to the extent that funding for these programs is not transferred to the 
+38 Maine Health Care Fund or that the transfer is delayed beyond the date on which initial 
+39 benefits are provided under the Maine Health Care Plan.
+407.  No cost sharing.  Except as provided in section 7504, subsection 4, no deductible, 
+41 copayment, coinsurance or other cost sharing may be imposed with respect to covered 
+42 benefits.1
+2
+Page 8 - 130LR0166(01)1§7508.  Subrogation
+21.  Collateral source.  When other payers for health care have been terminated, health 
+3 care costs must be collected from collateral sources whenever medical services provided to 
+4 an individual are, or may be, covered services under a policy of insurance, or other 
+5 collateral source available to that individual, or when the individual has a right of action 
+6 for compensation permitted under law.
+7 A.  As used in this section, "collateral source" includes:
+8 (1)  Health insurance policies and the medical components of automobile, 
+9 homeowner's and other forms of insurance;
+10 (2)  Medical components of workers' compensation;
+11 (3)  Pension plans;
+12 (4)  Employer plans;
+13 (5)  Employee benefit contracts;
+14 (6)  Government benefit programs;
+15 (7)  A judgment for damages for personal injury;
+16 (8)  The state of last domicile for individuals moving to the State for medical care 
+17 who have extraordinary medical needs; and
+18 (9)  Any 3rd party who is or may be liable to an individual for health care services 
+19 or costs.
+20 B.  As used in this section, "collateral source" does not include:
+21 (1)  A contract or plan that is subject to federal preemption; or
+22 (2)  Any governmental unit, agency or service to the extent that subrogation is 
+23 prohibited by law.  An entity described in paragraph A is not excluded from the 
+24 obligations imposed by this section by virtue of a contract or relationship with a 
+25 governmental unit, agency or service.
+26 C.  The board shall negotiate waivers, seek federal legislation or make other 
+27 arrangements to incorporate collateral sources into the Maine Health Care Plan.
+282.  Notification.  When an individual who receives health care services under the 
+29 Maine Health Care Plan is entitled to coverage, reimbursement, indemnity or other 
+30 compensation from a collateral source, the individual shall notify the health care provider 
+31 and provide information identifying the collateral source, the nature and extent of coverage 
+32 or entitlement and other relevant information.  The health care provider shall forward this 
+33 information to the board.  The individual entitled to coverage, reimbursement, indemnity 
+34 or other compensation from a collateral source shall provide additional information as 
+35 requested by the board.
+363.  Reimbursement.  The Maine Health Care Board shall seek reimbursement from 
+37 the collateral source for services provided to the individual and may institute appropriate 
+38 action, including legal proceedings, to recover the reimbursement.  Upon demand, the 
+39 collateral source shall pay to the Maine Health Care Fund the sums it would have paid or 
+40 expended on behalf of the individual for the health care services provided by the Maine 
+41 Health Care Plan.2
+3
+4
+5
+6
+Page 9 - 130LR0166(01)1 A.  In addition to any other right to recovery provided in this section, the board has the 
+2 same right to recover the reasonable value of health care benefits from a collateral 
+3 source as provided to the Commissioner of Health and Human Services.
+4 B.  If a collateral source is exempt from subrogation or the obligation to reimburse the 
+5 Maine Health Care Plan, the board may require that an individual who is entitled to 
+6 medical services from the source first seek those services from that source before 
+7 seeking those services from the Maine Health Care Plan.
+8 C.  To the extent permitted by federal law, the board has the same right of subrogation 
+9 over contractual retiree health care benefits provided by employers as other contracts, 
+10 allowing the Maine Health Care Plan to recover the cost of health care services 
+11 provided to individuals covered by the retiree benefits, unless arrangements are made 
+12 to transfer the revenues of the health care benefits directly to the Maine Health Care 
+13 Fund.
+144.  Defaults, underpayments and late payments.  Default, underpayment or late 
+15 payment of any tax or other obligation imposed by this chapter results in the remedies and 
+16 penalties provided by law, except as provided in this section.  Eligibility for health care 
+17 benefits under this chapter may not be impaired by any default, underpayment or late 
+18 payment of any premium or other obligation imposed by this chapter.
+19§7509.  Provider payments
+201.  General provisions.  All health care providers licensed to practice in this State, and 
+21 other providers as determined by the board, may participate in the Maine Health Care Plan.  
+22 A participating health care provider shall comply with all federal laws and regulations 
+23 governing referral fees and fee splitting, including, but not limited to, 42 United States 
+24 Code, Sections 1320a-7b and 1395nn, whether reimbursed by federal funds or not.  A fee 
+25 schedule or financial incentive may not adversely affect the care a patient receives or the 
+26 care a health care provider recommends.
+272.  Payments to noninstitutional providers.  The Maine Health Care Board shall 
+28 establish and oversee a fair and efficient payment system for noninstitutional providers in 
+29 accordance with this subsection.
+30 A.  The board shall pay noninstitutional providers based on rates negotiated with 
+31 providers.  Rates must take into account the need to address provider shortages.
+32 B.  The board shall establish payment criteria and methods of payment for care 
+33 coordination for patients, especially those with chronic illness and complex medical 
+34 needs.
+35 C.  Providers who accept any payment from the Maine Health Care Plan for a covered 
+36 health care service may not bill the patient for the covered health care service.
+37 D.  Providers must be paid within 30 business days for claims filed following 
+38 procedures established by the board.
+393.  Payments to institutional providers.  The board shall set annual budgets for 
+40 institutional providers.  These budgets must consist of an operating and a capital budget.  
+41 An institution's annual budget must be set to cover its anticipated health care services for 
+42 the next year based on past performance and projected changes in prices and health care 
+43 service levels.  The annual budget for each individual institutional provider must be set 
+44 separately.  The board may not set a joint budget for a group of more than one institutional 20
+21
+22
+23
+24
+25
+26
+Page 10 - 130LR0166(01)45 provider nor for a parent corporation that owns or operates one or more institutional 
+46 providers.
+34.  No balance billing.  Providers who accept any payment from the Maine Health 
+4 Care Plan for a covered health care service may not bill the patient for the covered health 
+5 care service.
+65.  Capital investment plan.  The board shall periodically develop a capital investment 
+7 plan that will serve as a guide in determining the annual budgets of institutional providers 
+8 and in deciding whether to approve applications for approval of capital expenditures by 
+9 noninstitutional providers.  Providers who propose to make capital purchases in excess of 
+10 $500,000 must obtain board approval.  The board may alter the threshold expenditure level 
+11 that triggers the requirement to submit information on capital expenditures.  Institutional 
+12 providers shall propose these expenditures and submit the required information as part of 
+13 the annual budget they submit to the board.  Noninstitutional providers shall submit 
+14 applications for approval of these expenditures to the board.  The board shall respond to 
+15 capital expenditure applications in a timely manner.
+16§7510.  Maine Health Care Board
+171.  Establishment.  The Maine Health Care Board is established to promote the 
+18 delivery of high-quality, coordinated health care services that enhance health; prevent 
+19 illness, disease and disability; slow the progression of chronic diseases; and improve 
+20 personal health management.  The board shall administer the Maine Health Care Plan.
+212.  Board composition.  The board consists of 17 members, appointed by the Governor 
+22 subject to review by the joint standing committee of the Legislature having jurisdiction 
+23 over health coverage matters and to confirmation by the Legislature, as follows:
+24 A.  Five patient members and 5 employer members; and
+25 B.  Seven providers that include 3 physicians, at least one of whom must be a primary 
+26 care physician, one registered nurse, one mental health provider, one dentist and one 
+27 health care facility director.
+283.  Term and compensation; selection of chair.  Board members serve 4-year terms.  
+29 Board members shall set the board's compensation at an amount not to exceed the 
+30 compensation of Public Utilities Commission members.  The board shall select the chair 
+31 from its membership.
+324.  General duties.  The board shall:
+33 A.  Ensure that all of the requirements of this chapter are met;
+34 B.  Hire a chief executive officer for the Maine Health Care Plan to administer all 
+35 aspects of the plan as directed by the board;
+36 C.  Hire a director for the Maine Health Care Fund;
+37 D.  Conduct necessary investigations and inquiries and require the submission of 
+38 information, documents and records the board considers necessary to carry out the 
+39 purposes of this chapter;
+40 E.  Establish a process for the board to receive the concerns, opinions, ideas and 
+41 recommendations of the public regarding all aspects of the Maine Health Care Plan and 
+42 establish the means of addressing those concerns;
+43 F.  Establish regional planning boards to assist the board in carrying out its duties;1
+2
+17
+18
+19
+20
+Page 11 - 130LR0166(01)1 G.  Establish an ombudsman position to represent the interests of consumers of health 
+2 care and to advocate on behalf of consumers;
+3 H.  Establish a grievance process for complaints by enrollees in the Maine Health Care 
+4 Plan;
+5 I.  Conduct activities the board considers necessary to carry out the purposes of this 
+6 chapter;
+7 J.  Collaborate with the Maine Health Data Organization and the Maine Quality Forum 
+8 to assist the board in carrying out the purposes of this chapter;
+9 K.  Collaborate with the agencies that license health care facilities to ensure that facility 
+10 performance is monitored and that deficient practices are recognized and corrected in 
+11 a timely manner;
+12 L.  Adopt rules as necessary to carry out the duties assigned under this chapter;
+13 M.  Establish conflict-of-interest standards prohibiting providers from any financial 
+14 benefit from their medical decisions outside of board reimbursement;
+15 N.  Establish conflict-of-interest standards related to pharmaceutical marketing to 
+16 providers;
+17 O.  Require that all electronic health records used by providers be fully interoperable 
+18 with the open-source electronic health records system used by the United States 
+19 Department of Veterans Affairs; 
+20 P.  Develop and implement a displaced worker support program to provide financial 
+21 help and assistance in retraining and job placement to the state workers who may be 
+22 displaced because of the administrative efficiencies of the Maine Health Care Plan.  To 
+23 alleviate staffing displacements in the medical field, the displaced worker support 
+24 program must emphasize retraining and placement into health care-related positions if 
+25 appropriate.  As residents of this State, all displaced workers must be covered under 
+26 the Maine Health Care Plan; and
+27 Q.  Develop and implement a program to negotiate prices paid by the Maine Health 
+28 Care Plan for covered pharmaceuticals, medical supplies, including biological 
+29 products, and medically necessary assistive equipment at the lowest possible cost on 
+30 an annual basis.
+315.  Waiver request duties.  Before submitting an application for an innovation waiver 
+32 under Section 1332 of the federal Affordable Care Act, the board shall do the following, as 
+33 required by federal law:
+34 A.  Conduct or contract for any necessary actuarial analyses and actuarial certifications 
+35 needed to support the board's estimates that the waiver will comply with the 
+36 comprehensive coverage, affordability and scope of coverage requirements in federal 
+37 law;
+38 B.  Conduct or contract for any necessary economic analyses needed to support the 
+39 board's estimates that the waiver will comply with the comprehensive coverage, 
+40 affordability, scope of coverage and federal deficit requirements in federal law.  These 
+41 analyses must include:
+42 (1)  A detailed 10-year budget plan; and
+Page 12 - 130LR0166(01)1 (2)  A detailed analysis regarding the estimated impact of the waiver on health 
+2 insurance coverage in the State;
+3 C.  Establish a detailed draft implementation timeline for the waiver; and
+4 D.  Establish quarterly, annual and cumulative targets for the comprehensive coverage, 
+5 affordability, scope of coverage and federal deficit requirements in federal law.
+66.  Financial duties.  The board shall:
+7 A.  Establish and collect premiums and the business health tax according to this 
+8 chapter;
+9 B.  Approve statewide and regional budgets that include budgets for accounts in 
+10 accordance with this chapter;
+11 C.  Negotiate and establish payment rates for providers;
+12 D.  Monitor compliance with all budgets and payment rates;
+13 E.  Pay claims for medical products or services as negotiated, and may issue requests 
+14 for proposals from state nonprofit business corporations for a contract to process 
+15 claims;
+16 F.  Seek federal approval to bill other states for health care coverage provided to 
+17 residents from out of the State who come to the State for long-term care or other costly 
+18 treatment when the resident's home state fails to provide such coverage, unless a 
+19 reciprocal agreement with those states to provide similar coverage to residents of this 
+20 State relocating to those states is negotiated;
+21 G.  Administer the Maine Health Care Fund;
+22 H.  Annually determine the appropriate level for the Maine Health Care Plan reserve 
+23 account under section 7506, subsection 5 and implement policies needed to establish 
+24 the appropriate reserve;
+25 I.  Implement fraud prevention measures necessary to protect the operation of the 
+26 Maine Health Care Plan; and
+27 J.  Work to ensure appropriate cost control by:
+28 (1)  Instituting aggressive public health measures, early intervention and preventive 
+29 care, health and wellness education and promotion of personal health 
+30 improvement;
+31 (2)  Making changes in the delivery of health care services and administration that 
+32 improve efficiency and care quality;
+33 (3)  Minimizing administrative costs;
+34 (4)  Ensuring that the delivery system does not contain excess capacity; and
+35 (5)  Negotiating the lowest possible prices for prescription drugs, medical 
+36 equipment and medical services.
+37 If the board determines that there will be a revenue shortfall despite the cost control 
+38 measures mentioned in paragraph J, the board shall implement measures to correct the 
+39 shortfall, including an increase in premiums and other revenues.  The board shall report to 
+40 the Legislature on the causes of the shortfall, reasons for the inadequacy of cost controls 
+41 and measures taken to correct the shortfall.
+427.  Management duties.  The board shall:
+Page 13 - 130LR0166(01)1 A.  Develop and implement enrollment procedures for the Maine Health Care Plan;
+2 B.  Implement eligibility standards for the Maine Health Care Plan;
+3 C.  Arrange for health care to be provided at convenient locations, including ensuring 
+4 the availability of school nurses so that all students have access to health care, 
+5 immunizations and preventive care at public schools and encouraging providers to 
+6 open small health clinics at larger workplaces and retail centers;
+7 D.  Establish an electronic claims and payments system for the Maine Health Care 
+8 Plan;
+9 E.  Monitor the operation of the Maine Health Care Plan through consumer surveys 
+10 and regular data collection and evaluation activities, including evaluations of the 
+11 adequacy and quality of services furnished under the plan, the need for changes in the 
+12 benefit package, the cost of each type of service and the effectiveness of cost control 
+13 measures under the plan;
+14 F.  Disseminate information and establish a publicly accessible health care website to 
+15 provide information to the public about the Maine Health Care Plan;
+16 G.  Collaborate with public health agencies, schools and community clinics;
+17 H.  Ensure that Maine Health Care Plan policies and providers, including public health 
+18 providers, support all residents of this State in achieving and maintaining optimum 
+19 physical and mental health; and
+20 I.  Annually report to the joint standing committee of the Legislature having jurisdiction 
+21 over health coverage matters on the performance of the Maine Health Care Plan, the 
+22 fund's fiscal condition and need for payment adjustments, recommendations for 
+23 statutory changes, receipt of revenue from all sources, whether current year goals and 
+24 priorities are met, future goals and priorities, major new technology or prescription 
+25 drugs and other circumstances that may affect the cost or quality of health care.
+268.  Policy duties.  The board shall:
+27 A.  Develop and implement cost control and quality assurance procedures;
+28 B.  Implement policies to ensure strong public health services including education and 
+29 community-based preventive health care and clinical services;
+30 C.  Implement policies to ensure a continuum of coordinated high-quality primary to 
+31 tertiary care to all residents of this State; and
+32 D.  Implement policies to ensure that all residents of this State receive culturally and 
+33 linguistically competent care.
+349.  Self-insurance.  The board shall determine the feasibility of self-insuring providers 
+35 for malpractice and shall establish a self-insurance system and create a special fund for 
+36 payment of losses incurred if the board determines self-insuring providers would reduce 
+37 costs.
+3810.  Audit.  The Maine Health Care Plan must be audited annually by the State Auditor.  
+39 The board may, in its discretion, arrange for an independent audit to be conducted.  A copy 
+40 of the audit must be provided to the State Controller, to the joint standing committee of the 
+41 Legislature having jurisdiction over appropriations and financial affairs and to the joint 
+42 standing committee of the Legislature having jurisdiction over health coverage matters.
+Page 14 - 130LR0166(01)1§7511.  Implementation
+2 The Maine Health Care Plan must be operational beginning January 1, 2024.  
+3 Beginning on the date the Maine Health Care Plan becomes operational, a health care plan 
+4 may not be sold in this State for services provided by the Maine Health Care Plan.
+5SUMMARY
+6 This bill establishes the Maine Health Care Plan to provide universal health care 
+7 coverage to all residents of this State.  The bill is modeled on proposed legislation 
+8 considered in Minnesota.2
+3
+4
+6
+7
+8

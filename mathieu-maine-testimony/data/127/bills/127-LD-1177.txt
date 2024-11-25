@@ -1,0 +1,947 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1177  
+H.P. 809  House of Representatives, April 1, 2015  
+ 
+ 
+An Act To Enact the Recommendations of the Probate and Trust 
+Law Advisory Commission Regarding the Maine Uniform Fiduciary 
+Access to Digital Assets Act  
+ 
+ 
+ 
+ 
+Reported by Representative HOBBINS of Saco for the Joint Standing Committee on 
+Judiciary pursuant to Resolve 2013, chapter 27, section 2.  
+Reference to the Committee on Judici ary suggested and ordered printed pursuant to Joint 
+Rule 218.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR0312(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+PART A  2 
+UNIFORM FIDUCIARY ACCESS TO DIGITAL ASSETS ACT  3 
+PREFATORY NOTE  4 
+The purpose of this act is to vest fiduciaries with the authority to access, control, or 5 
+copy digital assets and accounts.  T he act applies only to fiduciaries, who must always act 6 
+in compliance with their fiduciary powers and duties.  The goal of the Uniform Fiduciary 7 
+Access to Digital Assets Act (UFADAA) is to remove barriers to a fiduciary's access to 8 
+electronic records and t o leave unaffected other law, such as fiduciary, probate, trust, 9 
+banking, investment securities, and agency law.  Existing law prohibits any fiduciary 10 
+from violating fiduciary responsibilities by divulging or publicizing any information the 11 
+fiduciary obtai ns while carrying out his or her fiduciary duties.  12 
+UFADAA addresses four different types of fiduciaries: personal representatives of 13 
+decedents' estates, conservators for protected persons and individuals, agents acting 14 
+pursuant to a power of attorney, and trustees.  It distinguishes the authority of fiduciaries, 15 
+which exercise authority subject to this act only on behalf of the account holder, from any 16 
+other efforts to access the digital assets.  Family members or friends may seek such 17 
+access, but, unless t hey are fiduciaries, their efforts are subject to other laws and are not 18 
+covered by this act.  19 
+As the number of digital assets held by the average person increases, questions 20 
+surrounding the disposition of these assets upon the individual's death or incapac ity are 21 
+becoming more common.  Few laws exist on the rights of fiduciaries over digital assets.  22 
+Few holders of digital assets and accounts consider the fate of their online presences once 23 
+they are no longer able to manage their assets.  And these assets h ave real value: 24 
+according to a 2011 survey from McAfee, Intel's security -technology unit, American 25 
+consumers valued their digital assets, on average, at almost $55,000.  Kelly Greene, 26 
+Passing Down Digital Assets , WALL STREET JOURNAL  (Aug. 31, 2012), 27 
+http://goo.gl/7KAaOm .  These assets range from online gaming items to photos, to 28 
+digital music, to client lists.  There are millions of Internet accounts that belong to dead 29 
+people.  Some Internet service providers have expli cit policies on what will happen when 30 
+an individual dies, others do not; even where these policies are included in the 31 
+terms -of-service agreement, most consumers click through these agreements.  32 
+The situation regarding fiduciaries' access to digital assets is less than clear, and is 33 
+subject to federal and state privacy and computer "hacking" laws as well as state probate 34 
+law.  A minority of states has enacted legislation on fiduciary access to digital assets, and 35 
+numerous other states have considered, or are  considering, legislation.  Existing 36 
+legislation differs with respect to the types of digital assets covered, the rights of the 37 
+fiduciary, the category of fiduciary included, and whether the principal's death or 38 
+incapacity is covered.  A uniform approach a mong states will provide certainty and 39 
+predictability for courts, account holders, fiduciaries, and Internet service providers.  It 40 
+gives states precise, comprehensive, and easily accessible guidance on questions 41 
+ 
+ Page 2 - 127LR0312(01) -1 
+ concerning fiduciaries' ability to access t he electronic records of a decedent, protected 1 
+person, principal, or a trust.  For issues on which states diverge or on which the law is 2 
+unclear or unknown, the act will for the first time provide uniform rules.  3 
+The general goal of the act is to facilitate  fiduciary access while respecting the 4 
+privacy and intent of the account holder.  It adheres to the traditional approach of trusts 5 
+and estates law, which respects the intent of the account holder and promotes the 6 
+fiduciary's ability to administer the accou nt holder's property in accord with legally - 7 
+binding fiduciary duties.  8 
+With regard to the general scope of the act, the act's coverage is inherently limited by 9 
+the definition of "digital assets."  The act applies only to electronic records, which do not 10 
+include the underlying asset or liability unless it is itself an electronic record.  11 
+The act is divided into fifteen sections.  Sections 1 -2 contain general provisions and 12 
+definitions, including those relating to the scope of the fiduciary's authority.  13 
+Section  3 governs applicability, clarifying the scope of the act and the fiduciaries who 14 
+have access to digital assets under UFADAA.  Section 3 states that the act does not apply 15 
+to the digital assets of an employer used by an employee during the ordinary course of 16 
+business.  17 
+Sections 4 -7 establish the rights of personal representatives, conservators, agents 18 
+acting pursuant to a power of attorney, and trustees.  Each of the fiduciaries is subject to 19 
+different opt -in and default rules based on the presumed intent of  the account holder and 20 
+the applicability of other state and federal laws.  A personal representative is presumed to 21 
+have access to all of the decedent's digital assets unless that is contrary to the decedent's 22 
+expressed intent or to other applicable law.  A conservator may access digital assets 23 
+pursuant to a court order.  An agent acting pursuant to a power of attorney is presumed to 24 
+have access to all of a principal's digital assets not subject to the protections of other 25 
+applicable law; if another law pr otects the asset, then the power of attorney must 26 
+explicitly grant access.  And a trustee may access any digital asset held by the trust unless 27 
+that is contrary to the terms of the trust or to other applicable law.  28 
+Section 8 contains general provisions rel ating to the rights of the fiduciary to access 29 
+digital assets.  Section 9 addresses compliance, and Section 10 grants immunity to 30 
+custodians.  Sections 11 -15 address miscellaneous topics, including retroactivity, the 31 
+effective date of the act, and similar issues.  The act addresses only the rights of the four 32 
+types of fiduciaries, and it is designed to provide access without changing the ownership 33 
+of the digital asset.  34 
+Sec. A -1.  18-A MRSA, art. 10 is enacted to read:  35 
+ARTICLE 10  36 
+ 
+ Page 3 - 127LR0312(01) -1 
+ MAINE UNIFORM FIDUCI ARY ACCE SS TO DIGITAL ASSETS  ACT  1 
+§10-101.  Short title  2 
+This Act may be known and cited as "the Maine Uniform Fiduciary Access to Digital 3 
+Assets Act."  4 
+§10-102.  Definitions  5 
+As used in this Act, unless the context otherwise indicates, the following terms have 6 
+the fo llowing meanings.  7 
+(a).  "Account holder" means a person that has entered into a terms of service 8 
+agreement with a custodian or a fiduciary for the person.  9 
+(b).  "Agent" means an attorney in fact granted authority under a durable or 10 
+nondurable power of atto rney.  11 
+(c).  "Carries" means engages in the transmission of electronic communications.  12 
+(d).  "Catalogue of electronic communications" means information that identifies 13 
+each person with which an account holder has had an electronic communication, the time 14 
+and date of the communication and the electronic address of the person.  15 
+(e).  "Conservator" means a person appointed by a court to manage the estate of a 16 
+living individual.  The term includes a limited conservator.  17 
+(f).  "Content of an electronic communicati on" means information concerning the 18 
+substance or meaning of the communication that:  19 
+(1).  Has been sent or received by an account holder;  20 
+(2).  Is in electronic storage by a custodian providing an electronic communication 21 
+service to the public or is carri ed or maintained by a custodian providing a remote 22 
+computing service to the public; and  23 
+(3).  Is not readily accessible to the public.  24 
+(g).  "Court" means any one of the several courts of probate of this State established 25 
+as provided in Title 4, sections 2 01 and 202.  26 
+(h).  "Custodian" means a person that carries, maintains, processes, receives or stores 27 
+a digital asset of an account holder.  28 
+(i).  "Digital asset" means a record that is electronic.  The term does not include an 29 
+underlying asset or liability u nless the asset or liability is itself a record that is electronic.  30 
+(j).  "Electronic" means relating to technology having electrical, digital, magnetic, 31 
+wireless, optical, electromagnetic or similar capabilities.  32 
+(k).  "Electronic communication" has the s ame meaning as the definition in 18 United 33 
+States Code, Section 2510(12).  34 
+ 
+ Page 4 - 127LR0312(01) -1 
+ (l).  "Electronic communication service" means a custodian that provides to an 1 
+account holder the ability to send or receive an electronic communication.  2 
+(m).  "Fiduciary" means an o riginal, additional or successor personal representative, 3 
+conservator, agent or trustee.  4 
+(n).  "Governing instrument" means a will, trust, instrument creating a power of 5 
+attorney or other dispositive or nominative instrument.  6 
+(o).  "Information" means data , text, images, videos, sounds, codes, computer 7 
+programs, software and databases or the like.  8 
+(p).  "Person" means an individual, estate, business or nonprofit entity, public 9 
+corporation, government or governmental subdivision, agency or instrumentality or  other 10 
+legal entity.  11 
+(q).  "Personal representative" means an executor, administrator, special 12 
+administrator or person that performs substantially the same function under the laws of 13 
+this State other than this Act.  14 
+(r).  "Power of attorney" means a record that grants an agent authority to act in the 15 
+place of a principal.  16 
+(s).  "Principal" means an individual who grants authority to an agent in a power of 17 
+attorney.  18 
+(t).  "Protected person" means an individual for whom a conservator has been 19 
+appointed.  The t erm includes an individual for whom an application for the appointment 20 
+of a conservator is pending.  21 
+(u).  "Record" means information that is inscribed on a tangible medium or that is 22 
+stored in an electronic or other medium and is retrievable in perceivable  form.  23 
+(v).  "Remote computing service" means a custodian that provides to an account 24 
+holder computer processing services or the storage of digital assets by means of an 25 
+electronic communications system, as defined in 18 United States Code, Section 26 
+2510(14 ). 27 
+(w).  "Terms of service agreement" means an agreement that controls the relationship 28 
+between an account holder and a custodian.  29 
+(x).  "Trustee" means a fiduciary with legal title to property pursuant to an agreement 30 
+or declaration that creates a benefic ial interest in another.  The term includes a successor 31 
+trustee.  32 
+(y).  "Will" includes a codicil, testamentary instrument that only appoints an executor 33 
+and instrument that revokes or revises a testamentary instrument.  34 
+Comment  35 
+(Maine section 10 -102 is base d on the Uniform Fiduciary Access to Digital Assets 36 
+ 
+ Page 5 - 127LR0312(01) -1 
+ Act section 2.)  1 
+Many of the definitions are based on those in the Uniform Probate Code: agent (UPC 2 
+Section 1 -201(1)), conservator (UPC Section 5 -102(1)), court (UPC Section 1 -201(8)), 3 
+electronic (UPC Sect ion 5B -102(3)), fiduciary (UPC Section 1 -201(15)), governing 4 
+instrument (UPC Section 1 -201(18)), person (UPC Section 5B -101(6)), personal 5 
+representative (UPC Section 1 -201(35)), power of attorney (UPC Section 5B -102(7)), 6 
+principal (UPC Section 5B -102(9)), property (UPC Section 1 -201(38)), protected person 7 
+(UPC Section 5 -102(8)), record (UPC Section 1 -201(41)), and will (UPC Section 8 
+1-201(57)).  The definition of "information" is based on that in the Uniform Electronic 9 
+Transactions Act, Section 2, subsection  (11).  Many of the other definitions are either 10 
+drawn from federal law, as discussed below, or are new for this act.  11 
+An account holder includes any person who entered into a terms -of-service 12 
+agreement with a custodian, including a deceased individual who entered into the 13 
+agreement during the individual's lifetime.  A fiduciary is defined as a person, and a 14 
+fiduciary can be an account holder when the fiduciary opens the account.  15 
+The definition of "carries" is drawn from federal law, 47 U.S.C. Section 1001(8 ). 16 
+The term "catalogue of electronic communications" in Section 2(4) is designed to 17 
+cover log -type information about an electronic communication such as the email 18 
+addresses of the sender and the recipient, and the date and time the communication was 19 
+sent.   20 
+The term "content of an electronic communication" in Section 2(6) is adapted from 21 
+18 U.S.C. Section 2510(8), which provides that content: "when used with respect to any 22 
+wire, oral, or electronic communication, includes any information concerning the 23 
+substance, purport, or meaning of that communication."  The 2(6) definition is designed 24 
+to cover only content subject to the coverage of Section 2702 of the Electronic 25 
+Communications Privacy Act (ECPA), 18 U.S.C. Section 2510 et seq.; it does not include 26 
+conte nt not subject to ECPA.  Consequently, the "content of an electronic 27 
+communication", as used later throughout UFADAA, refers only to information in the 28 
+body of an electronic message that is not readily accessible to the public; if the 29 
+information were read ily accessible to the public, it would not be subject to the privacy 30 
+protections of federal law under ECPA.  See S. Rep. No. 99 -541, at 36 (1986).  When the 31 
+privacy protections of federal law under ECPA apply to the content of an electronic 32 
+communication, the act's legislative history notes the requirements for disclosure: "Either 33 
+the sender or the receiver can directly or through authorized agents authorize further 34 
+disclosures of the contents of their electronic communication."  S. Rep. No. 99 -541, at 37 35 
+(1986).  36 
+ECPA does not apply to private e -mail service providers, such as employers and 37 
+educational institutions.  See 18 U.S.C. Section 2702(a)(2); James D. Lamm, Christina L. 38 
+Kunz, Damien A. Riehl and Peter John Rademacher, The Digital Death Conundrum: 39 
+How  Federal and State Laws Prevent Fiduciaries from Managing Digital Property , 68 U. 40 
+Miami L. Rev. 385, 404 (2014) (available at: http://goo.gl/T9jX1d ). 41 
+Example:  X uses a Twitter account to send a message. If the tweet is sent only to 42 
+ 
+ Page 6 - 127LR0312(01) -1 
+ other people who have been granted access to X's tweets, then it meets the Act's 1 
+definition of "content of an electronic communication." But, if the tweet is completely 2 
+public with no access restrictions, then it does not meet the  Act's definition of "content of 3 
+an electronic communication."  4 
+ A custodian includes any Internet service provider as well as any other entity that 5 
+provides or stores electronic data of an account holder.  A custodian does not include 6 
+most employers becaus e an employer typically does not have a terms -of-service 7 
+agreement with an employee.  The treatment of digital assets of an employer used by an 8 
+employee in the ordinary course of the employer's business is discussed in Section 3.  9 
+The definition of a digita l asset specifies that it is "a record that is electronic."  10 
+Because records may exist in both electronic and non -electronic formats, this definition 11 
+clarifies the scope of the act and the limitation on the type of records to which it applies.  12 
+The term in cludes products currently in existence and yet to be invented that are available 13 
+only electronically.  It refers to any type of electronically -stored information, such as: 1) 14 
+any information stored on a computer and other digital devices; 2) content upload ed onto 15 
+websites, ranging from photos to documents; and 3) rights in digital property, such as 16 
+domain names or digital entitlements associated with online games.  See Lamm, et al, 17 
+supra , at 388.  Both the catalogue and content of an electronic communicatio n are 18 
+covered by the term "digital assets."  19 
+The fiduciary's access to a record defined as a "digital asset" does not mean that the 20 
+fiduciary is entitled to "own" the asset or otherwise engage in transactions with the asset.  21 
+Consider, for example, funds in  a bank account or securities held with a broker or other 22 
+custodian, regardless of whether the bank, broker, or custodian has a brick -and-mortar 23 
+presence.  This act affects records concerning the bank account or securities, but does not 24 
+affect the authorit y to engage in transfers of title or other commercial transactions in the 25 
+funds or securities, even though such transfers or other transactions might occur 26 
+electronically.  UFADAA simply reinforces the right of the fiduciary to access all 27 
+relevant electron ic communications and the online account that provides evidence of 28 
+ownership or similar rights.  An entity may not refuse to provide access to online records 29 
+any more than the entity can refuse to provide the fiduciary with access to hard copy 30 
+records.  31 
+The definition of "electronic communication" in Section 2(11) is that set out in 18 32 
+U.S.C. Section 2510(12):  33 
+"electronic communication" means any transfer of signs, signals, writing, images, 34 
+sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, 35 
+radio, electromagnetic, photoelectronic or photooptical system that affects interstate 36 
+or foreign commerce, but does not include — 37 
+(A) any wire or oral communication;  38 
+(B) any communication made through a tone -only paging device;  39 
+(C) any c ommunication from a tracking device (as defined in section 3117 of 40 
+this title); or  41 
+(D) electronic funds transfer information stored by a financial institution in a 42 
+communications system used for the electronic storage and transfer of funds.  43 
+ 
+ Page 7 - 127LR0312(01) -1 
+ The definition of "electronic -communication service" in Section 2(12) is drawn from 1 
+18 U.S.C. Section 2510(15): "any service which provides to users thereof the ability to 2 
+send or receive wire or electronic communications."  The definition of 3 
+"remote -computing service" i n Section 2(22) is adapted from 18 U.S.C. Section 2711(2): 4 
+"the provision to the public of computer storage or processing services by means of an 5 
+electronic communications system." The definition refers to 18 U.S.C. Section 2510(14), 6 
+which defines an elect ronic communications system as: "any wire, radio, electromagnetic, 7 
+photooptical or photoelectronic facilities for the transmission of wire or electronic 8 
+communications, and any computer facilities or related electronic equipment for the 9 
+electronic storage of such communications."  10 
+Electronic communication is a particular type of digital asset and covers only the 11 
+category of digital assets subject to the privacy protections of the Electronic 12 
+Communications Privacy Act.  For example, material stored on a compu ter's hard drive is 13 
+a digital asset but not an electronic communication.  14 
+A "fiduciary" under this act occupies a status recognized by state law, and a 15 
+fiduciary's powers under this act are subject to the relevant limits established by other 16 
+state laws.  Th e definition of fiduciary specifically applies to "each person" in order to 17 
+cover co -fiduciaries.  18 
+The term "record" includes information available in both tangible and electronic 19 
+media.  The act applies only to electronic records.  20 
+The "terms -of-service agr eement" definition relies on the definition of "agreement" 21 
+found in UCC Section 1 -201(b)(3) ("the bargain of the parties in fact, as found in their 22 
+language or inferred from other circumstances, including course of performance, course 23 
+of dealing, or usage of trade").  It refers to any agreement that controls the relationship 24 
+between an account holder and a custodian, even though it might be called a terms -of-use 25 
+agreement, a click -wrap agreement, a click -through license, or a similar term.  State and 26 
+federa l law determine capacity to enter into a binding terms -of-service agreement.  27 
+§10-103.  Applicablity  28 
+(a).  This Act applies to:  29 
+(1).  A fiduciary or agent acting under a will or power of attorney executed before, on 30 
+or after January 1, 2016;  31 
+(2).  A persona l representative acting for a decedent who died before, on or after 32 
+January 1, 2016;  33 
+(3).  A conservatorship proceeding, whether pending in a court or commenced before, 34 
+on or after January 1, 2016; and  35 
+(4).  A trustee acting under a trust created before, o n or after the effective date of this 36 
+Act. 37 
+(b).  This Act does not apply to a digital asset of an employer used by an employee in 38 
+the ordinary course of the employer's business.  39 
+ 
+ Page 8 - 127LR0312(01) -1 
+ Comment  1 
+(Maine section 10 -103 is based on the Uniform Fiduciary Access to Digi tal Assets 2 
+Act Section 3.)  3 
+This act does not change the substantive rules of other law, such as agency, banking, 4 
+conservatorship, contract, copyright, criminal, fiduciary, privacy, probate, property, 5 
+security, trust, or other applicable law except to vest fiduciaries with authority, according 6 
+to the provisions of this act, to access, control, or copy digital assets of a decedent, 7 
+protected person (or other individual under Section 5), principal, settlor, or trustee.  8 
+Subsection (a)(2) covers the situations i n which a decedent dies intestate, so it falls 9 
+outside of subsection (a)(1), as well as the situations in which a state's procedures for 10 
+small estates are used.  11 
+Subsection (b) clarifies that the act does not apply to a fiduciary's access to an 12 
+employer's i nternal email system.  13 
+Example 1 —Fiduciary access to an employee e -mail account.   D dies, employed by 14 
+Company Y.  Company Y has an internal e -mail communication system, available only to 15 
+Y's employees, and used by them in the ordinary course of Y's business .  D's personal 16 
+representative, R, believes that D used Company Y's e -mail system to effectuate some 17 
+financial transactions that R cannot find through other means.  R requests access from 18 
+Company Y to the e -mails.  19 
+Company Y is not a custodian subject to th e act.  Under Section 2(7), a custodian 20 
+must carry, maintain or store an account holder's digital assets.  An account holder, in 21 
+turn, is defined under Section 2(1) as someone who has entered into a terms -of-service 22 
+agreement.  Company Y, like most employe rs, did not enter into a terms -of-service 23 
+agreement with D, so D was not an account holder.  24 
+Example 2 —Employee of electronic -communication service provider.   D dies, 25 
+employed by Company Y.  Company Y is an electronic -communication service provider.  26 
+Compan y Y has an internal e -mail communication system, available only to Y's 27 
+employees and used by them in the ordinary course of Y's business.  D used the internal 28 
+Company Y system.  When not at work, D also used an electronic -communication service 29 
+system that Company Y provides to the public.  D's personal representative, R, believes 30 
+that D used Company Y's internal e -mail system as well as Company Y's 31 
+electronic -communication system available to the public to effectuate some financial 32 
+transactions.  R seeks ac cess to both communication systems.  33 
+As is true in Example 1, Company Y is not a custodian subject to the act for purposes 34 
+of the internal email system.  The situation is different with respect to R's access to 35 
+Company Y's system that is available to the pu blic.  Assuming that Company Y can 36 
+disclose the communications under federal law, then Company Y must disclose them to 37 
+R. 38 
+ 
+ Page 9 - 127LR0312(01) -1 
+ §10-104.  Access by personal representative to digital asset of decedent  1 
+Subject to section 10 -108, subsection (b) and unless otherwis e ordered by the court or 2 
+provided in the will of a decedent, the personal representative of the decedent has the 3 
+right to access:  4 
+(a).  The content of an electronic communication that the custodian is permitted to 5 
+disclose under the Electronic Communicati ons Privacy Act, 18 United States Code, 6 
+Section 2702(b);  7 
+(b).  Any catalogue of electronic communications sent or received by the decedent; 8 
+and 9 
+(c).  Any other digital asset in which at death the decedent had a right or interest.  10 
+Comment  11 
+(Maine section 10 -104 is based on the Uniform Fiduciary Access to Digital Assets 12 
+Act Section 4.)  13 
+This section is modeled on the formulation of the personal representative's default 14 
+power set out in UPC Section 3 -715.  The phrase, "unless otherwise…provided by the 15 
+will," is intended to indicate that a will controls the personal representative's authority.  16 
+As is true more generally with respect to interpretation of wills, public policy can 17 
+override the explicit terms of a will.  18 
+The section clarifies the difference between fid uciary authority over digital assets 19 
+other than the content of an electronic communication protected by ECPA and authority 20 
+over ECPA -covered content of an electronic communication.  For the content of an 21 
+electronic communication, subsections (1) and (2) es tablish procedures that cover: first, 22 
+the ECPA -covered content of communications and, second, the catalogue (logs and 23 
+records) that electronic communications service providers may release without consent 24 
+under the ECPA.  Federal law distinguishes between t he permissible disclosure of the 25 
+"content" of an electronic communication, covered in 18 U.S.C. Section 2702(b), and of 26 
+"a record or other information pertaining to a" subscriber or customer, covered in 18 27 
+U.S.C. Section 2702(c); see Matthew J. Tokson, The Content/Envelope Distinction in 28 
+Internet Law , 50 Wm. & Mary L. Rev. 2105 (2009).  29 
+Content -based material can, in turn, be divided into two types of communications: 30 
+those received by the account holder and those sent.  Federal law, 18 U.S.C. Section 31 
+2702(b)  permits a custodian to "divulge the contents of a communication "(1) to an 32 
+addressee or intended recipient of such communication or an agent of such addressee or 33 
+intended recipient" or "(3) with the lawful consent of the originator or an addressee or 34 
+intended recipient of such communication, or the subscriber in the case of remote 35 
+computing service."  36 
+Consequently, when the account holder is the "addressee or intended recipient," 37 
+material can be disclosed either to that individual or to an agent for that pe rson, 18 U.S.C. 38 
+Section 2702(b)(1), and it can also be disclosed to third parties with the "lawful consent" 39 
+of the addressee or intended recipient.  18 U.S.C. Section 2702(b)(3).  Material for which 40 
+ 
+ Page 10 - 127LR0312(01) -1 
+ the account holder is the "originator" can be disclosed t o third parties only with the 1 
+account holder's "lawful consent."  18 U.S.C. Section 2702(b)(3).  (Note that, when the 2 
+account holder is the addressee or intended recipient, material can be disclosed under 3 
+either (b)(1) or (b)(3), but that when the account holder is the originator, lawful consent is 4 
+required under (b)(3).)  See the Comments concerning the definition of "content" after 5 
+Section 2.  By contrast to content -based material, non -content material can be disclosed 6 
+either with the lawful consent of th e account holder or to any person (other than a 7 
+governmental entity) even without lawful consent.  This information includes material 8 
+about any communication sent, such as the addressee, sender, date/time, and other 9 
+subscriber data, which this act defines as the "catalogue of electronic communications."  10 
+(Further discussion of this issue and examples are set out in the Comments to Section 8, 11 
+infra .) 12 
+§10-105.  Access by conservator to digital asset of protected person  13 
+Subject to section 10 -108, subsection (b ), the court, after an opportunity for hearing 14 
+under Article 5, Part 4, may grant a conservator the right to access:  15 
+(a).  The content of an electronic communication that the custodian is permitted to 16 
+disclose under the Electronic Communications Privacy Ac t, 18 United States Code, 17 
+Section 2702(b);  18 
+(b).  Any catalogue of electronic communications sent or received by the protected 19 
+person; and  20 
+(c).  Any other digital asset in which the protected person has a right or interest.  21 
+Comment  22 
+(Maine section 10 -105 is based on the Uniform Fiduciary Access to Digital Assets 23 
+Act section 5.)  24 
+Section 5 establishes that the conservator must be specifically authorized by the court 25 
+to access the protected person's digital assets.  Each of the different levels of access to the 26 
+content of an electronic communication, to the catalogue of electronic communications, 27 
+and to any other digital assets must be specifically granted by court order.  The 28 
+requirement in Section 5 for express authority over digital assets does not limit the 29 
+fiduciary's authority over the underlying assets, such as funds held in a bank account.  30 
+The meaning of the term "hearing" will vary from state to state according to state law and 31 
+procedures.  32 
+Section 5 is comparable to Section 4.  It responds to the concern s of Internet service 33 
+providers who believe that the act should be structured to clarify the difference between 34 
+fiduciary authority over digital assets other than the content of an electronic 35 
+communication protected by federal law (the Electronic Communica tions Privacy Act 36 
+(ECPA)), and fiduciary authority over ECPA -protected content of an electronic 37 
+communication.  Consequently, Section 5 sets out separate procedures for digital assets as 38 
+well as the catalogue of electronic communications (logs and records)  that relevant 39 
+service providers may release without consent under ECPA, and the ECPA -covered 40 
+ 
+ Page 11 - 127LR0312(01) -1 
+ content of an electronic communication.  1 
+The section refers to an individual or a protected person because a conservator may 2 
+be appointed for a single transaction or without a finding that the person is a protected 3 
+person.  4 
+State law will establish the criteria for when a court will grant power to the 5 
+conservator.  For example, UPC Section 5 -411(c) requires the court to consider the 6 
+decision the protected person woul d have made as well as a list of other factors.  Existing 7 
+state law may also set out the requisite standards for a conservator's actions.  Under 8 
+Section 8, if access to digital assets is granted by the court, the conservator has the same 9 
+power over digital  assets as the account holder.  The conservator must exercise authority 10 
+in the interests of the protected person.  11 
+§10-106.  Access by agent to digital asset of principal  12 
+(a).  To the extent a power of attorney expressly grants an agent authority over the 13 
+content of an electronic communication of the principal and subject to section 10 -108, 14 
+subsection (b), the agent has the right to access the content of an electronic 15 
+communication that the custodian is permitted to disclose under the Electronic 16 
+Communicatio ns Privacy Act, 18 United States Code, Section 2702(b).  17 
+(b).  Subject to section 10 -108, subsection (b) and unless otherwise ordered by the 18 
+court or provided by a power of attorney, an agent has the right to access:  19 
+(1).  Any catalogue of electronic commun ications sent or received by the principal; 20 
+and 21 
+(2).  Any other digital asset in which the principal has a right or interest.  22 
+Comment  23 
+(Maine section 10 -106 is based on the Uniform Fiduciary Access to Digital Assets 24 
+Act section 6.)  25 
+This section establishes that the agent has default authority over all of the principal's 26 
+digital assets, other than the content of the principal's electronic communications.  When 27 
+the principal does not want the agent to exercise such broad authority, then the power of 28 
+attorney m ust explicitly prevent an agent from doing so.  An agent has access to the 29 
+content of electronic communications only when the power of attorney explicitly grants 30 
+access.  31 
+Paragraph (a) is modeled on UPC Section 5B -201(a).  Because a power of attorney 32 
+contai ns the consent of the account holder, ECPA should not prevent the agent from 33 
+exercising authority over the content of an electronic communication.  See the Comments 34 
+concerning the definitions of the "content of an electronic communication" after Section 35 
+2.  There should be no question that an explicit delegation of authority in a power of 36 
+attorney constitutes authorization from the account holder to access digital assets and 37 
+provides "lawful consent" to allow disclosure of the content of an electronic 38 
+ 
+ Page 12 - 127LR0312(01) -1 
+ commu nication from an electronic -communication service or a remote -computing service 1 
+pursuant to applicable law.  Both authorization and lawful consent are important because 2 
+18 U.S.C. Section 2701 deals with intentional access without authorization and 18 U.S.C . 3 
+Section 2702 allows a service provider to disclose with lawful consent.  Federal courts 4 
+have not yet interpreted how ECPA affects a fiduciary's efforts to access the content of an 5 
+electronic communication.  E.g., In re Facebook, Inc. , 923 F. Supp. 2d 120 4 (N.D. Cal. 6 
+2012).  7 
+§10-107.  Access by trustee to digital asset  8 
+(a).  Subject to section 10 -108, subsection (b) and unless otherwise ordered by the 9 
+court or provided in a trust, a trustee that is an original account holder has the right to 10 
+access any digi tal asset held in trust, including any catalogue of electronic 11 
+communications of the trustee and the content of an electronic communication.  12 
+(b).  Subject to 10 -108, subsection (b) and unless otherwise ordered by the court or 13 
+provided in a trust, a trustee  that is not an original account holder has the right to access:  14 
+(1).  The content of an electronic communication that the custodian is permitted to 15 
+disclose under the Electronic Communications Privacy Act, 18 United States Code, 16 
+Section 2702(b);  17 
+(2).  Any catalogue of electronic communications sent or received by the original or 18 
+any successor account holder; and  19 
+(3).  Any other digital asset in which the original or any successor account holder has 20 
+a right or interest.  21 
+Comment  22 
+(Maine section 10 -107 is base d on the Uniform Fiduciary Access to Digital Assets 23 
+Act Section 7.)  24 
+Subsection (a) clarifies that access to digital assets, including the content of electronic 25 
+communications, is presumed with respect to assets for which the trustee is the initial 26 
+account holder.  A trustee may have title to digital assets when the trustee opens an 27 
+account as trustee; under those circumstances, the trustee can access the content of each 28 
+digital asset that is in an account for which the trustee is the original account holder , not 29 
+necessarily each digital asset held in the trust.  30 
+Subsection (b) addresses situations involving an inter vivos transfer of a digital asset 31 
+into a trust, a transfer into a testamentary trust, or a transfer via a pourover will or other 32 
+governing instru ment of a digital asset into a trust.  In those situations, a trustee becomes 33 
+a successor account holder when the settlor transfers a digital asset into the trust.  There 34 
+should be no question that the trustee with legal title to the digital asset was auth orized by 35 
+the settlor to access the digital assets so transferred, including both the catalogue and 36 
+content of an electronic communication, and this provides "lawful consent" to allow 37 
+disclosure of the content of an electronic communication from an 38 
+electro nic-communication service or a remote -computing service pursuant to applicable 39 
+ 
+ Page 13 - 127LR0312(01) -1 
+ law.  See the Comments concerning the definitions of the "content of an electronic 1 
+communication" after Section 2.  Nonetheless, subsection (2) distinguishes between the 2 
+catalog ue and content of an electronic communication in case there are any questions 3 
+about whether the form in which property transferred into a trust is held constitutes lawful 4 
+consent.  Both authorization and lawful consent are important because 18 U.S.C. Secti on 5 
+2701 deals with intentional access without authorization and because 18 U.S.C. Section 6 
+2702 allows a service provider to disclose with lawful consent.  7 
+The underlying trust documents and default trust law will supply the allocation of 8 
+responsibilities be tween and among trustees.  9 
+§10-108.  Fiduciary authority  10 
+(a).  A fiduciary that is an account holder or has the right under this Act to access a 11 
+digital asset of an account holder:  12 
+(1).  Subject to the terms of service agreement, copyright law and other app licable 13 
+law, may take any action concerning the asset to the extent of the account holder's 14 
+authority and the fiduciary's power under the law of this State other than this Act;  15 
+(2).  Has, for the purpose of applicable electronic privacy laws, the lawful co nsent of 16 
+the account holder for the custodian to divulge the content of an electronic 17 
+communication to the fiduciary; and  18 
+(3).  Is, for the purpose of applicable computer fraud and unauthorized computer 19 
+access laws, including Title 17 -A, chapter 18, an aut horized user.  20 
+(b).  Unless an account holder, after January 1, 2016, agrees to a provision in a terms 21 
+of service agreement that limits a fiduciary's access to a digital asset of the account holder 22 
+by an affirmative act separate from the account holder's as sent to other provisions of the 23 
+agreement:  24 
+(1).  The provision is void as against the strong public policy of this State; and  25 
+(2).  The fiduciary's access under this Act to a digital asset does not violate the terms 26 
+of service agreement even if the agreeme nt requires notice of a change in the account 27 
+holder's status.  28 
+(c).  A choice of law provision in a terms of service agreement is unenforceable 29 
+against a fiduciary acting under this Act to the extent the provision designates law that 30 
+enforces a limitation on a fiduciary's access to a digital asset, and the limitation is void 31 
+under subsection (b).  32 
+(d).  As to tangible personal property capable of receiving, storing, processing or 33 
+sending a digital asset, a fiduciary with authority over the property of a dece dent, 34 
+protected person, principal or settlor:  35 
+(1).  Has the right to access the property and any digital asset stored in it; and  36 
+(2).  Is an authorized user for purposes of any applicable computer fraud and 37 
+unauthorized computer access laws, including Titl e 17-A, chapter 18.  38 
+ 
+ Page 14 - 127LR0312(01) -1 
+ Comment  1 
+(Maine section 10 -108 is based on the Uniform Fiduciary Access to Digital Assets 2 
+Act Section 8.)  3 
+This issue concerning the parameters of the fiduciary's authority potentially arises in 4 
+two situations: 1) the fiduciary obtains ac cess to a password or the like directly from the 5 
+account holder, as would be true in various circumstances such as for the trustee of an 6 
+inter vivos trust or someone who has stored passwords in a written or electronic list and 7 
+those passwords are then tran smitted to the fiduciary; and 2) the fiduciary obtains access 8 
+pursuant to this act.  9 
+This section clarifies that the fiduciary has the same authority as the account holder if 10 
+the account holder were the one exercising the authority (note that, where the acc ount 11 
+holder has died, this means that the fiduciary has the same access as the account holder 12 
+had immediately before death).  This means that the fiduciary's authority to access the 13 
+digital asset is the same as the account holder except where, pursuant to subsection (b), 14 
+the account holder has explicitly opted out of fiduciary access.  In exercising its 15 
+responsibilities, the fiduciary is subject to the duties and obligations established pursuant 16 
+to state fiduciary law and is liable for breach of those dutie s.  Note that even if the digital 17 
+asset were illegally obtained by the account holder, the fiduciary would still need access 18 
+in order to handle that asset appropriately.  There may, for example, be tax consequences 19 
+that the fiduciary would be obligated to report.  20 
+In exercising its responsibilities, the fiduciary is subject to the same limitations as the 21 
+account holder more generally.  For example, a fiduciary cannot delete an account if this 22 
+would be fraudulent.  Similarly, if the account holder could chall enge provisions in a 23 
+terms -of-service agreement, then the fiduciary is also able to do so.  See Ajemian v. 24 
+Yahoo!, Inc. , 987 N.E.2d 604 (Mass. 2013).  25 
+Subsection (a) is designed to establish that the fiduciary is authorized to exercise 26 
+control over digital assets in accordance with other applicable laws.  The language 27 
+mirrors that used in Title II of the Electronic Communications Privacy Act of 1986 28 
+(ECPA), also known as the Stored Communications Act, 18 U.S.C. Section 2701 et seq.  29 
+(2006); see, e.g. , Orin S.  Kerr, A User's Guide to the Stored Communications Act, and a 30 
+Legislator's Guide to Amending It , 72 Geo. Wash. L. Rev. 1208 (2004).  The subsection 31 
+clarifies that state law treats the fiduciary as "authorized" under the two federal statutes 32 
+that prohibit u nauthorized access to computers and computer data, ECPA and the 33 
+Computer Fraud and Abuse Act, as well as pursuant to any comparable state laws 34 
+criminalizing unauthorized access.  Computer Fraud and Abuse Act, 18 U.S.C. Section 35 
+1030 (2006); Lamm, et al., su pra (state law may be useful to federal courts interpreting 36 
+these statutes.)  37 
+ECPA contains two potentially relevant prohibitions.  The first, 18 U.S.C. Section 38 
+2701(a), defines the crime of unlawful access to stored communications, which applies to 39 
+a perso n who "(1) intentionally accesses without authorization a facility through which an 40 
+electronic communication service is provided; or (2) intentionally exceeds an 41 
+authorization to access that facility…."  Thus, someone who has authorization to access 42 
+ 
+ Page 15 - 127LR0312(01) -1 
+ the fa cility is not engaging in criminal behavior.  Moreover, this section does not apply to 1 
+"conduct authorized…by a user of that service with respect to a communication of or 2 
+intended for that user."  18 U.S.C. Section 2701(a), (c)(2).  3 
+The second, 18 U.S.C. Se ction 2702, entitled "Voluntary disclosure of customer 4 
+communications or records," concerns actions by the service provider.  It prohibits an 5 
+electronic -communication service or a remote -computing service from knowingly 6 
+divulging the content of an electron ic communication that is stored by or carried or 7 
+maintained on that service unless disclosure is made (among other exceptions) "to an 8 
+addressee or intended recipient of such communication or an agent of such addressee or 9 
+intended recipient" or "with the lawful consent  of the originator or an addressee or 10 
+intended recipient of such communication, or the subscriber in the case of 11 
+remote -computing service."  18 U.S.C. Section 2702(b)(1), (3) (emphasis added).  See the 12 
+Comments concerning the definitions of the  "content of an electronic communication" 13 
+after Section 2.  The statute permits disclosure of "customer records" that do not include 14 
+content, either with lawful consent from the customer or "to any person other than a 15 
+governmental entity."  18 U.S.C. Secti on 2702(c)(2) and (6).  Thus, in contrast to its 16 
+restrictions on the release of content, the electronic -communication or remote -computing 17 
+service provider is permitted to disclose the catalogue of electronic communications to 18 
+anyone except the government.  19 
+The Computer Fraud and Abuse Act (CFAA) prohibits unauthorized access to 20 
+computers.  18 U.S.C. Section 1030.  Like ECPA, the CFAA similarly protects against 21 
+anyone who "intentionally accesses a computer without authorization or exceeds 22 
+authorized access."  18 U.S.C. Section 1030(a).  23 
+State laws vary in their coverage but typically prohibit unauthorized computer access.  24 
+By defining the fiduciary as an authorized user: 1) the fiduciary has authorization 25 
+under applicable law to access the digital assets under t he first relevant provision of 26 
+ECPA, 18 U.S.C. Section 2701, as well as under the CFAA; and 2) the fiduciary has "the 27 
+lawful consent" of the originator/subscriber under applicable law so that the service 28 
+provider can voluntarily disclose the digital assets  pursuant to the second  relevant 29 
+provision of ECPA, 18 U.S.C. Section 2702, including the content of an electronic 30 
+communication.  Moreover, this language should be adequate to avoid liability under the 31 
+state unauthorized computer access laws.  32 
+Subsection ( a)(1) states that the fiduciary can take actions to the extent of the 33 
+fiduciary's power under the law of this state.  Note that the fiduciary's powers under state 34 
+law are defined by statute, common law, and the terms of the governing instrument.   35 
+Subsecti on (b) addresses whether account holders can opt out of the rules in this act 36 
+and whether Internet service providers can prevent fiduciary access.  First, a 37 
+terms -of-service agreement in which an account holder has made an affirmative choice to 38 
+limit a fid uciary's right to access will supersede any contrary provision in a will, trust, 39 
+protective order, or power of attorney.  The affirmative act must clearly demonstrate the 40 
+account holder's deliberate intent to prevent fiduciary access.  Second, the subsecti on 41 
+provides that any other term in a terms -of-service agreement that bars fiduciary access is 42 
+void as against the state's strong public policy.  While all of a state's laws could be 43 
+ 
+ Page 16 - 127LR0312(01) -1 
+ considered that state's public policy, the phrase "strong public policy" i s to be construed 1 
+under conflict of laws principles to protect fiduciary access to digital assets under this act, 2 
+notwithstanding a contrary terms -of-service agreement provision and even if the 3 
+terms -of-service agreement chooses the law of another state or  country to govern its 4 
+contractual rights and duties.  See Restatement (Second) Conflict of Laws § 90 and § 187 5 
+cmt. G; see also  Uniform Trust Code § 107(1).  However, a terms -of-service agreement 6 
+provision for which an account holder has made an affirmati ve choice, separate from the 7 
+account holder's assent to other provisions of the terms -of-service agreement, to limit a 8 
+fiduciary's access to the account holder's digital assets is not voided by this act and will 9 
+supersede any contrary provision in a will, or trust. ( See Example 5).  10 
+Subsection (b) reinforces the concept that the fiduciary "steps into the shoes" of the 11 
+account holder, with no more —and no fewer —rights.  For example, the terms -of-service 12 
+agreement controls the rights of the account holder (sett lor, principal, incapacitated 13 
+person, decedent).  The act does not permit the account holder's fiduciary to override the 14 
+terms -of-service agreement in order to make a digital asset or collection of digital assets 15 
+"descendible," although it does preserve th e rights of the fiduciary to make the same 16 
+claims as the account holder.  See Ajemian v. Yahoo!, Inc. , 987 N.E.2d 604 (Mass. 2013); 17 
+David Horton, Indescendibility , 102 Calif. L. Rev. 543 (2014).  18 
+Under subsection (b), access by a fiduciary should not be con sidered a transfer or 19 
+other use that would violate the anti -transfer terms or other terms of a terms -of-service 20 
+agreement.  21 
+Subsection (c) supports the importance of fiduciary access by providing that any 22 
+choice of law governing the effect of a terms -of-service agreement that prevents fiduciary 23 
+access is unenforceable.  24 
+Subsection (d) clarifies that the fiduciary is authorized to access digital assets stored 25 
+on tangible personal property, such as laptops, computers, smartphones or storage media 26 
+of the deceden t, protected person, principal, or settlor, exempting fiduciaries from 27 
+application for purposes of state or federal laws on unauthorized computer access.  For 28 
+criminal law purposes, this clarifies that the fiduciary is authorized to access all of the 29 
+accou nt holder's digital assets, whether held locally or remotely.  30 
+Example 1 —Access to digital assets by personal representative.   D dies with a will 31 
+that is silent with respect to digital assets.  D has a bank account for which D received 32 
+only electronic state ments, D has stored photos in a cloud -based Internet account, and D 33 
+has an e -mail account with a company that provides electronic -communication services to 34 
+the public.  The personal representative of D's estate needs access to the electronic bank 35 
+account s tatements, the photo account, and e -mails.  36 
+The personal representative of D's estate has the authority to access D's electronic 37 
+banking statements and D's photo account, which both fall under the act's definition of a 38 
+"digital asset."  This means that, if these accounts are password -protected or otherwise 39 
+unavailable to the personal representative, then the bank and the photo account service 40 
+must give access to the personal representative when the request is made in accordance 41 
+with Section 9.  If the terms -of-service agreement permits D to transfer the accounts 42 
+electronically, then the personal representative of D's estate can use that procedure for 43 
+ 
+ Page 17 - 127LR0312(01) -1 
+ transfer as well.  1 
+The personal representative of D's estate is also able to request that the e -mail 2 
+account se rvice provider grant access to e -mails sent or received by D; ECPA permits the 3 
+service provider to release the catalogue to the personal representative.  The service 4 
+provider also must provide the personal representative access to the content of an 5 
+electro nic communication sent or received by D if the service provider is permitted under 6 
+18 U.S.C. Section 2702(b) to disclose the content.  The bank may release the catalogue of 7 
+electronic communications or content of an electronic communication for which it is  the 8 
+originator or the addressee because the bank is not subject to the ECPA.  9 
+Example 2 —Access to digital assets by conservator.   C is seeking appointment as the 10 
+conservator for P.  P has a bank account for which P received only electronic statements, 11 
+P has stored photos in a cloud -based Internet account, and P has an e -mail account with a 12 
+company that provides electronic communication services to the public.  C needs access 13 
+to the electronic bank account statements, the photo account, and e -mails.  14 
+Without a court order that explicitly grants access to P's digital assets, including 15 
+electronic communications, C has no authority pursuant to this act to access the electronic 16 
+bank account statements, the photo account, or the e -mails.  Based on law outside of th is 17 
+act, the bank may release the catalogue of electronic communications or content of an 18 
+electronic communication for which it is the originator or the addressee because the bank 19 
+is not subject to the ECPA.  20 
+Example 3 —Access to digital assets by agent.   X creates a power of attorney 21 
+designating A as X's agent.  The power of attorney expressly grants A authority over X's 22 
+digital assets, including the content of an electronic communication.  X has a bank 23 
+account for which X receives only electronic statements,  X has stored photos in a 24 
+cloud -based Internet account, and X has a game character and in -game property 25 
+associated with an online game.  X also has an e -mail account with a company that 26 
+provides electronic -communication services to the public.  27 
+A has the au thority to access X's electronic bank statements, the photo account, the 28 
+game character and in -game property associated with the online game, all of which fall 29 
+under the act's definition of a "digital asset."  This means that, if these accounts are 30 
+passwor d-protected or otherwise unavailable to A as X's agent, then the bank, the photo 31 
+account service provider, and the online game service provider must give access to A 32 
+when the request is made in accordance with Section 9.  If the terms -of-service agreement 33 
+permits X to transfer the accounts electronically, then A as X's agent can use that 34 
+procedure for transfer as well.  35 
+As X's agent, A is also able to request that the e -mail account service provider grant 36 
+access to e -mails sent or received by X; ECPA permits  the service provider to release the 37 
+catalogue.  The service provider also must provide A access to the content of an 38 
+electronic communication sent or received by X if the service provider is permitted under 39 
+18 U.S.C. Section 2702(b) to disclose the conten t.  The bank may release the catalogue of 40 
+electronic communications or content of an electronic communication for which it is the 41 
+originator or the addressee because the bank is not subject to the ECPA.  42 
+ 
+ Page 18 - 127LR0312(01) -1 
+ Example 4 —Access to digital assets by trustee.   T is the trustee of a trust established 1 
+by S.  As trustee of the trust, T opens a bank account for which T receives only electronic 2 
+statements.  S transfers into the trust to T as trustee (in compliance with a 3 
+terms -of-service agreement) a game character and in -game property associated with an 4 
+online game and a cloud -based Internet account in which S has stored photos.  S also 5 
+transfers to T as trustee (in compliance with the terms -of-service agreement) an e -mail 6 
+account with a company that provides electronic -communication services to the public.  7 
+T is an original account holder with respect to the bank account that T opened, and T 8 
+has the ability to access the electronic banking statements.  T, as successor account holder 9 
+to S, may access the game character and in-game property associated with the online 10 
+game and the photo account, which both fall under the act's definition of a "digital asset."  11 
+This means that, if these accounts are password -protected or otherwise unavailable to T 12 
+as trustee, then the bank, the  photo account service provider, and the online game service 13 
+provider must give access to T when the request is made in accordance with Section 9.  If 14 
+the terms -of-service agreement permits the account holder to transfer the accounts 15 
+electronically, then T  as trustee can use that procedure for transfer as well.  16 
+T as successor account holder of the e -mail account for which S was previously the 17 
+account holder is also able to request that the e -mail account service provider grant access 18 
+to e-mails sent or rece ived by S; the ECPA permits the service provider to release the 19 
+catalogue.  The service provider also must provide T access to the content of an electronic 20 
+communication sent or received by S if the service provider is permitted under 18 U.S.C. 21 
+Section 270 2(b) to disclose the content.  The bank may release the catalogue of electronic 22 
+communications or content of an electronic communication for which it is the originator 23 
+or the addressee because the bank is not subject to the ECPA.  24 
+Example 5 —Access notwithst anding terms in a terms -of-service agreement.   D, who 25 
+is domiciled in state X, dies.  D was a professional photographer who stored valuable 26 
+digital photos in an online storage account provided by C.  P is appointed by a court in 27 
+state X to administer D's e state.  P needs access to D's online storage account to inventory 28 
+and appraise D's estate assets and to file D's estate tax return.  During D's lifetime, D 29 
+entered into a terms -of-service agreement with C for the online storage account.  The 30 
+choice -of-law provision selects the law of state Y to govern the contractual rights and 31 
+duties under the terms -of-service agreement.  A provision of the terms -of-service 32 
+agreement prohibits fiduciary access to the digital assets of an account holder, but D did 33 
+not agree  to that provision by an affirmative act separate from D's assent to other 34 
+provisions of the terms -of-service agreement.  UFADAA has been enacted by state X but 35 
+not by state Y.  Because P's access to D's assets is fundamental to carrying out P's 36 
+fiduciary duties, a court should apply subsections (b) and (c) of this act under the law of 37 
+state X to void the terms -of-service agreement provision prohibiting P's access to D's 38 
+online account, even though the terms -of-service agreement selected the law of state Y to 39 
+govern the contractual rights and duties under the terms -of-service agreement.  40 
+§10-109.  Compliance  41 
+(a).  If a fiduciary with a right under this Act to access a digital asset of an account 42 
+holder complies with subsection (b), the custodian shall comply with the fiduciary's 43 
+request in a record for:  44 
+ 
+ Page 19 - 127LR0312(01) -1 
+ (1).  Access to the asset;  1 
+(2).  Control of the asset; and  2 
+(3).  A copy of the asset to the extent permitted by copyright law.  3 
+(b).  If a request under subsection (a) is made by:  4 
+(1).  A personal representative  with the right of access under section 10 -104, the 5 
+request must be accompanied by a certified copy of the letters of authority of the 6 
+representative or a court order;  7 
+(2).  A conservator with the right of access under section 10 -105, the request must be 8 
+accompanied by a certified copy of the court order that gives the conservator 9 
+authority over the digital asset;  10 
+(3).  An agent with the right of access under section 10 -106, the request must be 11 
+accompanied by an original or a copy of the power of attorney t hat authorizes the 12 
+agent to exercise authority over the digital asset and a certification of the agent, under 13 
+penalty of perjury, that the power of attorney is in effect; and  14 
+(4).  A trustee with the right of access under section 10 -107, the request must b e 15 
+accompanied by a certified copy of the trust instrument, or a certification of the trust 16 
+under Title 18 -B, section 1013, that authorizes the trustee to exercise authority over 17 
+the digital asset.  18 
+(c).  A custodian shall comply with a request made under su bsection (a) not later than 19 
+60 days after receipt.  If the custodian fails to comply, the fiduciary may apply to the 20 
+court for an order directing compliance.  21 
+(d).  This section does not limit the right of a person to obtain a copy of a trust 22 
+instrument in a judicial proceeding concerning the trust.  23 
+Comment  24 
+(Maine section 10 -109 is based on the Uniform Fiduciary Access to Digital Assets 25 
+Act Section 9.)  26 
+Subsection (a) allows a fiduciary to request access, control, or a copy of the digital 27 
+asset.  The term "co ntrol" means only the ability to move (unless prohibited by copyright 28 
+law) or delete that particular asset.  A fiduciary's control over a digital asset is not 29 
+equivalent to a transfer of ownership or a laundering of illegally obtained material.  Thus, 30 
+this subsection grants the fiduciary the ability to access electronic records, and the 31 
+disposition of those records is subject to other laws.  For example, where the account 32 
+holder has an online securities account or has a game character and in -game property 33 
+associated with an online game, then the fiduciary's ability to sell the securities, the game 34 
+character, or the in -game property is controlled by traditional probate law.  The act is 35 
+only granting access and "control" in the sense of enabling the fiduciary to do 36 
+electronically what the account holder could have done electronically.  Thus, if a 37 
+terms -of-service agreement precludes online transfers, then the fiduciary is unable to 38 
+make those transfers electronically as well.  39 
+ 
+ Page 20 - 127LR0312(01) -1 
+ Example—Fiduciary control over a di gital asset.   D dies with a will disposing of all 1 
+D's assets to D's spouse, S.  E is the personal representative for D's estate.  D left a bank 2 
+account, for which D only received online statements, and a blog.  3 
+E as personal representative of D's estate has  access to both of D's accounts and can 4 
+request the passwords from the custodians of both accounts.  If D's agreement with the 5 
+bank requires that transferring the underlying title to the account be done in person, 6 
+through a hard copy signed by the account holder and the bank manager, then E must 7 
+comply with those procedures (signing as the account holder) and cannot transfer the 8 
+funds in the account electronically.  If the terms -of-service agreement for the blog 9 
+permitted D to transfer the blog electronical ly, then E can make the transfer electronically 10 
+as well.  11 
+Subsection (c) establishes 60 days as the appropriate time for compliance.  This is 12 
+true regardless of the procedure for supplying the requisite trust instrument.  If applicable 13 
+law other than this a ct does not prohibit the custodian from complying, then the custodian 14 
+must grant access to comply.  This provision should be read in conjunction with the 15 
+state's power of attorney act.  16 
+Subsection (h) allows for attorneys' fees.  As the comment to Section 7 09 of the 17 
+Uniform Trust Code explains, reimbursement under this section may include attorney's 18 
+fees and expenses incurred by the trustee in defending an action. However, a trustee is not 19 
+ordinarily entitled to attorney's fees and expenses if it is determin ed that the trustee 20 
+breached the trust. See 3A Austin W. Scott & William F. Fratcher, The Law of Trusts  § 21 
+245 (4th ed. 1988).  22 
+§10-110.  Custodian immunity  23 
+A custodian and its officers, employees and agents are immune from liability for an 24 
+act or omission d one in good faith in compliance with this Act.  25 
+Comment  26 
+ (Maine section 10 -110 is based on the Uniform Fiduciary Access to Digital Assets 27 
+Act section 10.)  28 
+This section establishes that custodians are protected from liability when they act in 29 
+accordance with  the procedures of this act and in good faith.  The types of actions 30 
+covered include disclosure as well as transfer of copies.  The critical issue in conferring 31 
+immunity is the source of the liability.  Direct liability is not subject to immunity; indirect  32 
+liability is subject to immunity.  33 
+Direct liability could only arise from noncompliance with a judicial order issued 34 
+under section 9.  Upon determination of a right of access under sections 4, 5, 6, or 7, a 35 
+court may issue an order to grant access under se ction 9.  Noncompliance with that order 36 
+would give rise to liability for contempt.  There is no immunity from this liability.  37 
+Indirect liability could arise from granting a right of access under this act.  Access to 38 
+a digital asset might invade the privacy  or the harm the reputation of the decedent, 39 
+ 
+ Page 21 - 127LR0312(01) -1 
+ protected person, principal, or settlor, it might harm the family or business of the 1 
+decedent, protected person, principal, or settlor, and it might harm other persons.  The 2 
+grantor of access to the digital asse t is immune from liability arising out of any of these 3 
+circumstances if the grantor acted in good faith to comply with this act.  If there is a 4 
+judicial order under section 9, compliance with the order establishes good faith.  Absent a 5 
+judicial order under  section 9, good faith must be established by the grantor's assessment 6 
+of the requirements of this act.  7 
+§10-111.  Uniformity of application and construction  8 
+In applying and construing this uniform Act, consideration must be given to the need 9 
+to promote uni formity of the law with respect to its subject matter among states that enact 10 
+it. 11 
+§10-112.  Relation to Electronic Signatures in Global and National Commerce Act  12 
+This Act modifies, limits or supersedes the Electronic Signatures in Global and 13 
+National Comme rce Act, 15 United States Code, Section 7001 et seq., but does not 14 
+modify, limit or supersede Section 101(c) of that Act, 15 United States Code, Section 15 
+7001(c), or authorize electronic delivery of any of the notices described in Section 103(b) 16 
+of that Act , 15 United States Code, Section 7003(b).  17 
+PART B  18 
+Sec. B -1.  18-A MRSA §5 -931, sub -§(a), ¶¶(7) and (8), as enacted by PL 19 
+2009, c. 292, §2 and affected by §6, are amended to read:  20 
+(7).  Exercise fiduciary powers that the principal has authority to delegate; or 21 
+(8).  Disclaim property, including a power of appointment .; or 22 
+Sec. B -2.  18-A MRSA §5 -931, sub -§(a), ¶(9) is enacted to read:  23 
+(9).  Exercise authority over the content of an electronic communication of the 24 
+principal in accordance with the Maine Uniform  Fiduciary Access to Digital Assets 25 
+Act. 26 
+PART C  27 
+Sec. C -1.  Effective date.  This Act takes effect January 1, 2016.  28 
+SUMMARY  29 
+This bill enacts the Uniform Fiduciary Access to Digital Assets Act as the Maine 30 
+Uniform Fiduciary Access to Digital Assets Act as a new Article 10 in the Maine Revised 31 
+Statutes, Title 18 -A.  The Probate and Trust Law Advisory Commission recommended 32 
+enactment in the report submitted to the Joint Standing Committee on Judiciary pursuant 33 
+to Resolve 2013, chapter 27 as amended by Resolve 2 013, chapter 81.  34 
+The Prefatory Note and accompanying Comments to the Uniform Fiduciary Access 35 
+to Digital Assets Act provide a summary and explanation of the Uniform Fiduciary 36 
+ 
+ Page 22 - 127LR0312(01) -1 
+ Access to Digital Assets Act.  The Uniform Fiduciary Access to Digital Assets Act  1 
+provides an important update for the Internet age.  A generation ago, files were stored in 2 
+cabinets, photos were stored in albums and mail was delivered by a human being.  Today, 3 
+people are more likely to use the Internet to communicate and store informat ion.  The 4 
+Uniform Fiduciary Access to Digital Assets Act ensures account holders retain control of 5 
+their digital property and can plan for its ultimate disposition after their death.  Unless the 6 
+account holder instructs otherwise, legally appointed fiducia ries will have the same 7 
+access to digital assets as they have always had to tangible assets and the same duty to 8 
+comply with the account holder's instructions.  9 
+This bill modifies the Uniform Fiduciary Access to Digital Assets Act to be 10 
+consistent with exis ting Maine law with regard to conservators.  Part B amends Maine's 11 
+Uniform Power of Attorney Act to specifically allow a power of attorney to grant 12 
+authority to enable the agent to access the content of an electronic communication to be 13 
+consistent with the  grant of express authority required by Section 6 of the Uniform 14 
+Fiduciary Access to Digital Assets Act, included in this bill as the Maine Revised 15 
+Statutes, Title 18 -A, section 10 -106. 16 
+Part C provides that this bill takes effect January 1, 2016.  17 
+ 

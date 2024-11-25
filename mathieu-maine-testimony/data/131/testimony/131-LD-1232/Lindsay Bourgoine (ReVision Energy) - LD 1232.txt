@@ -1,0 +1,129 @@
+ 
+ 
+ 
+April 4 , 2023  
+Senator Mark Lawrence , Chair  
+Representative Stanley  Paige Zeigler , Chair  
+Committee on Energy, Utilities, and Technology  
+100 State House Station  
+Augusta, Maine 04333  
+ 
+Re: Testimony  on LD 1232 , “An Act to Increase Adoption of Solar Power in Maine ” 
+ 
+Senator Lawrence , Representative Zeigler , and members of the Energy, Utilities, and 
+Technology  Committee:  
+ 
+ReVision Energy wishes to s ubmit written testimony in support of  LD 1232 . Founded  right here 
+in Maine  in 2003, ReVision Energy is a local, employee owned , certified B Corp oratio n with over 
+385 employee s across our five branches in  New Englan d, with 220 staff in Maine at our 
+Montville and South Portland locations . Our mission is to lead our community in solving the  
+environmental problems caused by fossil fuels while alleviating social injustice. Our vision is to 
+see New England as thriving place  where our children, grandchildren, and future generations 
+can enjoy a clean environment and just society . In 2022 alone, w e installed 10,000  kilowatts of 
+residential solar and nearly 24 megawatts of commercial solar.  
+ 
+We believe Section 1 of this bill, which focuses on solar -ready buildings, to be an effective step 
+forward in advancing the state’s climate goals. We support this provision with the current square 
+footage recommendation of 25,000 square feet, however, we urge the committee to consider 
+the inclusion of small er buildings by reducing  that square footage threshold , and to even 
+consider requiring all ne wly constructed buildings to be solar -ready.  We recommend this 
+consideration for the following reasons:  
+ 
+• First, o ur state —and this body —has codified ambitious climate targets with a goal of 
+achieving net zero carbon emissions by 20 45. To meet these, we will need to build as 
+much clean energy generation as we possibly can, and quite frankly , every new building 
+should be powered by clean energy. We canno t afford to be adding new inputs of fossil 
+fuel powered buildings into these equations.  
+• Second, w hile eliminating a square footage threshold  may appear aggressive, ensuring  
+rooftops  are solar -ready is a thoughtful  solution to address concerns regarding  land use 
+pressure that are often associated with larger ground mounted solar. Making all 
+buildings solar -ready is an opportunity  to site as much solar as we can  directly  on the 
+built environment , while avoid ing poten tially costly retrofitting down the line.  A hundred 
+years ago, we never would construct a new building without a chimne y, right? Let’s set 
+our built environment up for the essential systems it will need  the years to come.     
+• Third, this legislation would rarely , if ever,  increase construct ion costs . The assumption 
+could be made that a rooftop would need to meet additional specs to be solar -ready  and 
+thus material and construction  costs would increase, however  that is largely unt rue as 
+the weight of solar panels is surpr isingly  low. On a pitched roo f where panels are 
+mechanically attached, the uniform dead load of panels is t ypically less than three  
+pounds per square foot (ps f) (about the weight of a layer of asphalt shingles) , and on a 
+flat roof whe re an array is ballasted, the weight would be typically be around  five psf. For 
+comparison, t he snow load we must design for here in Maine is typically  50-90 psf , and 
+therefore it would be very rare that a solar design wou ld add structural requirements an d 
+ 
+ 
+any corresponding costs.  Ultimately, the additionality  would be in renderings —
+complet ing drawings to outline  reserved array area on a roof plan . 
+• Finally,  large commercial const ruction (buildings over 25,000 square feet) makes up a 
+relatively small part of new construction overall in our state (and thus a small fraction of 
+energy use , too), so to ensure this legislation  meets its intent and  is assuredly impactful , 
+we suggest applying the solar -ready requirement to all buildings.   
+ 
+Lastly , when it comes to adding language around specific requirements for interconnection, we 
+recommend looking to the International Energy Conservation Code (IECC)  for sample language. 
+Appendix CB does in clude language regarding making buildings electrically interconnection -
+ready ( for example, within CB 103.6, CB 10 3.8). 
+ 
+Section 2  of the proposed bill addresses an important —and often overlooked —challenge  for the 
+clean energy transition: small generator interconnection. While we appreciate the Sponsor’s 
+work in calling attention to this issue, we are not convinced that the proposed change between 
+level 1 and level 2 interconnections meaningfully addresses the issues being faced by small 
+customers  with respect to interconn ection today.  
+ 
+As practi tioners on the ground, project interconnection is no longer a theoretical problem, it is a 
+reality for our business and our customers  and a critical  obstacle  to achieving the State’s clean 
+energy goals . We support the effort to make  this process easier for all solar customers, large  
+and small.  
+ 
+The exorbitant  cost and unreasonable project delays  associated with  utility  interconnection for 
+large scale  (2-5MW)  distributed generation  solar projects ha ve received a fair bit of attention  in 
+the press, at the Legislature and at the Maine Public Utilities Commission (PUC) in the last 
+several years . Unfortunately , we’re now witnessing the same issues impacting  individual 
+home owners  and small businesses  owners  here in Maine who are trying to make an investment 
+in their own renewable energy system to  offset the volatility and rising costs of fossil fuel  energy 
+sources . Right now , ReVision Energy has several  dozen customers , both residential and small 
+commercial , who are being denied the right to interconnect a solar system  because the utilities 
+refuse  to follow the PUC ’s Chapter 324  interconnection  rules. Unlike large project developers  for 
+whom utility barriers  may be just an unfortunate cost of doing business , these individual 
+homeowners and small businesses can not afford to hire lawyers or lobbyists to advocate on 
+their behalf on issues  that are highly technical and complex . Dispute resolution alone can cost 
+nearly as much as  a small system  itself. The structural information and resource asymmetry 
+between individual customers  and monopoly utilit ies, coupled with a lack of bandwidth and 
+specialization at the  PUC  makes i t nearly impossible for individual customers —Mainers across 
+the state —to find fair relief . The utility interconnection  system is clearly badly broken , 
+inequitable  and need s both evaluation and improvement.   
+ 
+Fortunately, as you know, the  PUC commission ed a report from  the Interstate Renewable 
+Energy Council  (IREC ) regarding small project interconnection challenges  as a result of your 
+passage of LD 1100, ‘An Act To Support the Continued Access to Solar Energy and Battery 
+Storage by Maine Homes and Businesses’ in 2021.  LD 1100, which  prescribed this study , 
+included a provision ( Sec. 1. 35 -A MRSA Subsection 3474, Subsection 3 , Section 2) mandating 
+that ‘within six months of the effective date of this Act, the commission shall conduct a 
+proceeding and issue an order relating to the near -term reforms identified in the evaluation 
+conducted under this section ,” and even more, “Within one year of the effective date of this Act, 
+the commission shall determine and adopt cost allocation methods for interco nnection studies 
+and upgrades that ensure on -site solar energy generators  do not bear prohibitive costs ….” LD 
+ 
+ 
+1100 was signed into law by the governor on June 17, 2021, h owever, to date,  nearly two years 
+later,  neither time-bound provision has taken place . 
+ 
+Rather than amending one part of one screen within the PUC’s Chapter 324  rules, w e ask this 
+committee to revisit the thoughtful intentions you set forth and ultimately passed into law in LD 
+1100 and build upon them  to ensure  action . We strongly sup port the two post-study 
+requirements outlined above  and seek both  rule modernization (which has already been 
+identified by IREC ) and enforcement mechanisms to ensure all customers are  receiving the 
+same screening processes.  
+ 
+Thank you for your consideration of our perspective . We welcome further discussion, and we 
+are available to address any questions you may have.  
+ 
+Sincerely,  
+ 
+ 
+ 
+Fortunat Mueller  
+President, Co -Founder  
+ReVision Energy  
+207.221.6342  
+

@@ -1,0 +1,203 @@
+ 
+ STATE OF MAINE  
+DEPARTMENT OF PUBLIC SAFETY  
+MAINE EMERGENCY MEDICAL SERVICES  
+152 STATE HOUSE STATION  
+AUGUSTA , MAINE  04333  
+  
+ 
+JANET T. MILLS 
+GOVERNOR  
+ MICHAEL SAUSCHUCK  
+COMMISSIONER  
+  J. SAM HURLEY  
+DIRECTOR  
+ 
+● Excellence  ● Support  ● Collaboration  ● Integrity  ● 
+ 
+PHONE:  (207) 626 -3860   
+TTY:  (207) 287 -3659   
+FAX:  (207) 287 -6251  
+ 
+With offices located at the Central Maine Commerce Center, 45 Commerce Drive, Suite 1, Augusta, ME  04330  
+ 
+Testimony of J. Sam Hurley, MPH, EMPS, NRP  
+Director, Maine Bureau of Emergency Medical Services (Maine EMS)  
+Department of Public Safety  
+In Opposition of LD 601 
+“An Act to Reduce the Shortage of Municipal Emergency Medical Services Personnel by 
+Removing Certain Vaccination Requirements ” 
+Presented by  Representative Moriarty of Cumberland  
+BEFORE THE JOINT STANDING COMMITTEE ON HEALTH AND HUMAN  SERVICES  
+Public Hearing: April 24, 2023 , at 10 AM  
+ 
+Senator Baldacci , Representative Meyer , and honorable members of the Joint Standing 
+Committee on Health and Human  Services : 
+ 
+My name is Sam Hurley , and I am the Director of Maine Emergency Medical Services, Maine 
+EMS, within the Department of  Public Safety.  I am testifying  on behalf of Maine Department of 
+Public Safety and Maine EMS  in opposition  of LD 601, "An Act to Reduce the Shortage of 
+Municipal Emergency Medical Services Personnel by Removing Certain Vaccination 
+Requirements .” 
+ 
+In 2021, the Maine Board of Emergency Medical Services established an emergency rule 
+entitled, “COVID -19 Immunization Requirements Emergency Rule.” This rule expired on 
+November 21, 2021. After multiple rounds of rulemaking and with considerable public 
+comment , the Board adopted final rules on June 1 , 2022, entitled, “Chapter 21: Immunization 
+Requirements.” These rules require licensed emergency medical services entities and training 
+centers to ensure that all persons providing direct patient care are either immu nized for COVID -
+19 and seasonal influenza based on the recommendations from the US Centers for Disease 
+Page 2 of 5 
+ Control and Prevention  or hold a valid medical exemption . These rules were created in alignment 
+with the rules established by the Maine Center for Diseas e Control and Prevention regarding 
+required immunizations for healthcare professionals , except that the Maine EMS  Board’s  rule 
+only include s COVID -19 and seasonal influenza immunization.1  
+ 
+During the rulemaking process  for both Chapter 20 (Emergency Rule) and Chapter 21 the 
+permanent rule, the Board heard from  over 70  stakeholders  regarding the immunization 
+requirements. The Board conducted  extensive review of the available information, materials , and 
+rulemaking feedbac k, and consulted with experts throughout the state including the Medical 
+Direction and Practices Board  (MDPB) . The MDPB  is a Board within the Maine EMS 
+infrastructure comprised of 11 Maine -based physicians, two EMS clinicians, and a licensed 
+pharmacist. Additionally, the Board considered their specific statutory charge to :  
+ 
+… promote and provide for a comprehensive and effective emergency medical services 
+system to ensure optimum patient care … [and]  promote the public health, safety and 
+welfare by provid ing for the creation of a statewide emergency medical services system 
+with standards for all providers of emergency medical services .2 
+ 
+Based on all these factors, the  Board determined that it was in the best interest of the public’s 
+health, safety, and w elfare to institute immunization requirements with the intention of protecting 
+the existing workforce and the public that they are serving daily. Emergency personnel respond 
+to individuals who are already sick or injured and therefore are at increased risk  of developing 
+complications secondary to COVID -19 and influenza infections.  
+ 
+Maine EMS and the Board have always sought to remain cognizant of the potential impact of 
+rulemaking on the EMS workforce and  its capacity to deliver emergency services throughout the 
+state. To understand the impact of the rulemaking, the Maine EMS Office has monitored the 
+number of EMS clinicians that have  been  documented within our statewide electronic patient 
+care reporting (ePCR ) system each month. If looking  at the data presented in Figure 1, one will  
+see the count of unique EMS clinicians documented on ePCRs in Maine by month and year. We 
+ 
+1 10-144 Code of Maine Rules Ch. 264  
+2 32 MRS Sect. 81 -A 
+Page 3 of 5 
+ have also identified the dates where each of the immunization requirements were enacted 
+(Chapter 20, the emergency rule; and Chapter 21, the final rule)  on the graph for your reference. 
+Looking at this graph,  one can see  that following the implementation of the emergency rule 
+(Chapter 20) in August 2021, there was a slight decrease in the number of unique clinicians 
+documenting in the ePCRs ; however, by the end of 2022, there were more EMS clinicians 
+charting  throughout th e state  than ever before.  
+ 
+Figure 1 Count of Unique EMS Clinicians Documented on ePCRs in Maine by Month and Year  
+ 
+Source Information: This data was collected based on unique license numbers appearing on Maine EMS patient care 
+reports within the electronic patient care reporting system , Maine EMS and Fire Incident Reporting S ystem  
+(MEFIRS). These values likely represent an underestimate of the number of clinicians operating in the system 
+because some clinicians that respond  to a call that are inadvertently left off the patient care report.  
+ 
+As Maine’s popu lation increases each summer, so do the number of EMS clinicians and EMS 
+calls, w e have attempted to adjust  for these fluctuations by correcting  for seasonality. Figure 2 
+provides a single line showing the difference in count of clinicians between each month and a 
+four-year average for that same month over the 2019 -2022 period . This means that the 
+differences you see are between the number of practicing EMS clinicians identified on an ePCR 
+each month, and the four -year average  for that month . The data point labels  [XX, XX%]  call out 
+the difference s in the count of clinicians and the percent difference from the four -year average . 
+Looking  at Figure 2 , one can see that  after the  August 23, 2021 , implementation of the COVID -255026002650270027502800285029002950
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov DecClincians Participating in EMS ActivtionsCount of EMS Clinicians Documented on ePCRs in Maine by 
+Month and Year
+2019 2020 2021 2022 2023Final Rule (Ch. 21) 
+June 1, 2022Emergency Rule (Ch. 20) 
+August 23, 2021
+Page 4 of 5 
+ 19 immunization requirements by emergency rulemaking , there were less than 50 fewer EMS 
+clinicians  as compared to the four -year average  for that same month or approximately a 2% 
+decrease in practicing clinicians at any month to month comparison  following implementation . 
+The most recent data suggests that we are seeing a positive trend in the number of EMS 
+clinicians participating in EMS clinical care  (see the linear trendline  overlay on Figure 2) .  
+  
+Figure 2 Percent Change between Month and Year and the Overall Four -Year Average (2019 -
+2022)  
+ 
+Source Information: The labels are formatted with [COUNT, PERCENT CHANGE] for each data point on the 
+graph. The percent change is calculated based on the number of clinicians for each month and year as compared to 
+an average of the number of clinicians act ive in that same month over a four-year period (2019 -2022). This data was 
+collected based on unique license numbers appearing on Maine EMS patient care reports within the electronic 
+patient care reporting system, Maine EMS and Fire Incident Reporting S ystem (MEFIRS). These values likely 
+represent an underestimate of the number of clinicians operating in the system because there may be some clinicians 
+that respond to a call via their personal vehicles or in addition to the transporting ambulance crew that ar e 
+inadvertently left off the patient care report.  
+ 
+In May of 2020, Maine EMS implemented a reporting requirement for all EMS and emergency 
+medical dispatch  (EMD)  entities to disclose positive COVID -19 cases  and hospitalizations  
+within the workforce. This w as instrumental in monitoring the health of the existing EMS 
+workforce and the impact of COVID -19 infection.  However, it also has provided insight into the -43, -2%55, 2%
+19, 1%40, 1%
+2, 0%26, 1%
+13, 0%60, 2%
+-120, -4%-37, -1%
+-53, -2%-26, -1%
+-88, -3%1, 0%
+-16, -1%39, 1% 50, 2%
+-4, 0%-3, 0%
+-50, -2%-15, -1%
+-48, -2%27, 1%
+0, 0%2, 0%123, 4%
+-5%-4%-3%-2%-1%0%1%2%3%4%5%
+Jan-19
+Mar-19
+May-19
+Jul-19
+Sep-19
+Nov-19
+Jan-20
+Mar-20
+May-20
+Jul-20
+Sep-20
+Nov-20
+Jan-21
+Mar-21
+May-21
+Jul-21
+Sep-21
+Nov-21
+Jan-22
+Mar-22
+May-22
+Jul-22
+Sep-22
+Nov-22
+Jan-23
+Mar-23Percent Change from Month and Year to Four -Year 
+AveragePercent Change between Month and Year and the Overall Four -
+Year Average (2019 -2022)
+Final Rule (Ch. 21) 
+June 1, 2022
+Emergency Rule (Ch. 20) 
+August 23, 2021
+Page 5 of 5 
+ efficacy of COVID -19 immunizations at preventing hospitalizations with three licensees being 
+hospita lized prior to implementation of the immunization requirement and none  after August 23, 
+2021 (date of the emergency rule implementation).   
+ 
+Ultimately, the position of Maine EMS is that the authority to institute immunization 
+requirements should remain wholly vested with the Board. The statutorily -defined purpose of the 
+Board is to, “ promote the public health, safety and welfare ” of all persons functioning within and 
+interacting with the EMS system in Maine.3 While we understand that there are some EMS 
+clinicians who chose to leave the EMS workforce rather than obtaining COVID -19 
+immunization, the data does not suggest that immunization requirements have had deleterious 
+effects on the long -term numbers of EMS clinicians working within the field. Additionally, the 
+immunization requirements  appear to have  been successful at limiting the impact of COVID -19-
+related hospitalization  on the EMS workforce.  
+ 
+Maine EMS requests that the Committee vote  Ought Not to Pass based on this information and 
+continue to empower the Maine EMS Board with the authority and responsibility to protect and 
+“promote the [public’s] health, safety and welfare.”4 
+ 
+Please feel free to reach out to me anytime  if there is any additional information that  I can offer  
+the Committee .  
+ 
+ 
+3 Ibid 
+4 Ibid 

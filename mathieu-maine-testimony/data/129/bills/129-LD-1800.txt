@@ -1,0 +1,198 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1800
+H.P. 1281 House of  Representatives, May 30, 2019
+An Act  To Modernize the E-9-1-1 Laws To Include Text  Messaging 
+and Other  Methods of Contacting E-9-1-1
+Submitted by the Public Utilities Commission  pursuant to  Joint  Rule 204.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BERRY of Bowdoinham.
+
+Page 1 - 129LR2298(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  25 MRSA §1533, as amended by PL 2013, c. 19, §4, is further amended to 
+3read:
+4§1533.  Bureau of Consolidated Emergency Communications
+5The Bureau of Consolidated Emergency Communications, referred to in this chapter 
+6as "the bureau," is established within the department for the provision of emergency 
+7dispatch and E-9-1-1 9-1-1 call-taking services to municipal, county and state 
+8government entities.
+9As used in this section, "9-1-1 call" has the same meaning as in Title 25, section 
+102921, subsection 17.
+111.  Coordination with the Public Utilities Commission.  In accordance with a 
+12designation made by the Public Utilities Commission, the department shall provide 
+13E-9-1-1 9-1-1 call-taking services.
+142.  Director; duties.  The Commissioner of Public Safety shall hire a Director of the 
+15Bureau of Consolidated Emergency Communications, referred to in this chapter as "the 
+16director."  The director shall establish and carry out policies and procedures.  The director 
+17shall administer the bureau to safeguard the public safety by the provision of 24-hour per 
+18day E-9-1-1 9-1-1 call-taking and dispatching services to first responders.
+19Sec. 2.  25 MRSA §1535, as amended by PL 2013, c. 19, §5, is further amended by 
+20adding after the first paragraph a new paragraph to read:
+21As used in this section, "9-1-1 call" has the same meaning as in Title 25, section 
+222921, subsection 17.
+23Sec. 3.  25 MRSA §1535, sub-§2, as amended by PL 2013, c. 19, §5, is further 
+24amended to read:
+252.  Base funding level.  In order to determine incremental costs under subsection 1, 
+26the bureau shall first establish a base funding level, consistent with the department's 
+27legislatively approved budget for public safety answering point services and dispatch 
+28services, required to provide public safety answering point services and dispatch services 
+29to State Government entities.  The base funding level must be based on services provided 
+30by the department prior to the provision of emergency dispatch and E-9-1-1 9-1-1 call-
+31taking services to municipal and county governments as a result of actions taken by the 
+32bureau under section 1533.  The base funding level must be excluded by the bureau from 
+33its determination of incremental costs under subsection 1.
+34Sec. 4.  25 MRSA §2921, sub-§17 is enacted to read:
+3517.  9-1-1 call.  "9-1-1 call" means any use of enhanced 9-1-1 services initiated by 
+36any means or medium, including, but not limited to, voice calls and text messaging.
+Page 2 - 129LR2298(01)-11Sec. 5.  25 MRSA §2926, sub-§2, ¶B, as amended by PL 2001, c. 439, Pt. EEEE, 
+2§3, is further amended to read:
+3B.  Development of minimum public safety answering point requirements including 
+424-hour operation; emergency backup power; secured communication areas; separate 
+5administrative phone lines for nonemergency calls; call recording and playback 
+6equipment; TDD equipment, as defined in Title 35-A, section 8702, subsection 6; 
+7maximum call handling times; and minimum mandatory staff training requirements 
+8for E-9-1-1 9-1-1 call answering and dispatching;
+9Sec. 6.  25 MRSA §2929, sub-§2, ¶B, as amended by PL 2015, c. 153, §2, is 
+10further amended to read:
+11B.  A public safety answering point may disclose confidential information to a 
+12criminal justice agency, as defined in Title 16, section 803, subsection 4, for the 
+13purposes of the administration of criminal justice, as defined in Title 16, section 803, 
+14subsection 2, and the administration of juvenile justice, as defined in Title 15, section 
+153308-A, subsection 1, paragraph A, related to an E-9-1-1 a 9-1-1 call;
+16Sec. 7.  25 MRSA §2929, sub-§4, as amended by PL 2019, c. 84, §1, is further 
+17amended to read:
+184.  Audio recordings of 9-1-1 calls; confidential.  Audio recordings of emergency 
+199-1-1 calls made to the E-9-1-1 system are confidential and may not be disclosed except 
+20as provided in this subsection.  Except as provided in subsection 2, information contained 
+21in the audio recordings is public information and must be disclosed in transcript form in 
+22accordance with subsection 3.  Subject to all the requirements of subsection 2, the bureau 
+23or a public safety answering point may disclose audio recordings of emergency 9-1-1 
+24calls made to the E-9-1-1 system in the following circumstances:
+25A.  To persons within the E-9-1-1 system to the extent necessary to implement and 
+26manage the E-9-1-1 system;
+27B.  To a criminal justice agency, as defined in Title 16, section 803, subsection 4, for 
+28the purposes of the administration of criminal justice, as defined in Title 16, section 
+29803, subsection 2, and the administration of juvenile justice, as defined in Title 15, 
+30section 3308-A, subsection 1, paragraph A, related to an E-9-1-1 a 9-1-1 call;
+31B-1.  Directly to the clerk's office of a court presiding over a protection from abuse or 
+32protection from harassment action if a party in the action made one or more E-9-1-1 
+339-1-1 calls relevant to the action and that party, or that party's attorney, contacts the 
+34custodian of the audio recordings of the call or calls and requests that the recordings 
+35be forwarded to that clerk's office for use in a hearing on the complaint for protection 
+36from abuse or complaint for protection from harassment.  At its discretion, the court 
+37presiding over the action may permit the parties to the action, and their attorneys if 
+38the parties are represented, to access the recordings and, on a finding of good cause, 
+39may permit copies of the recordings to be provided to the parties and their attorneys if 
+40the parties are represented.  In making a request for recordings pursuant to this 
+41paragraph, the party making the request, or that party's attorney, shall provide to the 
+42custodian of the audio recordings the names of the parties to the protection from 
+Page 3 - 129LR2298(01)-11abuse or protection from harassment action, the name of the court presiding over the 
+2action and the docket number of the action.  The request must be made in writing, 
+3including, but not limited to, by electronic mail, and must be made so as to provide a 
+4reasonable amount of time for the custodian to search for, retrieve and send the 
+5recordings to the clerk's office of the presiding court.  The recordings must be sent in 
+6a format used by the custodian of the recordings and the courts;
+7C.  To designees of the bureau director for the purpose of system maintenance and 
+8quality control; 
+9C-1.  To a person accused of a crime or that person's agent or attorney for trial and 
+10sentencing purposes if authorized by:
+11(1)  The responsible prosecutorial office or prosecutor; or
+12(2)  A rule or order of a court of competent jurisdiction.
+13As used in this paragraph, "agent" means a licensed professional investigator or an 
+14expert witness, or a parent, foster parent or guardian if the accused person has not 
+15attained 18 years of age; and
+16D.  In accordance with an order issued on a finding of good cause by a court of 
+17competent jurisdiction.
+18Sec. 8.  25 MRSA §2929, sub-§6, as amended by PL 2007, c. 209, §6, is further 
+19amended to read:
+206.  Penalty for disseminating information.  Knowingly disclosing confidential 
+21information in violation of subsection 2 or knowingly disclosing audio recordings of 
+22emergency calls to the E-9-1-1 system 9-1-1 calls in violation of subsection 4 is a Class E 
+23crime.
+24Sec. 9.  25 MRSA §2931, sub-§1, ¶¶A and B, as amended by PL 2003, c. 452, 
+25Pt. N, §7 and affected by Pt. X, §2, are further amended to read:
+26A.  Makes repeated telephone 9-1-1 calls to a public safety answering point by 
+27dialing 9-1-1 to make nonemergency reports or inquiries;
+28B.  Causes telephone 9-1-1 calls to be made to a public safety answering point using 
+29an alarm or other alerting device that automatically dials contacts 9-1-1 and transmits 
+30a prerecorded signal or message; or
+31Sec. 10.  25 MRSA §2934, sub-§1, as amended by PL 2017, c. 48, §1, is further 
+32amended to read:
+331.  Requirements.  The bureau may by rule establish requirements for locating 
+34emergency 9-1-1 calls, and initiating emergency responses to such calls, made from 
+35within multiline telephone systems, including network-based or premises-based systems 
+36and voice over Internet protocol systems, whether owned or leased by a public or private 
+37entity, such as private branch exchanges or Centrex systems.  Rules adopted pursuant to 
+38this section:
+Page 4 - 129LR2298(01)-11A.  May not require any local unit of government to expand or modify its activities so 
+2as to necessitate additional expenditures from local revenues;
+3B.  Apply only to multiline telephone systems installed, introduced, established or 
+4replaced after the effective date of the rules;
+5C.  Must provide for appropriate standards, exemptions and waivers that balance the 
+6benefits of improved methods of locating emergency 9-1-1 calls, and initiating 
+7emergency responses to such calls, made from within multiline telephone systems 
+8and the cost of achieving those improvements.  The rules must allow, in appropriate 
+9circumstances, for methods that do not utilize automatic location identification and 
+10automatic number identification standards used in processing enhanced 9-1-1 calls; 
+11and
+12D.  May establish appropriate technical, procedural or any other standards relating to 
+13multiline telephone systems, telecommunications carrier interconnectivity, databases, 
+14dialing instructions, signaling or other matters necessary or appropriate to carry out 
+15the purposes of this section.
+16Sec. 11.  32 MRSA §85-A, sub-§1, ¶B, as enacted by PL 2005, c. 303, §3, is 
+17amended to read:
+18B.  "Emergency Medical Dispatch Priority Reference System" means a system 
+19approved by the bureau and the board that includes:
+20(1)  A protocol for emergency medical dispatcher response to 9-1-1 calls;
+21(2)  A continuous quality improvement program that measures compliance with 
+22the protocol through ongoing random case review of each emergency medical 
+23dispatcher; and
+24(3)  A training curriculum and testing process consistent with the protocol.
+25Sec. 12.  32 MRSA §85-A, sub-§1, ¶C, as amended by PL 2007, c. 42, §1, is 
+26further amended to read:
+27C.  "Emergency medical dispatch services" means any of the following services 
+28provided in the context of an emergency a 9-1-1 call made to the E-9-1-1 system:
+29(1)  Reception, evaluation or processing of calls;
+30(2)  Provision of dispatch life support;
+31(3)  Management of requests for emergency medical assistance; and
+32(4)  Evaluation or improvement of the emergency medical dispatch process, 
+33including identifying the nature of an emergency request, prioritizing the urgency 
+34of a request, dispatching necessary resources, providing medical aid and safety 
+35instructions to the caller and coordinating the responding resources as needed.
+36Sec. 13.  32 MRSA §85-A, sub-§1, ¶G is enacted to read:
+37G.  "9-1-1 call" has the same meaning as in Title 25, section 2921, subsection 17.
+Page 5 - 129LR2298(01)-11Sec. 14.  32 MRSA §85-A, sub-§2-A, as amended by PL 2011, c. 271, §11, is 
+2further amended to read:
+32-A.  Requirement to provide emergency medical dispatch services.  A public 
+4safety answering point or other licensed emergency medical dispatch center must provide 
+5emergency medical dispatch services on all medical E-9-1-1 9-1-1 calls directly or by 
+6transferring the call to another licensed emergency medical dispatch center.
+7SUMMARY
+8This bill makes changes to the emergency services communication laws to reflect that 
+9text messaging and other methods can be used to contact E-9-1-1.

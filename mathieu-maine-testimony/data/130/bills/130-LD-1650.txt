@@ -1,0 +1,157 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1650
+S.P. 537 In Senate,  May 5, 2021
+An Act  To Create the Small Business Capital Savings Account  
+Program
+Received by the Secretary of the Senate on May 3, 2021.  Referred to  the Committee on 
+Innovation, Development, Economic  Advancement  and Business  pursuant  to Joint Rule 308.2 
+and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator STEWART of Aroostook.
+Cosponsored by Representative:  DUNPHY  of Old Town.
+
+Page 1 - 130LR0829(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §13100-A is enacted to read:
+3§13100-A.  Small Business Capital Savings Account Program
+41.  Program established.  The Small Business Capital Savings Account Program is 
+5 established within and administered by the department to certify businesses as eligible for 
+6 a tax deduction under Title 36, section 5122, subsection 2, paragraph XX or Title 36, 
+7 section 5200-A, subsection 2, paragraph JJ for contributions made to small business capital 
+8 savings accounts. 
+92.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+10 following terms have the following meanings.
+11 A.  "Capital expenditure" means an expenditure for the acquisition of items that are 
+12 depreciable under the United States Internal Revenue Code of 1986.
+13 B.  "Eligible small business" means a business that:
+14 (1)  Is subject to taxation under Title 36, Part 8;
+15 (2)  Has its business headquarters in the State;
+16 (3)  Is a C corporation, an S corporation or a sole proprietorship;
+17 (4)  Has no more than 99 full-time equivalent employees;
+18 (5)  Has its primary business activities in farming, fishing or forestry industries; 
+19 (6)  Makes contributions in accordance with Title 26, section 1221; and 
+20 (7) Is determined by the department to have established no more than one small 
+21 business capital savings account. 
+22 C.  "Program" means the Small Business Capital Saving Account Program established 
+23 in subsection 1.
+24 D.  "Small business capital savings account" means a savings account established in 
+25 the State by an eligible small business at a financial institution as defined in Title 36, 
+26 section 5206-D, subsection 8.
+273. Certification of businesses.  The department shall certify up to 10 eligible small 
+28 businesses in each of the following industry categories:
+29 A.  Commercial agricultural production as defined in Title 36, section 2013, subsection 
+30 1, paragraph A;
+31 B.  Commercial fishing as defined in Title 36, section 2013, subsection 1, paragraph 
+32 B; or
+33 C.  Commercial wood harvesting as defined in Title 36, section 2013, subsection 1, 
+34 paragraph B-1. 
+35 If there are not 10 eligible small businesses in one of the industry categories specified in 
+36 paragraphs A to C, the department may certify eligible small businesses in one of the other 
+37 industry categories, but the total number of eligible small businesses certified may not 
+38 exceed 30.  If there are more than 10 eligible small businesses in an industry category, the 
+Page 2 - 130LR0829(01)39 department shall give priority in the order in which the businesses are determined to be 
+40 eligible.
+34.  Requirements for small business capital savings accounts.  A small business 
+4 capital savings account must:
+5 A.  Have as its sole purpose the accumulation of capital to be used for capital 
+6 expenditures by the eligible small business;
+7 B.  Maintain a balance that does not exceed $250,000;
+8 C.  Provide that withdrawals from the account may be used only for capital 
+9 expenditures by the eligible small business; and
+10 D.  Provide that all funds in the account must be withdrawn within one year of the 
+11 dissolution of the business.
+125.  Certification of withdrawals.  An eligible small business shall notify the 
+13 department of all withdrawals from a small business capital savings account and provide 
+14 information required by the department to verify the use of the funds withdrawn.  The 
+15 department shall annually certify all withdrawals made by an eligible small business for 
+16 capital expenditures.  
+176.  Notification to the Bureau of Revenue Services.  The department shall notify the 
+18 Department of Administrative and Financial Services, Bureau of Revenue Services 
+19 annually of all eligible small businesses certified under subsection 3 that continue to meet 
+20 the conditions of eligibility during the calendar year and withdrawals certified under 
+21 subsection 5 for eligible small businesses and provide any other information necessary for 
+22 the bureau to determine a taxpayer's eligibility for the tax deduction under Title 36, section 
+23 5122, subsection 2, paragraph XX or Title 36, section 5200-A, subsection 2, paragraph JJ.  
+247.  Rules; other requirements.  The department, in consultation with the Department 
+25 of Administrative and Financial Services, Bureau of Revenue Services, shall adopt routine 
+26 technical rules, as defined in Title 5, chapter 375, subchapter 2-A, to implement this 
+27 section.  The department may establish any other guidelines or requirements necessary for 
+28 the operation of the program.
+298.  Report.  The department shall submit a report to the joint standing committee of 
+30 the Legislature having jurisdiction over taxation matters by December 15, 2023 that 
+31 includes data demonstrating the extent of business participation in the program, including 
+32 the number of businesses certified as eligible for the tax deductions under Title 36, section 
+33 5122, subsection 2, paragraph XX and Title 36, section 5200-A, subsection 2, paragraph 
+34 JJ, the amount of savings contributed by eligible small businesses to small business capital 
+35 savings accounts during each year and the amount of withdrawals by eligible small 
+36 businesses each year for capital expenditures.  The report must contain the department's 
+37 analysis of the success of the program and a recommendation regarding whether the 
+38 program should be continued.  The committee may submit legislation related to the report 
+39 to the Second Regular Session of the 131st Legislature.
+409.  Application.  This section applies to tax years beginning on or after January 1, 
+41 2021.
+4210.  Repeal.  This section is repealed December 31, 2024.  After that date no new 
+43 contributions may be made to a small business capital savings account.1
+2
+Page 3 - 130LR0829(01)1Sec. 2.  36 MRSA §5122, sub-§1, ¶PP is enacted to read:
+2 PP.  The amount of funds withdrawn from a small business capital savings account 
+3 established under Title 5, section 13100-A if the funds are not used during the tax year 
+4 for capital expenditures.  This paragraph applies to tax years beginning on or after 
+5 January 1, 2021.
+6 This paragraph is repealed December 31, 2024.
+7Sec. 3.  36 MRSA §5122, sub-§2, ¶XX is enacted to read:
+8 XX.  An amount up to $250,000 in the tax year contributed to a small business capital 
+9 savings account by an eligible small business certified by the Department of Economic 
+10 and Community Development under Title 5, section 13100-A, subsection 3 and used 
+11 for capital expenditures.  This paragraph applies to tax years beginning on or after 
+12 January 1, 2021.
+13 This paragraph is repealed December 31, 2024.
+14Sec. 4.  36 MRSA §5200-A, sub-§1, ¶II is enacted to read:
+15 II.  The amount of funds withdrawn from a small business capital savings account 
+16 established under Title 5, section 13100-A if the funds are not used during the tax year 
+17 for capital expenditures.  This paragraph applies to tax years beginning on or after 
+18 January 1, 2021.
+19 This paragraph is repealed December 31, 2024.
+20Sec. 5.  36 MRSA §5200-A, sub-§2, ¶JJ is enacted to read:
+21 JJ.  An amount up to $250,000 in the tax year contributed to a small business capital 
+22 savings account by an eligible small business certified by the Department of Economic 
+23 and Community Development under Title 5, section 13100-A, subsection 3 and used 
+24 for capital expenditures.  This paragraph applies to tax years beginning on or after 
+25 January 1, 2021.
+26 This paragraph is repealed December 31, 2024.
+27SUMMARY
+28 This bill establishes the Small Business Capital Savings Account Program in the 
+29 Department of Economic and Community Development to certify businesses eligible to 
+30 claim a tax deduction for contributions made to qualifying small business capital savings 
+31 accounts to be used for capital expenditures.  The bill creates the tax deduction and 
+32 establishes that withdrawals from the savings accounts are taxable income if not used for 
+33 capital expenditures.28
+29
+30
+31
+32
+33

@@ -1,0 +1,131 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1344
+H.P. 858 House of Representatives, March 28, 2023
+An Act to Improve the State's Election Laws by Amending the Laws 
+Relating to Automatic Voter Registration
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SUPICA of Bangor.
+Cosponsored by Senator BRENNER of Cumberland and
+Representatives: BOYER of Poland, COPELAND of Saco, DHALAC of South Portland, 
+EATON of Deer Isle, MATLACK of St. George, ZEIGLER of Montville.
+
+Page 1 - 131LR2029(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §1, sub-§21, as amended by PL 2011, c. 342, §4, is further 
+3 amended to read:
+421.  Incoming voting list.  "Incoming voting list" means the printed list of all of the 
+5 voters in a municipality that is used by election officials at a voting place to record which 
+6 voters have been issued a ballot at an election.  The list must include the following 
+7 information for each voter and may not include any other information: name; year of birth; 
+8 residence address; enrollment status; electoral district; voter status, active or inactive; voter 
+9 record number; designations regarding challenged ballots, absentee ballots or whether a 
+10 voter needs to show identification before voting; and any special designations indicating 
+11 uniformed service voters, overseas voters or township voters.  The portion of the incoming 
+12 voting list relating to Address Confidentiality Program participants must be kept under seal 
+13 and excluded from public inspection.  The residence address for any voter whose address 
+14 has been made confidential pursuant to section 22, subsection 3, paragraph B may not be 
+15 printed displayed on the incoming voting list, and the words "address is confidential" must 
+16 be printed displayed on the list instead.
+17Sec. 2.  21-A MRSA §121-A, as amended by PL 2021, c. 439, §3 and affected by 
+18 §15, is further amended to read:
+19§121-A.  Deadline for registration
+20 The deadline for receipt of voter registration applications submitted by mail or by a 3rd 
+21 person is the close of business on the 21st day before election day.  The deadline for receipt 
+22 of voter registration applications submitted online is midnight on the 21st day before 
+23 election day.  The deadline for receipt of voter registration applications transmitted by the 
+24 Department of the Secretary of State, Bureau of Motor Vehicles pursuant to section 232 or 
+25 by a source agency other than the Bureau of Motor Vehicles pursuant to section 233 is 
+26 midnight on the 7th day before election day.  The deadline for in-person registration is the 
+27 close of the polls on election day.
+28Sec. 3.  21-A MRSA §721, as amended by PL 2015, c. 447, §25, is further amended 
+29 to read:
+30§721.  Reports of registration and enrollment
+31 Within 15 business days after any statewide election, the registrar shall update all 
+32 information in the central voter registration system for all voters in the municipality to 
+33 reflect any voter registration activity after the incoming voting list was printed  prepared for 
+34 that election and up until the close of the polls on election day.  The registrar shall also 
+35 enter any designations of challenged ballots in the applicable voter records in the central 
+36 voter registration system.  The registrar shall notify the Secretary of State as soon as these 
+37 tasks are complete.
+38 After the registrar has completed the update of the central voter registration system, as 
+39 required by this section, and no later than 45 business days after the election, unless a 
+40 recount has been requested pursuant to section 737‑A, the clerk shall update the central 
+41 voter registration system by entering voter participation history for that election.  The clerk 
+42 shall notify the Secretary of State as soon as this task is completed.
+Page 2 - 131LR2029(01)1 In a municipality in which a recount has been requested pursuant to section 737‑A, the 
+2 clerk shall update the central voter registration system by entering voter participation 
+3 history for that election within 20 business days after receiving the incoming voting list 
+4 that has been returned by the Secretary of State after the recount.  The clerk shall notify the 
+5 Secretary of State as soon as this task is completed.
+6Sec. 4.  21-A MRSA §721, as amended by PL 2021, c. 750, §10 and affected by 
+7 §14, is further amended to read:
+8§721.  Reports of registration and enrollment
+9 Within 15 business days after any statewide election, the registrar shall update all 
+10 information in the central voter registration system for all voters in the municipality to 
+11 reflect any voter registration activity after the incoming voting list was printed  prepared for 
+12 that election and up until the close of the polls on election day.  The registrar shall also 
+13 enter any designations of challenged ballots in the applicable voter records in the central 
+14 voter registration system.  The registrar shall notify the Secretary of State as soon as these 
+15 tasks are complete.
+16 After the registrar has completed the update of the central voter registration system, as 
+17 required by this section, and no later than 45 business days after the election, unless a 
+18 recount has been requested pursuant to section 737‑A, the clerk shall update the central 
+19 voter registration system by entering voter participation history for that election and, if the 
+20 election was a primary election, by identifying which party's ballot, if any, was issued to 
+21 each participating unenrolled voter.  The clerk shall notify the Secretary of State as soon as 
+22 this task is completed.
+23 In a municipality in which a recount has been requested pursuant to section 737‑A, the 
+24 clerk shall update the central voter registration system by entering voter participation 
+25 history for that election and, if the election was a primary election, by identifying which 
+26 party's ballot, if any, was issued to each participating unenrolled voter within 20 business 
+27 days after receiving the incoming voting list that has been returned by the Secretary of State 
+28 after the recount.  The clerk shall notify the Secretary of State as soon as this task is 
+29 completed.
+30Sec. 5.  Effective date. This Act takes effect November 1, 2023 except that that 
+31 section that amends the Maine Revised Statutes, Title 21-A, section 721 as amended by 
+32 Public Law 2021, chapter 750 takes effect January 1, 2024.
+33SUMMARY
+34 This bill amends the definition of "incoming voting list" in the laws governing elections 
+35 to remove the requirement that the list be a printed list.  The bill also provides that the 
+36 deadline for receipt of voter registration applications transmitted by the Department of the 
+37 Secretary of State, Bureau of Motor Vehicles or by a source agency other than the Bureau 
+38 of Motor Vehicles under the automatic voter registration law is midnight on the 7th day 
+39 before election day.  Except for the section of the bill that amends the law regarding reports 
+40 of registration and enrollment that was amended by Public Law 2021, chapter 750, which 
+41 has an effective date of January 1, 2024, the bill establishes an effective date of November 
+42 1, 2023 for consistency with the effective date of Public Law 2021, chapter 439, which 
+43 amended the law establishing deadlines for receipt of voter registration applications.34
+35
+36
+37
+38
+39
+40
+41
+42
+43

@@ -1,0 +1,383 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+.\.q(Ci 
+~~~v 
+·~ 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 . N\~ari:t 
+Date, I..\/\ \l l..1-cl\'( --L.D. 1610 
+(Filing No. S-L/53) 
+ENERGY, UTILITIES AND TECHNOLOGY 
+Reproduced and distributed under the direction of the Secretary of the Senate. 
+STATE OF MAINE 
+SENATE 
+128TH LEGISLATURE 
+SECOND REGULAR SESSION 
+COMMITTEE AMENDMENT "A" to S.P. 566, L.D. 1610, Bill, "An Act To 
+Protect Privacy of Online Customer Personal Information" 
+Amend the bill by striking out the title and substituting the following: 
+'An Act Regarding Customer Personal Information' 
+Amend the bill by striking out everything after the enacting clause and before the 
+summary and inserting the following: 
+'Sec. 1. 5 MRSA §1812-H is enacted to read: 
+§1812-H. Purchasing of broadband Internet access service 
+1. Definitions. As used in this section, unless the context otherwise indicates, the 
+following terms have the following meanings. 
+A. "Broadband Internet access service" means a mass-market retail service by wire 
+or radio that provides the capability to transmit data to and receive data from all or 
+substantially all Internet endpoints, including any capabilities that are incidental to 
+and enable the operation of the service, but excluding dial-up Internet access service. 
+B. "Customer" means a current or former subscriber to a broadband Internet access 
+service. 
+C. "Customer personal information" means: 
+(1) Personally identifying information about a customer, including. but not 
+limited to, the customer's name, billing information, social security number, 
+billing address and demographic data: and 
+(2) Information from a customer's use of broadband Internet access service, 
+including: 
+(a) The customer's browsing history: 
+(b) The customer's application usage history; 
+Page 1 -128LR2315(02)-1 
+COMMITTEE AMENDMENT 
+.. 6'~ \. 1 ._j 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 COMMIITEE AMENDMENT "4" to S.P. 566, L,D, 1610 
+(c) The customer's precise geolocation information; 
+(d) The customer's financial information; 
+(e) The customer's health information; 
+(f) Information pertaining to the customer's children: 
+(g) The customer's device identifier, such as a media access control address. 
+international mobile equipment identity or Internet protocol address; 
+(h) The content of the customer's communications; and 
+(i) The origin and destination Internet protocol addresses. 
+D. "Inappropriate use, sale or disclosure of or access to customer personal 
+information" means the use, sale or disclosure of or access to customer personal 
+information by a provider without the customer's express, affirmative consent; the 
+refusal to serve a customer that does not provide a provider with consent to use, sell, 
+disclose or permit access to that customer personal information; or charging a 
+customer a fee or penalty if the customer does not provide a provider with consent to 
+use, sell. disclose or permit access to that customer personal information. 
+"Inappropriate use, sale or disclosure of or access to customer personal information" 
+does not include the use, sale or disclosure of or access to customer personal 
+information: 
+(1) For the purpose of providing the service from which such information is 
+derived or for the service necessary to the provision of such service; 
+(2) To advertise or market the provider's communications-related services to the 
+customer; 
+(3) To comply with a lawful court order; 
+(4) To initiate, render, bill for and collect payment for broadband Internet access 
+service; 
+(5) To protect users of the provider's or other providers' services from :fraudulent, 
+abusive or unlawful use of or subscription to such services; and 
+(6) To provide precise geolocation information concerning the customer to: 
+(a) For the purpose of responding to the customer's call for emergency 
+services, a public safety answering point. as defined in Title 25, section 2921, 
+subsection 7; a provider of emergency medical or emergency dispatch 
+services; a public safety, fire service or law enforcement official: or a 
+hospital emergency or trauma care facility: 
+(b) The customer's legal guardian or a member of the customer's immediate 
+family in an emergency situation that involves the risk of death or serious 
+physical harm: or 
+Page 2-128LR2315(02)-l 
+COMMITTEE AMENDMENT 
+", :< ,, 
+0' 
+-Ir,....-1 ·, 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 COMMITTEE AMENDMENT'~" to S.P. 566, L.D. 1610 
+(c) A provider of information or database management services solely for 
+the purpose of assisting in the delivery of emergency services in response to 
+an emergency. 
+E. "Provider" means a person that provides broadband Internet access service. 
+2. Customer protections; purchasing broadband Internet access service. The 
+Department of Administrative and Financial Services, Bureau of General Services may 
+not contract for the purchase of broadband Internet access service from a provider that 
+engages in the inappropriate use. sale or disclosure of or access to customer personal 
+information. 
+A provider that contracts with the State for broadband Internet access service may not 
+engage in the inappropriate use. sale or disclosure of or access to customer personal 
+information for the duration of the contract. 
+Sec. 2. 35-A MR.SA §9205-A is enacted to read: 
+§9205-A. Grant limitations to providers of broadband Internet access service 
+1. Definitions. As used in this section, unless the context otherwise indicates, the 
+following terms have the following meanings. 
+A. "Broadband Internet access service" means a mass-market retail service by wire 
+or radio that provides the capability to transmit data to and receive data from all or 
+substantially all Internet endpoints, including any capabilities that are incidental to 
+and enable the operation of the service, but excluding dial-up Internet access service. 
+B. "Customer" means a current or former subscriber to a broadband Internet access 
+service. 
+C. "Customer personal information" means: 
+(1) Personally identifying information about a customer, including, but not 
+limited to, the customer's name, billing information, social security number, 
+billing address and demographic data; and 
+(2) Information from a customer's use of broadband Internet access service, 
+including: 
+(a) The customer's browsing history; 
+(b) The customer's application usage history; 
+(c) The customer's precise geolocation information; 
+(d) The customer's financial information; 
+(e) The customer's health information; 
+(f) Information pertaining to the customer's children; 
+(g) The customer's device identifier, such as a media access control address, 
+international mobile equipment identity or Internet protocol address; 
+(h) The content of the customer's communications; and 
+Page 3 -128LR2315(02)-1 
+COMMITTEE AMENDMENT 
+COMMITI'EE AMENDMENT "4 "to S.P. 566, L.D. 1610 
+1 (i) The origin and destination Internet protocol addresses. 
+2 D. "Inappropriate use, sale or disclosure of or access to customer personal 
+3 information" means the use, sale or disclosure of or access to customer personal 
+4 information by a provider without the customer's express, affirmative consent; the 
+5 refusal to serve a customer that does not provide a provider with consent to use, sell, 
+6 disclose or permit access to that customer personal information; or charging a 
+7 customer a fee or penalty if the customer does not provide a provider with consent to 
+8 use, sell, disclose or permit access to that customer personal information. 
+9 "Inappropriate use, sale or disclosure of or access to customer personal information" 
+10 does not include the use, sale or disclosure of or access to customer personal 
+11 information: 
+12 (1) For the purpose of providing the service from which such information is 
+13 derived or for the service necessary to the provision of such service: 
+14 (2) To advertise or market the provider's communications-related services to the 
+15 customer; 
+16 (3) To comply with a lawful court order; 
+17 ( 4) To initiate, render, bill for and collect payment for broadband Internet access 
+18 service; 
+19 (5) To protect users of the provider's or other providers' services from fraudulent, 
+20 abusive or unlawful use of or subscription to such services; and 
+21 (6) To provide precise geolocation information concerning the customer to: 
+22 (a) For the purpose of responding to the customer's call for emergency 
+23 services, a public safety answering point, as defmed in Title 25, section 2921, 
+24 subsection 7; a provider of emergency medical or emergency dispatch 
+25 services: a public safety, fire service or law enforcement official; or a 
+26 hospital emergency or trauma care facility; 
+27 (b) The customer's legal guardian or a member of the customer's immediate 
+28 family in an emergency situation that involves the risk of death or serious 
+29 physical harm: or 
+30 (c) A provider of information or database management services solely for 
+31 the purpose of assisting in the delivery of emergency services in response to 
+32 an emergency. 
+33 E. "Provider" means a person that provides broadband Internet access service. 
+34 2. Customer protections; grants to providers. The authority may not provide 
+35 grant funding under this chapter to a provider that engages in the inappropriate use, sale 
+36 or disclosure of or access to customer personal information. 
+3 7 A provider that receives grant funding from the authority may not engage in the 
+38 inappropriate use, sale or disclosure of or access to customer personal information for 5 
+39 years from the date funds are received. 
+Page 4 -128LR2315{02)-1 
+COMMITTEE AMENDMENT 
+/ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 COMMITTEE AMENDMENT"~ "to S.P. 566, L.D. 1610 
+Sec. 3. Net neutrality principle. No later than January 15, 2019, the Office of 
+the Attorney General shall submit to the joint standing committee of the Legislature 
+having jurisdiction over utilities and technology matters a report that addresses the 
+following: 
+1. The extent to which, under the Maine Unfair Trade Practices Act or any other 
+state law, the Office of the Attorney General is able to ensure that a provider of 
+broadband Internet access service, as defined in the Maine Revised Statutes, Title 5, 
+section 1812-H, paragraph A, is adhering to the net neutrality principles adopted in the 
+Federal Communications Commission's 2015 open Internet order, GN Docket No. 14-28, 
+FCC 15-24, adopted February 26, 2015 and released March 12, 2015; and 
+2. In light of the Federal Communications Commission's 2017 restoring Internet 
+freedom order, WC Docket No. 17-108, FCC 17-166, adopted December 14, 2017 and 
+released January 4, 2018, can legislation be enacted to specifically regulate broadband 
+Internet access service to ensure a provider is adhering to net neutrality principles if there 
+currently is no authority for the Office of the Attorney General or any other state office to 
+ensure that a provider of broadband Internet access service is adhering to net neutrality 
+principles? 
+The committee may report out a bill to the First Regular Session of the 129th 
+Legislature based on the report.' 
+SUMMARY 
+This amendment is the majority report, and it replaces the bill. It prohibits the 
+Department of Administrative and Financial Services, Bureau of General Services from 
+entering into a contract for the purchase of broadband Internet access service from any 
+provider that engages in the inappropriate use, sale or disclosure of or access to customer 
+personal information. It requires any provider that contracts with the State for broadband 
+Internet access service to adhere to the limitations regarding the inappropriate use, sale or 
+disclosure of or access to customer personal information. It prohibits the ConnectME 
+Authority from providing any grant funding to a provider of broadband Internet access 
+service that engages in the inappropriate use, sale or disclosure of or access to customer 
+personal information. It requires that a provider that receives grant funding from the 
+ConnectME Authority must adhere to the limitations regarding the inappropriate use, sale 
+or disclosure of or access to customer personal information for 5 years from the date 
+grant funding is received. Lastly, it directs the Office of the Attorney General to submit a 
+report by January 15, 2019 to the joint standing committee of the Legislature having 
+jurisdiction over utilities and technology matters related to the State's ability to ensure 
+that providers of broadband Internet access service are adhering to net neutrality 
+principles. 
+FISCALNOTE REQUIRE'> 
+(See attached) 
+Page 5 -128LR2315(02)-1 
+COMMITTEE AMENDMENT 
+Approved: 04/04/18 feac. 
+128th MAINE LEGISLATURE 
+LD 1610 LR 2315(02) 
+An Act To Protect Privacy of Online Customer Personal Information 
+Fiscal Detail and No,tes Fiscal Note for Bill as Amended by Committee Amendment 'ff l £,-/.4 ~ 
+Committee: Energy, Utilities and Technology 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Minor cost increase -Other Special Revenue Funds 
+Any additional costs to the ConnectME Authority as a result of prohibiting the Authority from providing a grant to a 
+provider of broadband Internet access service that engages in the inappropriate use, sale, disclosure or access to 
+customer personal information are expected to be minor and can be absorbed within existing budgeted resources. 
+Any additional costs to the Bureau of General Services in the Department of Administrative and Financial Services to 
+implement the provisions of this bill are assumed to be minor and can be absorbed within existing budgeted resources. 
+Any additional costs to the Office of the Attorney General to prepare and submit a report related to the State's ability 
+to ensure providers of broadband internet access service are adhering to net neutrality principles are expected to be 
+minor and can be absorbed within existing budgeted resources. 
+LR2315(02) -Fiscal Note -Page 1 of 1 

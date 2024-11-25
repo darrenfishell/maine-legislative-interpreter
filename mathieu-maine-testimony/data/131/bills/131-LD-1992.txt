@@ -1,0 +1,160 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1992
+H.P. 1275 House of Representatives, May 23, 2023
+An Act to Legalize Historical Horse Racing and Electronic Beano to 
+Allow Maine Gaming Licensees and Federally Recognized Indian 
+Tribes to Compete with Other Gaming States
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative COLLINGS of Portland.
+
+Page 1 - 131LR2284(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  8 MRSA c. 37 is enacted to read:
+3CHAPTER 37
+4ELECTRONIC BEANO AND HISTORICAL HORSE RACING
+5§1301. Definitions
+6 As used in this chapter, unless the context indicates otherwise, the following terms 
+7 have the following meanings.
+81.  Director.  "Director" means the director of the Gambling Control Unit within the 
+9 Department of Public Safety.
+102.  Electronic beano terminal.  "Electronic beano terminal" means an electronic 
+11 device used by a beano participant to play high-stakes electronic beano. An electronic 
+12 beano terminal allows a participant, upon payment of cash, token or credit, to play a game 
+13 of chance resembling beano from a draw of no more than 75 letters and numbers that 
+14 correspond to the electronic beano game. The element of chance is determined by a central 
+15 computer server system that communicates with the electronic beano terminal.  An 
+16 electronic beano terminal is not a slot machine as defined in section 1001, subsection 39.
+173.  Gambling facility.  "Gambling facility" means a race track, off-track betting facility 
+18 or high-stakes beano or beano facility licensed under Title 17, chapter 13-A or slot machine 
+19 facility or casino licensed under chapter 31.
+204.  Historical horse race.  "Historical horse race" means a horse race that:
+21 A.  Was previously run at a licensed pari-mutuel facility located in the United States;
+22 B.  Concluded with official results; and
+23 C.  Concluded without scratches, disqualifications or dead-heat finishes.
+245.  Historical horse racing terminal.  "Historical horse racing terminal" means an 
+25 electronic device that allows a player to place a pari-mutuel wager on a historical horse 
+26 race upon payment of cash, token or credit.  A historical horse racing terminal is not a slot 
+27 machine as defined in section 1001, subsection 39.
+286.  License.  "License" means a license issued by the director under this chapter.
+297.  Licensee.  "Licensee" means a person granted a license under this chapter.
+308.  Net terminal income.  "Net terminal income" means cash, tokens, credits or similar 
+31 objects or things of value used to play on an electronic beano terminal or a historical horse 
+32 racing terminal minus cash, credits or prizes paid out to winners.
+339.  Pari-mutuel wagering.  "Pari-mutuel wagering" means a method of wagering in 
+34 which those who wager on horses that finish in the position or positions for which wagers 
+35 are taken share in the total amounts wagered.
+36§1302.  Powers of director
+371.  Powers.  In administering and enforcing this chapter, the director may:
+Page 2 - 131LR2284(01)1 A.  Pursuant to section 1303, approve or deny any application and issue, limit, restrict, 
+2 suspend or revoke any license issued under this chapter;
+3 B.  Review reports of the investigation and qualifications of an applicant before a 
+4 license is issued;
+5 C.  Prescribe the manner for the collection of all revenues under this chapter;
+6 D.  Adopt rules the director determines necessary to administer this chapter;
+7 E.  Investigate complaints regarding the operation of electronic beano terminals and 
+8 historical horse racing terminals in violation of this chapter and rules adopted pursuant 
+9 to this chapter;
+10 F.  Impose sanctions, penalties and costs of investigation and hearing against an 
+11 applicant or licensee for violation of this chapter or rules adopted pursuant to this 
+12 chapter; and
+13 G.  Conduct a financial audit of any licensee, at any time, to ensure compliance with 
+14 this chapter.
+15§1303.  License to operate electronic beano or historical horse racing terminals
+161.  License required.  A person may not operate an electronic beano terminal or 
+17 historical horse racing terminal unless the person has been issued a license by the director.  
+18 An electronic beano license authorizes a licensee to own or lease electronic beano terminals 
+19 at a licensed gambling facility.  A historical horse racing license authorizes a licensee to 
+20 own or lease historical horse racing terminals at a licensed gambling facility.
+212.  Persons eligible for license.  The director may issue licenses to operate electronic 
+22 beano terminals and may issue licenses to operate historical horse racing terminals to:
+23 A.  Federally recognized Indian tribes authorized to conduct high-stakes beano in 
+24 accordance with Title 17, section 314-A;
+25 B.  Operators of commercial tracks and off-track betting facilities licensed to conduct 
+26 pari-mutuel wagering under chapter 11; and
+27 C.  Operators of slot machine facilities or casinos licensed under chapter 31.
+283.  Location.  Operation of an electronic beano terminal or a historical horse racing 
+29 terminal licensed in accordance with this section must be at the gambling facility where the 
+30 licensee is authorized to conduct beano, accept pari-mutuel wagers, operate slot machines 
+31 or operate table games.
+32§1304.  Allocation of funds
+331.  Distribution of net terminal income.  A person licensed under this chapter shall 
+34 collect and distribute 10% of the net terminal income from electronic beano terminals and 
+35 historical horse racing terminals to the director for distribution by the director as follows:
+36 A.  One percent of net terminal income must be deposited to the General Fund for 
+37 administrative expenses of the Gambling Control Unit in the Department of Public 
+38 Safety;
+39 B.  One percent of net terminal income must be forwarded by the director to the 
+40 Treasurer of State, who shall credit the money to the Gambling Addiction Prevention 
+41 and Treatment Fund established by Title 5, section 20006-B;
+Page 3 - 131LR2284(01)1 C.  Four percent of net terminal income must be forwarded by the director to the 
+2 Treasurer of State, who shall credit the money to the Agricultural Fair Support Fund 
+3 established pursuant to Title 7, section 91; and
+4 D.  Four percent of net terminal income must be forwarded by the director to the 
+5 Treasurer of State, who shall credit the money to the fund established in section 298 to 
+6 supplement harness racing purses.
+72.  Failure to collect and distribute funds.  A person licensed under this chapter who 
+8 knowingly or intentionally fails to comply with this section commits a Class C crime.  In 
+9 addition to any other sanction available by law, the license of a person may be revoked by 
+10 the director and electronic beano terminals and historical horse racing terminals operated 
+11 by the licensee may be disabled and the proceeds and associated gaming equipment may 
+12 be confiscated by the director and are subject to forfeiture under Title 17-A, section 959 or 
+13 960.
+143.  Late payments.  The director may adopt rules establishing the dates on which 
+15 payments required by this section are due.  All payments not remitted when due must be 
+16 paid together with interest on the unpaid balance at a rate of 1.5% per month.
+17§1305.  Violations and penalties
+181.  Violation.  A person, firm, corporation or association or an agent or employee of 
+19 one of those entities may not violate this chapter or a rule adopted pursuant to this chapter.  
+202.  Penalty.  For each violation of this chapter or of a rule adopted pursuant to this 
+21 chapter, the director may:  
+22 A. Impose a fine of up to $1,000 per violation; or   
+23 B. Impose a fine not to exceed $5,000 for violations arising out of the same transaction 
+24 or occurrence.
+25§1306.  Applicability of other laws
+26 Unless expressly provided in this chapter, the provisions of Title 17, chapter 62 and 
+27 Title 17-A, chapter 39 do not apply to the conduct of electronic beano and historical horse 
+28 racing operated in accordance with this chapter and rules adopted pursuant to this chapter.  
+29§1307.  Rulemaking
+30 The director may adopt rules to implement this chapter.  Rules adopted pursuant to this 
+31 section are major substantive rules as defined in Title 5, chapter 375, subchapter 2-A.
+32SUMMARY
+33 This bill authorizes the licensed operation of electronic beano terminals and historical 
+34 horse racing terminals by federally recognized Indian tribes, off-track betting facilities, 
+35 commercial tracks, slot machine facilities and casinos.  Licenses are issued by the director 
+36 of the Gambling Control Unit within the Department of Public Safety.  The bill requires an 
+37 operator of an electronic beano terminal or a historical horse racing terminal to collect 10% 
+38 of net terminal income for distribution to the General Fund for administrative expenses of 
+39 the Gambling Control Unit and to gambling addiction prevention and treatment services, 
+40 harness racing purses and agricultural fairs.33
+34
+35
+36
+37
+38
+39
+40

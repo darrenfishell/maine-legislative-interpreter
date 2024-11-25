@@ -1,0 +1,171 @@
+ 
+ 
+ 
+ 
+ 
+Testimony  before the   
+Committee  on Energy, Utilities  and Technology  
+Nora  Bosworth   
+Conservation  Law Foundation  
+February  2, 2023 
+ RE:  Testimony  in Opposition  of LD 175  – An  Act to Increase the  Use of Municipal  
+Waste -to-energy  Processes as  a Source of  Renewable  Energy  
+ Senator  Lawrence, Representative  Zeigler,  and members of  the Energy, Utilities  and Technology 
+Committee:  
+ Thank you for  the opportunity to submit testimony  on LD  175, an  Act to Increase the  Use of  
+Municipal  Waste -to-energy  Processes as a  Source  of Renewable Energy.  Conservation Law  
+Foundation (“
+CLF”)  opposes  this bill.  
+ CLF is a member- supported nonprofit  organization  working to  conserve  natural  resources,  
+protect  public  health, and  build healthy  communities  in Maine  and throughout  New E ngland. 
+Through its  Zero  Waste Project,  CLF  aims  to improve  waste diversion and  recycling  programs  
+and protect  communities  and our  environment  from  the dangers  of unsustainable  waste 
+management  practices and pollution from  landfills,  waste incinerators,  and other  high- heat waste  
+processing.  
+ 
+LD 175 would  amend  Maine ’s solid  waste management  hierarchy  to add the incineration  of 
+waste to  generate electricity  to the State ’s solid  waste management  prioritie s. The amendment  
+would prioritize  incineration  for gene rating  electricit y as a form  of “reuse of waste”,  preferable  
+even  to recycling.
+1 This  bill would also amend  existing  renewable  resource law to expand the  
+definition  of “renewable capacity  resource”  to include  the burning of  municipal solid  waste for  
+electr ical generation.  
+ 
+Incineration  harms  local  communities  and the  environment;  it should remain  at the bottom  of the 
+solid  waste management  hierarchy, and  it should not be considered a  “renewable capaci ty 
+resource” because mun icipal solid  waste  is comprised  of non- renewable resources.  
+ 
+I. Incinerators do  not produce  renewable energy .  
+ 
+Incineration,  often  referred  to as “waste- to-energy”  by the  industry, is  a high -heat waste   
+ 
+1 38 M.R.S.A.  § 2101 
+ 
+ 
+-2-  
+  
+treatment technology that  involves  burning municipal  solid  waste (“MSW”),  a.k.a. the 
+combination  of commercial,  residential,  and industrial wastes.  High -heat incineration  converts  
+these materials  into bottom  ash, fly ash, combustion gases,  air pollutants,  wastewater,  wastewater  
+treatment  sludge, and heat.   
+ 
+Muni cipal  Solid  Waste comprises  many  materials  that are not “renewable.” Incineration  of MSW  
+that contains  fossil  fuels,  such as plastics and rubber, releases the  bound carbon stored  in those  
+fossil  fuels.
+2 According to  the U.S.  Environmental  Protection  Agency (“EPA”),  in 2020, MSW  
+incineration released  more  than 11.0 million  metric  tons  of carbon dioxide  equivalent  (“CO2e”)  
+greenhouse  gases.3 Per unit of electricity  generated,  waste incineration  emits  more  carbon 
+dioxide  (2,988 lbs/MWh)  than coal -fired  power  plants  (2,249 lbs/MWh).4 
+ 
+Moreover, according to the EPA,  zero  waste practices  such  as source  reduction, recycling, and 
+composting provide  a significant  net life-cycle  reduction in greenhouse  gas emissi ons compared  
+to incineration.5 Zero waste  practices  conserve  significantly  more  energy than can  be generated  
+via incineration.6 Source  reduction, recycling, and composting  can conserve  three  to five times  
+more  energy,  per ton of  waste,  than can be genera ted by incinerating  that same ton of  waste.7 
+ 
+II. Incinerators’  toxic  emissions and ash  are bad for  the environment , public  health,  
+and the  economy.  
+Waste incineration  not only  emits  climate -altering  greenhouse  gases,  but it also  releases 
+significant  levels of  toxic  pollutants  harming communities.  On average,  to produce  the same 
+amount  of energy as a  coal power  plant, waste incinerators release:  
+ 
+2 U.S. EPA,  Solid Waste  Management  and Greenhouse  Gases,  a Life-Cycle  Assessment  of Emissions and Sinks  76 
+(3d ed. 2006)  (“Combustion  of plastics  results  in substantial  net [greenhouse  gas] emissions.  …This  result  is 
+primarily  because of the high content  of non-biomass  carbon  in plastics.”) .  
+3 Estimate  of total U.S. solid  waste  combustion  emissions is from  the Inventory  of U.S. Greenhouse  Gas Emissions  
+and Sinks: 1990 -2019.  EPA  430-R-21-005. U.S. Environmental  Protection  Agency.  April  14, 2021,   
+https://www.epa.gov/gh gemissions/inventory -us-greenhouse -gas-emissions- and-sinks -1990- 2019.  Emissions  were   
+estimated  to be 11.8 MMT  CO2e  (Table  3-25: CO2,  CH4,  and N20 Emissions  from  the Incineration  of Waste  (page  
+3-58)), available  at https://w ww.epa.gov/system/files/documents/2022 -01/waste_profile_01- 10-2022.pdf .  
+4 Morris,  Jeffrey,  Bury  or Burn  North  America MSW?  LCAs  Provide  Answers  for Climate  Impacts  & Carbon 
+Neutral  Power  Poten tial, Environmental  Science & Technology,  Volume  44, NO. 20, September,  2010.  See also 
+Energy  Justice  Network,  Trash  Incineration  More  Polluting  Than  Coal,  available  at 
+http://www.energy justice.net/incineration/worsethancoal  (when  “biogenic”  emissions  are included  in the calculus,  
+incineration  releases  carbon  dioxide  “at a rate 2.5 times  that of coal power  plants”).  
+5 U.S. EPA,  supra  note 2, at 116–19. 
+6 Marie  Donahue,  Institute  for Local  Self-Reliance,  Waste  Incineration:  A Dirty  Secret  in How  States  Define  
+Renewable  Energy  11 (2018),  https://cdn.ilsr.org/wp -content/uploads/2018/12/ILSRIncinerationFInalDraft -
+6.pdf?_ga=2.79339284.1617161981.1675109406672360076.1675109406&_gl=1*1b6199o* _ga*NjcyMzYwMDc2
+LjE2NzUxMDk0MDY.*_ga_M3134750WM*MTY3NTE wOTQwNS4xLjEuMTY3NTEwOTQ0NS4wLjAuMA.. . 
+7 Id. 
+ 
+ 
+-3-  
+ 
+ 
+• 28 times  as much dioxin;  
+• Twice  as much  carbon monoxide;  
+• Three  times  as many nitrogen oxides;  
+• 6–14 times  as much mercury;  
+• Nearly  six times  as much  lead;  and, 
+• 70% more  sulfur  dioxides.8 
+ 
+Incinerators  are also  significant  sources of  particulate matter emissi ons.9 Inhalation  of particulate  
+matter  has been  linked  to respiratory  and cardiovascular  problems  and may  cause approximately  
+2 million  excess deaths  worldwide  each  year.10 A 2011 study published in the American  
+Economic  Review  found that among U.S. industries, waste incineration  has the highest  ratio  of 
+negative  economic  impacts  from  air pollution compared  to the financial value  added by  the 
+industry.11 
+ 
+3. Incineration  is not a solid  waste  management  solution .  
+ Incineration  is often  touted  as a landfill alternative,  but after  incineration, roughly 25%  of the 
+weight  of incoming  waste  remains in the form  of residual  ash that must  be landfilled.
+12 This  ash 
+contains  high  levels of  dioxin, mercury,  lead,  polychlorinated  biphenyls  (“PCBs ”) and 
+polychlorinated  naphthalens  (“PCNs”) .13 When  incinerator  ash is deposited in  landfills,  these 
+pollutants  eventually leach  out and pose a threat  to groundwater, drinking  water,  and surface  
+water  bodies , also  impacting  wildlife  habitat .14 
+   
+ 
+8 Energy Justice  Network,  supra  note 4; see also Environmental Integrity  Project,  Dirtying  Maryland’s  Air by 
+Seeking  a Quick  Fix on Renewable  Energy?  3–8 (2011),  https://environmentalintegrity.org/wp -
+content/uploads/2016/11/FINALWTEINCINERATORREPORT -101111.pdf  (Maryland’s  two major  incinerators  
+release mercury,  lead,  nitrogen oxides,  and carbon  monoxide  at significantly  higher  rates  than Maryland’s  four coal-
+fired  power  plants).  
+9 The New  School,  U.S. Municipal  Solid  Waste Incinerators:  An Industry in Decline  34 (2019),  
+https://static1.squarespace.com/static/5d14dab43967cc000179f3d2/t/5d5c4bea0d59ad00012d220e/1566329840732/
+CR_Ga iaReportFinal_05.21.pdf . 
+10 Howard,  C. Vyvyan,  Statement  of Evidence,  Particulate  Emissions  and Health,  Proposed Ringaskiddy Waste -to- 
+Energy  Facility  4–5 (2009).  
+11 Muller,  Nicholas  Z., Robert Mendelsohn,  and William  Nordhaus,  101 Environmental  Accounting  for Pollution  in 
+the United States  Economy,  American  Economic  Review  5, 1649,  1664– 69 (2011).  
+12 U.S. EPA,  Municipal Solid  Waste  in the United  States:  2011  Facts  and Figures  143– 44 (2013),  
+https://archive.epa.gov/epawaste/nonhaz/municipal/web/pdf/mswcharacterization_fnl_060713_2_rpt.pdf .  
+13 Jindrich  Petrlik  and Ralph  Anthony  Ryder,  After  Incineration:  The Toxic  Ash Problem  4–6 (2005),  
+https://ipen.org/sites/default/files/documents/ipen_incineration_ash -en.pdf ; Michelle  Allsopp,  Pat Costner,  and Paul 
+Johnston,  Incineration  and Human  Health  11–12 (2001).  
+14 Michelle  Allsopp,  Pat Costne r, and Paul Johnston,  Incineration  and Human  Health  11–12 (2001).  
+ 
+ 
+-4-  
+   Incineration  is not the  solution to  waste  management  in Maine.  Incineration,  regardless  of its  use, 
+should not be  a solid  waste management priority-- as the current  Solid  Waste Hierarchy  correctly  
+reflects.
+15 It is equally alarmin g to consider  designating the burning of trash  as a renewable 
+resource,  given that is not renewable,  and is  very  harmful to  communities  and to  the 
+environment.    Maine must promote sensible,  proven, and effective policies that  increase  waste diversion and 
+bolster true  recycling , while  preserving  the definition  of renewable capacity  resource as  those 
+sources that rely on wind  or solar  generation . An RPS  policy must support generation of 
+renewable resources that will ensure Maine meets its  climate  targets  to address the  climate  crisis,  
+not incentivize harmful and greenhouse gas intensive  practices.  To decarbonize the  region, CLF  
+has long focused on reducing reliance  on fossil  fuels.  Reducing emissions  from the waste sector  
+is critical  through zero  waste strat egies.  These strategies include banning unrecyclable plastics,  
+improving  organic waste diversion through composting and anaerobic digestion, and improving 
+recycling  and reuse through  Maine’s  landmark  program for  extended producer responsibility  for 
+packaging. Through a combination of these laws,  policies , and  enforcement, we  can implement 
+the zero  waste  alternatives that  will significantly  reduce our  waste and the  need  for incineration.   
+ For 
+all these  reasons,  CLF  urges the committee  to oppose this  bill. Thank you for the opportunity 
+to submit this  testimony.  
+ 
+Respectfully  submitted, 
+ 
+ 
+Nora  Bosworth  
+Staff Attorney, Zero  Waste Project  
+Conservation Law  Foundation 
+nbosworth@clf.org  
+   
+ 
+15  38 M.R.S.A. § 2101 
+

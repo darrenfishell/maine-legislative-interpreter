@@ -1,0 +1,133 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1928
+S.P. 786 In Senate, May 11, 2023
+An Act to Protect Maine Taxpayers from Unconstitutional Federal 
+Expenditures
+Reference to the Committee on Taxation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRAKEY of Androscoggin.
+Cosponsored by Representative WHITE of Guilford and
+Senators: HARRINGTON of York, KEIM of Oxford, Representatives: BOYER of Poland, 
+FAULKINGHAM of Winter Harbor, HENDERSON of Rumford, HYMES of Waldo, LIBBY 
+of Auburn, QUINT of Hodgdon.
+
+Page 1 - 131LR1747(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  3 MRSA c. 39 is enacted to read:
+3CHAPTER 39
+4REGULATION OF UNCONSTITUTIONAL FEDERAL EXPENDITURES
+5§1051.  Process for determining unconstitutional federal expenditures
+61.  Request for opinion of justices.  Upon the belief that the Federal Government has 
+7 made an expenditure of federal funds that is not authorized by the United States 
+8 Constitution, either body of the Legislature may request the Supreme Judicial Court, 
+9 pursuant to the Constitution of Maine, Article VI, Section 3, for a determination of whether 
+10 the expenditure is an unconstitutional expenditure.  For purposes of this section, 
+11 "unconstitutional expenditure" means an expenditure of federal funds that is not authorized 
+12 under the provisions of the United States Constitution.  
+132. Action based on affirmative answer.  If, pursuant to subsection 1, the Supreme 
+14 Judicial Court answers that an expenditure is an unconstitutional expenditure, the 
+15 Legislature by resolve may:
+16 A.  Require for a limited duration, as specified in the resolve, employers to submit 
+17 federal income taxes withheld from their employees to the Department of 
+18 Administrative and Financial Services, Bureau of Revenue Services pursuant to Title 
+19 36, section 5250, subsection 1-A; and
+20 B.  Require the Department of Administrative and Financial Services, Bureau of 
+21 Revenue Services to:
+22 (1)  Determine the amount of the unconstitutional expenditure borne by residents 
+23 of this State; and  
+24 (2)  Withhold from federal income taxes payable to the United States Internal 
+25 Revenue Service the amount determined pursuant to subparagraph (1).
+26Sec. 2.  36 MRSA §185-B is enacted to read:
+27§185-B.  Setoff of federal income taxes against unconstitutional federal expenditures
+28 Upon direction by the Legislature pursuant to Title 3, section 1051, subsection 2, the 
+29 bureau shall set off an unconstitutional federal expenditure as provided in this section.  For 
+30 purposes of this section, "unconstitutional federal expenditure" means an expenditure of 
+31 federal funds that is not authorized under the provisions of the United States Constitution 
+32 and is found to be unconstitutional by the Supreme Judicial Court pursuant to Title 3, 
+33 section 1051, subsection 1.
+341.  Determination of set-off amount.  In order to determine the amount of the setoff, 
+35 the bureau shall:
+36 A. Determine the cost of the unconstitutional federal expenditure;
+37 B. Determine the total federal appropriation for the federal fiscal year in which the 
+38 unconstitutional federal expenditure is made;
+Page 2 - 131LR1747(01)1 C. Divide the amount determined under paragraph A by the amount determined under 
+2 paragraph B; and
+3 D. Multiply the result obtained in paragraph C by the total amount of federal income 
+4 taxes paid by resident and nonresident individuals who filed Maine income tax returns 
+5 for the tax year during which the unconstitutional federal expenditure was made.
+6 The assessor shall inform the Governor, the President of the Senate and the Speaker of the 
+7 House of the amounts determined pursuant to this subsection.
+82.  Withhold federal income taxes.  The bureau shall establish within the Department 
+9 of Administrative and Financial Services a segregated account, referred to in this section 
+10 as "the segregated account."  The bureau shall transfer into the segregated account the 
+11 amount of federal income taxes collected pursuant to section 5250, subsection 1-A equal 
+12 to the portion of the unconstitutional federal expenditure attributable to Maine taxpayer 
+13 funds as determined pursuant to subsection 1, paragraph D.
+143.  Disbursement of set-off amount.  Funds withheld and transferred to the segregated 
+15 account pursuant to subsection 2 must be disbursed as provided in this subsection.
+16 A.  The Treasurer of State shall inform the State Controller and the assessor if the State 
+17 receives an amount of federal funds less than the amount anticipated.  Upon such 
+18 notice, the State Controller shall transfer from the segregated account to the General 
+19 Fund an amount equal to the deficit of federal funds determined by the Treasurer of 
+20 State.
+21 B.  At the close of each state fiscal year, if funds remain in the segregated account, the 
+22 assessor shall refund the funds to Maine taxpayers on a pro rata basis in direct 
+23 proportion to the amount of federal taxes paid by the taxpayer for the prior tax year.
+24Sec. 3.  36 MRSA §5250, sub-§1-A is enacted to read:
+251-A.  Federal tax withholding.  Notwithstanding any provision of law to the contrary, 
+26 when directed by law pursuant to Title 3, section 1051, subsection 2, paragraph A, an 
+27 employer maintaining an office or transacting business in this State that makes payment to 
+28 a resident individual or a nonresident individual of wages subject to tax under this Part, if 
+29 required to withhold federal income tax from those wages, shall transmit to the assessor 
+30 any federal income taxes withheld by that employer at the same time and in the same 
+31 manner as the taxes due under this Part are transmitted to the assessor.  Except as provided 
+32 in section 185-B, the bureau shall transmit the federal income taxes collected pursuant to 
+33 this subsection to the United States Internal Revenue Service no later than 5 business days 
+34 following transmission from an employer.
+35SUMMARY
+36 This bill establishes a procedure for the State to avoid paying for federal expenditures 
+37 that are determined by the Maine Supreme Judicial Court to be in violation of the United 
+38 States Constitution.  
+39 Upon a determination by the Maine Supreme Judicial Court that a federal expenditure 
+40 is unconstitutional, the Legislature may require an employer in this State that withholds 
+41 federal income taxes from its employees to remit temporarily, for a time determined by the 
+42 Legislature, those withheld federal income taxes to the Department of Administrative and 36
+37
+38
+Page 3 - 131LR1747(01)43 Financial Services, Bureau of Revenue Services instead of to the United States Internal 
+44 Revenue Service.  The Legislature may also direct the bureau to determine the portion of 
+45 the unconstitutional federal expenditure paid for with income taxes from Maine taxpayers 
+46 and transfer that amount to a segregated account.  The funds in the segregated account are 
+47 used to either make up a shortage in federal funding that the State is due, as determined by 
+48 the Treasurer of State, or to provide a refund to Maine taxpayers on a pro rata basis in direct 
+49 proportion to the amount of federal taxes paid by the taxpayer for the prior tax year.1
+2
+3
+4
+5
+6
+7

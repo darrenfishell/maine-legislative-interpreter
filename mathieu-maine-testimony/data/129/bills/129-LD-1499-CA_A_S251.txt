@@ -1,0 +1,465 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+L !), ' -~ 1;-, 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 Date: (z 11 o\ icy MAJORITY L.D. 1499 
+(Filing No. S-Zt)l ) 
+HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES 
+Reproduced and distributed under the direction of the Secretary of the Senate. 
+STATE OF MAINE 
+SENATE 
+129TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMITTEE AMENDMENT "W' to S.P. 461, L.D. 1499, Bill, "An Act To 
+Establish the Maine Prescription Drug Affordability Board" 
+Amend the bill by striking out everything after the enacting clause and inserting the 
+following: 
+'Sec. 1. 5 MRSA c. 167 is enacted to read: 
+CHAPTER167 
+MAINE PRESCRIPTION DRUG AFFORDABILITY BOARD 
+§2041. Maine Prescription Drug Affordability Board established 
+1. Board established. The Maine Prescription Drug Affordability Board, as 
+established in section 12004-G, subsection 14-I and referred to in this chapter as "the 
+board," shall carry out the purposes of this chapter. 
+2. Membership. The board has 5 members with expertise in health care economics 
+or clinical medicine, who may not be affiliated with or represent the interests of a public 
+payor, as that term is defined in section 2042, and who are appointed as follows: 
+A. Two members by the President of the Senate. The President of the Senate shall 
+also appoint one alternate board member who will participate in deliberations of the 
+board in the event a member appointed by the President of the Senate elects to be 
+recused as provided in subsection 7, paragraph B; 
+B. Two members by the Speaker of the House of Representatives. The Speaker of 
+the House of Representatives shall also appoint one alternate board member who will 
+participate in deliberations of the board in the event a member appointed by the 
+Speaker of the House of Representatives elects to be recused as provided in 
+subsection 7, paragraph B; and 
+C. One member by the Governor. The Governor shall also appoint one alternate 
+board member who will participate in deliberations of the board in the event the 
+Page 1 -129LR0973(02)-l 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT" f~ "to S.P. 461, L.D. 1499 ' <l 
+1 member appointed by the Governor elects to be recused as provided in subsection 7, 
+2 paragraph B. 
+3 3. Terms. Members are appointed to 5-year terms. Of the initial appointees, the 
+4 member appointed by the Governor serves an initial term of 5 years, one member 
+5 appointed by the President of the Senate and one member appointed by the Speaker of the 
+6 House of Representatives serve an initial term of 4 years and one member appointed by 
+7 the President of the Senate and one member appointed by the Speaker of the House of 
+8 Representatives serve an initial term of 3 years. 
+9 4. Quorum. A majority of board members constitutes a quorum. 
+10 5. Chair. The Governor shall name the chair. 
+11 6. Meetings. Beginning no later than March 1, 2020, the board shall meet in public 
+12 session at least every 12 weeks to review prescription drug information and to make 
+13 recommendations pursuant to section 2042. Meetings may be cancelled or postponed at 
+14 the discretion of the chair. 
+15 A. Each public meeting must be announced 2 weeks in advance, and materials for 
+16 the meeting must be made public at least one week in advance. 
+17 B. Each public meeting must provide opportunity for comment from the public in 
+18 attendance at the meeting, and the board shall provide the opportunity for the public 
+19 to submit written comments on pending decisions. 
+20 C. The board may allow expert testimony at public meetings and any meeting 
+21 conducted in executive session as permitted by paragraph D. 
+22 D. Notwithstanding the requirements of Title 1. section 405. the board may meet in 
+23 executive session. except that any decision of the board must be made in public. 
+24 7. Conflicts of interest. The following provisions govern any conflict of interest for 
+25 a member of the board. a member of the advisory council established pursuant to 
+26 subsection 10 or any staff member or contractor of the board. 
+27 A. When appointing a member of the board or the advisory council established 
+28 pursuant to subsection 10, the appointing authority shall consider any conflict of 
+29 interest disclosed by the prospective member. A member shall elect to be recused 
+30 from any board activity in the case in which the member or an immediate family 
+31 member of the member has a conflict of interest. For the purposes of this paragraph, 
+32 "conflict of interest" means an association, including a financial or personal 
+33 association, that has the potential to bias or have the appearance of biasing an 
+34 individual's decisions in matters related to the board or the conduct of the board's 
+35 activities. 
+36 B. A board member or staff or contractor of the board with a conflict of interest shall 
+37 elect to be recused. For purposes of this paragraph. "conflict of interest" means any 
+38 instance in which a member of the board or an immediate family member of the 
+39 member has received or could receive either of the following: 
+40 (1) A direct financial benefit of any amount deriving from the results or findings 
+41 of a study or determination by or for the board; or 
+Page 2 -129LR0973(02)-1 
+COMMITTEE AMENDMENT 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 COMMITTEEAMENDMENT" ~}'toS.P.461,L.D.1499 ( .5 · 70:::;I) 
+(2) A financial benefit from individuals or companies that own or manufacture 
+prescription drugs, services or items to be studied by the board that in the 
+aggregate exceeds $5,000 per year. For purposes of this subparagraph, "financial 
+benefit" includes honoraria, fees, stock or other financial benefit and the current 
+value of the member's or immediate family member's already existing stock 
+holdings, in addition to any direct financial benefit deriving from the results or 
+findings conducted under this section. 
+C. A conflict of interest must be disclosed in the following manner: 
+(1) By the board in the employment of board senior staff; 
+(2) By the Governor, President of the Senate or Speaker of the House of 
+Representatives when appointing members to the board and advisory council 
+established pursuant to subsection 1 O; 
+(3) By the board, describing any recusals as part of any final decision relating to 
+a prescription drug; and 
+(4) By the 5th day after a conflict is identified or, if a public meeting of the 
+board will occur within that 5-day period, in advance of the public meeting. 
+D. Conflicts of interest must be publicly posted on the website of the board. The 
+information disclosed must include the type, nature and magnitude of the interests of 
+the individual involved, except to the extent that the individual elects to be recused 
+from participation in any activity with respect to which the potential conflict exists. 
+E. The board, the advisory council established pursuant to subsection 10, a member 
+of the board or staff or a contractor of the board may not accept gifts, bequests or 
+donations of services or property that suggest a conflict of interest or have the 
+appearance of creating bias in the work of the board or advisory council. 
+F. A member of the advisory council established pursuant to subsection 10 who 
+accepts a gift, bequest or donation of services or property that suggests a conflict of 
+interest or has the appearance of creating bias in the work of the advisory council 
+shall disclose the gift, bequest or donation publicly. 
+8. Staff. The board may employ an executive director, whose salary, to the extent 
+feasible, must comp01t with state personnel rules and requirements. 
+9. Compensation. A member of the board and a member of the advisory council 
+appointed pursuant to subsection 10, paragraph L are entitled to legislative per diem and 
+reimbursement for expenses as provided in section 12004-G, subsection 14-1. 
+10. Advisory council. A 12-member advisory council is established to advise the 
+board on establishing annual spending targets pursuant to section 2042, subsection 1 and 
+determining methods for meeting those spending targets pursuant to section 2042, 
+subsection 3. The advisory council consists of: 
+A. The Governor or the governor's designee; 
+B. The Commissioner of Administrative and Financial Services or the 
+commissioner's designee; 
+Page 3 -129LR0973(02)-l 
+COMMITTEE AMENDMENT 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 COMMITTEE AMENDMENT" fl "to S.P. 461, L.D. 1499 ( 2.~) \ 
+C. The Commissioner of Corrections or the commissioner's designee; 
+D. The Commissioner of Health and Human Services or the commissioner's 
+designee; 
+E. The Attorney General or the Attorney General's designee; 
+F. The Executive Director of Employee Health and Benefits, within the Department 
+of Administrative and Financial Services, Bureau of Human Resources, or the 
+executive director's designee; 
+G. A representative from the Maine State Employees Association, appointed by the 
+Governor, based on a nomination by the association; 
+H. A representative from the Maine Education Association, appointed by the 
+Governor, based on a nomination by the association; 
+I. A representative from the Maine Municipal Association, appointed by the 
+Governor, based on a nomination by the association; 
+J. A representative from the University of Maine System, appointed by the 
+15 Governor, based on a nomination by the system; 
+16 K. A representative from the Maine Community College System, appointed by the 
+17 Governor, based on a nomination by the system; and 
+18 L. A representative of consumer interests, appointed by the Governor, who serves a 
+19 3-year term. 
+20 11. Funds and grants. The board may apply for and receive funds, grants or 
+21 contracts from public and private sources. 
+22 12. Assessment. The board may recommend that a public payor, as defined in 
+23 section 2042, subsection 1, pay an annual assessment to support the administrative costs 
+24 of the board. 
+25 §2042. Powers and duties of the board 
+26 1. Prescription drug spending targets. The board has the following powers and 
+27 duties. For the purposes of this section, the term "public payor" means any division of 
+28 state, county or municipal government that administers a health plan for employees of 
+29 that division' of state, county or municipal government or an association of state, county 
+30 or municipal employers that administers a health plan for its employees, except for the 
+31 MaineCare program. The board shall: 
+32 A. Beginning for the year 2021 and in consultation with the advisory council 
+33 established under section 2041, subsection 10, determine annual spending targets for 
+34 prescription drugs purchased by public payors based upon a 10-year rolling average 
+35 of the medical care services component of the United States Department of Labor, 
+36 Bureau of Labor Statistics Consumer Price Index medical care services index plus a 
+37 reasonable percentage for inflation and minus a spending target determined by the 
+38 board for pharmacy savings; 
+39 B. Determine spending targets on specific prescription drugs that may cause 
+40 affordability challenges to enrollees in a public payor health plan; and 
+Page 4 -129LR0973(02)-1 
+COMMITTEE AMENDMENT 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 COMMITTEE AMENDMENT" rt to S.P. 461, L.D. 1499 ( LS'\) 
+C. Determine which public payors are likely to exceed the spending targets 
+determined under paragraph A. 
+2. Prescription drug spending data. The board may consider the following data to 
+accomplish its duties under this section: 
+A. A public payor's prescription drug spending data, which the 3rd-party 
+administrator or insurer for the public payor's health plan shall provide to the board 
+on behalf of the public payor upon request notwithstanding any provision of law to 
+the contrary, including: 
+(1) Expenditures and utilization data for prescription drugs for each plan offered 
+by a public payor: 
+(2) The formulary for each plan offered by a public payor and prescription drugs 
+common to each formulary: 
+(3) Pharmacy benefit management services and other administrative expenses of 
+the prescription drug benefit for each plan offered by a public payor; and 
+(4) Enrollee cost sharing for each plan offered by a public payor; and 
+B. Data compiled by the Maine Health Data Organization under Title 22, chapter 
+1683. 
+Prescription drug spending data provided to the board under this subsection is 
+confidential to the same extent it is confidential while in the custody of the entity that 
+provided the data to the board. 
+3. Recommendations. Based upon the prescription drug spending data received 
+under subsection 2, the board, in consultation with a representative of each public payor 
+identified under subsection 1, paragraph A, shall determine methods for the public payor 
+to meet the spending targets established under subsection 1. The board shall determine 
+whether the following methods reduce costs to individuals purchasing prescription drugs 
+through a public payor and allow public payors to meet the spending targets established 
+under subsection 1: 
+A. Negotiating specific rebate amounts on the prescription drugs that contribute most 
+to spending that exceeds the spending targets; 
+B. Changing a formulary when sufficient rebates cannot be secured under paragraph 
+A' = 
+C. Changing a formulary with respect to all of the prescription drugs of a 
+manufacturer within a formulary when sufficient rebates cannot be secured under 
+paragraph A; 
+D. Establishing a common prescription drug formulary for all public payors; 
+E. Prohibiting health insurance carriers in the State from offering on their 
+formularies a prescription drug or any of the prescription drugs manufactured by a 
+particular manufacturer when the methods described in paragraph B or C are 
+implemented; 
+Page 5 -129LR0973(02)-1 
+COMMITTEE AMENDMENT 
+,~,"i:J' 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 COMMITTEEAMENDMENT"/:J "toS.P.461,L.D.1499 ( ·'.y Z ::/\ 
+' / 
+F. Purchasing prescription drugs in bulk or through a single purchasing agreement 
+for use among public payors; 
+G. Collaborating with other states and state prescription drug purchasing consortia to 
+purchase prescription drugs in bulk or to jointly negotiate rebates; 
+H. Allowing health insurance carriers providing coverage to small businesses and 
+individuals in the State to participate in the public payor prescription drug benefit for 
+a fee; 
+I. Procuring common expert services for public payors, including but not limited to 
+pharmacy benefit management services and actuarial services; and 
+J. Any other method the board may determine. 
+4. Report. The board shall report its recommendations, including prescription drug 
+spending targets, and the progress of implementing those recommendations to the joint 
+standing committee of the Legislature having jurisdiction over health coverage and 
+insurance matters no later than October 1, 2020 and on January 30th annually thereafter. 
+The joint standing committee may report out legislation based upon the report. 
+Sec. 2. 5 MRSA §12004-G, sub-§14-1 is enacted to read: 
+14-1. 
+Health care Maine Prescription 
+Drug Affordability 
+Board and advisory 
+council Legislative Per 
+Diem and Expenses 
+Sec. 3. 22 MRSA §8712, sub-§6 is enacted to read: 5 MRSA §2041 
+6. Data shared with Maine Prescription Drug Affordability Board. The 
+organization may share data collected under this chapter with the Maine Prescription 
+Drug Affordability Board, established under Title 5, section 12004-G, subsection 14-I, as 
+long as any data shared pursuant to this subsection is not further disseminated.' 
+Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+section number to read consecutively. 
+SUMMARY 
+This amendment replaces the bill. 
+The amendment, as in the bill, establishes the Maine Prescription Drug Affordability 
+Board but removes the provisions that allow rate setting by the board and require the 
+board to determine excess prescription drug costs based upon certain thresholds for 
+prescription drug prices and price increases. 
+The amendment instead provides that the board determines prescription drug 
+spending targets for public entities, including for specific prescription drugs, based upon 
+a 10-year rolling average of the medical care services component of the United States 
+Department of Labor, Bureau of Labor Statistics Consumer Price Index medical care 
+services index plus a reasonable percentage for inflation and minus a spending target 
+Page 6 -129LR0973(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEEAMENDMENT''fi "toS.P.461,L.D.1499 (~-L(.:;\) 
+1 determined by the board for pharmacy savings and in consideration of information 
+2 received about the public entity's prescription drug spending and information collected 
+3 by the Maine Health Data Organization. The board makes recommendations on 
+4 prescription drug spending targets, including spending targets for specific prescription 
+5 drugs, with input from representatives of those public entities. The recommendations may 
+6 include establishing a common prescription drug formulary among public payors, 
+7 purchasing prescription drugs in bulk or through a single purchasing agreement, 
+8 collaborating with other states and state prescription drug purchasing consortia to 
+9 purchase prescription drugs in bulk or to jointly negotiate rebates, allowing health 
+10 insurance carriers providing coverage to small businesses in the State to participate in a 
+11 public payor prescription drug benefit for a fee, procuring common pharmacy benefit 
+12 management services and actuarial services, negotiating specific rebates and removing 
+13 drugs for which a manufacturer does not negotiate a sufficient rebate from a formulary 
+14 and other methods determined by the board. The board is required to report its 
+15 prescription drug spending targets and the methods recommended to meet those targets to 
+16 the Legislature annually. 
+17 FISCAL NOTE REQUIRED 
+18 (See attached) 
+Page 7 -129LR0973(02)-1 
+COMMITTEE AMENDMENT 
+Revised: 06/05/19 :ttP'aC':.. 
+129th MAINE LEGISLATURE 
+LD 1499 LR 973(02) 
+An Act To Establish the Maine Prescription Drug Affordability Board 
+Fiscal Detail and Notes Fiscal Note for Bill as Amended by Committee Amendment" fl' .. 
+Committee: Health Coverage, Insurance and Financial Services 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Any additional costs to the departments whose commissioners or their designees are required to serve on the Advisory 
+Council to the Maine Prescription Drug Affordability Board are assumed to be minor and can be absorbed within 
+existing budgeted resources. Additional costs to the State Employee Health Plan and to the Maine Health Data 
+Organization to provide data and consult with the board are expected to be minor and can be absorbed within existing 
+budgeted resources. 
+LR0973(02) -Fiscal Note -Page 1 of 1 

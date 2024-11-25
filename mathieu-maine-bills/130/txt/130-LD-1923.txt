@@ -1,0 +1,569 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1923
+S.P. 678 In Senate, January 20, 2022
+An Act To Establish the Maine Space Corporation
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Received by the Secretary of the Senate on January 18, 2022.  Referred to the Committee 
+on Innovation, Development, Economic Advancement and Business pursuant to Joint Rule 
+308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator DAUGHTRY of Cumberland.
+Cosponsored by Senators: BREEN of Cumberland, CYRWAY of Kennebec, HICKMAN of 
+Kennebec, Representatives: DODGE of Belfast, Speaker FECTEAU of Biddeford, McCREA 
+of Fort Fairfield, ROBERTS of South Berwick.
+
+Page 1 - 130LR2347(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA c. 393 is enacted to read:
+3CHAPTER 393
+4MAINE SPACE CORPORATION
+5§13201.  Maine Space Corporation established
+6 The Maine Space Corporation is established as a body corporate and politic to carry 
+7 out the purposes of this chapter.  The corporation shall leverage the State's geographic, 
+8 rocketry, manufacturing and higher education assets and capabilities to establish the State 
+9 as a national and international industry destination and an authority in launching small 
+10 launch vehicles and small satellites into polar orbit by:
+111.  Properties.  Acquiring and managing properties within the geographic boundaries 
+12 of the State to develop and operate the Maine Space Complex and its ancillary facilities;
+132.  Permits.  Facilitating the acquisition of permits for launch sites from the Federal 
+14 Government in order to host launch providers;
+153.  Workforce.  Facilitating the creation of a highly skilled workforce and attracting 
+16 and retaining young workers in a new space economy;
+174.  Facilities.  Providing facilities for research and development; small rocket and small 
+18 satellite manufacturing, integration, testing and evaluation; and education and tourism;
+195.  Education.  Enhancing science, technology, engineering and mathematics 
+20 education and engagement in kindergarten to grade 12 and higher education curricula 
+21 through partnerships with private industry to explore use cases for satellite data;
+226.  Business intelligence.  Providing satellite-derived business intelligence for local 
+23 industries to improve decision making;
+247.  Businesses and jobs.  Facilitating new high-tech and data-driven businesses and 
+25 jobs creation;
+268.  Engagement.  Serving as a place to engage and inspire the public through 
+27 programming;
+289.  Out-of-state.  Attracting out-of-state businesses, business visitors and tourists to 
+29 the State; and
+3010.  Revenue.  Creating new revenue and expanding the tax base of the primary impact 
+31 communities as an international asset.
+32§13202.  Definitions
+33 As used in this chapter, unless the context otherwise indicates, the following terms 
+34 have the following meanings.  
+351. Board of directors. "Board of directors" means the board of directors of the 
+36 corporation established in section 13203, subsection 4. 
+Page 2 - 130LR2347(01)12.  Bond. "Bond" means a bond or note or other evidence of indebtedness authorized 
+2 under this chapter, whether issued under or pursuant to a bond resolution, trust indenture, 
+3 loan or other security agreement.
+43.  Corporation.  "Corporation" means the Maine Space Corporation established in 
+5 section 13201.
+64.  Maine Space Complex.  "Maine Space Complex" or "complex" means the Maine 
+7 Space Complex established pursuant to section 13203, subsection 1.
+85. New space economy. "New space economy" means the full range of decentralized, 
+9 diversified, entrepreneurial and accessible activities and the use of resources and players 
+10 across industries that create value and benefits to human beings in the course of exploring, 
+11 researching, understanding, managing and using extraterrestrial space.
+126.  Operating revenues.  "Operating revenues" means funds available to the 
+13 corporation from fees, fares and rental or sale of property and miscellaneous revenue and 
+14 interest not otherwise pledged or dedicated.
+157.  Primary impact communities.  "Primary impact communities" means Aroostook 
+16 County, Cumberland County and Washington County.
+178.  Real or personal property.  "Real or personal property" means properties and 
+18 assets purchased by the corporation or transferred to the corporation from federal, state, 
+19 local and private entities and individuals.
+20§13203.  Maine Space Corporation; powers; board of directors; obligations
+211.  Maine Space Complex.  The Maine Space Corporation shall establish and promote 
+22 the Maine Space Complex, which must include but is not limited to the following business 
+23 units:
+24 A.  The Maine Space Data and Advanced Analytics Center of Excellence, which must 
+25 be a state-of-the-art computer center with networks equipped to import or downlink, 
+26 store, cleanse, manage and analyze satellite data in concert with terrestrial data for the 
+27 purposes of addressing business and public issues in innovative ways and creating new 
+28 data products and services;
+29 B.  The Maine New Space Innovation Hub, which must be an industry meeting place, 
+30 a hub for new business incubation and acceleration, facilities for satellite and launch 
+31 vehicle manufacturing and integration and ground control for satellite launch 
+32 operations.  The shared space must contain specialized equipment to facilitate business 
+33 research and development, academic and scientific inquiry and a kindergarten to grade 
+34 12 learning center and must be designed to attract both in-state and out-of-state 
+35 interests; and 
+36 C.  Maine Launch Sites and Services, which must consist of staging and launch sites 
+37 for sending small vehicles with nanosatellites into polar orbit.
+382.  Additional powers.  The Maine Space Corporation may:
+39 A.  Sue and be sued;
+40 B.  Adopt bylaws or rules consistent with this chapter for the governance of its affairs;
+41 C.  Exercise all of the general powers of corporations under Title 13-C, section 302;
+Page 3 - 130LR2347(01)1 D.  Provide for public safety by imposing appropriate rules, regulating appropriate use 
+2 of the complex's facilities and ensuring compliance with rules as they apply to the use 
+3 of the complex's facilities;
+4 E.  Charge and collect fees, charges and rents for the use of the complex's properties 
+5 and other services and use the proceeds of those fees, charges and rents for the purposes 
+6 provided in this chapter, subject to and in accordance with any agreement with 
+7 bondholders that may be made as provided in this chapter;
+8 F.  Contract with the Federal Government or its instrumentalities or agencies; the State 
+9 or its agencies, instrumentalities or municipalities; public bodies; private corporations; 
+10 partnerships; associations; and individuals to carry out the purposes of this chapter;
+11 G.  Accept the aid and cooperation of the Federal Government or its agencies in the 
+12 construction, maintenance, reconstruction, operation and financing of the complex's 
+13 facilities and take necessary actions to make use of that aid and cooperation;
+14 H.  Borrow money and apply for and accept advances, loans, grants, contributions and 
+15 other forms of financial assistance from the Federal Government, the State, a 
+16 municipality or other public body or from other sources, public or private, for the 
+17 purposes of this chapter and give any security that is required and enter into and carry 
+18 out contracts in connection with any financial assistance;
+19 I.  Borrow money and make, issue and sell at public or private sale negotiable notes, 
+20 bonds and other evidences of indebtedness or obligation of the corporation for the 
+21 purposes of this chapter and secure the payment of that indebtedness or obligation or 
+22 any part of that indebtedness or obligation by pledge of all or any part of the operating 
+23 revenues of the corporation;
+24 J.  Enter into loan or security agreements with one or more lending institutions, 
+25 including, but not limited to, banks, insurance companies and institutions that 
+26 administer pension funds, or with trustees of those institutions, for the issuance of 
+27 bonds and exercise with respect to those loan or security agreements all of the powers 
+28 delineated in this chapter for the issuance of bonds; 
+29 K.  Provide from operating revenues for the maintenance, construction or 
+30 reconstruction of facilities to ensure the public safety for which the corporation has not 
+31 otherwise provided;
+32 L.  Adopt rules for the administration of this chapter.  Rules adopted pursuant to this 
+33 paragraph are routine technical rules pursuant to chapter 375, subchapter 2-A; and
+34 M.  Take all other lawful action necessary and incidental to these powers.
+353.  Members of corporation.  Members of the corporation are individuals and 
+36 organizations that pay dues to the corporation.  Memberships may be set at different levels.
+37 A.  Members are private individuals, partnerships, small and large businesses, federal, 
+38 state and local governmental entities, private and public higher education institutions 
+39 and other public or quasi-public entities that are interested in advancing the State's new 
+40 space economy.
+41 B.  Other than the right to vote on matters as specified in the bylaws of the corporation, 
+42 the members have no authority to manage or direct the affairs and activities of the 
+43 corporation.
+Page 4 - 130LR2347(01)14.  Board of directors.  The Board of Directors of the Maine Space Corporation 
+2 consists of 15 directors, of whom 6 directors are ex officio as specified in paragraph B, and 
+3 9 directors are appointed as specified in paragraph C.  Each director is entitled to one vote.  
+4 A.  The board of directors has the full authority to direct the affairs and activities of the 
+5 corporation.  
+6 B.  Ex officio members of the board of directors are:
+7 (1)  The Commissioner of Economic and Community Development or the 
+8 commissioner's designee;
+9 (2)  The President of the Maine Technology Institute or the president's designee;
+10 (3)  The Chancellor of the University of Maine System or the chancellor's designee;
+11 (4)  The President of the Maine Community College System or the president's 
+12 designee;
+13 (5)  The executive director of the Midcoast Regional Redevelopment Authority or 
+14 the executive director's designee; and
+15 (6)  The executive director of the Loring Development Authority of Maine or the 
+16 executive director's designee.
+17 C.  The members of the board who are not ex officio members are appointed by the 
+18 Governor and subject to confirmation by the Senate and must be individuals or 
+19 representatives of organizations that are in a position to advance the purposes and goals 
+20 of the corporation and are able to have a significant impact on improving the State's 
+21 space economy infrastructure as specified in the bylaws of the corporation.  
+22 Membership under this paragraph must include:
+23 (1)  A representative of a business in the State with fewer than 25 employees that 
+24 is involved in the aerospace industry;
+25 (2)  A representative of a business in the State with 25 or more employees that is 
+26 involved in the aerospace industry;
+27 (3)  A resident of Aroostook County;
+28 (4) A resident of Cumberland County;
+29 (5)  A resident of Washington County;
+30 (6)  A representative of a nonprofit research organization in the State that uses 
+31 satellite-based data;
+32 (7)  A representative of an elementary or secondary school in the State;
+33 (8)  A representative of a business that is involved in innovation and research and 
+34 development in satellite development and manufacturing, data and analytics or 
+35 launch services; and
+36 (9)  A representative of business investors.
+37 The terms of the members of the board of directors who are not ex officio members 
+38 must be staggered as specified in the bylaws of the corporation.
+39 D.  The board of directors shall elect a chair and vice-chair from among its members.  
+40 The corporation may employ an executive director, technical experts and other agents 
+Page 5 - 130LR2347(01)41 and employees, permanent and temporary, as required and may determine their 
+42 qualifications, duties and compensation.  For required legal services, the corporation 
+43 may employ or retain its own counsel and legal staff.
+4 E.  For transacting business at board meetings, a majority of directors then in office 
+5 constitutes a quorum.  The vote of a majority of the directors present at board meetings 
+6 constitutes the act of the board of directors.
+75.  Liability.  The liability of the corporation is governed by the Maine Tort Claims 
+8 Act.  A member of the board of directors or an employee of the corporation is not subject 
+9 to any personal liability for having acted in the service of the member's or employee's duty 
+10 as a member of the board of directors or an employee of the corporation within the course 
+11 and scope of membership or employment to carry out a power or duty under this chapter. 
+12 The corporation shall indemnify a member of the board of directors or an employee of the 
+13 corporation against expenses actually and necessarily incurred in connection with the 
+14 defense of an action or proceeding in which a member of the board of directors or an 
+15 employee of the corporation is made a party by reason of past or present association with 
+16 the corporation.
+176.  Expenses.  A member of the board of directors is not entitled to receive 
+18 compensation for services to the corporation but is entitled to receive reimbursement for 
+19 necessary expenditures, including travel expenses incurred in carrying out those services.
+20§13204.  Use of operating revenues
+211.  Principal use of revenues.  Operating revenues must be used principally to reinvest 
+22 in the properties held by the corporation.
+232.  Permitted liability limited.  All expenses incurred in carrying out the provisions 
+24 of this chapter must be paid solely from funds provided by the corporation, and liability or 
+25 obligation may not be incurred under this chapter beyond the extent to which funds have 
+26 been provided by the corporation.
+273.  Equal opportunity employers.  Contractors and subcontractors on corporation 
+28 construction and reconstruction projects must be equal opportunity employers and, for 
+29 contracts of more than $250,000, shall pursue in good faith affirmative action programs as 
+30 defined in section 782.  
+31§13205.  Property of corporation
+32 The corporation may hold and acquire property as set out in this section.
+331.  Lease or sale.  Properties may be leased, purchased or sold to develop and operate 
+34 the Maine Space Complex as determined appropriate by the corporation.  Resources 
+35 acquired as a result of the lease or sale of these properties become operating revenues or 
+36 assets of the corporation.
+372.  Authority for transfers of interest in land to corporation.  Upon the corporation's 
+38 request, on reasonable and fair terms and conditions and without the necessity for 
+39 advertisement, order of court or action or formality other than the regular and formal action 
+40 of the authorities concerned, counties, municipalities, public agencies or instrumentalities 
+41 of the State, public service corporations and special districts may lease, lend, grant or 
+42 convey to the corporation real or personal property or rights in that property that may be 
+43 necessary or convenient for the effectuation of the authorized purposes of the corporation, 1
+2
+3
+Page 6 - 130LR2347(01)44 including real and personal property or rights in that property already devoted to public 
+45 use. As used in this subsection, "public service corporation" includes a public utility as 
+46 defined in Title 35-A, section 102, subsection 13 and a corporation under Title 13-C.
+4§13206.  Maine Space Complex Fund
+51.  Maine Space Complex Fund established.  There is established a nonlapsing fund 
+6 to be known as the Maine Space Complex Fund, referred to in this section as "the fund," 
+7 for the purpose of receiving funds from the State and gifts, grants, devises, bequests, trusts 
+8 or security documents to support the operations of the corporation and the Maine Space 
+9 Complex.  The State shall credit to the fund any appropriation made to the corporation in 
+10 the fiscal year in which the appropriation is made.
+11 A.  The fund must be used to:
+12 (1)  Purchase, lease, acquire, own, improve, use, sell, convey, transfer or otherwise 
+13 deal in and with a corporation property, a corporation project or any interest in the 
+14 corporation property or corporation project, whether tangible or intangible, as 
+15 otherwise authorized under this chapter;
+16 (2)  Pay the costs of operating, maintaining, improving and repairing all property 
+17 and projects of the corporation;
+18 (3)  Pay the costs of administering and operating the corporation, including, but 
+19 not limited to, all wages, salaries, benefits and other expenses authorized by the 
+20 board of directors or the executive director;
+21 (4)  Pay the principal and premium, if any, and the interest on the outstanding bonds 
+22 of the corporation related to a corporation property or corporation project as they 
+23 become due and payable;
+24 (5)  Create and maintain reserves required or provided for in any law authorizing 
+25 or any security document securing the bonds of the corporation related to a 
+26 corporation property or corporation project;
+27 (6)  Create and maintain a capital improvement fund for a corporation property and 
+28 corporation project established by the board of directors;
+29 (7)  Pay all taxes owed by the corporation related to a corporation property or 
+30 corporation project; and
+31 (8)  Pay all expenses incident to the management and operation of the corporation.
+32 B.  The fund constitutes a continuing appropriation for the benefit of the corporation. 
+33 Any amount remaining in the fund at the close of any fiscal year is carried over and 
+34 credited to the fund for the succeeding year. 
+35 C.  Money in the fund must be paid to the corporation on manifests approved by the 
+36 Governor and Legislature in the same manner as other state claims are paid. 
+37 D.  The revenues received by and due to the corporation from all sources other than 
+38 state appropriation must be retained by the corporation and must be used in such a 
+39 manner as the board of directors determines consistent with the provisions of this 
+40 section or as otherwise provided by law or by the terms and conditions of any gift, 
+41 grant, devise, bequest, trust or security document. 
+42§13207.  Bonds1
+2
+3
+Page 7 - 130LR2347(01)11. Hearing required.  The corporation may issue bonds to finance its activities only 
+2 after giving notice of the proposed issuance and its terms at least twice in a newspaper of 
+3 general circulation in the appropriate primary impact community and holding a duly 
+4 advertised public hearing on the issuance.
+52.  Authority.  The corporation may issue bonds from time to time in its discretion to 
+6 finance the undertaking of an authorized activity under this chapter, including, but not 
+7 limited to, the payment of principal and interest upon advances for surveys and plans, and 
+8 may issue refunding bonds for the payment or retirement of bonds previously issued.
+9 A.  The principal and interest of bonds must be made payable solely from the income, 
+10 proceeds, revenues and funds of the corporation derived from or held for activities 
+11 under this chapter.  Payment of the principal and interest of bonds may be further 
+12 secured by a pledge of a loan, grant or contribution from the Federal Government or 
+13 other source in aid of activities of the corporation under this chapter and by a mortgage 
+14 of an urban activity or a project or part of a project, title to which is in the corporation.  
+15 B.  Bonds issued under this section do not constitute an indebtedness within the 
+16 meaning of any constitutional or statutory debt limitation or restriction and are not 
+17 subject to other laws or charters relating to the authorization, issuance or sale of bonds.  
+18 Bonds issued under this chapter are declared to be issued for an essential public and 
+19 governmental purpose and, together with interest on and income from the bonds, are 
+20 exempt from all taxes. 
+21 C.  Bonds may not be issued by the corporation until the corporation has received a 
+22 certificate of approval from the Finance Authority of Maine authorizing issuance of the 
+23 bonds.  Before issuing a certificate of approval under this section, the Finance 
+24 Authority of Maine must determine that there is a reasonable likelihood that the 
+25 income, proceeds, revenues and funds of the corporation derived from or held for 
+26 activities under this chapter or otherwise pledged to payment of the bonds will be 
+27 sufficient to pay the principal, the interest and all other amounts that may at any time 
+28 become due and payable under the bonds.  In making this determination, the Finance 
+29 Authority of Maine shall consider the corporation's analysis of the proposed bond issue 
+30 and the revenues to make payments on the bonds and may require such information, 
+31 projections, studies and independent analyses as it considers necessary or desirable and 
+32 may charge the corporation reasonable fees and expenses.  The issuance by the Finance 
+33 Authority of Maine of a certificate of approval under this section does not constitute 
+34 an endorsement of the bonds or the projects or purposes for which those bonds are 
+35 issued, and the corporation or any other person or entity, including, without limitation, 
+36 any holder of bonds of the corporation, has no cause of action against the Finance 
+37 Authority of Maine with respect to any certificate of approval.  The Finance Authority 
+38 of Maine may require that it be indemnified, defended and held harmless by the 
+39 corporation for any liability or cause of action arising with respect to the bonds. 
+403.  General characteristics.  Bonds authorized under this section may be issued in one 
+41 or more series.  The resolution, trust indenture or mortgage under which the bonds are 
+42 issued may include the following:
+43 A.  The date or dates borne by the bonds; 
+44 B.  Whether the bonds are payable upon demand or mature at a certain time or times;
+Page 8 - 130LR2347(01)1 C.  The interest rate or rates of the bonds;
+2 D.  The denomination or denominations of the bonds; 
+3 E.  The form of the bonds, whether coupon or registered;
+4 F.  The conversion or registration privileges carried by the bonds;
+5 G.  The rank or priority of the bonds;
+6 H.  The manner of execution of the bonds;
+7 I.  The medium and place or places of payment of the bonds;
+8 J.  The terms of redemption of the bonds, with or without premium;
+9 K.  The manner in which the bonds are secured; and 
+10 L.  Any other characteristics of the bonds.
+114.  Price sold. The bonds may be:
+12 A.  Exchanged for other bonds on the basis of par;
+13 B.  Sold to the Federal Government at private sale at not less than par.  If less than all 
+14 of the authorized principal amount of the bonds is sold to the Federal Government, the 
+15 balance may be sold at private sale at not less than par at an interest cost to the 
+16 corporation that does not exceed the interest cost to the corporation of the portion of 
+17 the bonds sold to the Federal Government; or
+18 C.  Sold to a person on such terms as the corporation may negotiate.
+195.  Signatures of outgoing officers; negotiability.  If an official of the corporation 
+20 whose signature appears on a bond or coupon issued under this chapter ceases to be an 
+21 official before the bond is delivered, the signature is nevertheless valid for all purposes as 
+22 if the official had remained in office until the delivery.  Notwithstanding contrary 
+23 provisions of law, bonds issued under this chapter are fully negotiable.
+246.  Bond recitation; conclusive presumptions.  In actions or proceedings involving 
+25 the validity or enforceability of a bond issued under this chapter or the security for that 
+26 bond, a bond reciting in substance that it has been issued by the corporation in connection 
+27 with an activity is conclusively deemed to have been issued for that purpose and the activity 
+28 is conclusively deemed to have been planned, located and carried out in accordance with 
+29 this chapter.
+307.  No personal liability; not debt of State.  A member of the board of directors and 
+31 the person executing the bonds are not liable personally on the bonds by reason of the 
+32 issuance of the bonds.  The bonds and other obligations of the corporation must have stated 
+33 on their face that they are not a debt of the State and that the State is not liable on the bonds.  
+34 The bonds or obligations may not be payable out of funds or properties other than those of 
+35 the corporation acquired for the purposes of this chapter.
+368.  Bonds as legal investments.  Public officers, municipal corporations, political 
+37 subdivisions and public bodies; banks, trust companies, bankers, savings banks and 
+38 institutions, building and loan associations, savings and loan associations, investment 
+39 companies and other persons carrying on a banking business; insurance companies, 
+40 insurance associations and other persons carrying on an insurance business; and executors, 
+41 administrators, curators, trustees and other fiduciaries may legally invest sinking funds, 
+Page 9 - 130LR2347(01)42 money or other funds belonging to them or within their control in bonds or other obligations 
+43 issued by the corporation under this chapter.  These bonds or other obligations are 
+44 authorized security for all public deposits.  It is the purpose of this section to authorize 
+45 persons, political subdivisions and officers, public or private, to use funds owned or 
+46 controlled by them for the purchase of these bonds or other obligations.  This section does 
+47 not relieve a person of any duty or of exercising reasonable care in selecting securities.
+79.  Investment of funds; redemption of bonds.  The corporation may:
+8 A.  Invest, in property or securities in which savings banks may legally invest funds 
+9 subject to their control, funds held in reserves, sinking funds or funds not required for 
+10 immediate disbursement; and 
+11 B.  Cancel its bonds by redeeming them at the redemption price established in the bonds 
+12 or by purchasing them at less than redemption price.
+13§13208.  Interest of public officials, directors or employees
+141.  Acquisition of interest.  A public official, member of the board of directors or 
+15 employee of the corporation may not acquire or hold a direct or an indirect financial or 
+16 personal interest in:
+17 A.  A corporation activity;
+18 B.  Corporation property; or 
+19 C.  A contract or proposed contract in connection with a corporation activity. 
+202.  Present or past interest in property.  If a public official, member of the board of 
+21 directors or employee of the corporation presently owns or controls, or owned or controlled 
+22 within the preceding 2 years, a direct or an indirect interest in property known to be 
+23 included or planned to be included in a corporation activity, that public official, trustee or 
+24 employee shall disclose this fact immediately in writing to the board of directors and the 
+25 disclosure must be entered in the board's minutes.
+263.  Recusal.  A public official, member of the board of directors or employee of the 
+27 corporation with an interest in property under this section may not participate in an action 
+28 by the corporation affecting that property.
+294.  Violation.  A violation of this section is a Class E crime.
+30§13209.  Exemption from execution
+311.  Property exempt from execution.  The real and personal property, including funds, 
+32 of the corporation is exempt from levy and sale by virtue of an execution.  An execution or 
+33 other judicial process may not be issued against the corporation's real and personal 
+34 property, and a judgment against the corporation may not be a charge or lien upon its real 
+35 and personal property.
+362.  Construction; limitation of application.  This section does not:
+37 A.  Prohibit the corporation from making payments in lieu of taxes to a municipality; 
+38 or 
+39 B.  Apply to or limit the right of an obligee to foreclose or otherwise enforce a mortgage 
+40 of the corporation or to pursue remedies for the enforcement of a pledge or lien given 1
+2
+3
+4
+5
+6
+Page 10 - 130LR2347(01)41 by the corporation on its rents, fees, grants, revenues or other sources pledged by the 
+42 corporation to the payment of its bonds. 
+3§13210.  Maine Space Complex Job Increment Financing Fund
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Affiliated business" means one of 2 businesses exhibiting either of the following 
+7 relationships:
+8 (1)  One business owns 50% or more of the stock of the other business or owns a 
+9 controlling interest in the other; or
+10 (2)  Fifty percent of the stock of each business or a controlling interest in each 
+11 business is directly or indirectly owned by a common owner or owners.
+12 B.  "Assessor" means the State Tax Assessor.
+13 C.  "Base level of employment" means either the total employment of an employer as 
+14 of March 31st, June 30th, September 30th and December 31st of the calendar year 
+15 immediately preceding the date the employer begins operations at the complex and its 
+16 ancillary facilities divided by 4 or its average employment during the base period, 
+17 whichever is greater.
+18 D.  "Base period" means the 3 calendar years prior to the year in which an employer 
+19 begins operations at the complex and its ancillary facilities.
+20 E.  "Commissioner" means the Commissioner of Economic and Community 
+21 Development.
+22 F.  "Fund" means the Maine Space Complex Job Increment Financing Fund established 
+23 pursuant to subsection 2.
+24 G.  "Job tax increment" means that level of state income tax withholding attributed to 
+25 any employees employed within the complex and its ancillary facilities above the base 
+26 level of employment for an employer in the complex and its ancillary facilities or its 
+27 average employment during the base period. "Job tax increment" does not include 
+28 withholding from employees or positions shifted by an employer as calculated 
+29 generally pursuant to Title 36, chapter 917.  The shifting restriction must apply to all 
+30 employers in the complex and its ancillary facilities. 
+312.  Fund established.  The Maine Space Complex Job Increment Financing Fund is 
+32 established to receive job tax increment transfers from job creation in the properties leased 
+33 or owned by the corporation.  The fund must receive annually from the State the amount 
+34 calculated under subsection 5.
+353.  Limitations.  The fund is subject to the following limitations.
+36 A.  Payments from the fund allocated to the corporation must be used solely to fund 
+37 the costs of:
+38 (1)  Municipal services, including, but not limited to, water, sewer, electricity, 
+39 telecommunications, fire protection, police protection, sanitation services and the 
+40 maintenance of buildings, facilities, grounds and roads in the complex and its 
+41 ancillary facilities; and1
+2
+Page 11 - 130LR2347(01)1 (2)  Higher education services, including, but not limited to, faculty and staff 
+2 salaries and instruction, operations, equipment, maintenance and financing costs, 
+3 which include but are not limited to closing costs, issuance costs and interest paid 
+4 to holders of evidences of indebtedness issued to pay for project costs and any 
+5 premium paid over the principal amount of that indebtedness because of the 
+6 redemption of the obligations before maturity.
+7 B.  To the extent that revenues received by the fund are not expended for current costs 
+8 under paragraph A, the fund must retain the revenues to defray future costs under that 
+9 paragraph.
+10 C.  State income tax withholding eligible for reimbursement to a qualified business 
+11 pursuant to Title 36, chapter 917 or to a qualified Pine Tree Development Zone 
+12 business under Title 30-A, chapter 206 is not eligible for use in the calculation of a 
+13 payment to the fund under subsections 4 and 5. State income tax withholding under 
+14 Title 36, chapter 919 or any other tax credit or reimbursement program based on state 
+15 income tax withholding is not eligible for use in calculation of a payment to the fund 
+16 under subsections 4 and 5.
+174.  Certification by authority.  By February 15th of each year, beginning in 2023, the 
+18 corporation shall provide a report identifying each employer located at the complex and its 
+19 ancillary facilities to the commissioner.  The commissioner shall certify annually to the 
+20 assessor on or before June 30th of each year, beginning in 2023, the following information:
+21 A.  Employment, payroll and state withholding data necessary to calculate the base 
+22 level of employment at the complex and its ancillary facilities;
+23 B.  The total number of employees added during the previous year within the complex 
+24 and its ancillary facilities above the base level of employment, including additional 
+25 associated payroll and state withholding data necessary to calculate the job tax 
+26 increment and establish the appropriate payment to the fund;
+27 C.  A listing of all employers within the complex and its ancillary facilities that pay 
+28 state withholding taxes, the locations of those employers and the number of employees 
+29 at each location;  
+30 D.  A listing of all affiliated businesses, data regarding current employment, payroll 
+31 and state income tax withholding for each affiliated business within the complex and 
+32 its ancillary facilities; and 
+33 E.  Any information required by the assessor to determine the employment tax 
+34 increment revenues pursuant to Title 36, chapter 917.
+355.  Procedure for payment of revenue to fund.  On or before July 15th of each year, 
+36 the assessor shall review the information required by subsection 4 and calculate the job tax 
+37 increment for the preceding calendar year.  The assessor shall also calculate the 
+38 employment tax increment in the complex and its ancillary facilities for reimbursement to 
+39 qualified businesses and qualified Pine Tree Development Zone businesses pursuant to 
+40 Title 36, chapter 917.  On or before July 15th of each year, the assessor shall certify to the 
+41 State Controller the total remaining job tax increment after reimbursements have been 
+42 made to qualified businesses and qualified Pine Tree Development Zone businesses 
+43 pursuant to Title 36, chapter 917.  On or before July 31st of each year, the State Controller 
+44 shall transfer 50% of the remaining job tax increment to the state job tax increment 
+Page 12 - 130LR2347(01)45 contingent account established, maintained and administered by the State Controller from 
+46 General Fund undedicated revenue within the withholding tax category.  On or before July 
+47 31st of each year, the State Controller shall deposit this revenue into the fund.
+46.  Administration.  The Commissioner of Administrative and Financial Services shall 
+5 administer the fund and may adopt rules for implementation of the fund.  Rules adopted 
+6 pursuant to this subsection are routine technical rules pursuant to chapter 375, subchapter 
+7 2-A.
+8§13211.  Termination of corporation
+9 The corporation is not dissolved until: 
+101.  Legislature provides for termination.  It is terminated by the Legislature; and
+112.  Payment of bonds, premium and interest.  The bonds, premium, if any, and 
+12 interest have been paid or a sufficient amount for the payment of the bonds and interest to 
+13 maturity or a prior redemption date have been irrevocably set aside in trust for the benefit 
+14 of the bondholders.
+15§13212.  Annual report
+161.  Annual financial report.  The corporation shall submit annually to the Governor, 
+17 the Executive Director of the Legislative Council and the joint standing committee of the 
+18 Legislature having jurisdiction over economic development matters, not later than 120 days 
+19 after the close of the corporation's fiscal year, a complete report on the activities of the 
+20 corporation.  The report may also be provided to any other member of the Legislature and 
+21 to any other person.  The report must include all of the following for the previous fiscal 
+22 year:
+23 A.  A description of the corporation's operations;
+24 B.  An accounting of the corporation's receipts and expenditures, assets and liabilities 
+25 at the end of its fiscal year; 
+26 C.   A listing of all property transactions pursuant to section 13205; 
+27 D.  An accounting of all activities related to the Maine Space Complex Fund under 
+28 section 13206;
+29 E.  A listing of any bonds issued during the fiscal year under section 13207;
+30 F.  A statement of the corporation's proposed and projected activities for the ensuing 
+31 year; and
+32 G.  Recommendations regarding further actions that may be suitable for achieving the 
+33 purposes of this chapter.
+34SUMMARY
+35 This bill establishes the Maine Space Corporation to leverage the State's geographic, 
+36 rocketry, manufacturing and higher education assets and capabilities to establish the State 
+37 as a national and international industry destination and an authority in launching small 
+38 launch vehicles and small satellites into polar orbit.  The corporation may establish and 
+39 promote the Maine Space Complex, which is to include the following business units:1
+2
+3
+35
+36
+37
+38
+39
+Page 13 - 130LR2347(01)1 1.  The Maine Space Data and Advanced Analytics Center of Excellence, a state-of-
+2 the-art computer center with networks equipped to import or downlink, store, cleanse, 
+3 manage and analyze satellite data in concert with terrestrial data for the purposes of 
+4 addressing business and public issues in innovative ways and creating new data products 
+5 and services;
+6 2.  The Maine New Space Innovation Hub, an industry meeting place, a hub for new 
+7 business incubation and acceleration, facilities for satellite and launch vehicle 
+8 manufacturing and integration and ground control for satellite launch operations containing 
+9 specialized equipment to facilitate business research and development, academic and 
+10 scientific inquiry and a kindergarten to grade 12 learning center and designed to attract both 
+11 in-state and out-of-state interests; and 
+12 3.  Maine Launch Sites and Services, staging and launch sites for sending small 
+13 vehicles with nanosatellites into polar orbit.
+14 The bill also establishes the Maine Space Complex Fund for the purpose of receiving 
+15 funds from the State and gifts, grants, devises, bequests, trusts or security documents to 
+16 support the operations of the corporation and the complex and the Maine Space Complex 
+17 Job Increment Financing Fund to receive job tax increment transfers from job creation in 
+18 the properties leased or owned by the corporation.

@@ -1,0 +1,355 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1635
+H.P. 1219 House of  Representatives,  April 28, 2021
+An Act  To Make  Minor  Changes and Corrections to Statutes 
+Administered by the Department of Environmental  Protection
+Submitted by the Department of  Environmental Protection pursuant to  Joint  Rule 204.
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TUCKER of Brunswick.
+
+Page 1 - 130LR0132(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  29-A MRSA §2054, sub-§1, ¶G, as enacted by PL 1993, c. 683, Pt. A, §2 
+3 and affected by Pt. B, §5, is amended to read:
+4 G.  "Hazardous material response vehicle" means a vehicle equipped for and used in 
+5 response to reports of emergencies resulting from actual or potential releases, spills or 
+6 leaks of, or other exposure to, hazardous substances that is authorized by a mutual aid 
+7 agreement pursuant to Title 37‑B, section 795, subsection 3 and approved by the local 
+8 emergency planning committee or committees whose jurisdiction includes the area in 
+9 which the vehicle operates.  "Hazardous material response vehicle" includes vehicles 
+10 used by employees of the division of response services within the Department of 
+11 Environmental Protection to respond to oil and hazardous materials incidents within 
+12 the State.
+13Sec. 2.  32 MRSA §10008, as amended by PL 2001, c. 231, §9, is further amended 
+14 to read:
+15§10008.  Reciprocity
+16 A person who is a resident of the State and has been certified in another state as an 
+17 underground oil storage tank installer or underground oil storage tank inspector may, upon 
+18 payment of a fee as established under section 10012, obtain a certification as an 
+19 underground oil storage tank installer or underground oil storage tank inspector, if that 
+20 person submits satisfactory evidence of certification as an underground oil storage tank 
+21 installer or underground oil storage tank inspector in another state under qualifications 
+22 equivalent to those specified in this chapter.
+23Sec. 3.  38 MRSA §352, sub-§5-A, as amended by PL 2019, c. 374, §1 and c. 526, 
+24 §2, is further amended by amending Table II to read:
+25 TABLE II
+26  
+27 WASTE MANAGEMENT FEES - ANNUAL LICENSE
+28  
+29 MAXIMUM FEES IN DOLLARS
+30  
+TITLE 38 SECTION PROCESSING 
+FEEANNUAL 
+LICENSE FEE
+1278, Asbestos abatement   
+ A.  Asbestos abatement contractor $0 $650
+ B.  Asbestos abatement worker 0 50
+ C.  Asbestos consultant 0 650
+ D.  Asbestos analytical laboratory 0 400
+ E.  Training provider 0 500
+ F.  Other categories of asbestos professionals 
+except asbestos abatement workers0 100
+ G.  Notification   31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+Page 2 - 130LR0132(01)  1.  Project size greater than 100 square feet 
+or 100 linear feet and less than 500 square 
+feet or 2,500 linear feet100 0
+  2.  Project size 500 square feet or 2,500 
+linear feet, or greater, and less than 1,000 
+square feet or 5,000 linear feet150 0
+  3.  Project size 1,000 square feet or 5,000 
+linear feet, or greater 300 0
+1304, Waste management   
+ A.  Septage disposal   
+  1. Landspreading $550 $250
+  2. Storage 50 75
+ B.  Residuals compost facility   
+  1. Type I 150 150
+  3. Type II and Type III less than 3,500 cubic 
+yards700 500
+  5.  Type II and Type III 3,500 cubic yards or 
+greater1,400 850
+ C.  Land application of sludges and residuals   
+  1. Sites with program approval   
+   a. Industrial sludge 150 250
+   b. Municipal sludge 75 200
+   c. Bioash 75 200
+   d. Wood ash 50 125
+   e. Food waste 50 125
+   f. Other residuals 50 125
+  2. Sites without program approval   
+   a. Industrial sludge 300 550
+   b. Municipal sludge 150 250
+   c. Bioash 150 250
+   d. Wood ash 75 200
+   e. Food waste 75 200
+   f. Other 75 200
+1310-N, Solid waste facility siting   
+ A.  Landfill   
+  1. Existing, nonsecure municipal solid waste 
+landfills accepting waste from fewer than 
+15,000 people 3,500 1,000
+  2. Existing, nonsecure municipal solid waste 
+landfills accepting waste from more than 
+15,000 people 3,500 3,500
+  3. New or expanded for secure landfill 5,000 8,500
+  5. Nonsecure wood waste or demolition 
+debris landfills, or both, if less than or equal 
+to 6 acres 700 750
+ B.  Incineration facilities   
+  1. New or expanded for the acceptance of 
+municipal or special wastes, or both 3,500 5,0001
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+Page 3 - 130LR0132(01)  2. Municipally owned and operated solid 
+waste incinerators with licensed capacity of 
+10 tons per day or less 3,500 1,000
+ C.  Transfer station and storage facility 750 175
+ D.  Tire storage facility 400 450
+ F.  Processing facility other than municipal solid 
+waste composting 700 700
+ G.  Beneficial use activities other than 
+agronomic utilization   
+  3. Fuel substitution 700 500
+  4. Beneficial use without risk assessment 700 200
+  5. Beneficial use with risk assessment 1,400 500
+ H.  Permit by rule for ongoing activities 100 100
+3109, Redemption centers 0 100
+1Sec. 4.  38 MRSA §353, sub-§4-A, as enacted by PL 1993, c. 332, §1, is repealed.
+16Sec. 5.  38 MRSA §480-E, sub-§14 is enacted to read:
+1714.  Minor expansion of structures in a coastal sand dune system.  The department 
+18 may authorize a one-time expansion of an existing residential or commercial structure in a 
+19 coastal sand dune system through permit by rule if:
+20 A.  The footprint of the expansion is contained within an impervious area that existed 
+21 on January 1, 2021;
+22 B.  The footprint of the expansion is no further seaward than the existing structure;
+23 C.  The height of the expansion is within the height restriction of any applicable law or 
+24 ordinance; and
+25 D.  The expansion conforms to the standards for expansion of a structure contained in 
+26 the municipal shoreland zoning ordinance adopted pursuant to article 2-B.
+27 For the purposes of this subsection, "structure" does not include a seawall, retaining wall, 
+28 closed fence or other structure used to stabilize the shoreline or to prevent the movement 
+29 of sand or water. For the purposes of this subsection, expansion of an existing structure 
+30 does not include a change from one type of structure to another.
+31Sec. 6.  38 MRSA §480-Q, sub-§31, as amended by PL 2011, c. 538, §9, is 
+32 repealed.
+33Sec. 7.  38 MRSA §1303-C, sub-§38, as enacted by PL 1989, c. 585, Pt. E, §4, is 
+34 amended to read:
+3538.  Transport.  "Transport" means the movement of hazardous or solid waste, waste 
+36 oil, sludge or septage from the point of generation to any intermediate points and finally to 
+37 the point of ultimate disposition. Movement of hazardous waste on the site where it is 
+38 generated or on the site of a licensed waste facility for hazardous waste is not "transport." 
+39 Movement of waste oil on the site where it is generated or on the site of a licensed waste 
+40 oil dealer's facility is not "transport."
+41Sec. 8.  38 MRSA §1303-C, sub-§43, as enacted by PL 1989, c. 585, Pt. E, §4, is 
+42 repealed.1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Page 4 - 130LR0132(01)1Sec. 9.  38 MRSA §1319-H, sub-§1, ¶A, as amended by PL 1989, c. 878, Pt. H, 
+2 §9, is further amended to read:
+3 A.  Any person who applies for a license for a hazardous waste or waste oil facility 
+4 shall pay the appropriate fee. An application for a license will not be considered 
+5 complete and will not be processed until this fee is received. Application fees are as 
+6 follows.
+7 (1)  Disposal facility............... $10,000
+8 (2)  Commercial treatment facility......7,000
+9 (3)  On-site treatment facility.........4,000
+10 (4)  Other waste facility for hazardous waste, including storage facilities ....2,500
+11 (5)  Waste oil storage facility.........2,500
+12 (6)  Treatment facility under license by rule provisions where the hazardous waste 
+13 treated is 1,000 kilograms or less per calendar month......................................75
+14 (7)  All other facilities for hazardous waste under license by rule 
+15 provisions..........400
+16 (8)  Facility post-closure license......2,000
+17Sec. 10.  38 MRSA §1319-H, sub-§2, as amended by PL 1989, c. 878, Pt. H, §10, 
+18 is further amended to read:
+192.  Annual fees.  Licensed hazardous waste and waste oil facilities are subject to the 
+20 following annual fees.
+21 A.  Disposal facility ..................... $1,500
+22 B.  Commercial treatment facility and on-site treatment facility ......................... 1,000
+23 C.  Other waste facilities for hazardous waste, including storage facilities 
+24 ..................500
+25 D.  Waste oil storage facility ................500
+26 E.  Treatment facility under license by rule provisions where the hazardous waste 
+27 treated is 1,000 kilograms or less per calendar month..........................................100
+28 F.  All other facilities for hazardous waste under license by rule 
+29 provisions.....................200
+30 G.  Facility post-closure license..............500
+31Sec. 11.  38 MRSA §1319-I, sub-§3, as amended by PL 2005, c. 549, §4, is further 
+32 amended to read:
+333.  Fee for transportation into Maine from out of state.  If hazardous waste or waste 
+34 oil is transported into Maine from out of state, the person who first transports the hazardous 
+35 waste or waste oil into Maine shall pay the fee indicated by the schedules outlined in 
+36 subsection 2 for hazardous waste or subsection 4‑A for waste oil, as if that person were the 
+37 waste oil dealer.
+38Sec. 12.  38 MRSA §1319-I, sub-§4-A, as amended by PL 2005, c. 549, §5, is 
+39 further amended to read:
+Page 5 - 130LR0132(01)14-A.  Fee on waste oil sale or disposal.  A fee of 2¢ a gallon on each gallon of waste 
+2 oil transported, collected or stored must be paid by the waste oil dealer handler or 
+3 transporter that first transports, collects or stores that waste oil.  Waste A waste oil dealers 
+4 handler and transporter shall maintain records sufficient to determine whether the dealer 
+5 handler or transporter is liable for any and all fees imposed pursuant to this subsection and 
+6 shall submit such records to the commissioner as required by rule of the board.
+7Sec. 13.  38 MRSA §1319-J, first ¶, as enacted by PL 1981, c. 478, §7, is amended 
+8 to read:
+9 Any person who permits, causes or is responsible for a discharge or threatened 
+10 discharge of hazardous waste or waste oil shall reimburse the State for all costs incurred, 
+11 including personnel costs, in the removal of the discharge or threatened discharge. Funds 
+12 recovered under this section shall must be deposited to the account from which they were 
+13 expended. Requests for reimbursement, if not made within 30 days of demand, shall must 
+14 be turned over to the Attorney General for collection.
+15Sec. 14.  38 MRSA §1319-O, sub-§2, ¶A, as amended by PL 2019, c. 315, §12, is 
+16 further amended to read:
+17 A.  The department may adopt rules relating to the transportation, collection and 
+18 treatment, storage  and disposal of waste oil to protect public health, safety and welfare 
+19 and the environment.  The rules may include, without limitation, rules requiring 
+20 licenses for waste oil dealers and  transporters and waste oil facilities including waste 
+21 oil management facilities, the location of waste oil  treatment, storage  and disposal sites  
+22 that are operated by waste oil dealers, evidence of financial capability and manifest 
+23 systems for waste oil.  A person licensed by the department to transport or handle 
+24 hazardous waste is not required to obtain a waste oil dealer's license, but the hazardous 
+25 waste license must include any terms or conditions determined necessary by the 
+26 department relating to the transportation or handling of waste oil.
+27Sec. 15.  38 MRSA §1319-X, as enacted by PL 1993, c. 383, §38, is amended by 
+28 amending the section headnote to read:
+29§1319-X.  Criteria for development of waste oil storage facilities and biomedical waste 
+30facilities
+31Sec. 16.  38 MRSA §1319-X, first ¶, as enacted by PL 1993, c. 383, §38, is 
+32 amended to read:
+33 The following criteria for facility development apply to an application for a waste oil 
+34 storage facility or a new or substantially modified biomedical waste treatment or disposal 
+35 facility in addition to other criteria established by law or rule for those facilities.
+36Sec. 17.  38 MRSA §1319-X, last ¶, as enacted by PL 1993, c. 383, §38, is amended 
+37 to read:
+38 The department may not issue a license for a waste oil storage facility if the proposed 
+39 facility overlies a significant ground water aquifer or a primary sand and gravel recharge 
+40 area.
+41Sec. 18.  38 MRSA §1611, sub-§3, ¶A, as amended by PL 2019, c. 617, Pt. J, §1, 
+42 is further amended to read:
+Page 6 - 130LR0132(01)1 A.  Beginning January 15, 2021 a retail establishment may use provide a recycled paper 
+2 bag or a reusable bag made of plastic to bag products at the point of sale as long as the 
+3 retail establishment charges a fee of at least 5¢ per bag.
+4 (1)  All amounts collected pursuant to this paragraph are retained by the retail 
+5 establishment and may be used for any lawful purpose.
+6 (2)  A retail establishment may not rebate or otherwise reimburse a customer any 
+7 portion of the fee charged pursuant to this paragraph.
+8Sec. 19.  38 MRSA §3113, sub-§1-A is enacted to read:
+91-A.  Licensing fees.  An applicant under this section shall include the following fees 
+10 with a license application and an annual license renewal application.
+11 A.  An applicant for approval of a redemption center shall submit a $100 license fee with 
+12 an initial application and subsequent annual applications.
+13 B.  An applicant for approval as an initiator of deposit:
+14 (1)  Of a small brewery as defined in Title 28-A, section 2, subsection 29 or a small 
+15 winery as defined in Title 28-A, section 2, subsection 29-B that produces no more 
+16 than 50,000 gallons of its product or a bottler of water that annually sells no more 
+17 than 250,000 containers, each containing no more than one gallon of its product, 
+18 shall submit an annual license fee of $50;
+19 (2)  Of a small beverage producer whose total production of all beverages from all 
+20 combined manufacturing locations is less than 50,000 gallons annually shall 
+21 submit an annual license fee of $50; and
+22 (3)  Other than under subparagraphs (1) or (2) shall submit an annual license fee 
+23 of $500.
+24 C.  An applicant for approval as a contracted agent for the collection of beverage 
+25 containers shall submit a $500 annual license fee with each application.
+26SUMMARY
+27 This bill makes changes to the laws administered by the Department of Environmental 
+28 Protection relating to hazardous material response vehicles; underground oil storage tank 
+29 installer and inspector certification; the Maine Environmental Protection Fund; waste 
+30 management fees; the Natural Resources Protection Act; waste oil; recycled paper bags and 
+31 reusable plastic bags; and beverage containers.27
+28
+29
+30
+31

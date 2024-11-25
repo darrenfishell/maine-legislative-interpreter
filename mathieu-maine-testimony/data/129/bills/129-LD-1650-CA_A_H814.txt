@@ -1,0 +1,297 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -814) (LD 1650 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1L.D. 1650
+2
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650, Bill, “An Act To 
+10Strengthen Consumer Protections in Health Care”
+11Amend the bill by striking out everything after the enacting clause and inserting the 
+12following:
+13'PART A
+14Sec. A-1.  24-A MRSA §2735-A, sub-§1, as amended by PL 2011, c. 364, §1, is 
+15further amended to read:
+161.  Notice of rate filing or rate increase on existing policies.  An insurer offering 
+17individual health plans as defined in section 2736-C must provide written notice by first 
+18class mail of a rate filing to all affected policyholders at least 60 days before the effective 
+19date of any proposed increase in premium rates or any proposed rating formula, 
+20classification of risks or modification of any formula or classification of risks.  Except as 
+21otherwise provided in section 2736-C, subsection 2-B, the The notice must also inform 
+22policyholders of their right to request a hearing pursuant to section 229.  The notice must 
+23show the proposed rate and, unless otherwise provided in section 2736-C, subsection 2-B, 
+24state that the rate is subject to regulatory approval.  Except as otherwise provided in 
+25section 2736-C, subsection 2-B, the The superintendent may not take final action on a 
+26rate filing until 40 days after the date notice is mailed by an insurer.  An increase in 
+27premium rates may not be implemented until 60 days after the notice is provided or until 
+28the effective date under section 2736, whichever is later.
+29Sec. A-2.  24-A MRSA §2736-A, first ¶, as amended by PL 2011, c. 364, §2, is 
+30further amended to read:
+31If at any time the superintendent has reason to believe that a filing does not meet the 
+32requirements that rates not be excessive, inadequate or unfairly discriminatory or that the 
+33filing violates any of the provisions of chapter 23, the superintendent shall cause a 
+34hearing to be held.  If a filing proposes an increase in rates in an individual health plan as 
+35defined in section 2736-C, the superintendent shall cause a hearing to be held at the Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650
+Page 2 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1request of the Attorney General. In any hearing conducted under this section, the insurer 
+2has the burden of proving rates are not excessive, inadequate or unfairly discriminatory.
+3Sec. A-3.  24-A MRSA §2736-C, sub-§5, as amended by PL 2019, c. 5, Pt. A, 
+4§6, is further amended to read:
+55.  Loss ratios.  Except as provided in subsection 2-B, for For all policies and 
+6certificates issued on or after the effective date of this section, the superintendent shall 
+7disapprove any premium rates filed by any carrier, whether initial or revised, for an 
+8individual health policy unless it is anticipated that the medical loss ratio calculated under 
+9section 4319 will be at least 80%.
+10Sec. A-4.  Application.  Those sections of this Part that amend the Maine Revised 
+11Statutes, Title 24-A, sections 2735-A, 2736-A and 2736-C apply to individual health plan 
+12rate filings submitted by an insurer or a carrier to the Department of Professional and 
+13Financial Regulation, Bureau of Insurance pursuant to Title 24-A, sections 2736 and 
+142736-C for the 2022 plan or policy year and thereafter.
+15PART B
+16Sec. B-1.  24-A MRSA §2736-C, sub-§2, ¶C-1, as enacted by PL 2011, c. 90, 
+17Pt. A, §2, is repealed.
+18Sec. B-2.  24-A MRSA §2736-C, sub-§2, ¶D, as amended by PL 2019, c. 5, Pt. 
+19A, §3, is further amended to read:
+20D.  A carrier may vary the premium rate due to age, geographic area and tobacco use 
+21in accordance with the limitations set out in this paragraph.  A carrier that varies the 
+22premium rate due to age must vary the premium rate according to a uniform age 
+23curve.  The superintendent shall adopt rules establishing a uniform age curve that is 
+24substantially similar to the age curve in effect on January 1, 2019 under the federal 
+25Affordable Care Act.  Rules adopted under this paragraph are routine technical rules 
+26as defined in Title 5, chapter 375, subchapter 2-A.
+27(1)  For all policies, contracts or certificates that are executed, delivered, issued 
+28for delivery, continued or renewed in this State between December 1, 1993 and 
+29July 14, 1994, the premium rate may not deviate above or below the community 
+30rate filed by the carrier by more than 50%.
+31(2)  For all policies, contracts or certificates that are executed, delivered, issued 
+32for delivery, continued or renewed in this State between July 15, 1994 and July 
+3314, 1995, the premium rate may not deviate above or below the community rate 
+34filed by the carrier by more than 33%.
+35(3)  For all policies, contracts or certificates that are executed, delivered, issued 
+36for delivery, continued or renewed in this State between July 15, 1995 and June 
+3730, 2012, the premium rate may not deviate above or below the community rate 
+38filed by the carrier by more than 20%.
+39(5) For all policies, contracts or certificates that are executed, delivered, issued 
+40for delivery, continued or renewed in this State between July 1, 2012 and 
+COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650
+Page 3 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1December 31, 2013, the maximum rate differential due to age filed by the carrier 
+2as determined by ratio is 3 to 1.  The limitation does not apply for determining 
+3rates for an attained age of less than 19 years of age or more than 65 years of age.
+4(6) For all policies, contracts or certificates that are executed, delivered, issued 
+5for delivery, continued or renewed in this State between January 1, 2014 and 
+6December 31, 2014, the maximum rate differential due to age filed by the carrier 
+7as determined by ratio is 4 to 1 to the extent permitted by the federal Affordable 
+8Care Act.  The limitation does not apply for determining rates for an attained age 
+9of less than 19 years of age or more than 65 years of age.
+10(7) For all policies, contracts or certificates that are executed, delivered, issued 
+11for delivery, continued or renewed in this State on or after January 1, 2015, 
+12except as provided in subparagraph (9) (10), the maximum rate differential due to 
+13age filed by the carrier as determined by ratio is 5 to 1 to the extent permitted by 
+14the federal Affordable Care Act.  The limitation does not apply for determining 
+15rates for an attained age of less than 19 years of age or more than 65 years of age.
+16(8)  For all policies, contracts or certificates that are executed, delivered, issued 
+17for delivery, continued or renewed in this State on or after between July 1, 2012 
+18and December 31, 2021, the maximum rate differential due to tobacco use filed 
+19by the carrier as determined by ratio is 1.5 to 1, except that the carrier may not 
+20apply a rate differential pursuant to this subparagraph when the covered 
+21individual is participating in an evidence-based tobacco cessation strategy 
+22approved by the United States Department of Health and Human Services, Food 
+23and Drug Administration.
+24(9)  For all policies, contracts or certificates that are executed, delivered, issued 
+25for delivery, continued or renewed in this State on or after the effective date of 
+26this subparagraph, the maximum rate differential due to age filed by the carrier as 
+27determined by ratio is 3 to 1 for individuals 21 years of age and older on the first 
+28day of coverage under the policy, contract or certificate.  The variation in rate due 
+29to age must be actuarially justified for individuals under 21 years of age 
+30consistent with the uniform age rating curve adopted under this paragraph.
+31(10) For all policies, contracts or certificates that are executed, delivered, issued 
+32for delivery, continued or renewed in this State on or after January 1, 2022, for 
+33each individual health plan offered by a carrier, the highest premium rate for each 
+34rating tier may not exceed 2.5 times the premium rate that could be charged to an 
+35eligible individual with the lowest premium rate for that rating tier in a given 
+36rating period. For purposes of this subparagraph, "rating tier" means each 
+37category of individual or family composition for which a carrier charges separate 
+38rates.
+39(a)  In determining the rating factor for geographic area pursuant to this 
+40subparagraph, the ratio between the highest and lowest rating factor used by a 
+41carrier for geographic area may not exceed 1.5 and the ratio between highest 
+42and lowest combined rating factors for age and geographic area may not 
+43exceed 2.5.
+COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650
+Page 4 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1(b)  In determining rating factors for age and geographic area pursuant to this 
+2subparagraph, rates must take into account the savings resulting from the 
+3reinsurance program created by chapter 54-A.
+4(c)  The superintendent shall adopt rules setting forth appropriate 
+5methodologies regarding determination of rating factors pursuant to this 
+6subparagraph. Rules adopted pursuant to this division are routine technical 
+7rules as defined in Title 5, chapter 375, subchapter 2-A.
+8(11)  For all policies, contracts or certificates that are executed, delivered, issued 
+9for delivery, continued or renewed in this State on or after January 1, 2022, a 
+10carrier may not vary the premium rate based on tobacco use as a rating factor.
+11Sec. B-3.  24-A MRSA §2736-C, sub-§2-B, as amended by PL 2011, c. 364, §7, 
+12is repealed.
+13Sec. B-4.  24-A MRSA §2808-B, sub-§2, ¶C-1, as enacted by PL 2011, c. 90, 
+14Pt. A, §7, is repealed.
+15Sec. B-5.  24-A MRSA §2808-B, sub-§2, ¶D, as amended by PL 2019, c. 5, Pt. 
+16A, §11, is further amended to read:
+17D.  A carrier may vary the premium rate due to age, geographic area and tobacco use 
+18in accordance with the limitations set out in this paragraph.  A carrier that varies the 
+19premium rate due to age must vary the premium rate according to a uniform age 
+20curve.  The superintendent shall adopt rules establishing a uniform age curve that is 
+21substantially similar to the age curve in effect on January 1, 2019 under the federal 
+22Affordable Care Act.  Rules adopted under this paragraph are routine technical rules 
+23as defined in Title 5, chapter 375, subchapter 2-A.
+24(1)  For all policies, contracts or certificates that are executed, delivered, issued 
+25for delivery, continued or renewed in this State between July 15, 1993 and July 
+2614, 1994, the premium rate may not deviate above or below the community rate 
+27filed by the carrier by more than 50%.
+28(2)  For all policies, contracts or certificates that are executed, delivered, issued 
+29for delivery, continued or renewed in this State between July 15, 1994 and July 
+3014, 1995, the premium rate may not deviate above or below the community rate 
+31filed by the carrier by more than 33%.
+32(3)  For all policies, contracts or certificates that are executed, delivered, issued 
+33for delivery, continued or renewed in this State between July 15, 1995 and 
+34September 30, 2011, the premium rate may not deviate above or below the 
+35community rate filed by the carrier by more than 20%.
+36(4)  For all policies, contracts or certificates that are executed, delivered, issued 
+37for delivery, continued or renewed in this State between October 1, 2011 and 
+38September 30, 2012, the maximum rate differential due to age filed by the carrier 
+39as determined by ratio is 2 to 1.  The limitation does not apply for determining 
+40rates for an attained age of less than 19 years of age or more than 65 years of age.
+COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650
+Page 5 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1(5)  For all policies, contracts or certificates that are executed, delivered, issued 
+2for delivery, continued or renewed in this State between October 1, 2012 and 
+3December 31, 2013, the maximum rate differential due to age and group size 
+4filed by the carrier as determined by ratio is 2.5 to 1.  The limitation does not 
+5apply for determining rates for an attained age of less than 19 years of age or 
+6more than 65 years of age.
+7(6)  For all policies, contracts or certificates that are executed, delivered, issued 
+8for delivery, continued or renewed in this State between January 1, 2014 and 
+9December 31, 2014, the maximum rate differential due to age and group size 
+10filed by the carrier as determined by ratio is 3 to 1 to the extent permitted by the 
+11federal Affordable Care Act.  The limitation does not apply for determining rates 
+12for an attained age of less than 19 years of age or more than 65 years of age.
+13(7)  For all policies, contracts or certificates that are executed, delivered, issued 
+14for delivery, continued or renewed in this State between January 1, 2015 and 
+15December 31, 2015, the maximum rate differential due to age and group size 
+16filed by the carrier as determined by ratio is 4 to 1 to the extent permitted by the 
+17federal Affordable Care Act.  The limitation does not apply for determining rates 
+18for an attained age of less than 19 years of age or more than 65 years of age.
+19(8)  For all policies, contracts or certificates that are executed, delivered, issued 
+20for delivery, continued or renewed in this State on or after January 1, 2016, 
+21except as provided in subparagraph (10) (11), the maximum rate differential due 
+22to age and group size filed by the carrier as determined by ratio is 5 to 1 to the 
+23extent permitted by the federal Affordable Care Act.  The limitation does not 
+24apply for determining rates for an attained age of less than 19 years of age or 
+25more than 65 years of age.
+26(9)  For all policies, contracts or certificates that are executed, delivered, issued 
+27for delivery, continued or renewed in this State on or after between October 1, 
+282011 and December 31, 2021, the maximum rate differential due to tobacco use 
+29filed by the carrier as determined by ratio is 1.5 to 1, except that the carrier may 
+30not apply a rate differential pursuant to this subparagraph when the covered 
+31individual is participating in an evidence-based tobacco cessation strategy 
+32approved by the United States Department of Health and Human Services, Food 
+33and Drug Administration.
+34(10)  For all policies, contracts or certificates that are executed, delivered, issued 
+35for delivery, continued or renewed in this State on or after the effective date of 
+36this Act, the maximum rate differential due to age filed by the carrier as 
+37determined by ratio is 3 to 1 for individuals 21 years of age and older on the first 
+38day of coverage under the policy, contract or certificate.  The variation in rate due 
+39to age must be actuarially justified for individuals under 21 years of age 
+40consistent with the uniform age rating curve adopted under this paragraph.
+41(11)  For all policies, contracts or certificates that are executed, delivered, issued 
+42for delivery, continued or renewed in this State on or after January 1, 2022, for 
+43each small group health plan offered by a carrier, the highest premium rate for 
+44each rating tier may not exceed 2.5 times the premium rate that could be charged 
+COMMITTEE AMENDMENT “      ” to H.P. 1186, L.D. 1650
+Page 6 - 129LR0243(02)-1
+COMMITTEE AMENDMENT1to an eligible individual with the lowest premium rate for that rating tier in a 
+2given rating period. For purposes of this subparagraph, "rating tier" means each 
+3category of individual or family composition for which a carrier charges separate 
+4rates.
+5(a)  In determining the rating factor for geographic area pursuant to this 
+6subparagraph, the ratio between the highest and lowest rating factor used by a 
+7carrier for geographic area may not exceed 1.5 and the ratio between highest 
+8and lowest combined rating factors for age and geographic area may not 
+9exceed 2.5.
+10(b)  In determining rating factors for age and geographic area pursuant to this 
+11subparagraph, rates must take into account the savings resulting from the 
+12reinsurance program created by chapter 54-A.
+13(c)  The superintendent shall adopt rules setting forth appropriate 
+14methodologies regarding determination of rating factors pursuant to this 
+15subparagraph. Rules adopted pursuant to this division are routine technical 
+16rules as defined in Title 5, chapter 375, subchapter 2-A.
+17(12)  For all policies, contracts or certificates that are executed, delivered, issued 
+18for delivery, continued or renewed in this State on or after January 1, 2022, a 
+19carrier may not vary the premium rate based on tobacco use as a rating factor.' 
+20Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+21section number to read consecutively.
+22SUMMARY
+23This amendment replaces the bill and is the minority report of the committee.
+24Part A amends the rate review process for individual health insurance.  It requires 
+25advance review and prior approval of individual health insurance rates.  It requires the 
+26Superintendent of Insurance to hold a hearing if a filing proposes an increase in rates in 
+27individual health insurance plans.  It requires the Superintendent of Insurance to 
+28disapprove premium rates unless the minimum medical loss ratio satisfies the statutory 
+29requirements for individual health plans.  The changes apply to individual health plan rate 
+30filings submitted to the Department of Professional and Financial Regulation, Bureau of 
+31Insurance beginning with the 2022 plan or policy year.
+32Part B makes changes to the rating provisions for individual and small group health 
+33insurance plans to reduce the rating band for age and to require that the ratio on the basis 
+34of geographic area is 1.5 to 1 and that the ratio for age and geographic area may not 
+35exceed 2.5.  These changes reinstate the rating provisions in place before the enactment 
+36of Public Law 2011, chapter 90. Part B also prohibits the use of tobacco as a rating factor.  
+37The changes apply to all individual and small group policies issued or renewed on or after 
+38January 1, 2022.
+Revised: 07/13/20
+LD 1 650 LR 243 (02)
+FY 2019-20 FY 2020-21Projections 
+FY 2021-22Projections 
+FY 2022-23
+Appropriations/Allocations
+Other Special Revenue Funds $0 $0 $11,100 $11,100
+Fiscal Detail and Notes
+The bill requires the Superintendent of Insurance to hold a hearing when an individual health insurance plan proposes 
+an increase in rates for plan rate filings beginning with th e 2022 plan year. It is anticipated that the Bureau will need 
+to hold three hearings a year, beginning  in fiscal year 2021-22.  These three hearings are estimated to cost $11,100, 
+with any future allocation funded by existing resources within the Bureau of Insurance.Fiscal Note129th MAINE LEGISLATURE
+An Act To Strengthen Consumer Protections in Health Care
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Health Covera ge, Insurance and Financial Services
+Fiscal Note Re quired: Yes
+LR0243(02) - Fiscal Note - Page 1 of 1

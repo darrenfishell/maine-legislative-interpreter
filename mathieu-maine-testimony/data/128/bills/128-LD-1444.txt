@@ -1,0 +1,365 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1444
+S.P. 499 In Senate, April 13, 2017
+An Act  Regarding Large-scale Community  Solar Procurement
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator WOODSOME of York.
+Cosponsored by Representative HARVELL of Farmington,  Representative BERRY of 
+Bowdoinham and
+Senators: DION of Cumberland, SAVIELLO of  Franklin, Representatives: GROHMAN of 
+Biddeford, HARRINGTON of Sanford, HIGGINS of Dover-Foxcroft, SAMPSON of Alfred,  
+SANBORN of Portland.
+
+ 
+ Page 1 - 128LR1425(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §3471 -A is enacted to read:  2 
+§3471 -A.  Definitions  3 
+As used in this chapter, unless the context otherwise indicates, the following terms 4 
+have the following meanings.  5 
+1.  Credit rate.  "Credit rate" means the per kilowatt -hour rate used to calculate the 6 
+monetary value of a subscriber's share of the output of a large -scale community solar 7 
+distributed generation resource.  The credit rate is equal to the per kilowatt -hour rate in 8 
+the long -term contracts entered into between the standard buyer and the project sponsor 9 
+pursuant to this chapter and must be the same for all subscribers of the large -scale 10 
+community solar distributed generation resource.  11 
+2.  Distributed generation resource.   "Distributed generation resource" means an 12 
+electric generating facility that uses a renewable fuel or technology as specified in section 13 
+3210, subsection 2, paragraph B -3 or is a microcombined heat and power system located 14 
+in the service territory of a t ransmission and distribution utility.  15 
+3.  Kilowatt.  "Kilowatt" means 1,000 watts, measured in direct current.  16 
+4.  Large -scale community solar distributed generation resource.  "Large -scale 17 
+community solar distributed generation resource" means a solar dis tributed generation 18 
+resource with a nameplate capacity of up to 5 megawatts, or other limit as determined by 19 
+commission rule under section 3476, subsection 8, that is selected in a procurement in 20 
+accordance with section 3476 and the beneficial use of the o utput of that solar distributed 21 
+generation resource is owned by or allocated to subscribers.  22 
+5.  Megawatt.  "Megawatt" means 1,000,000 watts, measured in direct current.  23 
+6.  Microcombined heat and power system.  "Microcombined heat and power 24 
+system" means a system that produces heat and electricity in a manner as defined by 25 
+commission rule.  26 
+7.  Output.  "Output" means energy, capacity, renewable energy certificates and all 27 
+other environmental attributes and market products that are available or may become 28 
+available from a distributed generation resource.  29 
+8.  Project sponsor.  "Project sponsor" means an entity, its successor or its assignee 30 
+that owns or operates a large -scale community solar distributed generation resource.  31 
+9.  Standard solar rate.  "Standard  solar rate" means the highest awarded bid rate for 32 
+a long -term contract during the initial procurement for solar distributed generation 33 
+resources under section 3476, subsection 2.  34 
+10.  Subscriber.  "Subscriber" means a retail customer of a transmission an d 35 
+distribution utility who owns or has the right to a subscription and who has identified an 36 
+account to which the subscription is attributed.  37 
+ 
+ Page 2 - 128LR1425(01) -1 
+ 11.  Subscription.  "Subscription" means a proportional interest in a large -scale 1 
+community solar distributed gene ration resource.  Each subscription must be sized to 2 
+represent at least one kilowatt of the resource's generating capacity, and the total expected 3 
+annual value of all of a customer's subscriptions may not exceed 120% of the customer's 4 
+most recent annual el ectricity bill.  5 
+Sec. 2.  35-A MRSA §3473, sub -§§3 and 4 are enacted to read:  6 
+3.  Participation in wholesale markets.  The commission and investor -owned 7 
+transmission and distribution utilities shall take all reasonable steps to promote the 8 
+participation of distributed generation resources in the wholesale electricity market, 9 
+capacity market and ancillary service market.  10 
+4.  Change in tax treatment.  If a change in federal tax laws, rules or policy 11 
+materially modifies the burdens or costs to customers or util ities associated with the 12 
+procurement under this chapter, the commission shall issue a report to the joint standing 13 
+committee of the Legislature having jurisdiction over energy and utilities matters 14 
+describing the impact of these changes and recommending a ny actions necessary to 15 
+maintain the benefits of the procurements under this chapter.  16 
+Sec. 3.  35-A MRSA §§3475 to 3477 are enacted to read:  17 
+§3475.  Standard buyer  18 
+The standard buyer designated pursuant to this section must aggregate the output of 19 
+the port folio of distributed generation resources procured pursuant to this chapter and sell 20 
+or use the output of these resources in a manner that maximizes the value of this portfolio 21 
+of resources to all ratepayers.  22 
+1.  Designation of standard buyer.  Each invest or-owned transmission and 23 
+distribution utility serves as the standard buyer in its service territory, except that the 24 
+commission may designate another entity to serve as standard buyer if the commission 25 
+determines that such a designation is in the best int erest of ratepayers.  The standard 26 
+buyer is subject to the jurisdiction of the commission.  27 
+2.  Obligations of the standard buyer.  The standard buyer designated pursuant to 28 
+subsection 1 shall:  29 
+A.  Serve as counterparty to and enforce long -term contracts wi th project sponsors 30 
+pursuant to section 3476;  31 
+B.  Reimburse, when the standard buyer is not an investor -owned transmission and 32 
+distribution utility, the investor -owned transmission and distribution utility for any 33 
+bill credit or payment to a subscriber or project sponsor pursuant to section 3476;  34 
+C.  Establish reasonable metering and measurement and verification requirements for 35 
+distributed generation resources;  36 
+D.  Provide information needed to allocate eligible costs and benefits pursuant to 37 
+subsection 3;  and 38 
+ 
+ Page 3 - 128LR1425(01) -1 
+ E.  Provide to the commission aggregate data regarding the output of distributed 1 
+generation resources.  2 
+3.  Standard buyer cost allocation.  The commission and each standard buyer 3 
+designated pursuant to subsection 1 shall implement a transparent mechan ism to track and 4 
+recover or distribute the eligible costs and benefits from procuring distributed generation 5 
+resources pursuant to this chapter.  These eligible costs and benefits must be reviewed by 6 
+the commission annually and allocated to and recovered f rom ratepayers of the 7 
+transmission and distribution utility in whose territory the distributed generation resource 8 
+is located through a process established by the commission by rule.  The process 9 
+developed by the commission must be similar to the allocatio n of costs and benefits of 10 
+long-term energy contracts in section 3210 -F.  Eligible costs and benefits include:  11 
+A.  Incremental costs of serving as the standard buyer;  12 
+B.  All payments to customers, subscribers and project sponsors under each 13 
+procurement pu rsuant to section 3476; and  14 
+C.  All revenue from sale of the output of distributed generation resources procured 15 
+pursuant to this chapter.  16 
+Customers receiving service at a transmission or subtransmission voltage level as defined 17 
+in section 10110, subsectio n 6 are excluded from paying any costs or receiving benefits 18 
+associated with the procurement of distributed generation resources pursuant to this 19 
+chapter.  20 
+4.  Rules.  The commission shall adopt rules to implement this section.  Rules 21 
+adopted under this sub section are routine technical rules as defined in Title 5, chapter 22 
+375, subchapter 2 -A.  The commission shall ensure that the rules and procedures 23 
+established under this chapter provide opportunities for entities other than the standard 24 
+buyer to aggregate and sell the output of distributed generation resources in the applicable 25 
+markets.  26 
+§3476.  Large -scale community solar procurement  27 
+1.  Procurement goal.  The commission shall procure 120 megawatts of large -scale 28 
+community solar distributed generation resou rces by January 1, 2022.  In order to 29 
+accomplish this goal, the commission shall conduct annual competitive solicitations, each 30 
+for 30 megawatts of large -scale community solar distributed generation resources.  31 
+2.  Initial procurement.  On or before March 1 , 2018, the commission shall conduct 32 
+a competitive solicitation for an initial procurement of long -term contracts for the output 33 
+of at least 30 megawatts of large -scale community solar distributed generation resources 34 
+as part of the procurement goal in sub section 1.  Bids must be accepted for 120 calendar 35 
+days and reviewed based on the requirements set forth in subsections 7, 8 and 9.  The 36 
+highest awarded bid rate must be established as the standard solar rate for all awarded 37 
+bids in the initial procurement .  If there is more than one bid at that rate, preference will 38 
+be given to the project that was submitted first, as determined by the time stamp showing 39 
+when the bid was received by the commission.  The commission shall select and notify 40 
+successful bidders  no later than 30 calendar days after the bid acceptance period has 41 
+ended.  42 
+ 
+ Page 4 - 128LR1425(01) -1 
+ 3.  Declining block contract rate.  For each subsequent procurement for long -term 1 
+contracts for the output of 30 megawatts of large -scale community solar distributed 2 
+generation reso urces after the initial procurement in subsection 2, the commission shall 3 
+establish a declining block contract rate by reducing the rate awarded in the previous 4 
+procurement by no more than 3%.  5 
+4.  Subsequent procurements.  To ensure competition for procure ments after the 6 
+initial procurement under subsection 2 for the output of 30 megawatts of large -scale 7 
+community solar distributed generation resources, the following standards apply:  8 
+A.  Each procurement after the initial procurement must be open for 120 ca lendar 9 
+days;  10 
+B.  In addition to a bidder's standard bid rate, a bidder must also provide a discounted 11 
+bid rate;  12 
+C.  After the 120 calendar -day bid acceptance period ends, the commission shall 13 
+review bids in accordance with subsections 7, 8 and 9;  14 
+D.  If the total bids received in the aggregate is for less than 30 megawatts, contracts 15 
+must be awarded to all bidders at the applicable declining block contract rate;  16 
+E.  If the total bids received in the aggregate is for more than 30 megawatts, 17 
+preference will b e given to those bidders with the lowest discounted bid rate and 18 
+contracts must be awarded to all selected bidders at the lowest qualified discounted 19 
+bid rate;  20 
+F.  If there are multiple bids at the same discounted bid rate, preference will be given 21 
+to the project that was submitted first, as determined by the time stamp showing when 22 
+the bid was received by the commission; and  23 
+G.  The commission shall select and notify successful bidders no later than 30 24 
+calendar days after the bid acceptance period has ende d. 25 
+5.  Qualification for capacity allocation.  The commission shall set standards for 26 
+qualifications under the declining block contract rate.  All qualified projects must 27 
+complete construction within 2 years of being awarded a contract.  The commission may  28 
+by rule charge a capacity reservation fee to defray administrative costs.  29 
+6.  Standard contract.  Prior to a solicitation, the commission shall develop, in 30 
+consultation with the standard buyer, a standard contract that commits all parties to 31 
+commercially reasonable behavior and includes provisions to ensure that projects proceed 32 
+to commercial operation on a reasonable timeline.  33 
+7.  Bidder eligibility.  The commission shall establish minimum requirements for 34 
+bidders in a solicitation under this section, inc luding, but not limited to, site control, 35 
+development experience, completion of an interconnection application and provision of 36 
+system details.  Bidders must demonstrate development experience through relevant 37 
+experience and expertise in successfully devel oping, financing, constructing, operating 38 
+and maintaining a large -scale solar project and fulfilling its obligation to participating 39 
+subscribers.  The commission may by rule require bidders to pay a bidding fee to defray 40 
+administrative costs.  41 
+ 
+ Page 5 - 128LR1425(01) -1 
+ 8.  Ensuring competition.  The commission shall establish standards to ensure that 1 
+each solicitation under this section has a sufficient number of unique bidders and quantity 2 
+of offered capacity to be competitive.  If the commission concludes based on these 3 
+standards t hat a solicitation is not competitive, no bidders may be selected and the 4 
+capacity available in that solicitation must be deferred to a subsequent solicitation.  The 5 
+commission may by rule adjust the maximum project size eligible for a solicitation to 6 
+ensure that there is more than one bid selected.  7 
+9.  Bid selection.  Following review of bids in a solicitation under this section, if the 8 
+commission determines that the solicitation is competitive pursuant to subsection 8, the 9 
+commission shall select one or m ore winning bidders and direct the standard buyer to 10 
+negotiate and enter into a contract with the winning bidder or bidders for a term of 20 11 
+years at a specified contract rate.  The commission shall select bids that maximize 12 
+benefits or minimize costs to a ll ratepayers.  13 
+10.  Payment and minimum subscription.  The project sponsor and subscribers 14 
+must receive the contract rate for the output of a large -scale community solar distributed 15 
+generation resource that is fully subscribed.  For any portion not subscri bed, the project 16 
+sponsor receives the wholesale rate.  17 
+At least 50% of the subscriptions to a large -scale community solar distributed generation 18 
+resource must be for 25 kilowatts or less, unless a municipality accounts for more than 19 
+50% of the subscriptions  to a large -scale community solar distributed generation 20 
+resource.  A municipality may not account for more than 70% of the subscriptions to a 21 
+large -scale community solar distributed generation resource.  22 
+11.  Determination of subscriber bill credit.  The b ill credit to be allocated to each 23 
+subscriber to a particular large -scale community solar distributed generation resource 24 
+must be based on each subscriber's percentage interest of the total production of the 25 
+large -scale community solar distributed generati on resource for the previous month.  26 
+Each billing month, the value of the credits allocated to each subscriber must be 27 
+calculated by multiplying the number of kilowatt -hours equal to each subscriber's share 28 
+by the credit rate.  On a monthly basis, the proj ect sponsor shall provide to the 29 
+transmission and distribution utility in a standardized and electronic format the 30 
+information required to calculate the bill credit to be provided to each subscriber.  Credits 31 
+to a subscriber must be applied against the sub scriber's monthly electricity bill in 32 
+accordance with section 3477.  The transmission and distribution utility shall provide a 33 
+record to the project sponsor of the credits applied to the transmission and distribution 34 
+utility's associated subscribers each m onth after those credits are applied to the 35 
+subscriber's bill.  36 
+The monthly output available for allocation as subscribed or unsubscribed energy must be 37 
+determined by a revenue -grade meter installed and paid for by the project sponsor.  38 
+12.  Exemption.  A project sponsor or subscriber is not considered a public utility or 39 
+competitive electricity supplier solely as a result of the project sponsor's or subscriber's 40 
+interest or participation in a large -scale community solar distributed generation resource.  41 
+13.  Renewable energy credits.  The commission shall develop a standard disclosure 42 
+to be provided by the project sponsor to all participating subscribers prior to their entering 43 
+ 
+ Page 6 - 128LR1425(01) -1 
+ into a contract under this section that describes the effect of selling the renewab le 1 
+attributes of exported electricity to the standard buyer and explains how a subscriber may 2 
+participate in the voluntary renewable energy credit market.  3 
+14.  Consumer protection.  The commission shall establish by rule consumer 4 
+protection standards to pr otect subscribers from fraud and other unfair and deceptive 5 
+business practices.  The commission may impose administrative penalties upon a project 6 
+sponsor in accordance with chapter 15 and may order restitution for any party injured by 7 
+a violation for whic h a penalty may be assessed pursuant to chapter 15.  8 
+The commission through its own counsel or through the Attorney General may apply to 9 
+the Superior Court of any county of the State to enforce any lawful order made or action 10 
+taken by the commission pursuan t to this subsection.  The court may issue such orders, 11 
+preliminary or final, as it considers proper under the facts established before it.  12 
+15.  Disclosures.  A project sponsor selling or reselling a subscription in a large -scale 13 
+community solar distribute d generation resource or proposed large -scale community solar 14 
+distributed generation resource shall provide a disclosure to potential subscribers that 15 
+includes the following prior to the sale or resale of that subscription:  16 
+A.  A good faith estimate of the  annual kilowatt -hours to be delivered by the large - 17 
+scale community solar distributed generation resource based on the size of the 18 
+subscriber's interest;  19 
+B.  A plain language explanation of the terms under which the bill credits under 20 
+section 3477 will be calculated;  21 
+C.  A plain language explanation of the contract provisions regulating the disposition 22 
+or transfer of the subscription; and  23 
+D.  A plain language explanation of the costs and benefits to the potential subscriber, 24 
+based on the subscriber's curren t usage and applicable tariff, for the term of the 25 
+proposed contract.  26 
+The commission may establish a standard disclosure to be provided to potential 27 
+subscribers by a project sponsor to disclose this information or such other information as 28 
+the commission m ay determine necessary to protect the interests of potential subscribers.  29 
+16.  Transfer of subscriptions.  A subscriber may transfer or assign a subscription to 30 
+the associated project sponsor or to any person or entity who qualifies to be a subscriber 31 
+in the large -scale community solar distributed generation resource.  A project sponsor 32 
+must provide a process for assignment or transfer of a subscription.  A project sponsor 33 
+may not impose transfer fees on a subscriber who moves to a different location within  the 34 
+same utility service territory.  35 
+17.  Project sponsor report.  One year after commercial operation of a large -scale 36 
+community solar distributed generation resource commences, the project sponsor must 37 
+submit to the commission a report detailing what per centage of subscribers earn less than 38 
+the State's median income.  39 
+ 
+ Page 7 - 128LR1425(01) -1 
+ 18.  Rules.  The commission shall adopt rules to implement this section.  Rules 1 
+adopted under this subsection are routine technical rules as defined in Title 5, chapter 2 
+375, subchapter 2 -A. 3 
+§3477.  Bill credits  4 
+This section applies to any credits assigned to a customer's bill under this chapter.  5 
+If the value of the credit to be applied to a customer's bill is less than the amount 6 
+owed by the customer at the end of the applicable billing period , the customer must be 7 
+billed for the difference between the amount shown on the bill and the value of the 8 
+available credits.  9 
+If the value of the credits to be applied to a customer's bill is greater than the amount 10 
+owed by the customer at the end of the b illing period, the remaining value of the credit 11 
+must carry over from month to month until a specified date each year.  The commission 12 
+shall establish a minimum of 2 standard credit expiration dates that provide customers the 13 
+opportunity to use bill credit s to the maximum extent practicable in a given 12 -month 14 
+period.  Any remaining credits as of that date must be credited to the standard buyer and 15 
+may not be applied against any future customer bill.  16 
+The commission shall adopt rules to implement this sectio n.  Rules adopted under 17 
+this section are routine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 18 
+Sec. 4.  Rules.  The Public Utilities Commission shall adopt rules to implement the 19 
+Maine Revised Statutes, Title 35 -A, sections 3475 to 34 77 by January 1, 2018.  20 
+SUMMARY  21 
+This bill directs the Public Utilities Commission to enter into long -term contracts 22 
+with a duration of 20 years for the procurement of 120 megawatts of large -scale 23 
+community solar distributed generation resources by 2022.  24 
+The bill designates a standard buyer, which the bill specifies is the investor -owned 25 
+transmission and distribution utility in its service territory.  The bill allows the 26 
+commission to designate another entity as the standard buyer if the commission 27 
+determines  it is in the best interest of ratepayers to do so.  The purpose of the standard 28 
+buyer is to purchase the output of large -scale community solar distributed generation 29 
+resources, aggregate the portfolio of distributed generation resources procured and sell or 30 
+use the output of these resources in a manner that maximizes the value of this portfolio of 31 
+resources to all ratepayers.  32 
+The bill directs the commission to conduct an initial competitive solicitation for 30 33 
+megawatts of output of large -scale community s olar distributed generation by March 1, 34 
+2018.  The bill directs the commission and standard buyer to develop a contract prior to a 35 
+solicitation that will ensure that projects proceed to commercial operation on a reasonable 36 
+timeline and commits all parties to commercially reasonable behavior.  37 
+ 
+ Page 8 - 128LR1425(01) -1 
+ The bill gives the commission authority to establish requirements for bidder 1 
+eligibility and standards to ensure competition in the bidding process.  The bill also 2 
+specifies that if the solicitation is determined compet itive the commission must select one 3 
+or more winning bids and direct the standard buyer to negotiate and enter into a contract 4 
+with the winning bidder or bidders.  If the commission concludes the solicitation is not 5 
+competitive, no bidders may be selected and the capacity available in that solicitation 6 
+must be deferred to a subsequent solicitation.  The bill requires the commission to select 7 
+bids that maximize the benefits or minimize the costs to all ratepayers.  8 
+The bill requires after the first solicitati on that the highest bid rate awarded a contract 9 
+is the standard solar rate.  For each subsequent procurement for 30 megawatts of 10 
+large -scale community solar distributed generation resources, the commission must 11 
+establish a declining block rate by reducing the rate awarded in the previous procurement 12 
+by up to 3%.  Bidders in subsequent procurement must submit both a standard bid rate 13 
+and a discounted bid rate.  The bill specifies that if the total bids received in the aggregate 14 
+is for less than 30 megawatts in subsequent solicitations, contracts will be awarded to all 15 
+bidders at the applicable declining block rate; however, if the total bids received in the 16 
+aggregate is for more than 30 megawatts, preference will be given to those bidders with 17 
+the lowest disc ounted bid rate and contracts must be awarded to all selected bidders at the 18 
+lowest qualified discounted bid rate.  The bill requires that if there are multiple bids at the 19 
+same discounted bid rate, preference will be given to the project that was submitte d first, 20 
+as determined by the time stamp showing when the bid was received by the commission.  21 
+The bill specifies that the bill credit allocated to a subscriber to a particular large - 22 
+scale community solar distributed generation resource must be based on eac h subscriber's 23 
+percentage interest of the total production of the large -scale community solar distributed 24 
+generation resource for the previous month.  The bill requires the project sponsor to 25 
+provide to the transmission and distribution utility, on a month ly basis, the information 26 
+required to calculate the bill credit to be provided to each subscriber.  The bill includes 27 
+provisions on how payments to a subscriber must be credited against the subscriber's 28 
+monthly electricity bill.  29 
+The bill requires the Publi c Utilities Commission to adopt routine technical rules 30 
+regarding the procurement of large -scale community solar distributed generation 31 
+resources by January 1, 2018.  32 
+ 

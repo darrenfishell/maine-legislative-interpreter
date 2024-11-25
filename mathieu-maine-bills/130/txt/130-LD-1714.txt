@@ -1,0 +1,1045 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1714
+S.P. 535 In Senate,  May 19, 2021
+An Act  To Protect  the Private Information of Maine Residents
+Reference to the Committee on Innovation,  Development, Economic Advancement and 
+Business suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator KEIM of Oxford.
+Cosponsored by Senator:  HICKMAN  of Kennebec, Representative: WHITE of Waterville.
+
+Page 1 - 130LR0234(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA c. 1057 is enacted to read:
+3CHAPTER 1057
+4MAINE CONSUMER PRIVACY ACT
+5§9601.  Short title
+6 This chapter may be known and cited as "the Maine Consumer Privacy Act."
+7§9602.  Definitions
+81.  Aggregate consumer information.  "Aggregate consumer information" means 
+9 information that relates to a group or category of consumers, from which individual 
+10 consumer identities have been removed, that is not linked or reasonably linkable to any 
+11 consumer or household, including via a device.  "Aggregate consumer information" does 
+12 not mean one or more individual consumer records that have been deidentified.
+132.  Biometric information.  "Biometric information" means an individual's 
+14 physiological, biological or behavioral characteristics, including an individual's 
+15 deoxyribonucleic acid, or DNA, that can be used, singly or in combination with each other 
+16 or with other identifying data, to establish the individual's identity.  "Biometric 
+17 information" includes, but is not limited to, imagery of the iris, retina, fingerprint, face, 
+18 hand, palm, vein patterns and voice recordings, from which an identifier template, such as 
+19 a faceprint, a minutiae template or a voiceprint, can be extracted and keystroke patterns or 
+20 rhythms, gait patterns or rhythms and sleep, health or exercise data that contain identifying 
+21 information.
+223.  Business.  "Business" means:
+23 A.  A sole proprietorship, partnership, limited liability company, corporation, 
+24 association or other legal entity that is organized or operated for the profit or financial 
+25 benefit of its shareholders or other owners that collects consumers' personal 
+26 information or on the behalf of which that information is collected and that alone or 
+27 jointly with others determines the purposes and means of the processing of consumers' 
+28 personal information, that does business in the State and that satisfies one or more of 
+29 the following thresholds:
+30 (1)  Has annual gross revenues in excess of $25,000,000, as adjusted pursuant to 
+31 section 9619, subsection 1, paragraph E;
+32 (2)  Alone or in combination annually buys, receives for the business's commercial 
+33 purposes, sells or shares for commercial purposes alone or in combination the 
+34 personal information of 50,000 or more consumers, households or devices; or
+35 (3)  Derives 50% or more of its annual revenues from selling consumers' personal 
+36 information; or
+37 B.  An entity that controls or is controlled by a business as defined in paragraph A and 
+38 that shares common branding with the business.  For the purposes of this paragraph, 
+39 "control" or "controlled" means ownership of, or the power to vote, more than 50% of 
+Page 2 - 130LR0234(01)40 the outstanding shares of any class of voting security of a business; control in any 
+41 manner over the election of a majority of the directors or of individuals exercising 
+42 similar functions; or the power to exercise a controlling influence over the management 
+43 of a company, and "common branding" means a shared name, service mark or 
+44 trademark. 
+64.  Business purpose.  "Business purpose" means the use of personal information for 
+7 the business's or a service provider's operational purposes or other purposes of which 
+8 consumers are given notice, if the use of personal information is reasonably necessary and 
+9 proportionate to achieve the operational purpose for which the personal information was 
+10 collected or processed or for another operational purpose that is compatible with the context 
+11 in which the personal information was collected.  "Business purposes" includes:
+12 A.  Auditing related to a current interaction with the consumer and concurrent 
+13 transactions, including, but not limited to, counting so-called ad impressions to unique 
+14 visitors, verifying positioning and quality of ad impressions and auditing compliance 
+15 with this specification and other standards;
+16 B.  Detecting security incidents, protecting against malicious, deceptive, fraudulent or 
+17 illegal activity and prosecuting those responsible for that activity;
+18 C.  Debugging to identify and repair errors that impair existing intended functionality;
+19 D.  Short-term, transient use if the personal information is not disclosed to another 3rd 
+20 party and is not used to build a profile about a consumer or otherwise alter an individual 
+21 consumer's experience outside the current interaction, including, but not limited to, the 
+22 contextual customization of ads shown as part of the same interaction;
+23 E.  Performing services on behalf of the business or service provider, including 
+24 maintaining or servicing accounts, providing customer service, processing or fulfilling 
+25 orders and transactions, verifying consumer information, processing payments, 
+26 providing financing, providing advertising or marketing services, providing analytic 
+27 services or providing similar services on behalf of the business or service provider;
+28 F.  Undertaking internal research for technological development and demonstration; 
+29 and
+30 G.  Undertaking activities to verify or maintain the quality or safety of a service or 
+31 device that is owned, manufactured, manufactured for or controlled by the business 
+32 and to improve, upgrade or enhance the service or device that is owned, manufactured, 
+33 manufactured for or controlled by the business.
+345.  Collect.  "Collect" means to buy, rent, gather, obtain, receive or access any personal 
+35 information pertaining to a consumer by any means and includes receiving information 
+36 from the consumer, either actively or passively, or by observing the consumer's behavior.
+376.  Commercial purposes.  "Commercial purposes" means to advance a person's 
+38 commercial or economic interests, such as by inducing another person to buy, rent, lease, 
+39 join, subscribe to, provide or exchange products, goods, property, information or services 
+40 or enabling or effecting, directly or indirectly, a commercial transaction.  "Commercial 
+41 purposes" does not include engaging in speech that state or federal courts have recognized 
+42 as noncommercial speech, including political speech and journalism.
+437.  Consumer.  "Consumer" means a natural person who is a resident of the State.1
+2
+3
+4
+5
+Page 3 - 130LR0234(01)18.  Deidentified.  "Deidentified" means cannot reasonably identify, relate to, describe, 
+2 be capable of being associated with or be linked, directly or indirectly, to a particular 
+3 consumer, if a business that uses deidentified information:
+4 A.  Has implemented technical safeguards that prohibit reidentification of the consumer 
+5 to whom the information may pertain;
+6 B.  Has implemented business processes that specifically prohibit reidentification of 
+7 the information;
+8 C.  Has implemented business processes to prevent inadvertent release of deidentified 
+9 information; and
+10 D.  Makes no attempt to reidentify the information.
+119.  Designated method for submitting requests.  "Designated method for submitting 
+12 requests" means a mailing address, e-mail address, Internet web page, Internet web portal, 
+13 toll-free telephone number or other applicable contact information by which a consumer 
+14 may submit a request or direction under this chapter and any consumer-friendly means of 
+15 contacting a business as approved by the Attorney General pursuant to section 9619.
+1610.  Device.  "Device" means any physical object that is capable of connecting to the 
+17 Internet, directly or indirectly, or to another device that is capable of connecting to the 
+18 Internet, directly or indirectly.
+1911.  Health insurance information.  "Health insurance information" means a 
+20 consumer's insurance policy number or subscriber identification number, any unique 
+21 identifier used by a health insurer to identify the consumer or any information in the 
+22 consumer's application and claims history, including any appeals records, if the information 
+23 is linked or reasonably linkable to a consumer or household, including via a device, by a 
+24 business or service provider.
+2512.  Homepage.  "Homepage" means the introductory page of an Internet website and 
+26 any Internet web page where personal information is collected.  In the case of an online 
+27 service, such as a mobile application, "homepage" means the application's platform page 
+28 or download page, a link within the application, such as from the application's 
+29 configuration, "about," "information" or settings page, and any other location that allows 
+30 consumers to review the form required by section 9610, subsection 1, including, but not 
+31 limited to, before downloading the application.
+3213.  Person.  "Person" means an individual, proprietorship, firm, partnership, joint 
+33 venture, syndicate, business trust, company, corporation, limited liability company, 
+34 association, committee and any other organization or group of persons acting in concert.
+3514.  Personal information.  "Personal information":
+36 A.  Means information that identifies, relates to, describes, is reasonably capable of 
+37 being associated with or could reasonably be linked, directly or indirectly, with a 
+38 particular consumer or household and includes, but is not limited to:
+39 (1)  Identifiers such as a real name, alias, mailing address, signature, telephone 
+40 number, unique identifier, online identifier, Internet protocol address, e-mail 
+41 address, account name, social security number, driver's license number, nondriver 
+42 identification card number, passport number or other similar identifiers;
+Page 4 - 130LR0234(01)1 (2)  Physical characteristics or description, insurance policy number, bank account 
+2 number, credit card number, debit card number or any other financial information, 
+3 medical information or health information;
+4 (3)  Characteristics of protected classifications under state or federal law;
+5 (4)  Commercial information, including records of personal property, products or 
+6 services purchased, obtained or considered, or other purchasing or consuming 
+7 histories or tendencies;
+8 (5)  Biometric information;
+9 (6)  Internet or other electronic network activity information, including, but not 
+10 limited to, browsing history, search history and information regarding a consumer's 
+11 interaction with an Internet website, application or advertisement;
+12 (7)  Geolocation data;
+13 (8)  Audio, electronic, visual, thermal, olfactory or similar information;
+14 (9)  Professional or employment-related information;
+15 (10)  Education information, defined as information that is not publicly available 
+16 personally identifiable information as defined in the Family Educational Rights 
+17 and Privacy Act of 1974, 20 United States Code, Section 1232g; and
+18 (11)  Inferences drawn from any of the information identified in this paragraph to 
+19 create a profile about a consumer reflecting the consumer's preferences, 
+20 characteristics, psychological trends, predispositions, behavior, attitudes, 
+21 intelligence, abilities and aptitudes;
+22 B.  "Personal information" does not include publicly available information.  For 
+23 purposes of this paragraph, "publicly available" means information that is lawfully 
+24 made available from federal, state or local government records.  "Publicly available" 
+25 does not mean biometric information collected by a business about a consumer without 
+26 the consumer's knowledge; and
+27 C.  "Personal information" does not include consumer information that is deidentified 
+28 or aggregate consumer information.
+2915.  Probabilistic identifier.  "Probabilistic identifier" means the identification of a 
+30 consumer or a device to a degree of certainty of more probable than not based on any 
+31 categories of personal information included in, or similar to, the categories enumerated in 
+32 the definition of "personal information."
+3316.  Processing.  "Processing" means any operation or set of operations that is 
+34 performed on personal information or on sets of personal information, whether or not by 
+35 automated means.
+3617.  Reidentify.  "Reidentify" means the process of reversal of deidentification 
+37 techniques, including, but not limited to, the addition of specific pieces of information or 
+38 data elements that can, individually or in combination, be used to uniquely identify an 
+39 individual or usage of any statistical method, contrivance, computer software or other 
+40 means that have the effect of associating deidentified information with a specific 
+41 identifiable individual.
+Page 5 - 130LR0234(01)118.  Research.  "Research" means scientific, systematic study and observation, 
+2 including basic research or applied research that is in the public interest and that adheres to 
+3 all other applicable ethics and privacy laws or studies conducted in the public interest in 
+4 the area of public health.  Research with personal information that may have been collected 
+5 from a consumer in the course of the consumer's interactions with a business's service or 
+6 device for other purposes must be:
+7 A.  Compatible with the business purpose for which the personal information was 
+8 collected;
+9 B.  Subsequently deidentified, or deidentified and in the aggregate, such that the 
+10 information cannot reasonably identify, relate to, describe, be capable of being 
+11 associated with or be linked, directly or indirectly, to a particular consumer;
+12 C.  Made subject to technical safeguards that prohibit reidentification of the consumer 
+13 to whom the information may pertain;
+14 D.  Subject to business processes that specifically prohibit reidentification of the 
+15 information;
+16 E.  Made subject to business processes to prevent inadvertent release of deidentified 
+17 information;
+18 F.  Protected from any reidentification attempts;
+19 G.  Used solely for research purposes that are compatible with the context in which the 
+20 personal information was collected;
+21 H.  Not be used for any commercial purpose; and
+22 I.  Subjected by the business conducting the research to additional security controls that 
+23 limit access to the research data to only those individuals in a business as are necessary 
+24 to carry out the research purpose.
+2519.  Sell.  "Sell" means sell, rent, release, disclose, disseminate, make available, transfer 
+26 or otherwise communicate orally, in writing or by electronic or other means, a consumer's 
+27 personal information by a business to another business or a 3rd party for monetary or other 
+28 valuable consideration.
+29 For purposes of this chapter, a business does not sell personal information when:
+30 A.  A consumer uses or directs the business to intentionally disclose personal 
+31 information or uses the business to intentionally interact with a 3rd party, if the 3rd 
+32 party does not also sell the personal information, unless that disclosure would be 
+33 consistent with the provisions of this chapter.  An intentional interaction occurs when 
+34 the consumer intends to interact with the 3rd party via one or more deliberate 
+35 interactions.  Hovering over, muting, pausing or closing a given piece of content does 
+36 not constitute a consumer's intent to interact with a 3rd party;
+37 B.  The business uses or shares an identifier for a consumer who has opted out of the 
+38 sale of the consumer's personal information for the purposes of alerting 3rd parties that 
+39 the consumer has opted out of the sale of the consumer's personal information;
+40 C.  The business uses or shares with a service provider personal information of a 
+41 consumer that is necessary to perform a business purpose if both of the following 
+42 conditions are met:
+Page 6 - 130LR0234(01)1 (1)  The business has provided notice of that information being used or shared in 
+2 its terms and conditions consistent with section 9610; and 
+3 (2)  The service provider does not further collect, sell or use the personal 
+4 information of the consumer except as necessary to perform the business purpose;
+5 D.  The business transfers to a 3rd party the personal information of a consumer as an 
+6 asset that is part of a merger, acquisition, bankruptcy or other transaction in which the 
+7 3rd party assumes control of all or part of the business, if that information is used or 
+8 shared consistent with the provisions of sections 9605 and 9606.  If a 3rd party 
+9 materially alters how it uses or shares the personal information of a consumer in a 
+10 manner that is materially inconsistent with the promises made at the time of collection, 
+11 it shall provide prior notice of the new or changed practice to the consumer.  The notice 
+12 must be sufficiently prominent and robust to ensure that existing consumers can easily 
+13 exercise their choices consistent with section 9607.  This paragraph does not authorize 
+14 a business to make material, retroactive privacy policy changes or make other changes 
+15 in its privacy policy in a manner that would violate the Unfair Trade Practices Act or 
+16 chapter 206.
+1720.  Service.  "Service" means work or labor, including work or labor furnished in 
+18 connection with the sale or repair of goods.
+1921.  Service provider.  "Service provider" means a sole proprietorship, partnership, 
+20 limited liability company, corporation, association or other legal entity that is organized or 
+21 operated for the profit or financial benefit of its shareholders or other owners, that processes 
+22 information on behalf of a business and to which the business discloses a consumer's 
+23 personal information for a business purpose pursuant to a written contract, if the contract 
+24 prohibits the entity receiving the information from retaining, using or disclosing the 
+25 personal information for any purpose other than for the specific purpose of performing the 
+26 services specified in the contract for the business, or as otherwise permitted by this chapter, 
+27 including retaining, using or disclosing the personal information for a commercial purpose 
+28 other than providing the services specified in the contract with the business.
+2922.  Third party.  "Third party" means a person who is not any of the following:
+30 A.  The business that collects personal information from consumers under this chapter;
+31 B.  A person to whom the business discloses a consumer's personal information for a 
+32 business purpose pursuant to a written contract, if the contract:
+33 (1)  Prohibits the person receiving the personal information from:
+34 (a)  Selling the personal information;
+35 (b)  Retaining, using or disclosing the personal information for any purpose 
+36 other than for the specific purpose of performing the services specified in the 
+37 contract, including retaining, using or disclosing the personal information for 
+38 a commercial purpose other than providing the services specified in the 
+39 contract; or
+40 (c)  Retaining, using or disclosing the information outside of the direct business 
+41 relationship between the person and the business; and
+Page 7 - 130LR0234(01)1 (2)  Includes a certification made by the person receiving the personal information 
+2 that the person understands the restrictions in subparagraph (1) and will comply 
+3 with them.
+423.  Unique identifier.  "Unique identifier" means a persistent identifier that can be 
+5 used to recognize a consumer, a household or a device that is linked to a consumer or 
+6 household, over time and across different services, including, but not limited to: a device 
+7 identifier; an Internet protocol address; cookies, beacons, pixel tags, mobile ad identifiers 
+8 or similar technology; customer number, unique pseudonym or user alias; telephone 
+9 numbers; or other forms of persistent or probabilistic identifiers that can be used to identify 
+10 a particular consumer or device.  For purposes of this subsection, "household" means a 
+11 custodial parent or guardian and any minor children of whom the parent or guardian has 
+12 custody.
+1324.  Verifiable consumer request.  "Verifiable consumer request" means a request 
+14 that is made by a consumer or by a consumer on behalf of the consumer's minor child, or 
+15 by a natural person or a person registered with the Secretary of State authorized by the 
+16 consumer to act on the consumer's behalf, and that the business can reasonably verify, 
+17 pursuant to rules adopted by the Attorney General pursuant to section 9619, subsection 1, 
+18 paragraph G to be the consumer about whom the business has collected personal 
+19 information.
+20§9603.  Consumer's right to request personal information
+211.  Request.  A consumer has the right to request that a business that collects a 
+22 consumer's personal information disclose to that consumer the categories of personal 
+23 information the business has collected regarding the consumer.
+242.  Categories to be collected; purposes.  A business that collects a consumer's 
+25 personal information shall, at or before the point of collection, inform consumers as to the 
+26 categories of personal information to be collected and the purposes for which the categories 
+27 of personal information may be used.  A business may not collect additional categories of 
+28 personal information or use personal information collected for additional purposes without 
+29 providing the consumer with notice consistent with this section.
+303.  Verifiable consumer request required.  A business shall provide the information 
+31 specified in subsection 1 to a consumer only upon receipt of a verifiable consumer request.  
+32 A business is not obligated to provide information to the consumer pursuant to this section 
+33 and sections 9604, 9605 and 9606 if the business cannot verify, pursuant to this subsection 
+34 and rules adopted by the Attorney General pursuant to section 9616, subsection 1, 
+35 paragraph G, that the consumer making the request is the consumer about whom the 
+36 business has collected information or is a person authorized by the consumer to act on such 
+37 consumer's behalf.
+384.  Disclose and deliver personal information.  A business that receives a verifiable 
+39 consumer request from a consumer to access personal information shall promptly take steps 
+40 to disclose and deliver, free of charge to the consumer, the personal information required 
+41 by this section.  The information may be delivered by mail or electronically, and, if 
+42 provided electronically, the information must be in a portable and, to the extent technically 
+43 feasible, readily useable format that allows the consumer to transmit this information to 
+44 another entity without hindrance.  A business may provide personal information to a 
+Page 8 - 130LR0234(01)45 consumer at any time, but is not required to provide personal information to a consumer 
+46 more than twice in a 12-month period.
+35.  Single, one-time transaction.  This section does not require a business to retain 
+4 any personal information collected for a single, one-time transaction, if such information 
+5 is not sold or retained by the business or to reidentify or otherwise link information that is 
+6 not maintained in a manner that would be considered personal information.
+7§9604.  Consumer's right to request deletion of personal information
+81.  Request to delete.  A consumer has the right to request that a business delete any 
+9 personal information about the consumer that the business has collected from the consumer.
+102.  Disclose right to request deletion.  A business that collects personal information 
+11 about a consumer shall disclose, pursuant to section 9609, the consumer's right to request 
+12 the deletion of the consumer's personal information.
+133.  Verifiable consumer request.  A business that receives a verifiable consumer 
+14 request from a consumer to delete the consumer's personal information pursuant to 
+15 subsection 1 shall delete the consumer's personal information from its records and direct 
+16 any service providers to delete the consumer's personal information from their records.  A 
+17 business is not obligated to provide information to the consumer pursuant to this section 
+18 and sections 9603, 9605 and 9606 if the business cannot verify, pursuant to this subsection 
+19 and rules adopted by the Attorney General pursuant to section 9616, subsection 1, 
+20 paragraph G, that the consumer making the request is the consumer about whom the 
+21 business has collected information or is a person authorized by the consumer to act on such 
+22 consumer's behalf.
+234.  Deletion not required.  A business or a service provider is not required to comply 
+24 with a consumer's request to delete the consumer's personal information if it is necessary 
+25 for the business or service provider to maintain the consumer's personal information in 
+26 order to:
+27 A.  Complete the transaction for which the personal information was collected, fulfill 
+28 the terms of a written warranty or product recall conducted in accordance with federal 
+29 law, provide a good or service requested by the consumer or reasonably anticipated 
+30 within the context of a business's ongoing business relationship with the consumer or 
+31 otherwise perform a contract between the business and the consumer; 
+32 B.  Detect security incidents, protect against malicious, deceptive, fraudulent or illegal 
+33 activity or prosecute those responsible for that activity;
+34 C.  Debug to identify and repair errors that impair existing intended functionality;
+35 D.  Exercise free speech, ensure the right of another consumer to exercise that 
+36 consumer's right of free speech or exercise another right provided for by law;
+37 E.  Comply with a warrant under Title 16, chapter 3, subchapter 9-A, 10 or 11;
+38 F.  Engage in public or peer-reviewed scientific, historical or statistical research in the 
+39 public interest that adheres to all other applicable ethics and privacy laws, when the 
+40 business's deletion of the information is likely to render impossible or seriously impair 
+41 the achievement of such research, if the consumer has provided informed consent;1
+2
+Page 9 - 130LR0234(01)1 G.  To enable solely internal uses that are reasonably aligned with the expectations of 
+2 the consumer based on the consumer's relationship with the business;
+3 H.  Comply with a legal obligation; or
+4 I.  Otherwise use the consumer's personal information, internally, in a lawful manner 
+5 that is compatible with the context in which the consumer provided the information.
+6§9605.  Consumer's right to disclosure of information
+71.  Request.  A consumer has the right to request that a business that collects personal 
+8 information about the consumer disclose to the consumer the following:
+9 A.  The categories of sources from which the personal information is collected;
+10 B.  The business purpose or commercial purpose for collecting or selling personal 
+11 information;
+12 C.  The categories of 3rd parties with whom the business shares personal information; 
+13 and
+14 D.  The specific pieces of personal information it has collected about that consumer.
+152.  Verifiable consumer request.  A business that collects personal information about 
+16 a consumer shall disclose to the consumer, pursuant to section 9609, subsection 1, 
+17 paragraph C, the information specified in subsection 1 upon receipt of a verifiable 
+18 consumer request from the consumer.  A business is not obligated to provide information 
+19 to the consumer pursuant to this section and sections 9603, 9604 and 9606 if the business 
+20 cannot verify, pursuant to this subsection and rules adopted by the Attorney General 
+21 pursuant to section 9616, subsection 1, paragraph G, that the consumer making the request 
+22 is the consumer about whom the business has collected information or is a person 
+23 authorized by the consumer to act on such consumer's behalf.
+243.  Information disclosed.  A business that collects personal information about 
+25 consumers shall disclose, pursuant to section 9609, subsection 1, paragraph E, 
+26 subparagraph (2):
+27 A.  The categories of personal information it has collected about consumers;
+28 B.  The categories of sources from which the personal information is collected;
+29 C.  The business purpose or commercial purpose for collecting or selling personal 
+30 information;
+31 D.  The categories of 3rd parties with whom the business shares personal information; 
+32 and
+33 E.  That a consumer has the right to request the specific pieces of personal information 
+34 the business has collected about that consumer.
+354.  Actions not required.  This section does not require a business to:
+36 A.  Retain any personal information about a consumer collected for a single, one-time 
+37 transaction if, in the ordinary course of business, that information about the consumer 
+38 is not retained; or
+39 B.  Reidentify or otherwise link any data that, in the ordinary course of business, is not 
+40 maintained in a manner that would be considered personal information.
+Page 10 - 130LR0234(01)1§9606.  Consumer's rights when information sold or disclosed
+21.  Request.  A consumer has the right to request that a business that sells the 
+3 consumer's personal information, or that discloses it for a business purpose, disclose to that 
+4 consumer:
+5 A.  The categories of personal information about the consumer that the business 
+6 collected;
+7 B.  The categories of personal information about the consumer that the business sold 
+8 and the categories of 3rd parties to whom the personal information was sold, by 
+9 category or categories of personal information for each category of 3rd parties to whom 
+10 the personal information was sold; and
+11 C.  The categories of personal information about the consumer that the business 
+12 disclosed for a business purpose.
+132.  Verifiable consumer request.  A business that sells personal information about a 
+14 consumer, or that discloses a consumer's personal information for a business purpose, shall 
+15 disclose, pursuant to section 9609, subsection 1, paragraph D, the information specified in 
+16 subsection 1 to the consumer upon receipt of a verifiable consumer request from the 
+17 consumer.  A business is not obligated to provide information to the consumer pursuant to 
+18 this section and sections 9603, 9604 and 9605 if the business cannot verify, pursuant to this 
+19 subsection and rules adopted by the Attorney General pursuant to section 9616, subsection 
+20 1, paragraph G, that the consumer making the request is the consumer about whom the 
+21 business has collected information or is a person authorized by the consumer to act on such 
+22 consumer's behalf.
+233.  Information disclosed.  A business that sells consumers' personal information, or 
+24 that discloses consumers' personal information for a business purpose, shall disclose, 
+25 pursuant to section 9609, subsection 1, paragraph E, subparagraph (2):
+26 A.  The category or categories of consumers' personal information it has sold, or if the 
+27 business has not sold consumers' personal information, it shall disclose that fact; and
+28 B.  The category or categories of consumers' personal information it has disclosed for 
+29 a business purpose, or if the business has not disclosed the consumers' personal 
+30 information for a business purpose, it shall disclose that fact.
+314.  Sale by 3rd party.  A 3rd party may not sell personal information about a consumer 
+32 that has been sold to the 3rd party by a business unless the consumer has received explicit 
+33 notice and is provided an opportunity to exercise the right to opt out pursuant to section 
+34 9607.
+355.  Violations.  A person covered by this section that violates any of the restrictions set 
+36 forth in this chapter is liable for the violations.  A business that discloses personal 
+37 information to a person covered by this section in compliance with this section is not liable 
+38 under this chapter if the person receiving the personal information uses it in violation of 
+39 the restrictions set forth in this chapter, if, at the time of disclosing the personal information, 
+40 the business does not have actual knowledge, or reason to believe, that the person intends 
+41 to commit such a violation.
+42§9607.  Consumer's right to prohibit sale; right to opt out
+Page 11 - 130LR0234(01)11.  Right to opt out.  A consumer has the right, at any time, to direct a business that 
+2 sells personal information about the consumer to 3rd parties not to sell the consumer's 
+3 personal information.  This right may be referred to as "the right to opt out."
+42.  Notice of right to opt out.  A business that sells consumers' personal information 
+5 to 3rd parties shall provide notice to consumers, pursuant to section 9610, subsection 1, 
+6 that this information may be sold and that consumers have the right to opt out of the sale 
+7 of their personal information.
+83.  Right to opt in; consumer's age.  Notwithstanding subsection 1, a business may 
+9 not sell the personal information of a consumer if the business has actual knowledge that 
+10 the consumer is less than 16 years of age, unless the consumer, in the case of a consumer 
+11 at least 13 years of age and less than 16 years of age, or the consumer's parent or guardian, 
+12 in the case of a consumer less than 13 years of age, has affirmatively authorized the sale of 
+13 the consumer's personal information.  A business that willfully disregards the consumer's 
+14 age is deemed to have had actual knowledge of the consumer's age.
+15 The affirmative authorization required under this subsection may be referred to as "the right 
+16 to opt in."
+174.  Sale prohibited.  A business that has received direction from a consumer not to sell 
+18 the consumer's personal information or, in the case of a minor consumer's personal 
+19 information has not received consent to sell the minor consumer's personal information, is 
+20 prohibited, pursuant to section 9610, subsection 1, paragraph D, from selling the 
+21 consumer's personal information after its receipt of the consumer's direction, unless the 
+22 consumer subsequently provides express authorization for the sale of the consumer's 
+23 personal information.
+24§9608.  Business practices 
+251.  Discrimination based on exercise of rights prohibited.  A business may not 
+26 discriminate against a consumer because the consumer exercised any of the consumer's 
+27 rights under this chapter, including, but not limited to, by:
+28 A.  Denying goods or services to the consumer;
+29 B.  Charging different prices or rates for goods or services, including through the use 
+30 of discounts or other benefits or imposing penalties;
+31 C.  Providing a different level or quality of goods or services to the consumer; or
+32 D.  Suggesting that the consumer will receive a different price or rate for goods or 
+33 services or a different level or quality of goods or services.
+34 Nothing in this subsection prohibits a business from charging a consumer a different price 
+35 or rate, or from providing a different level or quality of goods or services to the consumer, 
+36 if that difference is reasonably related to the value provided to the business by the 
+37 consumer's personal information.
+382.  Financial incentives.  A business may offer financial incentives, including 
+39 payments to consumers as compensation, for the collection of personal information, the 
+40 sale of personal information or the deletion of personal information.  A business may also 
+41 offer a different price, rate, level or quality of goods or services to the consumer if that 
+42 price or difference is directly related to the value provided to the business by the consumer's 
+43 personal information.
+Page 12 - 130LR0234(01)1 A.  A business that offers any financial incentives pursuant to this subsection shall 
+2 notify consumers of the financial incentives pursuant to section 9609.
+3 B.  A business may enter a consumer into a financial incentive program only if the 
+4 consumer gives the business prior opt in consent pursuant to section 9609 that clearly 
+5 describes the material terms of the financial incentive program, and which may be 
+6 revoked by the consumer at any time.
+7 C.  A business may not use financial incentive practices that are unjust, unreasonable, 
+8 coercive or usurious in nature.
+9§9609.  Requests for and disclosure of information
+101.  Requests; disclosure and delivery.  In order to comply with sections 9603, 9604, 
+11 9605, 9606 and 9608, a business shall, in a form that is reasonably accessible to consumers:
+12 A.  Make available to consumers 2 or more designated methods for submitting requests 
+13 for information required to be disclosed pursuant to sections 9605 and 9606, including, 
+14 at a minimum, a toll-free telephone number.  
+15 (1)  A business that operates exclusively online and has a direct relationship with 
+16 a consumer from whom it collects personal information is required to provide only 
+17 an e-mail address for submitting requests for information required to be disclosed 
+18 pursuant to sections 9605 and 9606.
+19 (2)  If the business maintains an Internet website, the business shall make the 
+20 Internet website available to consumers to submit requests for information required 
+21 to be disclosed pursuant to sections 9605 and 9606;
+22 B.  Disclose and deliver the required information to a consumer free of charge within 
+23 45 days of receiving a verifiable consumer request from the consumer.  The business 
+24 shall promptly take steps to determine whether the request is a verifiable consumer 
+25 request, but this does not extend the business's duty to disclose and deliver the 
+26 information within 45 days of receipt of the consumer's request.  The time period to 
+27 provide the required information may be extended once by an additional 45 days when 
+28 reasonably necessary, if the consumer is provided notice of the extension within the 
+29 first 45-day period.  The disclosure must cover at least the 12-month period preceding 
+30 the business's receipt of the verifiable consumer request and must be made in writing 
+31 and delivered through the consumer's account with the business, if the consumer 
+32 maintains an account with the business, or by mail or electronically at the consumer's 
+33 option if the consumer does not maintain an account with the business, in a readily 
+34 useable format that allows the consumer to transmit this information from one entity 
+35 to another entity without hindrance.  The business may require authentication of the 
+36 consumer that is reasonable in light of the nature of the personal information requested, 
+37 but may not require the consumer to create an account with the business in order to 
+38 make a verifiable consumer request.  If the consumer maintains an account with the 
+39 business, the business may require the consumer to submit the request through that 
+40 account.
+41 C.  For purposes of section 9605, subsection 2:
+42 (1)  To identify the consumer, associate the information provided by the consumer 
+43 in the verifiable consumer request to any personal information previously collected 
+44 by the business about the consumer; and
+Page 13 - 130LR0234(01)1 (2)  Identify by category or categories the personal information collected about the 
+2 consumer in the preceding 12 months by reference to the enumerated category or 
+3 categories in subsection 3 that most closely describe the personal information 
+4 collected;
+5 D.  For purposes of section 9606, subsection 2:
+6 (1)  Identify the consumer and associate the information provided by the consumer 
+7 in the verifiable consumer request to any personal information previously collected 
+8 by the business about the consumer;
+9 (2)  Identify by category or categories the personal information of the consumer 
+10 that the business sold in the preceding 12 months by reference to the enumerated 
+11 category or categories in subsection 3 that most closely describe the personal 
+12 information, and provide the categories of 3rd parties to whom the consumer's 
+13 personal information was sold in the preceding 12 months by reference to the 
+14 enumerated category or categories in subsection 3 that most closely describe the 
+15 personal information sold.  The business shall disclose the information in a list that 
+16 is separate from a list generated for the purposes of subparagraph (3); and
+17 (3)  Identify by category or categories the personal information of the consumer 
+18 that the business disclosed for a business purpose in the preceding 12 months by 
+19 reference to the enumerated category or categories in subsection 3 that most closely 
+20 describes the personal information, and provide the categories of 3rd parties to 
+21 whom the consumer's personal information was disclosed for a business purpose 
+22 in the preceding 12 months by reference to the enumerated category or categories 
+23 in subsection 3 that most closely describe the personal information disclosed.  The 
+24 business shall disclose the information in a list that is separate from a list generated 
+25 for the purposes of subparagraph (2);
+26 E.  Disclose the following information in its online privacy policy or policies if the 
+27 business has an online privacy policy or policies and in any description of consumers' 
+28 privacy rights specific to the State or, if the business does not maintain those policies, 
+29 on its Internet website and update that information at least once every 12 months:
+30 (1)  A description of a consumer's rights pursuant to sections 9603, 9604, 9605, 
+31 9606 and 9608 and one or more designated methods for submitting requests;
+32 (2)  For purposes of section 9605, subsection 3, a list of the categories of personal 
+33 information it has collected about consumers in the preceding 12 months by 
+34 reference to the enumerated category or categories in subsection 3 that most closely 
+35 describe the personal information collected;
+36 (3)  For purposes of section 9606, subsection 3, paragraphs A and B, 2 separate 
+37 lists:
+38 (a)  A list of the categories of personal information it has sold about consumers 
+39 in the preceding 12 months by reference to the enumerated category or 
+40 categories in subsection 3 that most closely describe the personal information 
+41 sold or, if the business has not sold consumers' personal information in the 
+42 preceding 12 months, the business shall disclose that fact; and
+43 (b)  A list of the categories of personal information it has disclosed about 
+44 consumers for a business purpose in the preceding 12 months by reference to 
+Page 14 - 130LR0234(01)45 the enumerated category or categories in subsection 3 that most closely 
+46 describe the personal information disclosed or, if the business has not disclosed 
+47 consumers' personal information for a business purpose in the preceding 12 
+48 months, the business shall disclose that fact;
+5 (4)  In the case of a business that sells or discloses deidentified patient information 
+6 not subject to this chapter pursuant to section 9612, subsection 1, paragraph D, 
+7 subparagraph (1), whether the business sells or discloses deidentified patient 
+8 information derived from patient information and, if so, whether that patient 
+9 information was deidentified pursuant to one or more of the following:
+10 (a)  The deidentification methodology described in of 45 Code of Federal 
+11 Regulations, Section 164.514(b)(1); and
+12 (b)  The deidentification methodology described in 45 Code of Federal 
+13 Regulations, Section 164.514(b)(2);
+14 F.  Ensure that all individuals responsible for handling consumer inquiries about the 
+15 business's privacy practices or the business's compliance with this chapter are informed 
+16 of all requirements in sections 9603, 9604, 9605, 9606 and 9608 and this section and 
+17 how to direct consumers to exercise their rights under those sections; and
+18 G.  Use any personal information collected from the consumer in connection with the 
+19 business's verification of the consumer's request solely for the purposes of verification.
+202.  Limit.  A business is not obligated to provide the information required by sections 
+21 9605 and 9606 to the same consumer more than twice in a 12-month period.
+223.  Categories of personal information.  The categories of personal information 
+23 required to be disclosed pursuant to sections 9605 and 9606 must follow the enumerated 
+24 categories set out in the definition of personal information in section 9602, subsection 14.
+25§9610.  Posted links and information
+261.  Required links and information.  A business that is required to comply with 
+27 section 9607 shall, in a form that is reasonably accessible to consumers:
+28 A.  Provide a clear and conspicuous link on the business's homepage, titled "Do Not 
+29 Sell My Personal Information," to an Internet webpage that enables a consumer, or a 
+30 person authorized by the consumer, to opt out of the sale of the consumer's personal 
+31 information.  A business may not require a consumer to create an account in order to 
+32 direct the business not to sell the consumer's personal information;
+33 B.  Include a description of a consumer's rights pursuant to section 9607, along with a 
+34 separate link to the "Do Not Sell My Personal Information" Internet webpage in:
+35 (1)  Its online privacy policy or policies if the business has an online privacy policy 
+36 or policies; and
+37 (2)  Any description of consumers' privacy rights specific to this State;
+38 C.  Ensure that all individuals responsible for handling consumer inquiries about the 
+39 business's privacy practices or the business's compliance with this chapter are informed 
+40 of all requirements in section 9607 and this section and how to direct consumers to 
+41 exercise their rights under section 9607 and this section;1
+2
+3
+4
+Page 15 - 130LR0234(01)1 D.  For consumers who exercise their right to opt out of the sale of their personal 
+2 information under section 9607, refrain from selling personal information collected by 
+3 the business about the consumer;
+4 E.  For a consumer who has opted out of the sale of the consumer's personal information 
+5 under section 9607, respect the consumer's decision to opt out for at least 12 months 
+6 before requesting that the consumer authorize the sale of the consumer's personal 
+7 information; and
+8 F.  Use any personal information collected from a consumer in connection with the 
+9 submission of the consumer's opt out request pursuant to section 9607 solely for the 
+10 purposes of complying with the opt out request.
+112.  Location of links and information.  Nothing in this chapter may be construed to 
+12 require a business to comply with this chapter by including the required links and text on 
+13 the homepage that the business makes available to the public generally, if the business 
+14 maintains a separate and additional homepage that is dedicated to consumers in this State 
+15 and that includes the required links and text, and the business takes reasonable steps to 
+16 ensure that consumers in this State are directed to the homepage for consumers in this State 
+17 and not the homepage made available to the public generally.
+183.  Authorized person.  A consumer may authorize another person solely to opt out of 
+19 the sale of the consumer's personal information on the consumer's behalf, and a business 
+20 shall comply with an opt out request received from a person authorized by the consumer to 
+21 act on the consumer's behalf, pursuant to rules adopted by the Attorney General pursuant 
+22 to section 9619.
+23§9611.  Unaffected ability; continued application
+241.  Business ability not restricted.  The obligations imposed on businesses by this 
+25 chapter do not restrict a business's, service provider's or 3rd party's ability to:
+26 A.  Comply with federal, state or local laws;
+27 B.  Comply with a civil, criminal or regulatory inquiry, investigation, subpoena or 
+28 summons by federal, state or local authorities;
+29 C.  Cooperate with law enforcement agencies concerning conduct or activity that the 
+30 business, service provider or 3rd party reasonably and in good faith believes may 
+31 violate federal, state or local law;
+32 D.  Exercise or defend legal claims;
+33 E.  Collect, use, retain, sell or disclose consumer information that is deidentified or 
+34 aggregate consumer information;
+35 F.  Collect or sell a consumer's personal information if every aspect of that commercial 
+36 conduct takes place wholly outside of the State.  For purposes of this chapter, 
+37 commercial conduct takes place wholly outside of the State if the business, service 
+38 provider or 3rd party collected that information while the consumer was outside of the 
+39 State, no part of the sale of the consumer's personal information occurred in the State 
+40 and no personal information collected while the consumer was in the State is sold. This 
+41 paragraph does not permit a business, service provider or 3rd party to store, including 
+42 on a device, personal information about a consumer when the consumer is in the State 
+Page 16 - 130LR0234(01)43 and then collect that personal information when the consumer and stored personal 
+44 information is outside of the State.
+32.  Violation of evidentiary privilege.  The obligations imposed on businesses by 
+4 sections 9605 to 9610 do not apply when compliance by the business with those sections 
+5 would violate an evidentiary privilege under the law of this State and do not prevent a 
+6 business from providing the personal information of a consumer to a person covered by an 
+7 evidentiary privilege under the law of this State as part of a privileged communication.
+83.  Credit reporting agency information.  This chapter does not apply to an activity 
+9 involving the collection, maintenance, disclosure, sale, communication or use of any 
+10 personal information bearing on a consumer's credit worthiness, credit standing, credit 
+11 capacity, character, general reputation, personal characteristics or mode of living by a 
+12 consumer reporting agency, as defined in 15 United States Code, Section 1681a(f), by a 
+13 furnisher of information, as set forth in 15 United States Code, Section 1681s-2, who 
+14 provides information for use in a consumer report, as defined in 15 United States Code, 
+15 Section 1681a(d), and by a user of a consumer report as set forth in 15 United States Code, 
+16 Section 1681b.
+17 This subsection applies only to the extent that such activity involving the collection, 
+18 maintenance, disclosure, sale, communication or use of such information by that agency, 
+19 furnisher or user is subject to regulation under the Fair Credit Reporting Act, 15 United 
+20 States Code, Section 1681 et seq., and the information is not used, communicated, disclosed 
+21 or sold except as authorized by the Fair Credit Reporting Act.
+22 This subsection does not apply to section 9614.
+234.  Gramm-Leach-Bliley Act information.  This chapter does not apply to personal 
+24 information collected, processed, sold or disclosed pursuant to the federal Gramm-Leach-
+25 Bliley Act, Public Law 106-102, and implementing regulations. 
+26 This subsection does not apply to section 9614.
+275.  Driver's Privacy Protection Act information.  This chapter does not apply to 
+28 personal information collected, processed, sold or disclosed pursuant to the Driver's 
+29 Privacy Protection Act of 1994, 18 United States Code, Section 2721 et seq.
+30 This subsection does not apply to section 9614.
+316.  Vehicle information or ownership information.  Section 9607 does not apply to 
+32 vehicle information or ownership information retained or shared between a new motor 
+33 vehicle dealer, as defined in section 1171, subsection 12, and the vehicle's manufacturer, 
+34 as defined in section 1171, subsection 10, if the vehicle information or ownership 
+35 information is shared for the purpose of effectuating, or in anticipation of effectuating, a 
+36 vehicle repair covered by a vehicle warranty or a recall conducted pursuant to 49 United 
+37 States Code, Sections 30118 to 30120, as long as the new motor vehicle dealer or vehicle 
+38 manufacturer with which that vehicle information or ownership information is shared does 
+39 not sell, share or use that information for any other purpose.
+40 For purposes of this subsection:
+41 A.  "Vehicle information" means the vehicle information number, make, model, year 
+42 and odometer reading; and1
+2
+Page 17 - 130LR0234(01)1 B.  "Ownership information" means the name or names of the registered owner or 
+2 owners and the contact information for the owner or owners.
+37.  Extensions; reasons for not taking action; manifestly unfounded or excessive 
+4requests.  Notwithstanding a business's obligations to respond to and honor consumer 
+5 rights requests pursuant to this chapter:
+6 A.  A time period for a business to respond to any verifiable consumer request may be 
+7 extended by up to 90 additional days where necessary, taking into account the 
+8 complexity and number of the requests.  The business shall inform the consumer of any 
+9 such extension within 45 days of receipt of the request, together with the reasons for 
+10 the delay;
+11 B.  If the business does not take action on the request of the consumer, the business 
+12 shall inform the consumer, without delay and at the latest within the time period 
+13 permitted for response by this section, of the reasons for not taking action and any 
+14 rights the consumer may have to appeal the decision to the business; and
+15 C.  If requests from a consumer are manifestly unfounded or excessive, in particular 
+16 because of their repetitive character, a business may either charge a reasonable fee, 
+17 taking into account the administrative costs of providing the information or 
+18 communication or taking the action requested, or refuse to act on the request and notify 
+19 the consumer of the reason for refusing the request.  The business shall bear the burden 
+20 of demonstrating that any verifiable consumer request is manifestly unfounded or 
+21 excessive.
+228.  Disclosure to service provider.  A business that discloses personal information to 
+23 a service provider is not liable under this chapter if the service provider receiving the 
+24 personal information uses it in violation of the restrictions set forth in this chapter, if, at the 
+25 time of disclosing the personal information, the business does not have actual knowledge 
+26 or reason to believe that the service provider intends to commit such a violation.  A service 
+27 provider is likewise not liable under this chapter for the obligations of a business for which 
+28 it provides services as set forth in this chapter.
+299.  Ordinary course of business.  This chapter may not be construed to require a 
+30 business to collect personal information that it would not otherwise collect in the ordinary 
+31 course of its business, retain personal information for longer than it would otherwise retain 
+32 such information in the ordinary course of its business or reidentify or otherwise link 
+33 information that is not maintained in a manner that would be considered personal 
+34 information.
+3510.  Rights and freedoms of other consumers.  The rights afforded to consumers and 
+36 the obligations imposed on a business under this chapter may not adversely affect the rights 
+37 and freedoms of other consumers.
+38§9612.  Medical and health information
+391.  Nonapplicability.  This chapter does not apply to any of the following:
+40 A.  Health care information governed by Title 22, section 1711-C or protected health 
+41 care information that is collected by a covered entity or business associate governed by 
+42 the privacy, security and breach notification rules issued by the United States 
+43 Department of Health and Human Services, 45 Code of Federal Regulations, Parts 160 
+44 and 164, established pursuant to the federal Health Insurance Portability and 
+Page 18 - 130LR0234(01)45 Accountability Act of 1996, Public Law 104-191, and the federal Health Information 
+46 Technology for Economic and Clinical Health Act, Title XIII of the federal American 
+47 Recovery and Reinvestment Act of 2009, Public Law 111-5;
+4 B.  A health care practitioner governed by Title 22, section 1711-C or a covered entity 
+5 governed by the privacy, security and breach notification rules issued by the United 
+6 States Department of Health and Human Services, 45 Code of Federal Regulations, 
+7 Parts 160 and 164, established pursuant to the federal Health Insurance Portability and 
+8 Accountability Act of 1996, Public Law 104-191, to the extent the provider or covered 
+9 entity maintains, uses and discloses patient information in the same manner as health 
+10 care information or protected health care information as described in paragraph A;
+11 C.  A business associate of a covered entity governed by the privacy, security and data 
+12 breach notification rules issued by the United States Department of Health and Human 
+13 Services, 45 Code of Federal Regulations, Parts 160 and 164, established pursuant to 
+14 the federal Health Insurance Portability and Accountability Act of 1996, Public Law 
+15 104-191, and the federal Health Information Technology for Economic and Clinical 
+16 Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 
+17 2009, Public Law 111-5, to the extent that the business associate maintains, uses and 
+18 discloses patient information in the same manner as health care information or 
+19 protected health care information as described in paragraph A;
+20 D.  Information that meets both of the following conditions:
+21 (1)  It is deidentified in accordance with the requirements for deidentification set 
+22 forth in 45 Code of Federal Regulations, Section 164.514; and
+23 (2)  It is derived from patient information that was originally collected, created, 
+24 transmitted or maintained by an entity regulated by the federal Health Insurance 
+25 Portability and Accountability Act of 1996 or 45 Code of Federal Regulations, Part 
+26 46.
+27 Information that met the requirements of subparagraphs (1) and (2) but is subsequently 
+28 reidentified is no longer eligible for the exemption in this paragraph and is subject to 
+29 applicable federal and state data privacy and security laws, including, but not limited 
+30 to, the federal Health Insurance Portability and Accountability Act of 1996 and this 
+31 chapter; and
+32 E.  Information that is collected, used or disclosed in research, as defined in 45 Code 
+33 of Federal Regulations, Section 164.501, including, but not limited to, a clinical trial, 
+34 and that is conducted in accordance with applicable ethics, confidentiality, privacy and 
+35 security rules of 45 Code of Federal Regulations, Parts 46 and 164, good clinical 
+36 practice guidelines issued by the International Council for Harmonisation of Technical 
+37 Requirements for Pharmaceuticals for Human Use, or successor organization, or 
+38 human subject protection requirements of the United States Food and Drug 
+39 Administration.
+402.  Terms.  For purposes of this section:
+41 A.  "Business associate" has the same meaning as in 45 Code of Federal Regulations, 
+42 Section 160.103;
+43 B.  "Covered entity" has the same meaning as in 45 Code of Federal Regulations, 
+44 Section 160.103;1
+2
+3
+Page 19 - 130LR0234(01)1 C.  "Health care information" means any individually identifiable information, in 
+2 electronic or physical form, in possession of or derived from a provider of health care, 
+3 health care service plan, pharmaceutical company or contractor regarding a patient's 
+4 medical history, mental or physical condition or treatment.  "Individually identifiable" 
+5 means that the medical information includes or contains any element of personal 
+6 identifying information sufficient to allow identification of the individual, such as the 
+7 patient's name, mailing address, e-mail address, telephone number or social security 
+8 number, or other information that, alone or in combination with other publicly available 
+9 information, reveals the individual's identity;
+10 D.  "Health care practitioner" means a person licensed by this State to provide or 
+11 otherwise lawfully providing health care or a partnership or corporation made up of 
+12 health care practitioners or an officer, employee, agent or contractor of a health care 
+13 practitioner acting in the course and scope of employment, agency or contract related 
+14 to or supportive of the provision of health care to individuals;
+15 E.  "Identifiable private information" has the same meaning as in 45 Code of Federal 
+16 Regulations, Section 46.102;
+17 F.  "Individually identifiable health information" has the same meaning as in 45 Code 
+18 of Federal Regulations, Section 160.103;
+19 G.  "Patient information" means identifiable private information, protected health 
+20 information, individually identifiable health information or health care information; 
+21 and
+22 H.  "Protected health information" has the same meaning as in 45 Code of Federal 
+23 Regulations, Section 160.103.
+24§9613.  Reidentification of information
+251.  Reidentification prohibited; exceptions.  A business or other person may not 
+26 reidentify, or attempt to reidentify, information that has met the requirements of section 
+27 9612, subsection 1, paragraph D, except for one or more of the following purposes:
+28 A.  Treatment, payment or health care operations conducted by a covered entity or 
+29 business associate acting on behalf of, and at the written direction of, the covered entity.  
+30 For purposes of this paragraph, "treatment," "payment" and "health care operations" 
+31 have the same meanings as in 45 Code of Federal Regulations, Section 164.501 and 
+32 "covered entity" and "business associate" have the same meanings as in 45 Code of 
+33 Federal Regulations, Section 160.103;
+34 B.  Public health activities or purposes as described in 45 Code of Federal Regulations, 
+35 Section 164.512;
+36 C.  Research, as defined in 45 Code of Federal Regulations, Section 164.501, that is 
+37 conducted in accordance with 45 Code of Federal Regulations, Part 46;
+38 D.  Pursuant to a contract where the lawful holder of the deidentified information that 
+39 met the requirements of section 9612, subsection 1, paragraph D expressly engages a 
+40 person or entity to attempt to reidentify the deidentified information in order to conduct 
+41 testing, analysis or validation of deidentification, or related statistical techniques, if the 
+42 contract bans any other use or disclosure of the reidentified information and requires 
+Page 20 - 130LR0234(01)43 the return or destruction of the information that was reidentified upon completion of 
+44 the contract; and
+3 E.  If otherwise required by law.
+42.  Information reidentified subject to data privacy and security laws.  In 
+5 accordance with section 9612, subsection 1, paragraph D, information reidentified pursuant 
+6 to this section is subject to applicable federal and state data privacy and security laws 
+7 including, but not limited to, the federal Health Insurance Portability and Accountability 
+8 Act of 1996 and this chapter.
+93.  Statements; further disclosure.  A contract for the sale or license of deidentified 
+10 information that has met the requirements of section 9612, subsection 1, paragraph D, when 
+11 one of the parties is a person residing or doing business in the State, must include the 
+12 following, or substantially similar, provisions:
+13 A.  A statement that the deidentified information being sold or licensed includes 
+14 deidentified patient information;
+15 B.  A statement that reidentification, and attempted reidentification, of the deidentified 
+16 information by the purchaser or licensee of the information is prohibited pursuant to 
+17 this section; and
+18 C.  A requirement that, unless otherwise required by law, the purchaser or licensee of 
+19 the deidentified information may not further disclose the deidentified information to 
+20 any 3rd party unless the 3rd party is contractually bound by the same or stricter 
+21 restrictions and conditions.
+22§9614.  Civil action based on violation
+231.  Civil action based on violation.  A consumer whose nonencrypted and nonredacted 
+24 personal information is subject to an unauthorized access and exfiltration, theft or 
+25 disclosure as a result of the business's violation of the duty to implement and maintain 
+26 reasonable security procedures and practices appropriate to the nature of the information to 
+27 protect the personal information may institute a civil action for any of the following:
+28 A.  To recover damages in an amount not less than $100 and not greater than $750 per 
+29 consumer per incident or actual damages, whichever is greater;
+30 B.  Injunctive or declaratory relief; and
+31 C.  Any other relief the court determines proper.
+32 In assessing the amount of statutory damages, the court shall consider any one or more of 
+33 the relevant circumstances presented by any of the parties to the case, including, but not 
+34 limited to, the nature and seriousness of the misconduct, the number of violations, the 
+35 persistence of the misconduct, the length of time over which the misconduct occurred, the 
+36 willfulness of the defendant's misconduct and the defendant's assets, liabilities and net 
+37 worth.
+382.  Notice of alleged violation; opportunity to cure; exception.  Actions pursuant to 
+39 this section may be brought by a consumer if, prior to initiating any action against a 
+40 business for statutory damages on an individual or classwide basis, a consumer provides a 
+41 business 30 days' written notice identifying the specific provisions of this chapter the 
+42 consumer alleges have been or are being violated.  In the event a cure is possible, if within 1
+2
+Page 21 - 130LR0234(01)43 the 30 days the business actually cures the noticed violation and provides the consumer an 
+44 express written statement that the violations have been cured and that no further violations 
+45 will occur, no action for individual statutory damages or classwide statutory damages may 
+46 be initiated against the business.  Notice is not required prior to an individual consumer's 
+47 initiating an action solely for actual pecuniary damages suffered as a result of the alleged 
+48 violation of this chapter.  If a business continues to violate this chapter in breach of the 
+49 express written statement provided to the consumer under this section, the consumer may 
+50 initiate an action against the business to enforce the written statement and may pursue 
+51 statutory damages for each breach of the express written statement, as well as any other 
+52 violation of the chapter that postdates the written statement.
+113.  Defined violations; no basis for private right of action under other law.  The 
+12 cause of action established by this section applies only to violations as defined in subsection 
+13 1 and may not be based on violations of any other section of this chapter.  Nothing in this 
+14 chapter may be interpreted to serve as the basis for a private right of action under any other 
+15 law.  This section may not be construed to relieve any party from any duties or obligations 
+16 imposed under other law or the United States Constitution or the Constitution of Maine.
+17§9615.  Compliance; civil penalties
+181.  Guidance of Attorney General.  Any business or 3rd party may seek the opinion 
+19 of the Attorney General for guidance on how to comply with the provisions of this chapter.
+202.  Failure to cure; civil penalties.  A business violates this chapter if it fails to cure 
+21 any alleged violation within 30 days after being notified of alleged noncompliance.  A 
+22 business, service provider or other person that violates this chapter is subject to an 
+23 injunction and liable for a civil penalty of not more than $2,500 for each violation or $7,500 
+24 for each intentional violation, which must be assessed and recovered in a civil action 
+25 brought in the name of the State by the Attorney General.  The civil penalties provided for 
+26 in this section must be exclusively assessed and recovered in a civil action brought in the 
+27 name of the State by the Attorney General.
+283.  Consumer Privacy Fund.  Any civil penalty assessed for a violation of this chapter 
+29 and the proceeds of any settlement of an action brought pursuant to subsection 2 must be 
+30 deposited in the Consumer Privacy Fund created pursuant to section 9616, subsection 1.
+31§9616.  Consumer Privacy Fund
+321.  Consumer Privacy Fund created.  A special fund to be known and referred to in 
+33 this section as "the Consumer Privacy Fund" is created within the General Fund in the State 
+34 Treasury. The purpose of the fund is to offset any costs incurred by the courts in connection 
+35 with actions brought to enforce this chapter and any costs incurred by the Attorney General 
+36 in carrying out the Attorney General's duties under this chapter.
+372.  Uses.  Funds transferred to the Consumer Privacy Fund must be used exclusively to 
+38 offset any costs incurred by the state courts and the Attorney General in connection with 
+39 this chapter. These funds may not be subject to appropriation or transfer by the Legislature 
+40 for any other purpose, unless the Commissioner of Administrative and Financial Services 
+41 determines that the funds are in excess of the funding needed to fully offset the costs 
+42 incurred by the state courts and the Attorney General in connection with this chapter, in 
+43 which case the Legislature may appropriate excess funds for other purposes.
+44§6917.  Privacy protection1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Page 22 - 130LR0234(01)1 This chapter is intended to further the right of privacy and to supplement existing laws 
+2 relating to consumers' personal information.  The provisions of this chapter are not limited 
+3 to information collected electronically or over the Internet, but apply to the collection and 
+4 sale of all personal information collected by a business from consumers.  Wherever 
+5 possible, law relating to consumers' personal information must be construed to harmonize 
+6 with the provisions of this chapter, but in the event of a conflict between other laws and the 
+7 provisions of this chapter, the provisions of the law that afford the greatest protection for 
+8 the right of privacy for consumers controls.
+9§9618.  Preemption
+10 This chapter is a matter of statewide concern and supersedes and preempts all rules, 
+11 regulations, codes, ordinances and other laws adopted by a municipality, county or local 
+12 agency regarding the collection and sale of consumers' personal information by a business.
+13§9619.  Rules
+141.  Rules.  On or before January 1, 2022, the Attorney General shall solicit broad public 
+15 participation and adopt rules to further the purposes of this chapter, including, but not 
+16 limited to, the following areas:
+17 A.  Updating as needed additional categories of personal information to those 
+18 enumerated in section 9602, subsection 14 in order to address changes in technology, 
+19 data collection practices, obstacles to implementation and privacy concerns;
+20 B.  Updating as needed the definition of "unique identifiers" to address changes in 
+21 technology, data collection, obstacles to implementation and privacy concerns, and to 
+22 add categories to the definition of "designated methods for submitting requests" to 
+23 facilitate a consumer's ability to obtain information from a business pursuant to section 
+24 9609;
+25 C.  Establishing any exceptions necessary to comply with state or federal law, 
+26 including, but not limited to, those relating to trade secrets and intellectual property 
+27 rights, within one year of passage of this chapter and as needed thereafter;
+28 D.  Establishing rules and procedures for the following:
+29 (1)  To facilitate and govern the submission of a request by a consumer to opt out 
+30 of the sale of personal information pursuant to section 9607;
+31 (2)  To govern business compliance with a consumer's opt out request; and
+32 (3)  For the development and use of a recognizable and uniform opt out logo or 
+33 button by all businesses to promote consumer awareness of the opportunity to opt 
+34 out of the sale of personal information;
+35 E.  Adjusting the monetary threshold in section 9602, subsection 3, paragraph A, 
+36 subparagraph (1) in January of every odd-numbered year to reflect any increase in the 
+37 United States Department of Labor, Bureau of Labor Statistics Consumer Price Index;
+38 F.  Establishing rules, procedures and any exceptions necessary to ensure that the 
+39 notices and information that businesses are required to provide pursuant to this chapter 
+40 are provided in a manner that may be easily understood by the average consumer, are 
+41 accessible to consumers with disabilities and are available in the language primarily 
+42 used to interact with the consumer, including establishing rules and guidelines 
+Page 23 - 130LR0234(01)43 regarding financial incentive offerings, within one year of passage of this chapter and 
+44 as needed thereafter; and
+3 G.  Establishing rules and procedures to further the purposes of sections 9605 and 9606 
+4 and to facilitate a consumer's or the consumer's authorized agent's ability to obtain 
+5 information pursuant to section 9609, with the goal of minimizing the administrative 
+6 burden on consumers, taking into account available technology, security concerns and 
+7 the burden on the business, to govern a business's determination that a request for 
+8 information received from a consumer is a verifiable consumer request, including 
+9 treating a request submitted through a password-protected account maintained by the 
+10 consumer with the business while the consumer is logged into the account as a 
+11 verifiable consumer request and providing a mechanism for a consumer who does not 
+12 maintain an account with the business to request information through the business's 
+13 authentication of the consumer's identity, within one year of passage of this chapter 
+14 and as needed thereafter.
+152.  Additional rules.  The Attorney General may adopt additional rules as follows:
+16 A.  To establish rules and procedures on how to process and comply with verifiable 
+17 consumer requests for specific pieces of personal information relating to a household 
+18 in order to address obstacles to implementation and privacy concerns; and
+19 B.  As necessary to further the purposes of this chapter.
+203.  Enforcement action after 6 months.  The Attorney General may not bring an 
+21 enforcement action under this chapter until 6 months after the adoption of the final rules 
+22 issued pursuant to this section or July 1, 2022, whichever is sooner.
+234.  Routine technical rules.  Rules adopted under this section are routine technical 
+24 rules pursuant to Title 5, chapter 375, subchapter 2-A.
+25§9620.  Series of steps or transactions
+26 If a series of steps or transactions were component parts of a single transaction intended 
+27 from the beginning to be taken with the intention of avoiding the reach of this chapter, 
+28 including the disclosure of information by a business to a 3rd party in order to avoid the 
+29 definition of "sell," a court shall disregard the intermediate steps or transactions for 
+30 purposes of effectuating the purposes of this chapter.
+31§9621.  Waiver or limit of rights void and unenforceable
+32 Any provision of a contract or agreement of any kind that purports to waive or limit in 
+33 any way a consumer's rights under this chapter, including, but not limited to, any right to a 
+34 remedy or means of enforcement, is deemed contrary to public policy and is void and 
+35 unenforceable.  This section does not prevent a consumer from declining to request 
+36 information from a business, declining to opt out of a business's sale of the consumer's 
+37 personal information or authorizing a business to sell the consumer's personal information 
+38 after previously opting out.
+39§9622.  Liberal construction 
+40 This chapter must be liberally construed to effectuate its purposes.
+41§9623.  Effective date
+42 This chapter takes effect January 1, 2022.1
+2
+Page 24 - 130LR0234(01)1Sec. 2.  35-A MRSA c. 94, as amended, is repealed.
+2Sec. 3.  Effective date.  That section of this Act that repeals the Maine Revised 
+3 Statutes, Title 35-A, chapter 94 takes effect January 1, 2022.
+4SUMMARY
+5 This bill establishes the Maine Consumer Privacy Act, which is modeled on the 
+6 California Consumer Privacy Act of 2018.  It applies to the collection and sale of all 
+7 personal information collected by a business from consumers.  Because the new Act covers 
+8 Internet service providers, this bill repeals the Maine Revised Statutes, Title 35-A, chapter 
+9 94 to keep all entities on equal footing, allowing consumers to opt out of the sale of personal 
+10 information.
+11 The Maine Consumer Privacy Act takes effect January 1, 2022.  The repeal of Title 
+12 35-A, chapter 94 is effective January 1, 2022.5
+6
+7
+8
+9
+10

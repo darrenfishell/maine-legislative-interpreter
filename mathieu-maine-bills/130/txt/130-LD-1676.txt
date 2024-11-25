@@ -1,0 +1,835 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1676
+H.P. 1247 House of  Representatives, May 5, 2021
+An Act  To Limit Access to Juvenile Case Records and Protect the 
+Confidentiality of Juvenile History Record  Information
+Received by the Clerk of the House on May  3, 2021.  Referred  to the Committee on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TALBOT ROSS  of Portland.
+Cosponsored by Senator CARNEY  of Cumberland and
+Representatives: BRENNAN  of Portland, Speaker  FECTEAU of Biddeford, HARNETT  of 
+Gardiner, MORIARTY of  Cumberland,  O'NEIL of  Saco, Senators: BAILEY of York, 
+LAWRENCE of York, SANBORN of Cumberland.
+
+Page 1 - 130LR0084(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  15 MRSA §709, sub-§1-B, as enacted by PL 2011, c. 507, §1, is repealed.
+3Sec. 2.  15 MRSA §709, sub-§1-C, as enacted by PL 2015, c. 470, §6, is amended 
+4 to read:
+51-C.  Administration of juvenile justice.  "Administration of juvenile justice" has the 
+6 same meaning as in section 3308‑A  3003, subsection 1, paragraph A  1-A.
+7Sec. 3.  15 MRSA §712, sub-§2, as amended by PL 2015, c. 470, §8, is further 
+8 amended to read:
+92.  Investigative officers.  It is not a violation of this chapter for an investigative 
+10 officer, or for another employee of the Department of Corrections authorized to exercise 
+11 law enforcement powers as described in Title 34‑A, section 3011, to intercept, disclose or 
+12 use that communication in the normal course of employment while engaged in any activity 
+13 that is related to the administration of criminal justice as defined in Title 16, section 703, 
+14 subsection 1 for the purposes of the Criminal History Record Information Act or as defined 
+15 in Title 16, section 803, subsection 2 for the purposes of the Intelligence and Investigative 
+16 Record Information Act; or while engaged in any activity that is related to the 
+17 administration of juvenile justice; or while engaged in any activity that is related to the 
+18 administration of juvenile criminal justice if:
+19 A.  Either the sender or receiver of that communication is a person residing in an adult 
+20 or juvenile correctional facility administered by the Department of Corrections; and
+21 B.  Notice of the possibility of interception is provided in a way sufficient to make the 
+22 parties to the communication aware of the possibility of interception, which includes:
+23 (1)  Providing the resident with a written notification statement;
+24 (2)  Posting written notification next to every telephone at the facility that is subject 
+25 to monitoring; and
+26 (3)  Informing the recipient of a telephone call from the resident by playing a 
+27 recorded warning before the recipient accepts the call.
+28 This subsection does not authorize any interference with the attorney-client privilege.
+29Sec. 4.  15 MRSA §713, sub-§2, as amended by PL 2015, c. 470, §10, is further 
+30 amended to read:
+312.  Contents obtained under this chapter.  The contents of an interception of any oral 
+32 communication or wire communication that has been legally obtained pursuant to section 
+33 712, subsection 2 or 3 are admissible in the courts of this State, subject to the Maine Rules 
+34 of Evidence, if related to the administration of criminal justice as defined in Title 16, 
+35 section 703, subsection 1 for the purposes of the Criminal History Record Information Act 
+36 or as defined in Title 16, section 803, subsection 2 for the purposes of the Intelligence and 
+37 Investigative Record Information Act; the administration of juvenile justice; the 
+38 administration of juvenile criminal justice; or the statutory functions of a state agency.
+39Sec. 5.  15 MRSA §3003, sub-§1-A is enacted to read:
+401-A.  Administration of juvenile justice.  "Administration of juvenile justice" means 
+41 activities related to the anticipation, prevention, detection, monitoring or investigation of 
+Page 2 - 130LR0084(01)42 known, suspected or possible juvenile crimes and the apprehension or summonsing, 
+43 detention, conditional or unconditional release, informal adjustment, initial appearance, 
+44 bind-over, adjudication, disposition, custody and supervision or rehabilitation of accused 
+45 juveniles or adjudicated juvenile criminal offenders.  "Administration of juvenile justice" 
+46 includes the collection, storage and dissemination of juvenile case records and juvenile 
+47 intelligence and investigative record information relating to the administration of juvenile 
+48 justice.
+8Sec. 6.  15 MRSA §3003, sub-§19-C is enacted to read:
+919-C.  Order of adjudication.  "Order of adjudication" means any document, 
+10 including but not limited to a judgment and commitment order including conditions of 
+11 juvenile probation if imposed, any dismissal form or any written order that constitutes the 
+12 final disposition of a juvenile petition.
+13Sec. 7.  15 MRSA §3003, sub-§28 is enacted to read:
+1428.  Victim.  "Victim" has the same meaning as in Title 17-A, section 2101, subsection 
+15 2.
+16Sec. 8.  15 MRSA §3009, sub-§2, as amended by PL 2003, c. 205, §3, is further 
+17 amended to read:
+182.  Release of information.  Upon the request of the superintendent or the 
+19 superintendent's designee under subsection 1, the Department of Corrections shall release 
+20 information as authorized under section 3308  3308-C, subsection  7 4, paragraph  B‑1 C, 
+21 subparagraph (3) and Title 34‑A, section 1216, subsection 1, paragraph F to be used by the 
+22 reintegration team.  Information received pursuant to this subsection is confidential and 
+23 may not be further disseminated, except as otherwise provided by law.
+24Sec. 9.  15 MRSA §3010 is enacted to read:
+25§3010.  Dissemination of juvenile history record information by a Maine criminal 
+26justice agency
+271.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+28 following terms have the following meanings. 
+29 A.  "Confidential juvenile history record information" means all juvenile history record 
+30 information except public juvenile history record information.
+31 B.  "Criminal justice agency" has the same meaning as in Title 16, section 703, 
+32 subsection 4. 
+33 C.  "Dissemination" has the same meaning as in Title 16, section 703, subsection 6.  
+34 D.  "Executive order" has the same meaning as in Title 16, section 703, subsection 7.
+35 E.  "Juvenile history record information" means information of record collected by a 
+36 criminal justice agency or at the direction of a criminal justice agency or kept in the 
+37 custody of a criminal justice agency that connects a specific, identifiable juvenile with 
+38 formal involvement in the juvenile justice system either as a person accused of or 
+39 adjudicated as having committed a juvenile crime. "Juvenile history record 
+40 information" includes, but is not limited to, identifiable descriptions or notations of:  
+41 summonses and arrests; detention; petitions charging a juvenile with a juvenile crime 
+42 or any disposition stemming from such charges; post-plea or post-adjudication 1
+2
+3
+4
+5
+6
+7
+Page 3 - 130LR0084(01)43 disposition; execution of and completion of any disposition alternatives imposed; 
+44 release and discharge from involuntary commitment; any related pretrial and post-trial 
+45 appeals; collateral attacks; and petitions for and warrants of pardons, commutations, 
+46 reprieves and amnesties. "Juvenile history record information" does not include 
+47 information of record of civil proceedings, including traffic infractions and other civil 
+48 violations or juvenile intelligence and investigative record information as defined in 
+49 section 3308-A, subsection 1, paragraph E.  As used in this paragraph, "formal 
+50 involvement in the juvenile justice system either as a person accused of or adjudicated 
+51 as having committed a juvenile crime" means being within the jurisdiction of the 
+52 juvenile justice system commencing with arrest, summons, referral to a juvenile 
+53 community corrections officer, preliminary investigation or filing of a juvenile petition 
+54 with the Juvenile Court and concluding with the completion of any informal adjustment 
+55 agreement or the completion of any disposition entered by the Juvenile Court.  
+14 F.  "Public juvenile history record information" means information indicating that a 
+15 juvenile has been adjudicated as having committed a juvenile crime that would 
+16 constitute murder or a Class A, B or C crime if the juvenile adjudicated were an adult 
+17 and any resulting disposition imposed. 
+182.  Juvenile history record information confidential.  Except as provided in 
+19 subsection 3, juvenile history record information is confidential and not open to public 
+20 inspection, and does not constitute public records as defined in Title 1, section 402, 
+21 subsection 3.  
+223.  Juvenile history record information pertaining to adjudications.  
+23 Notwithstanding subsection 2, if a juvenile has been adjudicated as having committed a 
+24 juvenile crime that would constitute murder or a Class A, B or C crime if the juvenile 
+25 adjudicated were an adult, then that adjudication and any resulting disposition imposed, but 
+26 no other related juvenile history record information, may be disclosed publicly.  
+274.  Dissemination of juvenile history record information by Maine criminal justice 
+28agency.  A Maine criminal justice agency, whether directly or through any intermediary, 
+29 may disseminate confidential juvenile history record information only to: 
+30 A.  Another criminal justice agency for the purpose of the administration of juvenile 
+31 justice, the administration of criminal justice or criminal justice agency employment; 
+32 B.  Any person for any purpose when expressly authorized by a statute, court rule, court 
+33 decision or court order containing language specifically referring to confidential 
+34 juvenile history record information or one or more of the types of confidential juvenile 
+35 history record information; or  
+36 C.  A public entity for purposes of international travel, such as issuing visas and 
+37 granting of citizenship.   
+385.  Required inquiry to State Bureau of Identification.  A Maine criminal justice 
+39 agency, other than a court, shall query the Department of Public Safety, State Bureau of 
+40 Identification before disseminating any confidential juvenile history record information for 
+41 a noncriminal justice purpose to ensure that the most up-to-date disposition information is 
+42 being used.  For purposes of this subsection, "noncriminal justice purpose" means a purpose 
+43 other than for the administration of juvenile justice, the administration of criminal justice 
+44 or criminal justice agency employment. 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Page 4 - 130LR0084(01)16.  Unlawful dissemination of confidential juvenile history record information.  
+2 Any person who intentionally or knowingly disseminates confidential juvenile history 
+3 record information commits a civil violation for which a fine of not more than $1,000 may 
+4 be adjudged.  The District Court has jurisdiction over violations under this subsection.
+5Sec. 10.  15 MRSA §3307, as amended by PL 2019, c. 525, §16, is further amended 
+6 to read:
+7§3307.  Publicity and record  Disclosure of juvenile's identity
+81-A.  Disclosure of juvenile's identity.  A law enforcement officer, officer of the court, 
+9 juvenile community corrections officer or other representative of the Department of 
+10 Corrections may not disclose the identity of any juvenile until a petition is filed charging 
+11 the juvenile with a juvenile crime described in subsection 2  open to public inspection 
+12 pursuant to section 3308-C, subsection 2, paragraph A, B or C.  This section does not 
+13 preclude the disclosure of the identity of a juvenile to a complainant or victim if a juvenile 
+14 community corrections officer decides not to file a petition in accordance with section 
+15 3301, subsection 5, paragraph A or B or if the juvenile community corrections officer 
+16 requests the prosecuting attorney to file a petition in accordance with section 3301, 
+17 subsection 5, paragraph C , or, if the victim is a minor, to the victim's parent or parents, 
+18 guardian or legal custodian, to a criminal justice agency for the administration of juvenile 
+19 justice or to the Department of Health and Human Services if necessary to carry out the 
+20 statutory functions of that department, regardless of whether a petition has been or will be 
+21 filed.
+22 This section does not preclude the disclosure of the identity of a juvenile on conditional 
+23 release pursuant to section 3203-A or on informal adjustment pursuant to section 3301 to 
+24 a criminal justice agency for the administration of juvenile justice, or to the Department of 
+25 Health and Human Services if necessary to carry out the statutory functions of that 
+26 department.
+271-B.  Disclosure of juvenile's identity to victim.  Upon request, the identity of a 
+28 juvenile subject to Juvenile Court proceedings must be disclosed by the Juvenile Court to:
+29 A.  The victim;
+30 B.  If the victim is a minor, the parent or parents, guardian or legal custodian of the 
+31 victim; or
+32 C.  If the victim cannot act on the victim's own behalf due to death, age, physical or 
+33 mental disease or disorder or intellectual disability or autism or other reason, an 
+34 immediate family member, guardian, legal custodian or attorney representing the 
+35 victim.
+362.  Certain hearings public. 
+37 A.  Once a petition is filed, the general public may not be excluded from a proceeding 
+38 on a juvenile crime that would constitute murder or a Class A, Class B or Class C crime 
+39 if the juvenile involved were an adult; from a proceeding on a juvenile crime that would 
+40 constitute a Class D crime if the juvenile involved were an adult and the juvenile has 
+41 previously been adjudicated of committing a juvenile crime that would constitute a 
+42 Class D or higher class crime not arising from the same underlying transaction; or from 
+43 a subsequent dispositional hearing in such cases.
+Page 5 - 130LR0084(01)1 B.  The general public is excluded from all other juvenile hearings and proceedings, 
+2 except that a juvenile charged with a juvenile crime that would constitute murder or a 
+3 Class A, Class B or Class C offense and with a juvenile crime that would constitute a 
+4 juvenile's first Class D offense or Class E offense or with conduct described in section 
+5 3103, subsection 1, paragraph B, C or E, arising from the same underlying transaction 
+6 may elect to have all charges adjudicated in one hearing, and, when a juvenile does so 
+7 elect, the general public is not excluded from that hearing.
+83.  Record.  A verbatim record shall must be made of all detention, bind over, 
+9 adjudicatory and dispositional hearings.
+10Sec. 11.  15 MRSA §3308, as amended by PL 2019, c. 525, §17, is repealed.
+11Sec. 12.  15 MRSA §3308-A, sub-§1, ¶A, as enacted by PL 2013, c. 267, Pt. D, 
+12 §1, is repealed.
+13Sec. 13.  15 MRSA §3308-A, sub-§1, ¶C-1 is enacted to read:
+14 C-1.  "Dissemination" has the same meaning as in Title 16, section 703, subsection 6.
+15Sec. 14.  15 MRSA §3308-A, sub-§2, as amended by PL 2019, c. 525, §19, is 
+16 further amended to read:
+172.  Information part of juvenile case records.  To the extent juvenile intelligence and 
+18 investigative record information has been made part of the juvenile case records, 
+19 dissemination of that juvenile intelligence and investigative record information by the court 
+20 having actual custody of the juvenile case records must be as provided by section 3307 and 
+21 section 3308  3308-C, subsection 4.
+22Sec. 15.  15 MRSA §3308-A, sub-§3, ¶B-2 is enacted to read:
+23 B-2.  A governmental agency or subunit of a governmental agency in this State or 
+24 another state that pursuant to statute is responsible for investigating abuse, neglect or 
+25 exploitation of children or a governmental agency in this State or another state 
+26 responsible for the licensing of child care facilities, family child care providers or 
+27 children's camp programs or their employees;
+28Sec. 16.  15 MRSA §3308-A, sub-§3, ¶D, as amended by PL 2019, c. 525, §21, is 
+29 further amended by amending subparagraph (2) to read:
+30 (2)  A court order pursuant to section 3307 or 3308  3308-C.
+31Sec. 17.  15 MRSA §3308-A, sub-§4, as enacted by PL 2019, c. 525, §22, is 
+32 amended to read:
+334.  Dissemination of juvenile intelligence and investigative record information 
+34subject to reasonable limitations.  The dissemination of juvenile intelligence and 
+35 investigative record information by a criminal justice agency pursuant to subsection 3, 
+36 paragraphs B, B-1, B-2 and D is subject to limitations to reasonably ensure that 
+37 dissemination of the information will not:
+38 A.  Interfere with law enforcement proceedings relating to crimes;
+39 B.  Result in public dissemination of prejudicial information concerning an accused 
+40 person or concerning the prosecution's evidence that will interfere with the ability of a 
+41 court to impanel an impartial jury;
+Page 6 - 130LR0084(01)1 C.  Constitute an unwarranted invasion of personal privacy, including, but not limited 
+2 to, the personal privacy of juveniles and victims;
+3 D.  Disclose the identity of a confidential source;
+4 E.  Disclose confidential information furnished only by a confidential source;
+5 F.  Disclose investigative techniques and procedures or security plans and procedures 
+6 not known by the general public;
+7 G.  Endanger the life or physical safety of any individual, including law enforcement 
+8 personnel;
+9 H.  Disclose information designated confidential by statute; and
+10 I.  Interfere with proceedings relating to civil violations, civil enforcement proceedings 
+11 and other civil proceedings conducted by the Department of the Attorney General or 
+12 by a district attorney's office.
+13 To comply with this subsection a criminal justice agency may deny access in whole or in 
+14 part to records that contain or constitute juvenile intelligence and investigative record 
+15 information.  A criminal justice agency also may prepare and provide redacted copies of 
+16 such records to a person or public or private entity authorized to receive the information 
+17 under this section.
+18Sec. 18.  15 MRSA §3308-A, sub-§7 is enacted to read:
+197.  Unlawful dissemination of confidential juvenile intelligence and investigative 
+20record information.  Any person who intentionally or knowingly disseminates 
+21 confidential juvenile intelligence and investigative record information commits a civil 
+22 violation for which a fine of not more than $1,000 may be adjudged.  The District Court 
+23 has jurisdiction over violations under this subsection.
+24Sec. 19.  15 MRSA §3308-C is enacted to read:
+25§3308-C.  Confidentiality of juvenile case records
+261.  Confidentiality.  Juvenile case records are confidential and may not be disclosed, 
+27 disseminated or inspected except as expressly authorized by this Part.  Juvenile case records 
+28 open to public inspection may be inspected only at the courthouse.  The court may not 
+29 disseminate any juvenile case records, including those open to public inspection, to the 
+30 public in any manner, including by any paper or electronic means.  
+312.  Juvenile petitions open to public inspection.  Unless Juvenile Court proceedings 
+32 are suspended pursuant to section 3318-A, subsection 5, the following juvenile petitions 
+33 are open to public inspection:
+34 A.  Any juvenile petition alleging a violation of Title 17-A, section 201, 202 or 203 if 
+35 the juvenile charged had attained 13 years of age at the time of the alleged juvenile 
+36 crime, if:  
+37 (1)  The juvenile had a first appearance with respect to the petition in the Juvenile 
+38 Court at least 30 days prior to the request for inspection of the petition; and  
+39 (2)  The Juvenile Court has found there is probable cause to believe the juvenile 
+40 committed a juvenile crime that would be a violation of Title 17-A, section 201, 
+41 202 or 203 if the juvenile involved were an adult.
+Page 7 - 130LR0084(01)1 If the juvenile had not attained 13 years of age at the time of the alleged violation of 
+2 Title 17-A, section 201, 202 or 203, the Juvenile Court may allow public inspection of 
+3 the juvenile petition pursuant to paragraph C; 
+4 B.  Any juvenile petition alleging a juvenile crime that would constitute a Class A 
+5 crime if committed by an adult if the juvenile charged had attained 13 years of age at 
+6 the time of the alleged juvenile crime, if: 
+7 (1)  The juvenile had a first appearance with respect to the petition in the Juvenile 
+8 Court at least 30 days prior to the request for inspection of the petition; and 
+9 (2) The Juvenile Court has found there is probable cause to believe the juvenile 
+10 committed a juvenile crime that would be a Class A crime if the juvenile involved 
+11 were an adult. 
+12 If the juvenile had not attained 13 years of age at the time of the juvenile crime that 
+13 would constitute a Class A crime if committed by an adult, the Juvenile Court may 
+14 allow public inspection of the juvenile petition pursuant to paragraph C.  
+15 A petition open to public inspection under this paragraph may be made confidential 
+16 and not open to public inspection if, upon written request by a person to the Juvenile 
+17 Court, and after notice to the juvenile and the juvenile's parent or parents, guardian or 
+18 legal custodian, the attorney for the juvenile and the office of the prosecuting attorney, 
+19 and after a hearing in which the Juvenile Court considers the purposes of this Part, the 
+20 juvenile's and alleged victim's interest in privacy, the nature of the juvenile crime 
+21 alleged and the characteristics of the juvenile and public safety concerns as outlined in 
+22 section 3101, subsection 4, paragraph D, the court determines that the general public's 
+23 right to information does not substantially outweigh the juvenile's interest in privacy; 
+24 and
+25 C.  Any petition alleging a juvenile crime that would constitute murder or a Class A 
+26 crime if committed by an adult and the juvenile charged had not attained 13 years of 
+27 age at the time of the alleged juvenile crime, or any petition alleging a juvenile of any 
+28 age committed a juvenile crime that would constitute a Class B or C crime if committed 
+29 by an adult, if:
+30 (1)  The juvenile had a first appearance with respect to the petition in the Juvenile 
+31 Court at least 30 days prior to the request for inspection of the petition; 
+32 (2)  A written request is filed by any person with the Juvenile Court requesting that 
+33 the juvenile petition be open to public inspection;
+34 (3)  The Juvenile Court has found there is probable cause to believe the juvenile 
+35 committed a juvenile crime that would constitute murder, a violation of Title 17-A, 
+36 section 204 or a Class A, B or C crime if the juvenile involved were an adult; and
+37 (4)  After notice to the juvenile and the juvenile's parent or parents, guardian or 
+38 legal custodian, the attorney for the juvenile, the office of the prosecuting attorney 
+39 and the individual or entity requesting the juvenile petition be open to public 
+40 inspection and a hearing in which the Juvenile Court considers the purposes of this 
+41 Part, the alleged victim's interest in privacy, the nature of the juvenile crime alleged 
+42 and the characteristics of the juvenile and public safety concerns as outlined in 
+43 section 3101, subsection 4, paragraph D, the court determines that the general 
+Page 8 - 130LR0084(01)44 public's right to information substantially outweighs the juvenile's interest in 
+45 privacy.
+3 In a juvenile petition alleging multiple juvenile crimes, the juvenile crime that would 
+4 constitute the highest class of crime if the juvenile were an adult determines whether the 
+5 petition is open to public inspection.
+6 The Juvenile Court shall redact the names and identifying information of any alleged minor 
+7 victims prior to the inspection of a juvenile petition.
+8 If a request to allow public inspection of a petition under this subsection has been filed, the 
+9 Juvenile Court shall advise the juvenile and the juvenile's parent or parents, guardian or 
+10 legal custodian that the request has been made and shall advise them of the juvenile's right 
+11 to be represented by counsel.  The court may not allow the public to inspect a juvenile 
+12 petition pursuant to paragraph C until authorized by court order.
+133.  Orders of adjudication open to public inspection.  Orders of adjudication for any 
+14 juvenile crime that would constitute murder or a Class A, B or C crime if the juvenile 
+15 involved were an adult are open to public inspection.  Orders of adjudication for all other 
+16 juvenile crimes are confidential and not open to public inspection. When an order of 
+17 adjudication reflects adjudications for both a juvenile crime that would constitute murder 
+18 or a Class A, B or C crime if the juvenile involved were an adult and another juvenile crime 
+19 or crimes not constituting murder or a Class A, B or C crime if the juvenile involved were 
+20 an adult, information regarding any additional juvenile crimes must be redacted before 
+21 allowing public inspection of the order of adjudication. 
+224.  Dissemination of information contained in juvenile case records.  The following 
+23 provisions apply to the dissemination of information contained in juvenile case records.
+24 A.  For purposes of this subsection, unless the context otherwise indicates, the 
+25 following terms have the following meanings.
+26 (1) "Administration of criminal justice" has the same meaning as in Title 16, 
+27 section 703, subsection 1.
+28 (2) "Criminal justice agency" has the same meaning as in Title 16, section 703, 
+29 subsection 4.
+30 (3) "Juvenile intelligence and investigative record information" has the same 
+31 meaning as in section 3308-A, subsection 1, paragraph E.
+32 B.  Nothing in this section precludes sharing of any information contained in juvenile 
+33 case records by one criminal justice agency with another criminal justice agency for 
+34 the purpose of administration of criminal justice, administration of juvenile justice or 
+35 criminal justice agency employment. 
+36 C.  Nothing in this section precludes dissemination of any information contained in 
+37 juvenile case records if:
+38 (1)  The juvenile has been adjudicated as having committed a juvenile crime;
+39 (2)  The information is disseminated by and to persons who directly supervise or 
+40 report on the health, behavior or progress of the juvenile, the superintendent of the 
+41 juvenile's school and the superintendent's designees, criminal justice agencies or 
+42 agencies that are or might become responsible for the health or welfare of the 1
+2
+Page 9 - 130LR0084(01)43 juvenile as a result of a court order or by agreement with the Department of 
+44 Corrections or the Department of Health and Human Services; and
+3 (3)  The information is relevant to and disseminated only for the purpose of creating 
+4 or maintaining an individualized plan for the juvenile's rehabilitation, including 
+5 reintegration into a school.
+6 Any information received under this paragraph is confidential and may not be further 
+7 disclosed or disseminated, except as otherwise provided by law.
+8 D.  Nothing in this section precludes dissemination of any information in the juvenile 
+9 case records in the possession of the Department of Corrections if the person 
+10 concerning whom the juvenile case records are sought, the juvenile, the person's legal 
+11 guardian, if any, and, if the person is a minor, the person's parent or parents, guardian 
+12 or legal custodian have given informed written consent to the dissemination of the 
+13 juvenile case records. 
+14 E.  Except as expressly authorized by this section, juvenile intelligence and 
+15 investigative record information, juvenile community corrections officers' records and 
+16 all other reports of social and clinical studies contained in juvenile case records may 
+17 not be open to inspection and may not be disclosed or disseminated except with the 
+18 consent of the Juvenile Court. The names and identifying information regarding any 
+19 alleged victims and minors contained in the juvenile case records must be redacted 
+20 prior to disclosure, dissemination or inspection.
+21 The Juvenile Court may not order the disclosure, dissemination or inspection of 
+22 juvenile case records unless the juvenile, the juvenile's parent or parents, guardian or 
+23 legal custodian and either the juvenile's attorney or, if the juvenile does not have an 
+24 attorney, the juvenile's attorney of record and the prosecuting attorney are given notice 
+25 of the request and an opportunity to be heard regarding the request.  In deciding 
+26 whether to allow the disclosure, dissemination or inspection of any portion of juvenile 
+27 case records under this paragraph, the Juvenile Court shall consider the purposes of 
+28 this Part and the reasons for which the request is being made and may restrict the 
+29 disclosure, dissemination or inspection of the juvenile case records in any manner the 
+30 court determines necessary or appropriate. 
+31 F.  When a juvenile who is adjudicated as having committed a juvenile crime that if 
+32 committed by an adult would be gross sexual assault under Title 17-A, section 253, 
+33 subsection 1 is committed to a Department of Corrections juvenile correctional facility 
+34 or placed on probation, the Department of Corrections shall provide, while the juvenile 
+35 is committed or on probation, a copy of the juvenile's judgment and commitment to the 
+36 Department of Health and Human Services, to all law enforcement agencies that have 
+37 jurisdiction in those areas where the juvenile resides, works or attends school and to 
+38 the superintendent of any school in which the juvenile attends school during the period 
+39 of commitment or probation.  The Department of Corrections shall provide a copy of 
+40 the juvenile's judgment and commitment to all licensed day care facility operators 
+41 located in the municipality where the juvenile resides, works or attends school during 
+42 the period of commitment or probation.  Upon request, the Department of Corrections 
+43 shall also provide a copy of the juvenile's judgment and commitment to other entities 
+44 that are involved in the care of children and are located in the municipality where the 
+45 juvenile resides, works or attends school during the period of commitment or probation.  1
+2
+Page 10 - 130LR0084(01)46 The Department of Corrections may provide a copy of the juvenile's judgment and 
+47 commitment to any other agency or person that the Department of Corrections 
+48 determines is appropriate to ensure public safety.  Neither the failure of the Department 
+49 of Corrections to perform the requirements of this paragraph nor compliance with this 
+50 paragraph subjects the Department of Corrections or its employees to liability in a civil 
+51 action. 
+7 G.  Juvenile case records must be open to inspection by and, upon request, be 
+8 disseminated to the juvenile, the juvenile's parent or parents, guardian or legal 
+9 custodian, the juvenile's attorney, the prosecuting attorney and any agency to which 
+10 legal custody of the juvenile was transferred as a result of an adjudication.  Juvenile 
+11 case records must also be open to inspection by and, upon request, be disseminated to 
+12 the Department of Health and Human Services prior to adjudication if commitment to 
+13 the Department of Health and Human Services is a proposed disposition.
+145.  Victim access to juvenile case records.  Notwithstanding confidentiality 
+15 provisions of this section, the juvenile petition and order of adjudication may be inspected 
+16 by:
+17 A.  The victim;
+18 B.  If the victim is a minor, the parent or parents, guardian or legal custodian of the 
+19 victim; or
+20 C.  If the victim cannot act on the victim's own behalf due to death, age, physical or 
+21 mental disease or disorder or intellectual disability or autism or other reason, an 
+22 immediate family member, guardian, legal custodian or attorney representing the 
+23 victim.
+24 Notwithstanding any provision of this section to the contrary, juvenile case records must 
+25 be open to inspection by or may be disseminated to the Victims' Compensation Board 
+26 established in Title 5, section 12004-J, subsection 11 if a juvenile is alleged to have 
+27 committed an offense upon which an application to the board is based.
+286.  Access to juvenile case records by other persons.  With the consent of the Juvenile 
+29 Court and subject to reasonable limitations to protect the identity, privacy and safety of 3rd 
+30 parties, including, but not limited to, victims and other accused or adjudicated juveniles, 
+31 and the interests of justice, juvenile case records, excluding the names of the juvenile and 
+32 the juvenile's parent or parents, guardian or legal custodian, the juvenile's attorney or any 
+33 other parties, may be inspected by or disseminated to persons having a legitimate interest 
+34 in the proceedings or by persons conducting pertinent research studies.
+357.  Order following determination that juvenile case records are open to public 
+36inspection, disclosure or dissemination.  Following a determination that a juvenile 
+37 petition, order of adjudication or other juvenile case records are open to public inspection, 
+38 disclosure or dissemination under this section, the Juvenile Court shall enter an order 
+39 specifying which juvenile case records may be inspected, disclosed or disseminated and 
+40 identifying the individual or agency granted access to those juvenile case records.  The 
+41 Juvenile Court may restrict the further disclosure, dissemination or inspection of the 
+42 juvenile case records in any manner the court determines necessary or appropriate.
+438.  Records to Secretary of State.  Whenever a juvenile has been adjudicated as having 
+44 committed a juvenile crime involving the operation of a motor vehicle, or when the Juvenile 1
+2
+3
+4
+5
+6
+Page 11 - 130LR0084(01)45 Court has ordered a disposition pursuant to section 3314, subsection 3, 3-A, or 3-B that 
+46 includes suspension of the juvenile's right to operate a motor vehicle, the court shall 
+47 transmit to the Secretary of State an abstract, duly certified, setting forth the name of the 
+48 juvenile, the offense, the date of the offense, the date of the adjudicatory hearing and any 
+49 other pertinent facts.  These juvenile case records are admissible in evidence in hearings 
+50 conducted by the Secretary of State or any of the Secretary of State's deputies and are open 
+51 to public inspection.
+8 Nothing in this Part may be construed to limit the authority of the Secretary of State, 
+9 pursuant to Title 29-A, to suspend a person's driver's license or permit to operate a motor 
+10 vehicle, right to operate a motor vehicle or right to apply for or obtain a driver's license.
+119.  Transmission of information about a committed juvenile.  Information regarding 
+12 a juvenile committed to the custody of the Department of Corrections or the custody of the 
+13 Department of Health and Human Services must be provided as follows.
+14 A.  The Juvenile Court shall transmit with the commitment order a copy of the petition, 
+15 the order of adjudication, copies of any social studies, any clinical or educational 
+16 reports and information pertinent to the care and treatment of the juvenile.
+17 B.  The Department of Corrections or the Department of Health and Human Services 
+18 shall provide the Juvenile Court with any information concerning the juvenile 
+19 committed to either department's custody that the court at any time may request.
+2010.  Juvenile case records sealed.  This subsection governs the sealing of juvenile 
+21 case records of a person adjudicated as having committed a juvenile crime.
+22 A.  A person adjudicated as having committed a juvenile crime that, if the juvenile 
+23 were an adult, would constitute murder or a Class A, B or C crime or operating under 
+24 the influence as defined in Title 29-A, section 2411 may petition the Juvenile Court to 
+25 seal from public inspection all juvenile case records pertaining to the juvenile crime 
+26 and its disposition and any prior juvenile case records and their dispositions if:  
+27 (1)  At least 3 years have passed since the person's discharge from the disposition 
+28 ordered for that juvenile crime;
+29 (2)  Since the date of disposition, the person has not been adjudicated as having 
+30 committed a juvenile crime and has not been convicted of committing a crime; and
+31 (3)  There are no current adjudicatory proceedings pending for a juvenile or other 
+32 crime.
+33 B.  The Juvenile Court may grant the petition filed under paragraph A if the court finds 
+34 that the requirements of paragraph A are satisfied, unless the court finds that the general 
+35 public's right to information substantially outweighs the juvenile's interest in privacy.  
+36 The juvenile has a right to appeal the court's denial of the juvenile's petition to seal as 
+37 provided in chapter 509.
+38 C.  At the time a person adjudicated to have committed a juvenile crime other than a 
+39 crime listed in paragraph A is finally discharged from the disposition imposed for that 
+40 juvenile crime, the court, upon receipt of appropriate notice of the discharge, shall 
+41 immediately enter an order sealing from public inspection all records pertaining to the 
+42 juvenile crime and its disposition.  Appropriate notice that the juvenile is discharged 
+43 from the disposition:1
+2
+3
+4
+5
+6
+7
+Page 12 - 130LR0084(01)1 (1)  Must be provided to the court by the Department of Corrections if the juvenile's 
+2 disposition involved either commitment to the custody of a Department of 
+3 Corrections juvenile correctional facility, a period of confinement not to exceed 30 
+4 days or any suspended disposition with a period of probation;
+5 (2)  Must be provided to the court by the office of the prosecuting attorney if 
+6 disposition included restitution, community service or a restorative justice event 
+7 and the court ordered that proof of completion of the obligation be provided to the 
+8 office of the prosecuting attorney; or
+9 (3)  May be provided to the court by the juvenile or the juvenile's attorney.  If the 
+10 notice is provided by the juvenile or the juvenile's attorney, the juvenile or the 
+11 juvenile's attorney shall serve a copy of the notice on the office of the prosecuting 
+12 attorney before the court may enter the order sealing the juvenile case records.
+13 D.  Notwithstanding subsections 2 and 3, subsection 4, paragraphs C, D and F and 
+14 subsections 5 and 6, a court order sealing juvenile case records pursuant to this 
+15 subsection permits only the following persons to have access to the sealed juvenile case 
+16 records:
+17 (1)  The courts and criminal justice agencies as provided by this section; and
+18 (2)  The person whose juvenile case records are sealed or that person's designee.
+19 E.  A copy of the court's written order certifying its granting of the juvenile's petition 
+20 to seal juvenile case records pursuant to paragraph B or its order of immediate sealing 
+21 pursuant to paragraph C must be provided to the Department of Public Safety, State 
+22 Bureau of Identification if the adjudication is for a juvenile crime the criminal records 
+23 of which are maintained by the State Bureau of Identification pursuant to Title 25, 
+24 section 1541.  The State Bureau of Identification or the appropriate agency upon receipt 
+25 of the order shall promptly update its records relating to each of the juvenile 
+26 adjudications included in the order.
+27 F.  A person whose juvenile case records are sealed pursuant to this subsection may 
+28 respond to inquiries from other than the courts and criminal justice agencies about that 
+29 person's juvenile crimes, the juvenile case records of which have been sealed, as if the 
+30 juvenile crimes had never occurred, without being subject to any sanctions.  The sealing 
+31 of a person's juvenile case records does not remove or otherwise affect the prohibition 
+32 against that person's possessing a firearm pursuant to section 393. 
+3311.  Unlawful dissemination of confidential juvenile case record information.  Any 
+34 person who intentionally or knowingly disseminates information contained in confidential 
+35 juvenile case records commits a civil violation for which a fine of not more than $1,000 
+36 may be adjudged.  The District Court has jurisdiction over violations under this subsection.
+37Sec. 20.  15 MRSA §3308-D is enacted to read:
+38§3308-D.  Confidentiality of Juvenile Court proceedings
+391.  Record.  A verbatim record must be made of all Juvenile Court proceedings.
+402.  Certain hearings public.  Unless proceedings on a juvenile petition are suspended 
+41 under section 3318-A, subsection 5, the general public may not be excluded from any 
+42 Juvenile Court hearing subsequent to the juvenile's first appearance in the Juvenile Court 
+43 after the juvenile petition is open to public inspection under section 3308-C, subsection 2 
+Page 13 - 130LR0084(01)44 or from any Juvenile Court hearing on a State's motion for bind-over under section 3101, 
+45 subsection 4.
+33.  Hearings on petitions alleging multiple juvenile crimes.  When a juvenile petition 
+4 open to public inspection under section 3308-C, subsection 2 alleges a juvenile crime that 
+5 would constitute a Class D or Class E crime if the juvenile involved were an adult or a 
+6 violation of section 3103, subsection 1, paragraph B or C arising from the same course of 
+7 conduct, the Juvenile Court may order that charges alleging conduct that would be a Class 
+8 D or Class E crime if the juvenile involved were an adult or a violation of section 3103, 
+9 subsection 1, paragraph B or C be adjudicated in a separate hearing.  When the Juvenile 
+10 Court so orders, the general public must be excluded from the hearing on alleged conduct 
+11 that would constitute a Class D or Class E crime if the juvenile were an adult or a violation 
+12 of section 3103, subsection 1, paragraph B or C.
+134.  Victim presence at hearings.  Regardless of whether a Juvenile Court proceeding 
+14 is open to the general public, the following persons may be present in court:
+15 A.  The victim;
+16 B.  If the victim is a minor, the victim's parent or parents, guardian or legal custodian; 
+17 or
+18 C.  If the victim cannot act on the victim's own behalf due to death, age, physical or 
+19 mental disease or disorder or intellectual disability or autism or other reason, an 
+20 immediate family member, guardian, legal custodian or attorney representing the 
+21 victim.
+22Sec. 21.  15 MRSA §3318-A, sub-§5, as enacted by PL 2011, c. 282, §4, is amended 
+23 to read:
+245.  Suspension of juvenile proceedings.  Pending a competency examination, the 
+25 Juvenile Court shall suspend the proceeding on the petition.  All juvenile case records, 
+26 including a petition that is otherwise open to public inspection under section 3308-C, 
+27 subsection 2, are confidential and are not subject to inspection, dissemination or release by 
+28 the court.  The suspension remains in effect pending the outcome of a competency 
+29 determination hearing pursuant to subsection 7.  Suspension of the proceeding does not 
+30 affect the Juvenile Court's ability to detain or release the juvenile pursuant to section 
+31 3203‑A, subsection 5.
+32Sec. 22.  15 MRSA §3318-A, sub-§7, as enacted by PL 2011, c. 282, §4, is amended 
+33 to read:
+347.  Post-examination report and hearing.  Following receipt of the competency 
+35 examination report from the State Forensic Service examiner, the Juvenile Court shall 
+36 provide copies of the report to the parties and hold a competency determination hearing.  
+37 All hearings conducted pursuant to this subsection are confidential and not open to the 
+38 general public.  Only counsel for the State, counsel for the juvenile, the juvenile, the 
+39 juvenile's parent or parents, guardian or legal custodian, the juvenile community 
+40 corrections officer and witnesses presenting testimony may be present in a hearing to 
+41 determine a juvenile's competency to proceed in the Juvenile Court.  If the Juvenile Court 
+42 finds that the juvenile is competent to proceed based upon the burden and standard of proof 
+43 pursuant to subsection 8, the Juvenile Court shall set a time for the resumption of the 1
+2
+Page 14 - 130LR0084(01)44 proceedings.  If the Juvenile Court is not satisfied that the juvenile is competent to proceed, 
+45 the Juvenile Court shall determine how to proceed pursuant to section 3318‑B.
+3 The court may consider the report of the State Forensic Service examiner, together with all 
+4 other evidence relevant to the issue of competency, in its determination whether the 
+5 juvenile is competent to proceed. No single criterion set forth in subsection 6 may be 
+6 binding on the court's determination.
+7Sec. 23.  15 MRSA §3318-A, sub-§7-A is enacted to read:
+87-A.  Victim may inspect final order regarding juvenile's competency.  
+9 Notwithstanding subsection 7, the following persons may inspect the Juvenile Court's order 
+10 pursuant to subsection 7 or order of disposition pursuant to section 3318-B, subsection 1, 
+11 paragraph B or subsection 2, paragraph A:
+12 A.  The victim;
+13 B.  If the victim is a minor, the victim's parent or parents, guardian or legal custodian; 
+14 or
+15 C.  If the victim cannot act on the victim's own behalf due to death, age, physical or 
+16 mental disease or disorder or intellectual disability or autism or other reason, an 
+17 immediate family member, guardian, legal custodian or attorney representing the 
+18 victim.
+19Sec. 24.  15 MRSA §3506-A, sub-§7, as enacted by PL 1989, c. 126, §2, is amended 
+20 to read:
+217.  Public proceeding; exception.  Notwithstanding section 3307, subsection 2, 
+22 paragraph B, the The court shall may not exclude the public unless the minor or the minor's 
+23 parent or parents, guardian or legal custodian , requests that the public be excluded and the 
+24 minor or the minor's parent or parents, guardian or legal custodian , does not object.  If the 
+25 public is excluded, only the parties, their attorneys, court officers and witnesses may be 
+26 present.
+27Sec. 25.  15 MRSA c. 514 is enacted to read:
+28CHAPTER 514
+29CIVIL REMEDY FOR UNLAWFUL DISCLOSURE OF CONFIDENTIAL 
+30RECORDS, INFORMATION
+31§3701.  Civil actions by aggrieved persons authorized
+321.  Authorization.  A person about whom confidential records or information has been 
+33 disclosed in knowing or intentional violation of section 3010, subsection 6 or section 
+34 3308-A, subsection 4, or that person's parent or parents, guardian or legal custodian, may 
+35 initiate and prosecute in that person's own name and on that person's own behalf a civil 
+36 action for the relief described in this section.
+372.  Jurisdiction.  An action under subsection 1 must be instituted in the District Court 
+38 for the county where the alleged violator resides or has a principal place of business.1
+2
+Page 15 - 130LR0084(01)13.  Relief.  A person who brings and prevails in a civil action pursuant to this section 
+2 is entitled to injunctive relief, reimbursement of court costs and reasonable attorney's fees, 
+3 an award of actual damages of up to $5,000 and award of punitive damages.
+4Sec. 26.  16 MRSA §803, sub-§3, as enacted by PL 2013, c. 267, Pt. A, §3, is 
+5 amended to read:
+63.  Administration of juvenile justice.  "Administration of juvenile justice" means 
+7 activities relating to the anticipation, prevention, detection, monitoring or investigation of 
+8 known, suspected or possible juvenile crimes.  "Administration of juvenile justice" includes 
+9 the collection, storage and dissemination of intelligence and investigative information 
+10 relating to the administration of juvenile justice  has the same meaning as in Title 15, section 
+11 3003, subsection 1-A.
+12Sec. 27.  20-A MRSA §1055, sub-§12, as amended by PL 2003, c. 205, §7, is 
+13 further amended to read:
+1412.  Reintegration team.  Within 10 days after receiving information from the 
+15 Department of Corrections pursuant to Title 15, section 3009, the superintendent shall 
+16 convene a reintegration team to carry out reintegration planning pursuant to section 254, 
+17 subsection 12.  The reintegration team must consist of the administrator of the school or 
+18 the administrator's designee; at least one classroom teacher to whom the student will be 
+19 assigned or who is involved in the school's student assistance team; a parent, guardian or 
+20 custodian of the student; and a guidance counselor.  The reintegration team is entitled to 
+21 receive the information described in Title 15, section 3308  3308-C, subsection  7 4, 
+22 paragraph B‑1  C, subparagraph (3) and Title 34‑A, section 1216, subsection 1, paragraph 
+23 F.  The reintegration team shall also determine, on the basis of need, which school 
+24 employees may receive that information.
+25 Confidentiality of the criminal justice information regarding juveniles received from the 
+26 Department of Corrections must be ensured at all times and the information may be released 
+27 by a member of the reintegration team only under the conditions of this subsection.  The 
+28 superintendent shall ensure that confidentiality training is provided to all school employees 
+29 who have access to the information.
+30Sec. 28.  20-A MRSA §6001-B, sub-§3-A, as amended by PL 2003, c. 205, §8, is 
+31 further amended to read:
+323-A.  Determination of status of juvenile applying for admission; discretion of 
+33school to accept juvenile.  If the receiving school administrative unit receives information 
+34 under Title 15, section 3308  3308-C, subsection  7 4, paragraph  B‑1 C, subparagraph (3) 
+35 and Title 34‑A, section 1216, subsection 1, paragraph F that a student is not in compliance 
+36 with a condition of an individualized plan for the juvenile's rehabilitation and that condition 
+37 is relevant to the juvenile's reintegration into the school, the receiving school administrative 
+38 unit may deny admission or participation in public school programs, facilities or activities 
+39 as part of an equivalent instruction program pursuant to section 5021 until the school 
+40 administrative unit is satisfied that the condition has been met.
+41Sec. 29.  25 MRSA §2929, sub-§2, ¶B, as amended by PL 2019, c. 339, §6, is 
+42 further amended to read:
+43 B.  A public safety answering point may disclose confidential information to a criminal 
+44 justice agency, as defined in Title 16, section 803, subsection 4, for the purposes of the 
+Page 16 - 130LR0084(01)45 administration of criminal justice, as defined in Title 16, section 803, subsection 2, and 
+46 the administration of juvenile justice, as defined in Title 15, section 3308‑A  3003, 
+47 subsection 1, paragraph A  1-A, related to a 9-1-1 call;
+4Sec. 30.  25 MRSA §2929, sub-§4, ¶B, as amended by PL 2019, c. 339, §7, is 
+5 further amended to read:
+6 B.  To a criminal justice agency, as defined in Title 16, section 803, subsection 4, for 
+7 the purposes of the administration of criminal justice, as defined in Title 16, section 
+8 803, subsection 2, and the administration of juvenile justice, as defined in Title 15, 
+9 section 3308‑A  3003, subsection 1, paragraph A  1-A, related to a 9-1-1 call;
+10Sec. 31.  34-A MRSA §1001, sub-§10-A, as amended by PL 2015, c. 470, §14, is 
+11 further amended to read:
+1210-A.  Investigative officer.  "Investigative officer" means an employee of the 
+13 department designated by the commissioner as having the authority to conduct 
+14 investigations of crimes or juvenile crimes relating to the security or orderly management 
+15 of a facility administered by the department and engage in any other activity that is related 
+16 to the administration of criminal justice as defined in Title 16, section 703, subsection 1 for 
+17 the purposes of the Criminal History Record Information Act or as defined in Title 16, 
+18 section 803, subsection 2 for the purposes of the Intelligence and Investigative Record 
+19 Information Act, the administration of juvenile criminal justice or the administration of 
+20 juvenile justice and who is certified by the Board of Trustees of the Maine Criminal Justice 
+21 Academy as a full-time law enforcement officer.
+22Sec. 32.  34-A MRSA §1001, sub-§21, as enacted by PL 1987, c. 633, §1, is 
+23 repealed.
+24Sec. 33.  34-A MRSA §1001, sub-§22, as enacted by PL 2015, c. 470, §16, is 
+25 amended to read:
+2622.  Administration of juvenile justice.  "Administration of juvenile justice" has the 
+27 same meaning as in Title 15, section 3308‑A  3003, subsection  1, paragraph A  1-A.
+28Sec. 34.  34-A MRSA §1214, sub-§4, as amended by PL 2015, c. 470, §17, is 
+29 further amended to read:
+304.  Confidentiality.  Requests for action by the office must be treated confidentially 
+31 and may be disclosed only to a state agency if necessary to carry out the statutory functions 
+32 of that agency or to a criminal justice agency if necessary to carry out the administration of 
+33 criminal justice as defined in Title 16, section 703, subsection 1 or the administration of 
+34 juvenile criminal justice.  In no case may a victim's request for notice of release be disclosed 
+35 outside the department and the office of the attorney for the State with which the request 
+36 was filed.
+37Sec. 35.  34-A MRSA §1216, sub-§1, ¶D, as amended by PL 2017, c. 432, Pt. F, 
+38 §2, is further amended to read:
+39 D.  To any criminal justice agency if necessary to carry out the administration of 
+40 criminal justice as defined in Title 16, section 703, subsection 1, the administration of 
+41 criminal justice as defined in Title 16, section 803, subsection 2, the administration of 
+42 juvenile criminal justice as defined in Title 15, section 3308, subsection 7, paragraph 
+43 A, subparagraph (2), or the administration of juvenile justice as defined in Title 15, 1
+2
+3
+Page 17 - 130LR0084(01)44 section 3308-A  3003, subsection  1, paragraph A 1-A or for criminal justice agency 
+45 employment;
+3Sec. 36.  34-A MRSA §3011, sub-§1, as amended by PL 2015, c. 470, §19, is 
+4 further amended to read:
+51.  Exercise of law enforcement powers.  Investigative officers and other employees 
+6 of the department who are certified by the Board of Trustees of the Maine Criminal Justice 
+7 Academy as law enforcement officers may exercise the powers of other law enforcement 
+8 officers with respect to crimes or juvenile crimes relating to the security or orderly 
+9 management of a facility and engage in any other activity that is related to the 
+10 administration of criminal justice as defined in Title 16, section 703, subsection 1 for the 
+11 purposes of the Criminal History Record Information Act or as defined in Title 16, section 
+12 803, subsection 2 for the purposes of the Intelligence and Investigative Record Information 
+13 Act, the administration of juvenile criminal justice or the administration of juvenile justice, 
+14 if authorized to exercise these powers by the commissioner.  These employees may issue 
+15 administrative subpoenas, if authorized to exercise these powers by the commissioner and 
+16 by the Attorney General or the Attorney General's designee.  These powers are in addition 
+17 to any powers the employees may otherwise have as employees of the department.  Internal 
+18 investigations of employees of the department must be conducted pursuant to any 
+19 applicable collective bargaining agreement.
+20SUMMARY
+21 This bill defines "confidential juvenile history record information" and "public juvenile 
+22 history record information" and creates statutory authority governing the dissemination of 
+23 juvenile history record information by a Maine criminal justice agency to create 
+24 consistency between which juvenile case records may be open to public inspection at the 
+25 courts and information that may be shared publicly by a criminal justice agency.  It provides 
+26 a definition of "administration of juvenile justice" for all of the Maine Juvenile Code and 
+27 amends several provisions to make consistent the use of the term "administration of 
+28 juvenile justice" and deletes the term "administration of juvenile criminal justice."
+29 It modifies the Maine Juvenile Code to limit access to juvenile case records maintained 
+30 by Juvenile Courts and reorganizes existing provisions based on whether they allow 
+31 disclosure of a juvenile's identity, allow inspection of juvenile case records, allow 
+32 dissemination of juvenile case records or allow the general public access to Juvenile Court 
+33 proceedings. It provides that a victim or an agent of the victim may inspect the juvenile 
+34 petition and order of adjudication regardless of whether the general public may do so.
+35 This bill allows automatic public inspection of a juvenile petition only if the petition 
+36 alleges murder, felony murder or manslaughter, the juvenile has attained 13 years of age at 
+37 the time of the offense and at least 30 days have passed since the juvenile's first appearance 
+38 in the Juvenile Court.  A juvenile petition that alleges a juvenile who was at least 13 years 
+39 of age when the juvenile committed a Class A crime are open to public inspection 30 days 
+40 after the juvenile's first appearance unless the court orders the petition confidential.  A 
+41 juvenile petition alleging that a juvenile under 13 years of age committed murder or a Class 
+42 A crime and a petition alleging a juvenile of any age committed a Class B or Class C crime 
+43 are confidential unless the Juvenile Court authorizes public inspection.  1
+2
+21
+22
+23
+24
+25
+26
+27
+28
+Page 18 - 130LR0084(01)1 A juvenile petition may be open to public inspection 30 days after the juvenile's first 
+2 appearance in the Juvenile Court to ensure that the Juvenile Court has determined there is 
+3 probable cause to believe the juvenile committed the crime alleged and there is no assertion 
+4 that the juvenile is not competent to proceed in the Juvenile Court.
+5 It provides that only orders of adjudication for juvenile crimes that would constitute 
+6 murder or Class A, B or C crimes if the juvenile were an adult are open to public inspection 
+7 and dissemination by a court or criminal justice agency.
+8 It clarifies that the general public may not be excluded from any Juvenile Court 
+9 proceeding when a juvenile petition is open to public inspection pursuant to statute or court 
+10 order.  A victim or an agent of the victim may be present at all court proceedings regardless 
+11 of whether the proceedings are open to the general public.
+12 It provides for the automatic sealing of juvenile case records for crimes that, if the 
+13 juvenile were an adult, would constitute Class D crimes, other than operating under the 
+14 influence, or Class E crimes upon the completion of the disposition ordered by the Juvenile 
+15 Court.  The sealing procedure would remain unchanged for Class A, Class B and Class C 
+16 crimes and murder.
+17 It makes all juvenile case records and all Juvenile Court proceedings confidential when 
+18 Juvenile Court proceedings are suspended due to an assertion by the juvenile, the State or 
+19 the court that the juvenile may not be competent to proceed in the Juvenile Court.  Juvenile 
+20 case records and Juvenile Court proceedings remain confidential unless the Juvenile Court 
+21 proceedings resume after the juvenile is found competent.
+22 This bill creates a new civil cause of action for a person about whom confidential 
+23 records or information has been disclosed in knowing or intentional violation of the Maine 
+24 Revised Statutes, Title 15, section 3010, subsection 6 or section 3308-A, subsection 4.  A 
+25 person who brings and prevails in such a civil action is entitled to injunctive relief, 
+26 reimbursement of court costs and reasonable attorney's fees, an award of actual damages 
+27 of up to $5,000 and award of punitive damages.  It also creates a new civil violation for 
+28 which any person who intentionally or knowingly disseminates confidential juvenile 
+29 history may be fined up to $1,000.

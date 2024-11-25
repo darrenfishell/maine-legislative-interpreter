@@ -1,0 +1,469 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1815
+S.P. 642 In Senate, December 17, 2021
+An Act To Revise Certain Financial Regulatory Provisions of the 
+Maine Insurance Code To Be Consistent with Model Laws from the 
+National Association of Insurance Commissioners
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 203.
+Received by the Secretary of the Senate on December 15, 2021.  Referred to the Committee 
+on Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator SANBORN of Cumberland.
+
+Page 1 - 130LR2237(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §15 is enacted to read:
+3§15.  NAIC defined
+4 As used in this Title, “NAIC” or “National Association of Insurance Commissioners” 
+5 means the National Association of Insurance Commissioners or its successor organization 
+6 of insurance regulators.
+7Sec. 2.  24-A MRSA §208, first ¶, as corrected by RR 2021, c. 1, Pt. B, §150, is 
+8 amended to read:
+9 The superintendent may from time to time contract for such additional actuarial, 
+10 examination, rating and other technical and professional services as the superintendent may 
+11 require be required for discharge of the superintendent's duties.  If a contractor retained 
+12 pursuant to this section has access to confidential information, the contract must require 
+13 the contractor to comply with the requirements of section 216, subsection 5, paragraph B-1.
+14Sec. 3.  24-A MRSA §216, sub-§5, ¶B-1 is enacted to read:
+15 B-1.  The superintendent may authorize a contractor retained pursuant to section 208, 
+16 or any other person outside the bureau that is otherwise designated to act on behalf of 
+17 the superintendent, to receive confidential information.  The recipient of confidential 
+18 information is under the direction and control of the superintendent, is subject to the 
+19 same confidentiality standards and requirements as the superintendent and shall act in 
+20 a purely advisory capacity.  The recipient of confidential information shall comply with 
+21 the requirements of this paragraph.
+22 (1)  Access to confidential information may not be granted unless the recipient 
+23 agrees in writing that:
+24 (a)  The recipient will maintain the confidentiality of any confidential 
+25 information that the superintendent has authorized the recipient to access, and 
+26 establish appropriate procedures to protect such information from 
+27 unauthorized access or use;
+28 (b)  Ownership of any confidential information shared by the superintendent 
+29 pursuant to this paragraph remains with the superintendent and that the use of 
+30 such information by the recipient is subject to the direction of the 
+31 superintendent;
+32 (c)  The recipient will not store confidential information obtained or created 
+33 under the contract in a permanent file or database after the work involving the 
+34 information is completed;
+35 (d)  The recipient will provide prompt notice to the superintendent of any 
+36 subpoena, request for disclosure or request for production of confidential 
+37 information; and
+38 (e)  The recipient will consent to intervention by an insurer in any judicial or 
+39 administrative action in which the recipient may be required to disclose 
+40 confidential information about the insurer that has been shared pursuant to this 
+41 paragraph.
+Page 2 - 130LR2237(01)1 (2)  The recipient of confidential information shall confirm in writing to the 
+2 superintendent that the recipient is free from conflicts of interest and will conduct 
+3 ongoing monitoring for conflicts of interest for the duration of the work involving 
+4 the confidential information.
+5Sec. 4.  24-A MRSA §216, sub-§5, ¶C, as enacted by PL 2013, c. 238, Pt. A, §1 
+6 and affected by §34, is amended to read:
+7 C.  The superintendent may enter into one or more written agreements with the National 
+8 Association of Insurance Commissioners governing sharing and using information 
+9 under this subsection that:
+10 (1)  Specify procedures and protocols regarding the confidentiality and security of 
+11 information shared with the National Association of Insurance Commissioners and 
+12 its affiliates and subsidiaries pursuant to this paragraph, including procedures and 
+13 protocols for sharing by the National Association of Insurance Commissioners 
+14 with other state, federal or international insurance regulators;
+15 (2)  Specify that ownership of information shared with the National Association of 
+16 Insurance Commissioners and its affiliates and subsidiaries pursuant to this 
+17 paragraph remains with the superintendent and that the use of information by the 
+18 National Association of Insurance Commissioners is subject to the direction of the 
+19 superintendent;
+20 (2-A)  Prohibit the National Association of Insurance Commissioners from storing 
+21 confidential information in a permanent file or database after the analysis of the 
+22 confidential information is completed, other than liquidity stress test information 
+23 obtained pursuant to section 222, subsection 8, paragraph B-1, subparagraph (3);
+24 (3)  Require prompt notice to be given by the National Association of Insurance 
+25 Commissioners to any insurer whose confidential information is in the possession 
+26 of the National Association of Insurance Commissioners pursuant to this paragraph 
+27 when that information is the subject of a request or subpoena for disclosure or 
+28 production; and
+29 (4)  Require the National Association of Insurance Commissioners and its affiliates 
+30 and subsidiaries to consent to intervention by an insurer in any judicial or 
+31 administrative action in which the National Association of Insurance 
+32 Commissioners and its affiliates and subsidiaries may be required to disclose 
+33 confidential information about the insurer shared with the National Association of 
+34 Insurance Commissioners and its affiliates and subsidiaries pursuant to this 
+35 paragraph.
+36Sec. 5.  24-A MRSA §222, sub-§2, ¶B-4 is enacted to read:
+37 B-4.  “Group capital calculation” means a method for insurance groups to assess the 
+38 financial condition of the group, including noninsurance entities within the group, in 
+39 order to identify and quantify potential risks.
+40Sec. 6.  24-A MRSA §222, sub-§2, ¶B-5 is enacted to read:
+41 B-5.  “Group capital calculation instructions” means the group capital calculation 
+42 instructions as adopted by the NAIC and as amended by the NAIC from time to time 
+43 in accordance with the procedures adopted by the NAIC.
+Page 3 - 130LR2237(01)1Sec. 7.  24-A MRSA §222, sub-§2, ¶D-7 is enacted to read:
+2 D-7.  "Liquidity stress test" means a method for insurance groups to assess the potential 
+3 effects of liquidity risk to the insurer and to the financial markets.
+4Sec. 8.  24-A MRSA §222, sub-§2, ¶D-8 is enacted to read:
+5 D-8.  “NAIC Liquidity Stress Test Framework” means the NAIC publication that 
+6 includes the applicable scope criteria and liquidity stress test instructions and reporting 
+7 templates, as adopted by the NAIC and amended from time to time in accordance with 
+8 the procedures adopted by the NAIC.
+9Sec. 9.  24-A MRSA §222, sub-§2, ¶E-1 is enacted to read:
+10 E-1.  “Scope criteria” means the designated exposure bases and minimum magnitudes, 
+11 as detailed in the NAIC Liquidity Stress Test Framework, used to establish a 
+12 preliminary list of insurers that are presumptively within the scope of the NAIC 
+13 Liquidity Stress Test Framework.
+14Sec. 10.  24-A MRSA §222, sub-§4-C, ¶C, as amended by PL 2017, c. 169, Pt. B, 
+15 §5, is further amended by amending subparagraph (12) to read:
+16 (12)  An agreement by the person required to file the application to provide the 
+17 annual enterprise risk report required by subsection 8, paragraph B‑1, 
+18 subparagraph (1) for as long as control by the person exists;
+19Sec. 11.  24-A MRSA §222, sub-§8, ¶B-1, as enacted by PL 2013, c. 238, Pt. A, 
+20 §18 and affected by §34, is amended to read:
+21 B-1.  The controlling person with ultimate control of an insurer subject to registration 
+22 shall also file an annual enterprise risk report .  The report must be appropriate to the 
+23 nature, scale and complexity of the operations of the insurance holding company 
+24 system and must, to the best of the controlling person's knowledge and belief, identify 
+25 the material risks within the insurance holding company system, if any, that could pose 
+26 enterprise risk to the insurer  in accordance with subparagraph (1) and, if applicable, 
+27 shall file any additional reports required by this paragraph.  The  report reports must be 
+28 filed with the lead state regulator of the insurance holding company system as 
+29 determined by the procedures within the financial analysis handbook adopted by the 
+30 National Association of Insurance Commissioners;  NAIC Financial Analysis 
+31 Handbook or successor publication.
+32 (1)  The enterprise risk report must be appropriate to the nature, scale and 
+33 complexity of the operations of the insurance holding company system and must, 
+34 to the best of the controlling person’s knowledge and belief, identify the material 
+35 risks within the insurance holding company system, if any, that could pose 
+36 enterprise risk to the insurer.
+37 (2)  Except as otherwise provided in this subparagraph, the ultimate controlling 
+38 person of an insurer subject to registration shall file an annual group capital 
+39 calculation concurrently with the registration required by paragraph A. The report 
+40 must be completed as directed by the lead state regulator in accordance with the 
+41 group capital calculation instructions, which may permit the lead state regulator to 
+42 allow a controlling person that is not the ultimate controlling person to file the 
+43 group capital calculation. 
+Page 4 - 130LR2237(01)1 (a)  An insurance holding company is exempt from filing the group capital 
+2 calculation if it has only one insurer within its holding company structure and 
+3 that insurer is not licensed outside this State to transact insurance, does not 
+4 write business outside this State and does not assume reinsurance from any 
+5 other insurer.
+6 (b)  An insurance holding company is exempt from filing the group capital 
+7 calculation if it is required to perform a group capital calculation specified by 
+8 the Board of Governors of the Federal Reserve System and the lead state 
+9 regulator has obtained the current group capital calculation from the board of 
+10 governors. If this State is the insurance holding company system’s lead state, 
+11 the superintendent shall request the calculation from the board of governors 
+12 under the terms of information sharing agreements in effect.
+13 (c)  An insurance holding company is exempt from filing the group capital 
+14 calculation if its groupwide supervisor is located within a non-United States 
+15 jurisdiction that the superintendent has designated as a reciprocal jurisdiction 
+16 pursuant to section 731-B, subsection 1, paragraph B-3, subparagraph (1), 
+17 division (b) and that recognizes the United States system of group supervision 
+18 and group capital regulation.
+19 (d)  An insurance holding company is exempt from filing the group capital 
+20 calculation if its groupwide supervisor is located in a non-United States 
+21 jurisdiction and:
+22 (i)  The lead state regulator meets the requirements for accreditation under 
+23 the NAIC financial standards and accreditation program and the insurance 
+24 holding company system provides information to the lead state regulator, 
+25 either directly or indirectly through the groupwide supervisor, that the lead 
+26 state regulator has determined to be satisfactory to allow the lead state to 
+27 comply with the NAIC group supervision approach, as detailed in the 
+28 NAIC Financial Analysis Handbook or successor publication; and
+29 (ii)  The groupwide supervisor recognizes and accepts the group capital 
+30 calculation as the worldwide group capital assessment for United States 
+31 insurance groups that operate in that non-United States jurisdiction, 
+32 consistent with criteria specified by the superintendent by rule.
+33 (e)  Notwithstanding divisions (c) and (d), a non-United States-based insurance 
+34 holding company system shall file a group capital calculation limited to its 
+35 United States operations if its lead state regulator determines, after any 
+36 necessary consultation with other supervisors or officials, that requiring a 
+37 United States group capital calculation is appropriate for prudential oversight 
+38 and solvency monitoring purposes or for ensuring the competitiveness of the 
+39 insurance marketplace.
+40 (f)  If this State is an insurance holding company system’s lead state, the 
+41 superintendent may exempt the ultimate controlling person from filing an 
+42 annual group capital calculation or may accept a limited group capital filing or 
+43 report in accordance with criteria specified by the superintendent by rule. An 
+44 exemption or modification granted under a substantially similar law of another 
+45 jurisdiction that is the lead state of an insurance holding company system that 
+Page 5 - 130LR2237(01)46 includes a domestic insurer applies to a filing otherwise required by this 
+47 subparagraph.
+3 (g)  If the lead state regulator determines that an insurance holding company 
+4 system no longer meets one or more of the requirements for an exemption from 
+5 filing the group capital calculation under this subparagraph, the insurance 
+6 holding company system shall file the group capital calculation at the next 
+7 annual filing date unless given an extension by the lead state regulator based 
+8 on reasonable grounds shown.
+9 (3)  The ultimate controlling person of an insurer subject to registration shall file 
+10 the results of a liquidity stress test for each data year for which the insurer’s 
+11 insurance holding company system is within the scope of that year’s NAIC 
+12 Liquidity Stress Test Framework, as determined by the lead state regulator.
+13 (a)  If this State is the lead state, the determination that an insurer is within 
+14 scope or out of scope must be based on whether the insurer or its insurance 
+15 holding company system meets at least one threshold in the applicable scope 
+16 criteria, unless the superintendent determines, in consultation with the NAIC 
+17 Financial Stability Task Force or its successor organization, that there is good 
+18 cause to exclude an insurer or insurance holding company system that meets 
+19 one or more thresholds or to include an insurer or insurance holding company 
+20 system that does not meet any of the thresholds. In making that determination, 
+21 the superintendent shall consider the goal of providing a stable experience base 
+22 and avoiding insurers moving in and out of scope frequently.
+23 (b)  A liquidity stress test under this subparagraph must be performed, and its 
+24 results must be filed, in accordance with the NAIC Liquidity Stress Test 
+25 Framework’s instructions and reporting templates for that data year.
+26 (c)  For the purposes of this subparagraph, any change to the NAIC Liquidity 
+27 Stress Test Framework, including the data to be used in applying the scope 
+28 criteria, is effective on January 1st of the year following the calendar year when 
+29 the change is adopted by the NAIC.
+30Sec. 12.  24-A MRSA §222, sub-§8, ¶B-3, as amended by PL 2021, c. 16, §5, is 
+31 further amended by amending subparagraph (5), division (a) to read:
+32 (a)  Beginning no later than 2015, the ORSA summary report must be prepared 
+33 at least annually, on a timetable consistent with the insurer's internal strategic 
+34 planning processes, and submitted to the lead regulator of the insurer's 
+35 insurance holding company system, as determined by the procedures within a 
+36 financial analysis handbook adopted by the National Association of Insurance 
+37 Commissioners  the NAIC Financial Analysis Handbook or successor 
+38 publication.  If the superintendent is not the lead regulator, the insurer shall 
+39 submit the insurer's or insurance holding company system's most recent ORSA 
+40 summary report to the superintendent on request.
+41Sec. 13.  24-A MRSA §222, sub-§8, ¶C, as amended by PL 2013, c. 238, Pt. A, 
+42 §19 and affected by §34, is further amended to read:
+43 C.  An insurer does not need to disclose on the registration statement filed pursuant to 
+44 this subsection information that is not material to the purposes of this section. Unless 1
+2
+Page 6 - 130LR2237(01)45 the superintendent by rule or order provides otherwise, sales, Sales, purchases, 
+46 exchanges, loans or extensions of credit or investments involving 1/2 of 1% or less of 
+47 an insurer's admitted assets as of December 31st immediately preceding are not 
+48 material for purposes of this section; , except:
+5 (1)  For purposes of the group capital calculation and liquidity stress test in 
+6 accordance with paragraph B-1, subparagraphs (2) and (3);
+7 (2)  When the instructions for a specific filing specify a different materiality 
+8 threshold or specify that no materiality threshold applies; or
+9 (3)  As the superintendent otherwise provides by rule or order.
+10Sec. 14.  24-A MRSA §222, sub-§9, ¶D-1 is enacted to read:
+11 D-1.  If an insurer subject to this Title is determined by the superintendent to be in 
+12 hazardous financial condition as defined by rule or a condition that would be grounds 
+13 for a delinquency proceeding under chapter 57, the superintendent may require the 
+14 insurer to secure and maintain either a deposit, held by the Treasurer of State on behalf 
+15 of the superintendent, or a bond, as determined by the insurer at the insurer’s discretion, 
+16 for the protection of the insurer for the duration of a contract or agreement or the 
+17 duration of the condition for which the superintendent required the deposit or the bond. 
+18 In determining whether a deposit or a bond is required, the superintendent shall 
+19 consider whether concerns exist with respect to the affiliated person’s ability to fulfill 
+20 all of its contracts or agreements if the insurer were to be put into liquidation. If the 
+21 insurer is determined to be in hazardous financial condition or in a condition that would 
+22 be grounds for a delinquency proceeding, and a deposit or bond is required, the 
+23 superintendent has discretion to determine the amount of the deposit or bond, not to 
+24 exceed the aggregate value in any one year of all contracts or agreements secured by 
+25 the deposit or bond, and whether the deposit or bond should be required for a single 
+26 contract, multiple contracts or a contract with a specific person.
+27Sec. 15.  24-A MRSA §222, sub-§9, ¶D-2 is enacted to read:
+28 D-2.  All records and data of the insurer held by an affiliate are and remain the property 
+29 of the insurer, must be subject to control of the insurer, must be identifiable and must 
+30 be segregated or readily capable of segregation, at no additional cost to the insurer, 
+31 from all other persons’ records and data. This includes all records and data that are 
+32 otherwise the property of the insurer, in whatever form maintained, including, but not 
+33 limited to, claims and claim files, policyholder lists, application files, litigation files, 
+34 premium records, rate books, underwriting manuals, personnel records, financial 
+35 records and similar records within the possession, custody or control of the affiliate. At 
+36 the request of the insurer or its receiver, the affiliate shall allow the insurer or receiver 
+37 to obtain a complete set of all records of any type that pertain to the insurer’s business 
+38 and obtain access to the electronic operating systems on which the data is maintained 
+39 or software that runs those systems either through assumption of licensing agreements 
+40 or otherwise and shall restrict the use of the data by the affiliate if it is not operating 
+41 the insurer’s business. The affiliate shall provide a waiver of any landlord lien or other 
+42 encumbrance to give the insurer access to all records and data in the event of the 
+43 affiliate’s default under a lease or other agreement.
+44Sec. 16.  24-A MRSA §222, sub-§9, ¶D-3 is enacted to read:1
+2
+3
+4
+Page 7 - 130LR2237(01)1 D-3.  Premiums or other funds belonging to the insurer that are collected by or held by 
+2 an affiliate are the exclusive property of the insurer and are subject to the control of the 
+3 insurer. Any offset in the event that an insurer is placed into receivership is subject to 
+4 section 4381.
+5Sec. 17.  24-A MRSA §222, sub-§13-A, ¶A, as amended by PL 2017, c. 169, Pt. 
+6 B, §10, is further amended by enacting a new subparagraph (2-A) to read:
+7 (2-A)  Any group capital calculation or liquidity stress test, including all supporting 
+8 information, conducted under the authority of a non-United States financial 
+9 supervisor or the Board of Governors of the Federal Reserve System;
+10Sec. 18.  24-A MRSA §222, sub-§13-A, ¶C, as enacted by PL 2013, c. 238, Pt. A, 
+11 §26 and affected by §34, is amended by amending subparagraph (4) to read:
+12 (4)  ORSA-related information subject to subsection 8, paragraph B‑3 may, with 
+13 the written consent of the insurer, be shared with a 3rd-party consultant under an 
+14 agreement containing the conditions specified in section 216, subsection 5, 
+15 paragraph C  person under contract with the superintendent pursuant to section 208. 
+16 In addition, any agreement for sharing ORSA-related information with the person 
+17 under the contract with the superintendent or with the National Association of 
+18 Insurance Commissioners or a 3rd-party consultant must further provide that:
+19 (a)  The recipient of the information agrees in writing to maintain the 
+20 confidentiality and privileged status of the ORSA-related information and has 
+21 verified in writing the legal authority to maintain confidentiality; and
+22 (b)  Any preauthorization granted under the agreement for further sharing of 
+23 information provided by the superintendent must be limited to only the 
+24 domiciliary regulators of other insurers in the same insurance holding company 
+25 system; and .
+26 ( c)  The National Association of Insurance Commissioners or a 3rd-party 
+27 consultant may not store ORSA-related information shared pursuant to this 
+28 subparagraph in a permanent database after the underlying analysis is 
+29 completed.
+30Sec. 19.  24-A MRSA §222, sub-§13-A, ¶C, as enacted by PL 2013, c. 238, Pt. A, 
+31 §26 and affected by §34, is amended by enacting a new subparagraph (5) to read:
+32 (5)  If the superintendent authorizes a contractor to have access to liquidity stress 
+33 test information provided pursuant to subsection 8, paragraph B-1, subparagraph 
+34 (3), the superintendent shall disclose the identity of the contractor to the applicable 
+35 insurers.
+36Sec. 20.  24-A MRSA §222, sub-§13-A, ¶F is enacted to read:
+37 F.  Except as otherwise required under this section, directly or indirectly publicly 
+38 disseminating a statement in print or electronically regarding a group capital 
+39 calculation required under subsection 8, paragraph B-1, subparagraph (2) or its 
+40 resulting group capital ratio, a liquidity stress test required under subsection 8, 
+41 paragraph B-1, subparagraph (3) or its results or supporting disclosures of any insurer 
+42 or any insurance group or of any component derived in the calculation by any insurer, 
+43 producer or other person engaged in any manner in the insurance business is prohibited. 
+Page 8 - 130LR2237(01)44 The insurer may publish in a written publication an announcement the sole purpose of 
+45 which is to rebut any materially false statement or inappropriate comparison if the 
+46 materially false statement or inappropriate comparison relating to a group capital 
+47 calculation, group capital ratio, liquidity stress test or test results or supporting 
+48 disclosures is published in any written publication and the insurer is able to demonstrate 
+49 to the superintendent with substantial proof the falsity of that statement or the 
+50 inappropriateness, as the case may be.
+8Sec. 21.  24-A MRSA §222, sub-§14-B is enacted to read:
+914-B.  Supervision, seizure, conservatorship or receivership proceedings.  This 
+10 subsection governs an affiliate's obligations under supervision, seizure, conservatorship or 
+11 receivership proceedings against an insurer.
+12 A. An affiliate that is party to an agreement or contract with a domestic insurer that is 
+13 subject to subsection 9, paragraph E, subparagraph (4) is subject to the jurisdiction of 
+14 a supervision, seizure, conservatorship or receivership proceeding against the insurer 
+15 and to the authority of a supervisor, rehabilitator or liquidator for the insurer appointed 
+16 pursuant to chapter 57 for the purpose of interpreting, enforcing and overseeing the 
+17 affiliate’s obligations under the agreement or contract to perform services for the 
+18 insurer that are: 
+19 (1) An integral part of the insurer’s operations, including, but not limited to, 
+20 management, administrative, accounting, data processing, marketing, 
+21 underwriting, claims handling and investment functions and any other similar 
+22 functions; or 
+23 (2) Essential to the insurer’s ability to fulfill its obligations under insurance 
+24 policies. 
+25 B. The superintendent may require that an agreement or contract subject to subsection 
+26 9, paragraph E, subparagraph (4) for the provision of services described in paragraph 
+27 A, subparagraph (1) or (2) specify that the affiliate consents to jurisdiction as set forth 
+28 in this subsection.
+29Sec. 22.  24-A MRSA §423-G, sub-§1, ¶E, as enacted by PL 2017, c. 169, Pt. A, 
+30 §5, is repealed.
+31Sec. 23.  24-A MRSA §423-G, sub-§4-A is enacted to read:
+324-A.  Sharing CGAD information with the NAIC.  The superintendent may share 
+33 confidential information provided or obtained under this section with the NAIC only in 
+34 accordance with a written agreement that contains the provisions specified in section 216, 
+35 subsection 5, paragraph C and the following additional provisions:  
+36 A. Procedures and protocols for sharing by the NAIC only with other state regulators 
+37 from states in which the insurance group has domiciled insurance carriers. The 
+38 agreement must provide that the recipient agrees to maintain the confidentiality and 
+39 privileged status of the CGAD-related documents, materials or other information and 
+40 must document the NAIC’s legal authority to maintain confidentiality;  
+41 B. A provision requiring the NAIC to provide prompt notice to the superintendent, in 
+42 addition to the notice to the domestic insurance carrier or insurance group required by 
+43 section 216, regarding any subpoena, request for disclosure or request for production 1
+2
+3
+4
+5
+6
+7
+Page 9 - 130LR2237(01)44 of the domestic insurance carrier’s or insurance group’s CGAD-related information; 
+45 and  
+3 C. A provision expressly requiring the written consent of the domestic insurance carrier 
+4 before any information shared pursuant to this section may be made public.
+5Sec. 24.  24-A MRSA §423-G, sub-§5, as enacted by PL 2017, c. 169, Pt. A, §5, 
+6 is amended to read:
+75.  NAIC and independent Independent consultants.  This subsection governs 
+8 independent consultants retained to review corporate governance annual disclosure and 
+9 compliance with this section.
+10 A.  The superintendent may retain, at the domestic insurance carrier's expense, 
+11 independent consultants as provided in section 208, including attorneys, actuaries, 
+12 accountants and other experts as may be reasonably necessary to assist the 
+13 superintendent in reviewing the CGAD and related information or the domestic 
+14 insurance carrier's compliance with this section.
+15 B.  Any persons retained under paragraph A must be under the direction and control of 
+16 the superintendent, are subject to the same confidentiality standards and requirements 
+17 as the superintendent and must act in a purely advisory capacity  are subject to the 
+18 requirements of section 216, subsection 5, paragraph B-1.
+19 C.  The superintendent may not retain an independent consultant that has not verified 
+20 to the superintendent, with notice to the domestic insurance carrier, that it is free of a 
+21 conflict of interest and that it has internal procedures in place to monitor ongoing 
+22 freedom from conflicts and to comply with the confidentiality standards and 
+23 requirements of this section.
+24 D.  The superintendent may share confidential information provided or obtained under 
+25 this section with the NAIC only in accordance with a written agreement that contains 
+26 the provisions specified in section 216, subsection 5, paragraph C and the following 
+27 additional provisions:
+28 ( 1)  Procedures and protocols for sharing by the NAIC only with other state 
+29 regulators from states in which the insurance group has domiciled insurance 
+30 carriers.  The agreement must provide that the recipient agrees to maintain the 
+31 confidentiality and privileged status of the CGAD-related documents, materials or 
+32 other information and must document the NAIC's legal authority to maintain 
+33 confidentiality;
+34 ( 2)  A provision that prohibits the NAIC from storing the information shared 
+35 pursuant to this section in a permanent database after the underlying analysis is 
+36 completed;
+37 ( 3)  A provision requiring the NAIC to provide prompt notice to the superintendent, 
+38 in addition to the notice to the domestic insurance carrier or insurance group 
+39 required by section 216, regarding any subpoena, request for disclosure or request 
+40 for production of the domestic insurance carrier's or insurance group's CGAD-
+41 related information; and
+42 ( 4)  A provision expressly requiring the written consent of the domestic insurance 
+43 carrier before any information shared pursuant to this section may be made public.1
+2
+Page 10 - 130LR2237(01)1 E.  The superintendent may share confidential information provided or obtained under 
+2 this section with an independent consultant only in accordance with a written 
+3 agreement that makes compliance with the confidentiality requirements of this section 
+4 one of the consultant's duties as a state contractor and includes all protections that the 
+5 NAIC is required to provide in an agreement entered into under paragraph D  subsection 
+6 4-A.
+7Sec. 25.  24-A MRSA §951-A, sub-§2, as enacted by PL 2013, c. 238, Pt. C, §2, is 
+8 repealed.
+9Sec. 26.  24-A MRSA §992, sub-§2, as enacted by PL 2007, c. 281, §2 and affected 
+10 by §3, is repealed.
+11Sec. 27.  24-A MRSA §6451, sub-§5, as enacted by PL 1993, c. 634, Pt. A, §1, is 
+12 repealed.
+13SUMMARY
+14 This bill amends the Maine Revised Statutes, Title 24-A, section 222 to enact the most 
+15 recent revisions to the National Association of Insurance Commissioners Holding 
+16 Company Model Act, which establish the group capital calculation and liquidity stress test 
+17 framework and provide additional safeguards to ensure the performance of contracts 
+18 between a domestic insurer and its noninsurer affiliates.  The bill also provides a uniform 
+19 definition of “National Association of Insurance Commissioners” or “NAIC” throughout 
+20 Title 24-A and a unified framework for controlling access to confidential information when 
+21 the Department of Professional and Financial Regulation, Bureau of Insurance engages 
+22 outside contractors.14
+15
+16
+17
+18
+19
+20
+21
+22

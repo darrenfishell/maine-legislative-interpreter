@@ -1,0 +1,226 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1379  
+H.P. 934  House of Representatives, April 29, 2015  
+ 
+ 
+An Act To Establish Transportation Network Company Insurance  
+ 
+ 
+ 
+ 
+Reference to the Committee on Insurance and Financial Services suggested and ordered 
+printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative BECK of Waterville.  
+Cosponsored by Representative: McLEAN of Gorham.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1441(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  24-A MRSA c. 93 is enacted to read:  2 
+CHAPTER 93  3 
+TRANSPORTATION NETWO RK COMPANY INSURANCE  4 
+§7301.  Short title  5 
+This chapter may be known and cited as "the Transportation Network Company 6 
+Insurance Act."  7 
+§7302.  Definitions  8 
+As used in this chapter, unless the context otherwise indicates, the following terms 9 
+have the following meanings.  10 
+1.  Digital network.   "Digital network" means any online -enabled application, 11 
+software, website or system of fered or used by a transportation network company that 12 
+enables the provision of prearranged rides by transportation network company drivers.  13 
+2.  Personal vehicle.   "Personal vehicle" means a vehicle that:  14 
+A.  Is used by a transportation network company dri ver; 15 
+B.  Is owned, leased or otherwise authorized for use by the transportation network 16 
+company driver; and  17 
+C.  Is not a taxicab, as defined in Title 29 -A, section 101, subsection 79, a limousine, 18 
+as defined in Title 29 -A, section 101, subsection 32 or for -hire transportation as 19 
+defined in Title 29 -A, section 101, subsection 25.  20 
+3.  Prearranged ride.   "Prearranged ride" means transportation provided by a 21 
+transportation network company driver to a transportation network company rider, 22 
+beginning when the driv er accepts a transportation request through a digital network and 23 
+ending when the rider departs from the driver's personal vehicle.  "Prearranged ride" does 24 
+not include transportation provided using a taxi, limousine or other for -hire vehicle.  25 
+4.  Transpor tation network company.   "Transportation network company" means a 26 
+corporation, partnership, sole proprietorship or other entity that is licensed pursuant to 27 
+this chapter and is operating in the State and that uses a digital network to connect 28 
+transportatio n network company riders to transportation network company drivers who 29 
+provide prearranged rides.  30 
+5.  Transportation network company driver; driver.   "Transportation network 31 
+company driver" or "driver" means an individual who:  32 
+A.  Receives information rega rding potential passengers and related services from a 33 
+transportation network company in exchange for payment of a fee to the 34 
+transportation network company; and  35 
+ 
+ Page 2 - 127LR1441(01) -1 
+ B.  Uses a personal vehicle to offer or provide prearranged rides to a transportation 1 
+network company rider in return for compensation or payment of a fee.  2 
+6.  Transportation network company rider; rider.   "Transportation network 3 
+company rider" or "rider" means an individual or person who uses a transportation 4 
+network company's digital network to c onnect with a transportation network company 5 
+driver for a ride between locations chosen by the rider.  6 
+§7303.  Control by transportation network company  7 
+A transportation network company is not deemed to control, direct or manage the 8 
+transportation network company drivers that connect to the transportation network 9 
+company's digital network, or the drivers' personal vehicles, except as expressly provided 10 
+in a written contract between the driver and the transportation network company.  11 
+§7304.  Financial respons ibility  12 
+1.  Insurance coverage required.   Beginning October 1, 2015, a transportation 13 
+network company driver or a transportation network company on the driver's behalf shall 14 
+maintain primary automobile liability insurance that recognizes that the driver is  a 15 
+transportation network company driver or otherwise uses a vehicle to transport 16 
+passengers for compensation and that covers the driver in accordance with this section.  17 
+2.  Minimum insurance requirements for driver while on digital network.   A 18 
+transportat ion network company driver must have primary automobile liability insurance 19 
+that provides coverage while the driver is logged on to the transportation network 20 
+company digital network but is not engaged in a prearranged ride in amounts that are no 21 
+less than  set forth in paragraph A or paragraph B, whichever is higher:  22 
+A.  For death and bodily injury, $50,000 per person; for death and bodily injury per 23 
+incident, $100,000;  and for property damage, $25,000; or  24 
+B.  The minimum amounts of insurance coverage requ ired under Title 29 -A, section 25 
+1605, and uninsured vehicle and underinsured motor vehicle coverage required 26 
+pursuant to section 2902.  27 
+The coverage requirements of this subsection may be satisfied by automobile insurance 28 
+maintained by the transportation net work company driver, automobile insurance 29 
+maintained by the transportation network company or a combination of automobile 30 
+insurance maintained by the transportation network company driver and the 31 
+transportation network company.  32 
+3.  Minimum insurance requir ements while engaged in prearranged ride.   A 33 
+transportation network company driver must have primary automobile liability insurance 34 
+that provides coverage while the driver is engaged in a prearranged ride in amounts that 35 
+are no less than set forth in parag raph A or paragraph B, whichever is higher:  36 
+A.  For death, bodily injury and property damage, $1,000,000; or  37 
+B.  The minimum amounts of insurance coverage required under Title 29 -A, section 38 
+1605, and uninsured vehicle and underinsured motor vehicle coverag e required 39 
+pursuant to section 2902.  40 
+ 
+ Page 3 - 127LR1441(01) -1 
+ The coverage requirements of this subsection may be satisfied by automobile insurance 1 
+maintained by the transportation network company driver, automobile insurance 2 
+maintained by the transportation network company or a c ombination of automobile 3 
+insurance maintained by the transportation network company driver and the 4 
+transportation network company.  5 
+4.  Lapse of coverage; duty to defend.   When automobile insurance maintained by a 6 
+transportation network company driver to fu lfill the insurance obligations of this section 7 
+has lapsed or ceased to exist, the transportation network company shall provide the 8 
+coverage required by this section beginning with the 1st dollar of a claim, and the 9 
+transportation network company has a dut y to defend the claim.  10 
+5.  Coverage not dependent on denial of claim.   Coverage under an automobile 11 
+insurance policy maintained by a transportation network company may not be dependent 12 
+on the denial of the claim under a personal automobile insurance policy . 13 
+6.  Insurer.   Insurance required by this section may be placed with an insurer that is 14 
+licensed under the provisions of this Title or is authorized as a surplus lines insurer 15 
+pursuant to chapter 19.  16 
+7.  Satisfaction of financial responsibility requiremen ts.  Insurance satisfying the 17 
+requirements of this section is deemed to satisfy the financial responsibility requirement 18 
+for a motor vehicle set forth in section 2902 and Title 29 -A, section 1605.  19 
+8.  Evidence of coverage for transportation network company  insurance.   A 20 
+transportation network company driver shall carry at all times evidence of coverage 21 
+satisfying subsections 1 and 2 during the driver's use of a vehicle in connection with a 22 
+transportation network company's digital network. A transportation n etwork company 23 
+driver shall provide evidence of insurance coverage to a law enforcement officer upon 24 
+request and, in the event of an accident, a transportation network company driver shall 25 
+provide insurance coverage information to the directly interested p arties, automobile 26 
+insurers and investigating police officers, upon request pursuant to Title 29 -A, section 27 
+1601.  Upon request, a transportation network company driver shall also disclose to 28 
+directly interested parties, automobile insurers and investigati ng police officers whether 29 
+the driver was logged on to the transportation network company's digital network or 30 
+engaged in a prearranged ride at the time of an accident.  31 
+§7305.  Disclosure  32 
+Before a transportation network company driver may accept a request for a 33 
+prearranged ride through the transportation network company's digital network, the 34 
+transportation network company shall disclose in writing to the driver:  35 
+1.  Coverage provided.   The insurance coverage, including the types of coverage and 36 
+the limits for each coverage, that the transportation network company provides while the 37 
+transportation network company driver uses a personal vehicle in connection with a 38 
+transportation network company's digital network; and  39 
+2.  Personal policy may not cover.   That the transportation network company 40 
+driver's own automobile insurance policy, depending on the policy's terms, might not 41 
+ 
+ Page 4 - 127LR1441(01) -1 
+ provide any coverage while the driver is logged on to the transportation network 1 
+company's digital network and is available to receive t ransportation requests, or while the 2 
+driver is engaged in a prearranged ride.  3 
+§7306.  Automobile insurance provisions  4 
+1.  Exclude coverage.   Notwithstanding section 2902 or Title 29 -A, section 1605, an 5 
+insurer that writes automobile insurance in this State  may exclude coverage afforded 6 
+under the policy issued to an owner or operator of a personal vehicle for any loss or 7 
+injury that occurs while a driver is logged on to a transportation network company's 8 
+digital network or while a driver is engaged in a prea rranged ride. The authority to 9 
+exclude coverage applies to any coverage included in an automobile insurance policy 10 
+including, but not limited to:  11 
+A.  Liability coverage for bodily injury and property damage;  12 
+B.  Uninsured vehicle and underinsured motor veh icle coverage;  13 
+C.  Medical payments coverage;  14 
+D.  Comprehensive physical damage coverage; and  15 
+E.  Collision physical damage coverage.  16 
+Nothing in this section requires that a personal automobile insurance policy provide 17 
+coverage while the driver is logged o n to the transportation network company's digital 18 
+network, the driver is engaged in a prearranged ride or the driver otherwise uses a vehicle 19 
+to transport passengers for compensation.  20 
+Nothing in this section may be construed to preclude an insurer from ent ering into a 21 
+contract to provide coverage for a transportation network company driver's personal 22 
+vehicle.  23 
+2.  No duty to indemnify.  If an insurer has excluded coverage described in section 24 
+7304, the insurer has no duty to defend or indemnify any claim expr essly excluded. 25 
+Nothing in this chapter may be construed to invalidate or limit an exclusion contained  in  26 
+a  policy,  including any policy in use or approved for use in this State prior to the 27 
+enactment of this chapter, that excludes coverage for vehicle s used to carry persons or 28 
+property for a charge or available for hire by the public.  29 
+3.  Right of contribution.   An automobile insurer that defends or indemnifies a claim 30 
+against a driver that is excluded under the terms of its policy has a right of contr ibution 31 
+against other insurers that provide automobile insurance to the same driver in satisfaction 32 
+of the coverage requirements of section 7304 at the time of loss.  33 
+4.  Cooperation.   In a claims coverage investigation, a transportation network 34 
+company and  any insurer potentially providing coverage under section 7304 shall 35 
+cooperate to facilitate the exchange of relevant information with directly involved parties 36 
+and any insurer of the transportation network company driver if applicable, including but 37 
+not limited to:  38 
+A.  The precise times that a transportation network company driver logged on to and 39 
+off of the transportation network company's digital network in the 12 -hour period 40 
+ 
+ Page 5 - 127LR1441(01) -1 
+ immediately preceding and in the 12 -hour period immediately following the accid ent; 1 
+and 2 
+B.  A clear description of the coverage, exclusions and limits provided under any 3 
+automobile insurance maintained under this chapter.  4 
+SUMMARY  5 
+This bill establishes requirements for insurance coverage relating to the operation of 6 
+transportation net work companies in the State, which are companies that provide 7 
+prearranged transportation services for compensation using a digital network to connect a 8 
+passenger with a driver using a personal vehicle.  9 
+ 

@@ -1,0 +1,142 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1257
+H.P. 918 House of  Representatives, March 14, 2019
+An Act  To Prepare Maine for a Low-carbon Transportation Future
+Reference to the Committee on Transportation  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BRYANT of Windham.
+Cosponsored by Senator MIRAMANT  of Knox and
+Representatives: COLLINGS of  Portland, McLEAN  of Gorham,  RYKERSON of Kittery, 
+SHEATS of Auburn, Senators: CHIPMAN of Cumberland, CLAXTON of Androscoggin.
+
+Page 1 - 129LR2177(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  29-A MRSA §101, sub-§22-B is enacted to read:
+322-B.  Electric vehicle.  "Electric vehicle" means a fully electric vehicle that has an 
+4on-board electrical energy storage device that is designed to be recharged using an 
+5external energy source or a vehicle that is designed to operate using electricity produced 
+6from compressed hydrogen fuel.
+7Sec. 2.  29-A MRSA §501, sub-§13 is enacted to read:
+813.  Electric vehicle registration surcharge.  In addition to the payment of other 
+9applicable registration fees under this section, and except as otherwise provided in this 
+10subsection, the Secretary of State shall by rule adopted in accordance with this subsection 
+11require payment of an annual electric vehicle registration surcharge by the owner of an 
+12electric vehicle.
+13A.  Except as provided in paragraph B, the annual electric vehicle registration 
+14surcharge under this subsection must be $25, except that the Secretary of State may 
+15not require payment of a surcharge under this subsection until the Secretary of State 
+16determines that at least 3,000 electric vehicles are annually registered pursuant to this 
+17chapter.
+18B.  The annual electric vehicle registration surcharge under this subsection must be 
+19increased to $50 upon a determination by the Secretary of State that at least 10,000 
+20electric vehicles are annually registered pursuant to this chapter.
+21C.  Notwithstanding section 409 or any other provision of law to the contrary,  the 
+22rules adopted under this subsection must provide that the surcharges collected 
+23pursuant to this subsection must be retained by the municipality that collects the 
+24surcharges.  No less than 50% of the annual surcharges collected by a municipality 
+25pursuant to this subsection must be used by the municipality to construct or modify 
+26public infrastructure that facilitates the charging of electric vehicles for use by the 
+27general public or for other purposes that encourage or support the purchase and use 
+28by the general public of electric vehicles.
+29Sec. 3.  Electric vehicle task force; report.  In accordance with the provisions 
+30of this section, the Director of the Governor's Energy Office, referred to in this section as 
+31"the director," in consultation with the Secretary of State and the Commissioner of 
+32Transportation, shall convene an electric vehicle task force, referred to in this section as 
+33"the task force."
+341.  The director shall invite, at a minimum, representatives of the Office of the 
+35Secretary of State, the Department of Transportation, environmental and energy 
+36efficiency advocacy groups and other interested parties to participate on the task force.
+372.  The task force shall, at a minimum, examine and make recommendations 
+38regarding the following matters:
+Page 2 - 129LR2177(01)-11A.  Proposals for increasing the use of electric vehicles by residents of the State, for 
+2both personal and commercial use;
+3B.  Proposals for the construction of the electric vehicle infrastructure necessary to 
+4support increased use of electric vehicles statewide, including, but not limited to, the 
+5construction of electric vehicle charging stations along primary travel corridors;
+6C.  Development of 5-year and 10-year electric vehicle action plans based upon the 
+7electric-vehicle-related goals identified by the task force under paragraphs A and B; 
+8and
+9D.  Proposals regarding the use of funds distributed or to be distributed to the State 
+10pursuant to the Volkswagen Partial Consent Decree to support the electric-vehicle-
+11related goals identified by the task force under paragraphs A and B.
+123.  No later than February 15, 2020, the director shall submit a report regarding the 
+13findings and recommendations of the task force, including any proposed legislation, to 
+14the Joint Standing Committee on Energy, Utilities and Technology and the Joint Standing 
+15Committee on Transportation.  After reviewing the report, the committees are authorized 
+16to report out legislation relating to the findings and recommendations in the report to the 
+17Second Regular Session of the 129th Legislature.
+18Sec. 4.  Department of Transportation; long-term planning; report.  The 
+19Commissioner of Transportation shall:
+201.  Review short-term and long-term planning and infrastructure investments of the 
+21Department of Transportation to develop strategies and recommendations to address 
+22reasonably expected effects of climate change, such as temperature changes, sea level 
+23rise, increased rainfall and increased water flows; to address increasing numbers of 
+24electric vehicles, both personal and commercial; and to address increasing use of ride-
+25sharing and vehicle-sharing services and autonomous vehicles;
+262.  Analyze and propose benchmarks for ensuring that an adequate proportion of 
+27Highway Fund revenue in the future is attributable to sources other than the gasoline tax;
+283.  Initiate at least 2 pilot programs to explore and test alternative structures for road 
+29usage fees, at least one of which must be designed to test a road usage fee based on 
+30vehicle miles traveled; and
+314.  In consultation with the Public Utilities Commission, the Governor's Energy 
+32Office and other stakeholders as determined by the commissioner, assess the long-term 
+33potential for assessing fees on electricity and on public electric vehicle charging to raise 
+34additional Highway Fund revenue.
+35On or before February 15, 2021, the Commissioner of Transportation shall submit a 
+36report regarding any findings and recommendations of the Department of Transportation 
+37following completion of the actions required under this section to the joint standing 
+38committees of the Legislature having jurisdiction over energy, utilities and technology 
+39matters and transportation matters.  The report must include any proposed legislation 
+40necessary to implement the recommendations in the report.  After reviewing the report, 
+Page 3 - 129LR2177(01)-11the committees are authorized to report out legislation to implement the findings and 
+2recommendations in the report to the First Regular Session of the 130th Legislature.
+3SUMMARY
+4This bill authorizes the Secretary of State to require the owner of an electric vehicle 
+5to pay an electric vehicle registration surcharge of $25 per year when at least 3,000 
+6electric vehicles are annually registered in the State.  The amount of the surcharge 
+7increases to $50 per year when at least 10,000 electric vehicles are annually registered in 
+8the State.  The municipality that collects the annual electric vehicle registration surcharge 
+9is required to expend no less than 50% of the surcharge to construct or modify public 
+10infrastructure that facilitates the charging of electric vehicles for use by the general public 
+11or for other purposes that encourage or support the purchase and use by the general public 
+12of electric vehicles.
+13The bill also directs the Governor's Energy Office to convene an electric vehicle task 
+14force, which is charged with reviewing a number of matters relating to electric vehicles 
+15and electric vehicle infrastructure.  The director of the office is required to report by 
+16February 15, 2020 to the Joint Standing Committee on Energy, Utilities and Technology 
+17and the Joint Standing Committee on Transportation regarding any recommendations of 
+18the task force, including proposed legislation.  After reviewing the report, the committees 
+19may report out legislation to the Second Regular Session of the 129th Legislature.
+20The bill also directs the Commissioner of Transportation to take a number of actions 
+21regarding short-term and long-term planning for road infrastructure and highway funding, 
+22including a review of potential new vehicle or road use fees.  The commissioner is 
+23directed to report by February 15, 2021 to the joint standing committees of the 
+24Legislature having jurisdiction over energy, utilities and technology matters and 
+25transportation matters regarding those actions and including any findings and 
+26recommendations and proposed legislation necessary to implement those 
+27recommendations.  After reviewing the report, the committees may report out legislation 
+28to the First Regular Session of the 130th Legislature.

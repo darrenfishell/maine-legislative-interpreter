@@ -1,0 +1,890 @@
+Commonwealth v. Purnell
+Supreme Court of Pennsylvania
+April 14, 2021, Argued; September 22, 2021, Decided
+No. 71 MAP 2020
+Reporter
+259 A.3d 974 *; 2021 Pa. LEXIS 3610 **
+COMMONWEALTH OF PENNSYLVANIA, Appellee v. 
+SHERON JALEN PURNELL, Appellant
+Prior History:  [**1] Appeal from the Order of the Superior 
+Court at No. 1646 EDA 2019 dated May 28, 2020 Affirming the 
+Judgment of Sentence in the Chester County Court of Common 
+Pleas, Criminal Division, at No. CP-15-CR-4353-2016 dated 
+March 18, 2019.
+Commonwealth v. Purnell, 2020 PA Super 127, 233 A.3d 824, 
+2020 Pa. Super. LEXIS 440 (Pa. Super. Ct., May 28, 2020)
+Case Summary
+Overview
+HOLDINGS: [1]-The trial court did not abuse its discretion in 
+allowing a witness to testify with the assistance of a comfort dog 
+because it balanced the degree to which the accommodation will 
+assist the witness in testifying in a truthful manner against any 
+possible prejudice to defendant's right to a fair trial. Trial courts 
+had broad discretion in controlling trial conduct and Pa. R. 
+Evid. 611 allowed a trial court to consider whether a comfort 
+dog could assist a witness in testifying in a truthful manner 
+during a trial.
+Outcome
+Judgment affirmed.
+LexisNexis® Headnotes
+Criminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Fair Trial
+HN1 [ ]  Defendant's Rights, Right to Fair Trial
+A trial court should balance the degree to which the 
+accommodation of a comfort dog for support during a witness's 
+trial testimony will assist the witness in testifying in a truthful manner against any possible prejudice to the defendant's right to 
+a fair trial.
+Criminal Law & Procedure > ... > Standards of 
+Review > De Novo Review > Conclusions of Law
+HN2 [ ]  De Novo Review, Conclusions of Law
+Issues of first impression present a court with a question of law. 
+Accordingly, the scope of review is plenary, and the standard of 
+review is de novo.
+Governments > Courts > Authority to Adjudicate
+HN3 [ ]  Courts, Authority to Adjudicate
+It is indisputable that trial courts have broad discretion in 
+controlling trial conduct. A court's power to maintain 
+courtroom authority has long been upheld.
+Criminal Law & Procedure > Trials > Examination of 
+Witnesses
+Evidence > Types of 
+Evidence > Testimony > Examination
+HN4 [ ]  Trials, Examination of Witnesses
+Pa. R. Evid. 611 clearly and unambiguously confers upon trial 
+courts reasonable control over the mode of examining witnesses 
+and the ability to employ procedures aimed at determining the 
+truth. Rule 611(a)(1). This language is sufficiently 
+comprehensive to allow a trial court to consider whether a 
+comfort dog may assist a witness in testifying in a truthful 
+manner during a trial.
+Evidence > Rule Application & Interpretation
+
+Page 2 of 10
+Governments > Courts > Rule Application & 
+Interpretation
+HN5 [ ]  Evidence, Rule Application & Interpretation
+When interpreting the Rules of Evidence, the Supreme Court of 
+Pennsylvania ascribes to the words of those rules their plain and 
+ordinary meaning.
+Criminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Fair Trial
+HN6 [ ]  Defendant's Rights, Right to Fair Trial
+With regard to a trial court's discretion to permit a dog to 
+provide support to a testifying witness, it must balance the 
+extent to which the accommodation will help the witness to 
+testify reliably and completely against any possible prejudice to 
+the defendant's right to a fair trial. In so doing, the trial court 
+should consider the particular facts and circumstances for the 
+request to have a dog accompany the particular witness, the 
+extent to which the dog's presence will permit the witness to 
+testify truthfully, completely and reliably, and the extent to 
+which the dog's presence will obviate the need for more drastic 
+measures to secure the witness' testimony. The trial court should 
+balance these factors against the potential prejudice to the 
+defendant and the availability of measures to mitigate any 
+prejudice, such as limiting instructions and procedures to limit 
+the jury's view of the dog. This balancing test guides a trial court 
+to consider carefully the extent to which a comfort dog may 
+assist a witness with providing truthful testimony, while 
+balancing the need for that accommodation against potential 
+prejudice to defendant. Particularly persuasive is the 
+requirement that a trial court seek to minimize any potential 
+prejudice to the defendant by considering the dog's training, 
+providing limiting instructions, and employing means to limit 
+the jury from viewing the dog.
+Criminal Law & Procedure > Juries & Jurors > Jury 
+Deliberations > Ability to Follow Instructions
+HN7 [ ]  Jury Deliberations, Ability to Follow Instructions
+The law presumes that the jury will follow the instructions of 
+the court.
+Criminal Law & Procedure > Appeals > Standards of 
+Review > Abuse of DiscretionCriminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Fair Trial
+HN8 [ ]  Standards of Review, Abuse of Discretion
+Trial courts have the discretion to permit a witness to testify 
+with the assistance of a comfort dog. In exercising that 
+discretion, courts should balance the degree to which the 
+accommodation will assist the witness in testifying in a truthful 
+manner against any possible prejudice to the defendant's right to 
+a fair trial and employ means to mitigate any such prejudice. An 
+abuse of discretion occurs when a court has reached a 
+conclusion which overrides or misapplies the law, or where the 
+judgment exercised is manifestly unreasonable, or the result of 
+partiality, prejudice, bias or ill-will.
+Counsel: For Purnell, Sheron Jalen, Appellant: Heller, Maria T., 
+Chester County Public Defender's Office, Chester County Pd's 
+Office, West Chester, PA; Merrick, John R., Kennett Square, 
+PA.
+For Commonwealth of Pennsylvania, Appellee: Casenta, 
+Nicholas J., Jr., Ryan, Deborah S., Walschburger, Erik Thomas, 
+Chester County District Attorney's Office, West Chester, PA.
+For Pennsylvania Office of Attorney General, Amicus Curiae: 
+Eisenberg, Ronald, Pennsylvania Attorney General's Office, 
+Philadelphia, PA.
+For Animal Legal Defense Fund, Assoc. of Prosecuting 
+Attorneys & Lutheran Church Charities, Amicus Curiae: Myers, 
+Karl Stewart, Stradley, Ronon, Stevens & Young, LLP, Stradley 
+Ronon Et Al, Philadelphia, PA; Perry, Melissa Lynn, Stradley 
+Ronon Stevens & Young, Philadelphia, PA.
+Judges: BAER, C.J., SAYLOR, TODD, DONOHUE, 
+DOUGHERTY, WECHT, MUNDY, JJ. Justices Saylor, Todd, 
+Dougherty, Wecht and Mundy join the opinion. Justice 
+Donohue files a concurring opinion.
+Opinion by: BAER
+Opinion
+ [*977]  CHIEF JUSTICE BAER
+We granted [**2]  allowance of appeal in this matter to consider 
+the appropriate test to apply to a trial court's determination 
+concerning whether a witness in a criminal case may utilize a 
+"comfort dog" for support during his or her trial testimony. 
+HN1 [ ] We hold that a trial court should balance the degree to 
+which the accommodation will assist the witness in testifying in 
+a truthful manner against any possible prejudice to the 
+259 A.3d 974, *974 ; 2021 Pa. LEXIS 3610, **1
+Page 3 of 10
+defendant's right to a fair trial. Here, the trial court allowed a 
+witness to testify with the assistance of a comfort dog, and the 
+Superior Court concluded that the trial court did not abuse its 
+discretion in this regard. For the reasons stated below, we agree 
+with the Superior Court and, therefore, affirm that court's 
+judgment.
+I. Background
+On October 3, 2016, Kevin Jalbert ("Victim") was shot seven 
+times in Coatesville, Pennsylvania, and died as the result of the 
+shooting. Several persons witnessed the incident, including 
+Justin Griest and A.H.1 Appellant was identified as the shooter, 
+and the Commonwealth charged him with first-degree murder, 
+third-degree murder, and firearms not to be carried without a 
+license.
+Prior to Appellant's trial, the Commonwealth filed two motions 
+that [**3]  are relevant to the instant appeal. First, the 
+Commonwealth filed a motion explaining that, when a Chester 
+County detective interviewed A.H. on the day of the murder, 
+she informed him that she witnessed the shooter pull out his 
+gun and that, before the shooter fled the scene, he saw her and 
+pointed his gun at her. Commonwealth's Motion In Limine for 
+the Admissibility of Witness Intimidation, 11/14/2018, at ¶2. 
+A.H. also reported that she observed a gang in the area of the 
+incident on the day of the shooting. Id.
+This motion further explained that, on September 2, 2018, 
+almost two years after the shooting, A.H. was with Justin Griest 
+when he was assaulted at a gas station in Coatesville. Id. at ¶5. 
+When police interviewed A.H. about the assault, she stated that 
+she was afraid to speak about the group who committed the act 
+because they were part of the gang that she saw when Victim 
+was murdered. Id. at ¶6. A.H. also shared that she did not want 
+to testify about the assault because she feared that someone 
+from the gang would shoot her. Id. at ¶7. On November 7, 
+2018, A.H. provided police with an audio and video recorded 
+statement regarding the assault on Griest and her fear of 
+retaliation. [**4]  Id. at ¶8. Concerned that A.H. may refuse to 
+testify at Appellant's trial in a manner consistent with the 
+statement that she gave to police on the day of the shooting, the 
+Commonwealth asked the trial court, inter alia, to allow it to 
+present to the jury A.H.'s November 2018 statement regarding 
+the intimidation that she and Griest suffered. Id. at ¶¶ 10-13.
+On the same day that the Commonwealth filed this motion in 
+limine, it also filed a motion entitled "Commonwealth's Motion 
+for Special Procedures During the Presentation of the 
+1 A.H. was 13 years old at the time of the shooting. N.T., 11/19/2018, 
+at 11.Testimony of Child Witnesses" ("Motion for Special 
+Procedures"). Pertinent to the instant appeal, the 
+Commonwealth requested that a "comfort  [*978]  dog"2 be 
+present during A.H.'s trial testimony. Motion for Special 
+Procedures, 11/14/2018, at ¶3. The motion explained that a 
+sheriff's deputy would transport the comfort dog, Melody, to 
+the court and that the dog would enter the courtroom before 
+the jury's entrance. Id. at ¶4. According to the motion, the 
+comfort dog would be placed in the witness stand outside the 
+presence of the jury and would exit the courtroom after the jury 
+left the room. Id.
+On November 19, 2018, the trial court held a hearing on several 
+motions, [**5]  including those described above. During the 
+course of that hearing, it was revealed the A.H. is autistic. N.T., 
+11/19/2018, at 30. In addition to explaining its motion 
+regarding the comfort dog, the Commonwealth noted that the 
+dog was trained for the purpose of accompanying witnesses in 
+court. Id. at 50. In response to the Commonwealth's motion, 
+Appellant's counsel stated his concern that the jury would see 
+the dog and feel sympathy for A.H. Id. Defense counsel also 
+feared that A.H. may comment on the presence of the dog 
+given her alleged propensity to get distracted. Id. at 50-51.
+The trial court acknowledged Appellant's concerns and 
+conceded that it had no experience with comfort dogs in the 
+courtroom. Id. at 51-52. When the court asked the prosecutor 
+whether A.H. needed the assistance of a comfort dog due to her 
+autism, counsel replied that the dog was necessary due to A.H.'s 
+fear for her safety. Id. at 53. The court reserved making a 
+decision on the issue.
+On the day that the Commonwealth intended to call A.H. as a 
+witness at trial, the trial court announced its ruling concerning 
+the use of the comfort dog. The court explained that, while it 
+found case law on the issue from other [**6]  jurisdictions, it 
+was unable to locate any Pennsylvania jurisprudence that 
+addressed the use of comfort dogs in courtrooms. N.T., 
+11/28/2018, at 4-5. The court then ruled that it would permit 
+the comfort dog to accompany A.H. during her testimony, 
+though the court asserted that it would refer to the animal as a 
+"service dog" to lessen the likelihood that the dog's presence 
+would engender sympathy from the jury. Id. at 5.
+The trial court further explained that the dog would be hidden 
+under the witness stand but that it nonetheless was likely that 
+the jury would notice the dog. Id. at 6. The court announced the 
+manner in which it would manage the situation as follows:
+2 The Commonwealth did not provide a definition of the term 
+"comfort dog" in its motion. As mentioned infra, at the hearing on this 
+motion, the Commonwealth explained that the dog was trained to 
+accompany witnesses in court.259 A.3d 974, *977 ; 2021 Pa. LEXIS 3610, **2
+Page 4 of 10
+Therefore, the plan will be for the sheriff handler assigned 
+to Melody out of the presence of the jury to walk into the 
+courtroom with the witness, with Melody, they'll be 
+situated together on the witness stand. The witness will not 
+be called to the stand. She'll be in the stand when the jury 
+arrives in the courtroom, just like Mr. Griest was for a 
+different reason yesterday. So the jury has participated in 
+that circumstance where a witness has already been on the 
+stand when they come into the courtroom. And the sheriff 
+handler [**7]  will stand to the side of the witness box, 
+just like we've had numerous uniformed sheriffs in this 
+courtroom throughout the trial, so that won't be of any 
+particular note to the jury, I wouldn't think.
+And if I understand from the sheriff handler that Melody if 
+she gets excited has a pretty strong tail wag, so it wouldn't 
+surprise me if there was some tail banging on the jury box, 
+and I'll just simply make a reference to Melody that - I'm 
+not sure what I'll say - glad to  [*979]  know she's still alive 
+or something to that effect.
+Id. at 6-7.
+At that point, the trial court allowed Appellant to place his 
+objection on the record, and he renewed his complaint that the 
+presence of the dog would distract A.H. and create sympathy 
+for her, prejudicing Appellant. Id. at 7-8. Although Appellant's 
+counsel appreciated that the court would instruct the jury not to 
+feel any sympathy for A.H., he stated his belief that the jury 
+would have a difficult time following that instruction. Id. at 8.
+Immediately before A.H. began her testimony, the trial court 
+instructed the jury in the following manner:
+Members of the jury, I have permitted out of your view a 
+service dog to be present with this witness within or 
+actually [**8]  under the witness box. The dog is present 
+there now. The fact that I have permitted the presence of a 
+service dog shall not be considered by you for any purpose. 
+Particularly, you are not to attribute any sympathy to the 
+witness because of this or for any other reason, nor shall 
+you assess the credibility of her testimony differently than 
+that of any other witness simply because of the presence of 
+the service dog.
+Id. at 63.
+The Commonwealth then began to question A.H. The 
+substance of her testimony is irrelevant to the issues presented 
+in this appeal. We, however, note that there is nothing in the 
+record to suggest that the comfort dog was in any way 
+disruptive to the trial. We also observe that, after A.H. had been 
+questioned for some time on the witness stand, the trial court 
+called for a brief recess to allow A.H. to recover her composure, as she had started to weep. Id. at 98-106.
+After the parties presented their evidence and gave their closing 
+arguments, the trial court provided the jury with its general 
+instructions. Pertinent to the instant matter, the court repeated 
+the instruction that it gave to the jury before A.H. testified. 
+N.T., 11/30/2018, at 71. The jury found Appellant [**9]  not 
+guilty of first-degree murder but guilty of third-degree murder 
+and firearms not to be carried without a license. The trial court 
+sentenced Appellant to 20.5 to 47 years of imprisonment. 
+Appellant filed post-sentence motions, which were denied. He 
+then timely filed a notice of appeal and subsequently a statement 
+pursuant to Pa.R.A.P. 1925(b).
+In that statement, Appellant indicated that, on appeal, he 
+intended to argue, inter alia, that the trial court erred by allowing 
+A.H. to testify with the assistance of a comfort dog. The trial 
+court briefly responded to this issue in its Pa.R.A.P. 1925(b) 
+opinion. Trial Court Opinion, 8/23/2019, at 6-7. The court 
+noted that: (1) its legal reasoning for allowing the dog to be 
+present could be found on the record; (2) the dog was situated 
+under the witness box prior to the jury entering the courtroom 
+and could not be seen by the jury, and (3) it provided 
+instructions to the jury concerning the presence of the dog.
+II. Superior Court Opinion.
+On appeal to the Superior Court, Appellant argued that the trial 
+court erred by allowing the comfort dog to be with A.H. on the 
+witness stand because: (1) the dog's presence generated 
+sympathy within the jury to Appellant's prejudice; and 
+(2) [**10]  the Commonwealth failed to establish the necessity 
+for the use of the dog. The Superior Court rejected these 
+arguments and ultimately affirmed Appellant's judgment of 
+sentence in a published opinion. Commonwealth v. Purnell, 2020 
+PA Super 127, 233 A.3d 824 (Pa. Super. 2020).
+ [*980]  In so doing, the Superior Court stated that "[t]he use of 
+comfort dogs for witnesses with mental, psychological, or 
+emotional conditions appears to be a matter of first impression 
+in Pennsylvania[.]" Id. at 834. The court then began its analysis 
+by explaining, inter alia, that trial judges have the well-established 
+power to maintain courtroom authority and must have broad 
+discretion to keep control of their courtrooms. According to the 
+court, "[t]his power to control courtroom proceedings includes 
+the power to control the mode and order of examining 
+witnesses and presenting evidence[.]" Id. at 835.
+In support of this statement, the Superior Court relied upon 
+Pennsylvania Rule of Evidence 611(a), which provides as 
+follows:
+The court should exercise reasonable control over the 
+mode and order of examining witnesses and presenting 259 A.3d 974, *978 ; 2021 Pa. LEXIS 3610, **6
+Page 5 of 10
+evidence so as to:
+(1) make those procedures effective for determining 
+the truth;
+(2) avoid wasting time; and
+(3) protect witnesses from harassment or undue 
+embarrassment.
+Pa.R.E. 611(a). The court observed that appellate courts 
+review [**11]  the application of Rule 611 deferentially and for 
+an abuse of discretion. Purnell, 233 A.3d at 835.
+Next, the Superior Court highlighted that, while Pennsylvania 
+courts have not addressed the issue in this case, "appellate 
+courts in multiple other jurisdictions have held that it is within a 
+trial court's discretion to permit a witness to use a support 
+animal, as part of each judge's power to manage trial conduct." 
+Id. at 835-36 (collecting cases). The court then stated that it 
+would utilize these decisions to guide its review of whether the 
+trial court in the matter sub judice abused its discretion by 
+allowing A.H. to testify with the help of a comfort dog. Id. at 
+836.
+At this point, the Superior Court turned its focus to Appellant's 
+contention that allowing the Commonwealth's witness to use a 
+dog to assist with testifying prejudices the defendant, largely 
+because it suggests that the witness is vulnerable and worthy of 
+sympathy. In response, the court explained that "[a]ll of the 
+courts which have examined a challenge to the use of a comfort 
+dog in a courtroom have concluded that the dog's presence is 
+not inherently prejudicial." Id. (collecting cases) (footnote 
+omitted).
+The Superior Court then noted that the instant case shares 
+striking [**12]  similarities to a recent decision of the Court of 
+Appeals of Georgia, Jones v. State, 354 Ga. App. 568, 841 S.E.2d 
+112 (Ga. Ct. App. 2020). Purnell, 233 A.3d at 836-37. According 
+to the Superior Court, in Jones, the defendant objected to a State 
+witness' use of a comfort dog on the basis that the dog would 
+generate sympathy for the witness, who had post-traumatic 
+stress disorder, and would prejudice the defendant's defense 
+strategy. The Superior Court observed that, like in the instant 
+matter, the trial court in Jones investigated the issue outside the 
+jury's presence, ascertained the witness' condition and need for 
+the support animal, and considered the dog's training. Id. at 837.
+Moreover, the Superior Court stated, "The trial courts in both 
+cases[, i.e., the Georgia trial court and the trial court in the 
+instant matter,] also consulted with counsel to employ 
+procedures designed to minimize the dog's presence and 
+visibility to the jury." Id. (citations and internal quotation marks 
+omitted). The Court of Appeals of Georgia ultimately concluded 
+that the trial court did not abuse its discretion by allowing the 
+State's witness to testify with the help of a comfort dog during a 
+criminal trial.Utilizing Jones as a template, the Superior Court held that 
+Appellant failed to  [*981]  demonstrate that [**13]  he was 
+harmed by the trial court's decision. More specifically, the court 
+concluded, "Given that the trial court in the current action 
+likewise followed procedures to minimize the dog's presence, we 
+equally cannot assume that the dog had any impact on the 
+jurors, much less that it engendered sympathy for A.H." Id. at 
+837. The court observed that, like the defendant in Jones, 
+Appellant "had made the unsubstantiated assumption that the 
+dog generated sympathy without any evidence in support 
+thereof and ignoring the fact that some people are afraid of or 
+dislike animals, especially dogs." Id.
+After finding no merit to Appellant's prejudice argument, the 
+Superior Court stated in a footnote that, when faced with a 
+question of whether a State witness' use of a comfort dog 
+prejudiced a criminal defendant, the Supreme Court of 
+Connecticut adopted a balancing test in State v. Devon D., 321 
+Conn. 656, 138 A.3d 849 (Conn. 2016). Id. at 837 n.11. In that 
+case, the Supreme Court of Connecticut held that a "trial court 
+should consider the particular facts and circumstances for the 
+request to have a dog accompany the particular witness, the 
+extent to which the dog's presence will permit the witness to 
+testify truthfully, completely and reliably, and the extent to 
+which the dog's presence [**14]  will obviate the need for more 
+drastic measures to secure the witness' testimony." Id. The 
+Court then noted that a "trial court should balance these factors 
+against the potential prejudice to the defendant and the 
+availability of measures to mitigate any prejudice, such as 
+limiting instructions and procedures to limit the jury's view of 
+the dog." Id.
+After explaining the Connecticut Supreme Court's balancing 
+test, our Superior Court noted that the trial court in the matter 
+sub judice did not apply that test. The Superior Court, however, 
+declined to require the retroactive use of that test. The court 
+nonetheless determined that Connecticut's balancing test 
+appears to be an appropriate assessment for this issue and 
+advised trial courts to employ it moving forward. Id.
+Lastly, the Superior Court addressed Appellant's contention that 
+the Commonwealth failed to establish in the trial court that the 
+use of a comfort dog was a necessity in securing A.H.'s 
+testimony. Id. at 838. The court reported that its "review of case 
+law concerning the use of comfort items and animals in 
+courtrooms demonstrates that the majority of jurisdictions have 
+concluded that a finding of 'necessity' or 'need' is not 
+required [**15]  in order for the trial court to allow the presence 
+of such items or animals, provided that such item or animal 
+alleviates the stress that the witness may experience on the stand 
+and hence helps the witness to testify truthfully and 
+completely." Id. at 839 (collecting cases). The court found no 
+compelling reason to disregard this rationale and ultimately 259 A.3d 974, *980 ; 2021 Pa. LEXIS 3610, **10
+Page 6 of 10
+rejected Appellant's position that, for a trial court to allow a 
+witness to utilize a comfort dog, the court must find that the 
+presence of the dog is necessary to secure the witness' 
+testimony. Id. at 839-40.
+III. Petition for Allowance of Appeal.
+Appellant filed a petition for allowance of appeal in this Court, 
+which we granted to address the following issues, as framed by 
+Appellant:
+(1) Did the Superior Court err in affirming the trial court's 
+decision to permit a dog to accompany a testifying witness?
+(2) Mindful of the rights of the accused, should a showing 
+of need for special accommodation be required prior to its 
+allowance?
+Commonwealth v. Purnell, 243 A.3d 4 (Pa. 2020).
+ [*982]  IV. Parties' Arguments.3
+A. Appellant's Argument.4
+Appellant insists that the trial court abused its discretion by 
+allowing A.H. to utilize a comfort dog when she testified. 
+Appellant submits that many states that have addressed [**16]  
+this issue have employed a balancing test. According to 
+Appellant, these states balance the ability to gain truthful 
+3 Both of the issues in this case concern the test a trial court should 
+apply when the Commonwealth seeks to have a witness testify with the 
+assistance of a comfort dog. We, therefore, address these issues and the 
+parties' arguments together. This issue of first impression presents the 
+Court with a question of law. HN2 [ ] Accordingly, our scope of 
+review is plenary, and our standard of review is de novo. Commonwealth v. 
+Hill, 238 A.3d 399, 410-11 (Pa. 2020).
+4 In his brief to this Court, Appellant presents several arguments, two 
+of which we will dispose of in this note. First, Appellant argues that the 
+trial court violated his constitutional right to due process by allowing 
+A.H. to testify with the aid of a comfort dog. Appellant's Brief at 22-24. 
+Appellant has waived this claim by raising it for the first time on appeal. 
+Pa.R.A.P. 302(a).
+Second, Appellant dedicates a significant amount of his brief 
+attempting to draw incongruent parallels between allowing a witness to 
+use a comfort dog and permitting a child victim to testify by alternative 
+means, such as video depositions. As argued by the Commonwealth, 
+there simply is no meaningful comparison to be made between these 
+two concepts. Allowing a child to testify by alternative means intersects 
+with a defendant's constitutional right to confront witnesses and has 
+nothing to do with this case. Accordingly, further discussion of this 
+contention is unnecessary.testimony from a witness by reducing his or her trauma against 
+the potential prejudice to the defendant.
+After summarizing several of these cases, Appellant asserts that 
+the trial court abused its discretion by employing the allegedly 
+extraordinary measure of allowing A.H. to use a comfort dog 
+without making appropriate findings. For example, Appellant 
+contends that the court failed to appreciate that the 
+Commonwealth provided no reason for the special 
+accommodation in its motion in limine. Further, at the pretrial 
+hearing on the motion, when asked by the trial court to identify 
+the reason for the request, the Commonwealth did not specify 
+the witness' age or developmental disability, but only mentioned 
+A.H.'s concern for her safety. Appellant observes that, at one 
+point during the proceedings, defense counsel merely 
+mentioned his belief that A.H. was autistic, but the 
+Commonwealth continued to emphasize that the dog was 
+needed to help A.H. feel safe.
+In addition, Appellant argues, there was no testimony regarding 
+whether utilizing the comfort dog would help A.H. 
+provide [**17]  truthful testimony. In support of his position, 
+Appellant relies on, among other cases, a decision of the 
+Michigan Court of Appeals, People v. Shorter, 324 Mich. App. 529, 
+922 N.W.2d 628 (Mich. Ct. App. 2018), where the court found 
+that a trial court had erred in allowing a non-disabled adult to be 
+accompanied by a support dog during her testimony. Appellant 
+points out that, in reaching this decision, the Michigan court 
+opined that it was not "convinced that allowing a support 
+animal or person so that the witness would be better able to 
+'control her emotions' necessarily aids the truth-finding 
+process." Appellant's Brief at 36 (quoting Shorter, 922 N.W.2d at 
+634-35).
+Appellant also submits that the trial court erroneously made a 
+sua sponte finding that A.H.'s autism necessitated the special 
+accommodation. According to Appellant, this autism "finding" 
+was not based on any evidence presented by the 
+Commonwealth prior to the court allowing  [*983]  the comfort 
+dog to accompany A.H. Appellant further asserts that the court 
+erred by failing to make a record regarding whether this special 
+procedure was a necessary measure to avoid trauma and to 
+obtain truthful, reliable testimony. Without these findings, 
+Appellant argues, the trial court's ruling was manifestly 
+unreasonable and an abuse of discretion. [**18] 
+Building on his position that the trial court should have made a 
+record regarding the need for the comfort dog's assistance, 
+Appellant reports that other states have passed legislation 
+addressing the usage of dogs in courtrooms. Appellant 
+maintains that, as of 2016, Arizona, Arkansas, Florida, Hawaii, 
+Illinois, and Oklahoma had passed legislation outlining the 
+requirements for allowing a dog to be present in a courtroom. 
+According to Appellant, two states explicitly require the 259 A.3d 974, *981 ; 2021 Pa. LEXIS 3610, **15
+Page 7 of 10
+prosecution to show that a special measure is necessary to 
+facilitate the witness' testimony: (1) Delaware has adopted a 
+"substantial need" standard; and (2) Hawaii has embraced a 
+similar "compelling necessity" standard.
+While Appellant acknowledges that many states have refused to 
+adopt the "substantial need" or "compelling necessity" 
+standards, he nonetheless maintains that some of those states at 
+least require an "implicit" finding of necessity. In sum, 
+Appellant urges this Court to adopt a rule requiring a trial court 
+to determine whether the accommodation is necessary to avoid 
+trauma for the witness and whether it will enable truthful 
+testimony before allowing a witness to testify with the aid of a 
+comfort [**19]  dog.
+B. Commonwealth's Argument.5
+The Commonwealth begins its argument by agreeing with the 
+Superior Court that the use of a comfort dog is governed by a 
+trial judge's authority over what occurs in his or her courtroom 
+under Pa.R.E. 611. According to the Commonwealth, this 
+power includes the discretion to control the mode and order of 
+examining witnesses and presenting evidence. The 
+Commonwealth highlights that appellate courts are deferential 
+to trial courts' application of Rule 611. Indeed, the 
+Commonwealth asserts, appellate review of a Rule 611 decision 
+is limited to whether the trial court abused its discretion.
+As to the present circumstances, the Commonwealth believes 
+that the trial court did not abuse its discretion by allowing A.H. 
+to utilize a comfort dog while testifying. The Commonwealth 
+posits that there is absolutely no basis to claim that a comfort 
+dog portrays any of the characteristics that Appellant alleges or 
+creates inherent prejudice against a defendant. First, the 
+Commonwealth asserts, while dogs are a well-liked species, not 
+every person feels comfortable around them. Indeed, the 
+Commonwealth posits, it is just as likely that a member of a jury 
+would dislike dogs as would find [**20]  them endearing.
+Second, the Commonwealth recounts that the trial court did not 
+make any reference to the dog accompanying A.H. being a 
+"comfort dog;" instead, the court referred to the dog as a 
+"service dog." Along these lines, the Commonwealth highlights 
+that the trial court instructed the jury not to have sympathy for 
+the witness because of the presence of the dog, and we must 
+5 The following parties jointly filed an amicus brief in support of the 
+Commonwealth: Animal Legal Defense Fund, Association of 
+Prosecuting Attorneys, and Lutheran Church Charities. The 
+Pennsylvania Office of Attorney General and the Pennsylvania District 
+Attorneys Association also jointly filed an amicus brief in support of the 
+Commonwealth.presume that the jury followed this instruction.
+Next, like the Superior Court, the Commonwealth believes that 
+this case is substantially [*984]  similar to the Georgia Court of 
+Appeals' decision in Jones, supra. In fact, the Commonwealth 
+fully endorses the Superior Court's use of Jones in affirming the 
+trial court's decision. Third, the Commonwealth asserts that the 
+jury never saw the comfort dog because the trial court 
+specifically crafted a plan to keep the dog out of the jury's view.
+The Commonwealth also refutes Appellant's allegation that the 
+trial court abused its discretion in allowing the use of the 
+comfort dog without making appropriate findings. In this 
+regard, the Commonwealth observes that the trial court held 
+several hearings and discussions about the comfort dog before 
+announcing its plan for allowing a generally 
+inconspicuous [**21]  "service dog" to accompany A.H. The 
+Commonwealth concedes that it never informed the trial court 
+that A.H. was autistic. It, however, submits that defense counsel 
+brought up A.H.'s autism before discussion of the comfort dog 
+had even started, rendering it unnecessary for the 
+Commonwealth to reiterate this fact. In short, the 
+Commonwealth contends that the trial court's decision to allow 
+A.H. to utilize a comfort dog was not a result of manifest 
+unreasonableness, partiality, prejudice, bias, or ill-will.
+In the alternative, the Commonwealth argues that if this Court 
+finds that using Rule 611 is insufficient for a trial court to 
+evaluate properly the use of a comfort dog, then the Court 
+should adopt the balancing test from the Connecticut Supreme 
+Court case of Devon D, supra, i.e., the balancing test endorsed by 
+the Superior Court.6 The Commonwealth understands that the 
+trial court in the instant matter did not utilize specifically this 
+test, but it believes that the court conducted a substantially 
+similar analysis.
+Regarding Appellant's contention that the Commonwealth 
+should have been required to prove that the use of a comfort 
+dog was necessary to procure A.H.'s testimony, the 
+Commonwealth suggests [**22]  that there is no easy way to 
+prove need definitively, let alone special need, in these types of 
+circumstances. Invariably, the Commonwealth avers, such a 
+process would require a pretrial hearing with expert witnesses, 
+and testimony from the actual witness would be difficult, as 
+questions could not tread on trial issues that may traumatize the 
+witness. By way of example, the Commonwealth recognizes that 
+the trial court in the instant matter could have held more 
+6 We respectfully reject the contention that this situation presents an 
+"either/or" scenario. As our discussion below will make clear, we 
+conclude that Rule 611 is applicable herein, and that it is appropriate to 
+adopt the Connecticut Supreme Court's balancing test in applying the 
+rule to the issue presented.259 A.3d 974, *983 ; 2021 Pa. LEXIS 3610, **18
+Page 8 of 10
+hearings regarding A.H.'s use of a comfort dog. However, the 
+Commonwealth posits that it is unknown how A.H. would have 
+fared emotionally during that hearing, especially given the 
+difficulties that she encountered during her trial testimony.
+Ultimately, the Commonwealth agrees with the Superior Court 
+that a particular finding of necessity should not be mandated 
+before a trial court may exercise its discretion to permit a 
+comfort dog to accompany a witness. In this regard, the 
+Commonwealth observes that most courts in other jurisdictions 
+do not require such a finding, especially those courts that have 
+decided the issue in recent years.
+V. Analysis.
+HN3 [ ] As a general matter, it is indisputable that trial courts 
+have broad discretion in [**23]  controlling trial conduct. See 
+Behr v. Behr, 548 Pa. 144, 695 A.2d 776, 778 (Pa. 1997) ("This 
+Court has long upheld a court's power to maintain courtroom 
+authority.").  [*985]  In furtherance of this traditional 
+understanding of trial court control over trial conduct, this 
+Court adopted Pennsylvania Rule of Evidence 611, set forth 
+supra at 6-7.7 HN4 [ ] Relevant to the instant matter, Rule 611 
+clearly and unambiguously confers upon trial courts reasonable 
+control over the mode of examining witnesses and the ability to 
+employ procedures aimed at determining the truth. Pa.R.E. 
+611(a)(1). We hold that this language is sufficiently 
+comprehensive to allow a trial court to consider whether a 
+comfort dog may assist a witness in testifying in a truthful 
+manner during a trial.8
+Regarding a more specific standard that trial courts should 
+utilize when called upon to address a witness' use of a comfort 
+dog during trial, like the Superior Court, we find convincing the 
+balancing tests adopted by our sister states, particularly the 
+standard enunciated by the Connecticut Supreme Court in Devon 
+D., supra. As noted above, in that case, the Court considered, 
+inter alia, whether the trial court abused its discretion by allowing 
+a dog to sit near a witness during her testimony to provide 
+comfort and support. Devon D., 138 A.3d at 861. Similar to 
+7 HN5 [ ] To the extent that we interpret Rule 611, we observe that, 
+when interpreting the Rules of Evidence, we ascribe "to the words of 
+those rules their plain and ordinary meaning." Commonwealth v. Brown, 
+617 Pa. 107, 52 A.3d 1139, 1176 (Pa. 2012).
+8 As the Superior Court observed, this holding aligns with several 
+persuasive opinions of our sister states. See, e.g., State v. Millis, 241 Ariz. 
+802, 391 P.3d 1225, 1233 (Ariz. Ct. App. 2017) ("In keeping with the 
+trial court's 'broad discretion' in managing trial conduct, this court will 
+not disturb a trial court's ruling regarding the use of a facility dog 
+absent an abuse of discretion.").Appellant, the defendant [**24]  in that case argued that the 
+trial court abused its discretion by allowing the witness to the 
+use a comfort dog on the ground that the dog may have lead the 
+jury to sympathize with the witness, to the defendant's 
+prejudice. Id. at 862. The Connecticut Supreme Court rejected 
+this argument.
+In so doing, like this Court, the Connecticut Supreme Court 
+initially concluded that trial courts possess the broad 
+discretionary authority to permit the use of comfort dogs to 
+assist witnesses to testify reliably. Id. at 865. Next, the Court 
+rejected the notion that a trial court must expressly find that the 
+special accommodation was necessary for the witness to testify. 
+According to the Court, "the pivotal question is not whether the 
+special procedure is necessary but whether it will aid the witness 
+in testifying truthfully and reliably." Id. The Court noted that, 
+"[b]ecause truthful and reliable testimony is an essential 
+component of a fair trial, a finding that an accommodation will 
+help a witness to testify more reliably also constitutes a finding 
+that the accommodation is necessary." Id. at n.13.
+HN6 [ ] After the Connecticut Supreme Court surveyed 
+decisions from other jurisdictions, it concluded that, while a trial 
+court [**25]  may exercise its discretion to permit a dog to 
+provide support to a testifying witness, the court "must balance 
+the extent to which the accommodation will help the witness to 
+testify reliably and completely against any possible prejudice to 
+the defendant's right to a fair trial." Id. at 867. In so doing, "[t]he 
+trial court should consider the particular facts and circumstances 
+for the request to have a dog accompany the particular witness, 
+the extent to which the dog's presence will permit the witness to 
+testify truthfully, completely and reliably, and the extent to 
+which the dog's presence will obviate the  [*986]  need for 
+more drastic measures to secure the witness' testimony." Id. 
+Lastly, the Connecticut Supreme Court explained, "The trial 
+court should balance these factors against the potential prejudice 
+to the defendant and the availability of measures to mitigate any 
+prejudice, such as limiting instructions and procedures to limit 
+the jury's view of the dog." Id.
+After careful consideration, we adopt this well-reasoned 
+standard for purposes of Pennsylvania jurisprudence. In our 
+view, this balancing test appropriately guides a trial court to 
+consider carefully the extent to which a comfort dog 
+may [**26]  assist a witness with providing truthful testimony, 
+while balancing the need for that accommodation against 
+potential prejudice to defendant. We find particularly persuasive 
+the requirement that a trial court seek to minimize any potential 
+prejudice to the defendant by, inter alia, considering the dog's 
+training, providing the jury with limiting instructions, and 
+employing means to limit the jury from viewing the dog.
+Obviously, this standard did not exist in Pennsylvania law at the 
+time that the trial court in the matter sub judice was called upon 
+259 A.3d 974, *984 ; 2021 Pa. LEXIS 3610, **22
+Page 9 of 10
+to determine whether A.H. should be permitted to use a 
+comfort dog during her trial testimony. We nonetheless 
+conclude that the trial court exercised its discretion in a manner 
+that substantially comports with the test. First, by way of the 
+Commonwealth's motions in limine, the trial court was put on 
+notice that: (1) A.H. was a juvenile that allegedly witnessed 
+Appellant shoot and kill Victim; (2) A.H. was with Justin Grist 
+when he allegedly was attacked by Appellant's fellow gang 
+members in an attempt to intimidate him from testifying at trial; 
+(3) A.H. feared that if she testified about this incident or against 
+Appellant, she may be shot; [**27]  and (4) to allay A.H.'s fear 
+of testifying, the Commonwealth was prepared to provide A.H. 
+with a comfort dog.
+The trial court then wisely held a hearing to address the 
+Commonwealth's motions, at which it was revealed that A.H. 
+was autistic and that the comfort dog was trained to accompany 
+witnesses in court. The court ultimately permitted A.H. to utilize 
+the dog during her testimony. However, in so doing, the court 
+utilized several measures to mitigate against any potential 
+prejudice the comfort dog could have caused Appellant. The 
+court: (1) referred to the animal as a "service dog" to lessen the 
+likelihood that the dog's presence would engender sympathy 
+from the jury; (2) required that the dog enter and exit the 
+courtroom outside of the jury's presence and that the dog 
+remain hidden under the witness stand throughout A.H.'s 
+testimony; and (3) twice instructed the jury not to consider the 
+presence of the dog for any purpose, not to attribute any 
+sympathy to A.H., and not to judge her credibility any 
+differently. HN7 [ ] Importantly, "[t]he law presumes that the 
+jury will follow the instructions of the court." Commonwealth v. 
+Brown, 567 Pa. 272, 786 A.2d 961, 971 (Pa. 2001).
+VI. Conclusion.
+HN8 [ ] For the reasons explained above, we conclude that 
+trial courts have [**28]  the discretion to permit a witness to 
+testify with the assistance of a comfort dog. In exercising that 
+discretion, courts should balance the degree to which the 
+accommodation will assist the witness in testifying in a truthful 
+manner against any possible prejudice to the defendant's right to 
+a fair trial and employ means to mitigate any such prejudice. We 
+further note that an abuse of discretion occurs when a court 
+"has reached a conclusion which overrides or misapplies the 
+law, or where the judgment exercised is manifestly 
+unreasonable,  [*987]  or the result of partiality, prejudice, bias 
+or ill-will." Commonwealth v. Gill, 651 Pa. 520, 206 A.3d 459, 466-
+67 (2019).
+Here, we discern no abuse of discretion on the part of the trial 
+court. Indeed, despite any guidance in the law, the court 
+considered the Commonwealth's contention that A.H. would be more likely to testify in a truthful manner with the support of a 
+comfort dog. In addition, the court balanced that consideration 
+against any potential prejudice the presence of the dog may 
+cause Appellant. Lastly, the court mitigated any potential 
+prejudice by employing multiple appropriate measures. 
+Accordingly, we affirm the Superior Court's judgment, which 
+affirmed Appellant's judgment of sentence.
+Justices [**29]  Saylor, Todd, Dougherty, Wecht and Mundy 
+join the opinion.
+Justice Donohue files a concurring opinion.
+Concur by: DONOHUE
+Concur
+CONCURRING OPINION
+JUSTICE DONOHUE
+I concur in the result reached by the Majority and I join in the 
+adoption of the balancing test enunciated in State v. Devon D., 
+321 Conn. 656, 138 A.3d 849 (Conn. 2016) for the trial court's 
+guidance in deciding whether to permit the utilization by a 
+witness of a comfort animal. The test we adopt includes, inter 
+alia, consideration of "the extent to which the dog's presence 
+will permit the witness to testify truthfully, completely and 
+reliably[.]" Majority Op. at 16 (citing Devon D., 138 A.3d at 867). 
+Regardless of the formulation of a balancing test, it is obvious 
+that the first consideration for a trial judge must be whether the 
+evidence supports a conclusion that the accommodation will in 
+fact assist the witness. Here, the Commonwealth did not present 
+evidence that the presence of the comfort dog would help the 
+witness testify reliably and completely. Nonetheless, because 
+defense counsel did not raise this issue before the trial court, it 
+is not preserved for appellate review.1 Pa.R.A.P. 302(a) ("Issues 
+not raised in the trial court are waived and cannot be raised for 
+the first time on appeal."). Absent objection by the defense, I 
+am constrained [**30]  to agree with the result reached by the 
+Majority.
+In Devon D., the Connecticut case from which the Court adopts 
+1 Defense counsel objected to the dog's presence because it would 
+create undue sympathy for the witness, N.T., 11/28/2018, at 7-8, and it 
+would distract the witness. N.T., 11/29/2018, at 49-55. In his brief in 
+this Court, Appellant argues that the trial court abused its discretion 
+because there was no evidence that the presence of the dog would have 
+a therapeutic benefit or assist the witness in testifying truthfully. 
+Appellant's Brief at 34. No such objection to the accommodation in the 
+case was made in the trial court.
+259 A.3d 974, *986 ; 2021 Pa. LEXIS 3610, **26
+Page 10 of 10
+the balancing test, the trial court held an evidentiary hearing, at 
+which the state called a licensed clinical social worker to explain 
+how the presence of a comfort dog, Summer, would lessen the 
+eight year old victim's anxiety about testifying. The social 
+worker testified that the victim was anxious about testifying and 
+that children who are anxious are less likely to be able to talk 
+about their memories and life experiences. Devon D., 138 A.3d at 
+867. The social worker also testified that Summer was trained to 
+provide support to children who experienced anxiety, and her 
+presence decreases people's anxiety levels and increases their 
+ability "to engage and share difficult life situations." Id. at 861-
+62. The social worker made the critical observation that when 
+Summer was present, the victim was "less anxious and more 
+verbal, to engage, to answer questions, and to talk." Id. at 867. 
+With that thorough record, the Connecticut Supreme Court 
+concluded that the dog would be of actual assistance.
+ [*988]  In People v. Tohom, 109 A.D.3d 253, 257, 969 N.Y.S.2d 
+123 (N.Y. App. Div. 2013), the prosecutor supported the 
+request for the assistance of a comfort dog by calling a social 
+worker who testified that the victim [**31]  was "unable to 
+express her emotions" or discuss the abusive conduct 
+underlying the case. The social worker also testified that the 
+dog's presence enabled the victim to become "a lot more verbal" 
+during therapy sessions and would allow the victim "to better 
+express herself verbally" at trial. Id. at 257-58.
+To support their requests for the assistance of a comfort dog, 
+the prosecutors in the Connecticut and New York cases 
+presented evidence that the witnesses' anxiety or reticence 
+would make it difficult for them to testify and that the dogs' 
+presence would enable the witnesses to testify more candidly 
+and reliably at trial. In lieu of a social worker, a parent or close 
+relative or another with actual knowledge of the witness's 
+testimonial inhibitions and beneficial effect of the dog's 
+presence in alleviating the barrier would likewise provide an 
+evidentiary basis for allowing the accommodation. Whatever the 
+source, evidence that the accommodation would assist the 
+witness's testimony is crucial.
+In the case before us, the Commonwealth presented no 
+evidence to demonstrate that the presence of the sheriff's dog 
+would enable the witness to testify more reliably and completely. 
+The Commonwealth relied [**32]  on the facts that A.H. was a 
+juvenile who allegedly witnessed Appellant shoot and kill 
+Victim; that A.H. was with another witness when the witness 
+was attacked in an attempt to intimidate him from testifying; 
+and that A.H. feared that she may be shot for testifying. 
+Majority Op. at 17. The Commonwealth's main justification for 
+requesting the dog's presence was that the witness was fearful of 
+coming to court. Although these hearsay statements by the 
+prosecutor demonstrate that A.H. felt unsafe, there is no 
+evidence that the presence of this comfort dog would alleviate her safety concerns and enable more reliable and complete 
+testimony.2 On this record, there is no basis for a finding that 
+the dog's presence would enable the witness to testify in a 
+truthful manner.
+Nonetheless, because defense counsel did not object to the lack 
+of evidence demonstrating that the comfort dog would aid the 
+witness in testifying truthfully and reliably, the issue was waived, 
+and this Court cannot address the issue for the first time 
+ [*989]  on appeal. Pa.R.A.P. 302(a). I therefore concur in the 
+result reached by the Majority.
+End of Document
+2 At the hearing, the Commonwealth made clear that the fear of 
+testifying was the only reason for having the dog present. N.T., 
+11/19/2018, at 51 (stating that the witness "has voiced her fear of 
+coming to court and I'm asking for the dog to be there as a comfort 
+item for her"). There was no evidence that the dog made the witness 
+feel safe. When the trial court inquired of A.H.'s autism, "Is that the 
+primary reason why or what singles her out from other witnesses who 
+were her same approximate age? I mean, why is it that you're 
+mentioning her by name and not the others for the comfort dog?[,]" 
+the Commonwealth answered, "A.H. has expressed to law enforcement 
+that she is concerned about her safety coming to court and it's for that 
+reason the Commonwealth is asking for the dog to accompany her to 
+the stand." Id. at 52-53. Notably, the Commonwealth now lists various 
+other facts suggesting support for the finding that the comfort dog 
+would be beneficial, including that the witness was autistic, has learning 
+disabilities and is easily distracted. Commonwealth's Brief at 28-29. 
+However, no matter the justification for the concern regarding the 
+witness's testimonial inhibitions, the Commonwealth needed to present 
+evidence that the dog's presence would assist the witness. Since the 
+comfort dog was the sheriff's dog, not the witness's dog, the record 
+lacks even the most basic evidence that the witness was observed 
+spending time with the animal newly introduced into her life, and that 
+she reacted favorably to the dog.259 A.3d 974, *987 ; 2021 Pa. LEXIS 3610, **30

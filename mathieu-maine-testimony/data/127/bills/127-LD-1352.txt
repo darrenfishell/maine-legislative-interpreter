@@ -1,0 +1,214 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1352  
+S.P. 489  In Senate, April 21, 2015  
+ 
+ 
+An Act To Facilitate the Delivery of Health Care Services through 
+Telemedicine and Telehealth  
+ 
+ 
+ 
+ 
+Reference to the Committee on Health and Human Services suggested and ordered printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator GRATWICK of Penobscot.  
+Cosponsored by Representative FOLEY of Wells and  
+Senators: CUSHING of  Penobscot, LIBBY of Androscoggin, Representatives: BATES of 
+Westbrook, DAVITT of Hampden, VACHON of Scarborough.  
+ 
+ 
+
+ 
+ Page 1 - 127LR0939(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  22 MRSA §1726 is enacted to read:  2 
+§1726.  Telemedicine and telehealth  3 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 4 
+following terms have the fol lowing meanings.  5 
+A.  "Patient originating site" means a site where a patient is physically located at the 6 
+time that health care services are provided through the use of electronic information 7 
+and telecommunications and information technologies.  8 
+B.  "Provid er distant site" means a site where a health care provider who provides 9 
+health care services is located while providing these services through the use of 10 
+electronic information and telecommunications and information technologies.  11 
+C.  "Telehealth" means the  use of electronic information and telecommunications and 12 
+information technologies to support clinical health care, patient and professional 13 
+health -related education, public health and health administration.  14 
+D.  "Telemedicine" means the use of electronic i nformation and telecommunications 15 
+and information technologies to provide clinical health care when a patient is at the 16 
+patient originating site and a health care provider is at the provider distant site.  17 
+2.  Delivery of services through telemedicine, tele health.  A hospital licensed by 18 
+the State under chapter 405 that is controlled, directly or indirectly, by an entity that 19 
+controls at least one other hospital licensed by the State under chapter 405 shall include in 20 
+its strategic plan as an integral part o f its mission the delivery of health care services 21 
+through telemedicine and telehealth.  22 
+Sec. 2.  22 MRSA §3172, sub -§§4, 5, 6 and 7 are enacted to read:  23 
+4.  Patient originating site.  "Patient originating site" means a site where a patient is 24 
+physically lo cated at the time that health care services are provided through the use of 25 
+electronic information and telecommunications and information technologies.  26 
+5.  Provider distant site.  "Provider distant site" means a site where a health care 27 
+provider who provid es health care services is located while providing these services 28 
+through the use of electronic information and telecommunications and information 29 
+technologies.  30 
+6.  Telehealth.  "Telehealth" means the use of electronic information and 31 
+telecommunications an d information technologies to support clinical health care, patient 32 
+and professional health -related education, public health and health administration.  33 
+7.  Telemedicine.  "Telemedicine" means the use of electronic information and 34 
+telecommunications and inf ormation technologies to provide clinical health care when a 35 
+patient is at the patient originating site and a health care provider is at the provider distant 36 
+site. 37 
+ 
+ Page 2 - 127LR0939(01) -1 
+ Sec. 3.  22 MRSA §3173 -G is enacted to read:  1 
+§3173 -G.  Reimbursement for services delivered through telemedicine or telehealth  2 
+Services under MaineCare that are delivered through telemedicine or telehealth must 3 
+be reimbursed at the same rates as those services that are not delivered through 4 
+telemedicine or telehealth.  5 
+Sec. 4.  24-A MRSA §4316, su b-§3 is enacted to read:  6 
+3.  Facility fee.  A telemedicine facility fee must be shared between the site where 7 
+the patient is physically located at the time the health care services are provided and the 8 
+site where the health care provider who provides healt h care services to the patient is 9 
+located.  The providers located at each site shall negotiate the proportion of the fee to be 10 
+borne by each.  11 
+Sec. 5.  35-A MRSA §9204, sub -§2, ¶D -1 is enacted to read:  12 
+D-1.  Facilitate the availability of communications tec hnology infrastructure 13 
+necessary to support the delivery of health care services through telemedicine or 14 
+telehealth;  15 
+Sec. 6.  35-A MRSA §9204, sub -§4, as enacted by PL 2005, c. 665, §3, is 16 
+amended to read:  17 
+4.  Limitations on activities of the authority.  The authority may not develop, 18 
+acquire, fund, coordinate or otherwise undertake any project or make any grant, direct 19 
+investment or loan under this chapter unless:  20 
+A.  The action is taken on behalf of, in partnership with or in support of one or more 21 
+commun ications service providers that are remitting assessments to the authority 22 
+under section 9211; and  23 
+B.  The authority determines that, without the authority's action, the installation of 24 
+adequate advanced communications technology infrastructure in an unser ved or 25 
+underserved area would not otherwise occur .; and  26 
+C.  The recipient of the grant, direct investment or loan is partnered with a technical 27 
+advisor that qualifies as impartial and objective under rules adopted by the authority.  28 
+The authority may not pr ovide a grant, direct investment or loan or otherwise provide 29 
+any funds to a telecommunications service provider or any other entity that, under 30 
+rules adopted by the authority, constitutes an interested entity.  31 
+Notwithstanding any other provision of this c hapter, the authority may not provide any 32 
+wireline, wireless, satellite, voice, data or video service at retail or wholesale.  33 
+Sec. 7.  35-A MRSA §9205, sub -§3, as enacted by PL 2005, c. 665, §3, is 34 
+amended to read:  35 
+3.  Bylaws; rules.  To adopt bylaws and a ny rule necessary or useful for carrying out 36 
+any of the authority's powers or duties pursuant to this chapter.  Rules adopted pursuant 37 
+ 
+ Page 3 - 127LR0939(01) -1 
+ to this subsection are major substantive  routine technical  rules as defined in Title 5, 1 
+chapter 375, subchapter 2 -A; 2 
+Sec. 8.  35-A MRSA §9216, as enacted by PL 2009, c. 612, §10, is repealed.  3 
+Sec. 9.  Rulemaking.  The Department of Health and Human Services shall adopt 4 
+rules requiring that, in order to obtain licensing, a newly constructed residential long -term 5 
+care facility  must include space designed to accommodate the receipt by residents of 6 
+health care delivered through telemedicine and telehealth.  Rules adopted pursuant to this 7 
+section are routine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 8 
+Sec. 10.  Application for funds.  The ConnectME Authority shall apply to the 9 
+Federal Communications Commission for funding from the commission's Universal 10 
+Service Fund to improve the quality of health care available to patients in rural 11 
+communities by ensuring access to telecommunications and broadband service for use in 12 
+the delivery of health care services through telemedicine and telehealth.  The ConnectME 13 
+Authority shall report to the Legislature by January 15, 2016 on the status of its 14 
+application.  15 
+Sec. 11.  Strategic plan; report.  The ConnectME Authority shall develop a 16 
+strategic plan that includes how the ConnectME Authority will facilitate the availability 17 
+of communications technology infrastructure necessary to support the delivery of health 18 
+care service s through telemedicine and telehealth in accordance with the Maine Revised 19 
+Statutes, Title 35 -A, section 9204, subsection 2, paragraph D -1.  By September 15, 2015, 20 
+the authority shall submit its strategic plan to the Joint Standing Committee on Energy, 21 
+Utilities and Technology.  22 
+Sec. 12.  Task force; report.  The Department of Health and Human Services, 23 
+referred to in this section as "the department," shall convene a task force to develop 24 
+statewide standards designed to facilitate the use of telemedicine and  telehealth to ensure 25 
+higher quality medical care at a lower cost.  26 
+1.  The department shall invite the participation of interested parties, including but 27 
+not limited to the Maine Hospital Association, the Maine Medical Association, the Maine 28 
+Osteopathic As sociation, the Maine State Nurses Association and a patient advocacy 29 
+group.  30 
+2.  In developing the standards, the task force shall:  31 
+A.  Review telemedicine and telehealth protocols and best practices;  32 
+B.  Consider methods to educate providers and patients a bout best practices for the 33 
+use of telemedicine and telehealth;  34 
+C.  Develop methods to determine and measure patient and provider satisfaction; and  35 
+D.  Review reimbursement and other funding issues.  36 
+3.  No later than November 4, 2015, the department shall submit to the Joint Standing 37 
+Committee on Health and Human Services the findings and recommendations, including 38 
+any necessary implementing legislation.  After receipt and review of the report, the Joint 39 
+ 
+ Page 4 - 127LR0939(01) -1 
+ Standing Committee on Health and Human Services may r eport out a bill to the Second 1 
+Regular Session of the 127th Legislature.  2 
+SUMMARY  3 
+This bill:  4 
+1.  Requires a hospital that is part of a health care system that includes at least one 5 
+other hospital to include in its strategic plan as an integral part of its m ission the provision 6 
+of telemedicine and telehealth;  7 
+2.  Requires that services under MaineCare that are provided through telemedicine or 8 
+telehealth be reimbursed at the same rates as those services that are not provided through 9 
+telemedicine or telehealth;  10 
+3.  Requires that a telemedicine facility fee must be shared between the site at which 11 
+the patient is physically located and the site at which the health care provider providing 12 
+service is located;  13 
+4.  Expands the duties of the ConnectME Authority to incl ude facilitation of the 14 
+availability of communications technology infrastructure necessary to support the 15 
+delivery of health care services through telemedicine and telehealth;  16 
+5.  Removes restrictions on the ability of the ConnectME Authority to undertake a 17 
+project or make an investment unless taken on behalf of, in partnership with or in support 18 
+of one or more communications service providers that are remitting assessments to the 19 
+authority;  20 
+6.  Changes the designation of rules adopted by the ConnectME Auth ority from 21 
+major substantive to routine technical;  22 
+7.  Repeals the broadband sustainability fee;  23 
+8.  Directs the Department of Health and Human Services to adopt rules requiring 24 
+that, in order to obtain licensing, a newly constructed residential long -term care facility 25 
+must include space designed to accommodate the receipt by residents of health care 26 
+delivered through telemedicine and telehealth;  27 
+9.  Directs the ConnectME Authority to apply to the Federal Communications 28 
+Commission for funding from the commi ssion's Universal Service Fund to improve the 29 
+quality of health care available to patients in rural communities by ensuring access to 30 
+telecommunications and broadband service for use in the delivery of health care services 31 
+through telemedicine and teleheal th; 32 
+10.  Directs the ConnectME Authority to develop a strategic plan to facilitate the 33 
+availability of communications technology infrastructure necessary to support the 34 
+delivery of health care services through telemedicine and telehealth; and  35 
+ 
+ Page 5 - 127LR0939(01) -1 
+ 11.  Directs the Department of Health and Human Services to convene a task force to 1 
+develop statewide standards designed to facilitate the use of telemedicine and telehealth 2 
+to ensure higher quality medical care at a lower cost.  3 
+ 

@@ -1,0 +1,326 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (S -458) (LD 1748 2020)  
+Date: 8/3/2020
+
+Page 1 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1L.D. 1748
+2
+3ENERGY, UTILITIES AND TECHNOLOGY
+4Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748, Bill, “An Act To 
+10Allow for the Establishment of Commercial Property Assessed Clean Energy Programs”
+11Amend the bill in section 1 in §10202 by inserting after subsection 3 the following:
+12'4.  Commercial PACE lien.  "Commercial PACE lien" means a lien secured against 
+13a qualifying property that is created by a commercial PACE assessment.' 
+14Amend the bill in section 1 in §10202 by striking out all of subsections 6 and 7 (page 
+151, lines 27 to 34 and page 2, lines 1 to 10 in L.D.) and inserting the following:
+16'6.  Energy savings improvement.  "Energy savings improvement" means an 
+17improvement or series of improvements to qualifying property that, as determined by the 
+18trust, are new and permanently affixed to qualifying property and that:
+19A.  Will result in increased energy efficiency or substantially reduced energy use and:
+20(1)  Meet or exceed applicable United States Environmental Protection Agency 
+21and United States Department of Energy Energy Star program or similar energy 
+22efficiency standards established or approved by the trust; or
+23(2)  Involve weatherization of commercial or industrial property in a manner 
+24approved by the trust; or
+25B.  Involve a renewable energy installation, an energy storage system as defined in 
+26section 3481, subsection 6, an electric thermal storage system, electric vehicle supply 
+27equipment, or heating equipment that meets or exceeds standards established or 
+28approved by the trust.  Heating equipment that is not a renewable energy installation 
+29must be the lowest carbon emissions producing heating equipment reasonably 
+30available to the property owner, as determined by the trust, and must meet the 
+31requirements of section 10204, subsection 1, paragraph B.
+327.  Qualifying property.  "Qualifying property" means real commercial property 
+33that:
+34A.  Does not have a residential mortgage;Date: (Filing No. S-          )
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 2 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1B.  Is not owned by a residential customer or small commercial customer as defined 
+2in section 3106, subsection 1, paragraphs C and D;
+3C.  Consists of 5 or more rental units if the property is a commercial building 
+4designed for residential use;
+5D.  Is not owned by a federal, state or municipal government or public school; and
+6E.  Is located in a municipality that participates in a commercial PACE program 
+7pursuant to this chapter.' 
+8Amend the bill in section 1 in §10202 in subsection 8 in the last line (page 2, line 16 
+9in L.D.) by inserting after the following: "wind systems" the following: 'that do not on 
+10average generate more energy or heat than the peak demand of the property'
+11Amend the bill in section 1 in §10202 by renumbering the subsections to read 
+12consecutively.
+13Amend the bill in section 1 by striking out all of §§10203 to 10205 and inserting the 
+14following:
+15'§10203.  Commercial PACE programs
+161.  Establishment; administration.  The trust, a 3rd party contracted by the trust or a 
+17municipality that has adopted a commercial PACE ordinance may establish a commercial 
+18PACE program.  Notwithstanding any other provision of law to the contrary, the trust 
+19may use funds from its administrative fund, program funds or fees on commercial PACE 
+20assessments to pay reasonable administrative expenses of the trust or to pay a 3rd party 
+21contracted by the trust for costs incurred to carry out the purposes of this chapter.
+222.  Energy savings improvement financing.  Financing for energy savings 
+23improvements may be provided by any funds available for those improvements, except 
+24for proceeds from the regional greenhouse gas initiative as defined in Title 38, section 
+25580-A, subsection 19.  If funds are provided by a nongovernmental lender, including, but 
+26not limited to, banks and investment firms, the nongovernmental lender has the 
+27contractual right to receive commercial PACE assessment payments.  Commercial PACE 
+28financing may cover up to 100% of an energy savings improvement's costs, including 
+29audits, energy savings improvement development and application fees.
+303.  Program administration; municipal participation and liability.  A commercial 
+31PACE program must be administered as follows.
+32A.  A municipality that has adopted a commercial PACE ordinance may:
+33(1)  Administer the functions of a commercial PACE program, including, but not 
+34limited to, entering into commercial PACE agreements with commercial property 
+35owners and collecting commercial PACE assessments; or
+36(2)  Enter into a contract with the trust to administer some or all functions of the 
+37commercial PACE program for the municipality, including billing and collection 
+38of commercial PACE assessments, except that the trust may not administer the 
+39collection of commercial PACE assessments in default pursuant to section 10205, 
+40subsection 5.
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 3 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1B.  The trust may enter into a contract with a municipality that has adopted a 
+2commercial PACE ordinance to administer commercial PACE program functions in 
+3the municipality.
+4C.  The trust may enter into a contract with a 3rd-party administrator to administer 
+5part or all of a commercial PACE program for a municipality.
+6D.  Notwithstanding any other provision of law to the contrary, staff or trustees of the 
+7trust, municipal officers and municipal officials, including, without limitation, tax 
+8assessors and tax collectors, are not personally liable to the trust or to any other 
+9person for claims, of whatever kind or nature, under or related to a commercial PACE 
+10program established under subsection 1, including, without limitation, claims for or 
+11related to uncollected commercial PACE assessments.
+12E.  Other than the fulfillment of its obligations specified in a commercial PACE 
+13agreement, neither the trust nor a municipality has any liability to a commercial 
+14property owner for or related to energy savings improvements financed under a 
+15commercial PACE program.
+16F.  The trust may collect fees necessary to administer commercial PACE programs.
+174.  Quality assurance system.  Subject to the availability of funds, the trust shall, 
+18within one year of the establishment of a commercial PACE program under subsection 1, 
+19adopt by rule a quality assurance system for the commercial PACE program. In 
+20developing a quality assurance system under this subsection, the trust shall consult with 
+21industry stakeholders, including, but not limited to, representatives of clean energy and 
+22energy efficiency programs, contractors and environmental, energy efficiency and labor 
+23organizations.
+245.  Terms and conditions.  The trust may, by rule, establish terms and conditions 
+25under which municipalities and commercial property owners may participate in a 
+26commercial PACE program established under subsection 1, which may include, but are 
+27not limited to, terms and conditions related to program design, implementation and 
+28administration, cost sharing, collection of commercial PACE assessments and recording 
+29of liens. The trust may vary the terms and conditions established under this subsection 
+30applicable to a participating municipality from those of other participating municipalities 
+31by mutual agreement with that municipality. Any terms or conditions established by the 
+32trust may not conflict with other provisions of this chapter.
+33A commercial PACE assessment may be used to secure financing for the construction of 
+34a new building or facility. Financing secured by a commercial PACE assessment for the 
+35construction of a new building or facility must be used for energy savings improvements 
+36on the property that significantly exceed the energy standards of the Maine Uniform 
+37Building and Energy Code, adopted pursuant to Title 10, section 9722, subsection 6, 
+38paragraph B, or the applicable energy code in the municipality where the project is 
+39located, as determined by the trust. A lender under this chapter may disburse funds for 
+40new construction projects before project completion.
+416.  Model documents; educational materials.  The trust shall develop and provide 
+42to municipalities model commercial PACE ordinances, model commercial PACE 
+43agreements, other model forms and documents and educational materials for use by 
+44municipalities in the implementation of commercial PACE programs.
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 4 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1§10204.  Underwriting
+21.  Underwriting.  A commercial PACE agreement entered into pursuant to a 
+3commercial PACE program must comply with underwriting requirements established by 
+4rule by the trust. Underwriting requirements established by the trust must, at a minimum:
+5A.  Provide that the term of the commercial PACE agreement not exceed the 
+6estimated useful life of the financed energy savings improvements;
+7B.  Require that the estimated cost savings from the energy savings improvements 
+8over the useful life of such improvements achieve for the property owner a savings-
+9to-investment ratio of not less than 1.0;
+10C.  Require that the qualifying property have a debt service coverage ratio of not less 
+11than 1.0 at the time the commercial PACE agreement is entered into;
+12D.  Require that the qualifying property have a loan-to-value ratio of not more than 
+131.0 at the time the commercial PACE agreement is entered into, calculated by 
+14dividing the total amount of debt secured by the property by the property value;
+15E.  Require that the qualifying property's assessment-to-value ratio be no greater than 
+160.35;
+17F.  Require proof of ownership of the qualifying property;
+18G.  Require that the qualifying property:
+19(1)  Be current on property taxes and sewer charges;
+20(2)  Have no outstanding and unsatisfied tax or sewer liens; and
+21(3)  Not be subject to a mortgage or other lien on which there is a recorded notice 
+22of default, foreclosure or delinquency that has not been cured;
+23H.  Require that the owner or owners of the qualifying property certify that there are 
+24no overdue payments on mortgages secured by the property; and
+25I.  Require escrows for commercial PACE assessment payments when appropriate.
+26§10205.  Commercial PACE assessments; collection; priority
+271.  Collection of assessments.  A lender providing financing under a commercial 
+28PACE program has a lien on the qualifying property to secure the payment of an unpaid 
+29commercial PACE assessment. A lien resulting from a commercial PACE assessment on 
+30the qualifying property must be assessed and collected by the trust, a 3rd-party 
+31administrator contracted by the trust, a municipality or an agent designated by the trust or 
+32a municipality in any manner allowed under the commercial PACE program, consistent 
+33with applicable laws.  If the trust or a 3rd-party administrator contracted by the trust 
+34collects commercial PACE assessments on behalf of a municipality, the trust shall 
+35periodically report to the municipality on the status of the commercial PACE assessments 
+36in the municipality and shall notify the municipality immediately of any delinquent 
+37commercial PACE assessments. Upon receiving notification from the trust of a 
+38delinquent commercial PACE assessment, a municipality shall notify the holder of any 
+39mortgage on the property of the delinquent assessment.
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 5 - 129LR1608(02)-1
+COMMITTEE AMENDMENT12.  Notice; filing.  A notice of a commercial PACE agreement must be filed in the 
+2appropriate registry of deeds. The filing of this notice creates a commercial PACE lien 
+3against the property subject to the commercial PACE assessment until the amounts due 
+4under the terms of the commercial PACE agreement are paid in full. A notice filed under 
+5this subsection must, at a minimum, include:
+6A.  The amount of funds disbursed or to be disbursed pursuant to the commercial 
+7PACE agreement;
+8B.  The names and addresses of the current owners of the qualifying property subject 
+9to the commercial PACE assessment;
+10C.  A description of the qualifying property subject to the commercial PACE 
+11assessment, including its tax map and lot number;
+12D.  The duration of the commercial PACE agreement;
+13E.  The name and address of the entity filing the notice; and
+14F.  Written verification of mortgage lender consent, if there is a mortgage on the 
+15property.
+163.  Priority.  A commercial PACE lien secures payment for any unpaid commercial 
+17PACE assessment and, together with all associated interest and penalties for default and 
+18associated attorney's fees and collection costs, takes precedence over all other liens or 
+19encumbrances except a lien for real property taxes of the municipality and liens of 
+20municipal sewer and water districts. From the date of recording, a commercial PACE lien 
+21is a priority lien against a property, subject only to liens set out in section 6111-A, Title 
+2236, section 552 and Title 38, sections 1050 and 1208, except that the priority of such a 
+23commercial PACE lien over any lien, except for a lien held by a sewer, water or other 
+24municipal district, that existed prior to the commercial PACE lien is subject to the written 
+25consent of such existing lienholder.
+264.  Mortgage lender notice and consent.  Any financial institution holding a lien, 
+27mortgage or security interest in or other collateral encumbrance on the property for which 
+28a commercial PACE assessment is sought must be provided written notice of the 
+29commercial property owner's intention to participate in the commercial PACE program 
+30and acknowledge in writing to the commercial property owner and municipality that the 
+31financial institution has received such notice.  A commercial PACE assessment may not 
+32be approved until the financial institution holding the lien, mortgage or security interest in 
+33or other collateral encumbrance on the property has provided written consent to the 
+34commercial property owner and municipality that the borrower may participate and enroll 
+35the collateral property in the commercial PACE program.  This written consent must be 
+36filed in the registry of deeds.
+375.  Collection, default and foreclosure.  A commercial PACE assessment for which 
+38notice is properly recorded under this section creates a lien on the property. The portion 
+39of the assessment that has not yet become due is not eliminated by foreclosure, and the 
+40lien may not be accelerated or extinguished until fully repaid.
+41A lien created by a commercial PACE assessment recorded in the registry of deeds and 
+42any interest, fees, penalties and attorney's fees incurred in its collection must be collected 
+43in the same manner as the real property taxes of the municipality in which the property is 
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 6 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1located. If a commercial PACE assessment is delinquent or in default, collection may 
+2occur only by the recording of liens and by foreclosure under Title 36, sections 942 and 
+3943. Liens must be recorded and released in the same manner as liens for real property 
+4taxes.
+56.  Judicial sale or foreclosure by 3rd-party lienholder.  In the event of a judicial 
+6or nonjudicial sale or foreclosure by a 3rd-party lienholder of a property subject to a 
+7commercial PACE lien, the lien must survive the foreclosure or sale to the extent of any 
+8unpaid installment, interest, penalties or fees secured by the lien that were not paid from 
+9the proceeds of the sale.  All parties with mortgages or liens on that property, including 
+10without limitation commercial PACE lien holders, must receive on account of such 
+11mortgages or liens sale proceeds in accordance with the priority established in this 
+12chapter and by applicable law.  A commercial PACE assessment is not eliminated by 
+13foreclosure and cannot be accelerated.  Only the portion of a commercial PACE 
+14assessment that is in arrears at the time of foreclosure takes precedence over other 
+15mortgages or liens; the remainder transfers with the property at resale.
+16Unless otherwise agreed upon by the lender, all payments on a commercial PACE 
+17assessment that become due after the date of transfer by judicial or nonjudicial sale or 
+18foreclosure must continue to be secured by a lien on the property and are the 
+19responsibility of the transferee.
+207.  Release of lien.  A municipality shall discharge a commercial PACE lien created 
+21under subsection 2 upon full payment of the amount specified in the commercial PACE 
+22agreement. A discharge under this subsection must be filed with the appropriate registry 
+23of deeds and must include reference to the notice required under subsection 2.' 
+24Amend the bill in section 1 in §10206 in subsection 1 in the 4th line (page 6, line 5 in 
+25L.D.) by striking out the following: "vendor certification" and inserting the following: 
+26'any applicable vendor certification required'
+27Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+28section number to read consecutively.
+29SUMMARY
+30This amendment makes the following changes to the bill.
+311.  It defines "commercial PACE lien" and makes technical changes distinguishing 
+32between a commercial PACE lien and a commercial PACE assessment.
+332.  It clarifies the definition of "qualifying property" to require that the property:
+34A.  Is not owned by a residential customer or small commercial customer as defined 
+35in the Maine Revised Statutes, Title 35-A, section 3106, subsection 1;
+36B.  Consists of 5 or more rental units if the property is a commercial building 
+37designed for residential use; and
+38C.  Is not owned by a federal, state or municipal government or public school.
+393.  It allows that a commercial PACE assessment may be used to secure financing for 
+40the construction of a new building or facility and provides that financing secured for such 
+41projects must be used for energy savings improvements on the property that significantly 
+COMMITTEE AMENDMENT “      ” to S.P. 582, L.D. 1748
+Page 7 - 129LR1608(02)-1
+COMMITTEE AMENDMENT1exceed the energy standards of the Maine Uniform Building and Energy Code or the 
+2applicable energy code in the municipality where the project is located, as determined by 
+3the Efficiency Maine Trust.
+44.  It allows a lender to disburse funds for new construction projects financed through 
+5a commercial PACE assessment before project completion.
+65.  It creates additional underwriting requirements for the savings-to-investment ratio, 
+7debt service coverage ratio and combined loan-to-value ratio of a qualifying property.
+86.  It removes from the bill provisions regarding underwriting and disclosure that 
+9apply to the residential property sector.
+107.  It clarifies that a lender providing financing under a commercial PACE program 
+11has a lien on the qualifying property to secure the payment of an unpaid commercial 
+12PACE assessment.
+138.  It requires that if the trust or a 3rd-party administrator contracted by the trust 
+14collects commercial PACE assessments on behalf of a municipality, the trust must 
+15periodically report to the municipality on the status of the commercial PACE assessments 
+16and must notify the municipality immediately of any delinquent commercial PACE 
+17assessments and that upon receiving notification from the trust of a delinquent 
+18commercial PACE assessment, a municipality must notify the holder of any mortgage on 
+19the property of the delinquent assessment.
+209.  It establishes the priority of a commercial PACE lien versus other liens that may 
+21be on the property.
+2210.  It creates requirements regarding the recording of commercial PACE 
+23assessments and commercial PACE liens.
+2411.  It creates and clarifies collection procedures for commercial PACE assessments 
+25that are delinquent or in default.
+2612.  It makes minor technical changes to clarify the bill and make the language 
+27consistent in each section.
+Approved: 03/14/20
+LD 1 748 LR 1608 (02)
+Fiscal Detail and NotesCurrent biennium cost increase - Efficiency Maine Trust 
+Current biennium revenue increase - Efficiency Maine Trust 
+This bill authorizes the Efficiency Main e Trust (EMT), a third party contracted by EMT or a municipality to establish 
+and administer a commercial property assessed clean energy (PACE) program. The bill directs EMT to adopt a quality 
+assurance system and develop and provide model commerc ial PACE ordinances, forms and other implementation 
+materials to interested parties. EMT is authorized to collect fees to cover its costs of administering the program. The 
+creation and administration of the comme rical PACE program will result in additional expenditures by EMT. These 
+expenditures will be offset by fees collected.  No estimat e of these costs and revenues is made at this time.   129th MAINE LEGISLATURE
+An Act To Allow for the Establishment of Commercial Property Assessed Clean Energy Programs
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Ener gy, Utilities and Technolo gy
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR1608(02) - Fiscal Note - Page 1 of 1

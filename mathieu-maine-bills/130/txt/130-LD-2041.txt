@@ -1,0 +1,162 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 2041
+H.P. 1544 House of Representatives, May 9, 2022
+An Act To Correct Errors in Recently Enacted Legislation
+Reported by Representative HARNETT of Gardiner for the Revisor of Statutes pursuant to 
+the Maine Revised Statutes, Title 1, section 94.
+Reference to the Committee on Judiciary suggested and ordered printed pursuant to Joint 
+Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 130LR2726(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  36 MRSA §5219-S, sub-§4, as amended by PL 2021, c. 635, Pt. E, §7, 
+4 is further amended to read:
+54.  Limitation.  The credit allowed by this section may not reduce the Maine income 
+6 tax to less than zero, except that for tax years beginning on or after January 1, 2016, the 
+7 credit allowed under subsections 1, 1-A, 3 and 3-A is refundable.
+8Sec. A-2. PL 2021, c. 635, Pt. OO, §1, sub-§1, ¶A is amended to read:
+9 A. A high school graduate in the class of 2020, 2021 or 2022 who enrolls in a Maine 
+10 community college in the fall of 2022 or the fall of 2023;
+11Sec. A-3. PL 2021, c. 635, Pt. OO, §1, sub-§1, ¶C is amended to read:
+12 C. A person who obtains the equivalent of a high school diploma in 2020, 2021 or 2022 
+13 who enrolls in a Maine community college in the fall of 2022 or the fall of 2023; or
+14PART B
+15Sec. B-1. PL 2021, c. 679, §1-A is enacted to read:
+16Sec. 1-A. Transfer from Liquor Operation Revenue Fund. Notwithstanding 
+17 the Maine Revised Statutes, Title 30-A, section 6054, subsection 4 or any other provision 
+18 of law to the contrary and in addition to any amount authorized by law to be transferred in 
+19 fiscal year 2022-23, the Maine Municipal Bond Bank shall transfer $1,457,740 by June 30, 
+20 2023 from the Liquor Operation Revenue Fund, established in Title 30-A, section 6054, 
+21 subsection 1, to the unappropriated surplus of the General Fund.
+22Sec. B-2. PL 2021, c. 731, §7 is enacted to read: 
+23Sec. 7. Appropriations and allocations.  The following appropriations and 
+24 allocations are made.
+25COMMUNITY COLLEGE SYSTEM, BOARD OF TRUSTEES OF THE MAINE
+26Regional Fire Service Training Fund N349
+27 Initiative: Provides ongoing funding for the Maine Fire Service Institute to provide funds 
+28 for regional fire service training in the State awarded by the Maine Fire Protection Services 
+29 Commission.
+GENERAL FUND 2021-22 2022-23
+All Other $0 $200,000
+ __________ __________
+GENERAL FUND TOTAL $0 $200,000
+30Sec. B-3. PL 2021, c. 734, §1 is repealed and the following enacted in its place:
+35Sec. 1. Transfer from Liquor Operation Revenue Fund. Notwithstanding the 
+36 Maine Revised Statutes, Title 30-A, section 6054, subsection 4 or any other provision of 
+37 law to the contrary and in addition to any amount authorized by law to be transferred in 
+38 fiscal year 2021-22, the Maine Municipal Bond Bank shall transfer $10,000,000 by June 30
+31
+32
+33
+34
+Page 2 - 130LR2726(01)39 30, 2022 from the Liquor Operation Revenue Fund, established in Title 30-A, section 6054, 
+40 subsection 1, to the unappropriated surplus of the General Fund.
+3SUMMARY
+4 Current law allows the earned income tax credit to be refundable for resident taxpayers 
+5 and part-year resident taxpayers.  The earned income tax credit was increased in the so-
+6 called supplemental General Fund budget, Public Law 2021, chapter 635, but the cross-
+7 reference to the provision of law regarding the refundability of the credit for residents was 
+8 inadvertently omitted.  Part A, section 1 corrects a cross-reference to continue the 
+9 refundability of the earned income tax credit for resident taxpayers.
+10 Part OO of the so-called supplemental General Fund budget, Public Law 2021, chapter 
+11 635, enacted a program to provide 2 years of enrollment for free at a Maine community 
+12 college.  As enacted, the program allows a person who graduates from high school, or 
+13 obtains the equivalent of a high school diploma, in 2020, 2021 or 2022 to attend community 
+14 college for free if the person enrolls in a Maine community college in the fall of 2022 but 
+15 not if the person enrolls in a Maine community college in the fall of 2023.  Part A, sections 
+16 2 and 3 correct that error by specifying that a graduate, or equivalent, in the class of 2020, 
+17 2021 or 2022 may also obtain free tuition by enrolling in a Maine community college in 
+18 the fall of 2023.
+19 Part B, section 1 corrects L.D. 533, An Act To Expand the Statewide Voluntary Early 
+20 Childhood Consultation Program, which was amended off of the Special Appropriations 
+21 Table to provide funding from the General Fund to the early childhood consultation 
+22 program in the Department of Health and Human Services and offset that funding through 
+23 a transfer from the Liquor Operation Revenue Fund.  The transfer from the Liquor 
+24 Operation Revenue Fund was inadvertently left off of the enacted bill.  Section 4 corrects 
+25 that error by including the transfer language in Public Law 2021, chapter 679.
+26 Part B, section 2 corrects L.D. 731, An Act To Establish a Program To Assist Regional 
+27 Firefighter Training Programs, To Provide Tax Credits to Businesses That Employ 
+28 Volunteer Firefighters and Emergency Medical Services Persons and To Provide Benefits 
+29 to Volunteer Firefighters and Emergency Medical Services Persons, which was amended 
+30 off of the Special Appropriations Table to move appropriations from fiscal year 2021-22 
+31 to fiscal year 2022-23, including $200,000 in ongoing funding for the program established 
+32 in the legislation to provide grants to municipalities for the purpose of funding regional fire 
+33 service training of municipal firefighters and public safety employees and $33,000 in one-
+34 time funding for computer programming changes necessary to accommodate the tax credit 
+35 for employers of volunteer firefighters and volunteer municipal emergency services 
+36 persons.  The bill, as enacted, left off the $200,000 appropriation for fiscal year 2022-23.  
+37 Part B, section 2 amends Public Law 2021, chapter 731 to add the $200,000 appropriation.
+38 Part B, section 3 corrects L.D. 910, An Act To Amend the General Assistance Laws 
+39 Governing Reimbursement, which was amended off of the Special Appropriations Table 
+40 to provide funding of $10,000,000 in fiscal year 2021-22 to the Department of Health and 
+41 Human Services, General Assistance, Other Special Revenue Funds account from the 
+42 General Fund and to offset those amounts through a transfer from the Liquor Operation 
+43 Revenue Fund.  The amounts specified in the section of the enacted bill transferring funds 
+44 from the Liquor Operation Revenue Fund were incorrectly stated. Part B, section 3 amends 1
+2
+4
+5
+6
+7
+8
+9
+Page 3 - 130LR2726(01)45 Public Law 2021, chapter 734 to specify the correct amounts to be transferred in each fiscal 
+46 year.
+47FISCAL NOTE REQUIRED
+48(See attached)1
+2
+3
+4
+Approved: 05/06/22
+LD 2041     LR 2726 (01)
+FY 2021-22 FY 2022-23Projections 
+FY 2023-24Projections 
+FY 2024-25
+Net Cost (Savings)
+General Fund $20,000,000 $54,742,260 $200,000 $200,000
+Appropriations/Allocations
+General Fund $0 $200,000 $200,000 $200,000
+Transfers
+General Fund ($20,000,000) ($54,542,260) $0 $0
+Other Special Revenue Funds $20,000,000 $56,000,000 $0 $0
+Fiscal Detail and Notes
+In accordance with the intent of LD 910 as amended off th e Special Appropriations Table, the bill also reduces the 
+transfer from the Liquor Operation Revenue Fund within  the Maine Municipal Bond Bank to the unappropriated 
+surplus of the General Fund from $30,000,000 to $10,000,000 by June 30, 2022, and from $56,000,000 to $0 by June 30, 2023.In accordance with the intent of LD 731 as amended off th e Special Appropriations Table,  this bill includes ongoing 
+General Fund appropriations of $200,000 per year beginning in  fiscal year 2022-23 to a ne wly created Regional Fire 
+Service Training Fund within the Maine Community College System to provide grants to municipalities for regional 
+fire service training. Fiscal Note Required: Yes
+Fiscal Note130th MAINE LEGISLATURE
+An Act To Correct Errors in Recently Enacted Legislation
+Fiscal Note for Original Bill
+Committee: Not Referred
+In accordance with the intent of LD 533 as amended off the Special Appropriations Table, the bill includes a transfer 
+of $1,457,740 in fiscal year 2022-23 from the Liquor Oper ation Revenue Fund within the Maine Municipal Bond 
+Bank to the unappropriated surplus of the Genera l Fund to offset the cost to the General Fund.
+LR2726(01) - Fiscal Note - Page 1 of 1

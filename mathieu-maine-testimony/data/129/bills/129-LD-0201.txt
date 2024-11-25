@@ -1,0 +1,114 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 201
+H.P. 164 House of  Representatives, January 22, 2019
+An Act  To Protect  Jobs  in the State by Requiring Advance  Notice  of 
+Closure of  Call  Centers
+Reference to the Committee on Labor and Housing suggested and  ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative DUNPHY of Old Town.
+Cosponsored by Senator BELLOWS of Kennebec and
+Representatives: COLLINGS of  Portland, CUDDY of  Winterport, DOORE of Augusta, 
+HANDY of  Lewiston, HICKMAN of  Winthrop, MASTRACCIO of Sanford, SYLVESTER of 
+Portland, WARREN of  Hallowell.
+
+Page 1 - 129LR0729(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  26 MRSA c. 43 is enacted to read:
+3CHAPTER 43
+4CALL CENTER RETENTION
+5§3501.  Definitions
+6As used in this chapter, unless the context otherwise indicates, the following terms 
+7have the following meanings.
+81.  Agency.  "Agency" means an executive branch agency of the State.
+92.  Call center.  "Call center" means a business enterprise that employs, for the 
+10purpose of customer service or back office operations:
+11A.  Fifty or more employees, excluding part-time employees; or
+12B.  Fifty or more employees who in the aggregate work at least 1,500 hours per week, 
+13excluding overtime hours.
+143.  Commissioner.  "Commissioner" means the Commissioner of Labor.
+154.  Employer.  "Employer" means a person, partnership, firm, association or 
+16corporation, public or private, that operates a call center.
+175.  Part-time employee.  "Part-time employee" means an employee who works an 
+18average of less than 20 hours per week or who has been employed for less than 6 months 
+19during the 12 months preceding the date on which notice is required pursuant to section 
+203502, subsection 1.
+21§3502.  Notice requirement; list of employers
+221.  Notice requirement.  An employer who intends to relocate a call center, or one or 
+23more facilities or operating units within a call center handling at least 30% of the call 
+24center's total call volume for the previous 12 months, from the State to a foreign country 
+25shall notify the commissioner at least 120 days before the relocation.
+262.  List.  The commissioner shall compile a semiannual list of all employers that 
+27relocate a call center or one or more facilities or operating units within a call center as 
+28described in subsection 1.  The commissioner shall distribute the list to all agencies under 
+29the jurisdiction of the commissioner.
+303.  Penalty.  An employer who fails to notify the commissioner of the relocation of a 
+31call center at least 120 days before the relocation may be assessed a fine of $10,000 for 
+32each day the employer fails to notify the commissioner, except that the commissioner 
+33may reduce the amount for just cause shown.
+Page 2 - 129LR0729(01)-11§3503.  Grants; guaranteed loans; tax benefits
+21.  Ineligibility.  Except as provided in subsection 3, and notwithstanding any other 
+3provision of law, an employer who appears on the list described in section 3502, 
+4subsection 2 is ineligible for any direct or indirect state grant, state guaranteed loan or tax 
+5benefit for 5 years after the date the list is compiled.
+62.  Remit remaining amount.  Notwithstanding any other provision of law, an 
+7employer who appears on the list described in section 3502, subsection 2 shall remit to 
+8the commissioner the unamortized value of any state grant, state guaranteed loan or tax 
+9benefit the employer previously received.
+103.  Exceptions.  The commissioner, in consultation with the appropriate agency, may 
+11waive the eligibility restriction under subsection 1 if the employer applying for a loan, 
+12grant or tax benefit demonstrates that a lack of a state grant, state guaranteed loan or tax 
+13benefit would result in substantial job loss in the State or harm the environment.
+14§3504.  In-state procurement
+15An agency head shall ensure that all call center work contracted for by the agency is 
+16performed by contractors or their agents or subcontractors that are located entirely within 
+17the State.
+18§3505.  State benefits for workers
+19This chapter may not be construed to permit withholding or denial of payments, 
+20compensation or benefits under any other state law, including state unemployment 
+21compensation, disability payments or worker retraining or readjustment funds, from or to 
+22employees employed by employers that relocate to a foreign country.  Nothing in this 
+23chapter alters any of the responsibilities of call centers pursuant to section 625-B.
+24Sec. 2.  Contract with State.  An employer who on the effective date of this Act 
+25is under contract with the State to perform call center work and performs that work 
+26outside the State has 2 years to comply with the Maine Revised Statutes, Title 26, chapter 
+2743, except that if the employer adds employees to perform call center work under the 
+28contract, the new employees must immediately be employed within the State.
+29Sec. 3.  Effective date.  This Act takes effect 180 days after adjournment of the 
+30First Regular Session of the 129th Legislature.
+31SUMMARY
+32This bill requires a person that operates a call center in the State to provide the 
+33Commissioner of Labor 120 days' notice before relocating the call center or a part of the 
+34call center.  If the employer fails to notify the Commissioner of Labor of the relocation of 
+35the call center at least 120 days before the relocation, a daily fine of $10,000 may be 
+36assessed.
+Page 3 - 129LR0729(01)-11The bill requires the Commissioner of Labor to create a list of employers who have 
+2relocated a call center, or a facility or operating unit handling at least 30% of call volume 
+3within a call center, from the State to a foreign country.  An employer appearing on the 
+4list is ineligible for a state grant, loan or tax benefit for 5 years and is required to pay back 
+5the unamortized value of a state grant, loan or tax benefit previously issued to the 
+6employer.  The bill requires that call center work for executive branch agencies of the 
+7State be performed in the State.

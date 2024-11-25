@@ -1,0 +1,584 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1583
+S.P. 556 In Senate,  May 4, 2017
+An Act  To Amend the Electricians'  Examining Board Licensing 
+Laws
+Submitted by the Department of  Professional and Financial Regulation pursuant to  Joint  
+Rule 204.
+Reference to the Committee on Labor, Commerce, Research and Economic  Development 
+suggested and ordered printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator VOLK of Cumberland.
+
+ 
+ Page 1 - 128LR0763(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  32 MRSA §1101, as amended by PL 2011, c. 286, Pt. F, §§1 to 4; c. 290, 2 
+§§1 and 2; c. 406, §1; c. 491, §14; and c. 650, §1, is further amended to read:  3 
+§1101.  Definitions  4 
+As used in thi s chapter, unless the context otherwise indicates, the following terms 5 
+have the following meanings.  6 
+1.  Apprentice electrician.  "Apprentice electrician" means an apprentice , as defined 7 
+in Title 26, section 3201, subsection 1,  who is engaged in a written ag reement to work at 8 
+and learn the trade of an electrician under the direct supervision of a licensed  master, 9 
+journeyman or limited electrician.  10 
+1-A.  Electrical company.   "Electrical company" means a person, firm, corporation 11 
+or partnership employing licens ees engaged in the business of doing electrical 12 
+installations.  13 
+1-B.  Board.  "Board" means the Electricians' Examining Board.  14 
+1-C.  Dwelling unit.   "Dwelling unit" means a single unit providing complete and 15 
+independent living facilities for one or more per sons, including permanent provisions for 16 
+living, sleeping, cooking and sanitation.  17 
+2.  Electrical installations.  "Electrical installations" means the installation, repair, 18 
+alteration and maintenance of electrical conductors, fittings, devices and fixtures for 19 
+heating, lighting, power purposes or heat activated fire alarms, intrusion alarms, energy 20 
+management, telephone, telegraph,  cable and closed circuit  closed -circuit  television, 21 
+sound systems, data transmission,  conduit and raceway systems and electrical ly 22 
+supervised manual fire alarms and sprinkler systems. "Electrical installations" includes 23 
+complete installations related to photovoltaic, fuel cell and wind power generation 24 
+systems.  "Electrical installations" does not include the installation or repair  of portable 25 
+appliances and other portable electrical equipment, installation of which involves only the 26 
+insertion of an attachment plug into a fixed receptacle outlet. It is the meaning and intent 27 
+of this subsection that the word "portable" does not inclu de or apply to any type of fixed 28 
+electrically operated or driven equipment.  29 
+3.  Helper electrician.  "Helper electrician" means a licensed  person making 30 
+electrical installations in the employment of a licensed  master electrician, limited 31 
+electrician or elec trical company and under the direct supervision of a licensed  master, 32 
+journeyman or limited electrician but who does not qualify under subsection 1.  33 
+3-A.  Journeyman -in-training electrician.   "Journeyman -in-training electrician" 34 
+means a person making elect rical installations in the employment of a licensed  master 35 
+electrician, limited electrician or electrical company and under the indirect supervision of 36 
+a licensed  limited or master electrician.  37 
+ 
+ Page 2 - 128LR0763(01) -1 
+ 4.  Journeyman electrician.   "Journeyman electrician" means a licensed  person 1 
+making electrical installations in the employment and under the indirect supervision of a 2 
+licensed  master electrician, limited electrician or electrical company.  3 
+4-A.  Supervision.   Two apprentice electricians, one helper electrician or 2 h elper 4 
+electricians who are both currently enrolled in, or have completed, a program of study 5 
+consisting of 576 hours of education as approved by the Electricians' Examining Board or 6 
+from an accredited institution may work with and under the direct supervis ion of a master 7 
+electrician, limited electrician or journeyman electrician.  A master electrician who 8 
+teaches an electrical course at a Maine career and technical education center, a Maine 9 
+career and technical education region, a Maine community college or  an apprenticeship 10 
+program registered by the Department of Labor may have a maximum of 12 helper or 11 
+apprentice electricians under direct supervision while making electrical installations that 12 
+are a part of the instructional program of the school or apprent iceship program, as long as 13 
+the total value of each installation does not exceed $5,000. An electrical installation may 14 
+not be commenced pursuant to this subsection without the prior approval of the director 15 
+or president of the school or apprenticeship pro gram at which the master electrician is an 16 
+instructor. These installations are limited to those done in buildings or facilities owned or 17 
+controlled by:  18 
+A.  School administrative units; and  19 
+B.  Nonprofit organizations.  20 
+The Electricians' Examining Board and the municipal electrical inspector of the 21 
+municipality in which the installation is to be made, if the municipality has an inspector, 22 
+must be notified of all installation projects entered into pursuant to this subsection prior to 23 
+the commencement of the pr oject. There must be an inspection by a state electrical 24 
+inspector or by the municipal electrical inspector of the municipality in which the 25 
+installation has been made, if the municipality has an inspector, before any wiring on the 26 
+project is concealed.  27 
+5.  Limited electrician.   "Limited electrician" means a licensed  person doing work to 28 
+install and service the electrical work related  making electrical installations limited  to a 29 
+specific type of electrically operated equipment or to specific electrical inst allations only 30 
+authorized by this license.  31 
+6.  Master electrician.  "Master electrician" means an individual  a licensed person  32 
+qualified under this chapter , engaging in, or about  to engage in , the business of installing 33 
+electrical wires, conduits, apparatus , fixtures and other electrical equipment. The 34 
+certificate must specify the name of the individual who is authorized to enter upon or 35 
+engage in business as set forth in this chapter.  36 
+8.  Utility corporation.   "Utility corporation" means a utility that is n ot a public 37 
+utility, as defined in Title 35 -A, section 102, or a person, firm or corporation subject to 38 
+the jurisdiction of the Federal Communications Commission.  39 
+Sec. 2.  32 MRSA §1102, sub -§1-A, ¶B, as enacted by PL 2011, c. 290, §3, is 40 
+amended to read:  41 
+ 
+ Page 3 - 128LR0763(01) -1 
+ B.  Installations of mobile home  manufactured housing  service equipment; and  1 
+Sec. 3.  32 MRSA §1102, sub -§1-B, as enacted by PL 2011, c. 290, §4, is 2 
+amended to read:  3 
+1-B.  Aboveground electric lines.   Electrical work in connection with the 4 
+construction, in stallation, operation, repair or maintenance of any aboveground electric 5 
+transmission  line capable of operating at one kilovolt or more.  6 
+Sec. 4.  32 MRSA §§1102 -C and 1102 -D are enacted to read:  7 
+§1102 -C.  Permit; inspection of electrical installations  8 
+1.  Permit required.   Except as otherwise provided in this section and in section 9 
+1102 -D, a permit must be obtained from the board before an electrical installation may be 10 
+performed.  11 
+2.  Application for permit.   An application for a permit must be submitted by  a 12 
+licensed master electrician or limited electrician on a form provided by the board together 13 
+with any plans, specifications or schedules the board may require prior to making the 14 
+electrical installation.  If the board determines that the description of t he electrical 15 
+installation planned is in compliance with all applicable statutes, ordinances and rules, 16 
+and a fee required under subsection 4 has been paid, the board shall issue a permit.  17 
+3.  Inspection required.   An inspection is required before electric al wiring is 18 
+enclosed through the construction process.  The licensed electrician performing the 19 
+electrical installation shall notify a state electrical inspector, or the local municipal 20 
+inspector if the municipality has an electrical inspector, when the i nstallation is ready for 21 
+inspection.  The inspector shall determine whether the electrical installation complies 22 
+with all applicable statutes, ordinances and rules.  If the inspector determines that the 23 
+electrical installation does not comply, the procedur es set forth in section 1104 apply.  A 24 
+utility corporation must require proof of permit prior to connecting power to the electrical 25 
+installation.  26 
+4.  Procedures and fees.   Pursuant to the Maine Administrative Procedure Act, the 27 
+board may adopt procedures f or applications for permits and the conduct of inspections 28 
+under this section.  The combined service fee for a permit and inspection must be paid 29 
+with every application for a permit. The Director of the Office of Professional and 30 
+Occupational Regulation wi thin the Department of Professional and Financial Regulation 31 
+shall adopt by rule a schedule of appropriate service fees, but in no event may any 32 
+scheduled service fee exceed $100.  Rules adopted pursuant to this subsection are routine 33 
+technical rules pursu ant to Title 5, chapter 375, subchapter 2 -A. 34 
+5.  Exceptions to the permitting requirement.   In addition to the exception for a 35 
+single -family dwelling set forth in section 1102 -D, a permit from the board is not 36 
+required for:  37 
+A.  An electrical installation i n a single -family dwelling performed by a licensed 38 
+electrician qualified under this chapter;  39 
+ 
+ Page 4 - 128LR0763(01) -1 
+ B.  The electrical work and equipment employed in connection with the construction, 1 
+installation, operation, repair or maintenance of any utility by a public utili ty, or by a 2 
+contractor working on behalf of a public utility as set forth in section 1102, 3 
+subsection 1 -C, in rendering its authorized service or in any way incidental thereto;  4 
+C.  The electrical work and equipment employed in connection with an abovegroun d 5 
+electric transmission line described in section 1102, subsection 1 -B; 6 
+D.  Minor repair work, including the replacement of lamps, fuses, lighting fixtures, 7 
+switches and sockets, the installation and repair of outlets, radio and other low - 8 
+voltage equipment  and the repair of service entrance equipment;  9 
+E.  Electrical installations for which a permit and inspection are required by 10 
+municipal resolution or ordinance under Title 30 -A, section 4173;  11 
+F.  Any electrical equipment and work, including construction, i nstallation, operation, 12 
+maintenance and repair in or about industrial or manufacturing facilities;  13 
+G.  Any electrical equipment and work, including construction, installation, 14 
+operation, maintenance and repair in, on or about other properties, equipment or  15 
+buildings, residential or of any other kind, owned or operated by a person engaged in 16 
+industrial or manufacturing operations provided that the work is done under the 17 
+supervision of an electrical engineer or master electrician in the employ of that 18 
+person;  19 
+H.  Work performed by any person licensed under chapter 139 as an oil burner 20 
+technician, subject to the restrictions of the license as issued;  21 
+I.  Work performed by a person licensed under chapter 139 as a propane and natural 22 
+gas installer, when installin g propane and natural gas utilization equipment, subject to 23 
+the restrictions of that person's license;  24 
+J.  Work performed by a person licensed under chapter 49 as a plumber, except that 25 
+this exception applies only to disconnection and connection of electri cal conductors 26 
+required in the replacement of water pumps and water heaters of the same or smaller 27 
+size in residential properties; or  28 
+K.  Work performed by a person licensed under chapter 69 -C as a pump installer, 29 
+except that this exception applies only t o disconnection and connection of electrical 30 
+conductors required in the replacement of water pumps of the same or smaller size in 31 
+residential properties and the installation of new water pumps and associated 32 
+equipment of 3 horsepower or smaller.  33 
+§1102 -D.  Single -family dwelling exception; certificate required  34 
+1.  Exception.   A person may make an electrical installation in a newly constructed 35 
+single -family dwelling that is occupied by that person and used solely as a single -family 36 
+dwelling, or will be occupi ed by that person as the person's bona fide personal abode and 37 
+used solely as a residence, as long as the electrical installation conforms to the standards 38 
+of the National Electrical Code or other standards approved by the board and as long as 39 
+the person a pplies for and receives a single -family dwelling certificate in accordance with 40 
+this section.  41 
+ 
+ Page 5 - 128LR0763(01) -1 
+ 2.  Application for single -family dwelling certificate.   An application for a single - 1 
+family dwelling certificate must be made by the person that is using and occu pying, or 2 
+will use and occupy, the single -family dwelling solely as that person's bona fide personal 3 
+abode and residence.  4 
+3.  Certification.   An electrical installation made pursuant to this section in a newly 5 
+constructed single -family dwelling requires ce rtification by a state electrical inspector or 6 
+a local inspector, or a licensed master electrician or a licensed limited electrician in house 7 
+wiring, prior to the activation of electricity by the utility company.  8 
+4.  Notification and inspection of single -family dwelling certificate required.   An 9 
+inspection is required before the electrical wiring is enclosed by the construction process.  10 
+The person making the electrical installation shall contact the state electrical inspector 11 
+prior to the electrical instal lation.  The person making the electrical installation shall also 12 
+notify the state inspector when the electrical installation is ready for inspection.  The 13 
+inspector shall determine whether the electrical installation complies with all applicable 14 
+statutes,  ordinances and rules.  If the inspector determines that the electrical installation 15 
+does not so comply, the procedures set forth in section 1104 apply.  A utility corporation 16 
+must require proof of certification prior to connecting power to the electrical installation.  17 
+5.  Procedures and fees.   Pursuant to the Maine Administrative Procedure Act, the 18 
+board may adopt procedures for applications for single -family dwelling certificates and 19 
+the conduct of inspections under this section. The combined service fee for a certificate 20 
+and inspection must be paid with every application for a certificate. The Director of the 21 
+Office of Professional and Occupational Regulation within the Department of 22 
+Professional and Financial Regulation shall adopt by rule a schedule of appropriate 23 
+service fees, but in no event may any scheduled service fee exceed $100. Rules adopted 24 
+pursuant to this subsection are routine technical rules pursuant to Title 5, chapter 375, 25 
+subchapter 2 -A. 26 
+Sec. 5.  32 MRSA §1103, as amended by PL 2011, c. 4 20, Pt. M, §1 and affected 27 
+by §7, is further amended to read:  28 
+§1103.  Municipal licenses not required; municipal permits  29 
+ A municipality, notwithstanding  provisions in charters or ordinances  to the contrary, 30 
+may not require licensed  electricians to be muni cipally licensed, and a municipality may 31 
+not issue a permit for an electrical installation unless satisfied that the person applying for 32 
+the permit complies with this chapter.  33 
+Sec. 6.  32 MRSA §1104, as amended by PL 2011, c. 559, Pt. A, §34, is further 34 
+amended to read:  35 
+§1104.  State electrical inspectors  36 
+State electrical inspectors have powers throughout the counties of the State similar to 37 
+those of sheriffs in their respective counties, relating to enforcement of this chapter and 38 
+rules adopted under this chapter.  These powers are limited to the power to conduct 39 
+ 
+ Page 6 - 128LR0763(01) -1 
+ investigations, issue citations, serve summonses and order corrections of violations in 1 
+accordance with specific statutory authority.  2 
+1.  Complaint inspections.   State electrical inspectors, upon an oral  complaint of 3 
+imminent danger or upon written complaint of any owner, lessee or tenant of a building, 4 
+state fire inspector, fire chief, fire department inspector, personnel of a transmission and 5 
+distribution utility or local electrical inspector or w henever they determine it necessary at 6 
+all reasonable hours, for purposes of examination, may enter into and upon all buildings 7 
+or premises within their jurisdiction and inspect the same  those buildings or premises .  8 
+They may enter any building only with t he permission of the person having control 9 
+thereof or, after hearing, upon order of court.  Whenever any state electrical inspector 10 
+finds any electrical installation in any building or structure that does not comply with this 11 
+chapter, that inspector shall order the same  the electrical installation  to be removed or 12 
+remedied and the order must forthwith be complied with by the owner or occupant of the 13 
+premises or buildings or the electrician that performed the work.  Whenever any state 14 
+electrical inspector fi nds any electrical installation in any building or structure that creates 15 
+a danger to other property or to the public, the inspector may forbid use of the building or 16 
+structure by serving a written order upon the owner and the occupant, if any, to vacate 17 
+within a reasonable period of time to be stated in the order.  18 
+2.  Order to correct deficiency; appeal.  Any person ordered by a state electrical 19 
+inspector to correct an electrical deficiency or to vacate a building or structure may 20 
+appeal the order to the E lectricians' Examining Board by filing with that board within 30 21 
+days of receipt of the order a written notice of appeal.  The board shall hold a hearing and  22 
+review that appeal and issue its written decision thereof within a reasonable time after 23 
+receipt o f the notice of appeal.  If the board upholds the inspector's order, it shall 24 
+prescribe the time period for the requisite correction specified in its written decision or 25 
+the time within which that person must vacate the building or structure.  The decision  26 
+must be complied with unless appealed as provided.  Any person ordered by the board to 27 
+correct an electrical deficiency or to vacate a building or structure may appeal the order to 28 
+the Superior Court in accordance with Title 5, chapter 375, subchapter 7  section 11001  by 29 
+filing a petition for review within 48 hours of receipt of the order.   The petition for 30 
+review may be advanced on the docket and receive priority over other cases when the 31 
+court determines that the interests of justice so require.  32 
+The deci sion of the Superior Court on an appeal as provided is final. An order by a 33 
+state electrical inspector or an order by the Electricians' Examining Board is final and 34 
+subject to no further appeal upon failure to file a timely, written appeal therefrom as 35 
+provided.  36 
+Upon the failure of any person to carry out a final order as provided, the Electricians' 37 
+Examining Board may petition the Superior Court for the county in which the building or 38 
+premises are located for an injunction to enforce that order.  If the co urt determines upon 39 
+hearing the petition that a lawful final order was issued, it shall order compliance.  40 
+Sec. 7.  32 MRSA §1105, sub -§5, as amended by PL 2007, c. 402, Pt. I, §5, is 41 
+repealed.  42 
+ 
+ Page 7 - 128LR0763(01) -1 
+ Sec. 8.  32 MRSA §1151, 2nd ¶, as amended by PL 2007, c. 402, P t. I, §6, is 1 
+further amended to read:  2 
+The 7 members consist  board consists  of:  one master electrician experienced in low - 3 
+energy electronics; one master  electrician who is a bona fide member from organized 4 
+labor classified as an inside electrician; one master electrician who is employed as a 5 
+municipal  electrical inspector; one master electrician from the education field; and one 6 
+person  master electrician  experienced in the any electrical field, all of whom must have at 7 
+least 10 5 years of experience in the electrical field , except that the latter 3 need not be 8 
+active electricians at the time of their appointment ; and 2 public members as defined in 9 
+Title 5, section 12004 -A. 10 
+Sec. 9.  32 MRSA §1152, as amended by PL 2003, c. 204, Pt. C, §1, is repealed.  11 
+Sec. 10 .  32 MRSA §1153 -A, as repealed and replaced by PL 2003, c. 204, Pt. C, 12 
+§2, is amended to read:  13 
+§1153 -A.  Standards; installation  14 
+All electrical installations must comply with the National Electrical Code that is 15 
+adopted by rule by the board.   The board sh all establish by rule technical standards for the 16 
+proper installation of electrical equipment.  These standards must conform as nearly as 17 
+practicable to the National Electrical Code, National Fire Protection Association standard 18 
+#70.  The installation of t he electrical equipment must also comply with the applicable 19 
+statutes of the State and all applicable ordinances, orders, rules and regulations of any city 20 
+or town where the installation is being performed.  Rules adopted pursuant to this section 21 
+are routi ne technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 22 
+Sec. 11.  32 MRSA §1155 -B, sub -§1, ¶A, as enacted by PL 2007, c. 402, Pt. I, 23 
+§10, is amended to read:  24 
+A.  Any gross negligence, incompetency or misconduct in the performance of the 25 
+work  of making electrical installations. Continued failure to conform with applicable 26 
+regulations of the National Electrical Code, National Electrical Safety Code or of 27 
+other safety codes that have been approved by the American National  Standards 28 
+Association  Institute  or its successor or other organization approved by the board is 29 
+prima facie evidence of that gross negligence and incompetency; and  30 
+Sec. 12.  32 MRSA §1201, as amended by PL 2011, c. 420, Pt. M, §5 and affected 31 
+by §7, is further amended to read:  32 
+§1201.  License required  33 
+An electrical installation may not be made unless by an electrician or other person  34 
+licensed by the board except as provided in this chapter.  35 
+Sec. 13.  32 MRSA §1201 -A, sub -§4, as enacted by PL 2011, c. 286, Pt. F, §12, 36 
+is amended t o read:  37 
+ 
+ Page 8 - 128LR0763(01) -1 
+ 4.  Low -energy installers.   Individuals or employees installing telephone, telegraph,  1 
+cable and closed -circuit television, data communication  transmission  and sound 2 
+equipment;  3 
+Sec. 14.  32 MRSA §1202, as amended by PL 2011, c. 406, §2 and c. 420, P t. M, 4 
+§6 and affected by §7 and amended by c. 491, §15, is repealed.  5 
+Sec. 15.  32 MRSA §1202 -A is enacted to read:  6 
+§1202 -A.  Issuance of licenses  7 
+An applicant for licensure under this section shall submit an application with the 8 
+required fee established un der section 1203 -A. A person licensed under this chapter must 9 
+produce a copy of the license upon request of the state electrical inspector.  10 
+1.  Apprentice or helper electrician; scope of license.   The board may issue a 11 
+license to an applicant for an appren tice electrician license or a helper electrician license.  12 
+A.  An apprentice electrician who is licensed in accordance with this subsection and 13 
+registered with an apprenticeship program may perform electrical installations under 14 
+the direct supervision of a master electrician, journeyman electrician or limited 15 
+electrician.  16 
+B.  A helper electrician who is licensed in accordance with this subsection may make 17 
+electrical installations under the direct supervision of a master electrician, 18 
+journeyman electrician or  limited electrician.  A helper electrician must be employed 19 
+by a supervising master electrician, limited electrician or electrical company.  20 
+2.  Journeyman electrician; scope of license.   The board may issue a license to an 21 
+applicant for a journeyman elect rician license.  22 
+A.  A journeyman electrician may make electrical installations while employed by a 23 
+supervising master electrician, limited electrician or electrical company.  A person 24 
+licensed under this subsection may supervise:  25 
+(1) Two helper electrician s who are enrolled in, or have completed, a program of 26 
+study consisting of 576 hours of education as approved by the board or from an 27 
+accredited institution;  28 
+(2) Two apprentice electricians; or  29 
+(3) One helper electrician.  30 
+B.  In order to obtain a license u nder this subsection, a person must first pass an 31 
+examination approved by the board and provide evidence of having:  32 
+(1) Worked at least 8,000 hours in the field of electrical installations as a licensed 33 
+helper electrician or apprentice electrician under th e direct supervision of a 34 
+master electrician, journeyman electrician or limited electrician or having at least 35 
+8,000 hours of work experience in electrical installations, and having completed a 36 
+program of study consisting of 576 hours as approved by the bo ard or from an 37 
+accredited institution.  The 576 hours must consist of 225 hours of required 38 
+study, including an approved course of 45 hours in the current National Electrical 39 
+ 
+ Page 9 - 128LR0763(01) -1 
+ Code, and 351 hours of elective study that is either composed of all trade -relate d 1 
+electives or 225 hours of trade -related courses and 135 hours of degree -related 2 
+courses;  3 
+(2) Graduated from an accredited regional applied technology high school 2 -year 4 
+electrical program, worked at least 8,000 hours in the field of electrical 5 
+installati ons as a licensed helper electrician under the direct supervision of a 6 
+master electrician, journeyman electrician or limited electrician and completed a 7 
+course of 45 hours in the current National Electrical Code;  8 
+(3) Graduated from an accredited community college electrical program or a 9 
+vocational -electrical program of a state department of corrections and having 10 
+worked at least 8,000 hours in the field of electrical installations as a licensed 11 
+helper electrician, under the direct supervision of a master el ectrician, 12 
+journeyman electrician or limited electrician, and having completed a course of 13 
+45 hours in the current National Electrical Code.  Graduates of a community 14 
+college electrical program or a vocational -electrical program of a state 15 
+department of co rrections are credited 4,000 hours of work experience in 16 
+electrical installations and are qualified to sit for the examination;  17 
+(4) Worked at least 8,000 hours as a licensed apprentice electrician in the field of 18 
+electrical installations under the direct supervision of a master electrician, 19 
+journeyman electrician or limited electrician, having completed a program of 20 
+study comprising at least 576 hours prescribed in an apprenticeship program 21 
+approved by the board and having completed a course of 45 hours in  the current 22 
+National Electrical Code.  A licensed apprentice who has completed an approved 23 
+apprenticeship program of study and has worked at least 4,000 hours as a 24 
+licensed apprentice electrician is qualified to sit for the examination; or  25 
+(5) Comparable work experience or education or training, or a combination of 26 
+work experience, education and training, completed within the State or outside 27 
+the State, that is acceptable to the board.  28 
+4.  Journeyman -in-training electrician license; scope of license; profe ssional 29 
+qualifications.  The board may issue a license to an applicant for a journeyman -in- 30 
+training electrician license.  31 
+A.  A journeyman -in-training electrician may make electrical installations while 32 
+employed by a supervising master electrician, limited e lectrician or electrical 33 
+company.  A journeyman -in-training electrician may not supervise other electricians.  34 
+B.  In order to obtain a license under this subsection, a person must first pass an 35 
+examination approved by the board and provide evidence of havi ng: 36 
+(1) Completed at least 2,000 work hours in the field of electrical installations as a 37 
+licensed helper electrician under the direct supervision of a master electrician, 38 
+journeyman electrician or limited electrician;  39 
+(2) Graduated from an accredited comm unity college electrical program or a 40 
+vocational -electrical program of a state department of corrections; and  41 
+(3) Completed a course of 45 hours in the current National Electrical Code.  42 
+ 
+ Page 10 - 128LR0763(01) -1 
+ 5.  Master electrician license; scope of license; professional qualifi cations.   The 1 
+board may issue a license to an applicant for a master electrician license.  2 
+A.  A master electrician may make electrical installations without limitation. A 3 
+master electrician is responsible for verifying the current licensure of all of that 4 
+master electrician's employees, if licensure is applicable, prior to and during 5 
+employment.  Master electricians are responsible for any electrical installation they 6 
+perform and for the electrical installations of individuals they supervise at the time of 7 
+the electrical installations.  8 
+A master electrician may supervise 2 helper electricians who are enrolled in, or have 9 
+completed, a program of study consisting of 576 hours of education as approved by 10 
+the board or from an accredited institution; 2 apprentice electricians; or one helper 11 
+electrician.  Any helper electrician or apprentice electrician must be employed by a 12 
+master electrician and be under the master electrician's supervision.  13 
+A master electrician may supervise an unlimited number of licensed journe yman 14 
+electricians, journeyman -in-training electricians or limited electricians.  15 
+B.  In order to obtain a license under this subsection, a person must first pass an 16 
+examination approved by the board and provide evidence of having:  17 
+(1) Worked at least 12,000  hours in the field of electrical installations as a 18 
+licensed helper electrician, journeyman electrician or journeyman -in-training 19 
+electrician under the direct supervision of a master electrician, journeyman 20 
+electrician or limited electrician and having co mpleted a program of study 21 
+consisting of 576 hours as approved by the board or from an accredited 22 
+institution.  The 576 hours must consist of 450 hours of required study, including 23 
+a course of 45 hours in the current National Electrical Code and 126 hours of 24 
+degree -related courses; or  25 
+(2) Comparable work experience or education or training, or a combination of 26 
+work experience, education and training, completed within the State or outside 27 
+the State, that is acceptable to the board.  28 
+C.  A person who holds a j ourneyman or limited electrician license issued prior to 29 
+July 1, 1987 is eligible to take the examination for a master electrician license if the 30 
+person has completed the number of hours of work experience required by this 31 
+subsection and has completed a 45 -hour course in the current National Electrical 32 
+Code.  33 
+6.  Limited electrician license; scope of license.  The board may issue a license to an 34 
+applicant for a limited electrician license.  35 
+A.  A limited electrician may only make electrical installations autho rized by the 36 
+specific limited license category.  A limited electrician is responsible for verifying the 37 
+current licensure of all employees, if licensure is applicable, prior to and during 38 
+employment.  Limited electricians are responsible for any electrical  installation work 39 
+they perform and for work of individuals they supervise at the time of electrical 40 
+installation.  41 
+ 
+ Page 11 - 128LR0763(01) -1 
+ B.  In order to obtain a license under this subsection, a person must meet the 1 
+following requirements, as applicable:  2 
+(1) A limited electrici an in water pumps must provide evidence of having 3 
+completed at least 135 hours of electrical education as approved by the board or 4 
+from an accredited institution and provide evidence of 2,000 hours of work 5 
+experience approved by the board in rules.  A limi ted electrician in water pumps 6 
+is restricted to performing electrical work between the branch circuit overcurrent 7 
+device, the water pump and associated controls.  8 
+(2) A limited electrician in outdoor signs, including sign lighting, must provide 9 
+evidence of having completed at least 135 hours of electrical education as 10 
+approved by the board or from an accredited institution and provide evidence of 11 
+2,000 hours of work experience approved by the board in rules.  The scope of this 12 
+license does not include branch  circuit wiring.  13 
+(3) A limited electrician in gasoline dispensing must provide evidence of having 14 
+completed at least 135 hours of electrical education as approved by the board or 15 
+from an accredited institution and provide evidence of 2,000 hours of work 16 
+experience approved by the board in rules. A limited electrician in gasoline 17 
+dispensers is restricted to performing electrical work between the branch circuit 18 
+overcurrent device, the dispenser and associated controls.  19 
+(4) A limited electrician in traffic sig nals, including outdoor lighting of traffic 20 
+signals, must provide evidence of having completed at least 135 hours of 21 
+electrical education as approved by the board or from an accredited institution 22 
+and provide evidence of 2,000 hours of work experience appr oved by the board 23 
+in rules.  A limited electrician in traffic signals is restricted to performing 24 
+electrical work on traffic signals, including outdoor lighting of traffic signals and 25 
+the traffic signal electrical service.  26 
+(5) A limited electrician in hous e wiring must provide evidence of having 27 
+completed at least 225 hours of electrical education as approved by the board or 28 
+from an accredited institution and provide evidence of 4,000 hours of work 29 
+experience approved by the board in rules.  A limited elect rician in house wiring 30 
+is restricted to performing electrical work in one -family dwellings and 2 -family 31 
+dwellings, including manufactured homes.  32 
+(6) A limited electrician in refrigeration must provide evidence of having 33 
+completed at least 270 hours of ele ctrical education as approved by the board or 34 
+from an accredited institution and provide evidence of 6,000 hours of work 35 
+experience approved by the board in rules.  Graduates of a community college 36 
+electrical program in refrigeration approved by the board or from an accredited 37 
+institution are credited with 4,000 hours of work experience upon graduation. A 38 
+limited electrician in refrigeration is restricted to performing electrical work 39 
+between the branch circuit overcurrent device, the refrigeration equipmen t and 40 
+associated controls.  41 
+(7) A limited electrician in low -energy electronics, including fire alarms, must 42 
+provide evidence of having completed at least 270 hours of electrical education 43 
+as approved by the board or from an accredited institution and provi de evidence 44 
+ 
+ Page 12 - 128LR0763(01) -1 
+ of 4,000 hours of work experience approved by the board in rules. A limited 1 
+electrician in low -energy electronics is restricted to performing electrical work on 2 
+low-energy electronics as supplied by Class I, II and III limited energy systems, 3 
+all fire alarm systems and the dedicated branch circuit wiring.  4 
+(8) A limited electrician in crane wiring must provide evidence of having 5 
+completed at least 135 hours of electrical education as approved by the board or 6 
+from an accredited institution and pro vide evidence of 2,000 hours of work 7 
+experience approved by the board in rules.  A limited electrician in crane wiring 8 
+is restricted to the installation of electrical equipment and wiring used in 9 
+connection with cranes, monorail hoists, hoists and runways.  10 
+C.  A person may be eligible for a limited electrician license by providing evidence of 11 
+comparable work experience, education or training within the State or outside the 12 
+State, acceptable to the board.  13 
+D.  The board may adopt rules to establish standards  in accordance with the Maine 14 
+Administrative Procedure Act.  The rules must allow the board to exercise its 15 
+discretion to determine if a limited electrician license holder applying for a master 16 
+electrician's license has adequate experience in all phases of  electrical installation to 17 
+take the examination.  18 
+Sec. 16.  32 MRSA §1206, as enacted by PL 1993, c. 636, §2, is amended to read:  19 
+§1206.  Reciprocity  20 
+The board shall issue a license to any person who files a sworn  an application, who is 21 
+licensed under the laws of another state or territory of the United States and who has been 22 
+licensed and actively engaged in an electrician's work for a minimum of 6 years  8,000 23 
+hours , as long as that state or territory has licensing standards and experience 24 
+requirements at least equivalent to this State's and as long as that state or territory grants 25 
+similar privileges to persons licensed under this chapter.  Reciprocal licenses may not be 26 
+denied on the basis of current residency.  27 
+Notwithstanding other provisions of this sec tion, the board, upon receiving an 28 
+application for a reciprocal license, may waive the 576 hours of study required for a 29 
+journeyman or master license pursuant to section 1202  1202 -A.  The board may require 30 
+the applicant to submit such written evidence , verified by oath,  as it determines necessary 31 
+to support the application.  32 
+Sec. 17.  32 MRSA §1207 is enacted to read:  33 
+§1207.  Electrical installations performed as part of an electrical education or state 34 
+apprenticeship program  35 
+1.  Installation as part of educ ation or apprenticeship program.   A person 36 
+licensed under this chapter as a master electrician who teaches an electrical course at a 37 
+career and technical education center or at a community college in this State, through an 38 
+apprenticeship program registered  by the Department of Labor or provided by a state 39 
+career and technical education region may have a maximum of 12 helper or apprentice 40 
+electricians under that person's direct supervision while making electrical installations 41 
+ 
+ Page 13 - 128LR0763(01) -1 
+ that are a part of the instruct ional program of the school or apprenticeship program.  An 1 
+electrical installation may not be commenced pursuant to this section without the prior 2 
+approval of the director or president of the school or program at which the master 3 
+electrician is an instruct or. Electrical installations authorized under this section are 4 
+limited to those in buildings or facilities owned or controlled by:  5 
+A.  School administrative units; and  6 
+B.  Nonprofit organizations.  7 
+2.  Notification; inspection.   The board and the municipal electrical inspector of the 8 
+municipality in which the electrical installation is to be made, if the municipality has an 9 
+inspector, must be notified of all electrical installation projects pursuant to this section 10 
+prior to the commencement of the projects.  There must be an inspection by a state 11 
+electrical inspector or by the municipal electrical inspector of the municipality in which 12 
+the electrical installation has been made, if the municipality has an inspector, before any 13 
+wiring on the project is conceale d.  14 
+SUMMARY  15 
+The purpose of this bill is to amend and update technical terminology, remove 16 
+outdated provisions and ambiguity in the licensing provisions of the Maine Revised 17 
+Statutes, Title 32, chapter 17 and reorganize existing provisions for clarity. The bill adds 18 
+a definition of "dwelling unit" and amends the definition of "electrical installation" to 19 
+include updated terminology.  The bill clarifies qualifications for specific license types, 20 
+adds a description of the scope of authority of license type and  clarifies supervisory 21 
+requirements of licensees.  22 
+The bill moves provisions of law governing supervision responsibilities of certain 23 
+license types to a new section of law.  The bill clarifies existing provisions applicable to 24 
+electrical permits for nonresi dential electrical wiring by enacting separate provisions that 25 
+apply to wiring work in single -family dwellings.  The bill moves provisions applicable to 26 
+state electrical inspectors to a more appropriate section.  27 
+The bill clarifies the composition of the El ectricians' Examining Board and reduces 28 
+the required years of licensed experience in the electrical field prior to board appointment 29 
+from 10 years to 5 years.  It amends the board's authority to license applicants licensed in 30 
+other states that do not requi re electrical education if the applicants can document 31 
+comparable work experience in substitution of electrical education.  32 
+The bill amends the reciprocity laws to reduce the minimum number of work hours 33 
+that a journeyman electrician licensed in a reciproc al state must show to obtain a 34 
+journeyman electrician or master electrician license in Maine in order to allow a 35 
+journeyman licensed as such in a reciprocating state to be credited for those hours of 36 
+work experience.  37 
+ 

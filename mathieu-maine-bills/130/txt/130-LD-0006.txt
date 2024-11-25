@@ -1,0 +1,742 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 6
+S.P. 13 In Senate,  January  13, 2021
+An Act  To Revise Certain Financial Regulatory  Provisions of the 
+Maine Insurance Code
+Submitted by the Department of  Professional and Financial Regulation pursuant to  Joint  
+Rule 204.
+Received by the Secretary of the Senate on January 11, 2021.  Referred to the Committee  
+on Health Coverage, Insurance  and Financial Services pursuant to Joint  Rule 308.2 and  ordered 
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator SANBORN,  H. of  Cumberland.
+
+Page 1 - 130LR0116(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §221, sub-§3, as amended by PL 1991, c. 828, §2, is repealed.
+3Sec. 2.  24-A MRSA §221, sub-§3-A, as enacted by PL 1993, c. 313, §3, is 
+4 amended to read:
+53-A.  On or after January 1, 1994 the The superintendent may accept a full examination 
+6 report by the insurance regulatory authority of the insurance company's state of domicile 
+7 or port-of-entry state for any foreign or alien insurer licensed in this State in lieu of an 
+8 examination by the superintendent if, at the time of the examination, that regulatory 
+9 authority was accredited under the National Association of Insurance Commissioners' 
+10 Financial Regulation Standards and Accreditation Program or if the examination was 
+11 performed under the supervision of an accredited insurance regulatory authority or with the 
+12 participation of one or more examiners who are employed by an accredited insurance 
+13 regulatory authority and who, after a review of the examination workpapers and report, 
+14 state under oath that the examination was performed in a manner consistent with the 
+15 standards and procedures required by the regulatory authority.
+16Sec. 3.  24-A MRSA §222, sub-§7, ¶A, as amended by PL 2013, c. 238, Pt. A, §14 
+17 and affected by §34, is further amended to read:
+18 A.  The superintendent shall hold a hearing in accordance with the procedures set forth 
+19 in the Maine Administrative Procedure Act, section 231 and Title 5, chapter 375, 
+20 subchapter 4, within 30 days after the application required by subsection 4‑C has been 
+21 filed with the superintendent.  The superintendent shall make a determination within 
+22 30 days after the conclusion of that hearing.  The superintendent shall approve any 
+23 purchase, exchange, merger or other change of control referred to in subsection 4‑C 
+24 unless the superintendent finds that:
+25 (1)  After the change of control, the domestic insurer could not satisfy the 
+26 requirements for the issuance of a certificate of authority according to requirements 
+27 in force at the time of the issuance or last renewal or continuation of its certificate 
+28 of authority to do the insurance business that it intends to transact in this State;
+29 (2)  The effect of the purchases, exchanges, merger of a controlling person of the 
+30 insurer or other changes of control may be substantially to lessen competition in 
+31 insurance in this State or tend to create a monopoly in this State or would violate 
+32 the laws of this State or of the United States relating to monopolies or restraints of 
+33 trade;
+34 (3)  The financial condition of an acquiring person would jeopardize the financial 
+35 stability of the insurer or prejudice the interest of its policyholders;
+36 (4)  The plans or proposals that the acquiring or divesting person has to liquidate 
+37 the insurer, to sell its assets or to merge it with any person, or to make any other 
+38 major change in its business or corporate structure or management, are unfair or 
+39 prejudicial to policyholders;
+40 (5)  The competence, experience and integrity of those persons who would control 
+41 the operation of the insurer indicate that it would not be in the interest of 
+42 policyholders or the public to permit them to do so;
+43 (6)  Any merger of a domestic insurer does not comply with section 3474; or
+Page 2 - 130LR0116(01)1 (7)  The change of control would tend to affect adversely the contractual 
+2 obligations of the domestic insurer or its ability and tendency to render service in 
+3 the future to its policyholders and the public.
+4Sec. 4.  24-A MRSA §222, sub-§7-A, ¶D, as enacted by PL 2013, c. 238, Pt. A, 
+5 §15 and affected by §34, is amended by amending subparagraph (3) to read:
+6 (3)  The proceeding is public to the same extent as a proceeding conducted under 
+7 subsection 7, except that deliberations of a decision-making panel are not public 
+8 proceedings and communications in the course of those deliberations among panel 
+9 members and their advisers, other than the decision itself, are not public records.
+10Sec. 5.  24-A MRSA §222, sub-§8, ¶B-3, as enacted by PL 2013, c. 238, Pt. A, 
+11 §18 and affected by §34, is amended to read:
+12 B-3.  A domestic insurer that is subject to registration, and has annual premium of 
+13 $500,000,000 or more or is a member of an insurance holding company system with 
+14 annual premium of $1,000,000,000 or more, shall conduct an own risk and solvency 
+15 assessment in accordance with the requirements of this paragraph and the ORSA 
+16 guidance manual at least annually, and also at any time when there are significant 
+17 changes to the risk profile of the insurer or its insurance holding company system, 
+18 except as otherwise provided in subparagraph (1).  For purposes of this paragraph, 
+19 "premium" means direct written and unaffiliated assumed premium, including 
+20 international direct and assumed premium but excluding premiums reinsured with the 
+21 Federal Crop Insurance Corporation within the United States Department of 
+22 Agriculture, Risk Management Agency and with the National Flood Insurance 
+23 Program within the United States Department of Homeland Security, Federal 
+24 Emergency Management Agency.
+25 (1)  This paragraph does not apply if:
+26 (a)  The insurer is an agency, authority or instrumentality of the United States, 
+27 its possessions and territories, the Commonwealth of Puerto Rico, the District 
+28 of Columbia or a state or political subdivision of a state;
+29 (b)  The insurer and its insurance holding company system did not meet either 
+30 of the minimum premium criteria of this paragraph in the financial statements 
+31 immediately preceding their most recent financial statements and the 
+32 superintendent has not required compliance with this paragraph under 
+33 subparagraph (2); or
+34 (c)  The superintendent has granted a waiver from the requirements of this 
+35 paragraph based upon unique circumstances.  In deciding whether to grant a 
+36 waiver, the superintendent may consider the type and volume of business 
+37 written by the insurer, the ownership and organizational structure of the insurer 
+38 and its insurance holding company system and any other factor the 
+39 superintendent considers relevant to the insurer or the insurer's insurance 
+40 holding company system.  If the insurer's insurance holding company system 
+41 includes insurers domiciled in more than one state, the superintendent shall 
+42 coordinate with the lead regulator and with other domiciliary regulators in 
+43 considering whether to grant the insurer's request for a waiver.
+Page 3 - 130LR0116(01)1 (2)  The superintendent may require an insurer that does not meet either of the 
+2 minimum premium criteria of this paragraph to comply with the requirements of 
+3 this paragraph if:
+4 (a)  The superintendent determines that the insurer should be subject to this 
+5 paragraph due to unique circumstances, including, but not limited to, the type 
+6 and volume of business written by the insurer, the ownership and 
+7 organizational structure of the insurer and its insurance holding company 
+8 system, federal agency requests and international supervisor requests;
+9 (b)  The insurer is subject to a corrective order or required to adopt a risk-based 
+10 capital plan under sections 6453 to 6456;
+11 (c)  The superintendent has determined in accordance with rules adopted by 
+12 the superintendent that the insurer is in hazardous financial condition; or
+13 (d)  The superintendent has determined that the insurer otherwise exhibits 
+14 qualities of a troubled insurer.
+15 (3)  If an insurer's insurance holding company system has annual premium of 
+16 $1,000,000,000 or more, the assessment and reporting required by this paragraph 
+17 must be conducted for each insurer within the insurance holding company system, 
+18 either on a systemwide basis or separately for insurers or combinations of insurers 
+19 within the insurance holding company system.
+20 (4)  An insurer subject to this paragraph shall maintain a risk management 
+21 framework to assist the insurer with identifying, assessing, monitoring, managing 
+22 and reporting on its material and relevant risks.  An insurer may satisfy this 
+23 requirement by participating in an applicable risk management framework 
+24 maintained by the insurance holding company system of which the insurer is a 
+25 member.
+26 (5)  An insurer subject to this paragraph shall prepare and submit regular ORSA 
+27 summary reports that satisfy the requirements of this subparagraph and shall 
+28 provide additional information to the superintendent upon request.
+29 (a)  Beginning no later than 2015, the ORSA summary report must be prepared 
+30 at least annually, on a timetable consistent with the insurer's internal strategic 
+31 planning processes, and submitted to the lead regulator of the insurer's 
+32 insurance holding company system, as determined by the procedures within a 
+33 financial analysis handbook adopted by the National Association of Insurance 
+34 Commissioners.  If the superintendent is not the lead regulator, the insurer shall 
+35 submit the insurer's or insurance holding company system's most recent ORSA 
+36 summary report to the superintendent on request.
+37 (b)  The ORSA summary report must be prepared consistent with the ORSA 
+38 guidance manual.  Documentation and supporting information must be 
+39 maintained and made available upon examination by or upon request of the 
+40 superintendent.
+41 (c)  The insurer's or insurance holding company system's chief risk officer, or 
+42 other executive having responsibility for the oversight of the insurer's 
+43 enterprise risk management process, shall sign the ORSA summary report 
+44 attesting to the best of the signer's belief and knowledge that the insurer applies 
+Page 4 - 130LR0116(01)45 the enterprise risk management process described in the ORSA summary 
+46 report and that a copy of the report has been provided to the insurer's board of 
+47 directors or the appropriate committee of the board.
+4 (d)  An insurer may comply with this paragraph by providing the most recent 
+5 ORSA summary report and a report or reports that are substantially similar to 
+6 the ORSA summary report that are provided by the insurer or another member 
+7 of its insurance holding company system to the insurance commissioner of 
+8 another state or to an insurance supervisor or regulator of a foreign jurisdiction 
+9 if that report provides information that is comparable to the information 
+10 described in the ORSA guidance manual.  Any report in a language other than 
+11 English must be accompanied by an English translation.
+12 (6)  The superintendent's review of the ORSA summary report, and any additional 
+13 requests for information, must be consistent with accepted regulatory procedures 
+14 for the analysis and examination of multistate or global insurers and insurance 
+15 groups.
+16Sec. 6.  24-A MRSA §731-B, sub-§1, as amended by PL 2007, c. 169, Pt. C, §1, is 
+17 further amended to read:
+181.  Credit Except to the extent that the liabilities ceded are secured in accordance with 
+19 subsection 3, credit for reinsurance is allowed a domestic ceding insurer as either an asset 
+20 or a deduction from liability on account of reinsurance ceded only when the reinsurance is 
+21 ceded to a solvent assuming insurer that:
+22 A.  Is licensed to transact insurance or reinsurance in this State, provided the assuming 
+23 insurer maintains surplus as regards policyholders in an amount not less than the sum 
+24 of paid-in capital stock, if any, and surplus as otherwise required for a certificate of 
+25 authority for the kinds and amount of insurance and assumed reinsurance the insurer 
+26 has in force net of any applicable ceded reinsurance.  If the assuming insurer is licensed 
+27 as a special purpose reinsurance vehicle pursuant to section 782 and maintains capital 
+28 and surplus in accordance with the requirements of section 787, credit for reinsurance 
+29 under a special purpose reinsurance vehicle contract, as defined in section 781, 
+30 subsection 15, is allowed only to the extent that:
+31 (1)  The fair value of the assets held by or for the benefit of the ceding insurer 
+32 equals or exceeds the obligations due and payable to the ceding insurer by the 
+33 special purpose reinsurance vehicle under the special purpose reinsurance vehicle 
+34 contract;
+35 (2)  The assets are held in accordance with the requirements in subchapter 6;
+36 (3)  The assets are administered in the manner and pursuant to arrangements under 
+37 subchapter 6;
+38 (4)  The assets are held or invested in one or more of the forms allowed in section 
+39 795; and
+40 (5)  The contract complies with all other relevant requirements of subchapter 6;
+41 B.  Is domiciled and licensed in a state that employs standards regarding credit for 
+42 reinsurance substantially similar to those applicable under this section, if the insurer:
+43 (1)  Submits to the authority of this State to examine its books and records; and1
+2
+3
+Page 5 - 130LR0116(01)1 (2)  Except where reinsurance is ceded and assumed pursuant to pooling 
+2 arrangements among insurers in the same holding company system, maintains a 
+3 surplus regarding policyholders in an amount not less than $20,000,000;
+4 B-1.  Is accredited as a reinsurer in this State, in accordance with the following 
+5 standards.
+6 (1)  To apply for accreditation, a reinsurer shall file with the superintendent a 
+7 written application on a form prescribed by the superintendent, accompanied by 
+8 the fee prescribed in section 601, subsection 26 and an agreement to submit to the 
+9 jurisdiction of the courts of this State and to the authority of the superintendent to 
+10 examine the reinsurer's books and records.
+11 (2)  An accredited reinsurer must be licensed to transact insurance or reinsurance 
+12 in at least one state, or in the case of a United States branch of an alien reinsurer, 
+13 that reinsurer must be entered through and licensed to transact insurance or 
+14 reinsurance in at least one state.
+15 (3)  An accredited reinsurer shall file with the superintendent, as part of its 
+16 application and annually thereafter, a copy of its annual statement filed with the 
+17 insurance department of its state of domicile or United States port of entry and a 
+18 copy of its most recent audited financial statement.
+19 (4)  A reinsurer applying for accreditation that maintains a surplus as regards to 
+20 policyholders in an amount not less than $20,000,000 is deemed to be accredited 
+21 if the reinsurer's application is not denied by the superintendent within 90 days 
+22 after submission of the application.  The superintendent has the discretion to grant 
+23 accreditation to an applicant with a surplus less than $20,000,000 subject to such 
+24 terms and conditions as the superintendent determines to be necessary and 
+25 appropriate for the protection of domestic ceding insurers and their policyholders. ;
+26 B-2.  Is certified as a reinsurer in this State and secures its obligations in accordance 
+27 with this paragraph.
+28 (1)  To be eligible for certification, the assuming insurer must meet the following 
+29 requirements:
+30 (a)  The assuming insurer must be domiciled and licensed to transact insurance 
+31 or reinsurance in a jurisdiction determined by the superintendent to be a 
+32 qualified jurisdiction pursuant to subparagraph (3);
+33 (b)  The assuming insurer must maintain minimum capital and surplus, or its 
+34 equivalent, in an amount to be determined by the superintendent pursuant to 
+35 rules adopted under subsection 7;
+36 (c)  The assuming insurer must maintain financial strength ratings from 2 or 
+37 more rating agencies determined by the superintendent to be acceptable 
+38 pursuant to rules adopted under subsection 7;
+39 (d)  The assuming insurer must agree to submit to the jurisdiction of this State 
+40 and to appoint an agent for service of process in the same manner as provided 
+41 for authorized insurers under section 421 and agree to provide security for 
+42 100% of the assuming insurer's liabilities attributable to reinsurance ceded by 
+Page 6 - 130LR0116(01)43 United States ceding insurers if the assuming insurer resists enforcement of a 
+44 final United States judgment;
+3 (e)  The assuming insurer must agree to meet applicable information filing 
+4 requirements as determined by the superintendent, both with respect to an 
+5 initial application for certification and on an ongoing basis.  Documents filed 
+6 with the superintendent by the assuming insurer are not public records if the 
+7 documents are confidential under the laws of the assuming insurer's 
+8 domiciliary jurisdiction;
+9 (f)  The assuming insurer must pay the application fee prescribed in section 
+10 601, subsection 26-A and, to the extent provided in rules adopted under 
+11 subsection 7, must agree to pay reasonable costs of review; and
+12 (g)  The assuming insurer must satisfy any other requirements for certification 
+13 established by the superintendent.
+14 (2)  An association including incorporated and individual unincorporated 
+15 underwriters may be a certified reinsurer.  In order to be eligible for certification, 
+16 in addition to satisfying the requirements of subparagraph (1):
+17 (a)  The association may satisfy its minimum capital and surplus requirements 
+18 through the capital and surplus equivalents, net of liabilities, of the association 
+19 and its members, which must include a joint central fund that may be applied 
+20 to any unsatisfied obligation of the association or any of its members, in an 
+21 amount determined by the superintendent to provide adequate protection;
+22 (b)  The incorporated members of the association may not be engaged in any 
+23 business other than underwriting as a member of the association and must be 
+24 subject to the same level of regulation and solvency control by the association's 
+25 domiciliary regulator as are the unincorporated members; and
+26 (c)  Within 90 days after its financial statements are due to be filed with the 
+27 association's domiciliary regulator, the association shall provide to the 
+28 superintendent an annual certification by the association's domiciliary 
+29 regulator of the solvency of each underwriter member of the association or, if 
+30 a certification is unavailable, financial statements, prepared by independent 
+31 public accountants, of each underwriter member of the association.
+32 (3)  The superintendent shall create and publish a list of jurisdictions that are 
+33 qualified to serve as the domiciliary regulators of certified reinsurers.
+34 (a)  In order to determine whether the domiciliary jurisdiction of an alien 
+35 assuming insurer is eligible to be recognized as a qualified jurisdiction, the 
+36 superintendent shall evaluate the appropriateness and effectiveness of the 
+37 reinsurance supervisory system of the jurisdiction, both initially and on an 
+38 ongoing basis, and consider the rights, benefits and the extent of reciprocal 
+39 recognition afforded by the jurisdiction to reinsurers licensed and domiciled in 
+40 the United States.  To be recognized as qualified, a jurisdiction must agree to 
+41 share information and cooperate with the superintendent with respect to all 
+42 certified reinsurers domiciled within that jurisdiction.  A jurisdiction may not 
+43 be recognized as a qualified jurisdiction if the superintendent has determined 
+44 that the jurisdiction does not adequately and promptly enforce final United 1
+2
+Page 7 - 130LR0116(01)45 States judgments and arbitration awards.  The superintendent may consider 
+46 additional factors.
+3 (b)  If the National Association of Insurance Commissioners has published a 
+4 list of recommended qualified jurisdictions, the superintendent shall consider 
+5 that list in determining qualified jurisdictions.  If the superintendent recognizes 
+6 a jurisdiction as qualified that does not appear on the list published by the 
+7 National Association of Insurance Commissioners, the superintendent shall 
+8 make detailed findings of fact supporting the recognition in accordance with 
+9 criteria to be developed in rules adopted under subsection 7.
+10 (c)  United States jurisdictions that are accredited by the National Association 
+11 of Insurance Commissioners must be recognized as qualified jurisdictions.
+12 (d)  If a certified reinsurer's domiciliary jurisdiction ceases to be a qualified 
+13 jurisdiction, the superintendent may suspend the reinsurer's certification 
+14 indefinitely, in lieu of revocation.
+15 (4)  The superintendent shall assign a rating to each certified reinsurer, giving due 
+16 consideration to the financial strength ratings that have been assigned by rating 
+17 agencies determined to be acceptable pursuant to rules adopted under subsection 
+18 7.  The superintendent shall publish a list of all certified reinsurers and their ratings.
+19 (5)  A certified reinsurer shall secure all obligations assumed from United States 
+20 ceding insurers under this subsection, and under comparable laws of other states, 
+21 at a level consistent with its rating and in a form acceptable to the superintendent, 
+22 in compliance with rules adopted under subsection 7.
+23 (a)  If the security is insufficient, the superintendent shall reduce the allowable 
+24 credit by an amount proportionate to the deficiency and may impose further 
+25 reductions in allowable credit upon finding that there is a material risk that the 
+26 certified reinsurer's obligations will not be paid in full when due.
+27 (b)  The reinsurer may secure its obligations as a certified reinsurer through a 
+28 multibeneficiary trust that meets the requirements of paragraph C and 
+29 subsection 2-A, with the following modifications.
+30 (i)  The maximum credit allowable may exceed the value of the qualifying 
+31 security to the extent provided in this subparagraph.
+32 (ii)  The minimum trusteed surplus is $10,000,000, rather than the amount 
+33 specified in paragraph C.
+34 (iii)  If the certified reinsurer also maintains a multibeneficiary trust for 
+35 obligations required to be fully secured under paragraph C or comparable 
+36 laws of other states, the certified reinsurer shall maintain separate trust 
+37 accounts for its obligations incurred under reinsurance agreements issued 
+38 or renewed with reduced security as permitted by this paragraph or 
+39 comparable laws of other United States jurisdictions and for its obligations 
+40 that are required to be fully secured.  The trust accounts may not be 
+41 approved as qualifying security unless the reinsurer has bound itself, by 
+42 the language of the trust and by agreement with the insurance regulator 
+43 with principal oversight of each such trust account, to apply, upon 
+44 termination of any such trust account, the remaining surplus of that trust 1
+2
+Page 8 - 130LR0116(01)45 to the extent necessary to fund any deficiency of any other such trust 
+46 account.
+3 (c)  If a certified reinsurer does not secure its obligations through a qualifying 
+4 multibeneficiary trust, it must secure its obligations to the ceding insurer 
+5 consistent with the requirements of subsection 3, except that the maximum 
+6 credit allowable may exceed the value of the qualifying security to the extent 
+7 provided in this subparagraph.
+8 (d)  For purposes of this subparagraph, a certified reinsurer whose certification 
+9 has been terminated for any reason must be treated as a certified reinsurer 
+10 required to secure 100% of its obligations, unless the superintendent has 
+11 continued to assign a higher rating, as permitted by other provisions of this 
+12 section, to a certified reinsurer in inactive status or to a reinsurer whose 
+13 certification has been suspended.
+14 (6)  If an applicant for certification has been certified as a reinsurer in a jurisdiction 
+15 accredited by the National Association of Insurance Commissioners, the 
+16 superintendent may defer to that jurisdiction's certification to grant certification in 
+17 this State and may defer to the rating assigned by that jurisdiction.
+18 (7)  A certified reinsurer that ceases to assume new business in this State may 
+19 request to maintain its certification in inactive status in order to continue to qualify 
+20 for a reduction in security for its in-force business.  An inactive certified reinsurer 
+21 shall continue to comply with all applicable requirements of this subsection, and 
+22 the superintendent shall assign a rating that takes into account, if relevant, the 
+23 reasons why the reinsurer is not assuming new business. ;
+24 B-3.  Meets each of the conditions established in subparagraphs (2) to (8).
+25 (1)  For purposes of this paragraph, the following terms have the following 
+26 meanings.
+27 (a)  "Covered agreement" means an agreement, entered into pursuant to the 
+28 federal Dodd-Frank Wall Street Reform and Consumer Protection Act, 31 
+29 United States Code, Sections 313 and 314, that is in effect or in a period of 
+30 provisional application and addresses the elimination, under specified 
+31 conditions, of collateral requirements as a condition for entering into any 
+32 reinsurance agreement with a ceding insurer domiciled in this State or for 
+33 allowing the ceding insurer to recognize credit for reinsurance.
+34 (b)  "Reciprocal jurisdiction" means a jurisdiction that is:
+35 (i)  A non-United States jurisdiction that is subject to an in-force covered 
+36 agreement with the United States, as long as each agreeing jurisdiction is 
+37 within its legal authority to enter the agreement, or, in the case of a covered 
+38 agreement between the United States and the European Union, a member 
+39 state of the European Union;
+40 (ii) A United States jurisdiction that meets the requirements for 
+41 accreditation under the financial regulation standards and accreditation 
+42 program of the National Association of Insurance Commissioners; or1
+2
+Page 9 - 130LR0116(01)1 (iii)  A qualified jurisdiction, as determined by the superintendent pursuant 
+2 to paragraph B-2, subparagraph (3), that meets certain additional 
+3 requirements, consistent with the terms and conditions of covered 
+4 agreements, as specified by the superintendent by rule.
+5 (2)  The assuming insurer must have its domicile or head office in, and be licensed 
+6 in, a reciprocal jurisdiction.
+7 (3)  The assuming insurer must have and maintain on an ongoing basis minimum 
+8 capital and surplus, or its equivalent, calculated according to the methodology 
+9 applicable in its domiciliary jurisdiction, in an amount established by rule.  If the 
+10 assuming insurer is an association that includes incorporated and individual 
+11 unincorporated underwriters, it must have and maintain on an ongoing basis 
+12 minimum capital and surplus equivalents, net of liabilities, calculated according to 
+13 the methodology applicable in its domiciliary jurisdiction, and a central fund 
+14 containing a balance in amounts established by rule.
+15 (4)  The assuming insurer must have and maintain on an ongoing basis a minimum 
+16 solvency or capital ratio, as applicable, as established by rule.  If the assuming 
+17 insurer is an association that includes incorporated and individual unincorporated 
+18 underwriters, it must have and maintain on an ongoing basis a minimum solvency 
+19 or capital ratio, as applicable, in the jurisdiction where the assuming insurer has its 
+20 head office or is domiciled, as applicable.
+21 (5)  The assuming insurer must agree, and provide adequate assurance to the 
+22 superintendent in a form specified by the superintendent by rule, as follows:
+23 (a)  The assuming insurer must provide prompt written notice and explanation 
+24 to the superintendent if it fails to meet the minimum requirements set forth in 
+25 subparagraph (3) or (4) or if any regulatory action is taken against it for serious 
+26 noncompliance with applicable law;
+27 (b)  The assuming insurer must consent in writing to the jurisdiction of the 
+28 courts of this State and to the appointment of the superintendent as agent for 
+29 service of process.  The superintendent may require the assuming insurer to 
+30 include such consent in each reinsurance agreement for which credit is taken 
+31 under this paragraph.  This division does not limit or in any way alter the 
+32 capacity of parties to a reinsurance agreement to agree to alternative dispute 
+33 resolution mechanisms, except to the extent that such agreements are 
+34 unenforceable under applicable insolvency or delinquency laws;
+35 (c)  The assuming insurer must consent in writing to pay all final judgments, 
+36 wherever enforcement is sought, that are obtained by a ceding insurer or its 
+37 legal successor and that have been declared enforceable in the jurisdiction 
+38 where the judgment was obtained;
+39 (d)  Each reinsurance agreement for which credit is taken under this paragraph 
+40 must include a provision requiring the assuming insurer to provide security for 
+41 the full amount of the assuming insurer's liabilities attributable to reinsurance 
+42 ceded pursuant to that agreement if the assuming insurer resists enforcement 
+43 of a final judgment that is enforceable under the law of the jurisdiction where 
+44 the final judgment was obtained or resists enforcement of a properly 
+Page 10 - 130LR0116(01)45 enforceable arbitration award, whether the judgment or award is obtained by 
+46 the ceding insurer or by its legal successor on behalf of its resolution estate.  
+47 As used in this division, "resolution estate" means the estate of an insurer or 
+48 reinsurer that has been placed into a receivership or comparable legal status; 
+49 and
+6 (e)  The assuming insurer must confirm that it is not participating in any solvent 
+7 scheme of arrangement that involves this State's ceding insurers and must 
+8 agree to notify the ceding insurer and the superintendent and to provide 
+9 security for the full amount of the assuming insurer's liabilities to the ceding 
+10 insurer should the assuming insurer enter into such a solvent scheme of 
+11 arrangement. Such security must be in a form consistent with the provisions of 
+12 paragraph B-2 and subsection 3 and as specified by the superintendent by rule.
+13 (6)  The assuming insurer or its legal successor must provide, on behalf of itself 
+14 and any legal predecessors, certain documentation to the superintendent as 
+15 specified by the superintendent by rule, if requested by the superintendent.
+16 (7)  The assuming insurer must maintain a practice of prompt payment of claims 
+17 under reinsurance agreements, pursuant to criteria established by rule.
+18 (8)  The supervisory authority for insurance for the jurisdiction of the assuming 
+19 insurer must confirm to the superintendent on an annual basis that, as of the 
+20 preceding December 31st or the annual date specified in statute for reporting to 
+21 that supervisory authority in the assuming insurer's jurisdiction, the assuming 
+22 insurer complies with the requirements of subparagraphs (3) and (4).
+23 (9)  The assuming insurer may provide additional information on a voluntary basis.
+24 (10)  The superintendent shall promptly create, publish and administer a list of 
+25 reciprocal jurisdictions as described in this subparagraph.
+26 (a)  The superintendent shall include all reciprocal jurisdictions identified in 
+27 subparagraph (1), division (b), subdivisions (i) and (ii) in the list maintained 
+28 pursuant to this subparagraph.
+29 (b)  If the National Association of Insurance Commissioners has published a 
+30 list of recommended reciprocal jurisdictions, the superintendent shall consider 
+31 that list and may defer to that list in determining whether a jurisdiction qualifies 
+32 as a reciprocal jurisdiction pursuant to subparagraph (1), division (b), 
+33 subdivision (iii).  The superintendent may determine that a jurisdiction that 
+34 does not appear on the recommended list is a reciprocal jurisdiction in 
+35 accordance with criteria established in rules adopted by the superintendent.
+36 (c)  If a jurisdiction has been determined to be a reciprocal jurisdiction pursuant 
+37 to subparagraph (1), division (b), subdivision (iii), the superintendent, in 
+38 accordance with a process established by rule by the superintendent, may 
+39 determine that the jurisdiction is no longer a reciprocal jurisdiction and remove 
+40 it from the list of reciprocal jurisdictions upon a determination that the 
+41 jurisdiction no longer meets the conditions of this paragraph.  Upon removal 
+42 of a reciprocal jurisdiction from the list, credit for reinsurance ceded to an 
+43 assuming insurer that has its head office or is domiciled in that jurisdiction is 
+44 allowed only as otherwise allowed pursuant to this section.1
+2
+3
+4
+5
+Page 11 - 130LR0116(01)1 (11)  The superintendent shall promptly create, publish and administer a list of 
+2 assuming insurers that have satisfied the conditions set forth in subparagraphs (2) 
+3 to (8) for recognition for credit for reinsurance.  The superintendent may add an 
+4 assuming insurer to the list if it has been listed under a substantially similar law by 
+5 a jurisdiction accredited by the National Association of Insurance Commissioners 
+6 or if, upon a request for recognition of eligibility, the assuming insurer submits the 
+7 information to the superintendent as required under subparagraph (5) and complies 
+8 with any additional requirements that the superintendent may impose by rule, 
+9 except to the extent that those requirements conflict with an applicable covered 
+10 agreement.
+11 (12)  If the superintendent determines that an assuming insurer no longer meets 
+12 one or more of the conditions of this paragraph, the superintendent may suspend 
+13 or revoke the recognition of the assuming insurer for credit for reinsurance under 
+14 this paragraph in accordance with procedures established by rule.
+15 (a)  While an assuming insurer's recognition for credit is suspended, a 
+16 reinsurance agreement issued, amended or renewed after the effective date of 
+17 the suspension does not qualify for credit under this paragraph.  Credit may be 
+18 granted only to the extent that the assuming insurer's obligations under the 
+19 contract are secured in accordance with other provisions of this subsection or 
+20 with subsection 3.
+21 (b)  If an assuming insurer's recognition for credit is revoked, credit for 
+22 reinsurance may not be granted after the effective date of the revocation with 
+23 respect to any reinsurance agreements entered into by the assuming insurer, 
+24 including reinsurance agreements entered into before the date of revocation, 
+25 except to the extent that the assuming insurer's obligations under the contract 
+26 are secured in a form acceptable to the superintendent and consistent with other 
+27 provisions of this subsection or with subsection 3.
+28 (13)  If a ceding insurer that has been granted credit under this paragraph is subject 
+29 to a legal process of rehabilitation, liquidation or conservation, the ceding insurer 
+30 or its representative may seek and, if determined appropriate by the court in which 
+31 the proceedings are pending, may obtain an order requiring the assuming insurer 
+32 to post security for all outstanding ceded liabilities.
+33 (14)  This paragraph does not limit or in any way alter the capacity of parties to a 
+34 reinsurance agreement to agree on requirements for security or other terms in that 
+35 reinsurance agreement, except as expressly prohibited by this section or other 
+36 applicable law or rule.
+37 (15)  Credit under this paragraph may be taken only for reinsurance pursuant to 
+38 reinsurance agreements entered into, renewed or amended on or after the effective 
+39 date of this paragraph and only with respect to losses incurred or reserves reported 
+40 on or after the date on which the assuming insurer has met all eligibility 
+41 requirements pursuant to subparagraphs (2) to (8) or the effective date of the new 
+42 reinsurance agreement, amendment or renewal, whichever is later.
+43 This subparagraph does not alter or impair a ceding insurer's right to take credit for 
+44 reinsurance, to the extent that credit is not available under this paragraph, as long 
+Page 12 - 130LR0116(01)45 as the reinsurance qualifies for credit under any other applicable provision of this 
+46 section.
+3 (16)  Nothing in this paragraph:
+4 (a)  Authorizes an assuming insurer to withdraw or reduce the security 
+5 provided under any reinsurance agreement except as permitted by the terms of 
+6 the agreement; or
+7 (b)  Limits, or in any way alters, the capacity of parties to any reinsurance 
+8 agreement to renegotiate the agreement;
+9 C.  Maintains a trust fund in a qualified United States financial institution for the 
+10 payment of the valid claims of its United States ceding insurers, their assigns and 
+11 successors in interest.
+12 (1)  The assuming insurer shall report annually to the superintendent information 
+13 substantially the same as that required to be reported on the National Association 
+14 of Insurance Commissioners Annual Statement form by licensed insurers to enable 
+15 the superintendent to determine the sufficiency of the trust fund.
+16 (2)  In the case of a single assuming insurer, the trust must consist of a trusteed 
+17 account representing the assuming insurer's liabilities attributable to reinsurance 
+18 ceded by United States ceding insurers and, in addition, unless the assuming 
+19 insurer has permanently discontinued underwriting new business secured by the 
+20 trust for at least 3 full years, must include a trusteed surplus of at least $20,000,000.  
+21 The trust must provide that after the assuming insurer has permanently 
+22 discontinued underwriting new business secured by the trust for at least 3 full years, 
+23 the insurance regulator with principal oversight of the trust may authorize a 
+24 reduction in the required trusteed surplus, but only after a finding, based on an 
+25 assessment of the risk, that the new required surplus level is adequate for the 
+26 protection of United States ceding insurers, policyholders and claimants in light of 
+27 reasonably foreseeable adverse loss development.  The risk assessment may 
+28 involve an actuarial review, including an independent analysis of reserves and cash 
+29 flows, and must consider all material risk factors, including when applicable the 
+30 lines of business involved, the stability of the incurred loss estimates and the effect 
+31 of the surplus requirements on the assuming insurer's liquidity or solvency.  The 
+32 minimum required trusteed surplus may not be reduced to an amount less than 30% 
+33 of the assuming insurer's liabilities attributable to reinsurance ceded by United 
+34 States ceding insurers covered by the trust.
+35 (3-A)  A group including incorporated and individual unincorporated underwriters 
+36 may secure its obligations with funds held in trust in compliance with the following 
+37 standards.
+38 (a)  For reinsurance ceded under reinsurance agreements with an inception, 
+39 amendment or renewal date on or after January 1, 1993, the trust must consist 
+40 of a trusteed account in an amount at least equal to the respective underwriters' 
+41 several liabilities attributable to reinsurance ceded by United States domiciled 
+42 ceding insurers to any underwriter that is a member of the group.
+43 (b)  Notwithstanding the other provisions of this section, for reinsurance ceded 
+44 under reinsurance agreements with an inception date on or before December 1
+2
+Page 13 - 130LR0116(01)45 31, 1992 and not amended or renewed after that date, the trust must consist of 
+46 a trusteed account in an amount not less than the respective underwriters' 
+47 several insurance and reinsurance liabilities attributable to business written in 
+48 the United States.
+5 (c)  In addition, the group shall maintain a trusteed surplus of at least 
+6 $100,000,000 held jointly for the benefit of the United States domiciled ceding 
+7 insurers of any member of the group for all years of account.
+8 An incorporated member of the group may not be engaged in any business other 
+9 than underwriting as a member of the group and is subject to the same level of 
+10 solvency regulation and control by the group's domiciliary regulator as are the 
+11 unincorporated members. Within 90 days after its financial statements are due to 
+12 be filed with the group's domiciliary regulator, the group shall provide to the 
+13 superintendent an annual certification by the group's domiciliary regulator of the 
+14 solvency of each underwriter member of the group or, if a certification is 
+15 unavailable, financial statements prepared by independent public accountants.
+16 (4-A)  The superintendent in rules adopted pursuant to subsection 7 may establish 
+17 alternative criteria for approval of a reinsurance trust if the superintendent 
+18 determines that the criteria provide adequate protection to policyholders of United 
+19 States ceding insurers and are in substantial conformance with standards approved 
+20 by the National Association of Insurance Commissioners.
+21 (5)  The trust must be established in a form approved by the superintendent and 
+22 consistent with any rules adopted by the superintendent pursuant to this section.  
+23 The form of the trust and any amendments to the trust must also have been 
+24 approved by the insurance regulatory official of the state where the trust is 
+25 domiciled or of another state that, pursuant to the terms of the trust instrument, has 
+26 accepted principal regulatory oversight of the trust.  The trust instrument must 
+27 provide that contested claims are valid and enforceable upon the final order of any 
+28 court of competent jurisdiction in the United States.  The trust must vest legal title 
+29 to its assets in the trustees of the trust for the benefit of the assuming insurer's 
+30 United States ceding insurers, their assigns and successors in interest.  The trust 
+31 and the assuming insurer are subject to examination, as determined by the 
+32 superintendent, at the assuming insurer's expense.  The trust must remain in effect 
+33 for as long as the assuming insurer has outstanding obligations due under the 
+34 reinsurance agreements subject to the trust.
+35 (6)  The trustees of the trust shall report to the superintendent in writing by 
+36 February 28th of each year, setting forth the balance of the trust and listing the 
+37 trust's investments at the end of the preceding year and certifying the date of 
+38 termination of the trust, if so planned, or certifying that the trust does not expire 
+39 before December 31st of the current year.
+40 (7)  The corpus of the trust is to be valued as any other admitted asset or assets; or
+41 D.  Does not meet the requirements of paragraph A, B, B-1, B-2, B-3 or C, but only 
+42 with respect to risks located in a jurisdiction where that reinsurance is required by law.  
+43 The superintendent may waive the requirements of subsections 2 and 5 to the extent 
+44 that compliance with those requirements is not feasible for compulsory reinsurance 
+45 subject to this paragraph.  The superintendent for good cause after notice and 1
+2
+3
+4
+Page 14 - 130LR0116(01)46 opportunity for hearing may disallow or reduce the credit otherwise permitted under 
+47 this paragraph.
+3Sec. 7.  24-A MRSA §731-B, sub-§2-B, ¶E, as enacted by PL 2017, c. 169, Pt. C, 
+4 §2, is amended to read:
+5 E.  This subsection does not apply to cessions to an assuming insurer that:
+6 (1)  Is certified in this State pursuant to subsection 1, paragraph B-2; or
+7 (2)  Maintains at least $250,000,000 in capital and surplus as determined in 
+8 accordance with section 901-A, excluding the impact of any permitted or 
+9 prescribed practices; , and is:
+10 (a)  Licensed in at least 26 states; or
+11 (b)  Licensed in at least 10 states and licensed or accredited in a total of at least 
+12 35 states. ; or
+13 (3)  Is eligible for credit for assumed reinsurance by reciprocity pursuant to 
+14 subsection 1, paragraph B-3.
+15Sec. 8.  24-A MRSA §731-B, sub-§3, ¶B, as amended by PL 2013, c. 238, Pt. B, 
+16 §8, is further amended to read:
+17 B.  Securities listed by the Securities Valuation Office of the National Association of 
+18 Insurance Commissioners, including those designated as exempt from filing in the 
+19 purposes and procedures manual of the Securities Valuation Office, and qualifying as 
+20 admitted assets; or
+21Sec. 9.  24-A MRSA §731-B, sub-§3, ¶C, as amended by PL 1993, c. 313, §18, is 
+22 further amended by amending subparagraph (2) to read:
+23 (2)  The letter of credit must indicate that it is not subject to any condition or 
+24 qualification outside the letter of credit, and that the beneficiary need only draw a 
+25 sight draft under the letter and present the letter to obtain funds and that no other 
+26 document need be presented. ; or
+27Sec. 10.  24-A MRSA §731-B, sub-§3, ¶D is enacted to read:
+28 D.  Any other form of security that the superintendent may permit by rule adopted as 
+29 set forth in subsection 7.
+30Sec. 11.  24-A MRSA §1151-A, sub-§41, as enacted by PL 1999, c. 715, §8, is 
+31 amended to read:
+3241.  Repurchase transaction.  "Repurchase transaction" means a transaction in which 
+33 an insurer purchases securities from a counter-party that is obligated to repurchase the 
+34 purchased securities or equivalent securities from the insurer sells securities to a qualified 
+35 bank or a qualified business entity or to a bank or a business entity whose obligations with 
+36 respect to the transaction are guaranteed by a qualified bank or a qualified business entity 
+37 and the insurer is obligated to repurchase the sold securities or equivalent securities from 
+38 the bank or business entity at a specified price, either within a specified period of time or 
+39 upon demand.
+40Sec. 12.  24-A MRSA §1151-A, sub-§42, as enacted by PL 1999, c. 715, §8, is 
+41 amended to read:1
+2
+Page 15 - 130LR0116(01)142.  Reverse repurchase transaction.  "Reverse repurchase transaction" means a 
+2 transaction in which an insurer sells securities to a qualified bank or a qualified business 
+3 entity or a bank or a business entity whose obligations with respect to such transaction are 
+4 guaranteed by a qualified bank or a qualified business entity and the insurer is obligated to 
+5 repurchase the sold securities or equivalent securities from the bank or business entity 
+6 purchases securities from a counter-party that is obligated to repurchase the purchased 
+7 securities or equivalent securities from the insurer at a specified price, either within a 
+8 specified period of time or upon demand.
+9Sec. 13.  24-A MRSA §4215, sub-§1, as enacted by PL 1975, c. 503, is amended 
+10 to read:
+111.  The superintendent may make an examination of the affairs of any health 
+12 maintenance organization as often as he deems the superintendent considers it necessary 
+13 for the protection of the interests of the people of this State, but not less frequently than 
+14 once every 3 years.  The superintendent may defer making an examination for no more 
+15 than 2 additional years. In lieu of the superintendent's making an examination of a foreign 
+16 or alien health maintenance organization, the superintendent may accept a full report of the 
+17 most recent examination certified by the chief regulatory official of another state with 
+18 responsibility for the financial oversight of health maintenance organizations.
+19Sec. 14.  24-A MRSA §4353, sub-§6, as amended by PL 1973, c. 585, §12, is 
+20 further amended to read:
+216.  "Reciprocal state" means any state other than this State in which there is in force, in 
+22 substance and effect, a law substantially similar to the uniform insurers liquidation act, as 
+23 defined in section 4363, is in force Uniform Insurers Liquidation Act or another law 
+24 determined by the superintendent to establish adequate procedures for the conduct and 
+25 interstate coordination of the rehabilitation and liquidation of delinquent insurers, including 
+26 provisions requiring that the Insurance Superintendent insurance superintendent or 
+27 equivalent insurance supervisory official be the receiver of a delinquent insurer, and in 
+28 which effective provisions exist for avoidance of fraudulent conveyances and unlawful 
+29 preferential transfers.
+30Sec. 15.  24-A MRSA §4367, sub-§3 is enacted to read:
+313.  The courts of this State shall give full faith and credit to any stay of or injunction 
+32 barring new actions against an insurer or its receiver, or the continuation of existing actions 
+33 against an insurer or its receiver, when the stay or injunction is pursuant to an order to 
+34 liquidate or rehabilitate an insurer issued in accordance with the delinquency laws of a 
+35 reciprocal state.
+36SUMMARY
+37 This bill updates several provisions of the Maine Insurance Code by incorporating 
+38 recent amendments to model laws adopted by the National Association of Insurance 
+39 Commissioners, or NAIC, and making related technical changes.
+40 It corrects a conflict in the law governing examination of insurers by the Superintendent 
+41 of Insurance and eliminates obsolete transition language.
+42 It clarifies that adjudicatory proceedings conducted under the Maine Revised Statutes, 
+43 Title 24-A, section 222 to review changes of control of domestic insurers are governed by 
+Page 16 - 130LR0116(01)44 the same procedural requirements as other Department of Professional and Financial 
+45 Regulation, Bureau of Insurance adjudicatory proceedings and that multistate proceedings 
+46 conducted under Maine law are considered public proceedings to the same extent as single-
+47 state proceedings subject only to the exceptions expressly enumerated in Title 24-A, section 
+48 222, subsection 7-A, paragraph D.
+6 It clarifies that when an insurer or insurance group is required to conduct an own risk 
+7 and solvency assessment, the assessment must be conducted in compliance with the NAIC 
+8 Own Risk and Solvency Assessment (ORSA) Guidance Manual, as well as include the 
+9 summary report as required under current law.
+10 It corrects a conflict between Title 24-A, section 731-B, subsections 1 and 3, clarifying 
+11 that subsection 1 is not the exclusive mechanism by which credit for reinsurance may be 
+12 granted, and clarifies that section 731-B, subsection 3 allows other forms of security to the 
+13 extent authorized by the Superintendent of Insurance by rule.
+14 It provides that documents that a certified reinsurer is required to file are not public 
+15 records if they are confidential under the laws of the reinsurer's domiciliary jurisdiction.
+16 It brings Maine into compliance with the bilateral agreements entered into by the 
+17 United States with the European Union and the United Kingdom by enacting the 2019 
+18 amendments to the NAIC Credit for Reinsurance Model Law, which provide a mechanism 
+19 for large, financially strong non-United States reinsurers to qualify for eligibility by 
+20 reciprocity to assume reinsurance from domestic insurers without posting security.
+21 It corrects a NAIC drafting error from 2000 that inadvertently transposed the content 
+22 of the definitions of "repurchase transaction" and "reverse repurchase transaction."
+23 It corrects an inconsistency between Title 24-A, section 4215, subsection 1, which 
+24 requires health maintenance organizations, or HMOs, to be examined by the 
+25 Superintendent of Insurance at least every 3 years, and Title 24-A, section 221, which 
+26 applies to HMOs pursuant to Title 24-A, section 4222-B, subsection 5 and which permits 
+27 the examination period to be extended to 5 years.  It also authorizes the superintendent to 
+28 accept the domiciliary chief regulatory official's examination in satisfaction of Maine's 
+29 requirement when a company is domiciled outside Maine.  The purpose of these 
+30 amendments is to allow Maine to participate in coordinated examinations with 
+31 synchronized schedules for HMOs that are members of insurance groups.
+32 It amends the reciprocity provisions of Maine's receivership laws by recognizing as 
+33 reciprocal states those states with laws determined by the Superintendent of Insurance to 
+34 be adequate or substantially similar to the NAIC's model insolvency laws, and brings Maine 
+35 into conformity with the NAIC's guidelines for interstate recognition of stays and 
+36 injunctions in receivership.1
+2
+3
+4
+5

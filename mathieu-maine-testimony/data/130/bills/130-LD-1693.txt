@@ -1,0 +1,868 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1693
+H.P. 1258 House of  Representatives, May 10, 2021
+An Act  To Advance Health Equity, Improve the Well-being  of All  
+Maine People and Create a Health  Trust
+Received by the Clerk of the House on May  6, 2021.  Referred  to the Committee on Health 
+and Human Services pursuant to Joint Rule 308.2 and  ordered  printed pursuant to  Joint  Rule 
+401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TALBOT ROSS  of Portland.
+Cosponsored by Senator VITELLI of Sagadahoc and
+Representatives: EVANS of Dover-Foxcroft, MEYER of Eliot, MILLETT of Cape  Elizabeth, 
+NEWELL of the Passamaquoddy Tribe, PERRY  of Calais, Senators: CHIPMAN of 
+Cumberland, HICKMAN of Kennebec.
+
+Page 1 - 130LR1927(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  5 MRSA §12004-G, sub-§14-J is enacted to read:
+414-J.  
+Health Trust for a Healthy Maine Board Expenses Only 22 MRSA 
+§1515
+5  
+8Sec. A-2.  22 MRSA c. 260-A, sub-c. 1 is enacted by adding before section 1511 
+9 the following to read:
+10SUBCHAPTER 1
+11FUND FOR A HEALTHY MAINE
+12Sec. A-3.  22 MRSA §1511, sub-§2, as enacted by PL 1999, c. 401, Pt. V, §1, is 
+13 amended to read:
+142.  Sources of fund.  The State Controller shall credit to the fund:
+15 A.  All  If the Trust for a Healthy Maine established in section 1515 is repealed or 
+16 dissolved, all money received by the State in settlement of or in relation to the lawsuit 
+17 State of Maine v. Philip Morris, et al., Kennebec County Superior Court, Docket No. 
+18 CV-97-134;
+19 B.  Money from any other source, whether public or private, designated for deposit into 
+20 or credited to the fund; and
+21 C.  Interest earned or other investment income on balances in the fund. ; and
+22 D.  If the Trust for a Healthy Maine established in section 1515 is repealed or dissolved, 
+23 all money transferred from the trust to the fund.
+24Sec. A-4.  22 MRSA c. 260-A, sub-c. 2 is enacted to read:
+25 SUBCHAPTER 2
+26TRUST FOR A HEALTHY MAINE ACT
+27§1513.  Short title
+28 This subchapter may be known and cited as "the Trust for a Healthy Maine Act."
+29§1514.  Definitions
+30 As used in this subchapter, unless the context otherwise indicates, the following terms 
+31 have the following meanings.5
+6
+7
+Page 2 - 130LR1927(01)11.  Administrative costs.  "Administrative costs" means staffing, overhead and related 
+2 operational costs, including costs for a coordinator, professional assistance and bond 
+3 premiums, incurred by the trust in carrying out its duties under this subchapter.
+42.  Board.  "Board" means the Trust for a Healthy Maine Board established under Title 
+5 5, section 12004-G, subsection 14-J.
+63. Community health worker.  "Community health worker" means a person who 
+7 provides outreach and public health services to a social group using the person's 
+8 understanding of the experiences, socioeconomic needs, language or culture of that social 
+9 group.
+104. Community resilience.  "Community resilience" means the capacity of individuals, 
+11 communities, institutions, businesses and systems within a community to survive, adapt 
+12 and grow no matter what kinds of chronic stresses and acute shocks they experience.
+135.  Coordinator.  "Coordinator" means the coordinator of the Trust for a Healthy 
+14 Maine under section 1519, subsection 2.
+156.  Designated agent.   "Designated agent" means an entity with which the department 
+16 has entered an agency relationship for the purpose of applying for federal funds to support 
+17 public health research and programming and that is authorized by the Federal Government 
+18 to receive those funds.
+197.  Disbursement.  "Disbursement" means a decision of the trust governing how 
+20 settlement funds are to be distributed by the trust for the purposes set forth in this 
+21 subchapter.
+228.  Health equity.  "Health equity" means the attainment of the highest level of health 
+23 for any social group in this State, regardless of whether a social group is subject to a 
+24 structural inequity.
+259.  Medical care.  "Medical care" means direct health care, including but not limited 
+26 to care provided under the MaineCare program and the prescription drug program 
+27 established under section 254-D. "Medical care" does not include treatments provided 
+28 under the Tobacco Prevention and Control Program established in section 272 or the 
+29 delivery of preventive health screenings or services in a school setting.
+3010.  Settlement funds.   "Settlement funds" means any money received by the State or 
+31 any component of the State in settlement of or in relation to the lawsuit State of Maine v. 
+32 Philip Morris, et al., Kennebec County Superior Court, Docket No. CV-97-134.
+3311. Social determinants of health. "Social determinants of health" means the 
+34 conditions in which people are born, grow, live, work and age, as well as the social 
+35 structures and economic systems that shape these conditions, including the social 
+36 environment, physical environment and health services.
+3712. Social group.  "Social group" means a group of people in this State that share 
+38 similar social, economic, demographic, geographic or other characteristics, including, but 
+39 not limited to, race, ethnicity, gender, gender identity, sexual orientation, class, zip code, 
+40 age or disability.
+4113.  State health plan.  "State health plan" means the most recent plan for improving 
+42 public health and health equity prepared by the Department of Health and Human Services, 
+43 Maine Center for Disease Control and Prevention for accreditation by a nonprofit public 
+Page 3 - 130LR1927(01)44 health accreditation board dedicated to advancing the continuous quality improvement of 
+45 tribal, state, local and territorial health departments or any successor plan identified by the 
+46 Maine Center for Disease Control and Prevention.
+414. Structural inequity.  "Structural inequity" means the systemic disadvantage of one 
+5 social group in the State compared to other social groups in the State as a result of law, 
+6 policy, culture or other social structure, including, but not limited to, poverty, 
+7 discrimination, powerlessness or access to job opportunities, quality education, housing or 
+8 health care.
+915. Systemic racism.  "Systemic racism" means the laws and institutionalized policies, 
+10 practices or social structures that maintain and perpetuate domination by and advantages 
+11 for the race that is socially constructed as being white to the detriment of or with the purpose 
+12 of imposing influence or control over any other race that is socially constructed to be non-
+13 white, including through color-blind discourse or derogatory and inaccurate stereotypes.
+1416.  Trust.  "Trust" means the Trust for a Healthy Maine established in section 1515, 
+15 subsection 1.
+1617.  Trustee.  "Trustee" means a member of the board.
+1718.  Trust fund.  "Trust fund" means the Trust for a Healthy Maine Trust Fund 
+18 established in section 1520-E, subsection 1.
+19§1515.  Trust for a Healthy Maine; Trust for a Healthy Maine Board
+201.  Establishment; purposes.  The Trust for a Healthy Maine is established for the 
+21 purposes of receiving all settlement funds and other funds, redistributing that money to 
+22 state agencies or designated agents of the State to fund tobacco use prevention and control 
+23 at levels recommended by the United States Department of Health and Human Services, 
+24 Centers for Disease Control and Prevention and to ensure adequate resources for other 
+25 disease prevention efforts and promoting public health. The purposes of the trust also 
+26 include supporting state agencies in planning and delivering public health and prevention 
+27 programs and services, supporting accreditation of the Department of Health and Human 
+28 Services, Maine Center for Disease Control and Prevention and supporting public health 
+29 workforce development. The trust also provides public health expertise and evidence-based 
+30 information to the Legislature.
+312.  Governance; board.  The trust is created as a body corporate and politic and a 
+32 public instrumentality of the State and is governed by the Trust for a Healthy Maine Board 
+33 in accordance with this subchapter.
+343.  Trustees; appointment.  The board consists of 15 trustees in accordance with this 
+35 subsection. A person who stands to benefit from the tobacco products, as defined in section 
+36 1551, subsection 3, alcohol or marijuana industry is not eligible to serve as a trustee.
+37 A. The Director of the Maine Center for Disease Control and Prevention within the 
+38 Department of Health and Human Services or the director's designee serves as an ex 
+39 officio voting trustee.
+40 B. The Governor shall appoint 3 trustees in accordance with this paragraph:
+41 (1) A person who has clinical expertise or public health expertise, or both, in the 
+42 science and prevention of addiction as a brain disease, selected from 
+43 recommendations provided by a statewide organization dedicated to supporting 1
+2
+3
+Page 4 - 130LR1927(01)44 physicians, advancing the quality of medicine and promoting the health of citizens 
+45 in the State;
+3 (2) A person who is an employer with experience recruiting and retaining a healthy 
+4 workforce; and
+5 (3) A person who has experience as a member of an advisory board of a local 
+6 community health coalition, selected from recommendations provided by a 
+7 statewide network of community coalitions working to enhance physical, social, 
+8 emotional, environmental and economic health in the State.
+9 C. The Governor shall appoint trustees from nominations made in accordance with this 
+10 paragraph within 30 days of receiving the nominations.  
+11 (1) The President of the Senate shall, for each of the following 3 qualifications, 
+12 submit to the Governor within 30 days of a vacancy 3 names for consideration:
+13 (a) A person who has expertise in epidemiology and infectious disease or in 
+14 hospital-based prevention, screening and early prevention of infectious 
+15 disease, selected from recommendations provided by the integrated health care 
+16 delivery systems in the State and by a statewide hospital organization that 
+17 provides advocacy, information and education in its mission to improve the 
+18 health of patients and communities;
+19 (b) A person who has clinical expertise or public health expertise, or both, in 
+20 rural primary care, selected from recommendations provided by a statewide 
+21 organization that represents community health centers in the State; and
+22 (c) A person who has expertise in systemic racism and structural inequity and 
+23 is serving on the Permanent Commission on the Status of Racial, Indigenous 
+24 and Maine Tribal Populations, in accordance with Title 5, section 25002.
+25 (2)  The Speaker of the House of Representatives shall, for each of the following 2 
+26 qualifications, submit to the Governor within 30 days of a vacancy 3 names for 
+27 consideration:
+28 (a) A person who has expertise in public health policy related to the leading 
+29 causes of chronic disease, selected from recommendations provided by a 
+30 statewide, nonprofit membership organization that promotes a healthy State 
+31 through advocacy, education, community connection and coalition-building; 
+32 and
+33 (b) A person who has expertise in preventing the use of tobacco products and 
+34 other addictive substances by youth and young adults.
+35 (3)  The member of the Senate who is the leader of the party with the 2nd-largest 
+36 number of members in the Senate shall, for each of the following 2 qualifications, 
+37 submit to the Governor within 30 days of a vacancy 3 names for consideration:
+38 (a) A person who has expertise in trauma, community resilience and social 
+39 determinants of health, selected from recommendations provided by a 
+40 statewide network dedicated to building community strengths and reducing the 
+41 effects of trauma; and1
+2
+Page 5 - 130LR1927(01)1 (b) A person who represents a statewide association of public health 
+2 professionals.
+3 (4)  The member of the House of Representatives who is the leader of the party 
+4 with the 2nd-largest number of members in the House shall, for each of the 
+5 following 2 qualifications, submit to the Governor within 30 days of a vacancy 3 
+6 names for consideration:
+7 (a) A person who is employed as a member of the senior staff or faculty in a 
+8 public health academic program; and
+9 (b) A person who has expertise in maternal and child health issues, including 
+10 early childhood education and out-of-school child care, or school-based health.
+11 (5)  The chiefs of the 4 federally recognized Indian tribes in the State shall, for each 
+12 of the following 2 qualifications, submit to the Governor within 30 days of a 
+13 vacancy 3 names for consideration:
+14 (a) A person who has expertise in environmental health; and
+15 (b) A person who has expertise in health equity or health disparity issues.
+16 The trustees appointed pursuant to paragraphs B and C must be reviewed by the joint 
+17 standing committee of the Legislature having jurisdiction over public health matters and 
+18 approved by the Senate.
+194.  Terms; vacancies.  Trustees serve 3-year terms. Trustees may serve no more than 
+20 3 consecutive terms. A trustee shall serve on the board until a replacement is appointed and 
+21 qualified.  If a trustee is unable to complete a term, the Governor shall consult with the 
+22 board and appoint a replacement for the remainder of the unexpired term. The replacement 
+23 trustee must hold the same qualifications, set forth in subsection 3, as those of the departing 
+24 trustee.
+255.  Chair; officers.  The board shall elect a chair, a vice-chair, a secretary and a 
+26 treasurer from among the trustees. Each officer serves a one-year term in that office and is 
+27 eligible for reelection.
+286.  Meetings; quorum.  The board shall meet at least 4 times each year at regular 
+29 intervals and may meet at other times at the call of the chair or the Governor. A majority 
+30 of the trustees constitutes a quorum. Meetings of the board are public proceedings as 
+31 provided by Title 1, chapter 13, subchapter 1. Notwithstanding any provision of law to the 
+32 contrary, a trustee who is not physically present may participate by telephone or other 
+33 remote access technology in accordance with procedures established by the board.
+347.  Election of subcommittees.  The board may elect an executive committee of not 
+35 fewer than 5 trustees who, between meetings of the board, may transact such business of 
+36 the trust as the board authorizes. The board may also elect a planning committee.
+378.  Liaison to Legislature.  The chair is the trust's liaison to the joint standing 
+38 committee of the Legislature having jurisdiction over public health matters.
+399.  Advisory groups.  The board may establish advisory groups as needed to gather 
+40 technical knowledge on any aspect of public health policy, infrastructure or funding 
+41 disbursement and to make recommendations to the board. Advisory groups may include 
+42 persons who are not trustees.
+Page 6 - 130LR1927(01)110.  Removal of trustee for disciplinary reasons.  The board shall develop the process 
+2 of removal and replacement of trustees for disciplinary reasons.
+311.  Expenses; reimbursement.  Trustees are not entitled to compensation for service 
+4 on the board, except that, in accordance with Title 5, section 12004-G, subsection 14-J, the 
+5 trust may reimburse travel and other board-related expenses.
+612.  Fiduciary duties.  A trustee has a fiduciary duty to the people of the State in the 
+7 administration of the trust. Upon accepting appointment as a trustee, each trustee shall 
+8 acknowledge the fiduciary duty to use the trust fund only for the purposes set forth in this 
+9 subchapter. It is the duty of each trustee to ensure that the purposes of the trust set forth in 
+10 this subchapter are fulfilled.
+1113.  Conflict of interest.  A trustee is deemed to be an executive employee for purposes 
+12 of Title 5, sections 18, 18-A and 19. In the operation or dissolution of the trust, a trustee, 
+13 employee of the trust, officer of the trust or a spouse or dependent child of any of those 
+14 individuals may not receive any direct personal benefit from the activities of the trust, 
+15 except that the trust may pay reasonable compensation for services rendered and otherwise 
+16 hold, manage and dispose of the trust's property in furtherance of the purposes of the trust.  
+17 This subsection does not prohibit corporations or other entities with which a trustee is 
+18 associated by reason of ownership or employment from participating in activities funded 
+19 directly or indirectly by the trust if ownership or employment is made known to the board 
+20 and the trustee abstains from all matters directly relating to that participation immediately 
+21 upon discovery of the association.
+22§1516.  Powers and duties
+231.  Powers.  The trust may:
+24 A.  Receive all settlement funds;
+25 B.  Receive money from any other source, whether public or private, designated for 
+26 deposit into or credited to the trust;
+27 C.  Receive funds transferred from the Fund for a Healthy Maine under subchapter 1;
+28 D.  Through funding disbursement plans under section 1517, disburse funds; and
+29 E.  Make recommendations to the Governor, the Legislature and other public officials 
+30 regarding improving public health outcomes and promoting public health awareness 
+31 and understanding.
+322.  Duties.  The trust shall:
+33 A.  Administer the trust and the trust fund;
+34 B.  Promote the visibility and understanding of public health issues among children 
+35 and adults;
+36 C.  Participate in the development and promotion of a state health plan by the 
+37 Department of Health and Human Services, Maine Center for Disease Control and 
+38 Prevention or another planning entity and provide funding for the planning process if 
+39 necessary;
+40 D.  Promote multilevel planning and coordination that includes state, district, 
+41 community and municipal decision-making and advisory boards; and
+Page 7 - 130LR1927(01)1 E.  Take other actions necessary and appropriate to fulfill the purposes of this 
+2 subchapter.
+3§1517.  Funding disbursement plan
+41.  Funding disbursement plan.   By December 31, 2022 and every year thereafter, 
+5 the board shall develop and approve a funding disbursement plan to disburse settlement 
+6 funds and other funds it may hold or receive in the subsequent biennium. The funding 
+7 disbursement plan must advance the purposes of this subchapter and be based on the most 
+8 recent state health plan and the most recent data available to the board.
+92.  Input from interested parties.  Prior to adopting a funding disbursement plan 
+10 pursuant to subsection 1 or substantially amending an existing funding disbursement plan, 
+11 the trust shall hold at least one public hearing to receive input from interested parties, 
+12 including but not limited to the Department of Health and Human Services, Maine Center 
+13 for Disease Control and Prevention, other state agencies, organizations engaged in smoking 
+14 cessation and public health efforts, other nongovernmental organizations, interested 
+15 stakeholders, patients and members of the public.  The board shall establish the procedure 
+16 and timelines for seeking input from interested parties.  The board shall also determine 
+17 what circumstances, consistent with this subsection, would require the board to initiate a 
+18 public hearing.  When considering the input of interested parties, the trust must consider 
+19 principles of zero-based budgeting, as defined in Title 35-A, section 102, subsection 25, 
+20 and long-term returns on investment.
+213.  Funding disbursement plans.  The funding disbursement plan approved by the 
+22 board pursuant to subsection 1 for fiscal year 2023-24 must disburse an amount equal to 
+23 0.30 of the settlement funds projected to be received in fiscal year 2023-24 for the purpose 
+24 of providing medical care. The funding disbursement plan approved by the board for fiscal 
+25 year 2024-25 and subsequent years may not disburse funds for the purpose of providing 
+26 medical care. When approving other elements of the funding disbursement plans, the board 
+27 shall consider funding levels in the most recent fiscal year and disburse funding in amounts 
+28 that minimize disruption of existing programs and ensure smooth and efficient transitions 
+29 to the funding levels required under subsection 4.
+304.  Designated disbursements.  Each funding disbursement plan approved by the 
+31 board must disburse funds in accordance with the following designated disbursements:
+32 A.  An amount of the settlement funds received in the previous fiscal year must be 
+33 disbursed to the Department of Health and Human Services, Maine Center for Disease 
+34 Control and Prevention or its designated agent for purposes of providing evidence-
+35 based tobacco prevention and control programs in the State in accordance with the 
+36 following:
+37 (1) For fiscal year 2023-24, an amount that is at least 0.70 of the level 
+38 recommended by the United States Department of Health and Human Services, 
+39 Centers for Disease Control and Prevention; and
+40 (2) For fiscal year 2024-25 and in subsequent fiscal years, an amount that when 
+41 combined with amounts from other funding sources received by the Department of 
+42 Health and Human Services, Maine Center for Disease Control and Prevention 
+43 yields a total amount that is at least the level recommended by the United States 
+Page 8 - 130LR1927(01)44 Department of Health and Human Services, Centers for Disease Control and 
+45 Prevention;
+3 B.  An amount of the settlement funds received in the previous fiscal year must be 
+4 disbursed to the Department of the Attorney General in accordance with the following:
+5 (1) Beginning in fiscal year 2023-24, an amount equal to 0.005 of the settlement 
+6 funds; and
+7 (2) Beginning in fiscal year 2024-25 and in subsequent years, an amount equal to 
+8 the amount the Department of the Attorney General received in accordance with 
+9 subparagraph (1) adjusted by the Chained Consumer Price Index, as defined in 
+10 Title 36, section 5402;
+11 C.  An amount of the settlement funds received in the previous fiscal year must be 
+12 disbursed to the administration fund established pursuant to section 1519, subsection 1 
+13 in accordance with the following:
+14 (1) Beginning in fiscal year 2023-24, an amount equal to 0.003; and
+15 (2) Beginning in fiscal year 2024-25 and in subsequent years, an amount equal to 
+16 the amount the administration fund received in accordance with subparagraph (1) 
+17 adjusted by the Chained Consumer Price Index as defined in Title 36, section 5402;
+18 D.  An amount not to exceed 0.05 of the settlement funds received in the previous fiscal 
+19 year may be disbursed to the internal stabilization account established in subsection 6;
+20 E.  An amount not to exceed 0.05 of the settlement funds received in the previous fiscal 
+21 year may be disbursed to the internal flexible account established in subsection 7; and
+22 F.  The funds remaining after making the disbursements required by paragraphs A to 
+23 C and authorized by paragraphs D and E must be disbursed to the health equity and 
+24 health improvement account established in subsection 5.
+25 The designated disbursements approved by the board may not disburse settlement funds 
+26 for the purpose of providing medical care.
+275.  Health equity and health improvement account.  A health equity and health 
+28 improvement account is established and funded with settlement funds in accordance with 
+29 subsection 4, paragraph F. 
+30 A. The funding disbursement plan approved by the board must disburse funds from the 
+31 health equity and health improvement account to prioritize the advancement of health 
+32 equity and the elimination of structural inequity. For fiscal year 2023-24, the funding 
+33 disbursement plan must disburse an amount equal to or greater than 0.15 of the funds 
+34 in the health equity and health improvement account. For fiscal year 2024-25 and 
+35 subsequent years, the funding disbursement plan must disburse an amount equal to or 
+36 greater than 0.20 of the funds in the health equity and health improvement account. 
+37 Funds disbursed in accordance with this paragraph must be distributed to achieve all 
+38 or some of the following:
+39 (1) Improving data collection, analysis and reporting, particularly for, among and 
+40 co-led by populations experiencing health disparities, which includes social 
+41 determinants of health, community resilience, racial impacts and health equity;1
+2
+Page 9 - 130LR1927(01)1 (2) Enhancing health improvement and health equity planning at the local, district 
+2 and state levels that addresses and confronts systemic racism and structural 
+3 inequity;
+4 (3) Supporting public-private partnerships at the local and district levels, including 
+5 comprehensive community health coalitions, as defined in section 411, and 
+6 organizations that prioritize health equity and derive meaningful leadership from 
+7 the communities they serve;
+8 (4) Supporting the expansion, recruitment, retention and presence of the public 
+9 health workforce at local, district and state levels, including supporting a robust 
+10 network of community health workers and government employees in the State 
+11 dedicated to addressing systemic racism and structural inequity; and
+12 (5) Providing training and technical assistance for local health officers, boards of 
+13 health, community and municipal leaders, community organizations, community 
+14 partnerships and other organizations providing public health services or serving 
+15 the functions of the State's public health and safety system.
+16 B. Funds remaining in the health equity and health improvement account after the 
+17 disbursements required in paragraph A must be for state entities or their designated 
+18 agents that, in the board's sole determination, will use the funds efficiently and 
+19 effectively to promote the purposes of this subchapter, implement evidence-based 
+20 prevention and screening strategies to address the priorities of the state health plan, 
+21 support efforts by the Department of Health and Human Services, Maine Center for 
+22 Disease Control and Prevention to prevent disease and promote public health and 
+23 implement strategies for building and sustaining public health capacity and 
+24 infrastructure at the state and local levels.  These funds may not be disbursed for the 
+25 purpose of providing medical care.
+266.  Internal stabilization account.   An internal stabilization account is established 
+27 within the trust. In order to prevent disruptions from year to year in the amounts disbursed 
+28 pursuant to designated disbursements under subsection 4 and to ensure continuity in the 
+29 event of fluctuations in the amount of settlement funds received by the State, the board may 
+30 draw upon the internal stabilization account to make additional disbursements. The trust 
+31 may not cause the balance in the internal stabilization account at any one time to exceed 
+32 the amount of settlement funds received by the trust in the most recent year. The funds 
+33 within the internal stabilization account are nonlapsing and carry forward from year to year 
+34 for future use consistent with this subsection and do not revert to the trust fund.
+357.  Internal flexible account.   An internal flexible account is established within the 
+36 trust. The funds in the internal flexible account may be drawn upon by the board for the 
+37 purpose of rapidly addressing emerging public health threats, promptly implementing 
+38 innovative promising practices or addressing other immediate unmet needs identified by 
+39 the board in the period between approval of funding disbursement plans, consistent with 
+40 the purposes of this subchapter. Trustees shall consult regularly with the commissioner 
+41 regarding emerging funding needs. Year-end balances remaining in the internal flexible 
+42 account lapse to the trust fund and are available for a subsequent year's funding 
+43 disbursement plan.
+448.  Informational copies of funding disbursement plans.   Upon final approval by 
+45 the board of a funding disbursement plan, the trust shall transmit informational copies of 
+Page 10 - 130LR1927(01)46 the funding disbursement plan to the Governor and to the joint standing committee of the 
+47 Legislature having jurisdiction over public health matters. A funding disbursement plan 
+48 does not require approval of the Governor or the joint standing committee of the Legislature 
+49 having jurisdiction over public health matters.
+59.  Report.   The trust shall produce annually a report on the results of the tobacco 
+6 prevention and control programs funded pursuant to subsection 4, paragraph A and all other 
+7 activities of the trust. The report must include an accounting of the funding disbursement 
+8 plan created pursuant to this section, including identification of recipients, activities and 
+9 amounts disbursed. The report must include information and outcomes from the trust's 
+10 investments pursuant to subsection 4, paragraph C.  The report may include information on 
+11 actual health and economic outcomes from funding disbursed to date and projected 
+12 outcomes from undertakings funded by the trust but not yet complete. The report may also 
+13 include recommendations for changes to the laws relating to activities under the jurisdiction 
+14 of the trust. The board must approve the report prior to its release. Upon release, the trust 
+15 shall transmit copies of the report to the Governor and to the joint standing committee of 
+16 the Legislature having jurisdiction over public health matters. The board shall establish 
+17 policies and practices for reporting in accordance with this subsection.
+1810. Audit. The trust must be audited at least annually by an independent certified public 
+19 auditor. A copy of the audit must be provided to the Governor and to the joint standing 
+20 committee of the Legislature having jurisdiction over public health matters. 
+21§1518.  Restrictions; construction
+22 The trust's activity is restricted to receiving and disbursing funds and any actions 
+23 necessary and appropriate to receive and disburse funds. The trust may not create, manage 
+24 or operate public health or health delivery programs. Nothing in this subchapter may be 
+25 construed to empower the trust to direct, manage or oversee any program, fund or activity 
+26 of any other state agency.
+27§1519.  Administration
+281.  Administration fund.   The board shall establish an administration fund to be used 
+29 solely to defray administrative costs approved by the board or the coordinator. The trust 
+30 may annually deposit funds authorized to be used for administrative costs under this 
+31 subchapter into the administration fund. Any interest on funds in the administration fund 
+32 must be credited to the administration fund, and any funds unspent in any fiscal year carry 
+33 forward and remain in the administration fund to be used to defray administrative costs. In 
+34 any year, the board may not disburse to the administration fund an amount greater than the 
+35 amount allowed pursuant to section 1517, subsection 4, paragraph C. The board may also 
+36 use the administration fund to contract for reasonable professional assistance to help review 
+37 input received from interested parties, to develop the funding disbursement plan under 
+38 section 1517 and to allow the board to fulfill its responsibilities under this subchapter.  The 
+39 board shall define the roles and responsibilities of any professional assistance in accordance 
+40 with this subsection.
+412.  Coordinator.   The board shall appoint, using a full and competitive search process, 
+42 a qualified full-time coordinator of the trust. The coordinator serves at the pleasure of the 
+43 board. The coordinator must have demonstrated experience in research and analysis of 
+44 public health issues, coordination of public health programs or administrative support of a 
+45 board in the public health sector, public health finance or policy or closely related 1
+2
+3
+4
+Page 11 - 130LR1927(01)46 experience. The coordinator shall assist the board in gathering and disseminating 
+47 information, preparing for meetings, analyzing public health issues at the direction of the 
+48 board, communicating with stakeholders, writing reports and such other board support and 
+49 administrative functions as the board may assign. The board shall establish the rate and 
+50 amount of compensation of the coordinator. The coordinator may exercise any powers 
+51 lawfully delegated to the coordinator by the board.
+73.  Bylaws.   The board shall adopt bylaws for the governance of its affairs consistent 
+8 with this subchapter.
+94.  Coordination with other entities.   Consistent with the requirements of this 
+10 subchapter and other applicable law, the board shall coordinate the development of its 
+11 funding disbursement plans with the Statewide Coordinating Council for Public Health, 
+12 established under Title 5, section 12004-G, subsection 14-G, and other state agencies and 
+13 authorities the missions of which relate to the purposes of this subchapter in order to 
+14 minimize inefficiency and duplication and to ensure consistency and effectiveness. 
+15 Notwithstanding any provision of law to the contrary, upon request of the trust and upon 
+16 the approval of the commissioner or director of the state agency receiving the request, other 
+17 state agencies, officials and employees shall cooperate and assist in the administration of 
+18 the trust as needed to further the purposes of this subchapter.
+195.  Recommendations. The trust may receive and shall consider any recommendations 
+20 made by the Governor, other state agencies, the joint standing committee having oversight 
+21 under section 1520-A and other interested entities and individuals.
+22§1520.  Rulemaking
+23 The trust shall adopt rules regarding establishing and administering the trust, receiving 
+24 public input and developing and approving funding disbursement plans. Rules adopted 
+25 pursuant to this section are routine technical rules pursuant to Title 5, chapter 375, 
+26 subchapter 2-A.
+27§1520-A.  Legislative oversight
+28 The trust is subject to the oversight of the joint standing committee of the Legislature 
+29 having jurisdiction over public health matters.
+30§1520-B.  Construction by court
+31 The court shall liberally construe this subchapter to give the greatest possible effect to 
+32 the powers and duties accorded to the trust.
+33§1520-C.  Freedom of access; confidentiality
+34 The proceedings of the board and records of the trust are subject to the freedom of 
+35 access laws under Title 1, chapter 13, subchapter 1.
+36§1520-D.  Liability
+371.  Bond.   All officers, trustees, employees and other agents of the trust entrusted with 
+38 the custody of funds of the trust or authorized to disburse the funds of the trust must be 
+39 bonded either by a blanket bond or by individual bonds with a minimum of $100,000 
+40 coverage for each person, or equivalent fiduciary liability insurance, conditioned upon the 
+41 faithful performance of their duties. The premiums for the bond or bonds are administrative 
+42 costs of the trust.1
+2
+3
+4
+5
+6
+Page 12 - 130LR1927(01)12.  Indemnification.   Each trustee must be indemnified by the trust against expenses 
+2 actually and necessarily incurred by the trustee in connection with the defense of any action 
+3 or proceeding in which the trustee is made a party by reason of being or having been a 
+4 trustee and against any final judgment rendered against the trustee in that action or 
+5 proceeding.
+6§1520-E.  Trust for a Healthy Maine Trust Fund
+71.  Establishment.   The Trust for a Healthy Maine Trust Fund is established as a 
+8 nonlapsing fund administered exclusively by the trust solely for the purposes established 
+9 in this subchapter.
+102.  Tobacco settlement funds.   Notwithstanding any provision of law to the contrary, 
+11 the State Controller shall credit to the trust fund all settlement funds immediately upon 
+12 receipt by the State.
+133.  Administration of trust fund.   The trust fund may not be used for any purposes 
+14 other than those set forth in this subchapter, and money in the trust fund is held in trust for 
+15 the purposes of this subchapter. All money received by the trust must be deposited in the 
+16 trust fund for distribution by the trust in accordance with this subchapter. The trust is 
+17 authorized to receive settlement funds and may also seek and accept funding from other 
+18 public or private sources if the trust determines that such acceptance advances the purposes 
+19 of this subchapter. Any balance in the trust fund not spent in any fiscal year does not lapse 
+20 but must carry forward in the trust fund available to be used immediately for the purposes 
+21 of this subchapter, upon the sole direction of the trust. Any interest or investment income 
+22 earned by the trust fund must be credited to the trust fund. The trust may use administrative 
+23 services of the Department of Administrative and Financial Services for the management 
+24 of the trust fund, but the role of the Department of Administrative and Financial Services 
+25 is nondiscretionary and the Department of Administrative and Financial Services shall 
+26 carry out all lawful instructions of the trust for all matters relating to accessing the trust 
+27 fund without the requirement of an additional legislative authorization or a financial order.
+284.  Working capital advance.   The State Controller is authorized to provide an annual 
+29 advance from the General Fund to the trust fund to provide money for disbursements from 
+30 the trust fund. The money must be returned to the General Fund as the first priority from 
+31 the amounts credited to the trust fund pursuant to subsection 2.
+325.  Transfer of funds upon repeal or dissolution of the trust fund.   If the trust fund 
+33 is repealed or dissolved for any reason, the State Controller shall transfer the balance of 
+34 funds in the trust fund to the Fund for a Healthy Maine established in section 1511.
+35Sec. A-5.  Staggered terms.  Notwithstanding the Maine Revised Statutes, Title 22, 
+36 section 1515, subsection 4, at the initial meeting of the Trust for a Healthy Maine Board, 
+37 trustees shall draw lots to determine trustees' initial term lengths so that the initial terms of 
+38 5 trustees expire after one year, the initial terms of 4 trustees expire after 2 years and the 
+39 initial terms of 5 trustees expire after 3 years.
+40Sec. A-6.  Initial appointments.  Notwithstanding the Maine Revised Statutes, Title 
+41 22, section 1515, subsection 3, paragraph C, the President of the Senate, Speaker of the 
+42 House, member of the Senate who is the leader of the party with the 2nd-largest number of 
+43 members in the Senate, member of the House of Representatives who is the leader of the 
+44 party with the 2nd-largest number of members in the House and the chiefs of the 4 federally 
+Page 13 - 130LR1927(01)45 recognized Indian tribes in the State shall make the initial nominations of trustees for the 
+46 Trust for a Healthy Maine Board to the Governor within 60 days of the effective date of 
+47 this legislation.
+4Sec. A-7.  Transfer from Fund for a Healthy Maine.  The State Controller, no 
+5 later than July 1, 2023, shall transfer all settlement funds, as defined in the Maine Revised 
+6 Statutes, Title 22, section 1514, subsection 10, in the Fund for a Healthy Maine and a pro 
+7 rata share of investment income in the Fund for a Healthy Maine to the Trust for a Healthy 
+8 Maine Trust Fund.
+9PART B
+10Sec. B-1.  22 MRSA §414 is enacted to read:
+11§414.  Office of Health Equity
+121.  Office established.  The Office of Health Equity is established within the 
+13 department.  The office is staffed by at least one full-time employee. 
+142.  Purpose.  The Office of Health Equity shall:
+15 A.  Upon request, advise the commissioner, the Governor's Office of Policy Innovation 
+16 and the Future and other state agencies, the Legislature and the Governor on health 
+17 systems, policies and practices, including intradepartmental and interdepartmental 
+18 training;
+19 B.  Provide recommendations to the public and State Government and private and 
+20 philanthropic partners to advance health equity, as defined in section 1514, subsection 
+21 8, in all sectors and settings; 
+22 C.  Produce and update a state health equity plan to:
+23 (1)  Create systems, policies and practices to achieve health equity, as defined in 
+24 section 1514, subsection 8, in all policies across State Government, including 
+25 robust surveillance and evaluation; and
+26 (2)  Establish policies to ensure all state contractors and vendors have a health 
+27 equity plan in place as a criteria for funding; and 
+28 D.  Produce an annual report, known as the Maine Health Equity Report Card, which 
+29 includes health programs and services, outcomes and social determinants of health 
+30 equity, as defined in section 1514.
+31PART C
+32Sec. C-1.  Obesity prevention standards in early care and education.  The 
+33 Department of Education shall adopt rules to revise its nutrition, physical activity, screen 
+34 time and sugary drink standards to increase obesity prevention in early care and education 
+35 in accordance with this section.
+36 1.  Early care and education nutrition standards must be consistent with the meal 
+37 patterns of the most recent version of the United States Department of Agriculture, Food 
+38 and Nutrition Service standards for the child and adult care food program established in 42 
+39 United States Code, Section 1766.
+40 2.  Physical activity standards must be consistent with the standards in the most recent 
+41 version of the publication "Caring for Our Children" developed as part of a collaboration 1
+2
+3
+Page 14 - 130LR1927(01)42 between the American Academy of Pediatrics, the American Public Health Association and 
+43 the National Resource Center for Health and Safety in Child Care and Early Education.
+3 3.  Screen time standards must be consistent with the standards in the most recent 
+4 version of the publication "Caring for Our Children" developed as part of a collaboration 
+5 between the American Academy of Pediatrics, the American Public Health Association and 
+6 the National Resource Center for Health and Safety in Child Care and Early Education.
+7 4.  Sugary drink standards must be consistent with the standards in the publication 
+8 "Consensus Statement.  Healthy Beverage Consumption in Early Childhood: 
+9 Recommendations from Key National Health and Nutrition Organizations" dated 
+10 September 2019.
+11 Rules adopted pursuant to this section are routine technical rules as defined in the 
+12 Maine Revised Statutes, Title 5, chapter 375, subchapter 2-A.
+13Sec. C-2.  Obesity prevention standards in public schools.  The Department of 
+14 Education shall adopt rules to revise its school nutrition and physical activity standards to 
+15 increase obesity prevention in public schools in accordance with this section. 
+16 1.  School nutrition standards must:
+17 A.  Require, at a minimum, the standards established by the United States Department 
+18 of Agriculture in Final Rule: National School Lunch Program and School Breakfast 
+19 Program: Nutrition Standards for All Foods Sold in School as Required by the Healthy, 
+20 Hunger-Free Kids Act of 2010, 7 Code of Federal Regulations, Parts 210 and 220 
+21 (2016);
+22 B.  Require, at a minimum, the standards established in the most recent version of the 
+23 publication "A Guide to Smart Snacks in School" issued by the United States 
+24 Department of Agriculture, Food and Nutrition Service for school meals and foods sold 
+25 or available in schools outside of federally reimbursable school meals programs;
+26 C.  Require reasonably scheduled meal periods and minimum meal times, in alignment 
+27 with the standards set by the federal Healthy, Hunger-Free Kids Act of 2010, Public 
+28 Law 111-296, that ensure sufficient time to eat; and
+29 D.  Require that all school meals served under the programs described in the Maine 
+30 Revised Statutes, Title 20-A, section 6602, subsection 1, paragraph C meet standards 
+31 consistent with those of breakfast and lunch served during the school year.
+32 2.  Physical activity standards must be consistent with the standards in the most recent 
+33 version of the publication "Comprehensive School Physical Activity Programs" developed 
+34 by the United States Department of Health and Human Services, Centers for Disease 
+35 Control and Prevention in collaboration with SHAPE America.
+36 3.  Contingent upon state funding, the department shall make all students, regardless 
+37 of household income, eligible to receive a breakfast and lunch at the public school free of 
+38 charge.  A student in a public school online learning program must be eligible to receive a 
+39 breakfast and lunch from the public school free of charge.
+40 4.  Contingent upon state funding, the department shall develop and provide technical 
+41 assistance and incentives for public schools to meet nutrition standards more stringent than 
+42 required under law or rule.1
+2
+Page 15 - 130LR1927(01)1 5.  The department shall require the phasing out of artificial food dyes that cause 
+2 adverse behavioral effects in children.
+3 6.  Contingent upon state funding, the department shall provide kitchen equipment 
+4 grants for upgrades, repairs and maintenance.  
+5 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+6 chapter 375, subchapter 2-A.
+7PART D
+8Sec. D-1.  22 MRSA §1551, sub-§1-D, as enacted by PL 2017, c. 308, §1, is 
+9 amended to read:
+101-D.  Electronic smoking device.  "Electronic smoking device" has the same meaning 
+11 as in section 1541, subsection 1‑A  means any device that may be used to deliver any 
+12 aerosolized or vaporized substance to the person inhaling from the device, including, but 
+13 not limited to, an electronic cigarette, electronic cigar, electronic pipe, vape pen or 
+14 electronic hookah.   "Electronic smoking device" includes any component, part or accessory 
+15 of the device and also includes any substance that may be aerosolized or vaporized by that 
+16 device, whether or not the substance contains nicotine.  "Electronic smoking device" does 
+17 not include drugs, devices or combination products authorized for sale by the United States 
+18 Food and Drug Administration, as those terms are defined in the Federal Food, Drug, and 
+19 Cosmetic Act.
+20Sec. D-2.  22 MRSA §1551, sub-§1-E is enacted to read:
+211-E.  Flavored tobacco product.  "Flavored tobacco product" means any tobacco 
+22 product that imparts a taste or smell, other than the taste or smell of tobacco, that is 
+23 distinguishable by an ordinary consumer either prior to or during the consumption of a 
+24 tobacco product, including, but not limited to, any taste or smell relating to fruit, menthol, 
+25 mint, wintergreen, chocolate, cocoa, vanilla, honey or any candy, dessert, beverage, herb 
+26 or spice.
+27Sec. D-3.  22 MRSA c. 262-A, sub-c. 5, as amended, is amended by amending the 
+28 subchapter headnote to read:
+29SUBCHAPTER 5
+30FLAVORED CIGARS  TOBACCO PRODUCTS
+31Sec. D-4.  22 MRSA §1560-D, as amended by PL 2011, c. 380, Pt. II, §2, is repealed.
+32Sec. D-5.  22 MRSA §1560-E is enacted to read:
+33§1560-E.  Flavored tobacco products
+341.  Prohibition on sale or distribution of flavored tobacco products.  A tobacco 
+35 retailer may not sell or distribute or offer to sell or distribute in this State any flavored 
+36 tobacco product. A public statement or claim made or disseminated by the retailer or 
+37 manufacturer of a tobacco product, or by a person authorized or permitted by the retailer 
+38 or manufacturer to make or disseminate public statements concerning a tobacco product, 
+Page 16 - 130LR1927(01)39 that a tobacco product has or produces a taste or smell other than tobacco constitutes 
+40 presumptive evidence that the tobacco product is a flavored tobacco product.
+32.  Violation.  A tobacco retailer who violates this section commits a civil violation for 
+4 which a fine may be imposed under subsection 3.
+53.  Fines.  The fines that apply to violations of this section are as set out in this 
+6 subsection.
+7 A.  A tobacco retailer who violates subsection 1 commits a civil violation for which a 
+8 fine of $1,000 may be adjudged.
+9 B.  A tobacco retailer who violates subsection 1 after having previously been convicted 
+10 of a violation of that subsection commits a civil violation for which a fine of $5,000 
+11 may be adjudged.
+12PART E
+13Sec. E-1.  36 MRSA §4365, as amended by PL 2005, c. 457, Pt. AA, §1 and affected 
+14 by §8, is further amended to read:
+15§4365.  Rate of tax
+16 A tax is imposed on all cigarettes imported into this State or held in this State by any 
+17 person for sale at the rate of 100 200 mills for each cigarette.  Payment of the tax is 
+18 evidenced by the affixing of stamps to the packages containing the cigarettes.
+19Sec. E-2.  36 MRSA §4365-F, as enacted by PL 2005, c. 457, Pt. AA, §3 and 
+20 affected by §8, is repealed.
+21Sec. E-3.  36 MRSA §4365-G is enacted to read:
+22§4365-G.  Application of cigarette tax rate increase effective November 1, 2021
+23 The following provisions apply to cigarettes held for resale on November 1, 2021.
+241.  Stamped rate.  Cigarettes stamped at the rate of 100 mills per cigarette and held 
+25 for resale after October 31, 2021 are subject to tax at the rate of 200 mills per cigarette.
+262.  Liability.  A person possessing cigarettes for resale is liable for the difference 
+27 between the tax rate of 200 mills per cigarette and the tax rate of 100 mills per cigarette in 
+28 effect before November 1, 2021.  Stamps indicating payment of the tax imposed by this 
+29 section must be affixed to all packages of cigarettes held for resale as of November 1, 2021, 
+30 except that cigarettes held in vending machines as of that date do not require that stamp.
+313.  Vending machines.  Notwithstanding any provision of this chapter to the contrary, 
+32 it is presumed that all cigarette vending machines are filled to capacity on November 1, 
+33 2021, and the tax imposed by this section must be reported on that basis. A credit against 
+34 this inventory tax must be allowed for cigarettes stamped at the rate of 200 mills per 
+35 cigarette placed in vending machines before November 1, 2021.
+364.  Payment.  Payment of the tax imposed by this section must be made to the assessor 
+37 by January 1, 2022, accompanied by forms prescribed by the assessor.
+38Sec. E-4.  36 MRSA §4366-A, sub-§2, as amended by PL 2009, c. 361, §23, is 
+39 further amended to read:1
+2
+Page 17 - 130LR1927(01)12.  Provided to sellers.  The State Tax Assessor shall provide stamps to a licensed 
+2 distributor upon submission by the licensed distributor of a cigarette tax return in a form 
+3 prescribed by the assessor. The stamps must be of a design suitable to be affixed to 
+4 packages of cigarettes as evidence of the payment of the tax imposed by this chapter.  The 
+5 assessor may permit a licensed distributor to pay for the stamps within 30 days after the 
+6 date of purchase, if a bond satisfactory to the assessor in an amount not less than 50% of 
+7 the sale price of the stamps has been filed with the assessor conditioned upon payment for 
+8 the stamps.  Such a distributor may continue to purchase stamps on a 30-day deferral basis 
+9 only if it remains current with its cigarette tax obligations. The assessor may not sell 
+10 additional stamps to a distributor that has failed to pay in full within 30 days for stamps 
+11 previously purchased until such time as the overdue payment is received.  The assessor 
+12 shall sell cigarette stamps to licensed distributors at the following discounts from their face 
+13 value:
+14 D.  For stamps at the face value of 100 mills, the discount rate is 1.15%.
+15Sec. E-5.  36 MRSA §4381 is amended to read:
+16§4381.  Tax credited to General Fund; Fund for a Healthy Maine
+17 The revenue derived from the tax imposed by this chapter shall must be credited to the 
+18 General Fund of the State, except that the State Controller shall credit 50% of the net tax 
+19 revenue to the Fund for a Healthy Maine established under Title 22, section 1511 to be 
+20 segregated into a separate account under Title 22, section 1511, subsection 11, with the use 
+21 of funds in the account restricted to the purposes described in Title 22, section 1511, 
+22 subsection 6.
+23Sec. E-6.  Appropriations and allocations.  The following appropriations and 
+24 allocations are made.
+25HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+26Maine Center for Disease Control and Prevention 0143
+27 Initiative: Appropriates funds for one Comprehensive Health Planner II position to act as 
+28 the Obesity Care Coordinator in the Maine Center for Disease Control and Prevention.
+GENERAL FUND 2021-22 2022-23
+POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+Personal Services $89,627 $92,480
+All Other $6,398 $6,398
+ __________ __________
+GENERAL FUND TOTAL $96,025 $98,878
+29Maine Center for Disease Control and Prevention 0143
+36 Initiative: Appropriates funds to implement evidence-based programming relating to the 
+37 reduction of unhealthy weight and obesity.
+GENERAL FUND 2021-22 2022-23
+All Other $154,000 $151,000
+ __________ __________
+GENERAL FUND TOTAL $154,000 $151,000
+38Maine Center for Disease Control and Prevention 014329
+30
+31
+32
+33
+34
+35
+38
+39
+40
+41
+42
+Page 18 - 130LR1927(01)1 Initiative: Appropriates funds for district public health improvement plans.
+GENERAL FUND 2021-22 2022-23
+All Other $900,000 $900,000
+ __________ __________
+GENERAL FUND TOTAL $900,000 $900,000
+2Office of Health Equity N365
+7 Initiative: Appropriates funds for one Comprehensive Health Planner II position to act as 
+8 the Health Equity Coordinator in the Office of Health Equity.
+GENERAL FUND 2021-22 2022-23
+POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+Personal Services $89,627 $92,480
+All Other $6,398 $6,398
+ __________ __________
+GENERAL FUND TOTAL $96,025 $98,878
+9Office of Health Equity N365
+16 Initiative: Appropriates funds to implement data collection and reporting in the Office of 
+17 Health Equity.
+GENERAL FUND 2021-22 2022-23
+All Other $154,000 $151,000
+ __________ __________
+GENERAL FUND TOTAL $154,000 $151,000
+18  
+HEALTH AND HUMAN SERVICES, 
+DEPARTMENT OF  
+DEPARTMENT TOTALS 2021-22 2022-23
+   
+GENERAL FUND $1,400,050 $1,399,756
+ __________ __________
+DEPARTMENT TOTAL - ALL FUNDS $1,400,050 $1,399,756
+23Sec. E-7.  Effective date. This Part takes effect November 1, 2021.
+31SUMMARY
+32 Part A establishes the Trust for a Healthy Maine to receive money paid to the State 
+33 pursuant to the tobacco settlement and from other sources and to distribute that money to 
+34 state agencies or designated agents of the State to fund tobacco use prevention and control, 
+35 ensure adequate resources for other disease prevention efforts, promote public health, plan 
+36 and deliver public health and prevention programs and services, support accreditation of 
+37 the Department of Health and Human Services, Maine Center for Disease Control and 
+38 Prevention and support public health workforce development.  The trust is governed by a 
+39 15-member board of trustees composed of the Director of the Maine Center for Disease 
+40 Control and Prevention and 14 members appointed by the Governor.
+41 Part B establishes the Office of Health Equity within the Department of Health and 
+42 Human Services.  The office is tasked with providing advice to the Commissioner of Health 2
+3
+4
+5
+6
+9
+10
+11
+12
+13
+14
+15
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Page 19 - 130LR1927(01)43 and Human Services, the Governor's Office of Policy Innovation and the Future and other 
+44 state agencies, the Legislature and the Governor on health systems, policies and practices; 
+45 providing recommendations to advance health equity in all sectors and settings; producing 
+46 and updating a state health equity plan; and producing an annual Maine Health Equity 
+47 Report Card. 
+6 Part C requires the Department of Education to revise its nutrition, physical activity, 
+7 screen time and sugary drink standards to increase obesity prevention in early care and 
+8 education and to revise its school nutrition and physical activity standards to increase 
+9 obesity prevention in public schools and requires those standards to match those specified 
+10 by various national organizations and federal agencies. 
+11 Part D prohibits the sale and distribution of flavored tobacco products, including 
+12 flavored cigars and electronic smoking devices.
+13 Part E increases the tax on cigarettes from 100 mills to 200 mills per cigarette effective 
+14 November 1, 2021 and eliminates the provision that allows the sale of cigarette stamps to 
+15 licensed distributors at a discount.  The amount of increased revenue from the cigarette tax 
+16 is credited to the Fund for a Healthy Maine.  Part E also provides funding for the health 
+17 initiatives in the bill.1
+2
+3
+4
+5

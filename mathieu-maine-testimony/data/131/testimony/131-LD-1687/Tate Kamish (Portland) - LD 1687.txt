@@ -1,0 +1,12 @@
+Tate Kamish
+Portland
+LD 1687
+I work for Ballotpedia, an online encyclopedia of U.S. elections and politics, where 
+part of my role is to maintain the spatial data in our database to support our Sample 
+Ballot Lookup tool, which allows people to preview who and what will be on their 
+ballots in upcoming elections. A huge part of being able to provide this service to 
+people is the availability of GIS boundary data via open data portals such as the 
+Maine GeoLibrary.
+This is just one example of the GeoLibrary's value, but this resource is important 
+across a variety of sectors including but not limited to environmental protection, city 
+planning, and business development.

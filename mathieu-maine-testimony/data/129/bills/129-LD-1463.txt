@@ -1,0 +1,404 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1463
+H.P. 1070 House of  Representatives,  April 2, 2019
+An Act  To Create an Automatic  Voter  Registration System
+Reference to the Committee on Veterans  and Legal Affairs suggested  and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.
+Cosponsored by Representatives:  CLOUTIER  of Lewiston, KESSLER  of South Portland, 
+O'NEIL of  Saco, TALBOT ROSS  of Portland, Senators: BELLOWS of Kennebec, 
+CHENETTE of York,  Senator  LUCHINI  of Hancock  and Representatives: ACKLEY of 
+Monmouth, BICKFORD  of Auburn,  HICKMAN of Winthrop, JORGENSEN of Portland, 
+SCHNECK of Bangor, Senators: DOW  of Lincoln, President JACKSON of Aroostook,  
+MOORE of Washington.
+
+Page 1 - 129LR0034(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §122-A, as enacted by PL 2005, c. 364, §4, is amended to 
+3read:
+4§122-A.  Alternative registration procedure for participants in Address 
+5Confidentiality Program
+6Notwithstanding sections 122 and 152 and subchapter 9, a person who is certified by 
+7the Secretary of State as a program participant in the Address Confidentiality Program 
+8pursuant to Title 5, section 90-B may register to vote using the designated address and 
+9voter code assigned to that person pursuant to rules adopted to implement the program.  
+10To register to vote, a voter must present the registrar with that voter's authorization card 
+11assigned to the voter pursuant to rules adopted by the Secretary of State showing that 
+12voter's name, voter code, designated address and certification expiration date.  The 
+13registrar may contact the Address Confidentiality Program administrator in the Secretary 
+14of State's office to determine the voter's eligibility to register in the municipality and to 
+15verify the electoral district in which the voter is voting for purposes of issuing an 
+16absentee ballot to the voter pursuant to section 753-C.  All registration records and 
+17pending voter registration records, as defined in section 231, subsection 1, paragraph B, 
+18for such voters must be designated as confidential and kept sealed in the registrar's office.  
+19The name of any voter certified as a program participant in the Address Confidentiality 
+20Program may not be placed on any voter list that is available for public inspection or 
+21copying.
+22Sec. 2.  21-A MRSA §129, first ¶, as amended by PL 2011, c. 399, §11, is further 
+23amended to read:
+24When Notwithstanding subchapter 9, when a voter's name is changed by marriage or 
+25other process of law, or when the voter moves within a municipality, the following 
+26provisions apply.
+27Sec. 3.  21-A MRSA §152, sub-§1, as amended by PL 2015, c. 447, §§4 and 5, is 
+28further amended to read:
+291.  Application.  In addition to the procedure procedures provided by section 122 and 
+30subchapter 9, a person may register to vote or enroll in a political party, or both, by 
+31completing an application that is designed by the Secretary of State.  The application 
+32must include, but is not limited to: 
+33A.  The legal name of the voter, in one of the following combinations:
+34(1)  First name and last name;
+35(2)  First initial, middle name and last name; or
+36(3)  First name, middle name or middle initial and last name;
+37B.  Residence address, including street, street number, apartment number, town and 
+38zip code;
+Page 2 - 129LR0034(01)-11C.  Mailing address;
+2D.  Date of birth;
+3F.  Most recent prior residence where registered to vote, including the municipality, 
+4county and state, and the name under which previously registered, if changed;
+5H.  Notification that failure to complete the entire application may prevent 
+6registration;
+7J.  Date of application;
+8K.  Signature of applicant collected in a way that ensures the quality and integrity of 
+9the signature;
+10L.  Choice of political party if the applicant desires to enroll in a political party or an 
+11indication that the applicant chose not to enroll in a party;
+12M.  A place for the person's current, valid Maine driver's license number, if 
+13applicable; or, if the applicant has no driver's license number, the last 4 digits of the 
+14person's social security number, if applicable; or, if the applicant has neither number, 
+15a place to put "none" or "not applicable"; and
+16N.  A place for the applicant to respond to the questions concerning the voter's 
+17qualifications as required by the federal Help America Vote Act of 2002, Public Law 
+18107-252.
+19Sec. 4.  21-A MRSA §155, first ¶, as amended by PL 2011, c. 342, §8, is further 
+20amended to read:
+21The registrar shall conditionally accept the registration and enrollment of any person 
+22who is 17 16 years of age and who is otherwise qualified to be a voter.  The conditional 
+23registration automatically becomes effective on the person's 18th birthday and the 
+24registrant then is eligible to vote.
+25Sec. 5.  21-A MRSA §195, as amended by PL 2009, c. 564, §6, is repealed and the 
+26following enacted in its place:
+27§195.  Report
+28The Secretary of State shall report annually by January 15th to the joint standing 
+29committee of the Legislature having jurisdiction over voter registration matters on the 
+30administration of the central voter registration system and the automatic voter registration 
+31system established pursuant to subchapter 9.
+321.  Automatic registration efforts.  Beginning January 15, 2022, the report required 
+33under this section must include the following information regarding the actions taken 
+34pursuant to subchapter 9:
+35A.  The number of pending voter registration records that have been transferred by 
+36source agencies;
+37B.  The number of voters added to the central voter registration system because of 
+38pending voter registration records transferred by source agencies;
+Page 3 - 129LR0034(01)-11C.  The number of voters in the central voter registration system whose information 
+2was updated because of pending voter registration records transferred by source 
+3agencies;
+4D.  The number of pending voter registration records transferred, by source agency, 
+5that do not relate to individuals affirmatively identified as eligible to vote;
+6E.  The number of individuals who chose to not register to vote; and
+7F.  The number of voters who submitted requests to update or correct registration 
+8information through the system established in subchapter 9, by type of information 
+9updated.
+10As used in this subsection, "pending voter registration record" and "source agency" have 
+11the same meanings as in subchapter 9.
+122.  Public access.  The report required under this section may address issues of public 
+13access to the information from the central voter registration system.
+143.  Legislation.  The report required under this section may include suggested 
+15legislation necessary to administer the central voter registration system and the automatic 
+16voter registration system implemented pursuant to subchapter 9. The joint standing 
+17committee of the Legislature having jurisdiction over voter registration matters may 
+18report out legislation regarding the central voter registration system and the automatic 
+19voter registration system to the Legislature.
+20Sec. 6.  21-A MRSA c. 3, sub-c. 9 is enacted to read:
+21SUBCHAPTER 9
+22AUTOMATIC VOTER REGISTRATION
+23§231.  Registration of voters by source agencies
+241.  Definitions.  As used in this subchapter, unless the context otherwise indicates, 
+25the following terms have the following meanings.
+26A.  "Bureau" means the Department of the Secretary of State, Bureau of Motor 
+27Vehicles.
+28B.  "Pending voter registration record" means the electronic record created by the 
+29bureau that contains the personal identification information, including name, age, 
+30citizenship and legal residence, and proof of that information of a person who is in 
+31the process of being considered for voter registration.
+32C.  "Proof of voter eligibility" means reliable evidence of a person's eligibility to vote 
+33and must include proof of age, citizenship and residence.
+34D.  "Source agency" means a state agency or department or other entity designated as 
+35a source agency pursuant to subsection 3 that, as part of the normal course of 
+36business of that entity, collects documents that contain personal identification 
+37information that provides proof of voter eligibility.
+Page 4 - 129LR0034(01)-112.  Registration referral by source agency.  In addition to the procedures provided 
+2in sections 122 and 152, an individual may be referred to be registered to vote by a source 
+3agency pursuant to this section.
+43.  Designation of bureau as source agency; other source agencies.  The bureau is 
+5designated as a source agency.  A source agency other than the bureau may be designated 
+6or created pursuant to this subsection.
+7A.  The Secretary of State may designate a state agency or department as a source 
+8agency if the Secretary of State verifies that the agency or department, as part of the 
+9normal course of business of that agency or department, collects documents that 
+10provide proof of voter eligibility.  The Secretary of State may designate as source 
+11agencies other entities designated by Section 7 of the National Voter Registration Act 
+12of 1993, 52 United States Code, Section 20506, including, but not limited to, public 
+13or private universities or colleges, municipal clerk offices or entities that provide 
+14services to persons with disabilities, as long as those entities, as part of the entities' 
+15normal course of business, collect documents that provide proof of voter eligibility.
+16B.  An entity that on January 1, 2022 is designated by Section 7 of the National Voter 
+17Registration Act of 1993 to provide voter registration services is designated as a 
+18source agency if the entity, as part of its normal course of business, collects 
+19documents that provide proof of voter eligibility.
+20C.  The Governor may designate by executive order a state agency as a source agency 
+21if that agency, as part of its normal course of business, collects documents that 
+22provide proof of voter eligibility.
+23An agency designated as a source agency pursuant to this subsection shall follow the 
+24same procedures for automatic voter registration as followed by the bureau and is subject 
+25to the requirements of this section, including preimplementation audit and risk assessment 
+26and ongoing audits and accuracy checks.
+274.  Transmission of proof of voter eligibility data; opportunity to opt out.  A 
+28source agency that, through receipt of an application for assistance or service, including 
+29licensing or certification or the renewal of the assistance or service, collects proof of 
+30voter eligibility data shall transmit that data to the bureau.  Any document or application 
+31used by a source agency to collect proof of voter eligibility data must contain notice that 
+32the information provided by the applicant could be used to register the applicant to vote, 
+33unless the applicant declines, and that some of the applicant's information would be sent 
+34to a central voter database where it would be accessible to entities other than the State or 
+35the source agency.
+365.  Registration of individual.  If information transferred pursuant to this section and 
+37section 232 indicates that an individual is not included in the central voter registration 
+38system and the available age, citizenship, residency and other relevant information prove 
+39that the individual meets the qualifications to vote in the State and is not otherwise 
+40ineligible to vote or that the individual meets the qualifications for advance registration 
+41pursuant to section 155, the Secretary of State shall refer the individual to the appropriate 
+42election official and that election official shall register that individual as a voter and add 
+Page 5 - 129LR0034(01)-11that individual to the central voter registration system unless the individual declines to be 
+2registered to vote pursuant to section 232, subsection 5, paragraph A.
+36.  Update of address.  If the information transferred pursuant to this section and 
+4section 232 indicates that an individual is already registered to vote in the central voter 
+5registration system and the information proves a more recent change to the individual's 
+6name or address, the Secretary of State and the election official shall ensure that the 
+7individual's records in the central voter registration system are updated accordingly.
+8§232.  Collection, maintenance and use of data
+9The collection, maintenance and use of data for voter registration under this 
+10subchapter are governed by this section.
+111.  Application; creation of pending voter registration record.  If an individual 
+12applies for a driver's license or nondriver identification card from the bureau, the bureau 
+13shall scan the documentation provided by the individual and create a pending voter 
+14registration record for that individual, which must be stored electronically in the bureau's 
+15database.  The pending voter registration record and the accompanying scanned 
+16documentation must be in a searchable, auditable format.
+172.  Proof of citizenship.  If an individual in the course of business with the bureau 
+18provides a document that proves the individual is a United States citizen, the pending 
+19voter registration record of that individual in the bureau's database must indicate that the 
+20individual has fulfilled the citizenship eligibility requirement for the purpose of 
+21registering to vote.
+223.  Audit of data.  The Secretary of State shall audit the central voter registration 
+23system for quality of data prior to implementation of the voter registration system 
+24pursuant to this subchapter and periodically thereafter conduct regular audits and random 
+25checks to ensure accuracy and reliability of the data.
+264.  Sharing of certain information prohibited; penalty.  The information retained 
+27by the bureau regarding citizenship status or country of origin may not be shared with any 
+28federal, state or local government agency except as allowed by this subchapter. Violation 
+29of this subsection is a Class E crime.
+305.  Electronic transmission of voter registration data and notice.  If an individual's 
+31pending voter registration record establishes voter eligibility, the bureau shall transmit 
+32electronically the individual's pending voter registration record to election officials in a 
+33format that may be reviewed by election officials and converted and uploaded into the 
+34central voter registration system. The bureau also shall transmit for review by election 
+35officials any changes to the address or name of an individual in the central voter 
+36registration system to ensure that the voting lists are kept current.
+37An election official shall provide information to the individual stating that, if the 
+38individual is eligible and not registered to vote, the information provided by the 
+39individual will be used to register the individual to vote, making some of that individual's 
+40information accessible to entities other than the State or the election official.  The election 
+41official shall provide a process by which the individual may:
+Page 6 - 129LR0034(01)-11A.  Decline being registered as a voter; and
+2B.  Adopt a political party affiliation.
+3Any communication must comply with the language requirements of Section 203 of the 
+4federal Voting Rights Act of 1965, 52 United States Code, Section 10503.
+5If an individual identified under this subsection as unregistered but eligible to vote does 
+6not decline to be registered as a voter within 21 calendar days after the election official 
+7issues the notification, the individual's pending voter registration record submitted under 
+8this subsection must be considered a completed registration and the individual must be 
+9registered to vote and entered into the central voting system.
+10§233.  Voluntary exclusion from voter list
+111.  Designation of individuals who request to opt out.  The Secretary of State shall 
+12ensure that, upon receipt and verification of an individual's request to opt out of voter 
+13registration, the individual's name and pending voter registration record are designated as 
+14unregistered, unless the voter subsequently consents to registration. This subsection does 
+15not preclude an individual who has previously declined voter registration from 
+16subsequently registering to vote.
+172.  Provision of records for permitted use only.  The Secretary of State shall ensure 
+18that election officials do not provide the pending voter registration record of an individual 
+19who has opted out of voter registration to a 3rd party for any purpose other than the 
+20compilation of a jury list.
+213.  Opportunity to opt out prior to voter registration transaction.  The Secretary 
+22of State shall ensure that, prior to the creation of a pending voter registration record by a 
+23source agency, an individual is given the opportunity to opt out of any voter registration 
+24transaction.  If an individual opts out of voter registration, information about that 
+25individual may not be transferred out of the source agency that obtained the information.
+26§234.  Privacy and security standards
+27The Secretary of State periodically shall review privacy and security measures 
+28applied to the central voter registration system and the voter registration system 
+29established in the subchapter, including pending voter registration records and, as 
+30provided in this section, implement standards and procedures to further safeguard the 
+31confidentiality, integrity and security of the information collected, maintained, received, 
+32transmitted or used pursuant to this subchapter, referred to in this section as "the data."
+331.  Security.  All source agencies, election officials and the Secretary of State shall 
+34work individually and jointly to:
+35A.  Ensure the confidentiality, integrity and security of the data;
+36B.  Identify and protect against any threats to the confidentiality, integrity and 
+37security of the data, including impermissible uses and disclosures;
+38C.  Train all persons who handle or have access to the data regarding implementation 
+39of the security protocols established;
+Page 7 - 129LR0034(01)-11D.  Conduct regular audits, either through a neutral 3rd party or the State Auditor, 
+2and risk management assessments and pursue measures that are indicated as 
+3necessary;
+4E.  Provide the highest level of physical security to facilities, computers and other 
+5sensitive equipment on which the data is stored;
+6F.  Employ available software to detect anomalies and irregularities;
+7G.  Implement measures to ensure against unauthorized access or changes in data 
+8through the process of transmitting data from one agency to another; and
+9H.  Develop procedures to respond immediately to a breach of the security of the data 
+10and to appropriately inform the public and other necessary parties of the breach and 
+11consequences of that breach.
+122.  Privacy.  The Secretary of State shall develop, publish and enforce a privacy 
+13policy with respect to the central voter registration system, the voter registration system 
+14established in this subchapter and the data that:
+15A.  Specifies each class of internal users that have authorized access to the central 
+16voter registration system, specifying for each class the permissions and levels of 
+17access to be granted, and setting forth other safeguards to protect the privacy of the 
+18information in the central voter registration system;
+19B.  Prohibits public disclosure of any information not necessary for voter registration;
+20C.  Protects against public disclosure of social security numbers, in whole or in part, 
+21driver's license numbers, nondriver identification card numbers and signatures;
+22D.  Prohibits public disclosure of an individual's decision not to register to vote;
+23E.  Prohibits agencies from transmitting to election officials information other than 
+24that required for voter registration or specified information relevant to the 
+25administration of elections, such as language preference and demographic 
+26information; and
+27F.  Prohibits the disclosure of information relating to persons in categories designated 
+28as confidential by federal or state law, including victims of domestic violence or 
+29stalking, prosecutors and law enforcement personnel and participants in a witness 
+30protection program.
+313.  Records retention.  The Secretary of State shall establish standards and 
+32procedures to maintain all election records required for purposes of this subchapter. The 
+33pending voter registration record of an individual who has been identified as ineligible to 
+34vote within the State or whose name has been removed from the central voter registration 
+35system due to opting out or due to ineligibility must be maintained and kept available 
+36until the date of the 2nd general election that occurs after the date that the individual 
+37opted out or was identified as ineligible, after which it must be deleted.
+Page 8 - 129LR0034(01)-11§235.  Protection against liability of individuals on basis of information transferred; 
+2false information
+31.  No individual liability for error by State.  If an individual who is ineligible to 
+4vote becomes a registered voter pursuant to this subchapter, that individual's registration 
+5is deemed to be the fault of the State and not attributable to or the fault of the individual.
+62.  Providing false information.  Notwithstanding subsection 1, an individual who 
+7knowingly and willfully provides false information under this subchapter is subject to 
+8prosecution pursuant to Title 17-A, section 452.
+9§236.  Protections against misuse of information
+101.  Restriction on use of registration records.  A person may not use the central 
+11voter registration system or pending voter registration records for any purpose other than 
+12voter registration, election administration, the enforcement of laws against election 
+13crimes or as allowed under section 196-A.
+142.  Restriction on use of information.  Information relating to an individual's 
+15absence from the central voter registration system or an individual's declining to supply 
+16information for voter registration purposes at a source agency is not a public record as 
+17defined in Title 1, section 402 and may not be disclosed to the public or used for any 
+18purpose other than voter registration, election administration or the enforcement of laws 
+19against election crimes.
+20§237.  Nondiscrimination
+21A person acting under color of law may not discriminate against an individual on the 
+22basis of the individual's absence from the central voter registration system, the 
+23information supplied by the individual for voter registration purposes at a source agency 
+24or the individual's declining to supply such information, except as required to administer 
+25elections or enforce the laws against election crimes.
+26§238.  Rules
+27The Secretary of State may adopt rules to implement this subchapter. Rules adopted 
+28pursuant to this section are major substantive rules as defined in Title 5, chapter 375, 
+29subchapter 2-A.
+30§239.  Rule of construction
+311.  No change to authority to maintain voting lists.  This subchapter may not be 
+32construed to interfere with any election official's authority or obligation, under state or 
+33federal law, to:
+34A.  Determine whether an individual is qualified to be a voter; or
+35B.  Conduct regular, nondiscriminatory voting list maintenance designed to ensure 
+36that persons who are ineligible to vote are not reflected as voters in the central voter 
+37registration system.
+Page 9 - 129LR0034(01)-112.  Right to opt out.  This subchapter may not be construed to interfere with the right 
+2of an individual to decline for any reason to be registered to vote.
+3Sec. 7.  Effective date; rules; report.  Those sections of this Act that amend the 
+4Maine Revised Statutes, Title 21-A, section 122-A, section 129, first paragraph and 
+5section 152, subsection 1 and that enact Title 21-A, section 195 and chapter 3, subchapter 
+69 take effect January 1, 2022, except that the Secretary of State shall adopt major 
+7substantive rules in accordance with Title 5, chapter 375, subchapter 2-A to implement by 
+8January 1, 2022 the automatic voter registration system enacted in Title 21-A, chapter 3, 
+9subchapter 9 and present those rules for approval to the Second Regular Session of the 
+10129th Legislature by January 15, 2020; at the same time, the Secretary of State may 
+11present suggested necessary legislation for the proper implementation of the automatic 
+12voter registration system.  The Joint Standing Committee on Veterans and Legal Affairs 
+13may report out legislation to the Second Regular Session of the 129th Legislature based 
+14on the recommendations of the Secretary of State.
+15SUMMARY
+16This bill establishes, beginning January 1, 2022, a method of automatically 
+17registering eligible individuals to vote.  The Department of the Secretary of State, Bureau 
+18of Motor Vehicles, when receiving any documentation from an individual doing business 
+19with the bureau, including applying for or renewing a driver's license or nondriver 
+20identification card, is required to scan and electronically store the documentation 
+21provided by the individual.  If the documentation provides proof of eligibility to vote, 
+22including citizenship, age and residency, that individual is added to the central voter 
+23registration system and relevant information is transmitted to election officials unless the 
+24individual, at the time of the collection of the documentation, chooses not to be registered 
+25to vote, which the Secretary of State is required to ensure that an individual is given the 
+26opportunity to do.  An application or document used to collect information that may be 
+27used to register an individual must contain a notice that the individual's information may 
+28be used to register that individual to vote, meaning that the information would be 
+29available by persons other than the State or election officials.  An election official must 
+30provide the same notice to an individual upon receipt of the registration record from the 
+31Bureau of Motor Vehicles and also must inform the individual of the ability to choose not 
+32to be registered to vote and to pick a party affiliation. If the individual fails to respond 
+33within 21 days, the individual is considered a registered voter if that individual meets the 
+34qualifications to be registered as a voter.
+35The Secretary of State and the Governor are allowed to designate other state agencies 
+36and departments and public and private entities, such as colleges and municipal clerk 
+37offices, as so-called source agencies that are allowed to submit registration information to 
+38the bureau for inclusion in the central voter registration system, but only if those 
+39agencies, as part of their normal course of business, collect information that provides 
+40proof of eligibility to vote, including an entity that, as of January 1, 2022, is designated 
+41under the National Voter Registration Act of 1993 as a voter registration agency that 
+42collects information that provides proof of voter eligibility.  A source agency is required 
+43to comply with the same restrictions regarding sharing and use of documentation as the 
+44bureau.
+Page 10 - 129LR0034(01)-11Information from a source agency may also be used to update an individual's voter 
+2registration.
+3This bill exempts from liability an individual who is not qualified to be a registered 
+4voter but who becomes a registered voter by operation of the automatic registration, as 
+5long as that individual has not knowingly or willfully provided false information.
+6This bill also requires the Secretary of State to adopt major substantive rules to 
+7implement the new automatic voter registration system and submit those rules, along with 
+8any proposed legislation necessary for the proper implementation of the new system, to 
+9the Second Regular Session of the 129th Legislature.
+10Finally, this bill lowers the age at which a person may submit a conditional 
+11registration to vote and enrollment in a political party from 17 years of age to 16 years of 
+12age.

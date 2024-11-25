@@ -1,0 +1,225 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1273
+H.P. 933 House of  Representatives, March 29, 2021
+An Act  To Establish Conviction Integrity Units in Maine
+Received by the Clerk of the House on March 25, 2021.  Referred to the Committee  on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative EVANGELOS of Friendship.
+Cosponsored by Senator MIRAMANT  of Knox and
+Representatives: HARNETT of Gardiner, O'NEIL of Saco, PLUECKER of Warren, WARREN of Hallowell, Senator: MAXMIN of Lincoln.
+
+Page 1 - 130LR1154(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  15 MRSA c. 301, sub-c. 5 is enacted to read:
+3SUBCHAPTER 5
+4CONVICTION INTEGRITY UNITS
+5§1861.  Conviction integrity units
+61.  Conviction integrity units.  The Attorney General and every district attorney under 
+7 Title 30-A, chapter 1, subchapter 5 shall maintain within their respective offices a 
+8 conviction integrity unit that timely reviews the convictions resulting in imprisonment of 
+9 criminal cases prosecuted by the Attorney General's or that district attorney's office to 
+10 determine whether errors were committed justifying a post-conviction review of the 
+11 conviction.
+122.  Review.  A conviction integrity unit shall review a conviction in its office that 
+13 contains:
+14 A.  Facts that suggest a plausible claim of innocence; 
+15 B.  Evidence of a constitutional violation or prosecutorial misconduct; or 
+16 C.  Facts or circumstances requiring a review in the interests of fairness or justice.
+17 That a person pleaded guilty or is no longer incarcerated is not an impediment to the 
+18 person's conviction being reviewed under this chapter.  The conviction integrity unit may 
+19 conduct a review of a conviction upon its own initiative or upon a referral from another 
+20 person.  The conviction integrity unit shall conduct a periodic audit of convictions 
+21 prosecuted by the unit's office to determine eligibility of review under this subsection.
+223.  Investigation.  An investigation of a conviction under subsection 2 must include a 
+23 review of all files, evidence, work product, notes, laboratory records, personnel files and 
+24 other information possessed or obtained by the State in the course of or relevant to the 
+25 underlying case, any evidence proffered by the defendant or others and further facts or 
+26 evidence that may support a review under subsection 2 whether or not the facts or evidence 
+27 was available or proffered by the defense at the time of trial.  An investigation may include 
+28 coordination and cooperation with defense counsel, the defendant, witnesses or others, 
+29 including documents, electronic files or laboratory or other records, to determine the facts 
+30 and circumstances supporting a review under subsection 2.
+314.  Convictions involving allegations of prosecutorial misconduct.  A conviction 
+32 involving a substantial, nonconclusory allegation of prosecutorial misconduct by a present 
+33 or former member of the conviction integrity unit's office must be referred to an 
+34 independent authority for investigation and review. This referral must include both the 
+35 allegation of misconduct as well as any included claim of innocence, constitutional 
+36 violation or interests of fairness or justice.
+375.  Certain individuals precluded from conducting review.  An attorney who 
+38 prosecuted or was substantially involved in a conviction may not participate in the 
+39 conviction integrity unit's review of that conviction.
+Page 2 - 130LR1154(01)16.  Recommendation; relief; petition.  If a conviction integrity unit determines 
+2 appropriate based upon the review and investigation, the unit shall make in a timely manner 
+3 a recommendation to the Attorney General or district attorney in whose office the 
+4 conviction integrity unit is located whether to petition for post-conviction review under 
+5 chapter 305-A and the relief to be sought.  The relief must be by agreement with the 
+6 defendant and may include dismissal of the conviction, recharging the defendant and 
+7 conviction of a lesser charge, reduction or termination of a sentence or other disposition.  
+8 The Attorney General or district attorney may file a petition based upon the 
+9 recommendation.
+107.  Report.  The Attorney General and every district attorney shall submit an annual 
+11 report on the activities of the conviction integrity unit in the Attorney General's or that 
+12 district attorney's office, collected by the Attorney General and transmitted to the joint 
+13 standing committee of the Legislature having jurisdiction over criminal justice and public 
+14 safety matters.  The report must include:
+15 A.  The number and nature of convictions reviewed, including:
+16 (1)  The total number of referrals received;
+17 (2)  The number of convictions in which trials had occurred;
+18 (3)  The number of convictions that had resulted in a plea;
+19 (4)  The number of convictions for which prior state or federal post‐conviction 
+20 petitions had been filed and adjudicated; and
+21 (5)  The source of referrals, including from pro se defendants, innocence 
+22 organizations, the defense bar, news media or other persons or from office-initiated 
+23 investigations pursuant to audits arising from prior wrongful conviction matters 
+24 including audits involving individual prosecutors, police officers or forensic 
+25 techniques;
+26 B.  The outcomes of reviews, including:
+27 (1)  The number of convictions in which a decision was made not to undertake an 
+28 investigation;
+29 (2)  The number of convictions in which an investigation was undertaken;
+30 (3)  The number of convictions for which relief was granted, the nature of that 
+31 relief and the grounds for providing that relief;
+32 (4)  The number of convictions where an investigation was undertaken and no 
+33 agreement made between the parties resulting in continuing post‐conviction 
+34 litigation and the status or result of that litigation; and
+35 (5)  The number of convictions referred for independent review and investigation 
+36 due to a substantial, nonconclusory allegation of misconduct by a prosecutor; and
+37 C.  An analysis of the lesson learned and solution recommended for an error identified 
+38 in the course of the activities of the conviction integrity unit, including identification 
+39 of the root cause of the error, the potential use of an independent external expert to 
+40 conduct a forensic review of the error, a reexamination of cases with similar or like 
+41 facts or root causes and recommended policy change and implementation.
+Page 3 - 130LR1154(01)1Sec. 2.  15 MRSA §2122, as amended by PL 2011, c. 601, §4, is further amended to 
+2 read:
+3§2122.  Purpose
+4 This chapter provides a comprehensive and, except for direct appeals from a criminal 
+5 judgment, exclusive method of review of those criminal judgments and of post-sentencing 
+6 proceedings occurring during the course of and subsequent to sentences.  It is a remedy for 
+7 unfair, unjust or illegal restraint and other impediments specified in section 2124 that have 
+8 occurred directly or indirectly as a result of an unfair, unjust or illegal criminal judgment 
+9 or post-sentencing proceeding.  It replaces the remedies available pursuant to post-
+10 conviction habeas corpus, to the extent that review of a criminal conviction or proceedings 
+11 were reviewable, the remedies available pursuant to common law habeas corpus, including 
+12 habeas corpus as recognized in Title 14, sections 5501 and 5509 to 5546, coram nobis, 
+13 audita querela, writ of error, declaratory judgment and any other previous common law or 
+14 statutory method of review, except appeal of a judgment of conviction or juvenile 
+15 adjudication and remedies that are incidental to proceedings in the trial court.  The 
+16 substantive extent of the remedy of post-conviction review is defined in this chapter and 
+17 not defined in the remedies that it replaces; provided that this .  This chapter provides and 
+18 is must be construed to provide relief for those persons required to use this chapter as 
+19 required by the Constitution of Maine, Article I, Section 10.
+20Sec. 3.  15 MRSA §2123, sub-§1-A, as amended by PL 2003, c. 29, §2, is further 
+21 amended to read:
+221-A.  Supreme Court Justice or authorized Judge of the District Court.  A single 
+23 Justice of the Supreme Judicial Court, an Active Retired Justice of the Supreme Judicial 
+24 Court or a judge authorized to sit in the Superior Court on post-conviction review cases has 
+25 and shall exercise jurisdiction and has and shall exercise all of the powers, duties and 
+26 authority necessary for exercising the same jurisdiction as the Superior Court relative to a 
+27 post-conviction review proceeding.  If a petition is brought under section 1861, the justice 
+28 or judge who presided over the underlying conviction may not preside over the post-
+29 conviction review of the case.
+30Sec. 4.  15 MRSA §2125, as amended by PL 2013, c. 266, §4, is further amended to 
+31 read:
+32§2125.  Ground for relief
+33 A person who satisfies the prerequisites of section 2124 may show that the challenged 
+34 criminal judgment or sentence is unlawful or unlawfully imposed,  or unfair or unjust under 
+35 section 1861 or that the impediment resulting from the challenged post-sentencing 
+36 proceeding is unlawful, as a result of any error or ground for relief, whether or not of record, 
+37 unless the error is harmless or unless relief is unavailable for a reason provided in section 
+38 2126, section 2128 unless section 2128‐A applies, or section 2128‐B.
+39Sec. 5.  15 MRSA §2126, as amended by PL 2013, c. 266, §5, is further amended to 
+40 read:
+41§2126.  Exhaustion
+42 A Except for a proceeding brought under section 1861, a person under restraint or 
+43 impediment specified in section 2124 must also demonstrate that the person has previously 
+Page 4 - 130LR1154(01)44 exhausted remedies incidental to proceedings in the trial court, on appeal or administrative 
+45 remedies.  A person who has taken an appeal from a judgment of conviction, a juvenile 
+46 adjudication or a judgment of not criminally responsible by reason of insanity is not 
+47 precluded from utilizing the remedy of this chapter while the appeal is pending.  The post-
+48 conviction review proceeding is automatically stayed pending resolution of the appeal 
+49 unless the Appellate Court on motion and for good cause otherwise directs.
+7Sec. 6.  15 MRSA §2128, first ¶, as amended by PL 2011, c. 601, §9, is further 
+8 amended to read:
+9 A Except for a proceeding brought under section 1861, a person under restraint or 
+10 impediment specified in section 2124 shall demonstrate that any ground of relief has not 
+11 been waived.  The bases of waiver are as follows.
+12Sec. 7.  15 MRSA §2128-B, sub-§4 is enacted to read:
+134.  Filing deadline for resentencing review.  A petition filed pursuant to section 1861 
+14 may be brought at any time after the issuance of conviction.
+15Sec. 8.  15 MRSA §2129, sub-§1, as amended by PL 2003, c. 29, §3, is further 
+16 amended to read:
+171.  Filing of petition.  Petitions shall must be filed as follows.
+18 A.  A proceeding for post-conviction review shall must be commenced by filing a 
+19 petition in the Superior Court in the county specified in section 2123.
+20 B.  If Except for a petition brought pursuant to section 1861, if the petitioner desires to 
+21 have counsel appointed, he the petitioner shall file an affidavit of indigency in the form 
+22 prescribed by the Supreme Judicial Court.  If the petitioner is incarcerated, the affidavit 
+23 shall must be accompanied by a certificate of the appropriate officer of the institution 
+24 in which the petitioner is incarcerated as to the amount of money or securities on 
+25 deposit to the petitioner's credit in any account in the institution.  The failure to include 
+26 an affidavit of indigency with the petition does not bar the court from appointing 
+27 counsel upon a subsequent filing of an affidavit of indigency.
+28 C.  Once the petition has been filed, the clerk shall forward a copy of the petition and 
+29 any separate documents filed with it to the Chief Justice of the Superior Court and to 
+30 the prosecutorial office that earlier represented the State in the underlying criminal or 
+31 juvenile proceeding or, for a petition brought under section 1861, to the person whose 
+32 conviction is being reviewed.
+33Sec. 9.  15 MRSA §2129, sub-§12 is enacted to read:
+3412.  Standard of proof for claims of innocence.  The standard of review for a petition 
+35 filed under section 1861 claiming innocence is by clear and convincing evidence.
+36SUMMARY
+37 This bill requires the Attorney General and every district attorney to maintain a 
+38 conviction integrity unit to review convictions in cases they prosecuted to determine 
+39 whether there is plausible evidence of innocence, a constitutional violation or prosecutorial 
+40 misconduct or when the facts and circumstances require a review in the interests of fairness 
+41 and justice.  A conviction integrity unit may recommend that a conviction be dismissed or 1
+2
+3
+4
+5
+6
+37
+38
+39
+40
+41
+Page 5 - 130LR1154(01)42 replaced with a lesser charge or may recommend a reduction or termination of a sentence 
+43 or other disposition upon agreement with the defendant.  The Attorney General or district 
+44 attorney may file a petition for post-conviction review based upon that recommendation.  
+45 Prosecutors are prohibited from participating in the review of cases that they prosecuted 
+46 and justices and judges are prohibited from presiding over the post-conviction review of 
+47 cases over which they presided.  Cases of prosecutorial misconduct must be reviewed by 
+48 an independent authority.  The standard of review for petitions claiming innocence is by 
+49 clear and convincing evidence.1
+2
+3
+4
+5
+6
+7
+8

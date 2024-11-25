@@ -1,0 +1,110 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 406
+S.P. 133 In Senate, February 7, 2017
+An Act  To Amend the Law Regarding Joint Use of Certain Utility 
+and Telecommunications Infrastructure
+Submitted by the Public Utilities Commission  pursuant to  Joint  Rule 204.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator WOODSOME of York.
+Cosponsored by Representative BERRY  of Bowdoinham  and
+Senator: President THIBODEAU of Waldo.
+
+ 
+ Page 1 - 128LR0657(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §711, as amended by PL 2011, c. 623, Pt. B, §4, is further 2 
+amended to read:  3 
+§711.  Joint use of equipment  4 
+1.  Joint use permitted.  The commission may order that joint use be permitted and 5 
+prescribe reasonable compensation and reasonable terms and conditions for the joint use 6 
+when , after a hearing had upon its own motion or upon complaint of a public utility, voice 7 
+service provider, dark fiber provider, wholesale competitive lo cal exchange carrier or 8 
+cable television system affected,  it finds the following:  9 
+A.  That public convenience and necessity require the use by one public utility, voice 10 
+service provider, dark fiber provider, wholesale competitive local exchange carrier or, 11 
+cable television system , unlit fiber provider, telecommunications service provider or 12 
+information service provider  of the conduits, subways, wires, poles, pipes or other 13 
+equipment, or any part of them, on, over or under any street or highway and 14 
+belongin g to another public utility, voice service provider, dark fiber provider, 15 
+wholesale competitive local exchange carrier or, cable television system , unlit fiber 16 
+provider, telecommunications service provider or information service provider ; and 17 
+B.  That join t use will not result in irreparable injury to the owner or other users of 18 
+the conduits, subways, wires, poles, pipes or other equipment or in any substantial 19 
+detriment to the service ; and . 20 
+C.  That the public utilities, voice service provider, dark fiber provider, wholesale 21 
+competitive local exchange carrier or cable television system have failed to agree 22 
+upon the use or the terms and conditions or compensation for the use.  23 
+2.  Liability of user.  If joint use is ordered, the public utility, voice service provider, 24 
+dark fiber provider, wholesale competitive local exchange carrier or, cable television 25 
+system , unlit fiber provider, telecommunications service provider or information service 26 
+provider  to whom the use is permitted is liable to the owner or other users of the conduits, 27 
+subways, wires, poles, pipes or other equipment for damage that may result from its use 28 
+to the property of the owner or other users.  29 
+3.  Interests of subscribers.  Any actions taken or orders issued by the commission 30 
+under this secti on shall  must  take into account the interests of the subscribers of the 31 
+affected voice service provider, dark fiber provider, wholesale competitive local 32 
+exchange carrier,  cable television system, unlit fiber provider, telecommunications 33 
+service provider o r information service provider,  as well as the customers of the affected 34 
+public utilities.  35 
+4.  Rules.  The commission shall adopt a rule  rules  governing the resolution of pole 36 
+attachment rate disputes  joint use .  The In establishing compensation or rates, the 37 
+commission shall consider various formulas, including, but not limited to, the formula 38 
+adopted by the Federal Communications Commission as codified in 47 Code of Federal 39 
+Regulations, Part 1, Subpart J, as amended.  40 
+ 
+ Page 2 - 128LR0657(01) -1 
+ 5.  Dark fiber provider.  This section  applies to a dark fiber provider only with 1 
+respect to the construction and maintenance of federally supported dark fiber.  2 
+6.  Definitions.  As used in this section, unless the context otherwise indicates, the 3 
+following terms have the following meanings.  4 
+A.  "Information service" has the same meaning as in 47 United States Code, Section 5 
+153(24).  6 
+B.  "Telecommunications service" has the same meaning as in 47 United States Code, 7 
+Section 153(53).  8 
+C.  "Unlit fiber" means one or more strands within a bundle of f iber-optic cable 9 
+through which an associated light signal or light communication transmission must be 10 
+provided to provide communications service, but excluding the electronic equipment 11 
+required in order to render the fiber capable of transmitting communica tions.  12 
+SUMMARY  13 
+This bill makes the following changes to the laws governing joint use of equipment 14 
+regulated by the Public Utilities Commission.  15 
+1.  It changes the conditions under which the commission may order joint use of 16 
+equipment by eliminating the re quirement that a hearing be held upon the commission's 17 
+motion or that a complaint be filed by an affected entity before the commission may order 18 
+joint use of equipment.  It also eliminates the requirement that the commission find that 19 
+the parties have fail ed to agree on the terms and conditions or compensation for the joint 20 
+use of equipment before the commission may enter an order.  21 
+2.  It adds unlit fiber providers, telecommunications service providers and 22 
+information service providers to the list of entiti es that may be subject to an order for 23 
+joint use of equipment.  24 
+3.  It expands the types of subscribers whose interests must be taken into account by 25 
+the commission when taking actions or issuing orders related to joint use of equipment.  26 
+4.  It requires the  commission to adopt rules governing joint use of equipment.  27 
+ 

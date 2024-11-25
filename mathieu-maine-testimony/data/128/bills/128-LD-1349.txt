@@ -1,0 +1,564 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1349
+H.P. 939 House of  Representatives,  April 6, 2017
+An Act  Regarding the  Registration of Appraisal Management 
+Companies
+Reference to the Committee on Labor, Commerce, Research and Economic  Development 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative FECTEAU of Biddeford.
+
+ 
+ Page 1 - 128LR1207(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  32 MRSA c. 124 -A is enacted to read:  2 
+CHAPTER 124 -A 3 
+APPRAISAL MANAGEMENT  COMPANY REGISTRATION  4 
+§14041.  Short title  5 
+This chapter may be known and cited as "the Appraisal Management Compan y 6 
+Registration Act."  7 
+§14042.  Definitions  8 
+As used in this chapter, unless the context otherwise indicates, the following terms 9 
+have the following meanings.  10 
+1.  Appraisal.  "Appraisal" has the same meaning as in section 14002, subsection 1.  11 
+2.  Appraisal as signment.  "Appraisal assignment" means an agreement between an 12 
+appraiser and an appraisal management company to provide an appraisal service.  13 
+3.  Appraisal management company.  "Appraisal management company" means an 14 
+entity that:  15 
+A.  Provides appraisal ma nagement services to creditors or secondary mortgage 16 
+market participants with appraisers who are:  17 
+(1)  Employees of the entity; or  18 
+(2)  Part of an appraiser panel that includes more than 15 appraisers who are 19 
+independent contractors to the entity;  20 
+B.  Prov ides services in connection with valuing a consumer's principal dwelling as 21 
+security for a consumer credit transaction or incorporating such transactions into 22 
+securitizations; and  23 
+C.  Within a calendar year or a 12 -month period established by board rule, o versees 24 
+an appraiser panel of more than 15 certified or licensed appraisers in one state or 25 25 
+or more certified or licensed appraisers in more than one state.  26 
+"Appraisal management company" does not include a department or division of an entity 27 
+that provi des appraisal management services only to that entity.  28 
+4.  Appraisal management service.  "Appraisal management service" means:  29 
+A.  Recruiting, selecting and retaining appraisers;  30 
+B.  Contracting with appraisers to perform appraisal assignments;  31 
+C.  Managi ng the process of having an appraisal performed, including, but not limited 32 
+to: 33 
+ 
+ Page 2 - 128LR1207(01) -1 
+ (1)  Providing administrative services;  1 
+(2)  Receiving appraisal orders and appraisal reports;  2 
+(3)  Submitting completed appraisal reports to creditors and secondary market 3 
+participants;  4 
+(4)  Collecting fees from creditors and secondary market participants for services 5 
+provided; and  6 
+(5)  Paying appraisers for services performed; and  7 
+D.  Reviewing and verifying the work of appraisers.  8 
+5.  Appraisal review.  "Appraisal review" mea ns the act or process of developing 9 
+and communicating an opinion about the quality of an appraiser's work that was 10 
+performed as part of an appraisal assignment related to the appraiser's data collection, 11 
+analysis, opinions, conclusions, estimate of value o r compliance with the Uniform 12 
+Standards of Professional Appraisal Practice.  "Appraisal review" does not include a 13 
+quality control examination.  14 
+6.  Appraisal service.  "Appraisal service" means providing an appraisal or appraisal 15 
+review.  16 
+7.  Appraiser.  "Appraiser" means a person licensed under chapter 124.  17 
+8.  Appraiser panel.  "Appraiser panel" means a network, list or roster of licensed or 18 
+certified appraisers approved by an appraisal management company to perform appraisals 19 
+for the appraisal management  company.  "Appraiser panel" includes appraisers accepted 20 
+by an appraisal management company for consideration for future appraisal assignments 21 
+in covered transactions or for secondary mortgage market participants in connection with 22 
+covered transactions an d appraisers engaged by an appraisal management company to 23 
+perform one or more appraisals in covered transactions or for secondary mortgage market 24 
+participants in connection with covered transactions.  25 
+9.  Board.  "Board" means the Board of Real Estate Appr aisers under section 14011.  26 
+10.  Client.  "Client" means a person that contracts with or otherwise enters into an 27 
+agreement with an appraisal management company for the performance of appraisal 28 
+management services.  29 
+11.  Consumer credit.  "Consumer credit" means credit offered or extended to a 30 
+consumer primarily for personal, family or household purposes.  31 
+12.  Controlling person.  "Controlling person" means:  32 
+A.  An owner, officer or director of an appraisal management company;  33 
+B.  An individual employed, app ointed or authorized by an appraisal management 34 
+company who has authority to enter into a contractual relationship with other persons 35 
+for the performance of appraisal management services and has authority to enter into 36 
+agreements with appraisers for the pe rformance of appraisal services; or  37 
+ 
+ Page 3 - 128LR1207(01) -1 
+ C.  An individual who is authorized to, directly or indirectly, direct or cause the 1 
+direction of the management or policies of an appraisal management company.  2 
+13.  Covered transaction.  "Covered transaction" means a con sumer credit 3 
+transaction secured by a consumer's principal dwelling.  4 
+14.  Creditor.  "Creditor" means a person who regularly extends consumer credit that 5 
+is subject to a finance charge or is payable by written agreement in more than 4 6 
+installments, not inc luding a down payment, and to whom the obligation is initially 7 
+payable, either on the face of the note or contract or by agreement when there is no note 8 
+or contract.  For the purpose of this subsection, a person regularly extends consumer 9 
+credit if the per son: 10 
+A.  Extended credit, other than credit subject to the requirements of 12 Code of 11 
+Federal Regulations, Section 1026.32 more than 5 times for transactions secured by a 12 
+dwelling in the preceding calendar year; or  13 
+B.  In any 12 -month period, originates mo re than one credit extension that is subject 14 
+to the requirements of 12 Code of Federal Regulations, Section 1026.32 or one or 15 
+more such credit extensions through a mortgage broker.  16 
+15.  Dwelling.  "Dwelling" means a residential structure that contains one to 4 units, 17 
+whether or not the structure is attached to real property.  "Dwelling" includes an 18 
+individual condominium unit, cooperative unit, mobile home and trailer, if it is used as a 19 
+residence.  20 
+16.  Federal appraisal subcommittee.  "Federal appraisal su bcommittee" means the 21 
+Appraisal Subcommittee of the Federal Financial Institutions Examination Council under 22 
+12 United States Code, Chapter 34.  23 
+17.  Federal financial institutions regulatory agency.  "Federal financial 24 
+institutions regulatory agency" means  the federal Office of the Inspector General, 25 
+Consumer Financial Protection Bureau, Federal Housing Finance Agency or Board of 26 
+Governors of the Federal Reserve System; the Federal Deposit Insurance Corporation; the 27 
+Office of the Comptroller of the Currency ; or the National Credit Union Administration.  28 
+18.  Federally regulated appraisal management company.  "Federally regulated 29 
+appraisal management company" means an appraisal management company that is owned 30 
+and controlled by an insured depository institutio n, as defined in 12 United States Code, 31 
+Section 1813 and regulated by the federal Office of the Comptroller of the Currency; 32 
+Office of the Inspector General, Board of Governors of the Federal Reserve System; or 33 
+the Federal Deposit Insurance Corporation.  34 
+19.  Federally related transaction.  "Federally related transaction" has the same 35 
+meaning as in section 14002, subsection 9.  36 
+20.  Federally related transaction regulations.  "Federally related transaction 37 
+regulations" means regulations established by a feder al financial institutions regulatory 38 
+agency pursuant to Title XI, Sections 1112, 1113 and 1114 of the Financial Institutions 39 
+ 
+ Page 4 - 128LR1207(01) -1 
+ Reform, Recovery, and Enforcement Act of 1989, 12 United States Code, Sections 3341 1 
+to 3343.  2 
+21.  Person.  "Person" means an indivi dual, firm, partnership, association, 3 
+corporation, limited liability company, sole proprietorship or any other entity.  4 
+22.  Principal dwelling.  "Principal dwelling" means a consumer's principal 5 
+dwelling.  "Principal dwelling" includes a dwelling a consume r buys or builds that will 6 
+become the consumer's principal dwelling within one year or upon the completion of 7 
+construction.  "Principal dwelling" does not include a vacation or other second home.  8 
+23.  Quality control examination.  "Quality control examinat ion" means an 9 
+examination of an appraisal report for completeness, including for grammatical, 10 
+mathematical and typographical errors. "Quality control examination" does not include an 11 
+appraisal review.  12 
+24.  Secondary mortgage market participant.  "Secondary  mortgage market 13 
+participant" means a guarantor or insurer of mortgage -backed securities, or an 14 
+underwriter or issuer of mortgage -backed securities.  "Secondary mortgage market 15 
+participant" includes an individual investor in a mortgage -backed security only  if that 16 
+investor is also a guarantor, issuer, underwriter or issuer of the mortgage -backed security.  17 
+25.  Uniform Standards of Professional Appraisal Practice.  "Uniform Standards 18 
+of Professional Appraisal Practice" has the same meaning as in section 1400 2, subsection 19 
+15. 20 
+§14043.  Registration required  21 
+1.  Registration.  A person shall obtain registration from the board before:  22 
+A.  Directly or indirectly engaging or to attempting to engage in business as an 23 
+appraisal management company;  24 
+B.  Directly or ind irectly performing or attempting to perform appraisal management 25 
+services; or  26 
+C.  Advertising or holding the person out as engaging in or conducting business as an 27 
+appraisal management company.  28 
+2.  Application.  An applicant for registration as an appraisa l management company 29 
+shall submit to the board an application on forms prescribed by the board and pay a fee 30 
+established by the board.  The board shall review and approve or deny an application for 31 
+initial registration or an application for renewal of a re gistration.  32 
+3.  Surety bond.  An applicant for registration as an appraisal management company 33 
+shall file with the board a surety bond as determined by the board, not to exceed $15,000.  34 
+4.  Consent to service of process.  An applicant for registration as a n appraisal 35 
+management company shall complete an irrevocable consent to service of process as 36 
+prescribed by the board.  37 
+ 
+ Page 5 - 128LR1207(01) -1 
+ 5.  Information required.  An appraisal management company registered or 1 
+applying to be registered shall provide to the board all informa tion that the board is 2 
+required to submit to the federal appraisal subcommittee pursuant to regulations or 3 
+guidance promulgated by the federal appraisal subcommittee.  4 
+6.  Federally regulated appraisal management companies.  Notwithstanding 5 
+subsection 1, a federally regulated appraisal management company is not required to 6 
+register with the board. A federally regulated appraisal management company shall:  7 
+A.  Notify the board of its intent to operate in the State; and  8 
+B.  Provide to the board information requ ired to be submitted by the board to the 9 
+federal appraisal subcommittee pursuant to regulations and policies of the federal 10 
+appraisal subcommittee regarding the determination of a national registry fee under 11 
+section 14045, subsection 2.  12 
+§14044.  Expiratio n of license  13 
+Unless renewed, a registration issued by the board pursuant to this chapter expires on 14 
+December 31st of every other year.  15 
+§14045.  Registration fees  16 
+1.  Fee established by rule.  The board shall establish by rule a reasonable fee to be 17 
+paid by  an appraisal management company that is registered or applying to be registered 18 
+under this chapter.  Fees paid by all appraisal management companies registered or 19 
+applying to be registered under this chapter must be sufficient for the administration of 20 
+this chapter.  21 
+2.  National registry fee.  The board shall collect from an appraisal management 22 
+company registered, applying to be registered or operating as a federally regulated 23 
+appraisal management company in this State, for each appraiser on an appraiser panel of 24 
+the appraisal management company, the national registry fee determined by the federal 25 
+appraisal subcommittee pursuant to Title XI, Section 1109(a)(4) of the federal Financial 26 
+Institutions Reform, Recovery, and Enforcement Act of 1989 as amended by  the Dodd - 27 
+Frank Wall Street Reform and Consumer Protection Act (2010).  28 
+§14046.  Owner requirements  29 
+1.  License or certification as appraiser.  An appraisal management company 30 
+registered or applying for or renewing a registration under this chapter may not  be owned 31 
+in whole or in part, directly or indirectly, by a person that has had a license or certificate 32 
+to act as an appraiser refused, denied, cancelled for a substantive cause, revoked or 33 
+surrendered in lieu of a pending revocation in any state unless t he person has 34 
+subsequently had a license or certificate to act as an appraiser granted or reinstated.  35 
+2.  Background.  A person that owns more than 10% of an appraisal management 36 
+company shall:  37 
+A.  Be of good moral character, as determined by the board; an d 38 
+ 
+ Page 6 - 128LR1207(01) -1 
+ B.  Submit to a background investigation, as required by the board.  1 
+§14047.  Controlling persons  2 
+1.  Designation of controlling person.  An appraisal management company applying 3 
+to the board for a registration or for renewal of a registration shall desig nate one 4 
+controlling person that will be the main contact for all communication between the board 5 
+and the appraisal management company.  6 
+2.  Requirements.  A controlling person must:  7 
+A.  Be actively licensed or certified in at least one state as an appraise r at all times 8 
+that the person is designated as a controlling person;  9 
+B.  Have never had a license or certificate to act as an appraiser refused, denied, 10 
+canceled, revoked or surrendered in lieu of a pending revocation in any state;  11 
+C.  Be of good moral ch aracter, as determined by the board; and  12 
+D.  Submit to a background investigation, as required by the board.  13 
+§14048.  Employee requirements  14 
+An appraisal management company that is registered or applies for registration or 15 
+renewal of registration may not:  16 
+1.  Ordering and reviewing of appraisal services.  Knowingly employ any person 17 
+in a position in which the person has the responsibility to order appraisal services or to 18 
+review the results of a completed appraisal service who has had a license or certificat e to 19 
+act as an appraiser in this State or any other state refused, denied, cancelled, revoked or 20 
+surrendered in lieu of a pending revocation; and  21 
+2.  Independent contractor.  Knowingly enter into any independent contractor 22 
+arrangement for the performance o f appraisal services with a person who has had a 23 
+license or certificate to act as an appraiser in this State or any other state refused, denied, 24 
+cancelled, revoked or surrendered in lieu of a pending revocation.  25 
+§14049.  Denial of registration  26 
+The board ma y deny or refuse to renew an application for a registration to operate as 27 
+an appraisal management company if the applicant fails to satisfy a requirement of this 28 
+chapter or the board determines that the applicant:  29 
+1.  Unfit.  Has demonstrated incompetence,  untrustworthiness or conduct or practices 30 
+that render the registrant unfit to perform appraisal management services; or  31 
+2.  Good faith.  Does not perform appraisal management services in good faith and is 32 
+a source of detriment, injury or loss to the publi c. 33 
+§14049 -A.  Appraiser panel  34 
+For the purpose of determining whether within a 12 -month period an appraisal 35 
+management company oversees an appraiser panel of more than 15 state -certified or 36 
+ 
+ Page 7 - 128LR1207(01) -1 
+ state-licensed appraisers in a state or 25 or more certified or lic ensed appraisers in 2 or 1 
+more states and therefor qualifies as an appraisal management company pursuant to this 2 
+chapter, the following provisions apply.  3 
+1.  Begin date.  An appraiser is considered part of the appraisal management 4 
+company's appraiser panel as of the earliest date on which the appraisal management 5 
+company:  6 
+A.  Accepts the appraiser for consideration for future appraisal assignments in 7 
+covered transactions or for secondary mortgage market participants in connection 8 
+with covered transactions; o r 9 
+B.  Engages the appraiser to perform one or more appraisals on behalf of a creditor 10 
+for a covered transaction or secondary mortgage market participant in connection 11 
+with covered transactions.  12 
+2.  End date.  An appraiser who is considered part of the appr aisal management 13 
+company's appraiser panel pursuant to subsection 1 is considered to remain on the panel 14 
+until the date on which the appraisal management company:  15 
+A.  Sends written notice to the appraiser removing the appraiser from the appraiser 16 
+panel;  17 
+B.  Receives written notice from the appraiser asking to be removed from the 18 
+appraiser panel; or  19 
+C.  Receives written notice of the death or incapacity of the appraiser.  20 
+3.  Subsequent engagement after removal.  If an appraiser is removed from an 21 
+appraisal m anagement company's appraiser panel pursuant to subsection 2, paragraph A 22 
+or B, and the appraisal management company subsequently accepts the appraiser for 23 
+consideration for future assignments or engages the appraiser at any time during the 12 24 
+months after  the removal of the appraiser, the removal must be considered not to have 25 
+occurred and the appraiser must be considered to have been part of the appraisal 26 
+management company's appraiser panel without interruption.  27 
+4.  Twelve -month period.  The period for p urposes of counting appraisers on an 28 
+appraisal management company's appraiser panel may be the calendar year or a 12 -month 29 
+period established by rule by the board.  30 
+§14049 -B.  Appraiser engagement  31 
+Prior to placing an appraisal assignment with an appraiser o n an appraiser panel, an 32 
+appraisal management company shall verify that the appraiser receiving the appraisal 33 
+assignment is licensed under chapter 124.  34 
+§14049 -C.  Appraisal review  35 
+An employee of or independent contractor to an appraisal management company who 36 
+performs an appraisal review for real property located in this State must be licensed under 37 
+chapter 124.  38 
+ 
+ Page 8 - 128LR1207(01) -1 
+ §14049 -D.  Appraisal management company operational and record -keeping 1 
+requirements  2 
+1.  Operational requirements.  An appraisal management company shall:  3 
+A.  Engage only certified or licensed appraisers for federally related transactions in 4 
+conformity with federally related transaction regulations;  5 
+B.  Establish and comply with processes and controls reasonably designed to ensure 6 
+that the appraisal m anagement company in engaging an appraiser selects an appraiser 7 
+who is independent of the transaction and who has the requisite education, expertise 8 
+and experience necessary to competently complete the appraisal assignment for the 9 
+particular market and pro perty type;  10 
+C.  Direct an appraiser to perform an assignment in accordance with the Uniform 11 
+Standards of Professional Appraisal Practice; and  12 
+D.  Establish and comply with processes and controls reasonably designed to ensure 13 
+that the appraisal management c ompany conducts appraisal management services in 14 
+accordance with the requirements of the Truth in Lending Act, 15 United States Code 15 
+Section 1639e(a) -(i) and regulations adopted under that section.  16 
+2.  Record keeping.  An appraisal management company regis tered or applying to be 17 
+registered or to renew an existing registration in this State shall:  18 
+A.  Certify to the board on a form prescribed by the board that the appraisal 19 
+management company maintains a detailed record of each service request that the 20 
+appra isal management company receives for appraisals of real property located in this 21 
+State; and  22 
+B.  Retain for at least 5 years, or at least 2 years after final disposition of any related 23 
+judicial proceeding, all business records relating to each request for a n appraisal 24 
+service that the appraisal management company has received and the appraiser who 25 
+performs the appraisal service for the appraisal management company.  26 
+An appraisal management company registered under this chapter shall make all records 27 
+required to be maintained by the appraisal management company available for inspection 28 
+by the board upon reasonable notice to the appraisal management company.  29 
+§14049 -E.  Compensation of appraisers  30 
+1.  Compensation.  An appraisal management company shall compensate  appraisers 31 
+at a rate that is reasonable and customary for appraisal services being performed in the 32 
+market area of the property being appraised without the services of an appraisal 33 
+management company in accordance with federal law.  Except in cases of bre ach of 34 
+contract or substandard performance of an appraisal service, an appraisal management 35 
+company shall make payment to an appraiser for the completion of an appraisal service 36 
+within 45 days of the date on which the appraiser transmits or otherwise provi des the 37 
+results of the completed appraisal service to the appraisal management company.  38 
+2.  Fees prohibited.  An appraisal management company may not:  39 
+ 
+ Page 9 - 128LR1207(01) -1 
+ A.  Require an appraiser that is on an appraiser panel of the appraisal management 1 
+company or seeking to  be added to an appraiser panel of the appraisal management 2 
+company to pay the national registry fee assessed by the federal appraisal 3 
+subcommittee under section 14045, subsection 2;  4 
+B.  As a prerequisite to an appraiser being added to an appraiser panel o r as a 5 
+prerequisite to an appraiser receiving an order for an appraisal from an appraisal 6 
+management company, require an appraiser to pay any fee directly or indirectly to the 7 
+appraisal management company or to reimburse the appraisal management company 8 
+for any costs, fees or other expenses incurred solely by the appraisal management 9 
+company; or  10 
+C.  Deduct any amount from the reasonable and customary fee paid to an appraiser 11 
+for any costs, fees or other expenses incurred solely by the appraisal management 12 
+company.  13 
+§14049 -F.  Statement of fees  14 
+When reporting fees to a client, an appraisal management company shall separately 15 
+indicate the fees paid to an appraiser for the completion of an appraisal service and the 16 
+fees charged by the appraisal management compan y to the client for appraisal 17 
+management services.  18 
+§14049 -G.  Prohibited practices  19 
+1.  Prohibitions.  An appraisal management company registered under this chapter or 20 
+an employee, director, officer or agent of an appraisal management company registered 21 
+under this chapter may not:  22 
+A.  Cause or attempt to cause the results of an appraisal service to be based on any 23 
+factor other than the independent judgment of the appraiser;  24 
+B.  Seek to influence an appraiser or to otherwise encourage a targeted value in orde r 25 
+to facilitate the making or pricing of a consumer credit transaction;  26 
+C.  Modify or otherwise change the results of a completed appraisal service that have 27 
+been submitted by an appraiser to the appraisal management company by:  28 
+(1)  Altering or removing t he signature or seal of the appraiser; or  29 
+(2)  Adding information to, removing information from or changing information 30 
+contained in the results of the completed appraisal service, including any 31 
+disclosure authorized by this chapter submitted by an apprais er in or with the 32 
+appraisal report;  33 
+D.  Condition a request for the performance of an appraisal service or the payment of 34 
+an appraisal fee, salary or bonus on the opinion, conclusion or valuation to be reached 35 
+or on a preliminary estimate or opinion reques ted from an appraiser;  36 
+E.  Request that an appraiser provide an estimated, predetermined or desired 37 
+valuation in an appraisal report or provide estimated values or comparable sales at 38 
+any time before the completion of an appraisal by an appraiser;  39 
+ 
+ Page 10 - 128LR1207(01) -1 
+ F.  Prov ide to an appraiser an anticipated, estimated, encouraged or desired value for 1 
+a subject property or a proposed or target amount to be loaned to a borrower, except 2 
+that a copy of the sales contract for a purchase transaction may be provided;  3 
+G.  Make any p art of a fee paid to the appraiser or a fee paid by the appraisal 4 
+management company contingent on a favorable outcome, including a loan closing or 5 
+a specific valuation being achieved by the appraiser in the appraisal report;  6 
+H.  Withhold or threaten to wi thhold timely payment for the completion of an 7 
+appraisal assignment when the appraisal services that are the subject of the appraisal 8 
+assignment are provided in accordance with a contract or other agreement between 9 
+the parties;  10 
+I.  Seek to influence an app raiser by withholding or threatening to withhold future 11 
+business from an appraiser;  12 
+J.  Seek to influence an appraiser by demoting or terminating or threatening to 13 
+demote or terminate an appraiser;  14 
+K.  Seek to influence an appraiser by expressly or implied ly promising future 15 
+business, promotions or increased compensation for an appraiser;  16 
+L.  Provide to an appraiser, or any person related to an appraiser, stock or other 17 
+financial or nonfinancial benefits;  18 
+M.  Allow the removal of an appraiser from an apprai ser panel without prior written 19 
+notice to the appraiser;  20 
+N.  Obtain, use or pay for a second or subsequent appraisal or order an automated 21 
+valuation model in connection with a mortgage financing transaction unless:  22 
+(1)  There is a reasonable basis to belie ve that the initial appraisal was flawed or 23 
+tainted and that basis is clearly and appropriately noted in the loan file;  24 
+(2)  The subsequent appraisal or automated valuation model is done under a bona 25 
+fide prefunding or postfunding appraisal review or quali ty control process; or  26 
+(3)  The subsequent appraisal or automated valuation model is otherwise required 27 
+or permitted by federal or state law;  28 
+O.  Prohibit legal communication between an appraiser and a lender, real estate 29 
+license holder or any other person  from whom the appraiser believes information 30 
+would be relevant;  31 
+P.  Refuse to accept the results of a completed appraisal service by more than one 32 
+appraiser if an appraiser provides substantial assistance to another appraiser in the 33 
+preparation of the rep ort, unless the appraisal assignment names an individual 34 
+appraiser or the statement of work requires an unassisted report; or  35 
+Q.  Require an appraiser to:  36 
+(1)  Complete an appraisal service if the appraiser determines the appraiser does 37 
+not have the necess ary expertise for the specific geographic area and the 38 
+appraiser has notified the company of that determination;  39 
+ 
+ Page 11 - 128LR1207(01) -1 
+ (2)  Prepare an appraisal report under a schedule that the appraiser believes does 1 
+not afford the appraiser the ability to meet all the relevan t legal and professional 2 
+obligations if the appraiser has notified the company of that belief;  3 
+(3)  Provide the appraisal management company with the digital signature or seal 4 
+of the appraiser;  5 
+(4)  Modify any aspect of an appraisal report without the agre ement of the 6 
+appraiser that the modification is appropriate;  7 
+(5)  Engage in any act or practice that does not comply with the Uniform 8 
+Standards of Professional Appraisal Practice;  9 
+(6)  Engage in any act or practice that does not comply with any assignment 10 
+conditions and certifications required by a client;  11 
+(7)  Engage in any act or practice that impairs or attempts to impair the 12 
+independence, objectivity or impartiality of an appraiser;  13 
+(8)  Enter into an agreement to not serve on the appraiser panel of ano ther 14 
+appraisal management company;  15 
+(9)  Indemnify or hold harmless the appraisal management company against 16 
+liability except liability for errors and omissions by the appraiser; or  17 
+(10)  Pay a fee imposed on the appraisal management company by the federal 18 
+appraisal subcommittee.  19 
+2.  Construction.  Nothing in subsection 1 may be construed to prohibit:  20 
+A.  An appraiser from reimbursing an appraisal management company for the actual 21 
+cost of discretionary services provided to the appraiser;  22 
+B.  An appraiser fro m voluntarily providing the appraiser's digital signature or seal to 23 
+an appraisal management company;  24 
+C.  An appraisal management company from asking an appraiser, after an appraisal 25 
+report is delivered, to:  26 
+(1)  Consider additional appropriate property in formation, including the 27 
+consideration of additional comparable properties to make or support an 28 
+appraisal;  29 
+(2)  Provide further detail, substantiation or explanation of the appraiser's 30 
+conclusion regarding values; or  31 
+(3)  Correct errors in the appraisal r eport;  32 
+D.  An appraisal management company from requiring an appraiser to provide 33 
+advance notice of and an opportunity for the appraisal management company to 34 
+participate in any legal communications between the appraiser and a lender; or  35 
+E.  An appraisal m anagement company from providing to an appraiser a copy of an 36 
+executed contract for a purchase transaction.  37 
+ 
+ Page 12 - 128LR1207(01) -1 
+ §14049 -H.  Mandatory reporting  1 
+An appraisal management company that has a reasonable basis to believe an 2 
+appraiser is failing to comply with the Uni form Standards of Professional Appraisal 3 
+Practice in a manner that materially affects the conclusion of value contained in an 4 
+appraisal report, is violating applicable laws or is otherwise engaging in unethical or 5 
+unprofessional conduct shall refer the mat ter to the board.  6 
+§14049 -I.  Registration number  7 
+The board shall issue a unique registration number to each appraisal management 8 
+company registered in this State.  The board shall publish annually a list of registered 9 
+appraisal management companies that ha ve been issued a registration number pursuant to 10 
+this section.  11 
+§14049 -J.  Advertising  12 
+An appraisal management company registered in this State shall disclose the 13 
+registration number provided to it by the board under section 14049 -I on all print and 14 
+electro nic advertising, including any advertising or communication via the Internet.  15 
+§14049 -K.  Appraiser panel management  16 
+Except within the first 30 days after an appraiser is added to an appraiser panel, an 17 
+appraisal management company may not remove an apprais er from its appraiser panel or 18 
+otherwise refuse to assign requests for real estate appraisal services to an appraiser 19 
+without notifying the appraiser in writing and identifying the reasons why the appraiser is 20 
+being removed from the appraiser panel and pro viding an opportunity for the appraiser to 21 
+respond to the notification.  22 
+§14049 -L.  Background checks  23 
+An appraisal management company registered or applying for registration in this 24 
+State that requires an appraiser to submit to a criminal background check a s a condition 25 
+of employment or contractual relationship shall accept a criminal background check that 26 
+has been performed within the preceding 12 months and that substantially conforms to 27 
+the requirements for a criminal history records check to obtain a lic ense under chapter 28 
+124. 29 
+§14049 -M.  Disciplinary proceedings  30 
+1.  Acts subject to disciplinary proceedings.  The board may initiate disciplinary 31 
+proceedings against an appraisal management company registered in this State if the 32 
+board determines an appraisal  management company is attempting to perform, has 33 
+performed or has attempted to perform any of the following acts:  34 
+A.  Committing an act in violation of this chapter;  35 
+B.  Violating a rule adopted by the board; or  36 
+C.  Procuring a registration by fraud, misr epresentation or deceit.  37 
+ 
+ Page 13 - 128LR1207(01) -1 
+ 2.  Maine Administrative Procedure Act.  The board, after notice and opportunity 1 
+for a hearing in accordance with the Maine Administrative Procedure Act, may issue an 2 
+order imposing one or more of the following penalties if the boa rd finds by a 3 
+preponderance of the evidence that an appraisal management company has violated a 4 
+provision of this chapter or rules adopted by the board pursuant to this chapter:  5 
+A.  Revocation of the registration;  6 
+B.  Suspension of the registration for a p eriod not to exceed 2 years;  7 
+C.  Stipulations, limitations, restrictions or conditions relating to conduct of the 8 
+appraisal management company;  9 
+D.  Censure, including specific redress, if appropriate;  10 
+E.  Reprimand; and  11 
+F.  Administrative fines not to exce ed $5,000 per violation.  12 
+§14049 -N.  Board powers  13 
+The board may:  14 
+1.  Rule making.  Adopt rules necessary to implement, administer and enforce the 15 
+provisions of this chapter.  Rules adopted pursuant to this subsection are routine technical 16 
+rules as defined i n Title 5, chapter 375, subchapter 2 -A; 17 
+2.  Applications.  Review and approve or deny an appraisal management company's 18 
+application for initial registration;  19 
+3.  Renewals.  Review and renew or refuse to renew an appraisal management 20 
+company's registration;  21 
+4.  Books and records.  Examine the books and records of an appraisal management 22 
+company operating in the State and require the appraisal management company to submit 23 
+reports, information and documents to the board;  24 
+5.  Valid certifications.  Verify that an appraiser on an appraiser panel holds a valid 25 
+state certification or license, as applicable;  26 
+6.  Investigations.  Conduct investigations of appraisal management companies to 27 
+assess potential violations of this chapter, rules adopted pursuant to this cha pter or orders 28 
+issued pursuant to this chapter;  29 
+7.  Discipline.  Discipline an appraisal management company or suspend, terminate 30 
+or refuse to renew the registration of an appraisal management company that violates this 31 
+chapter, a rule adopted pursuant to this chapter or an order issued pursuant to this chapter; 32 
+and 33 
+8.  Report to federal appraisal subcommittee.   Report to the federal appraisal 34 
+subcommittee an appraisal management company's violation of this chapter, a rule 35 
+adopted pursuant to this chapter or an order issued pursuant to this chapter, as well as 36 
+ 
+ Page 14 - 128LR1207(01) -1 
+ disciplinary and enforcement actions and other relevant information about an appraisal 1 
+management company's operations.  2 
+SUMMARY  3 
+This bill enacts the Appraisal Management Company Registration Act.  Und er the 4 
+bill, appraisal management companies must obtain registration by the Board of Real 5 
+Estate Appraisers.  Appraisal management companies are entities that provide appraisal 6 
+management services to creditors or secondary mortgage market participants with  7 
+appraisers who are employees of the entity or part of an appraiser panel made up of 8 
+independent contractors, that provide services in connection with valuing a consumer's 9 
+principal dwelling as security for a consumer credit transaction or incorporating su ch 10 
+transactions into securitizations and that oversee appraiser panels in one or more states.  11 
+Appraisal management services provided by appraisal management companies include 12 
+recruiting, selecting and retaining appraisers; contracting with appraisers to p erform 13 
+appraisal assignments; managing the process of having an appraisal performed; and 14 
+reviewing and verifying the work of appraisers.  15 
+ 

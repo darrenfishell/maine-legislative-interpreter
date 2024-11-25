@@ -1,0 +1,396 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1452
+H.P. 1002 House of  Representatives,  April 18, 2017
+An Act  To Ensure Student  Privacy in the Digital Age
+Reference to the Committee on Education  and Cultural Affairs  suggested  and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative SAMPSON of Alfred.
+Cosponsored by Senator WOODSOME of York and
+Representatives: FARNSWORTH of Portland, FULLER of Lewiston, GINZLER of Bridgton, McCREA of  Fort Fairfield, STEWART  of Presque Isle, TURNER of Burlington, Senators: 
+BRAKEY of Androscoggin, MASON of Androscoggin.
+
+ 
+ Page 1 - 128LR1880(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  20-A MRSA §952, sub -§1-A is enacted to read:  2 
+1-A.  Acceptable use agreement.  "Acceptable use agreement" means an agreement 3 
+bound by certain restrictions and controls agreed to and sign ed by a 3rd party or an 4 
+employee or vendor of an organization.  5 
+Sec. 2.  20-A MRSA §952, sub -§3, as enacted by PL 2015, c. 256, §1, is amended 6 
+to read:  7 
+3.  Kindergarten to grade 12 school purposes.   "Kindergarten to grade 12 school 8 
+purposes" means purposes that take place at the direction of a school administrative unit, 9 
+a school that provides instruction to any grades from kindergarten to grade 12 or a teacher 10 
+at such a school or purposes that aid in the administration of school activities, including, 11 
+but n ot limited to, instruction in the classroom or at home, administrative activities, 12 
+preparation for postsecondary education or employment opportunities and collaboration 13 
+between students, school personnel or parents, or that are for the use and benefit of t he 14 
+school.  "Kindergarten to grade 12 school purposes" does not include research purposes.  15 
+Sec. 3.  20-A MRSA §952, sub -§4, as enacted by PL 2015, c. 256, §1, is amended 16 
+to read:  17 
+4.  Operator.   "Operator" means any entity other than the department, school 18 
+administrative unit or school to the extent that the entity:  19 
+A.  Operates an Internet website, online service, online application or mobile 20 
+application with actual knowledge that the website, service or application is used for 21 
+kindergarten to grade 12 scho ol purposes and was designed and marketed for 22 
+kindergarten to grade 12 school purposes to the extent that the operator is operating 23 
+in that capacity and collects, maintains or uses student personally identifiable 24 
+information in a digital or electronic form at; and or 25 
+B.  Collects, maintains or uses student personally identifiable information in a digital 26 
+or electronic format.  27 
+C.  Provides services or applications to a researcher for research purposes that 28 
+transmit, store or process student personally identif iable information.  29 
+Sec. 4.  20-A MRSA §952, sub -§§4-A to 4 -E are enacted to read:  30 
+4-A.  Protected student data.  "Protected student data" means student data that is 31 
+collected, stored, transmitted or processed for kindergarten to grade 12 school purposes.  32 
+4-B.  Research.  "Research" means a legitimate, clearly defined research project 33 
+using student data that is intended to improve the quality of instruction for students.  34 
+4-C.  Research agreement.  "Research agreement" means a legally binding 35 
+obligation, whic h requires protections of student privacy under this chapter, executed by a 36 
+ 
+ Page 2 - 128LR1880(01) -1 
+ researcher and the entity granting access to student personally identifiable information for 1 
+the purposes of research.  2 
+4-D.  Researcher.  "Researcher" means an individual, organiza tion or entity, 3 
+including an institute of higher learning or government agency that conducts research.  4 
+4-E.  Safeguard.  "Safeguard" means an administrative, technical or physical control 5 
+to protect the security, integrity and confidentiality of student da ta. 6 
+Sec. 5.  20-A MRSA §953, sub -§2, ¶A, as enacted by PL 2015, c. 256, §1, is 7 
+amended to read:  8 
+A.  Implement and maintain reasonable security procedures and practices appropriate 9 
+to the nature of the student data to protect that data from unauthorized acc ess, 10 
+destruction, use, modification and disclosure  safeguards equal to or greater than the 11 
+safeguards required under this chapter ; and  12 
+Sec. 6.  20-A MRSA §953, sub -§3, ¶A, as enacted by PL 2015, c. 256, §1, is 13 
+amended to read:  14 
+A.  Notwithstanding subsectio n 1, paragraph D, and in accordance with subsection 1, 15 
+paragraphs A, B and C, an operator may disclose student data under the following 16 
+circumstances:  17 
+(1)  If another provision of federal or state law requires the operator to disclose 18 
+the student data and the operator complies with applicable requirements of 19 
+federal and state law in protecting and disclosing that information;  20 
+(2)  For legitimate research purposes : under section 954; or  21 
+(a)  As required by state or federal law and subject to the restrictions  under 22 
+applicable state and federal law; or  23 
+(b)  As allowed by state or federal law and under the direction of a school, 24 
+school administrative unit or the department; or  25 
+(3)  To a state agency, school administrative unit or school for kindergarten to 26 
+grade  12 purposes, as permitted by state or federal law.  27 
+Sec. 7.  20-A MRSA §953, sub -§4, as enacted by PL 2015, c. 256, §1, is repealed.  28 
+Sec. 8.  20-A MRSA §§954 to 959 are enacted to read:  29 
+§954.  Preservation of the security, confidentiality and integrity of student data  30 
+1.  Safeguards required.  The department, each school administrative unit and all 31 
+state agencies shall develop, implement and maintain a comprehensive set of safeguards 32 
+regarding protected student data that the department, school administrativ e units and 33 
+relevant state agencies collect, store, transmit and process pursuant to rules adopted by 34 
+the state board under this subsection. In consultation with the Department of 35 
+Administrative and Financial Services, Office of Information Technology and other 36 
+agencies of the State as appropriate, the state board shall adopt rules to establish 37 
+requirements for safeguards, including:  38 
+ 
+ Page 3 - 128LR1880(01) -1 
+ A.  Human resources practices, including background checks, disciplinary procedures 1 
+and application of access control princip les, including limiting user access to only 2 
+information necessary for a particular use or purpose;  3 
+B.  An acceptable use agreement;  4 
+C.  Practices to minimize unauthorized access to student information and protected 5 
+student data;  6 
+D.  Vendor management progr ams, including vendor management programs for 7 
+operators;  8 
+E.  Employee security training and awareness programs;  9 
+F.  Use of antivirus, monitoring, log review and management, configuration 10 
+management and vulnerability management practices;  11 
+G.  Appropriate em ployment of firewalls, intrusion detection and prevention systems 12 
+and similar network security tools;  13 
+H.  Development of incident management, breech response, audit and risk assessment 14 
+programs; and  15 
+I.  Information asset management and disposal processes, including retention periods 16 
+for student data.  17 
+2.  Disclosure of student personally identifiable information to 3rd parties.  18 
+Disclosure by the department, a school administrative unit or a state agency of student 19 
+personally identifiable information to any 3rd party, including the State Government or 20 
+Federal Government or an agent of the 3rd party, for kindergarten to grade 12 school 21 
+purposes, unless expressly exempted by law, requires the prior written consent of a parent 22 
+or guardian of the student or an el igible student. The organization granting access to the 23 
+information shall have a privacy policy requiring disclosure of the purpose and 24 
+identification of a recipient prior to the disclosure of student personally identifiable 25 
+information under this subsecti on. 26 
+3.  Disclosure without consent.  Student personally identifiable information may be 27 
+disclosed by the department, a school administrative unit or a state agency to a 3rd party 28 
+without consent:  29 
+A.  When disclosure is otherwise required under federal law as a condition of federal 30 
+education funding administered by the department;  31 
+B.  To develop, validate or administer statewide predictive tests;  32 
+C.  To administer student aid programs;  33 
+D.  When the information is governed and protected by privacy and securit y 34 
+protections established under the federal Health Information Portability and 35 
+Accountability Act of 1996, as amended, and accompanying federal regulations;  36 
+E.  To ensure regulatory compliance;  37 
+F.  To respond to or participate in a judicial process;  38 
+ 
+ Page 4 - 128LR1880(01) -1 
+ G.  To a law enforcement agency or other governmental entity pursuant to a lawful 1 
+subpoena or as authorized or required by statute or rules of the court; or  2 
+H.  In exigent circumstances to protect the safety of the student or others. The parent 3 
+or guardian of th e student or the eligible student must be informed as soon as 4 
+reasonably possible after a disclosure under this paragraph.  5 
+The state board shall adopt rules to implement the provisions of this subsection and to 6 
+define additional circumstances allowing the disclosure of student personally identifiable 7 
+information without express written consent. Rules adopted under this subsection must 8 
+include consideration of the burden of obtaining consent, the educational benefit of such 9 
+disclosure, the period of retentio n of the information by a 3rd -party recipient and the 10 
+privacy practices and the safeguards to be implemented by a 3rd -party recipient.  11 
+4.  Student privacy officers.  The department, a school administrative unit and a 12 
+state agency that collects, stores, tra nsmits and processes protected student data shall 13 
+designate an individual as the student privacy officer who is the responsible party for 14 
+implementing the requirements of this chapter for the officer's organization. The officer's 15 
+organization shall identif y the officer in writing, and the officer is responsible to respond 16 
+to a parent or guardian of a protected student or an eligible student or to community 17 
+concerns regarding the privacy of protected student data. A student privacy officer's 18 
+contact informat ion must be conspicuously posted on the organization's publicly 19 
+accessible website and must be included in privacy disclosures of the officer.  20 
+5.  Privacy policies and security practices.  The department, a school administrative 21 
+unit and a state agency sub ject to this chapter shall develop privacy policies and related 22 
+security practices that comprehensively implement the requirements of this chapter and 23 
+provide understandable and complete disclosures of the privacy policies and related 24 
+security practices to  students and the students' parents or guardians or an eligible student 25 
+affected by the policies and practices.  26 
+6.  Research.  Student personally identifiable information may not be used for 27 
+research purposes without the prior written consent by a parent or guardian of the student 28 
+or by the eligible student.  The department, a school administrative unit or a state agency 29 
+subject to this chapter shall provide to a parent or guardian of a student or an eligible 30 
+student an understandable, written description of the requested data and its use, a 31 
+maximum retention period after which secure destruction is assured and the consenting 32 
+parent's or guardian's or eligible student's right to revoke consent at any time.  When 33 
+consent is granted under this subsection, res earch conducted with student personally 34 
+identifiable information is subject to the following requirements:  35 
+A.  The researcher and any operator engaged in conjunction with the research shall 36 
+apply safeguards equal to or in excess of the requirements of this  chapter and provide 37 
+3rd-party attestation by a reasonably qualified assessor of the researcher's or 38 
+operator's compliance with this chapter;  39 
+B.  Student personally identifiable information may be used only by a researcher or 40 
+operator under the researcher' s direction subject to a research agreement and the 41 
+information may not be transferred to other 3rd parties not bound by the research 42 
+agreement and expressly authorized by the provider of the data;  43 
+ 
+ Page 5 - 128LR1880(01) -1 
+ C.  Research must be overseen by the department, a school administrative unit or a 1 
+state agency as allowed by state or federal law;  2 
+D.  The researcher and an operator under the researcher's direction shall provide for 3 
+complete and unrecoverable deletion of student personally identifiable information 4 
+upon request by the consenting parent or guardian of the student or by the eligible 5 
+student within 5 days of written notice or a period specified within a research 6 
+agreement that may not exceed 30 days after substantial completion of the research;  7 
+E.  The researcher sh all designate an individual as a data steward who shall submit to 8 
+the jurisdiction of state law and be personally and severally liable for compliance 9 
+with the safeguard requirements of and rules adopted under this chapter; and  10 
+F.  All research using studen t personally identifiable information must be reviewed 11 
+and approved by a nationally reputable institutional review board.  12 
+7.  Waivers.  A student who is not an eligible student may not waive any right or 13 
+obligation of any individual or entity subject to th e requirements of this chapter regarding 14 
+that student's personally identifiable information.  15 
+§955.  Restrictions on collection and retention of protected student data  16 
+1.  Minimization; privacy assessment.  The department, a school administrative unit 17 
+or a state agency is restricted in its collection of protected student data to the minimum 18 
+necessary to accomplish permissible kindergarten to grade 12 school purposes.  Student 19 
+personally identifiable information may be collected only after completion of a pri vacy 20 
+assessment by the department, the school administrative unit or the state agency to 21 
+validate the necessity of the information and consideration of other reasonable means to 22 
+achieve the intended kindergarten to grade 12 school purposes, except that a p rivacy 23 
+assessment is not required for a federal or state legal or reporting obligation.  A privacy 24 
+assessment under this subsection must be available to the public.  The state board may 25 
+adopt rules identifying routine administrative cases where privacy ass essments are not 26 
+required.  27 
+2.  Sensitive data requiring consent.  Except as provided in this chapter, the 28 
+department, a school administrative unit or a state agency may not collect, store, transmit 29 
+or process the following information from a student withou t the written consent of a 30 
+parent or guardian of a student or an eligible student unless otherwise required or 31 
+authorized by statute or rule:  32 
+A.  DNA, fingerprints or retina or iris pattern information or any information about 33 
+the psychological characteris tics of a student;  34 
+B.  A student's or student's family's religious affiliation, beliefs or practices;  35 
+C.  A student's or student's family's political affiliation, beliefs or practices;  36 
+D.  A student's or student's family member's sexual orientation or beli efs about sexual 37 
+orientation; or  38 
+E.  A student's or student's family's gun ownership or usage.  39 
+ 
+ Page 6 - 128LR1880(01) -1 
+ 3.  Monitoring of student electronic devices.  A school administrative unit may 1 
+monitor the use of students' electronic devices only to the extent necessary for efficient 2 
+operation of school infrastructure, for the physical safety of the school or to ensure that 3 
+the use is consistent with educational purposes during school hours.  The state board shall 4 
+adopt rules to implement the provisions of this subsection.  5 
+§956.  Right to inspect and correct student data  6 
+1.  Right to inspect.  The department, a school administrative unit or a school may 7 
+not deny or prevent a parent or guardian of a student or an eligible student who is or has 8 
+been in attendance at a school the  right to inspect and review the student personally 9 
+identifiable information comprising the education records of the student or eligible 10 
+student. If any material or document in the education records of a student includes student 11 
+personally identifiable inf ormation of more than one student, the parent or guardian of the 12 
+subject student or a subject eligible student has the right to inspect and review only the 13 
+part of the material or document that relates to the subject student or to be informed of the 14 
+specif ic information contained in that part of the material that relates to the subject 15 
+student. The department, the school administrative unit, the school or other affected 16 
+agency shall establish appropriate procedures for the granting of a request by a parent or 17 
+guardian of a subject student or a subject eligible student for access to the records of that 18 
+student within a reasonable period of time that may not exceed 45 days after the request 19 
+has been made.  20 
+2.  Right to make corrections.  The department, a schoo l administrative unit or a 21 
+school may not deny or prevent a parent or guardian of a student or an eligible student the 22 
+opportunity for a hearing to challenge the content of the student's personally identifiable 23 
+information to ensure that the student's pers onally identifiable information is not 24 
+inaccurate, misleading or otherwise in violation of the privacy rights of the student, to 25 
+provide an opportunity to correct or delete inaccurate, misleading or otherwise 26 
+inappropriate information or to insert into the  student's personally identifiable 27 
+information a written explanation of the parent or guardian of the student or the eligible 28 
+student regarding the content of the student's personally identifiable information.  29 
+§957.  State education privacy officer  30 
+1.  State education privacy officer; established.  The position of state education 31 
+privacy officer is established within the department.  The state board shall hire the state 32 
+education privacy officer, who serves at the direction of the state board.  33 
+2.  Duties.  Under the supervision of the state board, the state education privacy 34 
+officer is responsible for implementation and oversight of this chapter, including the 35 
+following duties:  36 
+A.  Representing the interests of students and parents and guardians of students in 37 
+preserving student privacy in the State;  38 
+B.  Advising the state board on policy and rules necessary to effectively protect the 39 
+privacy of protected student data consistent with this chapter;  40 
+ 
+ Page 7 - 128LR1880(01) -1 
+ C.  With the approval of the state board, issuing guidance reg arding privacy 1 
+principles and best practices to be followed by the department, school administrative 2 
+units and other agencies subject to this chapter, including the content of privacy 3 
+disclosures and practices such as disclosure, content and retention of d atabases of 4 
+protected student data;  5 
+D.  Assessing and monitoring the effectiveness of the implementation of safeguards 6 
+established pursuant to section 954; and  7 
+E.  Reporting at least biennially on student education privacy to the state board, the 8 
+Legislatu re and the Governor.  9 
+3.  Public complaints.  The state education privacy officer may investigate 10 
+complaints affecting the privacy of students and, when appropriate, make 11 
+recommendations to the state board concerning these complaints.  12 
+§958.  Construction; p enalties  13 
+1.  Construction.  The following provisions govern the application and construction 14 
+of this chapter.  15 
+A.  This chapter may not be construed to limit the authority of a law enforcement 16 
+agency to obtain any content or student data from an operator as  authorized by law or 17 
+pursuant to an order of a court of competent jurisdiction.  18 
+B.  This chapter does not apply to general audience Internet websites, general 19 
+audience online services, general audience online applications or general audience 20 
+mobile applic ations even if user names or passwords created for an operator's site, 21 
+service or application are used to access those general audience sites, services or 22 
+applications.  23 
+C.  This chapter may not be construed to restrict Internet service providers from 24 
+provi ding Internet connectivity to schools or students and their families.  25 
+D.  This chapter may not be construed to prohibit an operator from marketing 26 
+educational products directly to parents so long as the marketing does not result from 27 
+the use of protected s tudent data obtained without parental consent by the operator 28 
+through the provision of services covered under this chapter.  29 
+E.  This chapter may not be construed to impose a duty upon a provider of an 30 
+electronic means of purchasing or downloading software or applications to review or 31 
+enforce compliance with this chapter with respect to those applications or software.  32 
+F.  This chapter may not be construed to impose a duty upon a provider of an 33 
+interactive computer service, as defined in 47 United States Code , Section 230, to 34 
+review or enforce compliance with this chapter by 3rd -party content providers.  35 
+G.  This chapter may not be construed to impede the ability of a student or a student's 36 
+parent or guardian or an eligible student to download, transfer or othe rwise save or 37 
+maintain protected student data or documents belonging to the student.  38 
+H.  Nothing in this chapter prevents the State or a school administrative unit or an 39 
+employee of the State or a school administrative unit from recommending, directly or 40 
+ 
+ Page 8 - 128LR1880(01) -1 
+ indirectly, any educational materials, online content, services or products to a student 1 
+or the student's family if the State or a school administrative unit determines that such 2 
+a product or service will benefit the student and the State or the school admi nistrative 3 
+unit does not receive compensation for developing, enabling or communicating such 4 
+recommendations.  5 
+I.  Nothing in this chapter authorizes the dissemination of information in violation of 6 
+section 6001.  7 
+2.  Civil penalty; disqualification.  A viol ation of this chapter by a recipient of 8 
+protected student data, including any operator, contractor, consultant or other party that is 9 
+subject to the provisions of this chapter, is subject to a fine or civil penalty of up to 10 
+$5,000 and may be permanently di squalified by the department or a school administrative 11 
+unit or a school from access to education records. Each violation involving a different 12 
+individual student is considered a separate violation under this subsection.  13 
+3.  Enforcement by Attorney General .  The Attorney General has the authority to 14 
+enforce compliance with this chapter.  15 
+4.  Private right of action.  A parent or guardian of a student or an eligible student 16 
+has a private right of action against a 3rd -party recipient of student personally iden tifiable 17 
+information or protected student data that does not comply with the safeguards or other 18 
+requirements of this chapter. In addition to the civil penalty under subsection 2, a private 19 
+right of action under this subsection includes the right to treble  damages, consequential 20 
+and punitive damages and reasonable attorney's fees. This subsection does not create a 21 
+private right of action against a data steward in section 954, subsection 6, paragraph E or 22 
+the department, a school administrative unit or other  state agency except when a school 23 
+administrative unit or school within a school administrative unit fails to provide timely 24 
+access to protected student data or the opportunity for a parent, guardian or eligible 25 
+student to correct the data under section 95 6. 26 
+§959.  Rules  27 
+The state board may adopt rules to carry out the provisions of this chapter.  Rules 28 
+adopted pursuant to this section are major substantive rules as defined in Title 5, chapter 29 
+375, subchapter 2 -A. 30 
+Sec. 9.  Rulemaking.  By October 31, 2018, the State Board of Education 31 
+established by the Maine Revised Statutes, Title 5, section 12004 -C, subsection 1 shall 32 
+adopt rules necessary to implement this Act on its effective date.  Rules adopted pursuant 33 
+to this section are routine technical rules as d efined in Title 5, chapter 375, subchapter 34 
+2-A. 35 
+Sec. 10.  Effective date.  Those sections of this Act that amend the Maine Revised 36 
+Statutes, Title 20 -A, sections 952 and 953 and that enact Title 20 -A, sections 954 to 959 37 
+take effect July 1, 2019 and apply beginning with the 2018 -2019 school year.  38 
+ 
+ Page 9 - 128LR1880(01) -1 
+ SUMMARY  1 
+This bill:  2 
+1. Establishes data privacy practices for the Department of Education, school 3 
+administrative units, schools, other agencies and 3rd parties handling protected student 4 
+data;  5 
+2.  Subject to rule -making authority granted to the State Board of Education, requires 6 
+administrative, physical and technical safeguards to be implemented to protect the 7 
+privacy and integrity of protected student data;  8 
+3.  Requires written consent by a parent or guardian of a s tudent or by a student 18 9 
+years of age or older to share the student's personally identifiable information, with 10 
+protections when no consent is required;  11 
+4. Subjects research using student personally identifiable information to student 12 
+privacy protections;  13 
+5.  Provides requirements for the minimization of and prohibitions on, the collection 14 
+of certain information without consent;  15 
+6.  Establishes the right of a parent or guardian of a student or a student 18 years of 16 
+age or older to inspect the student's per sonally identifiable information and make 17 
+corrections for inaccuracies or misleading data;  18 
+7. Ensures the effectiveness of privacy protections of students by establishing the 19 
+position of a state education privacy officer within the Department of Education who is 20 
+responsible to the State Board of Education;  21 
+8. Establishes a private right of action including civil penalties and damages against 22 
+3rd parties for failure to adequately protect student personally identifiable information or 23 
+protected student data a gainst the department, school administrative units or schools, 24 
+except under specific circumstances; and  25 
+9.  Requires the provisions of this Act be implemented by routine technical rules prior 26 
+to October 31, 2018 and any rules adopted after the effective da te of this Act on July 1, 27 
+2019 be major substantive rules.  28 
+ 

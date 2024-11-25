@@ -1,0 +1,632 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1991
+H.P. 1274 House of Representatives, May 23, 2023
+An Act Regarding Gubernatorial Primary Elections
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SUPICA of Bangor.  (BY REQUEST)
+
+Page 1 - 131LR2243(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §1, sub-§27-C, as repealed and replaced by PL 2021, c. 273, 
+3 §1, is repealed and the following enacted in its place:
+427-C.  Elections determined by ranked-choice voting.  "Elections determined by 
+5 ranked-choice voting" means any of the following elections in which 3 or more candidates 
+6 have qualified to be listed on the ballot for a particular office or at least 2 such candidates 
+7 plus one or more declared write‑in candidates have qualified for that particular office:
+8 A.  Primary elections for the office of United States Senator, United States 
+9 Representative to Congress, State Senator or State Representative;
+10 B.  Open primary elections for the office of Governor;
+11 D.  General elections for presidential electors, United States Senator and United States 
+12 Representative to Congress; and
+13 E.  Primary elections for the office of President of the United States.
+14Sec. 2.  21-A MRSA §1, sub-§27-E is enacted to read:
+1527-E.  Election subject to an open primary.  "Election subject to an open primary" 
+16 means the election for the office of Governor.
+17Sec. 3.  21-A MRSA §1, sub-§27-F is enacted to read:
+1827-F.  Open primary election.  "Open primary election" means, in an election subject 
+19 to an open primary, the regular election for the election of 2 candidates for the office of 
+20 Governor, regardless of enrollment status, who will appear on the ballot for the general 
+21 election.
+22Sec. 4.  21-A MRSA §1, sub-§32, as amended by PL 1987, c. 423, §1, is further 
+23 amended to read:
+2432.  Primary election.  "Primary election" means the regular election for the election 
+25 of nominees of a party for the general election or, for an election subject to an open primary, 
+26 the open primary election.
+27Sec. 5.  21-A MRSA §144, sub-§2, as amended by PL 2005, c. 453, §27, is further 
+28 amended to read:
+292.  Party designation removed.  On receipt of the application, the registrar shall 
+30 remove the party designation of the applicant from the central voter registration system.  
+31 The registrar shall indicate in the central voter registration system that the applicant is 
+32 ineligible to vote at a caucus or primary election, other than an open primary election, for 
+33 15 days by designating the party enrollment field with the letter "X."  Fifteen days after 
+34 receiving the application, the registrar shall enroll the applicant in the party requested and 
+35 enter the new party designation in the party enrollment field.
+36 This subsection does not apply in the case of a voter who changes enrollment under 
+37 subsection 4.
+38Sec. 6.  21-A MRSA §144, sub-§3, as repealed and replaced by PL 2013, c. 457, 
+39 §2, is amended to read:
+Page 2 - 131LR2243(01)13.  Restrictions during change of enrollment.  Except as provided in subsection 4, a 
+2 voter may not vote at a caucus, convention or primary election, other than an open primary 
+3 election, for 15 days after filing an application to change enrollment.  A voter may sign a 
+4 primary nomination petition during the 15-day period after filing an application to change 
+5 enrollment, and the voter’s signature must be counted as valid, as long as the 15-day period 
+6 has elapsed by the time the petition is certified pursuant to section 335, subsection 7 and 
+7 the voter otherwise is qualified to sign a petition for that office.  Notwithstanding 
+8 subsection 4, a voter must file an application to change enrollment prior to January 1st to 
+9 be eligible to file a petition as a candidate in that election year.
+10Sec. 7.  21-A MRSA §321, sub-§1, as amended by PL 2005, c. 387, §4, is further 
+11 amended to read:
+121.  Time, place and representation.  The party's state committee shall determine the 
+13 time, place and basis of representation for the convention.  Delegates must be qualified to 
+14 vote in the party's primary election  enrolled in the party unless otherwise permitted by party 
+15 rules.
+16Sec. 8.  21-A MRSA §334, as amended by PL 2009, c. 253, §16, is further amended 
+17 to read:
+18§334.  Qualification of candidate for primary nomination
+19 A Except as provided in section 451 for an open primary election, a candidate for 
+20 nomination by primary election must file a primary petition and consent under sections 335 
+21 and 336.  The candidate must be enrolled, on or before March 15th, in the party named in 
+22 the petition and must be eligible to file a petition as a candidate for nomination by primary 
+23 election under section 144, subsection 3.  The registrar in the candidate's municipality of 
+24 residence must certify to that fact on a form designed by the Secretary of State.
+25Sec. 9.  21-A MRSA §336, sub-§1, as amended by PL 2011, c. 239, §1, is further 
+26 amended to read:
+271.  Consent.  The consent must contain a statement signed by the candidate that the 
+28 candidate will accept the nomination of the primary election except that the consent signed 
+29 by a candidate in an open primary election must contain a statement that the candidate 
+30 agrees to have the candidate's name placed on the general election ballot if the candidate is 
+31 declared the winner of the open primary election pursuant to section 723, subsection 1-A.  
+32 The Secretary of State shall provide a form on which the consent of the candidate is made 
+33 that must include a list of the statutory and constitutional requirements of the office sought 
+34 by the candidate.  The statement may be printed as a part of the primary petition.
+35Sec. 10.  21-A MRSA §338, as corrected by RR 2019, c. 2, Pt. B, §44, is amended 
+36 to read:
+37§338.  Write-in candidates
+38 A Except as provided in section 452 for an open primary election, a person whose name 
+39 will not appear on the printed primary ballot because that person did not file a petition and 
+40 consent under sections 335 and 336, but who fulfills the other qualifications under section 
+41 334, may be nominated at the primary election as a write-in candidate in accordance with 
+42 section 723, subsection 1.
+Page 3 - 131LR2243(01)1Sec. 11.  21-A MRSA §340, sub-§1, as enacted by PL 1987, c. 423, §3, is amended 
+2 to read:
+31.  Notice to Secretary of State.  No later than February 1st of the election year, each 
+4 political party eligible to participate in a primary election, other than an open primary 
+5 election, shall notify the Secretary of State of the enrollment qualifications, subject to the 
+6 restrictions in section 144, for voters eligible to vote in that party's primary.  If no notice is 
+7 received by that date, only voters enrolled in a political party may vote in that party's 
+8 primary.
+9Sec. 12.  21-A MRSA §351, first ¶, as enacted by PL 1985, c. 161, §6, is amended 
+10 to read:
+11 The Except as provided in subchapter 9, nomination of a candidate, other than by a 
+12 party, for any federal, state or county office must be made by petition, as provided in this 
+13 subchapter.
+14Sec. 13.  21-A MRSA §351, sub-§4 is enacted to read:
+154.  Elections subject to an open primary.  A person who satisfies the requirements of 
+16 section 353 may file a nomination petition pursuant to this subchapter as a candidate for 
+17 the open primary election in an election subject to an open primary.  A person may not file 
+18 a nomination petition pursuant to this subchapter as a candidate for the general election in 
+19 an election subject to an open primary.
+20Sec. 14.  21-A MRSA §354, sub-§1, as amended by PL 2019, c. 371, §11, is further 
+21 amended to read:
+221.  Content.  A nomination petition must contain the name of only one candidate, the 
+23 candidate's place of residence, the office sought and electoral division.  A nomination 
+24 petition may contain as many separate papers as necessary and may contain the candidate's 
+25 consent required by section 355.  It may also contain the candidate's political designation.  
+26 This designation may not exceed 3 words in length, may not incorporate the candidate's 
+27 name or the designation or an abbreviation of the designation of a party that is qualified to 
+28 nominate candidates by participate in a primary election and may not consist of or comprise 
+29 language that is obscene, contemptuous, profane or prejudicial, promotes abusive or 
+30 unlawful activity or violates any other provision of the laws of this State with respect to 
+31 names.  A candidate who intends to form a new party about that person's candidacy must 
+32 use the proposed party's designation.
+33 A.  When 2 United States Senators are to be nominated, the nomination petition must 
+34 contain the term of office sought by the candidate.
+35 B.  The names of presidential electors must be placed on the petition as a slate.  The 
+36 names of the candidates for President and Vice President must be placed on a petition 
+37 for the nomination of presidential electors.
+38Sec. 15.  21-A MRSA §354, sub-§7, ¶B, as amended by PL 2013, c. 131, §12, is 
+39 further amended to read:
+40 B.  Petitions Except for petitions for nomination in an open primary election, petitions 
+41 must be delivered to the registrar, or clerk at the request or upon the absence of the 
+42 registrar, for certification by 5 p.m. on May 25th in the election year in which the 
+43 petitions are to be used, except that petitions for a slate of candidates for the office of 
+Page 4 - 131LR2243(01)44 presidential elector must be delivered for certification by 5 p.m. on July 25th in the 
+45 election year in which the petitions are to be used.
+3Sec. 16.  21-A MRSA §354, sub-§8-A, as amended by PL 2013, c. 131, §13, is 
+4 further amended to read:
+58-A.  Filed with the Secretary of State.  A nomination petition must be filed in the 
+6 office of the Secretary of State by 5 p.m. on June 1st in the election year in which it is to 
+7 be used, except that a nomination petition for a candidate for an open primary election must 
+8 be filed in the office of the Secretary of State by 5 p.m. on March 15th of the election year 
+9 in which it is to be used and petitions for a slate of candidates for the office of presidential 
+10 elector must be filed in the office of the Secretary of State by 5 p.m. on August 1st in the 
+11 election year in which the petitions are to be used.
+12Sec. 17.  21-A MRSA §355, sub-§1, as amended by PL 2011, c. 534, §12, is further 
+13 amended to read:
+141.  Consent.  The consent must contain a statement signed by the candidate that the 
+15 candidate will accept the nomination of the general election except that the consent signed 
+16 by a candidate in an open primary election must contain a statement that the candidate 
+17 agrees to have the candidate's name placed on the general election ballot if the candidate is 
+18 declared the winner of the open primary election pursuant to section 723, subsection 1-A.  
+19 The Secretary of State shall provide a form on which the consent of the candidate is made 
+20 that must include a list of the statutory and constitutional requirements of the office sought 
+21 by the candidate.  The statement may be printed as a part of the nomination petition.
+22Sec. 18.  21-A MRSA §361, first ¶, as corrected by RR 2019, c. 2, Pt. B, §48, is 
+23 amended to read:
+24 A vacancy in any federal, state or county office, in the office of an election official or 
+25 in any political committee occurs when the incumbent dies, resigns, becomes disqualified 
+26 or changes the incumbent's residence to an electoral division other than that from which 
+27 the incumbent was elected or when the person elected fails to qualify.  A vacancy in the 
+28 office of Governor also occurs at the beginning of the term of office for a candidate who 
+29 was elected at a general election for that office but who died or became disqualified on or 
+30 before the date of that general election.
+31Sec. 19.  21-A MRSA §367, as amended by PL 2019, c. 636, §5, is further amended 
+32 to read:
+33§367.  Candidate withdrawal
+34 A Except as provided in section 374-A, subsection 4, a candidate who wishes to 
+35 withdraw from an elective race shall notify the Secretary of State in writing of the 
+36 candidate's intent to withdraw.  This notice must be signed by the candidate.
+37Sec. 20.  21-A MRSA §371, as repealed and replaced by PL 2019, c. 636, §6, is 
+38 amended to read:
+39§371.  Primary election candidates; vacancy
+403.  Vacancy and replacement of candidates in uncontested races  party primaries.  
+41 If For a primary election other than an open primary election, if a candidate for nomination 
+42 dies or becomes disqualified prior to the primary election or withdraws 70 days or more 1
+2
+Page 5 - 131LR2243(01)43 before the primary election, the Secretary of State shall declare the vacancy pursuant to 
+44 section 362‑A if no other candidate from the same political party will appear on the primary 
+45 election ballot for that office.  A political committee may fill the vacancy pursuant to 
+46 section 363.  The Secretary of State shall remove the former candidate's name from the 
+47 primary election ballot and shall produce new primary election ballots or amend or 
+48 supplement the primary election ballots already printed in accordance with section 376 or 
+49 604.
+84.  Removal of candidate's name from ballot in contested races  party primaries.  
+9 The For a primary election other than an open primary election, the Secretary of State shall 
+10 remove the name of a candidate for nomination from the primary election ballot but is not 
+11 required to declare a vacancy if, 70 days or more before the primary election, the candidate 
+12 dies, becomes disqualified or withdraws and another candidate from the same political 
+13 party will appear on the ballot for that office.
+145.  Death or disqualification of candidates less than 70 days before primary 
+15election in contested races  party primaries.  The For a primary election other than an 
+16 open primary election, the Secretary of State is not required to remove the name of a 
+17 candidate from the primary election ballot or declare a vacancy if a candidate dies or 
+18 becomes disqualified less than 70 days before the primary election and another candidate 
+19 from the same political party will appear on the ballot for that office.  Upon receipt of 
+20 information that the candidate has died or become disqualified, the Secretary of State shall 
+21 immediately prepare and distribute to the local election officials in the candidate's electoral 
+22 district a notice informing voters that the candidate has died or become disqualified and 
+23 that a vote for that candidate will not be counted.  The notice must be distributed with all 
+24 absentee ballots requested after the notice is received by the local election officials and, on 
+25 election day, must be posted outside the guardrail enclosure in accordance with section 
+26 651, subsection 2 and in each voting booth.  Notice that the candidate has died or become 
+27 disqualified must also be posted on the Secretary of State's publicly accessible website.
+286.  Withdrawal of candidates less than 70 days before primary election in 
+29contested and uncontested races  party primaries.  When For a primary election other 
+30 than an open primary election, when a candidate for nomination withdraws less than 70 
+31 days before the primary election, the candidate's name may not be removed from the 
+32 primary election ballot and a vacancy may not be declared.  Upon receipt of the notice of 
+33 withdrawal, the Secretary of State shall immediately prepare and distribute to the local 
+34 election officials in the candidate's electoral district a notice informing voters that the 
+35 candidate has withdrawn and that a vote for that candidate will not be counted.  The notice 
+36 must be distributed with all absentee ballots requested after the notice is received by the 
+37 local election officials and, on election day, must be posted outside the guardrail enclosure 
+38 in accordance with section 651, subsection 2 and in each voting booth.  Notice of the late 
+39 withdrawal must also be posted on the Secretary of State's publicly accessible website.
+407.  Removal of candidate's name from ballot in open primary elections.  The 
+41 Secretary of State shall remove the name of a candidate from the primary election ballot 
+42 but is not required to declare a vacancy if, 70 days or more before an open primary election, 
+43 the candidate dies, becomes disqualified or withdraws.
+448.  Withdrawal, death or disqualification of candidates less than 70 days before 
+45open primary election.  When a candidate for an open primary election dies, becomes 
+46 disqualified or withdraws less than 70 days before the open primary election, the 1
+2
+3
+4
+5
+6
+7
+Page 6 - 131LR2243(01)47 candidate's name may not be removed from the open primary election ballot and a vacancy 
+48 may not be declared.  Upon receipt of information that the candidate has died or become 
+49 disqualified or upon receipt of the notice of withdrawal, the Secretary of State shall 
+50 immediately prepare and distribute to the local election officials in the candidate's electoral 
+51 district a notice informing voters that the candidate has died, become disqualified or 
+52 withdrawn and that a vote for that candidate will not be counted.  The notice must be 
+53 distributed with all absentee ballots requested after the notice is received by the local 
+54 election officials and, on election day, must be posted outside the guardrail enclosure in 
+55 accordance with section 651, subsection 2 and in each voting booth.  Notice of the late 
+56 withdrawal must also be posted on the Secretary of State's publicly accessible website.
+11Sec. 21.  21-A MRSA §374-A, as amended by PL 2019, c. 636, §9, is further 
+12 amended to read:
+13§374-A.   General election candidates; vacancy
+141.  Vacancy and replacement of nominees in elections not subject to open primary.  
+15 The In an election other than an election subject to an open primary, the Secretary of State 
+16 shall declare the vacancy as provided in section 362‑A and a political committee may make 
+17 a replacement nomination for the general election only if a person nominated for an office 
+18 at a primary election or by a political committee:
+19 A.  Withdraws on or before 5 p.m. of the 2nd Monday in July preceding the general 
+20 election in accordance with section 367;
+21 B.  Withdraws because of a catastrophic illness, condition or injury that has 
+22 permanently and continuously incapacitated the candidate and would prevent 
+23 performance of the duties of the office sought, as long as the candidate or a member of 
+24 the candidate's immediate family files with the Secretary of State a certificate 
+25 accompanying the withdrawal request that describes the illness, condition or injury and 
+26 is signed by a licensed physician; or
+27 C.  Dies prior to the general election.
+282.  Deadline for replacement of nominee in elections not subject to open primary.  
+29 A In an election other than an election subject to an open primary, a political committee 
+30 may make a replacement nomination for the general election:
+31 A.  No later than 5 p.m. of the 4th Monday in July preceding the general election for a 
+32 candidate who has withdrawn in accordance with subsection 1, paragraph A; or
+33 B.  As soon as practicable for a candidate who withdraws or is withdrawn in accordance 
+34 with subsection 1, paragraph B or C.
+352-A.  Ballot procedure for replacement candidates in elections not subject to open 
+36primary.  If In an election other than an election subject to an open primary, if a political 
+37 party makes a replacement nomination for the general election by the deadline established 
+38 in subsection 2, the Secretary of State shall produce new general election ballots or amend 
+39 or supplement general election ballots already printed in accordance with section 376 or 
+40 604.
+413.  Deadline for removal of candidate's name from general election ballot in 
+42elections not subject to open primary.  The name of a candidate for an office on the 
+43 general election ballot who withdraws for any reason 70 days or more before the general 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Page 7 - 131LR2243(01)44 election must be removed from the ballot.  If a candidate for an office on the general 
+45 election ballot withdraws less than 70 days before the general election and meets the criteria 
+46 of subsection 1, paragraph B or C, the candidate's name must be removed from the general 
+47 election ballot in accordance with section 376 or the general election ballot must be 
+48 amended or supplemented in accordance with section 604.  If a candidate for an office on 
+49 the general election ballot withdraws less than 70 days before the general election and does 
+50 not meet the criteria of subsection 1, paragraph B or C, the candidate's name will not be 
+51 removed from the ballot, but upon receipt of the notice of withdrawal required by section 
+52 367, the Secretary of State shall immediately prepare and distribute to the local election 
+53 officials in the candidate's electoral district a notice informing voters that the candidate has 
+54 withdrawn and that a vote for that candidate will not be counted.  The notice must be 
+55 distributed with all absentee ballots requested after the notice is received by the local 
+56 election officials and, on election day, must be posted outside the guardrail enclosure in 
+57 accordance with section 651, subsection 2 and in each voting booth.  Notice of a candidate's 
+58 withdrawal less than 70 days before the general election must also be posted on the 
+59 Secretary of State's publicly accessible website.  This subsection does not apply to an 
+60 election subject to an open primary.
+184.  Withdrawal of open primary winner prohibited.  A candidate who is declared 
+19 the winner of an open primary election pursuant to section 723, subsection 1-A may not 
+20 withdraw from the general election.
+215.  Death or disqualification of nominees in elections subject to open primary.  If 
+22 a candidate who is declared the winner of an open primary election pursuant to section 723, 
+23 subsection 1-A dies or becomes disqualified at any time before the general election, the 
+24 candidate's name will not be removed from the ballot.  Upon receipt of information that the 
+25 candidate has died or become disqualified, the Secretary of State shall immediately prepare 
+26 and distribute to local election officials in the candidate's electoral district and on the 
+27 Secretary of State's publicly accessible website a notice informing voters that, although the 
+28 candidate has died or become disqualified, a vote for that candidate will be counted and, if 
+29 the candidate is declared the winner of the election, a vacancy will be declared at the 
+30 beginning of the term for which the candidate was elected.  The notice must be distributed 
+31 with all absentee ballots requested after the notice is received by the local election officials 
+32 and, on election day, must be posted outside the guardrail enclosure in accordance with 
+33 section 651, subsection 2 and in each voting booth.
+34Sec. 22.  21-A MRSA §376, sub-§1-A, as enacted by PL 2019, c. 636, §11, is 
+35 amended to read:
+361-A.  Removal of candidate's name from ballots.  The Except as provided in section 
+37 374-A, subsection 4, the Secretary of State shall remove a candidate's name from the ballot 
+38 if the candidate withdraws for any reason 70 days or more before any primary or general 
+39 election.
+40Sec. 23.  21-A MRSA c. 5, sub-c. 9 is enacted to read:
+41SUBCHAPTER 9
+42OPEN PRIMARY ELECTIONS1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Page 8 - 131LR2243(01)1§451.  Qualification of candidate for open primary election; same ballot
+2 Notwithstanding any provision of this Title to the contrary, the names of all qualified 
+3 candidates for an election subject to an open primary must appear on the same ballot for 
+4 the open primary election.  A candidate is qualified to appear on the open primary ballot if 
+5 the candidate:
+61.  Candidate enrolled in a party.  Is enrolled in a party qualified to participate in a 
+7 primary election under section 301, 302 or 303, enrolled in that party on or before March 
+8 15th of the election year and filed a primary petition and consent that meets the 
+9 requirements of sections 335 and 336, subject to challenge and appeal under section 337.  
+10 The party designation of a candidate who meets the requirements of this subsection must 
+11 be printed on the open primary election ballot; or
+122.  Unenrolled candidates.  Is not enrolled in a party qualified to participate in a 
+13 primary election; filed a nomination petition and consent that meets the requirements of 
+14 sections 351, 354 and 355, subject to challenge and appeal under section 356; and was 
+15 certified by the Secretary of State pursuant to section 357.  The party designation, if any, 
+16 of a candidate who meets the requirements of this subsection may not be printed on the 
+17 open primary election ballot.
+18§452.  Declared write-in candidates
+19 Notwithstanding any provision of this Title to the contrary, a person who does not 
+20 qualify to be listed on the open primary election ballot pursuant to section 451 but who 
+21 qualifies as a declared write-in candidate pursuant to section 722-A may be nominated as 
+22 a write-in candidate in an open primary election.
+23§453.  Voter at open primary election
+24 Notwithstanding any provision of this Title to the contrary, a voter qualified to vote in 
+25 the general election for the office of Governor may vote in the open primary election for 
+26 that office regardless of the voter's enrollment status.
+27Sec. 24.  21-A MRSA §601, sub-§2, ¶D, as amended by PL 2009, c. 253, §24, is 
+28 further amended to read:
+29 D.  At the end of the list of candidates for each office, there must be left as many blank 
+30 spaces as there are vacancies to be filled, except that no blank spaces may be placed at 
+31 the end of the list of nominees for the office on the general election ballot for an election 
+32 subject to an open primary. These The blank spaces  left on the ballot under this 
+33 paragraph may be used by a voter to write in the name of a person for whom the voter 
+34 desires to vote, as provided in section 691, subsection 2 for a primary election or section 
+35 692, subsection 2 for a general election.
+36Sec. 25.  21-A MRSA §601, sub-§4, as amended by PL 2001, c. 310, §29, is further 
+37 amended to read:
+384.  Distinctively colored  Distinct color.  When possible, election ballots must be 
+39 printed on white paper.  Each political party participating in a primary election other than 
+40 an open primary election must have a separate ballot.  The paper for each party's primary 
+41 ballot must be printed or distinguished with a different color marking as determined by the 
+42 Secretary of State.  For municipalities that include more than one single member district of 
+43 the State Senate or the House of Representatives, or parts of more than one single member 
+Page 9 - 131LR2243(01)44 district, the Secretary of State may prepare ballots with one or more distinctive color 
+45 markings for each single member district or part of a single member district within the 
+46 municipality.
+4Sec. 26.  21-A MRSA §651, sub-§2, ¶B, as amended by PL 2019, c. 636, §13, is 
+5 further amended by amending subparagraph (3-A) to read:
+6 (3-A)  A supplemental notice correcting an error or providing information on a 
+7 replacement candidate prepared under section 604 or ; a notice informing voters 
+8 that a vote for a candidate will not be counted because the candidate has died or 
+9 has withdrawn prepared under section 371, subsection 5 or 6 or section 374‑A, 
+10 subsection 3; or a notice informing voters that, although a candidate has died or 
+11 become disqualified, a vote for that candidate will be counted and, if that candidate 
+12 is declared the winner of the election, a vacancy will be declared at the beginning 
+13 of the term of the office for which the candidate was elected, prepared under 
+14 section 374-A, subsection 5, next to the sample ballots;
+15Sec. 27.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+16 amended by amending subparagraph (2) to read:
+17 (2)  Is not enrolled in the proper party, if voting in a primary election other than an 
+18 open primary election;
+19Sec. 28.  21-A MRSA §692, sub-§2, as amended by PL 2009, c. 253, §30, is further 
+20 amended to read:
+212.  Write-in vote.  If the voter wishes to vote for a write-in candidate, the voter must 
+22 write the name of the candidate in the blank space provided at the end of the list of nominees 
+23 for the office in question.  The voter must then mark the ballot as instructed in the directions 
+24 on the ballot.  A sticker may not be used to vote for a write-in candidate.  A voter may not 
+25 vote for a write-in candidate in a general election for an election subject to an open primary.
+26Sec. 29.  21-A MRSA §696, sub-§2, ¶E-1 is enacted to read:
+27 E-1.  If a voter marks the write-in indicator on a general election ballot for an election 
+28 subject to an open primary, the vote for that office may not be counted.
+29Sec. 30.  21-A MRSA §722, sub-§1-A, as amended by PL 2019, c. 371, §26, is 
+30 further amended to read:
+311-A.  Form of tabulation.  The tabulation must include the total votes for each question 
+32 choice or candidate whose name appeared on the ballot.  The tabulation also must include 
+33 the total votes for any declared write-in candidates pursuant to section 722-A as follows.
+34 A.  For a write-in candidate who receives 5% or more of the votes cast for that office, 
+35 the Secretary of State shall report the votes under the candidate's name.
+36 B.  For a write-in candidate who receives less than 5% of the votes cast for that office, 
+37 the Secretary of State shall report the votes under the designation "others."
+38Sec. 31.  21-A MRSA §722-A, as amended by PL 2015, c. 447, §26, is further 
+39 amended to read:
+40§722-A.  Determination of declared write-in candidate1
+2
+3
+Page 10 - 131LR2243(01)1 To be considered a declared write-in candidate, a person must file a declaration of 
+2 write-in candidacy with the Secretary of State, on a form approved by the Secretary of 
+3 State, on or before 5 p.m. on the 60th day prior to the election.  The candidate must meet 
+4 all the other qualifications for that office.  A person may not be a declared write-in 
+5 candidate for the general election in an election subject to an open primary.
+6Sec. 32.  21-A MRSA §723, sub-§1, as amended by PL 2019, c. 320, §8, is further 
+7 amended to read:
+81.  Primary election.  In a primary election other than an open primary election, the 
+9 person who receives a plurality of the votes cast for nomination to any office, as long as 
+10 there is at least one vote cast for that office, is nominated for that office, except for write-
+11 in candidates under paragraph A and elections determined by ranked‑choice voting under 
+12 section 723‑A.
+13 A.  A write-in candidate who complies with section 722‑A and who fulfills the other 
+14 qualifications under section 334 may be nominated at the primary election if that person 
+15 receives a number of valid write-in votes equal to at least twice the minimum number 
+16 of signatures required under section 335, subsection 5 on a primary petition for a 
+17 candidate for that office.
+18 B.  The Secretary of State shall immediately certify by mail the nomination of each 
+19 person nominated by the primary election.
+20Sec. 33.  21-A MRSA §723, sub-§1-A is enacted to read:
+211-A.  Open primary election.  In an open primary election for the office of Governor, 
+22 the 2 persons who receive the most votes cast as determined by section 723-A must be 
+23 declared the winners of the open primary election and are nominated to be placed on the 
+24 general election ballot for that office.  The Secretary of State shall immediately certify by 
+25 mail the nomination of each person to be placed on the general election ballot pursuant to 
+26 this subsection.
+27Sec. 34.  21-A MRSA §723, sub-§1-B is enacted to read:
+281-B.  General election following open primary.  In a general election for the office 
+29 of Governor, the nominee who receives a plurality of the votes cast for that office, as long 
+30 as there is at least one vote cast for that office, is elected to that office.  A write-in candidate 
+31 may not be elected in a general election for an election subject to an open primary.
+32Sec. 35.  21-A MRSA §723, sub-§2, as amended by PL 2017, c. 316, §7, is further 
+33 amended to read:
+342.  Other elections.  In any other election  not governed by subsection 1, 1-A or 1-B, 
+35 except for those determined by ranked-choice voting, the person who receives a plurality 
+36 of the votes cast for election to any office, as long as there is at least one vote cast for that 
+37 office, is elected to that office, except that a write-in candidate must also comply with 
+38 section 722‑A.
+39Sec. 36.  21-A MRSA §723-A, sub-§1, as amended by PL 2019, c. 320, §§9 to 11, 
+40 is further amended to read:
+411.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+42 following terms have the following meanings.
+Page 11 - 131LR2243(01)1 A.  "Batch elimination" means the simultaneous defeat of multiple candidates for 
+2 whom it is mathematically impossible to be elected.
+3 B.  "Continuing ballot" means a ballot that is not an exhausted ballot.
+4 C.  "Continuing candidate" means a candidate who has not been defeated.
+5 D.  "Exhausted ballot" means a ballot that does not rank any continuing candidate, 
+6 contains an overvote at the highest continuing ranking or contains 2 or more sequential 
+7 skipped rankings before its highest continuing ranking.
+8 E.  "Highest continuing ranking" means the highest ranking on a voter's ballot for a 
+9 continuing candidate.
+10 F.  "Last-place candidate" means the candidate with the fewest votes in a round of the 
+11 ranked-choice voting count.
+12 G.  "Mathematically impossible to be elected," with respect to a candidate, means 
+13 either:
+14 (1)  The In an election other than an open primary election, the candidate cannot 
+15 be elected because the candidate's vote total in a round of the ranked-choice voting 
+16 count plus all votes that could possibly be transferred to the candidate in future 
+17 rounds from candidates with fewer votes or an equal number of votes would not 
+18 be enough to surpass the candidate with the next-higher vote total in the round; or
+19 (1-A)  In an open primary election for Governor, the candidate cannot be elected 
+20 because the candidate's vote total in a round of the ranked-choice voting count plus 
+21 all votes that could possibly be transferred to the candidate in future rounds from 
+22 candidates with fewer votes or an equal number of votes would not be enough to 
+23 surpass the 2 candidates with higher vote totals in the round; or
+24 (2)  The candidate has a lower vote total than a candidate described in subparagraph 
+25 (1) or (1-A).
+26 H.  "Overvote" means a circumstance in which a voter has ranked more than one 
+27 candidate at the same ranking.
+28 H-1.  "Ranked‑choice voting count" means the ranked‑choice counting process 
+29 described in this section and in rules adopted by the Secretary of State.
+30 I.  "Ranking" means the number assigned on a ballot by a voter to a candidate to express 
+31 the voter's preference for that candidate.  Ranking number one is the highest ranking, 
+32 ranking number 2 is the next-highest ranking and so on.
+33 J.  "Round" means an instance of the sequence of vote counting steps established in 
+34 subsection 2 or 2-A and in rules adopted by the Secretary of State.
+35 K.  "Skipped ranking" means a circumstance in which a voter has left a ranking blank 
+36 and ranks a candidate at a subsequent ranking.
+37Sec. 37.  21-A MRSA §723-A, sub-§2, as amended by PL 2019, c. 320, §12, is 
+38 further amended to read:
+392.  Procedures in election that is not open primary election.  Except as provided in 
+40 subsections 3 and 4, the following procedures are used to determine the winner of an 
+41 election determined by ranked-choice voting that is not an open primary election for the 
+Page 12 - 131LR2243(01)42 office of Governor.  The ranked‑choice voting count must proceed in rounds.  In each 
+43 round, the number of votes for each continuing candidate must be counted.  Each 
+44 continuing ballot counts as one vote for its highest-ranked continuing candidate for that 
+45 round.  Exhausted ballots are not counted for any continuing candidate.  The round then 
+46 ends with one of the following 2 potential outcomes.
+6 A.  If there are 2 or fewer continuing candidates, the candidate with the most votes is 
+7 declared the winner of the election.
+8 B.  If there are more than 2 continuing candidates, the last-place candidate is defeated 
+9 and a new round begins.
+10Sec. 38.  21-A MRSA §723-A, sub-§2-A is enacted to read:
+112-A.  Procedures in open primary election.  Except as provided in subsections 3-A 
+12 and 4, the following procedures are used to determine the top 2 candidates in an open 
+13 primary election for the office of Governor determined by ranked-choice voting.  The 
+14 ranked-choice voting count must proceed in rounds.  In each round, the number of votes 
+15 for each continuing candidate must be counted.  Each continuing ballot counts as one vote 
+16 for its highest-ranked continuing candidate for that round.  Exhausted ballots are not 
+17 counted for any continuing candidate.  
+18 A.  For determining the candidates for the office of Governor, the round ends with one 
+19 of the following 2 potential outcomes.
+20 (1)  If there are 3 or fewer continuing candidates, the 2 candidates with the most 
+21 votes are declared the winners of the open primary election.
+22 (2)  If there are more than 3 continuing candidates, the last-place candidate is 
+23 defeated and a new round begins.
+24Sec. 39.  21-A MRSA §723-A, sub-§3, as amended by PL 2019, c. 320, §13, is 
+25 further amended to read:
+263.  Ties in election that is not open primary election.  A tie under this section between 
+27 last-place candidates in an election determined by ranked-choice voting that is not an open 
+28 primary election for the office of Governor in any round  other than the final round must be 
+29 decided by lot, and the candidate chosen by lot is defeated.  The result of the tie resolution 
+30 must be recorded and reused in the event of a recount.  A tie between candidates for the 
+31 most votes in the final round must be decided as provided in section 732.
+32Sec. 40.  21-A MRSA §723-A, sub-§3-A is enacted to read:
+333-A.  Ties in open primary election.  A tie between the 2nd-place and 3rd-place 
+34 candidates for the office of Governor in an open primary election in any round must be 
+35 decided by lot, and the candidate chosen by lot is defeated.  The result of the tie resolution 
+36 must be recorded and reused in the event of a recount.  A tie between the top 2 candidates 
+37 for the office of Governor in the final round of an open primary election need not be 
+38 resolved.
+39Sec. 41.  21-A MRSA §732, sub-§1, as corrected by RR 2019, c. 2, Pt. B, §58, is 
+40 amended to read:
+411.  Primary election.  In a primary election other than an open primary election for the 
+42 office of Governor, the Secretary of State shall notify each person involved in the tie to be 1
+2
+3
+4
+5
+Page 13 - 131LR2243(01)43 present at the Secretary of State's office at a certain time.  At that time, the Secretary of 
+44 State shall select the nominee publicly by lot.
+3Sec. 42.  21-A MRSA §759, sub-§4, as amended by PL 2007, c. 455, §43, is further 
+4 amended to read:
+54.  Warden to check absentee ballot for correct party or district.  At a primary 
+6 election other than an open primary election when the warden removes a ballot from its 
+7 envelope, the warden shall check its color to be sure it is the ballot of the party in which 
+8 the voter is enrolled.  If it is not, the warden shall immediately replace it in its envelope, 
+9 reseal the envelope and write "Rejected" on it, the reason why and the warden's initials. At 
+10 a primary or general election, in a municipality that has more than one voting district, when 
+11 the warden removes a ballot from its envelope, the warden shall check its color to be sure 
+12 it is the ballot of the district in which the voter is registered. If it is not, the warden shall 
+13 challenge the ballot according to section 673.
+14Sec. 43.  21-A MRSA §812, sub-§3, as enacted by PL 1985, c. 161, §6, is amended 
+15 to read:
+163.  Write-in vote.  It Except for a general election in an election subject to an open 
+17 primary, it must permit a voter to vote for a write-in candidate.
+18Sec. 44.  21-A MRSA §812, sub-§5, as enacted by PL 1985, c. 161, §6, is amended 
+19 to read:
+205.  Voting restricted at primary.  It must prevent a voter from voting for the 
+21 nomination of candidates of more than one party at a primary election other than an open 
+22 primary election.
+23Sec. 45.  21-A MRSA §825, sub-§1, as corrected by RR 2019, c. 2, Pt. B, §67, is 
+24 amended to read:
+251.  Primary election.  In a primary election other than an open primary election, the 
+26 warden or, in the warden's absence, a designated election clerk must activate each voting 
+27 machine so that a voter can vote only for the candidates of the political party in which the 
+28 voter is enrolled.
+29Sec. 46.  21-A MRSA §843, sub-§3, as enacted by PL 1985, c. 161, §6, is amended 
+30 to read:
+313.  Write-in vote.  It Except for a general election in an election subject to an open 
+32 primary, it must permit a voter to vote for a write-in candidate.
+33Sec. 47.  21-A MRSA §843, sub-§4, as enacted by PL 1985, c. 161, §6, is amended 
+34 to read:
+354.  Voting restricted at primary.  It must prevent a voter from voting for the 
+36 nomination of candidates of more than one party at a primary election other than an open 
+37 primary election.
+38SUMMARY
+39 This bill provides for open primary elections for the elections for Governor.  All of the 
+40 candidates for that office, including candidates enrolled in a party and unenrolled 1
+2
+39
+40
+Page 14 - 131LR2243(01)41 candidates, must appear on the same open primary ballot.  All qualified voters, regardless 
+42 of enrollment status, are eligible to vote in open primary elections.
+3 The votes in an open primary election must be tabulated using ranked-choice voting, 
+4 except that the 2 candidates who receive the most votes are declared the winners of the 
+5 open primary.  The names of the winners of an open primary must appear on the ballot for 
+6 the general election.  If one of the candidates who received the most votes at the open 
+7 primary dies or becomes disqualified before the general election, that candidate's name 
+8 must remain on the ballot and the voters must be notified that a vote for that candidate will 
+9 be counted and, if that candidate is declared the winner of the election, a vacancy will be 
+10 declared at the beginning of the term for which the candidate was elected.  Voters may not 
+11 vote for a write-in candidate in a general election that was preceded by an open primary 
+12 election.1
+2

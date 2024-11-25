@@ -1,0 +1,1052 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+~CJ 
+2 Date: l{-G-16 L.D. 1578 
+(Filing No. S-'-{10) 
+3 Reproduced and distributed under the direction of the Secretary of the Senate. 
+4 STATE OF MAINE 
+5 SENATE 
+6 127TH LEGISLATURE 
+7 SECOND REGULAR SESSION 
+8 SENATE AMENDMENT" A,, to COMMITTEE AMENDMENT "A" to S.P. 626, 
+9 L.D. 1578, Bill, "An Act To Update Maine's Solid Waste Management Laws" 
+10 Amend the amendment by striking out all of section 1 and inserting the following: 
+11 'Sec. 1. 38 MRSA §1611 is enacted to read: 
+12 §1611. Stewardship program for batteries 
+13 1. Definitions. As used in this section, unless the context otherwise indicates, the 
+14 following terms have the following meanings. 
+15 A. "Approved product" means a covered battery for which its producer, individually 
+16 or through a covered battery stewardship organization, has submitted a covered 
+17 battery stewardship plan approved by the commissioner and the plan has been 
+18 implemented to collect and recycle covered batteries in accordance with the plan. 
+19 B. "Brand" means a trademark, including both a registered and an unregistered 
+20 trademark, a logo, a name, a symbol, a word, an identifier or a traceable mark that 
+21 identifies a covered battery and identifies as the producer of the battery the owner or 
+22 licensee of the brand. 
+23 C. "Covered battery" means a new or unused primary battery or rechargeable battery. 
+24 "Covered battery" does not include: 
+25 (l) A product from which the primary battery or rechargeable battery is not 
+26 easily removed or is not intended or designed to be removed from the product by 
+27 a consumer; 
+28 (2) A medical device, as described in the Federal Food, Drug and Cosmetic Act, 
+29 21 United States Code, Section 32l(h) (2009); or 
+30 (3) A device related to the physical or ancillary operation or use of a motor 
+31 vehicle that is distributed through a new vehicle dealer franchised by the original 
+32 manufacturer of the motor vehicle. As used in this subparagraph, "motor 
+33 vehicle" has the same meaning as in Title 29-A, section 101, subsection 42 and 
+34 "new vehicle dealer" has the same meaning as in Title 29-A, section 851, 
+35 subsection 9. 
+Page 1 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+{(-., 
+~o 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 SENATE AMENDMENT"A "to COMMITTEE AMENDMENT"A" to S.P. 626, L.D. 1578 
+D. "Covered battery stewardship organization" or "organization" means an 
+organization appointed by more than one producer to design, submit a plan for, 
+implement and administer a covered battery stewardship program in accordance with 
+this section and that has accepted that appointment. 
+E. "Covered battery stewardship plan" or "plan" means a plan submitted to the 
+commissioner in accordance with subsection 3 by a producer or a covered battery 
+stewardship organization. 
+F. "Covered battery stewardship program" or "program" means a system 
+implemented for the collection, transportation, recycling and disposal of covered 
+batteries in accordance with a covered battery stewardship plan approved under 
+subsection 4. 
+G. "Discarded covered battery" means a covered battery that a user discarded, 
+abandoned or sent for recycling. 
+H. "Operator" means a producer or covered battery stewardship organization that 
+implements and administers a covered battery stewardship program. 
+I. "Participant" means a producer that establishes or participates in a covered battery 
+stewardship program individually or by appointing and having that appointment 
+accepted by a covered battery stewardship organization to operate the program on the 
+producer's behalf. 
+J. "Primary battery" means a nonrechargeable battery that weighs 2 kilograms or 
+less, including, but not limited to, nonrechargeable alkaline, carbon-zinc and lithium 
+metal batteries. 
+K. "Producer" means, with respect to a covered battery that is sold, offered for sale 
+or distributed for sale in the State, the following: 
+(1) The person subject to the jurisdiction of the State, or who has voluntarily 
+agreed to recognize the jurisdiction of the State for the purposes of this section, 
+that manufactures the covered battery and sells or offers for sale in the State that 
+battery under the person's own brand; 
+(2) If there is no person to which subparagraph (1) applies, the owner or licensee 
+of a brand under which the covered battery is sold or distributed in the State that 
+is subject to the jurisdiction of the State; or 
+(3) If there is no person to which subparagraph (1) or (2) applies, a person 
+subject to the jurisdiction of the State that imports the covered battery into the 
+United States for sale or distribution in the State. 
+L. "Rechargeable battery" means a battery that contains one or more voltaic or 
+galvanic cells, electrically connected to produce electric energy, that weighs less than 
+5 kilograms and that is designed to be recharged and to provide less than 40 volts 
+direct current. "Rechargeable battery" does not include: 
+(1) A battery that is not easily removed or is not intended or designed to be 
+removed from a product by a consumer; 
+(2) A battery that contains electrolyte as a free liquid; or 
+Page 2 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+~C?i 
+():,,0 
+SENA TE AMENDMENT" A "to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+1 (3) A battery or battery pack that employs lead-acid technology, unless the 
+2 battery or battery pack is sealed, contains no liquid electrolyte and is intended by 
+3 its manufacturer to power a handheld device or to provide uninterrupted backup 
+4 electrical power protection for stationary consumer or stationary office 
+5 equipment. 
+6 M. "Recycling" means any process through which a discarded covered battery or its 
+7 components or by-products is transformed from its original identity or form into new 
+8 usable or marketable material. "Recycling" does not include the incineration of a 
+9 discarded covered battery or its components or by-products for energy recovery. 
+10 N. "Retailer" means a person that sells or offers a covered battery for retail sale, as 
+11 defined in Title 36, section 1752, subsection 11, in the State, including through a 
+12 remote offering for sale, such as a sales outlet or sales catalog or via the Internet. 
+13 0. "Wholesaler" means a person that offers for sale or sells in the State a covered 
+14 battery in a sale that is not a retail sale, as defined in Title 36, section 1752, 
+15 subsection 11, with the intention that the battery be resold in a subsequent retail sale. 
+16 2. Product labeling. By January 1st of the 2nd calendar year after the effective date 
+17 of this section, a producer that sells, offers for sale or distributes for sale in the State a 
+18 covered battery as a replacement battery shall, to the extent feasible, ensure that the 
+19 covered battery is labeled in a manner identifying the chemistry employed in storing 
+20 energy in the battery to facilitate sorting of discarded covered batteries by recyclers. 
+21 3. Submission of plan. No later than 6 months after the effective date of this 
+22 section, except as specified in subsection 6 or 9, each producer of a covered battery, 
+23 individually or through a covered battery stewardship organization that has agreed to act 
+24 on the producer's behalf, shall submit a plan for the establishment of a covered battery 
+25 stewardship program to the commissioner for approval. The plan must include, at a 
+26 minimum and as applicable: 
+27 A. If the plan is submitted by a producer, identification and contact information for 
+28 the producer and a list of the owners of the brands of covered batteries to be included 
+29 in the program; 
+30 B. If the plan is submitted by an organization, identification and contact information 
+31 for the organization and for each producer participating in the organization, a list of 
+32 the owners of the brands of covered batteries to be included in the program and a 
+33 description of the organization and the tasks to be performed by the organization, 
+34 including information on how the organization is organized, including administration 
+35 and management of the organization; 
+36 C. A description of how the program will provide convenient, free, statewide 
+37 collection opportunities for discarded covered batteries and how the convenience and 
+38 adequacy of the collection system will be monitored and maintained; 
+39 D. The criteria to be used by the program in determining whether an entity may serve 
+40 as a collection location for discarded covered batteries under the program. The plan 
+41 must allow any retailer, wholesaler, municipality, solid waste management facility 
+42 and other entity that meets such criteria to voluntarily serve as a collection location; 
+Page 3 -127LR2574(04)-l 
+SENA TE AMENDMENT 
+!< c:, 
+~a 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 SENATE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+E. The names and locations of recyclers, processors and disposal facilities and other 
+entities that may be used by the program for the collection or recycling of discarded 
+covered batteries, including a description of the manner by which the program will 
+use covered battery collection locations that are established through other battery 
+collection programs: 
+F. Information on how discarded covered batteries collected through the program 
+will be safely and securely transported, tracked and handled from collection through 
+final disposition; 
+G. A description of the method to be used to ensure that, to the extent economically 
+and technically feasible, collected discarded covered batteries are recycled or 
+otherwise responsibly managed; 
+H. A description of how the amounts of discarded covered batteries collected, 
+recycled, processed, reused and disposed of will be measured; 
+I. A description of the education and outreach methods and activities that will be 
+used to provide notice of and encourage participation in the program by consumers, 
+businesses, local agencies, retailers, wholesalers and waste transportation services; 
+J. Any performance goals established by the producer or organization to measure the 
+success of the program: and 
+K. A description of how the program will be financed. If the plan is submitted by an 
+organization, the financing method through which the program will be funded must: 
+( 1) Allocate to producers of primary batteries costs that are directly attributable 
+to the recycling of primary batteries, such as reclamation costs: 
+(2) Allocate to producers of rechargeable batteries costs that are directly 
+attributable to the recycling of rechargeable batteries, such as reclamation costs: 
+and 
+(3) Allocate all other costs on the basis of the weights of types of batteries 
+collected or some other nondiscriminatory basis acceptable to participating 
+producers of primary batteries and rechargeable batteries. 
+4. Approval of plan. The commissioner shall review a plan submitted under 
+subsection 3 and make a determination of whether to approve the plan within 90 days of 
+receipt of the plan. In conducting a review of a submitted plan, the commissioner may 
+consult with producers, associations representing producers, covered battery stewardship 
+organizations, retailers and recyclers. 
+A. If the commissioner determines that a submitted plan fails to meet all applicable 
+requirements of subsection 3, the commissioner shall provide to the producer or 
+organization that submitted the plan a written notice of determination describing the 
+reasons for rejecting the plan. No later than 45 days after receiving a written notice of 
+determination from the commissioner rejecting a submitted plan, the producer or 
+organization may amend the plan and resubmit the plan to the commissioner for 
+reconsideration. The commissioner shall review an amended plan, make a 
+determination of whether to approve the amended plan and provide a written notice 
+of determination notifying the producer or organization of the commissioner's 
+Page 4 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+!.(, <,; 
+0 q-. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 SENA TE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+decision within 45 days of receipt of the amended plan. A producer or organization 
+whose amended plan is rejected by the commissioner may appeal the commissioner's 
+decision in accordance with sections 341-D and 346. 
+B. If the commissioner approves a submitted plan, the commissioner shall provide to 
+the producer or organization that submitted the plan a written notice of determination 
+of the plan's approval. No later than 30 days after receiving a written notice of 
+determination from the commissioner approving a submitted plan, the producer or 
+organization shall make the approved plan available on its publicly accessible 
+website, but is not required to make available any information contained in the 
+approved plan that has been designated as proprietary information in accordance with 
+subsection 13. 
+C. No later than 45 days after the commissioner's approval of a submitted plan, the 
+department shall make available on its publicly accessible website a list of 
+participants in and brands of covered batteries included under the approved plan or 
+provide instructions on how to obtain such information as provided by the producer 
+or organization that submitted the plan. 
+5. Implementation of plan. A producer or organization that submitted a plan 
+approved by the commissioner under subsection 4 shall implement the plan no later than 
+the first day of the next calendar quarter after the date the plan is approved by the 
+commissioner, except that if the period of time between the date the plan is approved and 
+the first day of the next calendar quarter is less than 60 days, the producer or organization 
+shall implement the plan within 60 days after the date the plan is approved. 
+6. Amendment of plan and termination of program. This subsection governs 
+amendment of a plan approved under subsection 4 and termination of a program 
+established under an approved plan. 
+A. An approved plan under subsection 4 may be amended at the discretion of the 
+producer or organization that submitted the plan without approval from the 
+commissioner if the proposed amendments are nonsubstantive and do not 
+significantly alter the likelihood that the plan will result in the successful collection 
+and recycling of discarded covered batteries. The producer or organization shall at 
+the beginning of each calendar quarter notify the department of any amendments 
+made to the approved plan in the previous calendar quarter that are nonsubstantive 
+and do not significantly alter the likelihood that the plan will result in the successful 
+collection and recycling of discarded covered batteries. 
+B. If proposed amendments to an approved plan are substantive and would 
+significantly alter the likelihood that the plan will result in the successful collection 
+and recycling of discarded covered batteries, including, but not limited to, 
+amendments eliminating a substantial number of retail collection locations, adding or 
+deleting batteries to be collected based on the chemistry employed in storing energy 
+in those batteries, addressing threats to the financial viability of the organization or 
+addressing disruption in transportation or service affecting the ability of the producer 
+or organization or any service providers to collect or process discarded covered 
+batteries, the producer or organization shall submit to the commissioner a revised 
+plan describing the proposed amendments. The commissioner shall review the 
+revised plan and make a determination of whether to approve the proposed 
+Page 5 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+!<. C:J 
+~o 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 SENA TE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+amendments, in whole or in part, within 90 days of receipt of the revised plan. If the 
+commissioner determines that the revised plan fails to meet all applicable 
+requirements of subsection 3, the commissioner shall provide to the producer or 
+organization a written notice of determination describing the reasons for rejecting the 
+revised plan. No later than 45 days after receiving a written notice of determination 
+from the commissioner rejecting a revised plan, the producer or organization may 
+amend and resubmit the revised plan to the commissioner for reconsideration. The 
+commissioner shall review an amended revised plan, make a determination of 
+whether to approve the amended revised plan and provide a written notice of 
+determination notifying the producer or organization of the commissioner's decision 
+within 45 days of receipt of the amended revised plan. A producer or organization 
+whose amended revised plan is rejected by the commissioner may appeal the 
+commissioner's decision in accordance with sections 341-D and 346. 
+C. A producer or organization that submitted a plan approved under subsection 4 
+may terminate the program implementing that plan no earlier than 90 days after 
+providing notice to the commissioner and to program participants of the program's 
+termination. Prior to the termination of a program, each producer included in the 
+program shall, individually or through a covered battery stewardship organization 
+that has agreed to act on the producer's behalf, submit a plan for the establishment of 
+a covered battery stewardship program that is approved by the commissioner or join 
+an existing organization. 
+D. A plan approved under subsection 4 remains in effect until a revised plan is 
+adopted in accordance with paragraph B or the program implementing that plan is 
+terminated in accordance with paragraph C by the producer or organization that 
+submitted the plan. 
+7. Collection locations. This subsection applies to collection locations. 
+A. A retailer, a wholesaler, a municipality, a solid waste management facility and 
+any other private or public entity may voluntarily serve as a collection location for 
+discarded covered batteries under an approved and implemented program, so long as 
+the operator of the program determines that the collection location meets the criteria 
+for collection locations established under the program's approved plan. 
+B. The participants in a program must fully underwrite the costs of battery collection 
+containers provided to each collection location established under the program, 
+including the costs of all materials necessary to comply with the safe collection 
+requirements of subsection 11, as well as the costs of pickup and transportation of 
+discarded covered batteries from each collection location, and may not charge a 
+collection location for such items or services. 
+C. An entity serving as a collection location may not be required to make available 
+more than one battery collection container at a single location. 
+D. An entity serving as a collection location may not refuse collection of batteries 
+based on the brand or brands of the batteries. The operator of a program may not 
+refuse the pickup or transfer of collected batteries from a collection location based on 
+the brand or brands of the batteries collected. 
+Page 6 -127LR2574(04)-1 
+SENA TE AMENDMENT ,,~-~~·-<' 
+!.!., ".) 
+0 
+'<-' 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 SENA TE AMENDMENT "A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+E. An entity serving as a collection location may not charge consumers any fee 
+relating to the collection of discarded covered batteries. An entity serving as a 
+collection location may not impose any fee on the operator of a program as a 
+condition of voluntarily agreeing to serve as a collection location under the program. 
+8. Prohibition. This subsection governs the offering for sale of covered batteries in 
+the State. 
+A. Beginning July 1st of the 2nd calendar year after the effective date of this section. 
+a covered battery manufacturer may not offer for sale. distribute for sale or offer for 
+promotional purposes in the State a covered battery unless the producer of the battery 
+has joined an existing covered battery stewardship organization or submitted a plan 
+for the establishment of a covered battery stewardship program that has been 
+approved by the commissioner. 
+B. Notwithstanding paragraph A. a covered battery manufacturer may continue to 
+distribute for sale, offer for sale or offer for promotional purposes in the State a 
+covered battery manufactured prior to July 1st of the 2nd calendar year after the 
+effective date of this section. but shall. by October 1st of the 2nd calendar year after 
+the effective date of this section. sell or otherwise divest or dispose of its remaining 
+stock of covered batteries manufactured prior to July 1st of that year by a producer 
+that has not joined an existing covered battery stewardship organization or submitted 
+a plan for the establishment of a covered battery stewardship program that has been 
+approved by the commissioner. 
+9. New producers. A producer that seeks to sell. offer for sale. distribute for sale or 
+offer for promotional purposes in the State a covered battery bearing a brand under which 
+the battery was not sold or offered for sale in the State prior to July 1st of the 2nd 
+calendar year after the effective date of this section must notify the commissioner prior to 
+the sale. offer for sale. distribution for sale or offer for promotional purposes of the 
+covered battery in the State. 
+A. Upon receiving notification under this subsection from a new producer. the 
+commissioner shall list the producer as a new producer on the department's publicly 
+accessible website. 
+B. No later than 90 days following a new producer's notification to the 
+commissioner. the producer shall submit a plan to the commissioner in accordance 
+with subsection 3 or join an existing organization operating under a plan approved 
+under subsection 4. 
+C. If a new producer fails to submit a plan or join an existing organization within the 
+90-day period under paragraph B. the producer may not sell or distribute a covered 
+battery in the State after the expiration of the 90-day period and a retailer may not sell 
+that producer's battery in the State after 120 days following the expiration of the 90-
+day period. 
+D. Notwithstanding paragraph C. if a new producer submits a plan within the 90-day 
+period under paragraph B and that plan is ultimately rejected by the commissioner 
+under subsection 4 after the expiration of the 90-day period. the producer may not sell 
+or distribute the covered battery in the State after 45 days following the 
+commissioner's final determination rejecting the submitted plan and a retailer may not 
+Page 7 -127LR2574(04)-1 
+SENATE AMENDMENT 
+!!..~ 
+l'J:-0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 SENATE AMENDMENT" A,, to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+sell the producer's battery in the State after 120 days following the commissioner's 
+final determination rejecting the submitted plan. 
+A new producer that fails to submit a plan that is approved by the commissioner under 
+subsection 4 or to join an existing organization within the time limits described in this 
+subsection may not sell, offer for sale, distribute for sale or offer for promotional 
+purposes a covered battery not sold or offered for sale in the State prior to July 1st of the 
+calendar year after the effective date of this section until the producer submits a plan for 
+the establishment of a covered battery stewardship program that is subsequently approved 
+by the commissioner or joins an existing organization. 
+10. Return of noncompliant products. If a plan approved under subsection 4 is 
+subsequently determined by the commissioner not to be in compliance with this section, a 
+producer who sells, offers for sale, distributes for sale or offers for promotional purposes 
+in the State a covered battery included in that plan shall, upon request by a retailer, 
+designate a location to which the retailer may ship the battery for further handling and 
+shall reimburse the retailer for costs incurred in shipping the battery to the designated 
+location. 
+11. Safe collection. Any entity that collects discarded covered batteries in the State, 
+has a physical presence in the State and is operating under or in cooperation with a 
+covered battery stewardship program shall ensure that all discarded covered batteries 
+placed in its collection containers are protected from short-circuiting in accordance with 
+applicable regulations of the federal Department of Transportation, 49 Code of Federal 
+Regulations, Subtitle B (2015) and other applicable laws or regulations and take 
+reasonable steps to prevent the placement of materials other than properly protected 
+discarded covered batteries into its collection containers. 
+12. Reporting. By April 1st of the calendar year after the calendar year in which a 
+covered battery stewardship plan is approved by the commissioner, the producer or 
+organization administering the program implementing the approved plan shall submit to 
+the commissioner a report describing activities carried out by the program pursuant to the 
+plan during the previous calendar year. The report must include, at a minimum, the 
+following information: 
+A. The weight of discarded covered batteries collected by the program in the 
+previous calendar year, including, if available, a breakdown of the weight of 
+discarded covered batteries collected per county; 
+B. The location of each collection location established under the program and an 
+evaluation of the convenience of the collection system implemented by the program; 
+C. A description of the manner in which discarded covered batteries were collected, 
+transported, sorted, consolidated and processed by the program; 
+D. A description of the methods used by the program for education and outreach, 
+including examples of any educational materials developed and used by the program, 
+and an evaluation of the effectiveness of the education and outreach efforts 
+implemented by the program; 
+E. If the report is filed by a covered battery stewardship organization, a summary 
+financial statement documenting the financing of the program consistent with the 
+Page 8 -127LR2574(04)-l 
+SENATE AMENDMENT 
+!!..~ 
+0 
+Q-· 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 SENATE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+requirements of subsection 3, paragraph K and an independent financial audit 
+statement of the organization's financing and expenses. If the organization operates a 
+similar program in another state, the organization may meet the requirements of this 
+paragraph by submitting a summary financial statement that consolidates information 
+for all states in which the organization operates covered battery stewardship programs 
+but must provide estimated financial information and cost information specific to the 
+organization's program in this State, as an addendum or additional documentation, 
+beyond national aggregate information; and 
+F. Any recommendations for changes to the program to improve the convenience of 
+the collection system, consumer education or outreach efforts or program evaluation 
+methods. 
+13. Proprietary information. Proprietary information submitted to the department 
+in a covered battery stewardship plan, in an amendment to a plan or pursuant to the 
+reporting requirements of this section that is identified by the submittor as proprietary 
+information is confidential and must be handled by the department in the same manner as 
+confidential information is handled under section 1310-B. 
+As used in this subsection, "proprietary information" means information that is a trade 
+secret or production, commercial or financial information the disclosure of which would 
+impair the competitive position of the submittor and would make available information 
+not otherwise publicly available. 
+14. Administration and enforcement. The department shall administer and enforce 
+this section and may adopt rules consistent with this section as necessary for the purposes 
+of implementing, administering and enforcing this section. Rules adopted pursuant to this 
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A. 
+A. The department shall charge a reasonable fee to be paid by an applicant for 
+review and approval of a covered battery stewardship plan. Fees assessed under this 
+paragraph must be based on the actual costs to the department of reviewing and 
+approving a covered battery stewardship plan and may not exceed $25.000. 
+B. The department may establish a reasonable annual fee, to be paid by the operator 
+of each covered battery stewardship program, to cover the department's costs for 
+annual report review. oversight. administration and enforcement of the program. A 
+fee established under this paragraph must be based on the actual costs to the 
+department of annual report review. oversight. administration and enforcement of the 
+operator's program and may not exceed $25,000 per year. 
+C. The commissioner may not initiate an enforcement action under this section 
+against a manufacturer: 
+(1) Concerning the offering for sale of covered batteries that are not approved 
+products if the offering for sale occurred prior to October 1st of the 2nd calendar 
+year after the effective date of this section; or 
+(2) Concerning the offering for sale of covered batteries manufactured prior to 
+the effective date of this section if the offering for sale occurred prior to October 
+1st of the 2nd calendar year after the effective date of this section. 
+Page 9 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+!!. VJ 
+0 
+Q-
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 43 SENATE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+D. The commissioner may not initiate an enforcement action under this section 
+against a manufacturer for offering for sale a covered battery if that entity, within 90 
+days of discovering that the battery is not in compliance with this section, removes 
+the battery from sale. 
+15. Limited private right of action. Except as provided in paragraph F, a producer 
+or organization that has submitted a plan for the establishment of a covered battery 
+stewardship program that has been approved by the commissioner and that has been 
+implemented to collect, transport and recycle discarded covered batteries in the State may 
+maintain a civil action in Superior Court against a producer or organization not 
+participating in its program to recover a portion of its costs and additional sums, as set 
+forth in this subsection. 
+A. Damages recoverable under this subsection include a fair share of the actual costs 
+incurred by a plaintiff producer or organization in collecting covered batteries of a 
+defendant producer or organization discarded in the State for which the defendant 
+was required under this section to submit and implement a covered battery 
+stewardship plan or join an existing covered battery stewardship program, as well as 
+the plaintiffs costs incurred in handling, transporting and recycling or properly 
+disposing of the defendant's batteries. Additional amounts recoverable under this 
+subsection include an award of reasonable attorney's fees and court costs, including 
+expert witness fees. 
+B. In an action by a plaintiff producer or organization against a defendant producer 
+or organization that did not operate or participate in a covered battery stewardship 
+program established under this section during the time period in which discarded 
+covered batteries of the defendant were collected, transported and recycled by the 
+plaintiff, the plaintiff may establish the defendant's fair share of the plaintiffs actual 
+costs by: 
+(I) Providing the court with market share data that the court finds reasonably 
+represent the percentage of sales of covered batteries by the defendant in the 
+State; 
+(2) Providing the court with data generated from discarded covered battery sorts 
+involving a minimum of 500 pounds of discarded covered batteries collected at 
+each of 3 or more collection locations in the State that are found by the court to 
+have been collected in an unbiased manner and to be reasonably representative of 
+the population of the State; or 
+(3) Through any other method that the court finds reliable in establishing the 
+defendant's fair share of the plaintiffs actual costs. 
+C. In an action by a plaintiff producer or organization against a defendant producer 
+or organization that operated or participated in a covered battery stewardship program 
+established under this section during the time period in which discarded covered 
+batteries of the defendant were collected, transported and recycled by the plaintiff, 
+the plaintiff may establish the defendant's fair share of the plaintiffs actual costs by 
+providing the court with data establishing the relative weight of discarded covered 
+batteries collected by the plaintiff that the defendant was required under this section 
+Page 10 -127LR2574(04)-1 
+SENATE AMENDMENT 
+!<,~ 
+40 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 SENATE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+to collect, transport and recycle compared to the weight of other discarded covered 
+batteries collected by the plaintiff. This data may be generated by the plaintiff: 
+(1) Through the collection of data from discarded covered battery sorts involving 
+a minimum of 500 pounds of discarded covered batteries collected at each of 3 or 
+more collection locations in the State that are found by the court to have been 
+collected in an unbiased manner and to be reasonably representative of the 
+population of the State; 
+(2) Through an analysis of actual collections by the organization that are found 
+by the court to be reasonably representative of total actual collections in the 
+State; or 
+(3) Through any other method that the court finds reliable in establishing the 
+defendant's fair share of the plaintiffs actual costs. 
+D. If the court finds that an action maintained by a plaintiff producer or organization 
+against a defendant producer or organization initiated pursuant to this subsection is 
+without merit and dismisses that action, the court shall award to the defendant 
+producer or organization reasonable attorney's fees and court costs, including expert 
+witness fees. 
+E. An action may not be commenced under this subsection against any potential 
+defendant until 60 days after a plaintiff provides to all potential defendants a written 
+notice of the claim setting forth the amount of the claim and the basis for the 
+calculation of that amount. A plaintiff producer or organization may initiate a single 
+civil action in Superior Court against one or more defendant producers or 
+organizations. 
+F. An action may not be brought under this subsection against a retailer or franchisor 
+of retail outlets that was operating or participating in a covered battery stewardship 
+program established under this section, individually or on behalf of its franchisees, to 
+recover costs or additional sums incurred during a time period in which discarded 
+covered batteries were collected, transported or recycled by the retailer or franchisor. 
+G. The department may not be a party to or be required to provide assistance or 
+otherwise participate in a civil action authorized under this subsection unless subject 
+to a subpoena before a court of jurisdiction. 
+16. Preemption. The State intends to occupy and preempt the entire field of 
+legislation concerning the regulation of the stewardship of covered batteries. Any 
+existing or future order, ordinance, rule or regulation in this field of any political 
+subdivision of the State is void. 
+17. Antitrust exclusions. A producer, a group of producers and a covered battery 
+stewardship organization, and an agent, officer, director and employee of such entities, 
+preparing, submitting a plan for, implementing or administering a covered battery 
+stewardship program in accordance with this section, and a wholesaler and retailer that 
+engages in conduct authorized by this section, are granted immunity, individually and 
+jointly, from all applicable antitrust laws of the State for the limited purpose of 
+establishing, implementing and administering a covered battery stewardship program and 
+otherwise complying with the requirements of this section, and any activity undertaken 
+Page 11 -127LR2574(04)-l 
+SENA TE AMENDMENT 
+~&:, 
+0 q.. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 SENATE AMENDMENT "A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+by these entities in accordance with and authorized under this section is not an unlawful 
+restraint of trade, a conspiracy or other violation of any provision of any applicable 
+antitrust law of the State. 
+An action taken by a producer, a group of producers or an organization to increase the 
+recycling of covered batteries in accordance with this section that affects the types or 
+quantities of batteries recycled or the cost and structure of any covered battery 
+stewardship program is not a violation of any provision of Title 10, chapter 201, except 
+when such action constitutes an agreement establishing or affecting the price of covered 
+batteries or the output or production of covered batteries or restricting the geographic area 
+in which covered batteries will be sold or the customers to whom covered batteries will 
+be sold. 
+18. Contingent effective date; contingent repeal. The commissioner shall monitor 
+legislative activities in other states and certify to the Secretary of State and the Revisor of 
+Statutes when legislation substantially consistent with this section has been adopted by at 
+least 5 contiguous states, including Maine. This section takes effect 30 days after the date 
+of the commissioner's certification. If no certification has been made by the commissioner 
+pursuant to this section by January 1, 2024, this section is repealed on that date. 
+19. Report and program modifications. Two years after the effective date of this 
+section, the commissioner shall submit a report to the joint standing committee of the 
+Legislature having jurisdiction over environmental and natural resources matters 
+regarding the status of the State's stewardship program for covered batteries, including a 
+recommendation on whether consumer products that are sold containing a covered battery 
+should be included in the program and any recommended changes to the program to 
+ensure its continued viability. The report under this section may be included in the report 
+required pursuant to section 1772, subsection 1. After reviewing the report, the 
+committee may report out a bill relating to the stewardship program for covered batteries 
+established under this section to the session of the Legislature in which the report is 
+submitted.' 
+SUMMARY 
+This amendment strikes and replaces section 1 of the committee amendment, which 
+establishes a product stewardship program for batteries. The amendment establishes a 
+similar product stewardship program for batteries. The changes to the program include 
+the following. 
+1. The amendment removes covered battery-containing products from the product 
+stewardship program for batteries. 
+2. The amendment excludes the following from the product stewardship program for 
+batteries: 
+A. Products from which the battery is not easily removed or is not intended or 
+designed to be removed from the product; 
+B. Medical devices; and 
+C. Devices related to the operation or use of a motor vehicle. 
+Page 12 -127LR2574(04)-l 
+SENATE AMENDMENT 
+~ c,., 
+q.. Q SENA TE AMENDMENT" A" to COMMITTEE AMENDMENT "A" to S.P. 626, L.D. 1578 
+1 3. The amendment removes the sales prohibition in the bill and instead provides that 
+2 a covered battery manufacturer may not offer for sale, distribute for sale or offer for 
+3 promotional purposes in the State a covered battery unless the producer of the battery has 
+4 joined an existing covered battery stewardship organization or submitted a plan and 
+5 received approval for the establishment of a covered battery stewardship program. It also 
+6 changes the enforcement provisions to be consistent with the prohibition on offering for 
+7 sale, distributing for sale or offering for promotional purposes a covered battery by a 
+8 manufacturer. 
+9 4. The amendment changes the reporting requirements for producers and 
+10 organizations administering covered battery stewardship programs. 
+11 5. The amendment adds a contingent effective date and a contingent repeal date. 
+12 
+13 
+14 
+15 
+16 
+17 6. The amendment modifies reporting requirements of the Commissioner of 
+Environmental Protection to the joint standing committee of the Legislature having 
+jurisdiction over environme tal and natur 1 r sources matters. 
+SPONSOREDBY:~+-~~--A---"-' ........ .,._~~ 
+(Senator VOLK) 
+COUNTY: Cumberland 
+FISCAL NOTE UQlllUD 
+(Seeattlldled) 
+Page 13 -127LR2574(04)-1 
+SENA TE AMENDMENT 
+Approved: 04/03/16 feac=.. 
+127th MAINE LEGISLATURE 
+LD 1578 LR2574(04) 
+An Act To Update Maine's Solid Waste Management Laws 
+Fiscal Note for Senate Amendment 'If" to Committee Amendment "A" 
+Sponsor: Sen. Volk of Cumberland 
+Fiscal Note Required: Yes 
+Fiscal Note (s-qio') 
+Potential current biennium cost impact -Other Special Revenue Funds 
+Potential current biennium revenue impact -Other Special Revenue Funds 
+Fiscal Detail and Notes 
+This amendment makes certain changes to the stewardship program for batteries contained in the committee 
+amendment and makes this stewardship program effective only upon the adoption of substantially consistent 
+legislation by at least five contiguous states, including Maine. The stewardship program for batteries will be repealed 
+on January 1, 2024 if it has not become effective before this date. Any potential impact on costs and revenues cannot 
+be determined at this time. This fiscal note assumes that the fees contained in the committee amendment, a fee ofup 
+to $25,000 on applicants to review submissions of plans and an annual fee ofup to $25,000 on operators of the 
+program, are sufficient to cover the Department of Environmental Protection's costs. 
+As amended, the bill still includes a $40,000 appropriation to the Department of Administrative and Financial 
+Services to establish a food waste composting pilot program. 
+LR2574(04) -Fiscal Note -Page 1 of 1 

@@ -1,0 +1,202 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1912
+H.P. 1228 House of Representatives, May 9, 2023
+An Act to Establish Consumer Protections Regarding Small Dollar 
+Loans
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BLIER of Buxton.
+Cosponsored by President JACKSON of Aroostook and
+Representatives: BOYLE of Gorham, MORRIS of Turner, SWALLOW of Houlton, Senators: 
+GROHOSKI of Hancock, STEWART of Aroostook.
+
+Page 1 - 131LR1656(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  9-A MRSA §2-701, as enacted by PL 2021, c. 297, §1, is amended to read:
+3§2-701.  Engaging in pretense to evade requirements of this Article prohibited
+4 An Except as expressly provided in section 2-703, an entity covered by this Article 
+5 may not engage in any device, subterfuge or pretense to evade the requirements of this 
+6 Article, including, but not limited to, making a loan disguised as a personal property sale 
+7 and leaseback transaction, disguising loan proceeds as a cash rebate for the pretextual 
+8 installment sale of goods or services or making, offering, assisting or arranging a debtor to 
+9 obtain a loan with a greater rate of interest, consideration or charge than is permitted by 
+10 this Article through any method.  A loan made in violation of this Part is void and 
+11 uncollectible as to any principal, fee, interest or charge.
+12Sec. 2.  9-A MRSA §2-702, as enacted by PL 2021, c. 297, §1, is repealed.
+13Sec. 3.  9-A MRSA §2-703 is enacted to read:
+14§2-703.  Exemptions
+15 The provisions of this Article do not apply to a person doing business pursuant to any 
+16 law of this State or of the United States relating to banks, national banking associations, 
+17 savings banks, trust companies, savings and loan associations, credit unions or mortgage 
+18 companies, including without limitation any affiliate, subsidiary or service provider of such 
+19 a person, irrespective of whether or not such an affiliate, subsidiary or service provider is 
+20 a bank.
+21Sec. 4.  9-A MRSA Art. 2, Pt. 8 is enacted to read:
+22PART 8
+23MAINE SMALL DOLLAR CONSUMER PROTECTION ACT
+24§2-801.  Short title
+25 This Part may be known and cited as "the Maine Small Dollar Consumer Protection 
+26 Act."
+27§2-802. Definitions
+28 As used in this Part, unless the context otherwise indicates, the following terms have 
+29 the following meanings.
+301. Renew. "Renew" means to renew, repay, refinance or consolidate an existing small 
+31 dollar loan with the proceeds of another small dollar loan.
+322. Small dollar loan. "Small dollar loan" means a loan made by a supervised lender 
+33 that:
+34 A. Is made to one or more individuals for personal, family or household use;
+35 B. Has a principal amount that does not exceed $2,500;
+36 C. Is unsecured and payable in substantially equal installments;  
+Page 2 - 131LR1656(01)1 D. Has a repayment schedule consisting of installment payments of substantially equal 
+2 amounts of principal and service fees amortizing over the term of the loan such that the 
+3 loan is repaid in full by the maturity date; and
+4 E. Has a maturity date that is not less than 90 days or more than 365 days after the date 
+5 of the loan agreement.
+6§2-803. Small dollar loans authorized; rules
+7 A supervised lender may make a small dollar loan to a consumer pursuant to this Part. 
+8 The administrator shall adopt rules to carry out the purposes of this Part. The rules must 
+9 include, at a minimum, the following:
+101.  Copy.  A requirement for a supervised lender to immediately provide a consumer 
+11 with a signed copy of the small dollar loan agreement;
+122.  Payment.  Provisions allowing for payment of a small dollar loan to a consumer by 
+13 check, money order, cash or other mutually agreed upon means, but that prohibit the 
+14 supervised lender from charging the consumer additional fees based on the method of 
+15 payment;
+163.  Right to cancel.  The right of a consumer to cancel a small dollar loan agreement 
+17 by notifying the supervised lender and returning the total original small dollar loan amount 
+18 within 3 business days after the date the consumer entered into the small dollar loan 
+19 agreement;
+204.  Right to file complaint.  The right of a consumer to file a complaint against a 
+21 supervised lender for a violation of any provision of this Part; and
+225.  Modification.  An allowance for a supervised lender and a consumer to mutually 
+23 agree to modify the repayment schedule to allow for different payment amounts over the 
+24 term of the small dollar loan, as long as the modified repayment schedule does not include 
+25 a payment due at the date of maturity that is substantially larger than any previously 
+26 scheduled installment payment.
+27 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+28 chapter 375, subchapter 2-A.
+29§2-804. Limitations on multiple small dollar loans
+30 A supervised lender may not enter into a small dollar loan agreement with a consumer 
+31 if the consumer has an open small dollar loan agreement with the supervised lender or 
+32 another supervised lender in the State.  A supervised lender may rely on a consumer's 
+33 representation of open small dollar loan agreements with any other supervised lender.
+34§2-805. Renewal of small dollar loans
+35 A supervised lender may not renew a small dollar loan agreement unless:
+361.  Payments as scheduled.  A consumer has made payments as scheduled; and
+372.  Percentage of payments.  A consumer has made at least 30% of all scheduled 
+38 payments or has retired at least 50% of the principal amount of the small dollar loan.
+39§2-806. Consideration of ability to repay
+401.  Considerations.  In determining the amount and duration of a small dollar loan as 
+41 part of the underwriting, making or negotiating of the small dollar loan, a supervised lender 
+Page 3 - 131LR1656(01)42 shall take into consideration a consumer's financial ability to repay the small dollar loan in 
+43 the time and manner provided in the prospective small dollar loan agreement. The 
+44 supervised lender's consideration must include, but is not limited to, a consumer's: 
+4 A. Credit and borrowing history;
+5 B. Gross income;
+6 C. Representation of major financial obligations; and
+7 D. Estimated basic living expenses, including, but not limited to, expenses for food, 
+8 utilities, regular medical costs and other costs associated with the consumer's health, 
+9 welfare and ability to produce income and the health and welfare of members of the 
+10 consumer's household who are financially dependent on the consumer. A supervised 
+11 lender may rely on a consumer's representation of estimated basic living expenses when 
+12 determining the consumer's ability to repay a small dollar loan.
+132.  Ability to pay.  A supervised lender may enter into a small dollar loan agreement 
+14 only with a consumer whom the supervised lender has determined pursuant to subsection 
+15 1 to be able to repay the small dollar loan in the time and manner provided in the 
+16 prospective small dollar loan agreement.  A supervised lender may not enter into a small 
+17 dollar loan agreement with a consumer if the supervised lender determines that the 
+18 prospective small dollar loan agreement would result in a monthly payment that would 
+19 exceed 12% of the consumer's monthly gross income.
+20§2-807. No prepayment penalty
+21 A consumer may prepay in full the unpaid balance of the small dollar loan at any time 
+22 without additional interest, fees or penalties.
+23§2-808. Limitations on collections
+24 A supervised lender may not use or threaten to use criminal proceedings in order to 
+25 collect upon the terms of a small dollar loan agreement under this Part.
+26§2-809. Report to credit reporting agency required
+27 A supervised lender shall report to a credit reporting agency or agencies the terms of a 
+28 small dollar loan agreement and a consumer's performance pursuant to those terms.
+29§2-810. Required consumer disclosures
+301.  Public notice.  A supervised lender shall post prominently at its place of business 
+31 in a way designed to be seen by a consumer before the consumer enters into a small dollar 
+32 loan agreement and on any website designed to be seen by a consumer before the consumer 
+33 enters into a small dollar loan agreement a written notice that, at a minimum, informs the 
+34 consumer that:
+35 A.  State law prohibits a supervised lender from entering into a small dollar loan 
+36 agreement with a consumer who already has a small dollar loan in effect with the 
+37 supervised lender or with another supervised lender in the State;
+38 B.  If a consumer enters into a small dollar loan agreement, a copy of the signed 
+39 agreement must be immediately provided to the consumer;1
+2
+3
+Page 4 - 131LR1656(01)1 C.  The proceeds of a small dollar loan are payable to a consumer by check, money 
+2 order, cash or any other mutually acceptable means and that the consumer may not be 
+3 subjected to additional fees based on the method of payment;  
+4 D.  State law guarantees to a consumer the right to cancel a small dollar loan agreement 
+5 and that, in order to cancel an agreement, the consumer must notify the supervised 
+6 lender and return the original dollar value received within 3 business days after the date 
+7 the consumer entered into the small dollar loan agreement;
+8 E.  State law prohibits a supervised lender from using or threatening to use any criminal 
+9 proceedings to collect on a small dollar loan agreement; and
+10 F.  State law entitles a consumer to information regarding how to file a complaint 
+11 against a supervised lender if the consumer has reason to believe that the supervised 
+12 lender has violated the law and that a consumer who believes the supervised lender is 
+13 acting unlawfully should contact the Bureau of Consumer Credit Protection within the 
+14 Department of Professional and Financial Regulation.
+15 Notices posted at the place of business must be in at least 36-point type.  Notices posted on 
+16 a website must be located in a prominent place easily located by a consumer.
+172.  Public notice of fees and charges.  A supervised lender shall post prominently at 
+18 its place of business in a way designed to be seen by a consumer before the consumer enters 
+19 into a small dollar loan agreement and on any website designed to be seen by a consumer 
+20 before the consumer enters into a small dollar loan agreement a schedule of all fees and 
+21 charges to be imposed for small dollar loans. Notices posted at the place of business must 
+22 be in at least 36-point type. Notices posted on a website must be located in a prominent 
+23 place easily located by a consumer.
+24SUMMARY
+25 This bill establishes the Maine Small Dollar Consumer Protection Act. It outlines the 
+26 process for supervised lenders to offer small dollar loans, which are defined as loans not 
+27 exceeding $2,500 that are unsecured and paid in substantially equal installments and that 
+28 mature not less than 90 days or more than 365 days after the date of the agreement, and the 
+29 rights that consumers have when entering into small dollar loan agreements.
+30 It also repeals the provision that provides that a person is a lender subject to the 
+31 requirements of the Maine Consumer Credit Code governing finance charges and related 
+32 provisions notwithstanding the fact that the person purports to act as an agent or service 
+33 provider or in another capacity for another entity that is exempt from the requirements of 
+34 the Maine Consumer Credit Code governing finance charges and related provision if 
+35 certain conditions are met.
+36 It provides that the requirements of the Maine Consumer Credit Code governing 
+37 finance charges and related provisions do not apply to a person doing business pursuant to 
+38 any law of this State or of the United States relating to banks, national banking associations, 
+39 savings banks, trust companies, savings and loan associations, credit unions or mortgage 
+40 companies, including without limitation any affiliate, subsidiary or service provider of such 
+41 a person, irrespective of whether or not such an affiliate, subsidiary or service provider is 
+42 a bank.25
+26
+27
+28
+29

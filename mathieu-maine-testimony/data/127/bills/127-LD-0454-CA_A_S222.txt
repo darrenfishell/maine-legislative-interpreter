@@ -1,0 +1,466 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+~ 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 Date: ~ I~ JI ~ L.D.454 
+(Filing No. S-d~.:l) 
+EDUCATION AND CULTURAL AFFAIRS 
+Reproduced and distributed under the direction of the Secretary of the Senate. 
+STATE OF MAINE 
+SENATE 
+127TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMITTEE AMENDMENT" Ft" to S.P. 183, L.D. 454, Bill, "An Act To Enact 
+the Student Information Privacy Act" 
+Amend the bill by striking out everything after the enacting clause and before the 
+summary and inserting the following: 
+'Sec. 1. 20-A MRSA c. 13 is enacted to read: 
+CHAPTER 13 
+THE STUDENT INFORMA TION PRIVACY ACT 
+§951. Short title 
+This chapter may be known and cited as "the Student Information Privacy Act." 
+§952. Definitions 
+As used in this chapter, unless the context otherwise indicates, the following terms 
+have the following meanings. 
+1. Aggregate student data. "Aggregate student data" means data that is not 
+personally identifiable and that is collected or reported at the group, cohort or institutional 
+level. 
+2. Eligible student. "Eligible student" means a student who has reached 18 years of 
+age or who is attending a postsecondary educational institution. 
+3. Kindergarten to grade 12 school purposes. "Kindergarten to grade 12 school 
+purposes" means purposes that take place at the direction of a school administrative unit, 
+a school that provides instruction to any grades from kindergarten to grade 12 or a teacher 
+at such a school or purposes that aid in the administration of school activities, including, 
+but not limited to, instruction in the classroom or at home, administrative activities, 
+preparation for postsecondary education or employment opportunities and collaboration 
+between students, school personnel or parents, or that are for the use and benefit of the 
+school. 
+Page 1 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+t:\ 0\ '0. I' 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 COMMITTEE AMENDMENT" A "to S.P. 183, L.D. 454 
+4. Operator. "Operator" means any entity other than the department, school 
+administrative unit or school to the extent that the entity: 
+A. Operates an Internet website. online service, online application or mobile 
+application with actual knowledge that the website, service or application is used for 
+kindergarten to grade 12 school purposes and was designed and marketed for 
+kindergarten to grade 12 school purposes to the extent that the operator is operating 
+in that capacity; and 
+B. Collects, maintains or uses student personally identifiable information in a digital 
+or electronic format. 
+5. State-assigned student identifier. "State-assigned student identifier" means the 
+unique student identifier assigned by the State to each student, which may not be and may 
+not include the student's social security number in whole or in part. 
+6. Student data. "Student data" means information that is collected and maintained 
+at the individual student level in this State, including, but not limited to: 
+A. Data descriptive of a student in any media or format, including, but not limited to: 
+(1) The student's first and last names; 
+(2) The names of the student's parent and other family members; 
+(3) The physical address, e-mail address, phone number and any other 
+information that allows contact with the student or the student's family; 
+(4) A student's personal identifier, such as the state-assigned student identifier, 
+when used for identification purposes; 
+(5) Other indirect identifiers, such as the student's date of birth, place of birth 
+and mother's maiden name; 
+(6) Results of assessments administered by the State, school administrative unit, 
+school or teacher, including participation information; 
+(7) Course transcript information, including, but not limited to, courses taken 
+and completed, course grades and grade point average, credits earned and degree, 
+diploma, credential attainment or other school exit information; 
+(8) Attendance and mobility information between and within school 
+administrative units within the State; 
+(9) The student's gender, race and ethnicity; 
+(10) Educational program participation information required by state or federal 
+law: 
+(11) The student's disability status; 
+(12) The student's socioeconomic information; 
+(13) The student's food purchases; and 
+Page 2 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+\\ 0\ CO· \ . 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 COMMITTEE AMENDMENT" Pr "to S.P. 183, L.D. 454 
+(14) The student's e-mails, text messages, documents, search activity, photos, 
+voice recordings and geolocation information; and 
+B. Information that: 
+(1) Is created by a student or the student's parent or provided to an employee or 
+agent of the school, school administrative unit, the department or an operator in 
+the course of the student's or parent's use of the operator's website, service or 
+application for kindergarten to grade 12 school purposes; 
+(2) Is created or provided by an employee or agent of the school or school 
+administrative unit, including information provided to an operator in the course 
+of the employee's or agent's use of the operator's website, service or application 
+for kindergarten to grade 12 school purposes; or 
+(3) Is gathered by an operator through the operation of an operator's website, 
+service or application for kindergarten to grade 12 school purposes. 
+7. Student personally identifiable information. "Student personally identifiable 
+information" means student data that, alone or in combination, is linked to a specific 
+student and would allow a reasonable person who does not have knowledge of the 
+relevant circumstances to identify the student. 
+8. Targeted advertising. "Targeted advertising" means advertisements presented to 
+a student when the advertisement is selected based on information obtained or inferred 
+from that student's online behavior, usage of applications or student data. "Targeted 
+advertising" includes advertising to a student at an online location based upon a single 
+search query without collection and retention of a student's online activities over time. 
+"Targeted advertising" includes contextual targeted advertising that is based upon factors, 
+including, but not limited to, the central theme of an Internet website, the student's recent 
+browsing history, the student's language and the student's location. "Targeted advertising" 
+does not include advertising to a student at an online location based upon that student's 
+current visit to that location. 
+§953. Restrictions.on operator's use of student data 
+1. Prohibitions. An operator may not knowingly engage in any of the following 
+activities with respect to the operator's website, service or application without explicit 
+written or electronic consent from a student's parent or an eligible student: 
+A. Use student data to engage in targeted advertising on the operator's website, 
+service or application or targeted advertising on any other website, service or 
+application when the targeting of the advertising is based upon any student data and 
+state-assigned student identifiers or other persistent unique identifiers that the 
+operator has acquired because of the use of the operator's website, service or 
+application: 
+B. Use student data, including state-assigned student identifiers or other persistent 
+unique identifiers, created or gathered by the operator to amass a profile of a student 
+except for kindergarten to grade 12 school purposes. For purposes of this paragraph, 
+"amass a profile" does not include collection and retention of account information 
+that remains under the control of a student, parent or school administrative unit; 
+Page 3 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+t\. 0\ S. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 COMMITTEE AMENDMENT" A" to S.P. 183, L.D. 454 
+C. Sell student data. This prohibition does not apply to the purchase, merger or other 
+type of acquisition of an operator by another entity as long as the operator Qr 
+successor entity continues to be subject to the provisions of this section with respect 
+to previously acquired student data subject to this chapter. 
+D. Except as provided in subsection 3, disclose student personally identifiable 
+infonnation, unless the disclosure is made: 
+(1) To advance the kindergarten to grade 12 school purposes of the website, 
+service or application, as long as the recipient of the student data disclosed: 
+(a) May not further disclose the student data except to allow or improve 
+operability and functionality of the website, service or application within that 
+student's classroom or school; and 
+(b) Is legally required to comply with the requirements of this chapter; 
+(2) To ensure legal or regulatory compliance or protect against liability; 
+(3) To respond to or participate in judicial process; 
+(4) To protect the security or integrity of the operator's website, service or 
+application; 
+(5) To protect the safety of users or others; or 
+(6) To a service provider, as long as the operator contractually: 
+(a) Prohibits the service provider from using any student data for any 
+purpose other than providing the contracted service to, or on behalf of, the 
+operator; 
+(b) Requires the service provider to impose the restrictions of this subsection 
+on its own service providers; and 
+(cl Requires the service provider to implement and maintain reasonable 
+security procedures and practices as provided in subsection 2. 
+2. Security procedures and practices. An operator shall: 
+A. Implement and maintain reasonable security procedures and practices appropriate 
+to the nature of the student data to protect that data from unauthorized access, 
+destruction, use, modification and disclosure; and 
+B. Delete student data within 45 days of a school's or school administrative unit's 
+request. 
+3. Permitted disclosures. The following provisions apply to disclosure of student 
+data by an operator. 
+A. Notwithstanding subsection 1, paragraph D, and in accordance with subsection 1, 
+paragraphs A, Band C, an operator may disclose student data under the following 
+circumstances: 
+Page 4 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+,I. 0\ <0. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 COMMITTEE AMENDMENT" A. .. to S.P. 183, L.D. 454 
+(1) If another provision of federal or state law requires the operator to disclose 
+the student data and the operator complies with applicable requirements of 
+federal and state law in protecting and disclosing that information; 
+(2) For legitimate research purposes: 
+(a) As required by state or federal law and subject to the restrictions under 
+applicable state and federal law; or 
+(b) As allowed by state or federal law and under the direction of a school, 
+school administrative unitor the department; or 
+(3) To a state agency, school administrative unit or school for kindergarten to 
+grade 12 purposes, as permitted by state or federal law. 
+B. Nothing in this section prohibits an operator from using student data, including 
+student personally identifiable information, as follows: 
+(1) For maintaining, delivering, developing, supporting. evaluating, improving or 
+diagnosing the operator's website, service or application; 
+(2) Within other websites, services or applications owned by the operator and 
+intended for school or student use, to evaluate and improve educational products 
+or services intended for school or student use; 
+(3) For adaptive learning or customized student learning purposes: 
+(4) For recommendation engines to recommend additional content or services for 
+educational, other learning or job opportunities to students within the operator's 
+website, service or application without the response being detennined in whole or 
+in part by payment or other consideration from a 3rd party; or 
+(5) To ensure legal or regulatory compliance or to retain student data for these 
+purposes. 
+C. Nothing in this section prohibits an operator from using or sharing aggregate 
+student data or data from which personally identifying information has been removed 
+as follows: 
+(1) For the development and improvement of the operator's website, service or 
+application or other educational websites, services or applications; or 
+(2) To demonstrate or market the effectiveness of the operator's products or 
+services. 
+4. Construction. The following provisions govern the application and construction 
+of this chapter. 
+A. This chapter may not be construed to limit the authority of a law enforcement 
+agency to obtain any content or student data from an operator as authorized by law or 
+pursuant to an order of a court of competent jurisdiction. 
+B. This chapter does not apply to general audience Internet websites, general 
+audience online services, general audience online applications or general audience 
+Page 5 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+f\. 0\ S. 
+COMMITTEE AMENDMENT" Pi" to S.P. 183, L.D. 454 
+1 mobile applications even if login credentials created for an operator's site, service or 
+2 application may be used to access those general audience sites, services or 
+3 applications. 
+4 C. This chapter may not be construed to restrict Internet service providers from 
+5 providing Internet connectivity to schools or students and their families. 
+6 D. This chapter may not be construed to prohibit an operator from marketing 
+7 educational products directly to parents so long as the marketing does not result from 
+8 the use of student data obtained without parental consent by the operator through the 
+9 provision of services covered under this section. 
+10 E. This chapter may not be construed to impose a duty upon a provider of an 
+11 electronic store, gateway, marketplace or other means of purchasing or downloading 
+12 software or applications to review or enforce compliance of this section on those 
+13 applications or software. 
+14 F. This chapter may not be construed to impose a duty upon a provider Qf an 
+15 interactive computer service, as defined in 47 United States Code, Section 230, to 
+16 review or enforce compliance with this section by 3rd-party content providers. 
+17 G. This chapter may not be construed to impede the ability of a student or a student's 
+18 parent to download, transfer or otherwise save or maintain student data or documents 
+19 belonging to the student. 
+20 H. Nothing in this chapter prevents this State or a school administrative unit or 
+21 employee of this State or a school administrative unit from recommending, directly or 
+22 via a product or service, any educational materials, online content, services or other 
+23 products to any student or the student's family if this State or a school administrative 
+24 unit determines that such products will benefit the student and the State or school 
+25 administrative unit does not receive compensation for developing, enabling or 
+26 communicating such recommendations. 
+27 1. Nothing in this chapter authorizes the dissemination of information in violation of 
+28 section 6001. 
+29 Sec. 2. Transition. Pursuant to the Maine Revised Statutes, Title 20-A, chapter 
+30 13, an operator who enters into a signed, written contract with a school, teacher or local 
+31 educational agency prior to the effective date of this Act must meet the requirements of 
+32 this Act by the beginning of the 2016-17 school year.' 
+33 SUMMARY 
+34 This amendment replaces the bill. This amendment enacts the Student Information 
+35 Privacy Act, which prohibits the operator of an Internet website, online service or mobile 
+36 application designed, marketed and used for Idndergarten to grade 12 purposes from 
+37 presenting targeted advertising to students, amassing a profile of a student except in 
+38 furtherance of school purposes, selling student data or disclosing student personally 
+39 identifiable data without consent. This amendment permits an operator to disclose data in 
+40 certain circumstances and under certain limitations, including to ensure legal and 
+41 regulatory compliance, to participate in judicial process, for legitimate research purposes 
+42 and for school purposes to a school, school administrative unit or state agency. This 
+Page 6 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 
+1 
+2 
+3 
+4 
+5 
+6 COMMITTEE AMENDMENT" F\ "to S.P. 183, L.D. 454 
+amendment requires an operator to maintain reasonable security procedures and practices 
+to protect student data and requires an operator to delete data upon request of a school or 
+school administrative unit. The amendment requires compliance with the Student 
+Information Privacy Act by the 2016-2017 school year when an operator has signed a 
+contract with the Department of Education, a school administrative unit or a school prior 
+to enactment. 
+Page 7 -127LR0638(02)-1 
+COMMITTEE AMENDMENT 

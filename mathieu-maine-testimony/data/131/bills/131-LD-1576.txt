@@ -1,0 +1,184 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1576
+H.P. 1021 House of Representatives, April 11, 2023
+An Act to Update the Laws Governing Electronic Device 
+Information as Evidence
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative O'NEIL of Saco.
+Cosponsored by Senator HICKMAN of Kennebec and
+Representatives: ANDREWS of Paris, BOYER of Poland, LEE of Auburn, MALON of 
+Biddeford, Speaker TALBOT ROSS of Portland, Senators: BAILEY of York, DAUGHTRY of 
+Cumberland, GUERIN of Penobscot.
+
+Page 1 - 131LR1832(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  16 MRSA c. 3, sub-c. 10, headnote is amended to read:
+3SUBCHAPTER 10
+4PORTABLE ELECTRONIC DEVICE CONTENT INFORMATION
+5Sec. 2.  16 MRSA §641, sub-§2, as enacted by PL 2013, c. 402, §1, is repealed.
+6Sec. 3.  16 MRSA §641, sub-§2-A is enacted to read:
+72-A.  Electronic communication.  "Electronic communication" means the transfer of 
+8 information, including but not limited to signs, signals, writings, images, sounds, data or 
+9 intelligence, in whole or in part by a wire or a radio or an electromagnetic, photoelectric or 
+10 photo-optical system.
+11Sec. 4.  16 MRSA §641, sub-§2-B is enacted to read:
+122-B.  Electronic communication information.  "Electronic communication 
+13 information" means the information transferred through electronic communication or 
+14 through the use of an electronic communication service, including but not limited to the 
+15 format of information, the information contained under a sender or recipients folder, the 
+16 location of a sender or recipient at any time during the electronic communication, the time 
+17 or date the electronic communication was transferred or any information relating to an 
+18 individual or an electronic device participating in the electronic communication, such as an 
+19 Internet protocol address.
+20Sec. 5.  16 MRSA §641, sub-§3-A is enacted to read:
+213-A.  Electronic device.  "Electronic device" means a device that stores, generates or 
+22 transmits information in electronic form.
+23Sec. 6.  16 MRSA §641, sub-§3-B is enacted to read:
+243-B.  Electronic device information.  "Electronic device information" means any 
+25 information stored on, generated or transmitted through the operation of an electronic 
+26 device, including the current and prior locations of the device.
+27Sec. 7.  16 MRSA §641, sub-§5, as enacted by PL 2013, c. 402, §1, is amended to 
+28 read:
+295.  Owner.  "Owner" means the person or entity having the legal title, claim or right to 
+30 a portable  an electronic device.
+31Sec. 8.  16 MRSA §641, sub-§6, as amended by PL 2019, c. 489, §5, is repealed.
+32Sec. 9.  16 MRSA §641, sub-§7-B is enacted to read:
+337-B.  Subscriber information.  "Subscriber information" means the name, street 
+34 address, telephone number, email address or similar contact information provided by a 
+35 subscriber to a provider to establish or maintain an account or ability to communicate; an 
+36 account number or identifier; the length of service; and the types of services used by a user 
+37 of or subscriber to an electronic communication service or remote computing service.
+Page 2 - 131LR1832(01)1Sec. 10.  16 MRSA §641, sub-§8, as enacted by PL 2013, c. 402, §1, is amended to 
+2 read:
+38.  User.  "User" means a person or entity that uses a portable  an electronic device.
+4Sec. 11.  16 MRSA §642, as amended by PL 2017, c. 144, §4, is further amended 
+5 by amending the section headnote to read:
+6§642.  Authority to obtain and disclose content  electronic device information held by 
+7a provider of electronic communication service  or electronic communication 
+8information
+9Sec. 12.  16 MRSA §642, sub-§1, as amended by PL 2017, c. 144, §4, is repealed 
+10 and the following enacted in its place:
+111.  Authority to obtain.  A government entity may, only in accordance with a valid 
+12 search warrant issued by a duly authorized justice, judge or justice of the peace using 
+13 procedures established pursuant to Title 15, section 55 or 56 or as otherwise provided in 
+14 this subchapter:
+15 A.  Obtain electronic device information or electronic communication information 
+16 directly from a provider of electronic communication service or a provider of remote 
+17 computing service;
+18 B.  Compel the production of or access to electronic device information or electronic 
+19 communication information from any person other than the owner of the electronic 
+20 device; or
+21 C.  Access electronic device information or electronic communication information by 
+22 means of physical interaction or electronic communication with the electronic device.
+23Sec. 13.  16 MRSA §642, sub-§2, as amended by PL 2013, c. 519, §5, is further 
+24 amended to read:
+252.  Authority to disclose.  A provider of electronic communication service or remote 
+26 computing service may disclose portable electronic device content information or 
+27 electronic communication information to a government entity only pursuant to a warrant 
+28 issued by a duly authorized justice, judge or justice of the peace or as otherwise provided 
+29 in this subchapter.
+30Sec. 14.  16 MRSA §642, sub-§3 is enacted to read:
+313.  Construction.  This section may not be construed to prohibit the intended recipient 
+32 of electronic communication information or electronic device information from voluntarily 
+33 disclosing that information to a government entity.
+34Sec. 15.  16 MRSA §643, first ¶, as amended by PL 2019, c. 489, §7, is further 
+35 amended to read:
+36 Notice must be given to the owner or user of a portable  an electronic device whose  
+37 content  electronic communication information or electronic device information was 
+38 obtained by a government entity.  The notice requirements of this section do not apply if 
+39 the government entity is unable to identify the owner or user of a portable  an electronic 
+40 device.
+Page 3 - 131LR1832(01)1Sec. 16.  16 MRSA §643, sub-§1, as amended by PL 2019, c. 489, §8, is further 
+2 amended to read:
+31.  Timing and content of notice.  Unless the court determines under subsection 2 that 
+4 no notice is required, the government entity shall provide notice to the owner or user that 
+5 content information  electronic device information or electronic communication 
+6 information was obtained by the government entity from a provider of electronic 
+7 communication service or remote computing service within 3 days of obtaining the content 
+8 information  that information. The notice must be made by service or delivered by registered 
+9 or first-class mail, e-mail or any other means reasonably calculated to be effective as 
+10 specified by the court issuing the warrant. The notice must contain the following 
+11 information:
+12 A.  The nature of the law enforcement inquiry, with reasonable specificity;
+13 B.  The content information  electronic device information or electronic communication 
+14 information of the owner or user that was supplied to or requested by the government 
+15 entity and the date on which it was provided or requested; and
+16 C.  The identity of the provider of electronic communication service or remote 
+17 computing service from whom the information was obtained.
+18Sec. 17.  16 MRSA §643, sub-§3, as enacted by PL 2013, c. 402, §1, is amended to 
+19 read:
+203.  Preclusion of notice to owner or user subject to warrant for content  electronic 
+21device information or electronic communication information.  A government entity 
+22 acting under section 642 may include in its application for a warrant a request for an order 
+23 directing a provider of electronic communication service to which a warrant is directed not 
+24 to notify any other person of the existence of the warrant. The court may issue the order if 
+25 the court determines that there is reason to believe that notification of the existence of the 
+26 warrant will have an adverse result.
+27Sec. 18.  16 MRSA §644, sub-§1, as amended by PL 2019, c. 489, §9, is further 
+28 amended to read:
+291.  Consent of owner or user.  When disclosure of portable electronic device  content 
+30 information or electronic communication information is not prohibited by federal law, a 
+31 government entity may obtain the information without a warrant with the informed, 
+32 affirmative consent of the owner or user of the portable electronic device concerned, except 
+33 when the device is known or believed by the owner or user to be in the possession of a 3rd 
+34 party authorized to possess the device by the owner or user.
+35Sec. 19.  16 MRSA §644, sub-§2, as enacted by PL 2013, c. 402, §1, is amended to 
+36 read:
+372.  Consent of owner or user not required if content  electronic device information 
+38or electronic communication information public.  Notwithstanding subsection 1, a 
+39 government entity may obtain content  electronic device information or electronic 
+40 communication information without a warrant if  the content  that information is otherwise 
+41 disclosed by anyone in a publicly accessible domain, including, but not limited to, on the 
+42 Internet.
+Page 4 - 131LR1832(01)1Sec. 20.  16 MRSA §644, sub-§3, as amended by PL 2019, c. 489, §9, is further 
+2 amended to read:
+33.  Emergency.  When a government entity cannot, with due diligence, obtain a warrant 
+4 in time to address an emergency that involves or is believed to involve imminent danger of 
+5 death or serious physical injury to any person, a government entity may obtain the content  
+6 electronic communication information  from a portable  or electronic device  information 
+7 without a warrant, and a provider of electronic communication service or remote computing 
+8 service may disclose such information to the requesting government entity without a 
+9 warrant.
+10Sec. 21.  16 MRSA §645, as enacted by PL 2013, c. 402, §1, is amended to read:
+11§645.  Use of content  electronic device information or electronic communication 
+12information obtained in violation of this subchapter not admissible
+13 Except as proof of a violation of this subchapter, evidence obtained in violation of this 
+14 subchapter is not admissible in a criminal, civil, administrative or other proceeding.
+15SUMMARY
+16 This bill amends the provisions of law relating to portable electronic device content 
+17 information by:
+18 1. Replacing the term "portable electronic device" with the term "electronic device" 
+19 and redefining the term;
+20 2. Replacing the term "content information" with the terms "electronic communication 
+21 information" and "electronic device information";
+22 3.  Adding definitions of the terms "electronic communication" and "subscriber 
+23 information"; and
+24 4. Clarifying the circumstances in which a government entity may obtain certain 
+25 electronic communication information or access electronic device information pursuant to 
+26 a search warrant.16
+17

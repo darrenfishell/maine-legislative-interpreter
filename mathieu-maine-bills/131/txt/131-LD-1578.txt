@@ -1,0 +1,300 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1578
+H.P. 1023 House of Representatives, April 11, 2023
+An Act to Adopt an Interstate Compact to Elect the President of the 
+United States by National Popular Vote
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BELL of Yarmouth.
+Cosponsored by Representative ZAGER of Portland, Senator POULIOT of Kennebec and
+Representatives: JAUCH of Topsham, SUPICA of Bangor, Speaker TALBOT ROSS of 
+Portland, TERRY of Gorham, Senators: DAUGHTRY of Cumberland, President JACKSON of 
+Aroostook, VITELLI of Sagadahoc.
+
+Page 1 - 131LR0183(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §723-A, sub-§1, ¶A, as enacted by IB 2015, c. 3, §5, is 
+3 amended to read:
+4 A.  "Batch elimination" means the simultaneous defeat removal from consideration of 
+5 multiple candidates for whom it is mathematically impossible to be elected.
+6Sec. 2.  21-A MRSA §723-A, sub-§1, ¶C, as enacted by IB 2015, c. 3, §5, is 
+7 amended to read:
+8 C.  "Continuing candidate" means a candidate who has not been defeated  removed from 
+9 consideration.
+10Sec. 3.  21-A MRSA §723-A, sub-§2, as amended by PL 2019, c. 320, §12, is 
+11 further amended to read:
+122.  Procedures.  Except as provided in subsections 3 and , 4 and 7, the following 
+13 procedures are used to determine the winner of an election determined by ranked-choice 
+14 voting.  The ranked‑choice voting count must proceed in rounds.  In each round, the number 
+15 of votes for each continuing candidate must be counted.  Each continuing ballot counts as 
+16 one vote for its highest-ranked continuing candidate for that round.  Exhausted ballots are 
+17 not counted for any continuing candidate.  The round then ends with one of the following 
+18 2 potential outcomes.
+19 A.  If there are 2 or fewer continuing candidates, the candidate with the most votes is 
+20 declared the winner of the election.
+21 B.  If there are more than 2 continuing candidates, the last-place candidate is defeated 
+22 removed from consideration and a new round begins.
+23Sec. 4.  21-A MRSA §723-A, sub-§3, as amended by PL 2019, c. 320, §13, is 
+24 further amended to read:
+253.  Ties.  A tie under this section between last-place candidates in any round must be 
+26 decided by lot, and the candidate chosen by lot is defeated  removed from consideration.  
+27 The result of the tie resolution must be recorded and reused in the event of a recount.  A tie 
+28 between candidates for the most votes in the final round must be decided as provided in 
+29 section 732.
+30Sec. 5.  21-A MRSA §723-A, sub-§4, ¶B, as amended by PL 2019, c. 320, §14, is 
+31 further amended to read:
+32 B.  Two or more candidates may be defeated removed from consideration 
+33 simultaneously by batch elimination in any round of counting.
+34Sec. 6.  21-A MRSA §723-A, sub-§7 is enacted to read:
+357.  Procedures for using ranked-choice voting when National Popular Vote for 
+36President Act governs.  In a presidential election determined by ranked-choice voting 
+37 when the National Popular Vote for President Act governs the appointment of presidential 
+38 electors, the following procedures are used to determine the presidential vote count, except 
+39 that, notwithstanding subsection 3, a statewide tie between the candidates in the final round 
+40 may not be resolved and the provisions of subsection 4 regarding the modification of the 
+41 ballot and count are permitted.
+Page 2 - 131LR0183(01)1 A.  As used in this subsection, unless the context otherwise indicates, the following 
+2 terms have the following meanings.
+3 (1) "Continuing presidential slate" means a presidential slate that has not been 
+4 removed from consideration.
+5 (2) "Final round" means the round that ends with the result described in paragraph 
+6 C, subparagraph (1).
+7 B.  If no presidential slate initially receives more than 50% of the first-choice votes, 
+8 the ranked-choice voting count must be conducted under the supervision of the 
+9 Secretary of State for successive rounds.
+10 C.  The ranked-choice voting count must proceed in rounds. In each round, the number 
+11 of votes for each continuing candidate presidential slate must be counted. Each 
+12 continuing ballot counts as one vote for its highest-ranked continuing presidential slate 
+13 for that round.  Exhausted ballots are not counted for any continuing presidential slate.  
+14 The round then ends with one of the following 2 potential outcomes.  
+15 (1) If there are 2 or fewer continuing presidential slates, the vote counts of those 
+16 continuing presidential slates are recorded as the results of the presidential vote 
+17 counting process and no further rounds may occur.  
+18 (2) If there are more than 2 continuing presidential slates, the last-place presidential 
+19 slate is removed from consideration and a new round begins.
+20Sec. 7.  21-A MRSA §801, sub-§2, as enacted by PL 2019, c. 539, §4, is amended 
+21 to read:
+222.  Counting of ballots.  Counting of ballots for candidates for President must proceed 
+23 according to the ranked‑choice method of counting votes described in section 723‑A, with 
+24 the exception of subsection 7.  If the National Popular Vote for President Act governs the 
+25 manner of appointing presidential electors, counting of ballots must proceed according to 
+26 the ranked-choice method of counting votes as described in section 723-A, subsection 7.   
+27Sec. 8.  21-A MRSA §803, as amended by PL 2021, c. 273, §29, is repealed and the 
+28 following enacted in its place:
+29§803.  Duties of Governor
+301.  Duties.  Except when the National Popular Vote for President Act governs the 
+31 appointment of presidential electors, as soon as possible after the presidential electors are 
+32 chosen, the Governor shall send a certificate of the determination of the electors to the 
+33 Archivist of the United States under state seal. The certificate must state the names of the 
+34 electors and the number of votes each candidate for President received statewide and for 
+35 each congressional district in the final round of tabulation under section 723-A. The 
+36 Governor shall deliver 6 certificates under state seal to the electors before the day 
+37 established by federal law for the meeting of electors.
+382.  Duties when National Popular Vote for President Act governs.  Notwithstanding 
+39 subsection 1, when the National Popular Vote for President Act governs the appointment 
+40 of presidential electors, the Governor has the following duties.
+41 A.  As soon as possible after the canvass of the presidential count under section 723-A, 
+42 subsection 7 is determined, the Governor shall send a certificate of determination 
+Page 3 - 131LR0183(01)43 containing the statewide number of votes for each presidential slate that received votes 
+44 in the final round to the Archivist of the United States under state seal.  This final round 
+45 vote is deemed to be the determination of the vote in the State for the purposes of 
+46 section 1304.   
+5 As used in this paragraph, "final round" means the round that ends with the result 
+6 described in section 723-A, subsection 7, paragraph C, subparagraph (1).
+7 B.  As soon as possible after the electors are appointed as provided in the National 
+8 Popular Vote for President Act, the Governor shall send a certificate of determination 
+9 of the electors containing the names of the electors to the Archivist of the United States 
+10 under state seal.  This certificate may be included with the certificate required pursuant 
+11 to paragraph A if this certificate is available at the time the certificate required by 
+12 paragraph A is required to be issued. 
+13 C.  No later than the day before the day established by federal law for the meeting of 
+14 electors, the Governor shall deliver 6 certificates under state seal to the electors 
+15 appointed as provided in the National Popular Vote for President Act.
+16Sec. 9.  21-A MRSA §805, sub-§2, as amended by PL 2019, c. 539, §5, is further 
+17 amended to read:
+182.  Presidential electors.  The Except as provided in subsection 2-A, the presidential 
+19 electors at large shall cast their ballots for the presidential and vice-presidential candidates 
+20 who received the largest number of votes in the State according to the ranked‑choice 
+21 method of counting votes described in section 723‑A. The presidential electors of each 
+22 congressional district shall cast their ballots for the presidential and vice-presidential 
+23 candidates who received the largest number of votes in each respective congressional 
+24 district according to the ranked‑choice method of counting votes described in section 
+25 723‑A.
+26Sec. 10.  21-A MRSA §805, sub-§2-A is enacted to read:
+272-A.  Presidential electors when National Popular Vote for President Act governs.  
+28 Notwithstanding subsection 2, when the National Popular Vote for President Act governs 
+29 the appointment of presidential electors, the presidential electors shall cast their ballots for 
+30 the presidential slate designated as the national popular vote winner pursuant to section 
+31 1304.
+32Sec. 11.  21-A MRSA c. 17 is enacted to read:
+33CHAPTER 17
+34ELECTION OF THE PRESIDENT OF THE UNITED STATES BY POPULAR 
+35VOTE
+36SUBCHAPTER 1
+37INTERSTATE COMPACT: AGREEMENT AMONG THE STATES TO ELECT 
+38THE PRESIDENT OF THE UNITED STATES BY NATIONAL POPULAR VOTE1
+2
+3
+4
+Page 4 - 131LR0183(01)1§1301.  Short title
+2 This subchapter may be known and cited as the National Popular Vote for President 
+3 Act.
+4§1302.  Membership - Article 1
+5 Any state of the United States and the District of Columbia may become a member of 
+6 this agreement by enacting this agreement.
+7§1303.  Right of people in member states to vote for President and Vice President - 
+8Article 2
+9 Each member state shall conduct a statewide popular election for President and Vice 
+10 President of the United States.
+11§1304.  Manner of appointing presidential electors in member states - Article 3
+12 Prior to the time set by law for the meeting of and voting by the presidential electors, 
+13 the chief election official of each member state shall determine the number of votes for 
+14 each presidential slate in each state of the United States and in the District of Columbia in 
+15 which votes have been cast in a statewide popular election and shall add such votes together 
+16 to produce a national popular vote total for each presidential slate.
+17 The chief election official of each member state shall designate the presidential slate 
+18 with the largest national popular vote total as the national popular vote winner.
+19 The presidential elector certifying official of each member state shall certify the 
+20 appointment in that official's own state of the elector slate nominated in that state in 
+21 association with the national popular vote winner.
+22 At least 6 days before the day fixed by law for the meeting of and voting by the 
+23 presidential electors, each member state shall make a final determination of the number of 
+24 popular votes cast in the state for each presidential slate and shall communicate an official 
+25 statement of such determination within 24 hours to the chief election official of each other 
+26 member state.
+27 The chief election official of each member state shall treat as conclusive an official 
+28 statement containing the number of popular votes in a state for each presidential slate made 
+29 by the day established by federal law for making a state's final determination conclusive as 
+30 to the counting of electoral votes by Congress.
+31 In the event of a tie for the national popular vote winner, the presidential elector 
+32 certifying official of each member state shall certify the appointment of the elector slate 
+33 nominated in association with the presidential slate receiving the largest number of popular 
+34 votes within that official's own state.
+35 If, for any reason, the number of presidential electors nominated in a member state in 
+36 association with the national popular vote winner is less than or greater than that state's 
+37 number of electoral votes, the presidential candidate on the presidential slate that has been 
+38 designated as the national popular vote winner may nominate the presidential electors for 
+39 that state and that state's presidential elector certifying official shall certify the appointment 
+40 of such nominees.
+41 The chief election official of each member state shall immediately release to the public 
+42 all vote counts or statements of votes as they are determined or obtained.
+Page 5 - 131LR0183(01)1 This article governs the appointment of presidential electors in each member state in 
+2 any year in which this agreement is, on July 20th, in effect in states cumulatively possessing 
+3 a majority of the electoral votes.
+4§1305.  Contingent effective date; withdrawal; notification; severability - Article 4
+5 This agreement takes effect when states cumulatively possessing a majority of the 
+6 electoral votes have enacted this agreement in substantially the same form and the 
+7 enactments by such states have taken effect in each state.
+8 Any member state may withdraw from this agreement, except that a withdrawal 
+9 occurring 6 months or less before the end of a President's term does not become effective 
+10 until a President or Vice President has been qualified to serve the next term.
+11 The chief executive of each member state shall promptly notify the chief executive of 
+12 all other states when this agreement has been enacted and has taken effect in that official's 
+13 state, when the state has withdrawn from this agreement and when this agreement takes 
+14 effect generally.
+15 This agreement terminates if the electoral college is abolished.
+16 If any provision of this agreement is held invalid, the remaining provisions are not 
+17 affected.
+18§1306.  Definitions - Article 5
+19 As used in this agreement, the following terms have the following meanings.
+201.  Chief election official.  "Chief election official" means the state official or body 
+21 that is authorized to certify the total number of popular votes for each presidential slate.
+222.  Chief executive.  "Chief executive" means the governor of a state of the United 
+23 States or the Mayor of the District of Columbia.
+243.  Elector slate.  "Elector slate" means a slate of candidates who have been nominated 
+25 in a state for the position of presidential elector in association with a presidential slate.
+264.  Presidential elector.  "Presidential elector" means an elector for President and Vice 
+27 President of the United States.
+285.  Presidential elector certifying official.  "Presidential elector certifying official" 
+29 means the state official or body that is authorized to certify the appointment of the state's 
+30 presidential electors.
+316.  Presidential slate.  "Presidential slate" means a slate of 2 persons, the first of whom 
+32 has been nominated as a candidate for President of the United States and the 2nd of whom 
+33 has been nominated as a candidate for Vice President of the United States, or any legal 
+34 successors to such persons, regardless of whether both names appear on the ballot presented 
+35 to the voters in a particular state.
+367.  State.  "State" means a state of the United States and the District of Columbia.
+378.  Statewide popular election.  "Statewide popular election" means a general election 
+38 in which votes are cast for presidential slates by individual voters and counted on a 
+39 statewide basis.
+40§1307.  Conflicts
+Page 6 - 131LR0183(01)1 All laws in a member state in conflict with this agreement are superseded to the extent 
+2 of the conflict.
+3SUBCHAPTER 2
+4PROVISIONS REGARDING THE NATIONAL POPULAR VOTE FOR 
+5PRESIDENT ACT
+6§1310.  Duty of Secretary of State to provide notice of effect and discontinuation of 
+7National Popular Vote for President Act
+8 Upon receipt of notice that the states participating in the interstate compact to elect the 
+9 President of the United States described in subchapter 1 hold a majority of the total electoral 
+10 votes, the Secretary of State immediately shall inform the Governor, the President of the 
+11 Senate, the Speaker of the House of Representatives, the Secretary of the Senate, the Clerk 
+12 of the House of Representatives and the Revisor of Statutes that the National Popular Vote 
+13 for President Act governs the appointment of presidential electors.
+14 If the Secretary of State is subsequently notified or learns that the National Popular 
+15 Vote for President Act does not govern the appointment of presidential electors due to the 
+16 number of electoral votes held by the states participating in the interstate compact to elect 
+17 the President of the United States being less than a majority of the total electoral votes, the 
+18 Secretary of State shall immediately inform the Governor, the President of the Senate, the 
+19 Speaker of the House of Representatives, the Secretary of the Senate, the Clerk of the 
+20 House of Representatives and the Revisor of Statutes of that fact.
+21Sec. 12.  Legislative intent.  The text and numbering of the Interstate Compact:  
+22 Agreement Among the States to Elect the President of the United States by National 
+23 Popular Vote have been changed to conform to Maine statutory conventions.  The changes 
+24 are technical in nature, and it is the intent of the Legislature that this Act be interpreted as 
+25 substantively the same as the original interstate compact.
+26SUMMARY
+27 This bill adopts the Interstate Compact: Agreement Among the States to Elect the 
+28 President of the United States by National Popular Vote, referred to as the National Popular 
+29 Vote for President Act.   Under the compact, all of a participating state's electoral votes are 
+30 awarded to the presidential slate that receives the most popular votes in all 50 states and 
+31 the District of Columbia.  Since the compact takes effect only when the number of electoral 
+32 votes held by the participating states equals a majority of the overall total number of 
+33 electoral votes, currently at least 270 of the 538 electoral votes, the presidential slate that 
+34 receives the most popular votes is declared the winning slate.
+35 The bill also adjusts the use of ranked-choice voting to determine the electors in this 
+36 State when the National Popular Vote for President Act governs the appointment of 
+37 electors.  Under the bill, if no presidential slate receives a majority of the initial votes cast 
+38 for president in the State, the count is determined by ranked-choice voting under the 
+39 supervision of the Secretary of State.  Only the vote counts of the 2 slates in the final round 
+40 of ranked-choice voting are forwarded by the Governor to the Archivist of the United States 
+41 for determination of the national popular vote count.27
+28
+29
+30
+31
+32
+33
+34
+Page 7 - 131LR0183(01)1 To clarify the process under ranked-choice voting regarding candidates, the bill 
+2 replaces the word "defeated" with the term "removed from consideration."
+3 The National Popular Vote for President Act is only in effect when the number of 
+4 electoral votes held by the participating states equals a majority of the overall total number 
+5 of electoral votes, so that if that number falls below a majority, due to a state withdrawing 
+6 as a member of the compact, the National Popular Vote for President Act will not govern 
+7 subsequent presidential elections.  The Secretary of State is required to provide notice of 
+8 both when the Act is in effect and when it has been discontinued.

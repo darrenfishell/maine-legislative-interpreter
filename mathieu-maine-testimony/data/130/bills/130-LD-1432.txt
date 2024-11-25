@@ -1,0 +1,212 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1432
+H.P. 1048 House of  Representatives,  April 12, 2021
+An Act  To Update the Municipal Gigabit Broadband Network  
+Access Fund
+Received by the Clerk of the House on April  8, 2021.  Referred to  the Committee  on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BERRY of Bowdoinham.
+Cosponsored by Senator WOODSOME of York.
+
+Page 1 - 130LR1883(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §9204-A, sub-§7, as amended by PL 2019, c. 625, §8, is 
+3 further amended to read:
+47.  Administer funds.  The authority shall administer the ConnectMaine Fund as 
+5 established pursuant to section 9211 and the Municipal Gigabit Broadband Network Access 
+6 Fund established pursuant to section 9211-A.
+7Sec. 2.  35-A MRSA §9204-A, sub-§8, as enacted by PL 2015, c. 284, §7, is 
+8 amended to read:
+98.  Limitations on activities of the authority.  The Except as provided in section 
+10 9211-A, the authority may not develop, acquire, fund, coordinate or otherwise undertake 
+11 any project or make any grant, direct investment or loan under this chapter unless the 
+12 authority determines that without the authority's action the installation of adequate 
+13 advanced communications technology infrastructure in an unserved or underserved area 
+14 would not occur within the same time period.  When providing grants, direct investment or 
+15 loans for broadband infrastructure investments, the authority shall give preference to those 
+16 investments that provide the greatest relative improvement to existing broadband service 
+17 in an unserved or underserved area.  Notwithstanding any other provision of this chapter, 
+18 the authority may not provide any wireline, wireless, satellite, voice, data or video service 
+19 at retail or wholesale.
+20Sec. 3.  35-A MRSA §9211-A, as amended by PL 2019, c. 343, Pt. QQ, §§5 and 6, 
+21 is further amended to read:
+22§9211-A.  Municipal Gigabit Broadband Network Access Fund
+231.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+24 following terms have the following meanings.
+25 A.  "Applicant" means a community, regional partnership or municipality  or group of 
+26 municipalities that applies apply for a grant under this section.
+27 B.  "Community" means a municipality with a population of at least 1,200 people, as 
+28 determined by the authority in accordance with the United States Census data, or a 
+29 municipality that has received a waiver from this population requirement from the 
+30 authority upon a determination that the municipality is in an unserved or underserved 
+31 area.
+32 C.  "Fund" means the Municipal Gigabit Broadband Network Access Fund established 
+33 in this section.
+34 D.  "Regional partnership" means 2 or more municipalities that do not, on their own, 
+35 meet the requirements of paragraph B and have joined together with one or more 
+36 contiguous municipalities in the region to achieve the population requirements of 
+37 paragraph B.
+38 E.  "Gigabit fiber-optic broadband network" means a network of fiber-optic cable 
+39 capable of offering upload and download speeds of at least one gigabit per second.
+40 F.  "Open-access network" means an Internet network that is neutral and independent, 
+41 is available to any Internet service provider based on standardized and transparent 
+Page 2 - 130LR1883(01)42 pricing and does not compete with Internet service providers to offer retail service of 
+43 any kind.
+3 G.  "Symmetrical high-speed Internet" means retail Internet service that meets 
+4 minimum standards defined by the authority, which, until 2025, must include at least 
+5 100 megabits per second upload and download speeds.  Beginning in 2025, the 
+6 standards must be defined annually by the authority and include upload and download 
+7 speeds that are at least equal to or better than the minimum speeds available to residents 
+8 of the majority of urban census blocks in the United States.
+92.  Fund established.  The Municipal Gigabit Broadband Network Access Fund is 
+10 established as a nonlapsing, revolving fund administered by the authority for the purposes 
+11 of supporting the activities and projects of the authority under this section.  All money in 
+12 the fund must be continuously applied by the authority to carry out this section.  The 
+13 authority may receive and deposit in the fund funds from the following sources:
+14 A.  Federal funds and awards that may be used for the purposes of this section;
+15 B.  The proceeds of bonds issued for the purposes of this section; and
+16 C.  Any other funds from public or private sources received in support of the purposes 
+17 for which the fund is established.
+183.  Purpose of the fund.  The fund is established to address the need in the State for 
+19 access to ultra high-speed broadband infrastructure that will enhance the State's 
+20 competitiveness in national and international economies.  To the extent funds are available, 
+21 the fund must be used to provide grants to communities, regional partnerships and 
+22 municipalities to support public-private partnerships to support a municipal gigabit fiber-
+23 optic broadband network in their regions with the following goals:
+24 A.  Provide high-speed broadband access to attract, create and grow the State's 
+25 economy and market the products and services of businesses in the State in national 
+26 and international markets with ultra high-speed symmetric connectivity and address 
+27 challenges in geography;
+28 B.  Provide expanded health care services by facilitating access to telemedicine, as 
+29 defined in Title 24‑A, section 4316, subsection 1, and state and local services for senior 
+30 citizens and persons with disabilities;
+31 C.  Expand educational opportunities for students across the State through virtual and 
+32 distance learning;
+33 D.  Facilitate broader access for the public to services provided by municipal and 
+34 county governments, including, but not limited to, law enforcement entities, the 
+35 judicial system and child, youth and family social services; and
+36 E.  Provide expanded residential services to support employment opportunities.
+37 In order to facilitate the achievement of the goals and policies of this section, the authority 
+38 shall establish and regularly update, after opportunity for public comment and taking into 
+39 consideration relevant federal policies, definitions of "gigabit fiber-optic broadband 
+40 network" and "ultra high-speed broadband infrastructure."1
+2
+Page 3 - 130LR1883(01)14.  Implementation grants; maximum awards.  To the extent funds are available, the 
+2 authority shall award implementation grants to achieve the purpose of the fund as described 
+3 in subsection 3 as follows.
+4 A.  An implementation grant to an applicant may not exceed $200,000 for each eligible 
+5 project selected for funding.
+6 B.  An implementation grant may be awarded only to an applicant that has 
+7 demonstrated to the satisfaction of the authority that it has a viable plan identical or 
+8 similar to one created in accordance with subsections 5, 6 and 7.
+9 C.  Municipalities An applicant selected for funding must be required to provide a 25% 
+10 cash match.
+11 D.  ConnectMaine funds may not be used to fund more than 50% of the total cost of a 
+12 project.
+13 E.  An applicant must demonstrate either that no more than one Internet service 
+14 provider already offers symmetrical high-speed Internet to a majority of the premises 
+15 to be served or that the grant will be used to construct or expand an open-access 
+16 network.
+175.  Planning grants; requirements for applicants.  In order to assist applicants with 
+18 completion of the planning process necessary to achieve the goals of this section, to the 
+19 extent funds are available, the authority shall may award planning grants of up to $20,000 
+20 for community applicants and up to $25,000 for regional partnerships and municipalities, 
+21 which require a cash match  applicants that meet the cash match and other application 
+22 requirements for the award of planning grants, as established by the authority.  The 
+23 authority shall establish application requirements for planning grants for community and 
+24 regional applicants that require an applicant to demonstrate to the satisfaction of the 
+25 authority participation with public and private institutions and local businesses in the 
+26 development of the grant process.  Municipal applicants must provide the authority with 
+27 the following information:
+28 A.  A plan that identifies how the municipality will use ultra high-speed broadband 
+29 access to fulfill the economic goals of the municipality;
+30 B.  A written commitment to nondiscriminatory open access to the broadband 
+31 infrastructure by all parties involved in the grant;
+32 C.  A written summary of public forums used to gather information from the public in 
+33 establishing the goals for the grant that serve the goals of this section;
+34 D.  Information gathered from local public and private institutions that identifies how 
+35 the broadband services will expand access to state and local services identified under 
+36 subsection 3; and
+37 E.  A summary of input received from the business community to identify the services 
+38 that will be used in planning the implementation grant application.
+396.  Planning grant report requirements.  An applicant awarded a planning grant 
+40 under subsection 5 must provide to the authority, at a minimum:
+41 A.  Identification of the local broadband needs and goals;
+Page 4 - 130LR1883(01)1 B.  An inventory of existing broadband infrastructure assets within the municipality, 
+2 municipalities or region;
+3 C.  The results of a gap analysis that defines the additional broadband infrastructure 
+4 necessary to meet identified needs and goals;
+5 D.  One or more potential network designs, cost estimates, operating models and 
+6 potential business models, based on input from broadband providers operating within 
+7 the municipality, municipalities or region and any other parties that submit a network 
+8 design solution, to address any broadband gaps identified in the analysis described in 
+9 paragraph C; and
+10 E.  An assessment of all existing municipal procedures, policies, rules and ordinances 
+11 that may have the effect of delaying or increasing the cost of broadband infrastructure 
+12 deployment.
+137.  Cash match for planning grants; restrictions.  The cash match required from the 
+14 applicant for a planning grant under subsection 5 may consist of municipal appropriations, 
+15 private funds, funding from economic development entities and funding from nonprofit 
+16 entities.
+178.  Technical assistance; contract for services.  The authority may provide technical 
+18 assistance to applicants that request assistance with the grant application process.  The 
+19 authority may contract for services to assist in the administration, management and 
+20 evaluation of the fund.
+219.  Rules; application procedure.  The authority shall adopt rules to implement this 
+22 section, including rules governing the application process for the fund.  Rules adopted 
+23 under this subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 
+24 2-A.
+2510.  Report.  Beginning December 15, 2016, the authority shall provide an annual 
+26 report to the joint standing committee of the Legislature having jurisdiction over energy 
+27 and utility matters on the grants distributed from the fund and an analysis of the fund's 
+28 activities that have addressed the need for expansion of ultra high-speed broadband access 
+29 in the State.
+30SUMMARY
+31 This bill amends the Municipal Gigabit Broadband Network Access Fund, which is a 
+32 fund administered by the ConnectMaine Authority to address the need in Maine to access 
+33 ultra high-speed broadband infrastructure through the provision of grants to communities, 
+34 regional partnerships and municipalities to support a municipal gigabit fiber-optic 
+35 broadband network.  This bill makes the following changes to the fund:
+36 1.  It limits the grants to a municipality or group of municipalities;
+37 2.  It provides definitions of "gigabit fiber-optic network," "symmetrical high-speed 
+38 Internet" and "open-access network" and requires the authority, beginning in 2025, to 
+39 establish minimum upload and download speeds for a symmetrical high-speed Internet at 
+40 least equal to the minimum upload and download speeds available to a majority of urban 
+41 census blocks in the United States;31
+32
+33
+34
+35
+Page 5 - 130LR1883(01)1 3.  It removes the cap on the amount of the grant, but limits the amount of 
+2 ConnectMaine funds that may be used to 50% of the total cost of a project; 
+3 4.  It maintains the requirement that a municipality provide at least a 25% cash match 
+4 but provides that the cash match may not consist of funds from a source other than the 
+5 municipality; and
+6 5.  It removes specific reporting requirements for applicants, instead requiring them to 
+7 meet application requirements established by the authority.

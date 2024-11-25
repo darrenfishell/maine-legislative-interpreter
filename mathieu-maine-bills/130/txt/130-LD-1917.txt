@@ -1,0 +1,633 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1917
+H.P. 1423 House of Representatives, January 12, 2022
+An Act To Amend the Tax Laws of the State
+Submitted by the Department of Administrative and Financial Services pursuant to Joint 
+Rule 203.
+Received by the Clerk of the House on January 10, 2022.  Referred to the Committee on 
+Taxation pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative TERRY of Gorham.
+
+Page 1 - 130LR2203(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  36 MRSA §2519, as amended by PL 2021, c. 181, Pt. A, §4, is further 
+4 amended to read:
+5§2519.  Ratio of tax on foreign insurance companies
+6 An insurance company incorporated in the District of Columbia, a state or possession 
+7 of the United States or province of Canada whose laws impose upon insurance companies 
+8 chartered by this State a greater tax than is provided in this chapter shall pay the same tax 
+9 upon business done by it in this State, in place of the tax provided in any other section of 
+10 this chapter.  If the insurance company fails to pay the tax as provided in section 2521‑A, 
+11 the assessor shall certify that failure to the Superintendent of Insurance, who shall suspend 
+12 the insurance company's right to do business in this State.  For purposes of this section, an 
+13 insurance company incorporated by another country is deemed to be incorporated by the 
+14 state, district or possession of the United States where it has elected to make its deposit and 
+15 establish its principal agency in the United States.  For nonadmitted insurance premiums 
+16 subject to section 2531, the rate applied pursuant to this section must be the highest rate 
+17 that the state, district, possession or province applies to nonadmitted insurance premiums 
+18 taxed in that state, district or possession or province.
+19Sec. A-2.  36 MRSA §2531, sub-§2, as repealed and replaced by PL 2011, c. 548, 
+20 §19 and affected by §36, is amended to read:
+212.  Rate and incidence of tax.  Except as otherwise provided in section 2519 or 2532, 
+22 the rate of taxation is 3% of the on premiums subject to tax under this section  is the greater 
+23 of 3% and the highest rate of taxation that applies to nonadmitted insurance premiums in 
+24 the state, district or possession of the United States or province of Canada in which the 
+25 insurer is incorporated.  For all coverage placed in accordance with Title 24-A, chapter 19, 
+26 the tax must be paid by the surplus lines producer.  For all other nonadmitted insurance, 
+27 the tax must be paid by the insured.
+28Sec. A-3.  36 MRSA §5255-B, as amended by PL 1999, c. 414, §53, is further 
+29 amended to read:
+30§5255-B.  Certain items of income under the United States Internal Revenue Code
+31 Any A person maintaining an office or transacting business within this State  and who  
+32 that is required to deduct and withhold a tax on items of income under the Code, other than 
+33 wages subject to withholding as provided in section 5250 or , sales of real estate subject to 
+34 withholding as provided in section 5250-A or gambling winnings subject to withholding as 
+35 provided in section 5255-C, shall deduct and withhold from such items , to the extent they 
+36 constitute income that is not excluded from taxation under Maine law, a tax equal to 5% of 
+37 the income, unless withholding pursuant to the Code is based on other than a flat rate 
+38 amount.  In that event, the State's withholding procedure should must estimate taxable 
+39 income using the same approach to exemptions as the Code and the amount of tax to be 
+40 withheld should must be calculated in accordance with withholding methods prescribed 
+41 pursuant to section 5250.
+42Sec. A-4.  36 MRSA §5255-C is enacted to read:
+Page 2 - 130LR2203(01)1§5255-C.  Withholding on certain gambling winnings
+2 A person maintaining an office or transacting business within this State that is required 
+3 to deduct and withhold a tax on items of income under the Code, Section 3402(q) shall 
+4 deduct and withhold from such items, to the extent they constitute income that is not 
+5 excluded from taxation under Maine law, a tax equal to those winnings multiplied by the 
+6 highest marginal tax rate under section 5111 applicable to the tax year during which the 
+7 winnings are paid plus any other tax applicable to the winnings under this Part.
+8Sec. A-5. Application. Those sections of this Part that amend the Maine Revised 
+9 Statutes, Title 36, section 2519 and section 2531, subsection 2 apply to tax periods 
+10 beginning on or after January 1, 2023. 
+11PART B
+12Sec. B-1.  36 MRSA §208, as repealed and replaced by PL 2019, c. 607, Pt. A, §4, 
+13 is amended to read:
+14§208.  Equalization
+15 The State Tax Assessor has the duty of equalizing the state and county taxes among all 
+16 municipalities and the unorganized territory.  The State Tax Assessor shall equalize and 
+17 adjust the assessment list of each municipality by adding to or deducting from it such 
+18 amount as will make it equal to its just value as of April 1st.  Notice of the proposed 
+19 valuations of municipalities within each county must be sent annually to the municipal 
+20 officers of each municipality within that county on or before the first day of October.  The 
+21 valuation so determined is subject to review by the State Board of Property Tax Review 
+22 pursuant to subchapter 2‑A, but the valuation finally certified to the Secretary of State 
+23 pursuant to section 381 must be used for all computations required by law to be based upon 
+24 the state valuation with respect to municipalities. A municipality shall provide to the State 
+25 Tax Assessor, upon request, such information as may be necessary for the State Tax 
+26 Assessor to carry out the purposes of this section.
+27Sec. B-2.  36 MRSA §652, sub-§1, ¶A, as amended by PL 2007, c. 627, §20, is 
+28 further amended to read:
+29 A.  The real estate and personal property owned and occupied or used solely for their 
+30 own purposes by incorporated benevolent and charitable institutions incorporated by 
+31 this State are exempt from taxation.  Such an institution may not be deprived of the 
+32 right of exemption by reason of the source from which its funds are derived or by 
+33 reason of limitation in the classes of persons for whose benefit the funds are applied.
+34 For the purposes of this paragraph, "benevolent and charitable institutions" includes, 
+35 but is not limited to, nonprofit nursing homes licensed by the Department of Health 
+36 and Human Services pursuant to Title 22, chapter 405, nonprofit residential care 
+37 facilities licensed by the Department of Health and Human Services pursuant to Title 
+38 22, chapter 1663, nonprofit community mental health service facilities licensed by the 
+39 Commissioner of Health and Human Services in accordance with rules adopted 
+40 pursuant to Title 34-B, chapter 3 and nonprofit child care centers incorporated by this 
+41 State as benevolent and charitable institutions.  For the purposes of this paragraph, 
+42 "nonprofit" refers to an institution that has been determined by the United States 
+43 Internal Revenue Service to be exempt from taxation under Section 501(c)(3) of the 
+44 Code.
+Page 3 - 130LR2203(01)1Sec. B-3.  36 MRSA §706-A, sub-§1, as enacted by PL 2017, c. 367, §5, is amended 
+2 to read:
+31.  Taxpayers to list property; inquiries.  Before making an assessment, the assessor 
+4 or assessors, chief assessor of a primary assessing area or State Tax Assessor in the case of 
+5 the unorganized territory may give  seasonable  timely notice in writing to all persons liable 
+6 to taxation or qualifying for an exemption pursuant to subchapter 4‑C in the municipality, 
+7 the primary assessing area or the unorganized territory subject to full or partial 
+8 reimbursement by the State to furnish to the assessor or assessors, chief assessor or State 
+9 Tax Assessor true and perfect lists of all the property the taxpayer possessed on the first 
+10 day of April of the same year and may at the time of the notice or thereafter require the 
+11 taxpayer to answer in writing all proper inquiries as to the nature, situation and value of the 
+12 taxpayer's property liable to be taxed in the State or subject to an exemption  pursuant to 
+13 subchapter 4‑C  subject to full or partial reimbursement by the State.  The list and answers 
+14 are not conclusive upon the assessor or assessors, chief assessor or State Tax Assessor.
+15 As may be reasonably necessary to ascertain the value of property according to the income 
+16 approach to value pursuant to the requirements of section 208‑A or generally accepted 
+17 assessing practices, these inquiries may seek information about income and expense, 
+18 manufacturing or operational efficiencies, manufactured or generated sales price trends or 
+19 other related information.
+20 A taxpayer has 30 days from receipt of a request for a true and perfect list or of proper 
+21 inquiries to respond to the request or inquiries.  Upon written request to the assessor or 
+22 assessors, chief assessor of a primary assessing area or State Tax Assessor in the case of 
+23 the unorganized territory, a taxpayer is entitled to a 30-day extension to respond to the 
+24 request for a true and perfect list or proper inquiries, and the assessor may at any time grant 
+25 additional extensions upon written request.  Information provided by the taxpayer in 
+26 response to an inquiry that is proprietary information, and is clearly labeled by the taxpayer 
+27 as proprietary and confidential information, is confidential and is not a public record for 
+28 purposes of Title 1, chapter 13.
+29 A notice to or inquiry of a taxpayer made under this section may be by mail directed to the 
+30 last known address of the taxpayer or by any other method that provides reasonable notice 
+31 to the taxpayer.
+32 If notice is given by mail and the taxpayer does not furnish the list and answers to all proper 
+33 inquiries, the taxpayer may not apply to the assessor or assessors, chief assessor of a 
+34 primary assessing area or State Tax Assessor in the case of the unorganized territory for an 
+35 abatement or appeal an application for abatement of those taxes unless the taxpayer 
+36 furnishes the list and answers with the application and satisfies the assessing authority or 
+37 authority to whom an appeal is made that the taxpayer was unable to furnish the list and 
+38 answers in the time required.  The list and answers are not conclusive upon the assessor or 
+39 assessors, chief assessor or State Tax Assessor.
+40 If the assessor or assessors, chief assessor of a primary assessing area or State Tax Assessor 
+41 in the case of the unorganized territory fails to give notice by mail, the taxpayer is not 
+42 prohibited from applying for an abatement; however, upon demand, the taxpayer shall 
+43 furnish the list and answer in writing all proper inquiries as to the nature, situation and 
+44 value of the taxpayer's property liable to be taxed in the State. A taxpayer's refusal or 
+Page 4 - 130LR2203(01)45 neglect to answer the inquiries bars an appeal, but the list and answers are not conclusive 
+46 upon the assessor or assessors, chief assessor or State Tax Assessor.
+3 The assessor or assessors, chief assessor of a primary assessing area or State Tax Assessor 
+4 in the case of the unorganized territory may require the person furnishing the list and 
+5 answers to all proper inquiries to subscribe under oath to the truth of the list and answers.
+6Sec. B-4.  36 MRSA §1483, sub-§7, as amended by PL 2009, c. 434, §20, is further 
+7 amended to read:
+87.  Benevolent and charitable institutions.  Vehicles owned and used solely for their 
+9 own purposes by benevolent and charitable institutions that are incorporated by this State 
+10 and entitled to exemption from property tax under section 652, subsection 1;
+11Sec. B-5.  36 MRSA §6234, as enacted by PL 2021, c. 69, §1, is amended to read:
+12§6234.  Municipal authority; veterans
+13 The legislative body of a municipality may by ordinance adopt a program to provide 
+14 benefits to veterans with homesteads owning or renting a permanent residence in the 
+15 municipality.
+161.  Definitions.  For the purposes of this section, the following terms have the following 
+17 meanings.
+18 A.  "Homestead" has the same meaning as in section 681, subsection 2.
+19 A-1.  "Permanent residence" has the same meaning as in section 681, subsection 3.
+20 B.  "Veteran" has the same meaning as in section 653, subsection 1, paragraph E and 
+21 includes any family members eligible for an exemption under that subsection.
+222.  Conditions of program.  A program adopted under this section must:
+23 A.  Require that the claimant has maintained a homestead permanent residence in the 
+24 municipality for a certain period of time, as determined by the municipality;
+25 B.  Provide benefits for both owners and renters of homesteads  permanent residences; 
+26 and
+27 C.  Calculate benefits in a way that provides that:
+28 (1)  If the claimant is the owner of the property, the benefit is equal to the difference 
+29 between the reduction in property tax due to the exemptions provided in section 
+30 653 and the amount of property tax reduction that would have applied if the 
+31 assessed value of the property was the same as the just value; and
+32 (2)  If the claimant is a renter, the benefit is equal to $100.
+333.  Repeal of program.  A municipality that has adopted a program under this section 
+34 may repeal it through the same procedure by which the program was adopted.
+35Sec. B-6.  36 MRSA §6251, sub-§6, as amended by PL 2021, c. 483, Pt. AA, §6, 
+36 is further amended to read:
+376.  Appeal.  A taxpayer aggrieved by the denial of a claim for deferral of homestead 
+38 property taxes or disqualification from deferral of homestead property taxes may file an 
+39 appeal of the State Tax Assessor's determination, within 30 days of notification of denial 
+40 or disqualification by the State Tax Assessor, with the State Board of Property Tax Review 1
+2
+Page 5 - 130LR2203(01)41 as provided in chapter 101, subchapter 2-A.  When the State Tax Assessor disagrees with 
+42 the municipal valuation of a property subject to deferral, the abatement and appeals process 
+43 under chapter 105, subchapter 8 applies.
+4PART C
+5Sec. C-1.  36 MRSA §501, sub-§1-A is enacted to read:
+61-A.  Current use program.  "Current use program" means the:
+7 A.  Maine Tree Growth Tax Law established in subchapter 2-A;
+8 B.  Farm and open space tax law established in subchapter 10; and
+9 C.  Current use valuation of certain working waterfront land tax law established in 
+10 subchapter 10-A.
+11Sec. C-2.  36 MRSA §578, sub-§1, as amended by PL 2021, c. 398, Pt. J, §1, is 
+12 further amended by amending the first blocked paragraph to read:
+13 The State Tax Assessor shall determine annually the amount of acreage in each 
+14 municipality that is classified and taxed in accordance with this subchapter.  Each 
+15 municipality is entitled to annual payments distributed in accordance with this section from 
+16 money appropriated by the Legislature if it submits a completed annual return in 
+17 accordance with section 383.  The State Tax Assessor shall pay any municipal claim found 
+18 to be in satisfactory form by October 15th of the year following the submission of the 
+19 annual return.  The total municipal reimbursement appropriation is calculated on the basis 
+20 of 90% of the tax lost as a result of this subchapter.  For purposes of this section, "classified 
+21 forest lands" means forest lands classified pursuant to this subchapter as well as all areas 
+22 identified as forested land within farmland parcels that are transferred from tree growth 
+23 classification pursuant to section 1112 on or after October 1, 2011. For the purposes of this 
+24 section, "tax lost" means the tax that would have been assessed, but for this subchapter, on 
+25 the classified forest lands if they were assessed according to the current regional per acre 
+26 undeveloped land value as determined for state valuation purposes, or according to the 
+27 current local per acre undeveloped land value as determined for state valuation purposes, 
+28 whichever is less, minus the tax that was actually assessed on the same lands in accordance 
+29 with this subchapter, and adjusted for the aggregate municipal savings in required 
+30 educational costs attributable to the reduction in state valuation as a result of this 
+31 subchapter.  A municipality that fails to achieve the minimum assessment ratio established 
+32 in section 327 loses 10% of the reimbursement provided by this section for each one 
+33 percentage point the minimum assessment ratio falls below the ratio established in section 
+34 327.
+35Sec. C-3.  36 MRSA §578, sub-§1, ¶C, as amended by PL 2021, c. 398, Pt. J, §1, 
+36 is further amended by amending subparagraph (2), division (a) to read:
+37 (a)  Classified under the laws governing a current use  valuation set forth in 
+38 chapter 105, subchapter 2‑A, 10 or 10-A  program;
+39Sec. C-4.  36 MRSA §581, sub-§1-A, as amended by PL 2011, c. 618, §4, is further 
+40 amended to read:
+411-A.  Notice of compliance.  No earlier than 185 days prior to a deadline established 
+42 by section 574‑B, if the landowner owner has not yet complied with the requirements of 1
+2
+3
+Page 6 - 130LR2203(01)43 that section, the assessor must provide the landowner owner with written notice by certified 
+44 mail informing the landowner owner of the statutory requirements that need to be met to 
+45 comply with section 574‑B and the date of the deadline for compliance or by which the 
+46 parcel may be transferred to open space classification pursuant to subchapter 10  another 
+47 current use program.  The notice must also state that if the owner fails to meet the deadline 
+48 for complying with section 574‑B or transferring the parcel to open space classification  
+49 another current use program, a supplemental assessment of $500 will be assessed and that 
+50 continued noncompliance will lead to a subsequent supplemental assessment of $500.  If 
+51 the notice is issued less than 120 days before the deadline, the owner has 120 days from 
+52 the date of the notice to provide the assessor with the documentation to achieve compliance 
+53 with section 574‑B or transfer the parcel to open space classification  another current use 
+54 program, and the notice must specify the date by which the owner must comply.
+13 If the landowner owner fails to provide the assessor with the documentation to achieve 
+14 compliance with section 574‑B or transfer the parcel to open space classification pursuant 
+15 to subchapter 10 another current use program by the deadline specified in the notice, the 
+16 assessor shall impose a $500 penalty to be assessed and collected as a supplemental 
+17 assessment in accordance with section 713‑B.  The assessor shall send notification of the 
+18 supplemental assessment by certified mail and notify the landowner owner that, no later 
+19 than 6 months from the date of the 2nd notice, the landowner owner must comply with the 
+20 requirements of section 574‑B or transfer the parcel to open space classification pursuant 
+21 to subchapter 10 another current use program and that failure to comply will result in an 
+22 additional supplemental assessment of $500 and the landowner owner will have an 
+23 additional 6-month period in which to comply with these requirements before the 
+24 withdrawal of the parcel and the assessment of substantial financial penalties against the 
+25 landowner  owner.
+26 At the expiration of 6 months, if the landowner owner has not complied with section 574‑B 
+27 or transferred the parcel to open space classification under subchapter 10  another current 
+28 use program, the assessor shall assess an additional $500 supplemental assessment.  The 
+29 assessor shall send notification of the 2nd supplemental assessment by certified mail and 
+30 notify the landowner owner that, no later than 6 months from the date of the notice, the 
+31 landowner owner must comply with the requirements of section 574‑B or transfer the parcel 
+32 to open space classification pursuant to subchapter 10 another current use program or the 
+33 land will be withdrawn from the tree growth tax program  taxation under this subchapter.
+34 If the landowner owner has not complied within 6 months from the date of the 2nd 
+35 supplemental assessment, the assessor shall remove the parcel from taxation under this 
+36 subchapter and assess a penalty for the parcel's withdrawal pursuant to subsection 3.
+37 This subsection does not limit the assessor from issuing other notices or compliance 
+38 reminders to property owners at any time in addition to the notice required by this 
+39 subsection.
+40Sec. C-5.  36 MRSA §581, sub-§3, as repealed and replaced by PL 2007, c. 627, 
+41 §16, is amended to read:
+423.  Penalty.  If land is withdrawn from taxation under this subchapter, the assessor shall 
+43 impose a penalty upon the owner. The penalty is the greater of:
+44 A.  An amount equal to the taxes that would have been assessed on the land on the first 
+45 day of April for the 5 tax years, or any lesser number of tax years starting with the year 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Page 7 - 130LR2203(01)46 in which the land was first classified, preceding the withdrawal had that land been 
+47 assessed in each of those years at its just value on the date of withdrawal. That amount 
+48 must be reduced by less all taxes paid on that land over the preceding 5 years, or any 
+49 lesser number of tax years starting with the year in which the land was first classified, 
+50 and increased by interest at the prevailing municipal rate from the date or dates on 
+51 which those amounts would have been payable; and
+7 B.  An amount computed by multiplying the amount, if any, by which the just value of 
+8 the land on the date of withdrawal exceeds the 100% valuation of the land pursuant to 
+9 this subchapter on the preceding April 1st by the following rates.
+10 (1)  If the land was subject to valuation under this subchapter for 10 years or less 
+11 fewer prior to the date of withdrawal, the rate is 30%.
+12 (2)  If the land was subject to valuation under this subchapter for more than 10 
+13 years prior to the date of withdrawal, the rate is that percentage obtained by 
+14 subtracting 1% from 30% reduced by one percentage point for each full year 
+15 beyond 10 years that the land was subject to valuation under this subchapter prior 
+16 to the date of withdrawal, except that the minimum rate is 20%.
+17 For purposes of this subsection, just value at the time of withdrawal is the assessed just 
+18 value of comparable property in the municipality adjusted by the municipality's certified 
+19 assessment ratio.
+20Sec. C-6.  36 MRSA §581, sub-§4, as repealed and replaced by PL 2007, c. 627, 
+21 §16, is amended to read:
+224.  Assessment and collection of penalties.  The owner shall pay the penalties for 
+23 withdrawal under this section must be paid upon withdrawal to the tax collector as 
+24 additional property taxes. Penalties may be assessed and collected as supplemental 
+25 assessments in accordance with section 713‑B.
+26Sec. C-7.  36 MRSA §581, sub-§5, as repealed and replaced by PL 2007, c. 627, 
+27 §16, is amended to read:
+285.  Eminent domain.  A penalty may not be assessed under this section for a if the 
+29 withdrawal of the parcel is occasioned by a transfer to  an the State or other entity holding 
+30 the power of eminent domain if the transfer results resulting from the exercise or threatened 
+31 exercise of that power.
+32Sec. C-8.  36 MRSA §581, sub-§6, as repealed and replaced by PL 2007, c. 627, 
+33 §16, is amended to read:
+346.  Relief from requirements.  Upon withdrawal under this section, the land is relieved 
+35 of the requirements of this subchapter immediately and is returned to taxation under chapter 
+36 105, subchapter 2 beginning the following April 1st  following withdrawal.
+37Sec. C-9.  36 MRSA §581, sub-§7, as repealed and replaced by PL 2007, c. 627, 
+38 §16, is amended to read:
+397.  Reclassification as farmland or open space land  under other current use 
+40program.  A penalty may not be assessed upon the withdrawal of land from taxation under 
+41 this subchapter if the owner applies for classification of that land as farmland or open space 
+42 land under subchapter 10 in another current use program prior to withdrawal and that 1
+2
+3
+4
+5
+6
+Page 8 - 130LR2203(01)43 application is accepted. If a penalty is later assessed under section 1112  1112-C or 1138, 
+44 the period of time that the land was taxed as forest land under this subchapter is included 
+45 for purposes of establishing the amount of the penalty.
+4Sec. C-10.  36 MRSA §713-B, as enacted by PL 1993, c. 452, §6, is amended to 
+5 read:
+6§713-B.  Penalties assessed as supplemental assessments
+7 Penalties imposed under section 581 or 1112 , 1112-C or 1138 may be assessed as 
+8 supplemental assessments pursuant to section 713 regardless of the number of years 
+9 applicable in determining the penalty.
+10Sec. C-11.  36 MRSA §1109, sub-§5, as repealed and replaced by PL 2007, c. 438, 
+11 §28, is amended by amending the first blocked paragraph to read:
+12 If the owner fails to report to the assessor as required by this subsection, the assessor shall 
+13 assess those taxes that should have been required to be paid, shall assess the penalty 
+14 provided in section 1112  1112-C and shall assess an additional penalty equal to 25% of the 
+15 penalty provided in section 1112  1112-C.  The assessor may waive the additional penalty 
+16 for cause.
+17Sec. C-12.  36 MRSA §1112, as amended by PL 2019, c. 379, Pt. A, §6, is repealed.
+18Sec. C-13.  36 MRSA §1112-C is enacted to read:
+19§1112-C.  Recapture penalty
+201.  Assessor determination; owner request.  If the assessor determines that land 
+21 subject to this subchapter no longer meets the requirements of this subchapter, the assessor 
+22 shall withdraw the land from taxation under this subchapter.  The owner of land subject to 
+23 this subchapter may at any time request withdrawal of any of the owner's land from taxation 
+24 under this subchapter by certifying in writing to the assessor that the land is no longer to 
+25 be classified under this subchapter.  For purposes of this section, the transfer of land 
+26 between different classifications within this subchapter does not constitute a withdrawal. 
+272.  Withdrawal of portion.  In the case of withdrawal of a portion of farmland or open 
+28 space land, the owner, as a condition of withdrawal, shall file with the assessor a schedule 
+29 including the information required under section 1109 showing the area withdrawn and the 
+30 area remaining under this subchapter.
+313.  Penalty.  If land is withdrawn from taxation under this subchapter, the assessor shall 
+32 impose a penalty upon the owner.  The penalty is the greater of:
+33 A.  An amount equal to the taxes that would have been assessed on the land on the first 
+34 day of April for the 5 tax years, or any lesser number of tax years starting with the year 
+35 in which the land was first classified, preceding the withdrawal had that land been 
+36 assessed in each of those years at its just value on the date of withdrawal less all taxes 
+37 paid on that land over the preceding 5 years, or any lesser number of tax years starting 
+38 with the year in which the land was first classified, and increased by interest at the 
+39 prevailing municipal rate from the date or dates on which those amounts would have 
+40 been payable; and 1
+2
+3
+Page 9 - 130LR2203(01)1 B.  An amount computed by multiplying the amount, if any, by which the just value of 
+2 the land on the date of withdrawal exceeds the 100% valuation of the land pursuant to 
+3 this subchapter on the preceding April 1st by the following rates:
+4 (1)  If the land was subject to valuation under this subchapter for 10 years or fewer 
+5 prior to the date of withdrawal, the rate is 30%; and
+6 (2)  If the land was subject to valuation under this subchapter for more than 10 
+7 years prior to the date of withdrawal, the rate is 30% reduced by one percentage 
+8 point for each full year beyond 10 years that the land was subject to valuation under 
+9 this subchapter prior to the date of withdrawal, except that the minimum rate is 
+10 20%.  
+11 For purposes of this subsection, just value at the time of withdrawal is the assessed just 
+12 value of comparable property in the municipality adjusted by the municipality's certified 
+13 assessment ratio.
+144.  Assessment and collection of penalties.  The owner shall pay the penalties for 
+15 withdrawal upon withdrawal to the tax collector as additional property taxes. Penalties may 
+16 be assessed and collected as supplemental assessments in accordance with section 713‑B.
+175.  Eminent domain.  A penalty may not be assessed under this section if the 
+18 withdrawal of the parcel is occasioned by a transfer to the State or other entity holding the 
+19 power of eminent domain resulting from the exercise or threatened exercise of that power.
+206.  Relief from requirements.  Upon withdrawal, the land is relieved of the 
+21 requirements of this subchapter immediately and is returned to taxation under subchapter 
+22 2 beginning the April 1st following withdrawal.
+237.  Reclassification under other current use program.  A penalty may not be 
+24 assessed upon the withdrawal of land from taxation under this subchapter if the owner 
+25 applies for classification of that land in another current use program prior to withdrawal 
+26 and the application is accepted.  If a penalty is later assessed under section 581 or 1138, the 
+27 period of time that the land was taxed as farmland or open space land under this subchapter 
+28 is included for purposes of establishing the amount of the penalty.
+298.  Report of penalty.  A municipality that receives a penalty for the withdrawal of 
+30 land from taxation under this subchapter shall report to the State Tax Assessor the total 
+31 amount received in that reporting year on the municipal valuation return form described in 
+32 section 383.
+339.  Collection of farmland penalty; annual installments.  An owner of farmland that 
+34 has been classified under this subchapter for 5 full years or more may pay any penalty owed 
+35 under this section in up to 5 equal annual installments with interest at the rate set by the 
+36 municipality, which begins to accrue 60 days after the date of assessment. Notwithstanding 
+37 section 943, for an owner paying a penalty under this subsection, the period during which 
+38 the tax lien mortgage, including interest and costs, must be paid to avoid foreclosure and 
+39 expiration of the right of redemption is 48 months from the date of the filing of the tax lien 
+40 certificate.
+41Sec. C-14.  36 MRSA §1113, as amended by PL 2009, c. 496, §9, is further amended 
+42 to read:
+43§1113.  Enforcement provision
+Page 10 - 130LR2203(01)1 A lien is created to secure the payment of the penalties provided in section 1109, 
+2 subsections 2 and 5 and section 1112  1112-C, which may be enforced in the same manner 
+3 as liens created by section 552.
+4Sec. C-15.  36 MRSA §1115, as amended by PL 2009, c. 496, §10, is further 
+5 amended to read:
+6§1115.  Transfer of portion of parcel of land
+7 Transfer of a portion of a parcel of farmland subject to taxation under this subchapter 
+8 does not affect the taxation under this subchapter of the resulting parcels unless they do not 
+9 meet the minimum acreage requirements of this subchapter.  Transfer of a portion of a 
+10 parcel of open space land subject to taxation under this subchapter does not affect the 
+11 taxation under this subchapter of the resulting parcels unless either or both of the parcels 
+12 no longer provide a public benefit in one of the areas enumerated in section 1102, 
+13 subsection 6.  Each resulting parcel must be taxed to the owners under this subchapter until 
+14 it is withdrawn from taxation under this subchapter, in which case the penalties provided 
+15 in section 1112  1112-C apply only to the owner of that parcel.  If the transfer of a portion 
+16 of a parcel of farmland subject to taxation under this subchapter results in the creation of a 
+17 parcel that is less than the minimum acreage required by this subchapter or if the transfer 
+18 of a portion of a parcel of open space land subject to taxation under this subchapter results 
+19 in the creation of a parcel that no longer provides a public benefit in one of the areas 
+20 enumerated in section 1102, subsection 6, that parcel is deemed to have been withdrawn 
+21 from taxation under this subchapter as a result of the transfer and is subject to the penalties 
+22 provided in section 1112  1112-C.
+23Sec. C-16.  36 MRSA §1121, as amended by PL 2001, c. 652, §9 and PL 2011, c. 
+24 657, Pt. W, §5, is further amended to read:
+25§1121.  Program monitoring
+26 The Department of Agriculture, Conservation and Forestry and the Bureau of Revenue 
+27 Services shall periodically review the level of participation in the farm and open space tax 
+28 program, the taxes saved due to that participation, the fiscal impact, if any, on 
+29 municipalities, including the impact of any penalties assessed under section 1112  1112-C 
+30 and the effectiveness of the program in preserving farmland and open space.  The 
+31 department and the bureau may report to the joint standing committee of the Legislature 
+32 having jurisdiction over taxation matters on the status of the program.  The department and 
+33 the bureau may identify problems that prevent realization of the purposes of this subchapter 
+34 and potential solutions to remedy those problems.
+35Sec. C-17.  36 MRSA §1138, as enacted by PL 2007, c. 466, Pt. A, §58, is amended 
+36 to read:
+37§1138.  Recapture penalty
+381.  Assessor determination; owner request.  If the assessor determines that land 
+39 subject to this subchapter no longer meets the requirements of this subchapter, the assessor 
+40 must withdraw the land from taxation under this subchapter.  The owner or owners of land 
+41 subject to this subchapter may at any time request withdrawal of any land from taxation 
+42 under this subchapter by certifying in writing to the assessor that the land is no longer to 
+43 be classified under this subchapter.
+Page 11 - 130LR2203(01)12.  Withdrawal of portion.  In the case of withdrawal of a portion of the working 
+2 waterfront land, the owner or owners, as a condition of withdrawal, shall file with the 
+3 assessor a schedule including the information required under section 1137, subsection 1 
+4 showing the area withdrawn and the area remaining under this subchapter.
+53.  Penalty.  If land is withdrawn from taxation under this subchapter, the assessor shall 
+6 impose a penalty upon the owner or owners.  The penalty is the greater of:
+7 A.  An amount equal to the taxes that would have been assessed on the land on the first 
+8 day of April for the 5 tax years, or any lesser number of tax years starting with the year 
+9 in which the property land was first classified, preceding  such  the withdrawal had such 
+10 real estate that land been assessed in each of those years at its just value on the date of 
+11 withdrawal less all taxes paid on that real estate land over the preceding 5 years, or any 
+12 lesser number of tax years starting with the year in which the land was first classified, 
+13 and increased by interest at the prevailing municipal rate from the date or dates on 
+14 which those amounts would have been payable; and
+15 B.  An amount computed by multiplying the amount, if any, by which the fair market 
+16 just value of the real estate land on the date of withdrawal exceeds the 100% valuation 
+17 of the real estate land pursuant to this subchapter on the preceding April 1st by the 
+18 following rates:
+19 (1)  If the real estate land was subject to valuation under this subchapter for 10 
+20 years or less prior to the date of withdrawal, the rate is 30%; and
+21 (2)  If the real estate land was subject to valuation under this subchapter for more 
+22 than 10 years prior to the date of withdrawal, the rate is that percentage obtained 
+23 by subtracting 1% from 30% reduced by one percentage point for each full year 
+24 beyond 10 years that the real estate land was subject to valuation under this 
+25 subchapter prior to the date of withdrawal until a , except that the minimum rate of 
+26 is 20%  is reached.
+27 For purposes of this section  subsection, just value at the time of withdrawal is the assessed 
+28 just value of comparable property in the municipality adjusted by the municipality's 
+29 certified assessment ratio.
+304.  Assessment and collection of penalties.  The owner shall pay the penalties for 
+31 withdrawal must be paid upon withdrawal to the tax collector as additional property taxes. 
+32 Penalties may be assessed and collected as supplemental assessments in accordance with 
+33 section 713‑B.
+345.  Eminent domain.  A penalty may not be assessed under this section if the 
+35 withdrawal of the parcel is occasioned by a transfer to the State or other entity holding the 
+36 power of eminent domain resulting from the exercise or threatened exercise of that power.
+376.  Relief from requirements.  Upon withdrawal, the land is relieved of the 
+38 requirements of this subchapter immediately and is returned to taxation under the statutes 
+39 relating to the taxation of real property to be so taxed on subchapter 2 beginning the 
+40 following April 1st  following withdrawal.
+417.  Reclassification as open space  under other current use program.  No A penalty 
+42 may not be assessed upon the withdrawal of land from taxation under this subchapter if the 
+43 owner or owners apply applies for and are accepted for classification of that land  as open 
+44 space land under subchapter 10  in another current use program prior to withdrawal and that 
+Page 12 - 130LR2203(01)45 application is accepted.  If a penalty is later assessed under section 581 or section 1112-C, 
+46 the period of time that the land was taxed as working waterfront land under this subchapter 
+47 is included for purposes of establishing the amount of the penalty.
+48.  Report of penalty.  Any municipality that receives a penalty for the withdrawal of 
+5 land from taxation under this subchapter shall report to the State Tax Assessor the total 
+6 amount received in that reporting year on the municipal valuation return form described in 
+7 section 383.
+8PART D
+9Sec. D-1.  23 MRSA §4210-B, sub-§7-A, as amended by PL 2021, c. 446, §1, is 
+10 further amended to read:
+117-A.  Sales tax revenue.  Beginning July 1, 2012 and every  On July 1st  thereafter, 
+12 except as provided in Title 36, section 1820  of each year, the State Controller shall transfer 
+13 to the Multimodal Transportation Fund an amount, as certified by the State Tax Assessor, 
+14 that is equivalent to 100% of the revenue from the tax imposed on the value of rental of a 
+15 pickup truck or van with a gross weight of less than 26,000 pounds rented from a person 
+16 primarily engaged in the business of renting automobiles and the value of rental for a period 
+17 of less than one year of an automobile pursuant to Title 36, section 1811 for the first 6 
+18 months of the prior fiscal year after the reduction for the transfer to the Local Government 
+19 Fund as described by Title 30‑A, section 5681, subsection 5 and the transfer to the ATV 
+20 Recreational Management Fund pursuant to Title 36, section 1820.   Beginning on October 
+21 1, 2012 and every  On October 1st  thereafter, except as provided in Title 36, section 1820  
+22 of each year, the State Controller shall transfer to the Multimodal Transportation Fund an 
+23 amount, as certified by the State Tax Assessor, that is equivalent to 100% of the revenue 
+24 from the tax imposed on the value of rental of a pickup truck or van with a gross weight of 
+25 less than 26,000 pounds rented from a person primarily engaged in the business of renting 
+26 automobiles and the value of rental for a period of less than one year of an automobile 
+27 pursuant to Title 36, section 1811 for the last 6 months of the prior fiscal year after the 
+28 reduction for the transfer to the Local Government Fund as described by Title 30‑A, section 
+29 5681, subsection 5 and the transfer to the ATV Recreational Management Fund pursuant 
+30 to Title 36, section 1820.  The tax amount must be based on actual sales for that fiscal year 
+31 and may not consider any accruals that may be required by law.
+32Sec. D-2.  36 MRSA §1820, as enacted by PL 2021, c. 446, §2, is amended to read:
+33§1820.  Tax on rental of all-terrain vehicles
+34 By the 20th day of each month beginning January 1, 2022 and ending July 20, 2022, 
+35 the assessor shall notify the State Controller and the Treasurer of State of the amount of 
+36 revenue attributable to the tax collected under this Part on the rental of all-terrain vehicles 
+37 as defined in Title 12, section 13001, subsection 3.  When notified by the assessor, the State 
+38 Controller shall transfer 90% of that amount to the ATV Recreational Management Fund 
+39 established in Title 12, section 1893, subsection 2 and 10% to the Multimodal 
+40 Transportation Fund established in Title 23, section 4210-B.
+41 Beginning July 1, 2023 and every July 1st thereafter, the State Controller shall transfer 
+42 to the ATV Recreational Management Fund established in Title 12, section 1893, 
+43 subsection 2 an amount, as certified by the State Tax Assessor, that is equivalent to 90% of 
+44 the revenue from the tax imposed under this Part on the rental of all-terrain vehicles for the 1
+2
+3
+Page 13 - 130LR2203(01)45 first 6 months of the prior fiscal year after the reduction for the transfer to the Local 
+46 Government Fund as described by Title 30-A, section 5681, subsection 5. Beginning on 
+47 October 1, 2023 and every October 1st thereafter, the State Controller shall transfer to the 
+48 ATV Recreational Management Fund an amount, as certified by the State Tax Assessor, 
+49 that is equivalent to 90% of the revenue from the tax imposed under this Part on the rental 
+50 of all-terrain vehicles for the last 6 months of the prior fiscal year after the reduction for 
+51 the transfer to the Local Government Fund as described by Title 30-A, section 5681, 
+52 subsection 5. The remaining 10% of the revenue from the tax imposed under this Part on 
+53 the rental of all-terrain vehicles is transferred to the Multimodal Transportation Fund 
+54 pursuant to Title 23, section 4210-B, subsection 7-A. The tax amount must be based on 
+55 actual sales for that fiscal year and may not consider any accruals that may be required by 
+56 law.
+13SUMMARY
+14 Part A makes changes to the insurance premiums tax and income tax law. Part A:
+15 1.  Specifies that, for tax periods beginning on or after January 1, 2023, premiums on 
+16 contracts sold by insurance producers through nonadmitted insurers and premiums paid by 
+17 insureds on self-procured contracts from nonadmitted insurers are subject to tax at the 
+18 higher of Maine’s tax rate and the tax rate of the state of incorporation of the insurance 
+19 company that is underwriting the policy; and
+20 2. Increases the withholding rate applicable to certain gambling winnings subject to 
+21 Maine tax from 5% of the winnings to the highest marginal tax rate applicable to the tax 
+22 year during which the winnings are paid, plus any other applicable tax under the Maine 
+23 Revised Statutes, Title 36, Part 8 relating to income taxes.  
+24 Part B makes changes to the property tax law.  Part B:
+25 1.  Requires municipalities to annually provide information needed by the Department 
+26 of Administrative and Financial Services, Bureau of Revenue Services to conduct state 
+27 valuation;
+28 2.  Removes an obsolete reference to state property tax;
+29 3.  Removes the requirement for benevolent and charitable institutions to be 
+30 incorporated in Maine to be exempt from taxation;
+31 4.  Allows assessors to request information from taxpayers regarding property 
+32 qualifying for an exemption that is subject to full or partial reimbursement by the State;
+33 5.  Strikes the provision under the deferred collection of homestead property taxes 
+34 applying the abatement and appeals process under Title 36, chapter 105, subchapter 8 to 
+35 situations in which the State Tax Assessor disagrees with the municipal valuation of a 
+36 property subject to deferral; and
+37 6.  Replaces the term “homestead” with the term “permanent residence” in Title 36, 
+38 section 6234, regarding municipal benefits to veterans, to better align the definition with 
+39 the benefit to renters allowed under that section.
+40 Part C expands the penalty-free reclassification of land taxed under the Maine Tree 
+41 Growth Tax Law and farm and open space law to include reclassifications into and out of 
+42 working waterfront land without incurring a penalty.  In addition, it clarifies and aligns the 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+14
+Page 14 - 130LR2203(01)43 penalty provisions for tree growth, farm and open space and working waterfront current 
+44 use classifications. 
+3 Part D changes the monthly transfer of sales tax revenue to the ATV Recreational 
+4 Management Fund to a biannual transfer, beginning July 1, 2023, of sales tax revenue from 
+5 the prior fiscal year and clarifies that the transfer is reduced by the transfer to the Local 
+6 Government Fund.1
+2

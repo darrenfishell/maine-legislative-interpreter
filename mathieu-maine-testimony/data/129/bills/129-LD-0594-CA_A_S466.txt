@@ -1,0 +1,843 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (S -466) (LD 594 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR0153(02)
+COMMITTEE AMENDMENT1 L.D. 594
+2 Date: (Filing No. S-         )
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES 
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9 COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594, “An Act To Promote 
+10 Individual Savings Accounts through a Public-Private Partnership”
+11 Amend the bill by striking out the title and substituting the following:
+12'An Act To Promote Individual Retirement Savings through a Public-Private 
+13Partnership'
+14 Amend the bill by striking out everything after the enacting clause and inserting the 
+15 following:
+16 'Sec. 1.  5 MRSA c. 7-A is enacted to read:
+17CHAPTER 7-A
+18MAINE RETIREMENT SAVINGS BOARD
+19§171. Definitions
+20 As used in this chapter, unless the context otherwise indicates, the following terms 
+21 have the following meanings.
+221.  Board.  "Board" means the Maine Retirement Savings Board under section 172.
+232.  Covered employee.  "Covered employee" means an individual who is 18 years of 
+24 age or older who is employed by a covered employer and who has wages or other 
+25 compensation that are allocable to the State during a calendar year. "Covered employee" 
+26 does not include: 
+27 A.  An employee covered under the federal Railway Labor Act, 45 United States Code, 
+28 Section 151;
+29 B.  An employee on whose behalf an employer makes contributions to a multiemployer 
+30 pension trust fund authorized by the federal Labor Management Relations Act, 1947, 
+31 Public Law 80-101, known as the Taft-Hartley Act; or
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 2 - 129LR0153(02)
+COMMITTEE AMENDMENT1 C.  An individual who is an employee of the Federal Government, the State or any 
+2 other state, any county or municipal corporation or any of the State's or any other state's 
+3 units or instrumentalities.
+4 "Covered employee" may include a part-time, seasonal or temporary employee only to the 
+5 extent permitted in rules adopted by the board pursuant to section 174. 
+63.  Covered employer.  "Covered employer" means a person or entity engaged in a 
+7 business, industry, profession, trade or other enterprise in the State, whether for profit or 
+8 not for profit, that has not offered to an employee, effective in form or operation at any 
+9 time within the current calendar year or 2 preceding calendar years, a specified tax-favored 
+10 retirement plan.  "Covered employer" does not include: 
+11 A.  The Federal Government, the State or any other state, any county or municipal 
+12 corporation or any of the State's or any other state's units or instrumentalities; or 
+13 B.  An employer that has not been in business during both the current calendar year 
+14 and the preceding calendar year. 
+15 If an employer does not maintain a specified tax-favored retirement plan for a portion of a 
+16 calendar year ending on or after the effective date of this chapter, but does adopt such a 
+17 plan for the remainder of that calendar year, the employer is not a covered employer for the 
+18 remainder of the year. 
+194.  Enterprise fund.  "Enterprise fund" means the Maine Retirement Savings Program 
+20 Enterprise Fund established in section 178.
+215.  ERISA.  "ERISA" means the federal Employee Retirement Income Security Act of 
+22 1974, as amended, 29 United States Code, Section 1001 et seq.
+236.  Internal Revenue Code.  "Internal Revenue Code" means the United States Internal 
+24 Revenue Code of 1986, as amended.
+257.  IRA.  "IRA" means a traditional IRA or Roth IRA.
+268.  Participant.  "Participant" means an individual who has an IRA under the program.
+279.  Payroll deduction IRA or payroll deduction IRA arrangement.  "Payroll 
+28 deduction IRA" or "payroll deduction IRA arrangement" means an arrangement by which 
+29 an employer allows employees to contribute to an IRA by means of payroll deduction.
+3010.  Program.  "Program" means the Maine Retirement Savings Program established 
+31 in accordance with this chapter.  
+3211.  Retirement system.  "Retirement system" means the Maine Public Employees 
+33 Retirement System established in section 17101.
+3412.  Roth IRA.  "Roth IRA" means a Roth individual retirement account or Roth 
+35 individual retirement annuity described in section 408A of the Internal Revenue Code.
+3613.  Specified tax-favored retirement plan.  "Specified tax-favored retirement plan" 
+37 means a plan, program or arrangement that is tax-qualified under or described in, and 
+38 satisfies the requirements of, Section 401(a), Section 401(k), Section 403(a), Section 
+39 403(b), Section 408(k), Section 408(p) or Section 457(b) of the Internal Revenue Code, 
+40 without regard to whether it constitutes an employee benefit plan under ERISA.
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 3 - 129LR0153(02)
+COMMITTEE AMENDMENT114.  Traditional IRA. "Traditional IRA" means a traditional individual retirement 
+2 account or traditional individual retirement annuity described in Section 408(a) or Section 
+3 408(b) of the Internal Revenue Code. 
+415.  Wages. "Wages" means any compensation within the meaning of Section 219(f)(1) 
+5 of the Internal Revenue Code that is received by an employee from an employer during a 
+6 calendar year.
+7§172.  Maine Retirement Savings Board
+8 The Maine Retirement Savings Board is established pursuant to section 12004-G, 
+9 subsection 33-G to develop and maintain the Maine Retirement Savings Program for 
+10 individuals employed or self-employed for wages or other compensation in this State.
+111.  Appointments.  The board consists of 7 voting members and 2 nonvoting members 
+12 as follows:
+13 A.  The executive director of the retirement system, or the executive director's 
+14 designee; 
+15 B.  The Treasurer of State, or the Treasurer of State's designee;
+16 C.  Five members appointed by the Governor:
+17 (1) A member who has a favorable reputation for skill, knowledge and experience 
+18 relating to the interests of employees in achieving financial security and developing 
+19 financial capability, including through retirement saving;
+20 (2) A member who is a representative of an association representing employees, 
+21 including covered employees, or who has a favorable reputation for skill, 
+22 knowledge and experience relating to the interests of employees in retirement 
+23 saving; 
+24 (3) A member who is a representative of employers, including covered employers, 
+25 or who has a favorable reputation for skill, knowledge and experience relating to 
+26 the interests of small employers in retirement saving;
+27 (4) A member of the public who is retired and is a representative of the interests of 
+28 retirees and employees; and
+29 (5) A member who has a favorable reputation for skill, knowledge and experience 
+30 in the field of retirement saving, retirement plans and retirement investment; 
+31 D.  One member of the Senate appointed by the President of the Senate, who serves as 
+32 a nonvoting member; and
+33 E.  One member of the House of Representatives appointed by the Speaker of the 
+34 House, who serves as a nonvoting member.
+352.  Confirmation of members.  The 5 members of the board appointed by the 
+36 Governor are subject to approval by the joint standing committee of the Legislature having 
+37 jurisdiction over financial services matters and confirmation by the Senate.
+383.  Terms; vacancy.   The term of office of each member of the board appointed by 
+39 the Governor is 4 years. A member is eligible for reappointment. If there is a vacancy for 
+40 any cause for a member appointed by the Governor, the Governor shall make an 
+41 appointment to become immediately effective for the unexpired term. Each legislative 
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 4 - 129LR0153(02)
+COMMITTEE AMENDMENT42 member serves at the pleasure of the appointing authority and may serve as long as the 
+43 member remains in the body of the Legislature from which the member was appointed.
+34.  Chair.  The executive director of the retirement system, or the executive director's 
+4 designee, shall serve as the chair of the board.
+55.  Quorum.  A majority of the voting members of the board constitutes a quorum for 
+6 the transaction of business.
+76.  Compensation.  A member of the board, except for the executive director of the 
+8 retirement system or the Treasurer of State and any designee of either, must be 
+9 compensated according to the provisions of section 12004-G, subsection 33-G. The 
+10 Legislative Council is responsible for compensation of any legislative member of the board.
+117.  Staffing.  Except as otherwise provided, the retirement system shall provide staff 
+12 support to the board. The board shall reimburse the retirement system for the full cost of 
+13 any staff time provided to the board, including any time of the executive director of the 
+14 retirement system. 
+158.  Meetings.  The board shall meet monthly and may also meet at other times at the 
+16 call of the chair. All meetings of the board are public proceedings within the meaning of 
+17 Title 1, chapter 13, subchapter 1.
+189.  Program and enterprise fund not affiliated with retirement system. 
+19 Notwithstanding the provisions of subsections 4 and 7, the program and the enterprise fund 
+20 are not a part of, affiliated with or related to the retirement system. The program and the 
+21 enterprise fund are independent of and separate from the retirement system.  
+22§173.  Duties of board; requirements of program
+231.  Duties.  In carrying out the purposes of this chapter, the board shall:
+24 A. Develop, establish, implement and maintain the program and, to that end, may 
+25 conduct market, legal and feasibility analyses if the board considers them advisable;
+26 B. Adopt rules the board considers necessary or advisable for the implementation and 
+27 general administration and operation of the program as provided in section 174, 
+28 consistent with the Internal Revenue Code and regulations under that Code, including 
+29 to ensure that the program satisfies all criteria for favorable federal tax treatment and 
+30 complies, to the extent necessary, with any other applicable federal or state law;
+31 C. Use private sector partnerships to contract with a program administrator to 
+32 administer the program and manage the investments under the supervision and 
+33 guidance of the board in accordance with this chapter; 
+34 D. Cause funds to be held and invested and reinvested under the program;
+35 E. Develop and implement an investment policy that defines the program's investment 
+36 objectives consistent with the objectives of the program and that provides for policies 
+37 and procedures consistent with those investment objectives. The board shall strive to 
+38 select and offer investment options available to participants and other program features 
+39 that are intended to achieve maximum possible income replacement balanced with an 
+40 appropriate level of risk in an IRA-based environment consistent with the investment 
+41 objectives under the policy. The investment options may encompass a range of risk and 
+42 return opportunities and allow for a rate of return commensurate with an appropriate 1
+2
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 5 - 129LR0153(02)
+COMMITTEE AMENDMENT43 level of risk in view of the investment objectives under the policy. The menu of 
+44 investment options must be determined by considering the nature and objectives of the 
+45 program, the desirability based on behavioral research findings of limiting investment 
+46 options under the program to a reasonable number and the extensive investment options 
+47 available to participants in the event that they roll over funds in an IRA established 
+48 under the program to an IRA outside the program.  In accordance with paragraphs K 
+49 and O, the board, in carrying out its responsibilities and exercising its powers under 
+50 this chapter, shall employ or retain appropriate entities or personnel to assist or advise 
+51 it and to whom to delegate the carrying out of such responsibilities and exercise of such 
+52 powers;
+11 F. Arrange for collective, common and pooled investment of assets of the program and 
+12 enterprise fund, including investments in conjunction with other funds with which 
+13 these assets are permitted to be collectively invested, with a view to saving costs 
+14 through efficiencies and economies of scale;
+15 G. Cause the program, enterprise fund and arrangements and accounts established 
+16 under the program to be designed, established and operated: 
+17 (1) In accordance with best practices for retirement saving accounts;
+18 (2) To encourage participation and saving and to make it simple, easy and 
+19 convenient for participants to contribute and manage their savings;
+20 (3) To promote sound investment practices and appropriate investment menus and 
+21 default investments;
+22 (4) To maximize simplicity and ease of administration for covered employers;  
+23 (5) To minimize costs, including by collective investment and economies of scale;
+24 (6) To promote portability of benefits; and
+25 (7) To avoid preemption of the program by federal law; 
+26 H.  Educate participants and potential participants on the benefits of planning and 
+27 saving for retirement, help them decide the level of participation and saving strategies 
+28 that may be appropriate for them and help them develop greater financial capability 
+29 and financial literacy, including through partnerships with organizations based in the 
+30 State specializing in financial literacy education; 
+31 I.  In accordance with rules adopted by the board, determine the eligibility of an 
+32 employer, employee or other individual to participate in the program, including 
+33 conditions under which an employer that terminates the offering of a specified tax-
+34 favored retirement plan can become a covered employer eligible to participate in the 
+35 program; 
+36 J.  Arrange for and facilitate compliance by the program or arrangements established 
+37 under the program with all requirements applicable to the program under the Internal 
+38 Revenue Code, including requirements for favorable tax treatment of the IRAs, and 
+39 any other applicable federal or state law or accounting requirements, including using 
+40 its best efforts to implement procedures minimizing the risk that covered employees 
+41 will exceed the limits on tax-favored IRA contributions that they are eligible to make 
+42 and otherwise providing or arranging for assistance to covered employers and covered 
+43 employees in complying with applicable law and tax-related requirements in a cost-1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 6 - 129LR0153(02)
+COMMITTEE AMENDMENT44 effective manner. The board may establish any processes it reasonably considers to be 
+45 necessary or advisable to verify whether an employer is a covered employer, including 
+46 reference to online data and possible use of questions in employer state tax filings, 
+47 consistent with the objective of avoiding to the fullest extent practicable any need to 
+48 require employers that are not covered employers to register with the program or take 
+49 other action to demonstrate that they maintain specified tax-favored retirement plans 
+50 or are exempt for other reasons from being treated as covered employers; 
+8 K.  Employ or otherwise retain a program administrator, an executive director, staff, a 
+9 trustee, a record keeper, investment managers, investment advisors, other 
+10 administrative, professional and expert advisors and service providers, none of whom 
+11 may be members of the board and all of whom serve at the pleasure of the board, and 
+12 the board shall determine their duties and compensation. The board may authorize the 
+13 executive director employed by the board to enter into contracts, as described in 
+14 paragraph O, on behalf of the board or conduct any business necessary for the efficient 
+15 operation of the board;
+16 L.  Discharge its duties and see to it that the members of the board discharge their duties 
+17 with respect to the program solely in the interest of the participants as follows:
+18 (1) For the exclusive purpose of providing benefits to participants and defraying 
+19 reasonable expenses of administering the program; and
+20 (2) With the care, skill, prudence and diligence under the circumstances then 
+21 prevailing that persons of prudence, discretion and intelligence, acting in a like 
+22 capacity and familiar with those matters, would use in the conduct of an enterprise 
+23 of a like character and with like aims;
+24 M.  Make provision for costs and expenses incurred to initiate, implement, maintain, 
+25 manage and administer the program and its investments to be paid or defrayed from 
+26 investment returns or assets of the program or from the charging and collection of other 
+27 fees, charges or funds, whether account-based, asset-based, per capita or otherwise, by 
+28 or for the program or pursuant to arrangements established under the program to the 
+29 extent permitted under federal and state law; 
+30 N. Accept any grants, gifts, legislative appropriation, loans and other funds from the 
+31 State, any unit of federal, state or local government or any other person, firm or entity 
+32 to defray the costs of administering and operating the program in accordance with the 
+33 requirements of section 178, subsection 1;
+34 O. Make and enter into contracts, agreements or arrangements for and collaborate and 
+35 cooperate with and retain, employ and contract with or for any of the following to the 
+36 extent the board considers necessary or advisable for the effective and efficient design, 
+37 implementation and administration of the program consistent with the purposes set 
+38 forth in this chapter and to maximize outreach to covered employers and covered 
+39 employees:
+40 (1) Services of private and public financial institutions, depositories, consultants, 
+41 actuaries, counsel, auditors, investment advisers, investment administrators, 
+42 investment management firms, other investment firms, 3rd-party administrators, 
+43 other professionals and service providers, the retirement system, the Office of the 
+44 Treasurer of State, other state treasurers and other state public retirement systems; 1
+2
+3
+4
+5
+6
+7
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 7 - 129LR0153(02)
+COMMITTEE AMENDMENT1 (2) Research, technical, financial, administrative and other services; 
+2 (3) Services of other state agencies and instrumentalities, including without 
+3 limitation those with responsibilities for tax collection, budget, finance, labor and 
+4 employment regulation, consumer protection, business regulation and liaison, 
+5 benefits, and public assistance, to assist the board in the exercise of its powers and 
+6 duties, and all such agencies and instrumentalities shall provide such assistance at 
+7 the board's request; or
+8 (4) Services to develop and implement outreach efforts to gain input and 
+9 disseminate information regarding the program and retirement saving in general, 
+10 including timely information to covered employers regarding the program and how 
+11 it applies to them, with special emphasis on their ability at any time to sponsor a 
+12 specified tax-favored retirement plan that would exempt them from any 
+13 responsibilities under the program; 
+14 P. Ensure that all contributions to an IRA under the program are used only to pay 
+15 benefits to participants under the program, pay the cost of administering the program 
+16 or make investments for the benefit of the program and that no assets of the program 
+17 or enterprise fund are transferred to the General Fund or to any other fund of the State 
+18 or are otherwise encumbered or used for any other purpose; 
+19 Q. Consider whether procedures should be adopted to allow employers that are not 
+20 covered employers because they are exempt from covered employer status to 
+21 voluntarily participate in the program by automatically enrolling their employees, 
+22 considering, among other factors, the potential legal consequences and the degree of 
+23 employer demand to participate or facilitate participation by employees; 
+24 R. Evaluate the need for, and procure if and as considered necessary, insurance against 
+25 any loss in connection with the property, assets or activities of the program, including, 
+26 if and as considered necessary, pooled private insurance; 
+27 S. Indemnify, including procurement of insurance if and as needed for this purpose, 
+28 each member of the board from personal loss or liability resulting from a member's 
+29 action or inaction as a member of the board; 
+30 T. Collaborate with, and evaluate the role of, financial advisors or other financial 
+31 professionals, including in assisting and providing guidance for covered employees; 
+32 U. Along with its members, the program administrator and other staff of the board, 
+33 comply with any applicable state ethics and gift laws, procurement codes and 
+34 restrictions and restrictions on honoraria and may not: 
+35 (1) Directly or indirectly have any interest in the making of any investment under 
+36 the program or in gains or profits accruing from any such investment; 
+37 (2) Borrow any program-related funds or deposits, or use any such funds or 
+38 deposits in any manner, for the benefit of the board or any member or as an agent 
+39 or partner of others; or
+40 (3) Become an endorser, surety or obligor on investments made under the program; 
+41 and 
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 8 - 129LR0153(02)
+COMMITTEE AMENDMENT1 V. Carry out its powers and duties under the program pursuant to this chapter and 
+2 exercise any other powers as are appropriate for the effectuation of the purposes, 
+3 objectives and provisions of this chapter pertaining to the program.
+42.  Required elements of program.  In accordance with the implementation dates set 
+5 forth in subsection 3, the program must:
+6 A.  Allow an eligible individual in this State to choose whether or not to contribute to 
+7 an IRA under the program, including allowing a covered employee in the State the 
+8 choice to contribute to an IRA under the program through a payroll deduction IRA 
+9 arrangement;
+10 B.  Notwithstanding any provision of state law related to payroll deduction to the 
+11 contrary, require each covered employer to offer its covered employees the choice 
+12 whether or not to contribute to a payroll deduction IRA by automatically enrolling them 
+13 in the payroll deduction IRA with the opportunity to opt out.  A covered employee who 
+14 is not a participant because that employee has opted out will be automatically 
+15 reenrolled with the opportunity to opt out again at regular or ad hoc intervals 
+16 determined by the board in its discretion, but not more frequently than annually;
+17 C.  Provide that the IRA to which contributions are made is a Roth IRA, except that 
+18 the board has the authority at any time, in its discretion, to add an option for all 
+19 participants to affirmatively elect to contribute to a traditional IRA as an alternative to 
+20 the Roth IRA;
+21 D.  Provide that, unless otherwise specified by the covered employee, a covered 
+22 employee must automatically initially contribute 5% of the covered employee's salary 
+23 or wages to the program and may elect to opt out of the program at any time or 
+24 contribute at any higher or lower rate, expressed as a percentage of salary or wages, or, 
+25 if the board in its discretion permits, expressed as a flat dollar amount, subject in all 
+26 cases to the IRA contribution and income eligibility limits applicable under the Internal 
+27 Revenue Code at no additional charge. The board is authorized to change, from time 
+28 to time, the 5% automatic initial default contribution rate for all covered employees in 
+29 its discretion;
+30 E.  Provide on a uniform basis, if and when the board so determines in its discretion, 
+31 for an annual increase of each participant's contribution rate, by not more than 1% of 
+32 salary or wages per year up to a maximum of 8%.  Any such increases must apply to 
+33 participants, as determined by the board in its discretion, either by default or only if 
+34 initiated by affirmative participant election and are in either case subject to the IRA 
+35 contribution and income eligibility limits applicable under the Internal Revenue Code;
+36 F.  Provide for direct deposit of contributions into investments under the program, 
+37 including, but not limited to, a default investment such as a series of target date funds 
+38 and a limited number of investment alternatives including a principal preservation 
+39 option determined by the board. In addition, the board may provide that each 
+40 participant's initial contributions, up to a specified dollar amount or for a specified 
+41 period of time, are required to be invested in a principal preservation investment or, in 
+42 the board's discretion, must be defaulted into such an investment unless the participant 
+43 affirmatively opts for a different investment for those contributions. The board shall 
+44 determine how often participants will have the opportunity to change their selections 
+45 of investments for future contributions or existing balances or both;
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 9 - 129LR0153(02)
+COMMITTEE AMENDMENT1 G.  Provide that employer contributions by a covered employer are not required or 
+2 permitted;
+3 H.  Be professionally managed;
+4 I.  When possible and practicable, use existing employer and public infrastructure to 
+5 facilitate contributions, record keeping and outreach and use pooled or collective 
+6 investment arrangements for amounts contributed to the program;
+7 J.  Require the maintenance of separate records and accounting for each account under 
+8 the program and allow for participants to maintain their accounts regardless of place of 
+9 employment and to roll over funds into other IRAs or other retirement accounts;
+10 K.  Provide for reports on the status of each participant's account to be provided to each 
+11 participant at least annually and make best efforts to provide each participant frequent 
+12 or continual online access to information on the status of that participant's account;
+13 L.  Provide that each participant owns the contributions to and earnings on amounts 
+14 contributed to the participant's account under the program and that the State and 
+15 covered employers have no proprietary interest in those contributions or earnings;
+16 M.  Be designed and implemented in a manner consistent with federal law to the extent 
+17 that it applies and consistent with the program not being preempted by, and the payroll 
+18 deduction IRAs and covered employers not being subject to, ERISA;
+19 N.  Promote expanded retirement savings by encouraging employers in the State that 
+20 would otherwise be covered employers to instead adopt a specified tax-favored 
+21 retirement plan;
+22 O.  Make provision for participation in the program by individuals who are not 
+23 employees, such as self-employed individuals and independent contractors, as 
+24 provided in rules adopted pursuant to section 174, subsection 2;
+25 P.  Seek to keep fees, costs and expenses of the program as low as practicable, except 
+26 that any administrative fee imposed on a covered employee for participating in the 
+27 program may not exceed an asset-based or investment return fee of 1.05% per year;
+28 Q.  Adopt rules and establish procedures governing the distribution of funds from the 
+29 program, including such distributions as may be permitted or required by the program 
+30 and any applicable provisions of tax laws, with the objectives of maximizing financial 
+31 security in retirement, helping to protect spousal rights and assisting participants with 
+32 the challenges of decumulation of savings. The board has the authority to provide for 
+33 one or more reasonably priced distribution options to provide a source of regular 
+34 retirement income, including income for life or for the participant's life expectancy or 
+35 for joint lives and life expectancies, as applicable;
+36 R.  Adopt rules and establish procedures promoting portability of benefits, including 
+37 the ability to make tax-free rollovers or transfers from IRAs under the program to other 
+38 IRAs or to tax-qualified plans that accept such rollovers or transfers;
+39 S.  Establish penalties in accordance with subsection 4 for a covered employer that fails 
+40 without reasonable cause to enroll a covered employee in the program as required or 
+41 that fails to transmit a payroll deduction IRA contribution to the program as required;
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 10 - 129LR0153(02)
+COMMITTEE AMENDMENT1 T.  In accordance with subsection 1, paragraph C, use private sector partnerships to 
+2 administer the program and invest the contributions to the program under the 
+3 supervision and guidance of the board; and 
+4 U.  Allow the board to provide for the establishment, maintenance, administration, 
+5 operation and implementation of the program to be carried out jointly with, or in 
+6 partnership, collaboration, coordination or alliance with one or more other states, the 
+7 Federal Government or any federal, state or local agencies or instrumentalities. 
+83.  Implementation. The board shall implement the program in phases as required in 
+9 this subsection. 
+10 A. Beginning July 1, 2022, the board shall require a covered employer with 25 or more 
+11 covered employees to offer the program to its covered employees. 
+12 B. Beginning January 1, 2023, the board shall require a covered employer with 15 to 
+13 24 covered employees to offer the program to its covered employees.
+14 C. Beginning June 1, 2023, the board shall require a covered employer with 5 to 14 
+15 covered employees to offer the program to its covered employees.
+16 Notwithstanding paragraphs A to C, a covered employer may voluntarily offer the program 
+17 to its covered employees on or after March 1, 2022. A covered employer with fewer than 
+18 5 employees is not required to offer the program to its covered employees but may offer 
+19 the program to its employees at the option of the employer. 
+204.  Penalties.  The board shall establish and enforce penalties in accordance with this 
+21 subsection. 
+22 A. As set forth in this paragraph, if a covered employer fails to enroll a covered 
+23 employee without reasonable cause, the covered employer is subject to a penalty for 
+24 each covered employee for each calendar year or portion of a calendar year during 
+25 which the covered employee was not enrolled in the program or had not opted out of 
+26 participation in the program and, for each calendar year beginning after the date on 
+27 which a penalty has been assessed with respect to a covered employee, is subject to a 
+28 penalty for any portion of that calendar year during which the covered employee 
+29 continues to be unenrolled without opting out of participation in the program. The 
+30 amount of any penalty imposed on a covered employer for the failure to enroll a 
+31 covered employee without reasonable cause is determined as follows: 
+32 (1) Prior to July 1, 2023, the maximum penalty per covered employee is $10; 
+33 (2) From July 1, 2023 to June 30, 2024, the maximum penalty per covered 
+34 employee is $20; 
+35 (3) From July 1, 2024 to December 31, 2025, the maximum penalty per covered 
+36 employee is $50; and 
+37 (4) On or after January 1, 2026, the maximum penalty per covered employee is 
+38 $100.
+39 B. A penalty may not be imposed on a covered employer for any failure to enroll a 
+40 covered employee for which it is established that the covered employer did not know 
+41 that the failure existed and exercised reasonable diligence to meet the requirements of 
+42 this chapter.
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 11 - 129LR0153(02)
+COMMITTEE AMENDMENT1 C.  A penalty may not be imposed on a covered employer for any failure to enroll a 
+2 covered employee if the covered employer exercised reasonable diligence to meet the 
+3 requirements of this chapter and the covered employer complies with those 
+4 requirements with respect to each covered employee by the end of the 90-day period 
+5 beginning on the first date the covered employer knew, or exercising reasonable 
+6 diligence would have known, that the failure existed. 
+7 D. In the case of a failure that is due to reasonable cause and not to willful neglect, all 
+8 or part of the penalty may be waived to the extent that the payment of the penalty would 
+9 be excessive or otherwise inequitable relative to the failure involved.
+10 E. If a covered employer fails to transmit a payroll deduction contribution to the 
+11 program on the earliest date the amount withheld from the covered employee's 
+12 compensation can reasonably be segregated from the covered employer's assets, but 
+13 not later than the 15th day of the month following the month in which the covered 
+14 employee's contribution amounts are withheld from the covered employee's paycheck, 
+15 the failure to remit the contribution on a timely basis is subject to the same penalties as 
+16 apply to employer misappropriation of employee wage withholdings and to the 
+17 penalties specified in paragraph A.
+18 F. The Attorney General shall represent the board in enforcement and collection of 
+19 penalties.
+20§174.  Rules
+211.  Authority.  The board may adopt rules as necessary to implement this chapter, 
+22 except that the board shall adopt rules required pursuant to subsection 2. Rules adopted 
+23 pursuant to this chapter are routine technical rules as defined in chapter 375, subchapter 
+24 2-A.
+252.  Required rules.  The board shall adopt rules to:
+26 A. Establish the processes for enrollment and contributions to an IRA under the 
+27 program, notwithstanding any provision of state law related to payroll deductions to 
+28 the contrary, including withholding by covered employers of employee payroll 
+29 deduction contributions from wages and remittance for deposit to an IRA, automatic 
+30 enrollment in a payroll deduction IRA and opt-outs by covered employees, voluntary 
+31 contributions by others, including self-employed individuals and independent 
+32 contractors, through payroll deduction or otherwise, the making of default 
+33 contributions using default investments and participant selection of alternative 
+34 contribution rates or amounts and alternative investments from among the options 
+35 offered under the program;
+36 B. Establish the processes for withdrawals, rollovers and direct transfers from an IRA 
+37 under the program in the interest of facilitating portability of benefits;
+38 C. Establish processes for phasing in enrollment of eligible individuals, including 
+39 phasing in enrollment of covered employees by size or type of covered employer in 
+40 accordance with section 173, subsection 3; 
+41 D. Establish requirements for the determination of whether a part-time, seasonal or 
+42 temporary employee is a covered employee eligible to participate in the program; 
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 12 - 129LR0153(02)
+COMMITTEE AMENDMENT1 E. Establish a process for a participant to make nonpayroll contributions to accounts 
+2 under the program;
+3 F. Establish a process for an employer to be determined to be exempt from the program 
+4 because the employer sponsors a specified tax-favored retirement plan; and 
+5 G. Conduct outreach to individuals, employers, other stakeholders and the public 
+6 regarding the program, including specifying the contents, frequency, timing and means 
+7 of required disclosures from the program to covered employees, participants, other 
+8 individuals eligible to participate in the program, covered employers and other 
+9 interested parties.  These disclosures must include, but are not limited to, the following:
+10 (1) The benefits and risks associated with tax-favored retirement saving under the 
+11 program; 
+12 (2) The potential advantages and disadvantages associated with contributing to a 
+13 Roth IRA and, if applicable, a traditional IRA under the program;
+14 (3) The eligibility rules for a Roth IRA and, if applicable, a traditional IRA; 
+15 (4) That the individual and not the employer, the State, the board, any board 
+16 member or other state official or the program is solely responsible for determining 
+17 whether, and, if so, how much, the individual is eligible to contribute on a tax-
+18 favored basis to an IRA;
+19 (5) The penalty for excess contributions to an IRA and the method of correcting 
+20 excess contributions;
+21 (6) Instructions for enrolling, opting out of participation, making contributions and 
+22 making withdrawals, including the possibility of contributing to an IRA, whether 
+23 offered under the program or not, by means other than automatic enrollment in a 
+24 payroll deduction IRA; 
+25 (7) Instructions for opting out of each of the Roth IRA, the default contribution 
+26 rate and the default investment if the covered employee prefers a traditional IRA, 
+27 including the possibility of contributing to a traditional IRA, if offered as an option 
+28 under the program, a higher or lower contribution rate or different investment 
+29 alternatives;
+30 (8) The potential availability of a saver's tax credit, including the eligibility 
+31 conditions for the credit and instructions on how to claim it;
+32 (9) That employees seeking tax, investment or other financial advice should 
+33 contact appropriate professional advisors and that covered employers are not in a 
+34 position to provide such advice and are not liable for decisions individuals make 
+35 in relation to the program;
+36 (10) That the payroll deduction IRA is intended not to be an employer-sponsored 
+37 retirement plan and that the program is not an employer-sponsored retirement plan; 
+38 (11) The potential implications of account balances under the program for the 
+39 application of asset limits under certain public assistance programs; 
+40 (12) That the participant is solely responsible for investment performance, 
+41 including market gains and losses, and that IRAs and rates of return are not 
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 13 - 129LR0153(02)
+COMMITTEE AMENDMENT42 guaranteed by any employer, the State, the board, any board member or state 
+43 official or the program;
+3 (13) Additional information about retirement and saving and other information 
+4 designed to promote financial literacy and capability, which may take the form of 
+5 links to, or explanations of how to obtain, such information; and
+6 (14) How to obtain additional information about the program. 
+7§175. Protection from liability
+81.  Employer protection from liability. A covered employer or other employer is not 
+9 and may not be considered a fiduciary in relation to the program or enterprise fund or any 
+10 other arrangement under the program. A covered employer or other employer is not and 
+11 may not be liable for and does not and may not bear responsibility for: 
+12 A. An employee's decision to participate in or opt out of the program;
+13 B. Investment decisions of the board or any participant;  
+14 C. The administration, investment, investment returns or investment performance of 
+15 the program, including without limitation any interest rate or other rate of return on any 
+16 contribution or account balance; 
+17 D. The program design or the benefits paid to participants;
+18 E. An individual's awareness of or compliance with the conditions and other provisions 
+19 of the tax laws that determine which individuals are eligible to make tax-favored 
+20 contributions to an IRA, in what amount and in what time frame and manner; or
+21 F. Any loss, deficiency, failure to realize any gain or any other adverse consequences, 
+22 including without limitation any adverse tax consequences or loss of favorable tax 
+23 treatment, public assistance or other benefits, incurred by any person as a result of 
+24 participating in the program.
+252.  Protection for the State and others.  The State, the board, each member of the 
+26 board or other state official, any other state board, commission or agency and the retirement 
+27 system, and any member, officer or employee of any of these entities, and the program:
+28 A. Have no responsibility for compliance by individuals with the conditions and other 
+29 provisions of the Internal Revenue Code that determine which individuals are eligible 
+30 to make tax-favored contributions to IRAs, in what amount and in what time frame and 
+31 manner;
+32 B. Have no duty, responsibility or liability to any party for the payment of any benefits 
+33 under the program, regardless of whether sufficient funds are available under the 
+34 program to pay such benefits;
+35 C. Do not and may not guarantee any interest rate or other rate of return on or 
+36 investment performance of any contribution or account balance; and
+37 D. Are not and may not be liable or responsible for any loss, deficiency, failure to 
+38 realize any gain or any other adverse consequences, including without limitation any 
+39 adverse tax consequences or loss of favorable tax treatment, public assistance or other 
+40 benefits, incurred by any person as a result of participating in the program.1
+2
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 14 - 129LR0153(02)
+COMMITTEE AMENDMENT13. Debts, contracts and obligations. The debts, contracts and obligations of the 
+2 program or the board are not the debts, contracts and obligations of the State, and the faith 
+3 and credit or the taxing power of the State is not pledged directly or indirectly to the 
+4 payment of the debts, contracts and obligations of the program or the board.
+54. Immunity of board members.  The board and its staff are immune from suit on any 
+6 and all tort claims seeking recovery of damages to the same extent as governmental entities 
+7 under the Maine Tort Claims Act.
+85.  Legal representation and defense of board.  The Attorney General is legal counsel 
+9 to the board and shall represent and defend the board, as a group and individually, in 
+10 connection with any claim, suit or action at law arising out of the performance or 
+11 nonperformance of any actions related to the program under this chapter to the same extent 
+12 as provided for governmental entities in the Maine Tort Claims Act.  
+13§176.  Confidentiality of account information
+141. Individual account information. Individual account information for accounts 
+15 under the program, including, but not limited to, names, residential addresses, e-mail 
+16 addresses, telephone numbers, personal identification information, amounts contributed 
+17 and earnings on amounts contributed, is confidential and must be maintained as 
+18 confidential except to the extent necessary to administer the program in a manner consistent 
+19 with this chapter, the tax laws of this State and the Internal Revenue Code or unless the 
+20 person who provides the information or is the subject of the information expressly agrees 
+21 in writing that the information may be disclosed.
+222. Restriction on use of personal information. An individual or organization that has 
+23 access to personal information of participants solely because of its contracts or agreements 
+24 with the board to provide services or support to the program, including plan administration, 
+25 may not use that information to market its products or services not associated with the 
+26 program to participants unless the participant affirmatively consents to receive such 
+27 information.
+28§177.  Intergovernmental collaboration and cooperation
+29 The board may enter into an intergovernmental agreement or memorandum of 
+30 understanding with the State and any agency or instrumentality of the State to receive 
+31 outreach, technical assistance, enforcement and compliance services, collection or 
+32 dissemination of information pertinent to the program subject to such obligations of 
+33 confidentiality as may be agreed or required by law or other services or assistance.  The 
+34 State and any agencies or instrumentalities of the State that enter into such agreements or 
+35 memoranda of understanding shall collaborate to provide the outreach, assistance, 
+36 information and compliance or other services or assistance to the board. The agreements or 
+37 memoranda of understanding may cover the sharing of costs incurred in gathering and 
+38 disseminating information and the reimbursement of costs for any enforcement activities 
+39 or assistance.
+40§178. Maine Retirement Savings Program Enterprise Fund
+411. Fund established. The Maine Retirement Savings Program Enterprise Fund is 
+42 established as an enterprise fund.  The board shall use funds deposited in the enterprise 
+43 fund in accordance with this section.  The enterprise fund may receive grants, gifts, 
+44 donations, appropriations, loans or other funds designated for administrative expenses or 
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 15 - 129LR0153(02)
+COMMITTEE AMENDMENT45 otherwise transferred to the enterprise fund from or deposited in the enterprise fund by the 
+46 State or a unit of federal, state or local government or any other person, firm, partnership 
+47 or corporation, including appropriations to the enterprise fund by the Legislature and funds 
+48 from the payment of application, account, administrative or other fees and the payment of 
+49 other funds due the board.  Interest or other investment earnings or returns that are 
+50 attributable to funds in the enterprise fund must be deposited into or retained in the 
+51 enterprise fund.  The enterprise fund may not lapse but must be carried forward to carry 
+52 out the purposes of this chapter. The board shall amortize any amounts appropriated to the 
+53 enterprise fund by the Legislature to ensure that those amounts are paid back to the funding 
+54 sources based on an amortization schedule determined by the board, but no later than 5 
+55 years after the program is fully implemented. 
+122. Borrowing. To enable or facilitate the start-up and continuing operation, 
+13 maintenance, administration and management of the program until the program 
+14 accumulates sufficient balances and can generate sufficient funding through fees assessed 
+15 on program accounts for the program to become financially self-sustaining, the board may 
+16 borrow from the State, any unit of federal, state or local government or any other person, 
+17 firm, partnership or corporation working capital funds and other funds as may be necessary 
+18 for this purpose, as long as such funds are borrowed in the name of the program and board 
+19 only and that any such borrowing is repaid solely from the revenues of the program. The 
+20 board may not borrow from the retirement system for any purpose. The board may enter 
+21 into long-term procurement contracts with one or more financial or service providers that 
+22 provide a fee structure that would assist the program in avoiding or minimizing the need to 
+23 borrow or to rely upon general assets of the State.
+243. Administrative costs. Subject to appropriation by the Legislature, the State may pay 
+25 administrative costs associated with the creation, maintenance, operation and management 
+26 of the program and provide funding for the program until sufficient assets are available in 
+27 the enterprise fund for that purpose. Thereafter, all administrative costs of the enterprise 
+28 fund, including any repayment of start-up funds provided by the State, must be repaid only 
+29 out of money on deposit in the enterprise fund. However, private funds or federal funding 
+30 received in order to implement the program until the enterprise fund is self-sustaining may 
+31 not be repaid unless those funds were offered contingent upon the promise of such 
+32 repayment.
+334. Use of enterprise fund. The board shall use the money in the enterprise fund solely 
+34 to pay the administrative costs and expenses of the program and the administrative costs 
+35 and expenses the board incurs in the performance of its duties under this chapter. 
+36§179.  Accounting and annual report
+371. Account; audit. The board shall cause an accurate account of all of the program's, 
+38 enterprise fund's and board's activities, operations, receipts and expenditures to be 
+39 maintained on a calendar year basis. A full audit of the books and accounts of the board 
+40 pertaining to those activities, operations, receipts and expenditures must be conducted by 
+41 a certified public accountant, including, but not limited to, direct and indirect costs 
+42 attributable to the use of outside consultants, independent contractors and any other persons 
+43 who are not state employees for the administration of the program.  For the purposes of the 
+44 audit, the auditors must have access to the properties and records of the program and board 
+45 and may prescribe methods of accounting and the rendering of periodic reports in relation 
+46 to projects undertaken by the program.1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 16 - 129LR0153(02)
+COMMITTEE AMENDMENT12. Submission of report. Beginning February 1, 2023 and annually thereafter, the 
+2 board shall submit to the Governor, the Treasurer of State and the Legislature an audited 
+3 financial report, prepared in accordance with generally accepted accounting principles, 
+4 detailing the activities, operations, receipts and expenditures of the program and board 
+5 during the preceding calendar year. The report must include the number of participants, the 
+6 investment options and their rates of return and other information regarding the program 
+7 and must also include projected activities of the program for the current calendar year.  
+8Sec. 2.  5 MRSA §12004-G, sub-§33-G is enacted to read:
+933-G.   
+Retirement System Maine Retirement 
+Savings BoardLegislative Per 
+Diem and Expenses5 MRSA §172
+10  
+13Sec. 3.  Implementation of Maine Retirement Savings Program.  Except as 
+14 provided in this section, the Maine Retirement Savings Board shall establish the Maine 
+15 Retirement Savings Program as required under this Act so that individuals may begin 
+16 making contributions under the program no later than July 1, 2022. The board shall phase 
+17 in the program with regard to covered employers and accept contributions from covered 
+18 employees employed by those covered employers as required under this Act and may in its 
+19 discretion phase in the program for individuals who are not employees, such as self-
+20 employed individuals or independent contractors, expect that any implementation schedule 
+21 set by the board must be such that all individuals may begin making contributions under 
+22 the program no later than January 1, 2024. The board may not implement the program if 
+23 and to the extent that the board determines that the program is preempted by the federal 
+24 Employee Retirement Income Security Act of 1974, as amended, 29 United States Code, 
+25 Section 1001 et seq.  If and to the extent that the board determines that a portion or aspect 
+26 of the program is preempted by the federal Employee Retirement Income Security Act of 
+27 1974, the board may not implement that portion or aspect of the program but shall proceed 
+28 to implement the remainder of the program to the extent practicable. If the board determines 
+29 that some but not all of the payroll deduction individual retirement account arrangements 
+30 or other arrangements under the program are or would be employee benefit plans under the 
+31 federal Employee Retirement Income Security Act of 1974, the board shall implement the 
+32 program with respect to the other arrangements under the program to the extent practicable 
+33 and may not implement the program with respect to plans covered by the federal Employee 
+34 Retirement Income Security Act of 1974 or proceed to implement the program with respect 
+35 to plans covered by the federal Employee Retirement Income Security Act of 1974 on a 
+36 basis reflecting their status or possible status as such, as long as such actions do not create 
+37 an undue risk of causing the federal Employee Retirement Income Security Act of 1974 to 
+38 preempt state law with respect to other portions of the program or causing other 
+39 arrangements under the program to be treated as plans covered by the federal Employee 
+40 Retirement Income Security Act of 1974.
+41Sec. 4.  Staggered terms.  Notwithstanding the Maine Revised Statutes, Title 5, 
+42 section 172, subsection 3, with regard to the original appointments of the members of the 
+43 Maine Retirement Savings Board, the Governor shall appoint one member for a one-year 
+44 term, one member for a 2-year term, one member for a 3-year term and any other member 10
+11
+12
+COMMITTEE AMENDMENT “      ” to S.P. 181, L.D. 594
+Page 17 - 129LR0153(02)
+COMMITTEE AMENDMENT45 for a 4-year term.  The Governor shall appoint the initial members of the board no later 
+46 than July 1, 2021.
+3Sec. 5.  Transfer of settlement funds; fiscal year 2020-21.  Notwithstanding 
+4 any other provision of law to the contrary, no later than February 1, 2021, the State 
+5 Controller shall transfer $1,600,000 of the funds received pursuant to court order in State 
+6 of Maine v. Equifax, Inc., Kennebec County Superior Court Docket No. CV-19-152 and 
+7 the Wells Fargo & Company multistate settlement agreement signed December 28, 2018 
+8 to the Maine Retirement Savings Program Enterprise Fund established in the Maine 
+9 Revised Statutes, Title 5, section 178.  Funds transferred pursuant to this section must be 
+10 used solely for consumer and antitrust activities identified in the court decree and approved 
+11 by the Attorney General with the consent of the President of the Senate, the Speaker of the 
+12 House of Representatives, the Minority Leader of the Senate and the Minority Leader of 
+13 the House of Representatives.
+14Sec. 6.  Appropriations and allocations.  The following appropriations and 
+15 allocations are made.
+16Maine Retirement Savings Board
+17Maine Retirement Savings Program N347
+18 Initiative: Allocates funds to the Maine Retirement Savings Program Enterprise Fund to be 
+19 used in accordance with the requirements in the bill.
+MAINE RETIREMENT SAVINGS PROGRAM 
+ENTERPRISE FUND2019-20 2020-21
+All Other $0 $1,600,000
+ __________ __________
+MAINE RETIREMENT SAVINGS PROGRAM 
+ENTERPRISE FUND TOTAL$0 $1,600,000
+20 '
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section 
+28 number to read consecutively.
+29SUMMARY
+30 This amendment replaces the bill and is the majority report of the committee. Like the 
+31 bill, the amendment establishes the Maine Retirement Savings Board except that the 
+32 amendment designates the executive director of the Maine Public Employees Retirement 
+33 System as chair of the board instead of the Treasurer of State and removes the program 
+34 from the Office of the Treasurer of State. The amendment requires the board to develop a 
+35 voluntary program to offer individual defined contribution retirement accounts for persons 
+36 employed in the State who do not have access to a qualified retirement plan through their 
+37 employers or who are self-employed.
+38FISCAL NOTE REQUIRED
+39(See attached)
+40  1
+2
+20
+21
+22
+23
+24
+25
+26
+Approved: 07/31/20
+LD 594 LR 153 (02)
+FY 2019-20 FY 2020-21Projections 
+FY 2021-22Projections 
+FY 2022-23
+Appropriations/Allocations
+Maine Retirement Savings 
+Program Enterprise Fund$0 $1,600,000 $500 $500
+Transfers
+Private Trust Funds $0 ($1,600,000) $0 $0
+Maine Retirement Savings 
+Program Enterprise Fund$0 $1,600,000 $0 $0
+Legislative Cost/Study
+Fiscal Detail and NotesLegislative Cost/Study
+No net fiscal impact - Maine Public Employees Retirement System
+Additional costs to the Office of the Treasurer of State asso ciated with serving on the board can be absorbed within 
+existing budgeted resources.129th MAINE LEGISLATURE
+An Act To Promote Individual Savings Accounts through a Public-Private Partnership
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Health Covera ge, Insurance and Financial Services
+Fiscal Note Re quired: Yes
+Fiscal Note
+The bill establishes the Maine Retirement Savings Program En terprise Fund (the Fund) and transfers money held by 
+the Treasurer of State on behalf of the Attorney General that was received pursuant to the court order in State of 
+Maine v. Equifax, Inc., Kennebec County Superior Cour t Docket No. CV-19-152 and the Wells Fargo & Company 
+multistate settlement agreement to the Fund. The bill also includes an allocation to the Fund of $1,600,000 in fiscal 
+year 2020-21. This allocation is funded by the transfer descri bed above and is to be used for administrative expenses 
+incurred in the performance of the retirement system’s dutie s under this chapter. Because this legislation provides 
+that the Fund reimburse the Maine Public Employees Retirem ent System (MainePERS) for the full cost of any staff 
+time provided to the Maine Retirement Savings Board, incl uding the time of the executive director, there is no net 
+fiscal impact to MainePERS.The general operating expenses of this study are projected  to be $420 in fiscal year 2020-21, $2,560 in fiscal year 
+2021-22 and $2,340 in fiscal year 2022-23. An estimated $6,190 is available in fiscal year 2020-21 in the 
+Legislature's budget for legislative studies as well as ba lances from prior years for this purpose. Whether these 
+amounts are sufficient to fund all studies will depend on the number of studies authorized by the Legislative Council 
+and the Legislature. The additional costs of providing st affing assistance to the study during the interim can be 
+LR0153(02) - Fiscal Note - Page 1 of 1

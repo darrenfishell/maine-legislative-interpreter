@@ -1,0 +1,366 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 875
+S.P. 289 In Senate,  March  8, 2021
+An Act  To Protect  Taxpayers in  the Privatization  of Services  and To 
+Establish the State Procurement  Review Committee
+Reference to the Committee on State  and Local Government suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BALDACCI of Penobscot.
+Cosponsored by Senator:  RAFFERTY of York, Representatives: CUDDY of Winterport, 
+Speaker FECTEAU  of Biddeford.
+
+Page 1 - 130LR0601(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §18, sub-§1, ¶D, as enacted by PL 1979, c. 734, §2, is amended 
+3 to read:
+4 D.  "Proceeding" means a proceeding, application, request, ruling, determination, 
+5 award, contract, claim, controversy, charge, accusation, arrest or other matter relating 
+6 to governmental action or inaction, but does not include an employee organization bid 
+7 or contract to provide agency services under section 1816-B.
+8Sec. 2.  5 MRSA §18-A, sub-§4, as enacted by PL 2001, c. 203, §2, is amended to 
+9 read:
+104.  Exemptions.  This section does not apply:
+11 A.  To purchases by the Governor under authority of Title 1, section 814;
+12 B.  To contracts made with a corporation that has issued shares to the public for the 
+13 general benefit of that corporation; or
+14 C.  If an exemption is approved by the Director of the Bureau of General Services 
+15 within the Department of Administrative and Financial Services or the director's 
+16 designee based upon one of the following and if the director gives notice of the granting 
+17 of this exemption to all parties bidding on the contract in question with a statement of 
+18 the reason for the exemption and if an opportunity is provided for any party to appeal 
+19 the granting of the exemption:
+20 (1)  When the private entity or party that proposes to contract with the State and 
+21 that employs the executive employee, based upon all relevant facts, is the only 
+22 reasonably available source to provide the service or product to the State, as 
+23 determined by the director; or
+24 (2)  When the director determines that the amount of compensation to be paid to 
+25 the private entity or party providing the service or product to the State is de 
+26 minimis. ; or
+27 D.  To a contract by an employee organization to provide agency services under section 
+28 1816-B.
+29Sec. 3.  5 MRSA §1816-B is enacted to read:
+30§1816-B.  Privatization of agency services
+311. Definitions. As used in this section, unless the context otherwise indicates, the 
+32 following terms have the following meanings. 
+33 A. "Agency" means a state agency as defined in section 1552, subsection 6, but does 
+34 not include the Maine Community College System. 
+35 B. "Agency cost estimate" means the cost to the agency seeking to privatize services 
+36 to provide the services in the most cost-efficient manner. "Agency cost estimate" is the 
+37 total of all direct and indirect costs to provide the services, including but not limited to 
+38 wages and pension, insurance and other employee benefit costs of agency employees.
+39 C.  "Agency employee" means an employee of the agency seeking to privatize services.
+Page 2 - 130LR0601(01)1 D.  "Business day" means any calendar day, excluding Saturdays, Sundays and legal 
+2 holidays listed in Title 4, section 1051.
+3 E. "Commissioner" means the Commissioner of Administrative and Financial 
+4 Services.
+5 F. "Contract cost" means the total cost to the agency to privatize services.  The total 
+6 cost is the sum of the cost of the proposed bid designated pursuant to subsection 7, the 
+7 costs of transition from public to private operation, the costs of any additional 
+8 unemployment and retirement benefits and the costs of monitoring and otherwise 
+9 administering contract performance.
+10 G.  "Contractor" means a nongovernmental person that has entered into a privatization 
+11 contract with the State. 
+12 H.  ''Dependent'' means the spouse or child of an employee if the spouse or child would 
+13 qualify for dependent status under the United States Internal Revenue Code of 1986 or 
+14 for whom a support order has been or could be granted under Title 19-A, section 1652, 
+15 subsection 2. 
+16 I.  "Employee organization" means an organization that has as its primary purpose the 
+17 representation of employees in their employment relations with an employer under 
+18 Title 26, chapter 9-B. 
+19 J.  ''Privatization contract'' means an agreement or a combination or series of 
+20 agreements by which a nongovernmental person agrees with an agency to provide 
+21 services that are substantially similar to and in lieu of services provided, in whole or in 
+22 part, by agency employees and that has an agency cost estimate of at least $500,000 as 
+23 of October 1, 2021 and annually increased by the amount of increase in the Consumer 
+24 Price Index compiled by the United States Department of Labor, Bureau of Labor 
+25 Statistics for the most recent 12-month period for which data are available.  
+26 "Privatization contract" does not include: 
+27 (1)  Any subsequent agreement to a privatization contract, including an agreement 
+28 resulting from a rebidding of previously privatized service, or an agreement 
+29 renewing or extending a privatization contract; 
+30 (2) A contract for information technology services provided to an agency if an 
+31 employee organization representing the agency employees agrees to the terms of 
+32 the contract in writing; or 
+33 (3) An agreement solely to provide legal, management consulting, planning, 
+34 engineering or design services.
+352.  Privatization of services.  Notwithstanding any provision of this chapter or chapter 
+36 156 to the contrary, an agency seeking to enter into a privatization contract shall, in 
+37 consultation with the commissioner, comply with the requirements of this section. 
+38 A. Prior to issuing a request for proposals under subsection 5 for the privatization of 
+39 services, an agency seeking to enter into a privatization contract shall prepare a written 
+40 statement that includes:
+41 (1) A summary of the services proposed to be the subject of the privatization 
+42 contract, including the specific quantity and standard of quality of the services;
+Page 3 - 130LR0601(01)1 (2) The minimum wage rate for each position for which a contractor may employ 
+2 a person pursuant to the privatization contract and for which the duties are 
+3 substantially similar to the duties performed by an agency employee.  The 
+4 minimum wage rate must be the lowest classification under chapter 372 under 
+5 which the comparable agency employee is paid or the average private sector wage 
+6 rate for the position as determined by the commissioner from data collected by the 
+7 Department of Administrative and Financial Services, Bureau of Human 
+8 Resources and Bureau of General Services, whichever is lower; and
+9 (3) The percentage paid by the State for the costs of health insurance plan coverage 
+10 for the agency employees who are employed for not less than 20 hours per week 
+11 and the percentage paid by the State for such costs for any dependent of such an 
+12 employee.
+13 B. A written statement created by an agency under paragraph A is a public record and 
+14 must be filed, prior to issuance of a request for proposals, with the commissioner, the 
+15 Attorney General and employee organizations that represent agency employees.
+16 C. Prior to issuing a request for proposals under subsection 5 for the privatization of 
+17 services, an agency seeking to enter into a privatization contract shall determine the 
+18 agency cost estimate.  The agency cost estimate is confidential and not a public record 
+19 until the day after the final day for the agency to receive sealed bids for the privatization 
+20 contract pursuant to subsection 5, at which time the agency cost estimate becomes a 
+21 public record and must be filed with the commissioner and the Attorney General.
+223. Employee organization request for review; final agency action.  An employee 
+23 organization representing agency employees may file a written request for review with the 
+24 commissioner regarding the contents of the written statement required in subsection 2, 
+25 paragraph A within 10 business days of the date the statement was filed.  The commissioner 
+26 shall issue a written decision on the request for review within 15 business days of receiving 
+27 the request for review.  The commissioner's decision under this subsection constitutes final 
+28 agency action for the purposes of judicial review under chapter 375, subchapter 7.
+294.  Collective bargaining agreement amendment.  An employee organization 
+30 representing agency employees may at any time before the final day for the agency to 
+31 receive sealed bids pursuant to subsection 5 propose an amendment to any relevant 
+32 collective bargaining agreement to which the employee organization is a party, but such a 
+33 proposed amendment may take effect only if the effect of the proposed amendment is to 
+34 reduce the agency cost estimate below the contract cost. A proposed amendment under this 
+35 subsection is confidential and not a public record until the day after the final day for the 
+36 agency to receive sealed bids for the privatization contract pursuant to subsection 5, at 
+37 which time the proposed amendment becomes a public record and must be filed with the 
+38 agency, the commissioner and the Attorney General. 
+395.  Request for proposals. An agency seeking to enter into a privatization contract 
+40 shall solicit competitive sealed bids for the privatization contract through the request for 
+41 proposals process. The day designated by the agency upon which it will accept sealed bids 
+42 must be the same for all parties.
+43 A. The request for proposals for a privatization contract and the privatization contract 
+44 must require the contractor to:
+Page 4 - 130LR0601(01)1 (1)  Pay a rate no less than the minimum wage rate established pursuant to 
+2 subsection 2, paragraph A, subparagraph (2) for each position subject to a 
+3 minimum wage rate;
+4 (2)  Provide, to an employee employed for not less than 20 hours per week and to 
+5 any dependent of the employee, health insurance plan coverage that is comparable 
+6 to the health insurance plan coverage provided to agency employees;
+7 (3)  Pay not less than the percentage established pursuant to subsection 2, paragraph 
+8 A, subparagraph (3) toward the cost of health insurance plan coverage for an 
+9 employee employed for not less than 20 hours per week and for any dependent of 
+10 such an employee;
+11 (4)  Submit quarterly payroll records to the agency, listing the name, address, social 
+12 security number, hours worked and hourly wage rate paid for each employee in the 
+13 previous quarter. Employee names, addresses and social security numbers are 
+14 confidential;
+15 (5)  Offer available employee positions under the privatization contract to qualified 
+16 agency employees who are displaced or terminated because of the privatization 
+17 contract and who satisfy the nondiscriminatory hiring criteria of the contractor 
+18 under subparagraph (6); and
+19 (6)  Comply with a policy of nondiscrimination and take affirmative steps to 
+20 provide equal opportunity for any person protected by the Maine Human Rights 
+21 Act.
+22 B. The Attorney General may bring a civil action for equitable relief in Superior Court 
+23 to enforce paragraph A or to prevent or remedy the dismissal, demotion or other action 
+24 prejudicing any employee as a result of a report of a violation of paragraph A.
+25 C. The term of a privatization contract, including renewals provided for in a 
+26 privatization contract, may not exceed 5 years unless a longer term is approved by the 
+27 commissioner.
+28 D. A privatization contract may not be amended for the purpose or effect of avoiding 
+29 a requirement of this section. 
+306. Employee organization bids.  Agency employees who are represented by an 
+31 employee organization may organize and request that the employee organization submit a 
+32 bid on their behalf to provide the services to be privatized.
+33 A. An employee organization, after consulting with any agency employees seeking to 
+34 bid on a privatization contract, shall provide adequate resources for the purpose of 
+35 encouraging and assisting agency employees to organize and submit a bid to provide 
+36 the services to be privatized.  For purposes of this paragraph, "adequate resources" 
+37 means no less than the minimum level of assistance provided for in:
+38 (1) The terms of the existing collective bargaining agreement covering the agency 
+39 employees seeking to submit a bid; 
+40 (2) The terms of the expired collective bargaining agreement covering the agency 
+41 employees seeking to submit a bid during the period of collective bargaining 
+42 negotiations for a new agreement; or
+Page 5 - 130LR0601(01)1 (3) The terms of a comparable collective bargaining agreement covering 
+2 individuals who provide similar services if the existing or expired collective 
+3 bargaining agreement does not provide for a minimum level of assistance.
+4 B.  An employee organization bid under this subsection may be made as a joint venture 
+5 with other persons.
+6 C.  An employee organization bid under this subsection is confidential and not a public 
+7 record until the day after the agency designates the proposed winning bidder under 
+8 subsection 7.
+97. Review of bids; designation of winning bidder.  After soliciting and receiving the 
+10 submitted bids, an agency shall: 
+11 A. Publicly designate the bidder to which the agency proposes to award a privatization 
+12 contract;
+13 B.  Determine the contract cost of the designated bid and file a cost analysis with the 
+14 commissioner and the Attorney General.  If the proposed bidder under paragraph A 
+15 proposes to perform any or all of the contract outside the boundaries of the State, the 
+16 contract cost must be increased by the amount of any lost income tax revenue to the 
+17 State caused by the corresponding elimination of agency employees, as determined by 
+18 the State Tax Assessor; and
+19 C. Determine whether the contract cost under paragraph B is less than the agency cost 
+20 estimate prepared pursuant to subsection 2, paragraph C.  If the contract cost is equal 
+21 to or more than the agency cost estimate, the agency may not enter into a privatization 
+22 contract.
+23 If a bid is received from an employee organization, the commissioner, or the 
+24 commissioner's designee, may include staff from the Department of Administrative and 
+25 Financial Services, Bureau of Human Resources in the bid review process authorized by 
+26 section 1825-D.
+278. Negotiation of privatization contract.  If the contract cost calculated pursuant to 
+28 subsection 7, paragraph B is less than the agency cost estimate, the agency may begin 
+29 negotiating the terms of the privatization contract except that, if an employee organization 
+30 bid is awarded the privatization contract pursuant to subsection 7, the Department of 
+31 Administrative and Financial Services, Bureau of Human Resources shall negotiate the 
+32 terms of the privatization contract with the employee organization. If the contract cost is 
+33 equal to or more than the agency cost estimate, the agency may not enter into a privatization 
+34 contract.  The privatization contract must be filed with the commissioner and the Attorney 
+35 General prior to execution.
+369.  Attorney General authority.  The authority of the Attorney General over the 
+37 privatization of services is governed by this subsection.
+38 A. At any time during the process of privatizing any services pursuant to this section, 
+39 the Attorney General may:
+40 (1)  Intervene in the process;
+41 (2)  Require by summons the attendance and testimony under oath of state 
+42 employees and the production of documents for the purpose of investigating 
+43 whether the provisions set forth in this chapter and chapter 156 are met.  All 
+Page 6 - 130LR0601(01)44 documents produced and testimony given to the Attorney General pursuant to this 
+45 subparagraph are confidential. The Attorney General may seek an order from the 
+46 Superior Court compelling compliance with a summons issued under this 
+47 subparagraph; and
+5 (3)  Bring an action in Superior Court in the name of the State against an agency 
+6 when the Attorney General has reason to believe that a requirement of this section 
+7 has not been met, the agency has acted unlawfully or beyond the scope of its 
+8 authority, the actions or inactions of the agency are not supported by the record 
+9 required by this section or the privatization of services is not in the public interest.
+10 B.  After the filing of a court action under this subsection, further action by an agency 
+11 under this section must be stayed unless the court orders otherwise.  During the period 
+12 of the stay, any time period specified for agency action under this chapter or chapter 
+13 156 is tolled until the court action is dismissed by the Attorney General or the Superior 
+14 Court orders an agency to take further action.  Relief from the stay may be granted only 
+15 upon a showing of compelling justification.
+16 C.  Except as provided in this paragraph, at least 10 business days prior to 
+17 commencement of an action under this subsection, the Attorney General shall notify 
+18 the agency and the commissioner of the proposed action and shall provide the 
+19 commissioner and the agency an opportunity to confer with the Attorney General in 
+20 person or by counsel or other representative as to the proposed action.  The Attorney 
+21 General may proceed without notice upon a showing by affidavit of immediate 
+22 irreparable harm to the citizens of the State.
+23 D.  An action by the Attorney General under this subsection may seek to, among other 
+24 things, restrain by temporary or permanent injunction the privatization of services 
+25 under this section, and the court may make such other orders or judgments as may be 
+26 necessary to prevent the privatization of services.
+2710.  Rules; forms.  The Department of Administrative and Financial Services may 
+28 prescribe forms and adopt rules to carry out the provisions of this section and to ensure that 
+29 the competitive bidding process under this section is consistent with the provisions of 
+30 competitive bids under subchapter 1-A.  Rules adopted pursuant to this subsection are 
+31 routine technical rules as defined in chapter 375, subchapter 2-A.
+32Sec. 4.  5 MRSA §1824-B is enacted to read:
+33§1824-B.  State Procurement Review Committee
+34 The State Procurement Review Committee, referred to in this section as "the 
+35 committee," is established to oversee, subject to the provisions of section 1825-B, 
+36 subsection 2, the purchase of services subject to this chapter that cost $1,000,000 or more. 
+37 The purchase of services that cost less than $1,000,000 may be subject to this section at the 
+38 discretion of the chair of the committee.
+391.  Membership.  The membership of the committee includes:
+40 A.  A member of the Governor's staff, appointed by the Governor;
+41 B.  The director of the division of procurement services within the Department of 
+42 Administrative and Financial Services or the director's designee;
+43 C.  The State Budget Officer or the State Budget Officer's designee;1
+2
+3
+4
+Page 7 - 130LR0601(01)1 D.  The State Controller or the State Controller's designee; and
+2 E.  The Attorney General or the Attorney General's designee, serving as a nonvoting 
+3 member.
+4 The Chief Information Officer or the Chief Information Officer's designee is a committee 
+5 member when the services to be purchased by a department or agency are within the Chief 
+6 Information Officer's responsibilities and duties under chapter 163.
+72.  Chair.  The director of the division of procurement services within the Department 
+8 of Administrative and Financial Services or the director's designee shall serve as chair of 
+9 the committee.
+103.  Unanimous consent.  A decision by the committee requires unanimous consent.
+114.  Requests for review.  Prior to issuing a request for proposals, executing a contract 
+12 or grant or renewing, extending, amending or otherwise altering an existing contract or 
+13 grant to purchase services that cost $1,000,000 or more, a department or agency shall 
+14 submit a request for review to the chair of the committee.  The department or agency shall 
+15 submit to the chair the request for proposals, proposed contract, contract amendment and 
+16 related contract bid documents, as appropriate.  The committee may request additional 
+17 information and documentation from the department or agency.
+185.  Attorney General review.  If the cost of the request for proposals, contract or grant 
+19 or renewal, extension, amendment or other alteration to an existing contract or grant is 
+20 likely to equal or exceed $3,000,000, the department or agency shall give the Attorney 
+21 General the opportunity to review the proposal, contract or grant or the renewal, extension, 
+22 amendment or other alteration to an existing contract or grant prior to submitting a request 
+23 for review pursuant to subsection 4.  The Attorney General, or the Attorney General's 
+24 designee, may review the terms of the proposal, contract or grant or the renewal, extension, 
+25 amendment or other alteration to an existing contract or grant and notify the department or 
+26 agency of any concerns with the terms.
+276.  Duties.  The committee may approve a request to issue a request for proposals, 
+28 execute a contract or grant or renew, extend, amend or otherwise alter an existing contract 
+29 or grant subject to this section if the committee finds that:
+30 A.  The service to be provided under the contract or grant cannot be economically 
+31 provided by a department or agency;
+32 B.  The contract or grant is the most economical, effective and appropriate means of 
+33 providing the service;
+34 C.  The contract or grant will not impair the ability of a department or agency to meet 
+35 its statutory duties and responsibilities under state or federal laws, rules or regulations; 
+36 and
+37 D.  The contract or grant will not diminish the impact of statewide or other budgetary 
+38 cost-saving initiatives.
+397.  Rules; forms.  The Department of Administrative and Financial Services may 
+40 prescribe forms and adopt rules to carry out the provisions of this section.  Rules adopted 
+41 pursuant to this subsection are routine technical rules as defined in chapter 375, subchapter 
+42 2-A.
+Page 8 - 130LR0601(01)1SUMMARY
+2 This bill sets out requirements for certain state agencies seeking to enter into a contract 
+3 to privatize services.  Prior to issuing a request for proposals, an agency must determine 
+4 the minimum wage rate it pays the employees providing the services, the percentage of 
+5 health insurance plan coverage provided by the State for those employees and their 
+6 dependents and the cost to the agency to provide the services.  All bids and subsequent 
+7 privatization contracts must pay the established minimum wage rate, provide comparable 
+8 health insurance coverage and pay at least the same percentage for health insurance plan 
+9 coverage as paid by the agency to employees providing the services and their dependents 
+10 prior to the privatization.  The bid and successful contractor must offer employment to any 
+11 agency employee displaced or terminated because of the privatization of services who 
+12 meets the contractor's nondiscriminatory hiring criteria.  The bill allows agency employees, 
+13 through an employee organization, to submit a bid to provide the services.  The bill allows 
+14 an employee organization representing employees who will be displaced or terminated if 
+15 the services are privatized to offer an amendment to the collective bargaining agreement 
+16 that will lower the agency's cost to provide the services.  A privatization contract may not 
+17 be executed if the total cost of the contract, including transition costs to move services from 
+18 the agency to the contractor, is more than the agency's estimation of its cost to provide the 
+19 services.  The bill requires all calculations, documents and other relevant materials to be 
+20 submitted to the Attorney General.  The Attorney General may choose to review the 
+21 materials and may request additional information during the review.  The bill grants 
+22 authority to the Attorney General to intervene at any stage of the privatization process.  The 
+23 bill also gives an employee organization the authority to request a review of the written 
+24 statement prepared by the agency seeking to privatize services.  The Commissioner of 
+25 Administrative and Financial Services is required to provide a response to such a request 
+26 within 15 business days, and the decision is considered final agency action for purposes of 
+27 judicial review. The Attorney General has the authority to bring an action to prevent or 
+28 enjoin privatization in appropriate cases. 
+29 The bill also establishes the State Procurement Review Committee to oversee requests 
+30 for proposals and contracts and grants and renewals, extensions, amendments and other 
+31 alterations to existing contracts and grants valued over $1,000,000.  The Office of the 
+32 Attorney General must be consulted when the value equals or exceeds $3,000,000.

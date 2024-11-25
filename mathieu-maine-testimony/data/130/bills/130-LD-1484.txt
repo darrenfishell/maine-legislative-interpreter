@@ -1,0 +1,313 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1484
+S.P. 477 In Senate, April 14, 2021
+An Act  To Enhance the  ConnectMaine Authority's Capacity To 
+Provide World-class  Internet
+Received by the Secretary of the Senate on April 12, 2021.   Referred to the Committee on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BENNETT  of Oxford.
+Cosponsored by Representative BERRY  of Bowdoinham  and
+Senator: MAXMIN  of Lincoln, Representative: SKOLFIELD of Weld.
+
+Page 1 - 130LR1519(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-G, sub-§33-F, as amended by PL 2019, c. 625, §1, is 
+3 further amended to read:
+433-F.  
+Technology ConnectMaine Authority Not Authorized 35‑A MRSA 
+§9203    
+§9203-A
+5Sec. 2.  5 MRSA §12021, sub-§6, ¶B, as amended by PL 2019, c. 625, §2, is further 
+6 amended to read:
+10 B.  The ConnectMaine Authority under Title 35‑A, section 9203  9203-A;
+11Sec. 3.  35-A MRSA §9202, sub-§2, as amended by PL 2019, c. 625, §6, is further 
+12 amended to read:
+132.  Authority.  "Authority" means the ConnectMaine Authority established in section 
+14 9203  9203-A.
+15Sec. 4.  35-A MRSA §9203, as amended by PL 2019, c. 625, §7, is repealed.
+16Sec. 5.  35-A MRSA §9203-A is enacted to read:
+17§9203-A.  ConnectMaine Authority
+181.  Establishment; purpose.  The ConnectMaine Authority is established as a 
+19 nonprofit corporation with public and charitable purposes whose duties, activities and 
+20 operations are within the provisions of the United States Internal Revenue Code, Section 
+21 501(c)(3).
+22 A.  In accordance with the provisions of this chapter, the authority shall engage in all 
+23 necessary activities and shall encourage and support projects and partnerships that 
+24 further the goals and policies in section 9202-A.
+25 B.  The authority shall operate as a nonprofit organization consistent with its 
+26 composition and broad public purposes.  No part of the net earnings of the authority 
+27 may benefit any member, officer, director or employee, including directors of the 
+28 board, except that the authority may pay reasonable compensation for services rendered 
+29 and otherwise hold, manage and dispose of its property in furtherance of the purposes 
+30 of the authority.
+312.  Board of directors.  The authority is governed and all of its powers exercised by a 
+32 board of directors, referred to in this chapter as "the board," consisting of the following 7 
+33 voting members:
+34 A.  The chair of the Public Utilities Commission or the chair's designee; 
+35 B.  The Chief Information Officer of the State or the officer's designee;  
+36 C.  One representative of consumers, appointed by the Governor;
+37 D.  Two members with significant knowledge of communications technology, 
+38 appointed by the Governor;5
+6
+7
+8
+9
+Page 2 - 130LR1519(01)1 E.  The Commissioner of Economic and Community Development or the 
+2 commissioner's designee; and
+3 F.  One member with significant knowledge of telehealth as defined in Title 24-A, 
+4 section 4316, subsection 1, appointed by the Governor.
+53.  Terms.  Directors of the board appointed by the Governor are appointed for 3-year 
+6 terms.  Those directors may serve no more than 2 consecutive terms.  Directors who serve 
+7 on the board by virtue of their offices serve terms coincident with their terms in office.
+84.  Chair; vice-chair; secretary; treasurer.  The board shall elect a chair, a vice-chair, 
+9 a secretary and a treasurer from among its members.  Each officer serves for a one-year 
+10 term and is eligible for reelection.
+115.  President.  Once every 2 years, the Governor shall submit the name of an individual 
+12 to the board for confirmation to serve as the president of the authority.  Reappointment is 
+13 subject to confirmation by the board.  The president shall manage the authority's programs, 
+14 services and staff and shall perform other duties the board considers appropriate.
+156.  Quorum.  A majority of the directors constitutes a quorum.
+167.  Executive committee.  The board may elect an executive committee of not fewer 
+17 than 6 members who, in intervals between meetings of the board, may transact such 
+18 business of the authority as the board may authorize from time to time.
+198.  Indemnification.  Each director of the board must be indemnified by the authority 
+20 against expenses actually and necessarily incurred by the director in connection with the 
+21 defense of any action or proceeding in which the director is made a party by reason of being 
+22 or having been a director of the board and against any final judgment rendered against the 
+23 director in that action or proceeding. 
+249.  Liability of officers, directors and employees.  All officers, directors, employees 
+25 and other agents of the authority, including directors of the board, entrusted with the 
+26 custody of the securities of the authority or authorized to disburse the funds of the authority 
+27 must be bonded either by a blanket bond or by individual bonds with a minimum limitation 
+28 of $100,000 coverage for each person covered by the bond or bonds, or equivalent fiduciary 
+29 liability insurance, conditioned upon the faithful performance of their duties. The premiums 
+30 for the bond or bonds must be paid out of the assets of the authority.
+3110.  Prohibited interests of officers, directors and employees.  An officer, director 
+32 or employee of the authority, including a director of the board, or a spouse or dependent 
+33 child of any of those individuals may not receive any direct personal benefit from the 
+34 activities of the authority in assisting any private entity. This section does not prohibit 
+35 corporations or other entities with which an officer or director is associated by reason of 
+36 ownership or employment from participating in activities with the authority if ownership 
+37 or employment is made known to the board and the officer or director abstains from voting 
+38 on matters relating to that participation. This prohibition does not extend to corporators 
+39 who are not officers or directors of the authority.
+4011.  Staff; central broadband planning.  In accordance with section 9205, subsection 
+41 19, the authority shall employ such employees and agents as may be necessary in the 
+42 authority's judgment to carry out the purposes of this chapter.  That staff shall serve as the 
+43 central broadband planning entity for the State and shall support the board and the authority 
+44 in accordance with the provisions of this chapter.
+Page 3 - 130LR1519(01)1Sec. 6.  35-A MRSA §9204-A, sub-§8, as enacted by PL 2015, c. 284, §7, is 
+2 amended to read:
+38.  Limitations on activities of the authority.  The authority may not develop, acquire, 
+4 fund, coordinate or otherwise undertake any project or make any grant, direct investment 
+5 or loan under this chapter unless the authority determines that without the authority's action 
+6 the installation of adequate advanced communications technology infrastructure in an 
+7 unserved or underserved area would not occur within the same time period.  When 
+8 providing grants, direct investment or loans for broadband infrastructure investments, the 
+9 authority shall give preference to those investments that provide the greatest relative 
+10 improvement to existing broadband service in an unserved or underserved area.  The 
+11 authority shall require as a condition of a grant, direct investment or loan for broadband 
+12 infrastructure investments under this chapter that the recipient's performance under the 
+13 agreement or contract governing the grant, investment or loan be subject to audit at the 
+14 authority's discretion and that the recipient be required to return to the authority the amount 
+15 of or a portion of the amount of the grant, investment or loan if the recipient, as determined 
+16 by the authority, fails to comply with a material term of the governing agreement or 
+17 contract.  Notwithstanding any other provision of this chapter, the authority may not 
+18 provide any wireline, wireless, satellite, voice, data or video service at retail or wholesale.
+19Sec. 7.  35-A MRSA §9205, sub-§4-A is enacted to read:
+204-A.  Securities.  To acquire, subscribe to, own, hold, sell, assign, transfer, mortgage 
+21 or pledge the stock, shares, bonds, debentures, notes or other securities and evidences of 
+22 interest in or indebtedness of any person, firm, corporation, joint stock company, 
+23 partnership, association or trust and, while the owner or holder thereof, exercise all the 
+24 rights, powers and privileges of ownership, including the right to vote;
+25Sec. 8.  35-A MRSA §9205, sub-§10, as enacted by PL 2005, c. 665, §3, is amended 
+26 to read:
+2710.  Make and execute contracts.  To make and execute contracts and other 
+28 instruments and enter into such transactions with any entity, public or private, as necessary 
+29 or convenient for the exercise of the authority's powers and functions under this chapter;
+30Sec. 9.  35-A MRSA §9205, sub-§11, as enacted by PL 2005, c. 665, §3, is amended 
+31 to read:
+3211.  Agreements; acceptions; contributions; aid; grants.  To enter into agreements 
+33 with and accept loans, aid, contributions, grants and the cooperation or assistance of the 
+34 United States, or any agency of the United States, or of the State or any agency or 
+35 governmental subdivision or any private entity in furtherance of the purposes of this 
+36 chapter, including, but not limited to, the development and financing of a project, and to 
+37 do all things necessary in order to avail the authority of those loans, aid, contributions, 
+38 grants and cooperation;
+39Sec. 10.  35-A MRSA §9205, sub-§17-A is enacted to read:
+4017-A.  Debt.  To borrow money for any of the purposes authorized in this chapter, 
+41 incur debt, which includes the issuance of bonds, debt, notes or other evidences of 
+42 indebtedness, whether secured or unsecured, and secure the same by mortgage, pledge, 
+43 deed of trust or other lien on the authority's property, rights and privileges of every kind 
+44 and nature or any part of or interest in any of them;
+Page 4 - 130LR1519(01)1Sec. 11.  35-A MRSA §9205, sub-§17-B is enacted to read:
+217-B.  Equity investments; loans; contractual arrangements.  In addition to 
+3 disbursement of funds through grants as described in section 9204-A, to make alone or in 
+4 participation or cooperation with others direct equity investments, loans or any other 
+5 contractual arrangement allowed by law with public or private entities for the same 
+6 purposes for which grants may be made;
+7Sec. 12.  35-A MRSA §9205, sub-§19, as enacted by PL 2005, c. 665, §3, is 
+8 amended to read:
+919.  Executive director; other employees  Employees.  To employ an executive 
+10 director, hire and compensate employees as well as consulting engineers, architects, 
+11 attorneys, accountants, construction and financial experts and such other employees and 
+12 agents individuals as may be necessary in the authority's judgment; and
+13Sec. 13.  35-A MRSA §9205-A is enacted to read:
+14§9205-A.  Limitation of powers
+15 The authority may not enter into contracts, obligations or commitments of any kind on 
+16 behalf of the State or any of its agencies, nor does it have the power of eminent domain or 
+17 any other power not provided to business corporations generally. Bonds, notes and other 
+18 evidences of indebtedness of the authority are not a debt or liability of the State and do not 
+19 constitute a pledge of the faith and credit of the State.
+20Sec. 14.  35-A MRSA §9207, sub-§2, as amended by PL 2019, c. 625, §9, is further 
+21 amended to read:
+222.  Protection of information.  A communications service provider may request that 
+23 confidential or proprietary information provided to the authority under this section not be 
+24 viewed by those members of the authority directors of the board who could gain a 
+25 competitive advantage from viewing the information.  Upon such a request, the authority 
+26 shall ensure that the information provided is viewed only by those members of the authority  
+27 directors of the board and staff who do not stand to gain a competitive advantage and that 
+28 there are adequate safeguards to protect that information from members of the authority  
+29 those directors of the board who could gain a competitive advantage from viewing the 
+30 information.
+31Sec. 15.  35-A MRSA §9208, as amended by PL 2019, c. 625, §10, is further 
+32 amended by adding after subsection 4 a new paragraph to read:
+33 As part of the report under this section required to be submitted to the joint standing 
+34 committee of the Legislature having jurisdiction over utilities matters no later than January 
+35 15, 2030, the authority shall include a proposal, along with any necessary implementing 
+36 legislation, designed to facilitate the termination and repeal of the authority by January 15, 
+37 2032.  The proposal shall include an assessment of the authority's success in furthering the 
+38 goals and policies in section 9202-A and may also include an alternative proposal designed 
+39 to continue the activities of the authority for a specified period of time beyond January 15, 
+40 2032.
+41Sec. 16.  35-A MRSA §9209, as enacted by PL 2005, c. 665, §3, is amended to read:
+42§9209.  Conflicts
+Page 5 - 130LR1519(01)1 A member of the authority director of the board may not participate in any decision on 
+2 any contract entered into by the authority under this chapter if that member director has 
+3 any interest, direct or indirect, in any firm, partnership, corporation or association that is 
+4 party to the contract. The interest must be disclosed to the authority in writing and must be 
+5 set forth in the minutes of the authority.
+6Sec. 17.  35-A MRSA §9210, as enacted by PL 2005, c. 665, §3, is amended to read:
+7§9210.  Actions against authority
+8 A member of the authority  director of the board, while acting within the scope of this 
+9 chapter, is not subject to any personal liability resulting from the exercise or carrying out 
+10 of any of the authority's purposes or powers.
+11Sec. 18.  35-A MRSA §9211-A, sub-§3, as enacted by PL 2015, c. 323, §1, is 
+12 amended to read:
+133.  Purpose of the fund.  The fund is established to address the need in the State for 
+14 access to ultra high-speed broadband infrastructure that will enhance the State's 
+15 competitiveness in national and international economies.  To the extent funds are available, 
+16 the fund must be used to provide grants in accordance with subsections 4 and 5 to 
+17 communities, regional partnerships and municipalities to support public-private 
+18 partnerships to support a municipal gigabit fiber-optic broadband network in their regions 
+19 with the following goals and to provide loans in accordance with subsection 7-A to any 
+20 public or private entity to support the following goals:
+21 A.  Provide high-speed broadband access to attract, create and grow the State's 
+22 economy and market the products and services of businesses in the State in national 
+23 and international markets with ultra high-speed symmetric connectivity and address 
+24 challenges in geography;
+25 B.  Provide expanded health care services by facilitating access to telemedicine, as 
+26 defined in Title 24‑A, section 4316, subsection 1, and state and local services for senior 
+27 citizens and persons with disabilities;
+28 C.  Expand educational opportunities for students across the State through virtual and 
+29 distance learning;
+30 D.  Facilitate broader access for the public to services provided by municipal and 
+31 county governments, including, but not limited to, law enforcement entities, the 
+32 judicial system and child, youth and family social services; and
+33 E.  Provide expanded residential services to support employment opportunities.
+34 In order to facilitate the achievement of the goals and policies of this section, the authority 
+35 shall establish and regularly update, after opportunity for public comment and taking into 
+36 consideration relevant federal policies, definitions of "gigabit fiber-optic broadband 
+37 network" and "ultra high-speed broadband infrastructure."
+38Sec. 19.  35-A MRSA §9211-A, sub-§7-A is enacted to read:
+397-A.  Loans; equity investments; requirements.  To the extent funds are available in 
+40 the fund, the authority shall award loans to or make direct equity investments in any public 
+41 or private entity to achieve the purpose of the fund as described in subsection 3, subject to 
+42 the following conditions:
+Page 6 - 130LR1519(01)1 A.  The amount of the loan or investment may not exceed $200,000 for each eligible 
+2 project selected;
+3 B.  The recipient of the loan or investment must demonstrate to the satisfaction of the 
+4 authority that it has a viable plan identical or similar to one created in accordance with 
+5 subsections 5 and 6; and
+6 C.  The recipient of the loan or investment may be required, as a condition of the loan 
+7 or investment, to provide a cash match.
+8 In determining recipients of loans or direct equity investments under this subsection, the 
+9 authority shall solicit proposals from public and private entities for such loans or 
+10 investments and shall select the proposals that, as determined by the authority, represent 
+11 the most cost-effective activities that will achieve the purpose of the fund as described in 
+12 subsection 3.
+13Sec. 20.  35-A MRSA §9211-A, sub-§10, as enacted by PL 2015, c. 323, §1, is 
+14 amended to read:
+1510.  Report.  Beginning December 15, 2016, the authority shall provide an annual 
+16 report to the joint standing committee of the Legislature having jurisdiction over energy 
+17 and utility matters on the grants, loans and investments distributed from the fund and an 
+18 analysis of the fund's activities that have addressed the need for expansion of ultra high-
+19 speed broadband access in the State.
+20Sec. 21.  Transition provisions. The following provisions govern the transition in 
+21 the reorganization of the ConnectMaine Authority under this Act. 
+22 1. The reorganized authority is the successor in every way to the powers, duties and 
+23 functions of the former authority except as those powers, duties and functions are expressly 
+24 altered by this Act. 
+25 2. All existing rules and procedures in effect, in operation or adopted in or by the former 
+26 authority or any of its administrative units or officers are in effect and continue in effect 
+27 until rescinded, revised or amended by the reorganized authority. 
+28 3. All existing contracts, agreements and compacts currently in effect under the former 
+29 authority continue in effect. 
+30 4. All members of the former authority continue as the same representative members 
+31 of the board of the reorganized authority for the remainder of their terms, and any positions 
+32 authorized and allocated subject to the personnel laws of the former authority continue 
+33 within the reorganized authority. 
+34 5. All records, property and equipment previously belonging to or allocated for the use 
+35 of the former authority become, on the effective date of this Act, the property of the 
+36 reorganized authority. 
+37 6. All existing forms, licenses, letterheads and similar items bearing the name of or 
+38 referring to "the ConnectMaine Authority" may be used by the reorganized authority.
+39SUMMARY
+40 This bill amends the laws governing the ConnectMaine Authority as follows.40
+Page 7 - 130LR1519(01)1 1.  It reorganizes the authority as a nonprofit organization with oversight provided by 
+2 a board of directors.
+3 2.  It clarifies the liability of officers, directors and employees of the authority as well 
+4 as conflicts of interest for such individuals.
+5 3.  It authorizes the authority to acquire and hold securities, issue bonds, acquire and 
+6 hold equity investments and enter into agreements or contracts with public and private 
+7 entities.
+8 4.  It requires as a condition of receipt of a grant, direct investment or loan from the 
+9 authority that the recipient's performance be subject to audit and that the amount or a 
+10 portion of the amount of the grant, investment or loan be returned to the authority if the 
+11 recipient fails to comply with a material term of the agreement or contract governing the 
+12 grant, investment or loan.
+13 5.  It requires the authority to submit to the joint standing committee of the Legislature 
+14 having jurisdiction over utilities matters no later than January 15, 2030 a proposal, along 
+15 with any necessary implementing legislation, designed to facilitate the termination and 
+16 repeal of the authority by January 15, 2032.
+17 6.  It alters the Municipal Gigabit Broadband Network Access Fund in the Maine 
+18 Revised Statutes, Title 35-A, section 9211-A to authorize the authority to offer loans to and 
+19 make direct equity investments in any public or private entity using a proposal solicitation 
+20 process.
+21 7.  It includes provisions governing the transition from the current organization of the 
+22 ConnectMaine Authority to the reorganized ConnectMaine Authority.

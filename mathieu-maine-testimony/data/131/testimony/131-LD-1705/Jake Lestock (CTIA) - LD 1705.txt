@@ -1,0 +1,55 @@
+ 
+1400 16th Street, NW  ·   Suite 600  ·   Washington, DC 20036  ·   www.ctia.org  
+Testimony of  
+JAKE LESTOCK  
+CTIA  
+ 
+In Opposition to Maine LD 1705  
+ 
+Before the  
+Maine Joint Committee on  Judiciary  
+ 
+May 22 , 2023  
+ 
+Chairs  and members of the committee, on behalf of CTIA®, the trade association  
+for the wireless communications industry, I submit this testimony in opposition to  LD 1705 . 
+This bill places businesses under a strong threat of litigation with  little benefit for consumers.  
+This legislation  is modeled after a biometric privacy law in Illinois, enacted in 2008, 
+which has  led to myriad lawsuits and little consumer protection. Maine  should not look to 
+replicate  this problematic law. The private right of action contained in the bill  would subject 
+companies  to the risk of expensive litigation that primarily benefits the plaintiffs’ bar and 
+offers little  relief to consumers. This has shown true in Illinois, where at  the end of 2019, nearly 
+300 lawsuits were filed regarding their law – almost four times the total for 2018, the previous 
+high  watermark. Through September of 2021, according to a search of court filings, plaintiffs’  
+lawyers have filed over 900 cases alleg ing violations under the BIPA law in Illinois.1 These  
+lawsuits have targeted businesses both large and small for alleged technical violations linked  
+ 
+1 https://instituteforlegalreform.com/research/ilr -briefly -a-bad -match -illinois -and -the-
+biometricinformation -privacy -act/   
+ 
+ 
+ 
+ 
+ 
+ 
+to collecting, using, and sharing biometric identifiers, like those indicated in this bill . 
+Moreover, for over 20 years, the Federal Trade Commission has developed and  
+enforced an effective privacy framework that applies to all players in the internet ecosystem.  
+The FTC is an active consumer privacy enforcer. It has brought over 500 enforcement actions  
+protect ing consumer privacy. Through these enforcement actions, as well as through  
+extensive policy guidance, the FTC has articulated a consumer privacy framework in which  
+more sensitive personal information including biometric or genetic information, is generall y 
+subject to heightened protections, while there is greater flexibility to collect, use, and disclose  
+non -sensitive information. The FTC is also  polic ing the issue and has warned entities  about 
+the misuse of such data.2 In addition, the Maine Attorney General already has the  authority to 
+address unfair or deceptive acts or practices relating to consumer privacy under  state 
+consumer protection laws. Because of these existing federal and state measures, and  other 
+privacy laws, biometric data is already protected.  
+This bill raises complex issues and replicates a litigious statute, which was passed  
+over 15 years  ago and has not been enacted in any other state. It is not a path that Maine  
+should follow. As stated, passage of this legislation open s businesses to the threat of  
+abusive litigation. Accordingly, CTIA respectfully requests that you not mo ve this legislation.  
+Thank you for your consideration.  
+ 
+2 https://www.ftc.gov/news -events/news/press -releases/2023/05/ftc -warns -about -misuses -biometric -
+information -harm -consumers   

@@ -1,0 +1,42 @@
+--CREATE OR REPLACE VIEW V_ORG_NAME_CLUSTER AS 
+WITH ORG_COUNTS AS (
+SELECT
+    Organization,
+    count_star() AS RECORDS
+FROM
+    main.TESTIMONY_HEADER
+GROUP BY
+    Organization )
+, CLUSTER_MAX AS (
+SELECT
+    *,
+    row_number() OVER (PARTITION BY cl.ANCHOR
+ORDER BY
+    oc.RECORDS DESC) AS "ROW"
+FROM
+    main.ORG_NAME_CLUSTERS AS cl
+JOIN ORG_COUNTS AS oc ON
+cl.MATCH = oc.Organization
+WHERE SIMILARITY_SCORE >= 90
+    ),
+MATCHES AS (
+SELECT
+    DISTINCT "MATCH"
+FROM
+    CLUSTER_MAX
+WHERE
+    "ROW" = 1
+)
+SELECT *
+FROM MATCHES
+WHERE LOWER(MATCH) ~~ '%legislature%'
+SELECT
+    *
+FROM
+    main.ORG_NAME_CLUSTERS
+WHERE
+	ANCHOR IN (
+    SELECT
+        "MATCH"
+    FROM
+        MATCHES );

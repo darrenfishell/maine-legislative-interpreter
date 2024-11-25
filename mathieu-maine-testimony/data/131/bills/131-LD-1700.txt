@@ -1,0 +1,197 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1700
+H.P. 1089 House of Representatives, April 18, 2023
+An Act to Protect Agricultural Lands by Creating a Permitting 
+Process for Solar Development on Those Lands
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative PLUECKER of Warren.
+Cosponsored by Representatives: CRAFTS of Newcastle, CRAY of Palmyra, DODGE of 
+Belfast, GUERRETTE of Caribou, JAUCH of Topsham, SHAW of Auburn, Senators: BLACK 
+of Franklin, INGWERSEN of York.
+
+Page 1 - 131LR2191(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  12 MRSA §5019 is enacted to read:
+3§5019.  Permitting process for ground-mounted solar installations on agricultural 
+4land
+51. Definitions. As used in this section, unless the context otherwise indicates, the 
+6 following terms have the following meanings.
+7 A. "Department" means the Department of Agriculture, Conservation and Forestry.
+8 B. "Farm product" means a plant or animal that is useful to humans, including fruits, 
+9 berries, vegetables, dairy products, livestock or livestock products, poultry or poultry 
+10 products, grains, forages, flowers, seeds, grasses, hay, silage, livestock feed, bees, 
+11 Christmas trees, maple syrup and similar products.
+12 C. "Ground-mounted solar installation" means a solar electrical system that is installed 
+13 directly on the ground instead of solely on a wall or roof of a building.
+14 D. "Viable agricultural land" means land highly suitable for agricultural production of 
+15 a farm product.  "Viable agricultural land" does not include homes, farm buildings, 
+16 roads or lawns.
+172. Permit required.  A person may not develop, install or build any ground-mounted 
+18 solar installation without first obtaining a permit from the department if the activity is 
+19 located in, on or over any viable agricultural land.
+203. Permit approval; standards.  The department shall grant a permit requested under 
+21 subsection 2 upon proper application and upon such terms as the department considers 
+22 necessary to fulfill the purposes of this section.  The department may grant a permit only if 
+23 it determines that the value of the ground-mounted solar installation exceeds the value of 
+24 the agricultural land. The department shall grant a permit when the department finds that 
+25 the applicant has demonstrated that the proposed activity meets the following standards, as 
+26 applicable:
+27 A. The agricultural land has been proven to be contaminated and therefore unsuitable 
+28 to the production of human or livestock feed;
+29 B. The agricultural land has been developed and it is not economically feasible to return 
+30 to agricultural production;
+31 C. The societal benefit of distributed energy production on the agricultural land 
+32 outweighs the economic, cultural and societal benefit of food production, and the 
+33 specific parcel has unique qualities that increase its value for solar development over 
+34 another identified parcel; 
+35 D. The economic benefit of distributed energy production on the agricultural land 
+36 contributes to the viability of a farm business or an agricultural operation, such as 
+37 through meeting or partially meeting on-farm energy needs or generating a needed 
+38 alternative source of farm revenue, and the ground-mounted solar installation will be 
+39 located in such a way so that food production on the property can continue.  The 
+40 landowner must demonstrate that a solar installation on agricultural land is ancillary to 
+41 the use of the property for agriculture or located in an area that has less agricultural 
+Page 2 - 131LR2191(01)42 value relative to the rest of the property or otherwise situated in a way that allows for 
+43 continued agriculture uses now or in the future;
+3 E. Commercial food production will continue on the site of the ground-mounted solar 
+4 installation for the reasonably expected economic life of the solar development. If the 
+5 site of the installation is owned by a commercial farming operation, the farming 
+6 operation must demonstrate the economic benefit of the installation to food production 
+7 so that there is a net increase in economic food value, net food production or 
+8 agroecological benefit to the farm; or
+9 F. Installation of the ground-mounted solar installation will have minimal long-term 
+10 impact on soil health, including by using panels or pilings that sit on top of the soil 
+11 rather than poured cement.
+12 An entity proposing to construct a ground-mounted solar installation must demonstrate 
+13 adequate financial capacity to decommission the installation at any time during 
+14 construction or operation of the installation or upon termination of installation operations 
+15 for any reason. The obligation to decommission the installation must be transferred to any 
+16 future owner of the installation in the event of a transfer of title. Decommissioning is 
+17 required if the installation's purpose or use is abandoned for a period of one year at any 
+18 time after construction begins. Demonstration of financial capacity to decommission must 
+19 include documentation of financial assurance that the decommissioning costs will be fully 
+20 funded prior to the start of construction. Financial assurance may be demonstrated in the 
+21 form of a performance bond, surety bond, letter of credit or other form of financial 
+22 assurance acceptable to the department.  In the case of land that is not contaminated or was 
+23 developed before the installation, decommissioning must return the land to a state 
+24 appropriate for agricultural use.
+254. Permit approval; administrative procedures. The department shall process all 
+26 permits requested under this section in accordance with this subsection.
+27 A. The department shall organize a public hearing on a permit request upon request.
+28 B. The department may not review a permit without notifying the municipality in which 
+29 the proposed activity is to occur. The municipality may provide comments within a 
+30 reasonable period established by the commissioner, and the commissioner shall 
+31 consider any such comments.
+32 C. The department may not review a permit without notifying the Maine Land Use 
+33 Planning Commission if the ground-mounted solar installation is going to occur on 
+34 land over which the Maine Land Use Planning Commission has jurisdiction. The 
+35 Maine Land Use Planning Commission may provide comments within a reasonable 
+36 period established by the commissioner, and the commissioner shall consider any such 
+37 comments.
+385. Delegation of authority to municipality; home rule.  This subsection governs the 
+39 delegation to a municipality of the authority to issue permits under this section.
+40 A. A municipality may apply to the department for authority to issue all permits under 
+41 this section or for partial authority to process applications for permits involving 
+42 ground-mounted solar installations on specified viable agricultural land. The 
+43 department shall grant such authority if it finds that the municipality has:  
+44 (1) Established a planning board and a board of appeals;1
+2
+Page 3 - 131LR2191(01)1 (2) Adopted a comprehensive plan and related land use ordinances determined by 
+2 the former State Planning Office or the department to be consistent with the criteria 
+3 set forth in Title 30-A, chapter 187, subchapter 2 and determined by the 
+4 commissioner to be at least as stringent as criteria set forth in subsection 3;   
+5 (3) The financial, technical and legal resources to adequately review and analyze 
+6 permit applications and oversee and enforce permit requirements;   
+7 (4) Made provision by ordinance or rule for:  
+8 (a) Prompt notice to the commissioner of all applications received; and  
+9 (b) Prompt notice to the public upon receipt of an application and written 
+10 notification to the applicant and the commissioner of the issuance or denial of 
+11 a permit stating the reasons for issuance or denial, except for those applications 
+12 for which no public notice or written decision is required;   
+13 (5) Provided an application form that is substantially the same as that provided by 
+14 the commissioner; and   
+15 (6) Appointed a code enforcement officer, certified pursuant to Title 30-A, section 
+16 4451.
+17 B.  The following procedures apply to applications under this section processed by 
+18 municipalities.  
+19 (1) No permit issued by a municipality may become effective until 30 days 
+20 subsequent to its receipt by the commissioner, but, if the permit is approved by the 
+21 department in less than 30 days, the effective date is the date of approval. A copy 
+22 of the application for the permit and the permit issued by the municipality must be 
+23 sent to the commissioner, immediately upon its issuance, by registered mail. The 
+24 department shall review that permit and either approve, deny or modify it as 
+25 necessary. If the department does not act within 30 days of the department's receipt 
+26 of the permit from the municipality, this constitutes the department's approval and 
+27 the permit is effective as issued, except that within this 30-day period the 
+28 department may extend the time for departmental review an additional 30 days.
+29 (2) A copy of the municipality's action to approve or deny an application must be 
+30 sent to the commissioner within 14 days of the municipality's decision.   
+31 C. Nothing in this section may be understood or interpreted to limit the home rule 
+32 authority of a municipality to protect the agricultural land of the municipality through 
+33 enactment of standards that are more stringent than those found in this section.  
+34 D.  Any person who violates any permit issued under this section is subject to the 
+35 provisions of Title 38, section 349 in addition to any penalties that the municipality 
+36 may impose. The provisions of this section may be enforced by the commissioner and 
+37 the municipality that issued the permit.  
+38 E. This paragraph governs the department's review of delegated authority under this 
+39 subsection.
+40 (1) If the department finds that a municipality has failed to satisfy one or more of 
+41 the criteria identified in paragraphs A and B, the department shall notify the 
+Page 4 - 131LR2191(01)42 municipality accordingly and make recommendations to establish compliance. The 
+43 municipality may then submit a modified application for approval.
+3 (2) If, at any time, the department determines that a municipality may be failing to 
+4 exercise its permit-granting authority in accordance with its approval procedures, 
+5 the department shall notify the municipality of the specific alleged deficiencies and 
+6 shall order a public hearing, for which adequate public notice must be given, to be 
+7 held in the municipality to solicit public or official comment on the alleged 
+8 deficiencies. Following the hearing, if the department finds such deficiencies, the 
+9 department shall revoke the municipality's permit-granting authority. The 
+10 municipality may reapply for authority at any time. 
+116. Violations; enforcement.  A person may not violate subsection 2.  Each day of a 
+12 violation must be considered a separate offense. A finding that any violation has occurred 
+13 is prima facie evidence that the activity was performed or caused to be performed by the 
+14 owner of the property where the violation occurred.  The department shall enforce the 
+15 provisions of this section.
+167. Research.  The commissioner, in cooperation with other state agencies, is authorized 
+17 to conduct research and studies to determine how agricultural lands can be restored and 
+18 enhanced.
+198. Funds.  The department is the public agency of the State authorized to accept funds, 
+20 public and private, for the purposes of this section.
+219. Fees.  Notwithstanding Title 5, section 8071, subsection 3, the commissioner shall 
+22 adopt rules to establish procedures to charge applicants fees for costs incurred in reviewing 
+23 permit applications regarding ground-mounted solar installations. Those fees must be 
+24 scaled according to the economic and land use impact of the installation. Rules adopted 
+25 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+26 subchapter 2-A.
+27SUMMARY
+28 This bill establishes a permitting process to develop, install or build any ground-
+29 mounted solar installation on or over any viable agricultural land.1
+2
+28
+29

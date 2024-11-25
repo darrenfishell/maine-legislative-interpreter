@@ -1,0 +1,177 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1350
+S.P. 432 In Senate, April 7, 2021
+An Act  To Expand Maine's Clean Energy Economy
+Received by the Secretary of the Senate on April 5, 2021.   Referred to the Committee on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator VITELLI of Sagadahoc.
+Cosponsored by Representative GROHOSKI  of Ellsworth and
+Senators: President JACKSON of Aroostook, LAWRENCE of York,  STEWART  of 
+Aroostook, Representatives:  McCREIGHT of Harpswell, TEPLER  of Topsham, TUCKER of  
+Brunswick.
+
+Page 1 - 130LR1499(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3210-G, sub-§1, as enacted by PL 2019, c. 477, §2, is 
+3 amended to read:
+41.  Competitive procurement.  The commission shall conduct 2 competitive 
+5 solicitations pursuant to paragraph A and 2 competitive solicitations pursuant to paragraph 
+6 B-1 in order to select Class IA resources for contracts under this section.
+7 A.  Through the competitive solicitations  under this section  described in subparagraphs 
+8 (1) and (2), the commission shall procure an amount of energy or renewable energy 
+9 credits from Class IA resources that is equal to 14% of retail electricity sales in this 
+10 State for the period from January 1, 2018 to December 31, 2018, as determined by the 
+11 commission.
+12 (1)  The commission shall initiate a first competitive solicitation under this 
+13 paragraph and ensure that solicitation results in the approval of contracts by 
+14 December 31, 2020 for energy or renewable energy credits equal to at least 7% of 
+15 retail electricity sales for the period from January 1, 2018 to December 31, 2018, 
+16 as determined by the commission. If the commission determines that contracts for 
+17 an amount greater than 7% of retail electricity sales will provide financial benefits 
+18 to ratepayers, it may approve contracts by December 31, 2020 for up to 10% of 
+19 retail electricity sales.
+20 (2)  No later than January 15, 2021, the commission shall initiate a 2nd competitive 
+21 solicitation under this paragraph for an amount of energy or renewable energy 
+22 credits equal to the difference between 14% of retail electricity sales and the 
+23 amount approved in contracts by December 31, 2020.
+24 B.  To the extent sufficient resources are available, with respect to the competitive 
+25 solicitations described in paragraph A, subparagraphs (1) and (2), 75% of the energy 
+26 or renewable energy credits contracted under this section pursuant to those competitive 
+27 solicitations must come from Class IA resources that begin commercial operations after 
+28 June 30, 2019 and 25% must come from Class IA resources that began commercial 
+29 operations on or prior to June 30, 2019.
+30 B-1.  Through the competitive solicitations described in subparagraphs (1) and (2), the 
+31 commission shall procure an amount of energy or renewable energy credits from Class 
+32 IA resources that is equal to 15% of retail electricity sales in this State for the period 
+33 from January 1, 2019 to December 31, 2019, as determined by the commission.
+34 (1)  The commission shall initiate a first competitive solicitation under this 
+35 paragraph and ensure that solicitation results in the approval of contracts by 
+36 December 31, 2021 for energy or renewable energy credits equal to at least 10% 
+37 of retail electricity sales for the period from January 1, 2019 to December 31, 2019, 
+38 as determined by the commission. If the commission determines that contracts for 
+39 an amount greater than 10% of retail electricity sales will provide financial benefits 
+40 to ratepayers, it may approve contracts by December 31, 2021 for up to 15% of 
+41 retail electricity sales.
+42 (2)  No later than January 15, 2022, the commission may initiate a 2nd competitive 
+43 solicitation under this paragraph for an amount of energy or renewable energy 
+Page 2 - 130LR1499(01)44 credits equal to the difference between 15% of retail electricity sales and the 
+45 amount approved in contracts by December 31, 2021.
+3 B-2.  To the extent sufficient resources are available, with respect to the competitive 
+4 solicitations described in paragraph B-1, subparagraphs (1) and (2), 100% of the energy 
+5 or renewable energy credits contracted under this section pursuant to those competitive 
+6 solicitations must come from Class IA resources that begin commercial operations after 
+7 June 30, 2021.
+8 B-3.  In conducting a solicitation and selecting Class IA resources for contracts under 
+9 this section, the commission shall give special consideration to selection of projects in 
+10 economically depressed areas of the State as determined by the commission.
+11 B-4.  In conducting a solicitation and selecting Class IA resources for contracts under 
+12 this section, the commission shall give consideration to evidence of project viability, 
+13 including, but not limited to, the submission of a preapplication with the relevant siting 
+14 authority or the submission of an interconnection request with the New England 
+15 independent system operator.
+16 C.  In conducting a solicitation and selecting Class IA resources for contracts under 
+17 this section, the commission shall weigh the benefits to ratepayers and the benefits to 
+18 the State's economy as follows:
+19 (1)  A weight of 70% must be given to the benefits to ratepayers; and
+20 (2)  A weight of 30% must be given to benefits to the economy, which may include, 
+21 but are not limited to:
+22 (a)  Capital investments by the Class IA resource to improve long-term 
+23 viability of an existing facility;
+24 (b)  Payments by the Class IA resource for the harvest of wood fuel;
+25 (c)  Employment resulting from the Class IA resource;
+26 (d)  Payments by the Class IA resource to a host community, whether or not 
+27 required by law or rule;
+28 (e)  Excise, income, property and sales taxes paid by the Class IA resource;
+29 (f)  Purchases of goods and services by the Class IA resource; and
+30 (g)  Avoided emissions resulting from the operation of the Class IA resource.
+31 D.  The commission shall, in accordance with this paragraph, allow energy storage 
+32 systems to participate in solicitations or be awarded contracts under this section.
+33 (1)  The commission shall permit an energy storage system to bid on solicitations 
+34 or to be contracted under this section only if the energy storage system is connected 
+35 to the State's electricity grid, paired as a complementary resource with a Class IA 
+36 resource and either:
+37 (a)  Colocated with the Class IA resource, whether metered jointly with or 
+38 separately from the Class IA resource; or
+39 (b)  Located at a different location from the Class IA resource and the 
+40 commission finds that inclusion of the energy storage system would result in a 
+41 reduction in greenhouse gas emissions.1
+2
+Page 3 - 130LR1499(01)1 (2)  A bid under this section that includes an energy storage system must include 2 
+2 separate bid proposals, one with the energy storage system and one without.   The 
+3 commission shall assess the bid proposals based on the benefits to ratepayers, 
+4 which may include, but are not limited to:
+5 (a)  Reduction in costs;
+6 (b)  Decrease in peak electricity demand;
+7 (c)  Deferral of investments in the transmission and distribution system;
+8 (d)  Deferral of capital investments in new generating capacity;
+9 (e)  Increase in the electricity grid's overall flexibility, reliability and resiliency; 
+10 and
+11 (f)  Reduction in greenhouse gas emissions.
+12 (3)  An energy storage system that is not colocated with a Class IA resource may 
+13 receive renewable energy credits only for stored energy generated from a Class IA 
+14 resource.
+15 (4)  If chosen for a contract under this section, an energy storage system must 
+16 remain stationary and under the same ownership throughout the contract term.
+17 (5)  The commission may permit an energy storage system to be paired with and 
+18 added to a Class IA resource after that resource has been awarded a contract.
+19 For the purposes of this paragraph, "energy storage system" means a commercially 
+20 available technology that uses mechanical, chemical or thermal processes for absorbing 
+21 energy and storing it for a period of time for use at a later time.
+22Sec. 2.  35-A MRSA §3210-G, sub-§4 is enacted to read:
+234.  Rules.  The commission may adopt rules necessary for the implementation of this 
+24 section.  Rules adopted by the commission may include, but are not limited to, provisions 
+25 stipulating the financial security mechanisms that will be required as a condition of the 
+26 selection of Class IA resources for contracts under this section.  Rules adopted pursuant to 
+27 this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 
+28 2-A.
+29SUMMARY
+30 This bill amends the State's renewable portfolio standard procurement law to authorize 
+31 2 additional competitive solicitations by the Public Utilities Commission for contracts with 
+32 Class IA resources to procure, in total, an amount of energy or renewable energy credits 
+33 equal to 15% of retail electricity sales in the State during calendar year 2019.  It requires 
+34 100% of the energy or renewable energy credits contracted following those additional 
+35 competitive solicitations to come from Class IA resources that begin commercial 
+36 operations after June 30, 2021.
+37 The bill also amends the renewable portfolio standard procurement law to require the 
+38 Public Utilities Commission, in conducting the solicitation and selection of Class IA 
+39 resources for contracts, to give special consideration to selection of projects in 
+40 economically depressed areas of the State and to give consideration to evidence of project 
+41 viability.  It also authorizes the Public Utilities Commission to adopt routine technical rules 30
+31
+32
+33
+34
+35
+36
+Page 4 - 130LR1499(01)42 necessary to implement the requirements of the renewable portfolio standard procurement 
+43 law, which may include provisions stipulating the financial security mechanisms that will 
+44 be required as a condition of the selection of Class IA resources for contracts under that 
+45 law.1
+2
+3
+4

@@ -1,0 +1,575 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1532
+H.P. 1136 House of  Representatives,  April 19, 2021
+An Act  To Protect  Maine's Air Quality by Strengthening 
+Requirements for Air Emissions Licensing
+Received by the Clerk of the House on April  15, 2021.  Referred to  the Committee  on 
+Environment and  Natural  Resources pursuant to Joint  Rule  308.2 and  ordered printed  pursuant 
+to Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative MORALES of South Portland.
+Cosponsored by Senator CHIPMAN of Cumberland  and
+Representatives: KESSLER of South Portland, MILLETT of Cape  Elizabeth, RECKITT of 
+South Portland, TALBOT ROSS of  Portland, Senator: CARNEY  of Cumberland.
+
+Page 1 - 130LR0840(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §352, sub-§5-A, as amended by PL 2019, c. 374, §1 and c. 526, 
+3 §2, is further amended to read:
+45-A.  Accounting system.  In order to determine the extent to which the functions set 
+5 out in this section are necessary for the licensing process or are being performed in an 
+6 efficient and expeditious manner, the commissioner shall require that all employees of the 
+7 department involved in any aspect of these functions keep accurate and regular daily time 
+8 records.  These records must describe the matters worked on, services performed and the 
+9 amount of time devoted to those matters and services, as well as amounts of money 
+10 expended in performing those functions.  Records must be kept for a sufficient duration of 
+11 time as determined by the commissioner to establish to the commissioner's satisfaction that 
+12 the fees are appropriate.
+13 TABLE I
+14  
+15 MAXIMUM FEES IN DOLLARS
+16  
+TITLE 36 SECTION PROCESSING 
+FEECERTIFICATION 
+FEE
+   
+656, sub-§1, ¶E, Pollution Control Facilities   
+ A.  Water pollution control facilities with 
+capacities at least 4,000 gallons of waste per 
+day and §1760, sub-§29, water pollution 
+control facilities$250 $20
+ B.  Air pollution control and §1760, sub-§30, 
+air pollution control facilities250 20
+17  
+TITLE 38 SECTION PROCESSING FEE  LICENSE FEE
+       
+344, sub-§7, Permit by rule $250  $0
+413, Waste discharge licenses See section 353-B
+420-D, Storm water management    
+ A. If structural means of storm 
+water control are used$400 for the first acre of 
+disturbed area, plus $200 for 
+each additional whole acre 
+of disturbed area $100 for the first acre 
+of disturbed area, plus 
+$50 for each additional 
+whole acre of disturbed 
+area
+ B. If solely vegetative means of 
+storm water control are used$200 for the first acre of 
+disturbed area, plus $100 for 
+each additional whole acre 
+of disturbed area $50 for the first acre of 
+disturbed area, plus $25 
+for each additional 
+whole acre of disturbed 
+area
+ C. When a permit by rule is 
+required$55 none17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+Page 2 - 130LR0840(01) If a project described in paragraph A or B is reviewed and approved by a professional 
+engineer at a soil and water conservation district office that has a memorandum of 
+understanding with the department concerning review of projects pursuant to this 
+section, the total applicable fee is reduced to a processing fee of $100 for the first acre 
+of disturbed area, plus a license fee of $50 for each additional whole acre of disturbed 
+area.
+480-E, Natural resources 
+protection   
+ A.  Any alteration of a protected 
+natural resource, except coastal 
+wetlands and coastal sand 
+dunes, causing less than 20,000 
+square feet of alteration of the 
+resource140 50
+ B.  Any alteration of a coastal 
+wetland causing less than 
+20,000 square feet of alteration 
+of the resource240 60
+ C.  Any alteration of a protected 
+natural resource, except coastal 
+sand dunes, causing 20,000 
+square feet or more of alteration 
+of the resource.015/sq. ft. alteration  .005/sq. ft. alteration
+ C-1.  Significant groundwater 
+well4,577  1,961
+ C-2.  Activity within a 
+community public water supply 
+primary protection area183 64
+ D.  Any alteration of a coastal 
+sand dune3,500  1,500
+ E.  Condition compliance 84 0
+ F.  Minor modification 184 0
+485-A, Site location of 
+development   
+ A.  Residential subdivisions    
+  1. Affordable housing 50/lot  50/lot
+  2. On public water and sewers 175/lot  175/lot
+  3. All Other 250/lot  250/lot
+ B.  Industrial parks 460/lot  460/lot
+ C.  Mining 1,500  1,000
+ D.  Structures 4,000  2,000
+ E.  Other 1,000  1,000
+543, Oily waste discharge 40 160
+560, Vessels at anchorage 125 100
+587, Ambient air quality or 
+emissions standards variances5,050  50
+590, Air emissions licenses See section 353-A
+633, Hydropower projects    1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+Page 3 - 130LR0840(01) A.  New or expanded generating 
+capacity450/MW  50/MW
+ B.  Maintenance and repair or 
+other structural alterations not 
+involving an increase in 
+generating capacity150 150
+33 United States Code, Chapter 
+26, Water Quality Certifications, 
+in conjunction with applications 
+for hydropower project licensing 
+or relicensing   
+ A.  Initial consultation 1,000  0
+ B.  Second consultation 1,000  0
+ C.  Application    
+  1. Storage 1,000  0
+  2. Generating 300/MW  50/MW
+1304, Waste management    
+ A.  Septage disposal    
+  1. Site designation 50 25
+ B.  Land application of sludges 
+and residuals program approval   
+  1. Industrial sludge 400 400
+  2. Municipal sludge 300 275
+  3. Bioash 300 275
+  4. Wood ash 300 75
+  5. Food waste 300 75
+  6. Other residuals 300 175
+ C.  Landfill    
+  1. Closing plans for secure 
+landfills1,500  1,500
+  2. Closing plans for 
+attenuation landfills500 500
+  3. Post-closure report 175 175
+  4.  Preliminary information 
+reports175 175
+  5. License transfers 500 175
+  6. Special waste disposal    
+   a. One-time disposal of 
+quantities of 6 cubic yards 
+or less 50 50
+   b. One-time disposal of 
+quantities greater than 6 
+cubic yards 100 100
+   c. Program approval for 
+routine disposal of a 
+special waste300 300
+  7. Minor revision for secure 
+landfills 600 1001
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+Page 4 - 130LR0840(01)  8. Minor revision for 
+attenuation landfills100 100
+  9. Public benefit 
+determination 175 175
+ D.  Incineration facility    
+  2.  License transfer 175 175
+ E.  License transfer other than 
+for landfills and incinerators100 100
+ F. Minor revision for septage 
+facilities and solid waste 
+facilities other than landfills100 100
+ G. Permit by rule for one-time 
+activities100 100
+1 TABLE II
+15  
+16 WASTE MANAGEMENT FEES - ANNUAL LICENSE
+17  
+18 MAXIMUM FEES IN DOLLARS
+19  
+TITLE 38 SECTION PROCESSING 
+FEEANNUAL 
+LICENSE FEE
+1278, Asbestos abatement   
+ A.  Asbestos abatement contractor $0 $650
+ B.  Asbestos abatement worker 0 50
+ C.  Asbestos consultant 0 650
+ D.  Asbestos analytical laboratory 0 400
+ E.  Training provider 0 500
+ F.  Other categories of asbestos professionals 
+except asbestos abatement workers0 100
+ G.  Notification   
+  1.  Project size greater than 100 square feet or 
+100 linear feet and less than 500 square feet or 
+2,500 linear feet100 0
+  2.  Project size 500 square feet or 2,500 linear 
+feet, or greater, and less than 1,000 square feet 
+or 5,000 linear feet150 0
+  3.  Project size 1,000 square feet or 5,000 linear 
+feet, or greater 300 0
+1304, Waste management   
+ A.  Septage disposal   
+  1. Landspreading $550 $250
+  2. Storage 50 75
+ B.  Residuals compost facility   
+  1. Type I 150 1501
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+Page 5 - 130LR0840(01)  3. Type II and Type III less than 3,500 cubic 
+yards700 500
+  5.  Type II and Type III 3,500 cubic yards or 
+greater1,400 850
+ C.  Land application of sludges and residuals   
+  1. Sites with program approval   
+   a. Industrial sludge 150 250
+   b. Municipal sludge 75 200
+   c. Bioash 75 200
+   d. Wood ash 50 125
+   e. Food waste 50 125
+   f. Other residuals 50 125
+  2. Sites without program approval   
+   a. Industrial sludge 300 550
+   b. Municipal sludge 150 250
+   c. Bioash 150 250
+   d. Wood ash 75 200
+   e. Food waste 75 200
+   f. Other 75 200
+1310-N, Solid waste facility siting   
+ A.  Landfill   
+  1. Existing, nonsecure municipal solid waste 
+landfills accepting waste from fewer than 
+15,000 people 3,500 1,000
+  2. Existing, nonsecure municipal solid waste 
+landfills accepting waste from more than 
+15,000 people 3,500 3,500
+  3. New or expanded for secure landfill 5,000 8,500
+  5. Nonsecure wood waste or demolition debris 
+landfills, or both, if less than or equal to 6 acres 700 750
+ B.  Incineration facilities   
+  1. New or expanded for the acceptance of 
+municipal or special wastes, or both 3,500 5,000
+  2. Municipally owned and operated solid waste 
+incinerators with licensed capacity of 10 tons 
+per day or less 3,500 1,000
+ C.  Transfer station and storage facility 750 175
+ D.  Tire storage facility 400 450
+ F.  Processing facility other than municipal solid 
+waste composting 700 700
+ G.  Beneficial use activities other than agronomic 
+utilization   
+  3. Fuel substitution 700 500
+  4. Beneficial use without risk assessment 700 200
+  5. Beneficial use with risk assessment 1,400 500
+ H.  Permit by rule for ongoing activities 100 100
+3109, Redemption centers 0 1001
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+Page 6 - 130LR0840(01)1Sec. 2.  38 MRSA §587, as amended by PL 1989, c. 878, Pt. A, §115; c. 890, Pt. A, 
+2 §40; and Pt. B §§161 and 162, is repealed.
+3Sec. 3.  38 MRSA §589, sub-§1, ¶B, as enacted by PL 1991, c. 384, §9 and affected 
+4 by §16, is repealed.
+5Sec. 4.  38 MRSA §589-B is enacted to read:
+6§589-B.  Civil penalties
+7 Notwithstanding section 349, subsection 2, a person licensed or required to be licensed 
+8 under section 590 who violates any applicable air quality or emissions standard under this 
+9 chapter or the rules adopted pursuant to this chapter is subject to a civil penalty, payable to 
+10 the State, of not less than $25,000 and not more than $100,000 for each day of that 
+11 violation.  The State must transfer any civil penalty recovered under this subsection to the 
+12 municipality where the violation occurred.  This penalty is recoverable in a civil action.
+13Sec. 5.  38 MRSA §590, sub-§2, as enacted by PL 1991, c. 658, §1, is amended to 
+14 read:
+152.  Applications.  Applications for air emission licenses must be made in a form 
+16 prescribed by the commissioner and contain the information related to the proposed air 
+17 contamination source and emission of air contaminants required by rule of the board and a 
+18 plan that outlines the steps that will be taken by the applicant to protect the public health 
+19 of the community.  The department shall review and approve or require modifications to 
+20 the plan submitted under this section in consultation with the Department of Health and 
+21 Human Services, Maine Center for Disease Control and Prevention.  All hearings under 
+22 this section must be held in a municipality within the region where the proposed emission 
+23 is to be located.  At this hearing, the department shall solicit and receive testimony 
+24 concerning the nature of the proposed emissions; their effect on existing ambient air quality 
+25 standards within the region; the availability and effectiveness of air pollution control 
+26 apparatus designed to maintain the emission for which a license is sought at the levels 
+27 required by law; and the expense of purchasing and installing this apparatus.  The 
+28 department shall grant the license and may impose appropriate and reasonable conditions 
+29 as necessary to secure compliance with ambient air quality standards if the department finds 
+30 that the proposed emission will:
+31 A.  Receive  The proposed emission will receive the best practical treatment;
+32 B.  Not The proposed emission will not violate or be controlled so as not to violate 
+33 applicable emission standards; and
+34 C.  Either The proposed emission will either alone or in conjunction with existing 
+35 emissions, not violate or be controlled so as not to violate applicable ambient air quality 
+36 standards. ;
+37 D.  The source of emissions is not located in an area zoned for residential use or within 
+38 1,000 feet of a residence;
+39 E.  The applicant will install a source emission testing system; and
+40 F.  The applicant will conduct continuous monitoring along the property boundary 
+41 where the source of emissions is located.
+42Sec. 6.  38 MRSA §590, sub-§8 is enacted to read:1
+2
+Page 7 - 130LR0840(01)18.  Hearings.  All applications for an air emission license or license renewal must 
+2 receive a public hearing in the municipality where the source of proposed air emissions is 
+3 located.  Written notice of hearing must be sent by the applicant for a license or license 
+4 renewal by first-class mail with proof of mailing to the municipal offices and all addresses, 
+5 commercial and residential, within a 5-mile radius of the source within 60 days of the 
+6 hearing.  Notice must include an electronic link where information about the proposed 
+7 license application or proposed license renewal can be found.  The department shall solicit 
+8 public comment during the hearing for a license application or license renewal.  For an 
+9 application for an air emission license, the department shall solicit and receive testimony 
+10 concerning the nature of the proposed emissions; the emissions' effect on existing ambient 
+11 air quality within the municipality where the source is located; the availability and 
+12 effectiveness of air pollution control apparatus designed to maintain the emission for which 
+13 a license is sought at the levels required by law; and the expense of purchasing and 
+14 installing this apparatus.
+15Sec. 7.  38 MRSA §590-A, first ¶, as amended by PL 2011, c. 538, §13, is further 
+16 amended to read:
+17 The term of air emission licenses is 10 3 years, except that the term of licenses for air 
+18 contaminant sources subject to when the state permitting provisions of 40 Code of Federal 
+19 Regulations, Part 70 is 5 years and licenses issued pursuant to rules adopted pursuant to 
+20 section 580‑B, subsection 4, paragraph D have no stipulate a fixed term for licenses, in 
+21 which case the term of the license is the specified fixed term.  The board may establish, by 
+22 rule, shorter license terms for the following source categories as it considers necessary to 
+23 protect the public health, safety and welfare:
+24Sec. 8.  Application.  That section of this Act that amends the Maine Revised 
+25 Statutes, Title 38, section 590-A does not apply to licenses issued before the effective date 
+26 of this Act.
+27SUMMARY
+28 This bill repeals the provision that allows the Department of Environmental Protection 
+29 to grant a variance from ambient air quality standards to a person who owns or is in control 
+30 of specified sources for which an air emission license was granted.  It repeals the provision 
+31 that prohibits the Commissioner of Environmental Protection from requiring a person to 
+32 submit more than one copy of ambient monitoring data or meteorological data more 
+33 frequently than quarterly.
+34 This bill also:
+35 1.  Creates new hearing requirements for applications for air emission licenses or 
+36 renewals;
+37 2.  Creates new civil penalties for violation of air emission standards and requires any 
+38 penalties recovered to be transferred to the municipality where the violation occurred;
+39 3.  Prohibits the department from granting a license when certain requirements are not 
+40 met; and
+41 4.  Changes the term of an air emission license to 3 years, except when the term is 
+42 specified in federal law as a fixed term.28
+29
+30
+31
+32
+33

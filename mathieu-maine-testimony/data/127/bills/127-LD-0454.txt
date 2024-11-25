@@ -1,0 +1,140 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 454  
+S.P. 183  In Senate, February 24, 2015  
+ 
+ 
+An Act To Enact the Student Information Privacy Act  
+ 
+ 
+ 
+ 
+Reference to the Committee on Education and Cultural Affairs suggested and ordered 
+printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator KATZ of Kennebec.  
+Cosponsored by Representative POULIOT of Augusta and  
+Senators: LANGLEY of Hancock, MILLETT of Cumberland, Representatives: BATES of 
+Westbrook, HUBBELL of Bar Harbor, MAKER of Calais.  
+ 
+ 
+
+ 
+ Page 1 - 127LR0638(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  20-A MRSA §6006 is enacted to read:  2 
+§6006.  Student information privacy; school service providers  3 
+This section may be known and cited as "the Student Information Privacy Act."  4 
+1.  Defin itions.  As used in this section, unless the context otherwise indicates, the 5 
+following terms having the following meanings.  6 
+A.  "Mobile application" means a software application designed to be downloaded to 7 
+and installed on a portable computing device.  8 
+B.  "School service" means a website, mobile application or online service that:  9 
+(1)  Is designed and marketed for use in elementary or secondary schools in the 10 
+State;  11 
+(2)  Is used at the direction of teachers or other employees of an elementary or 12 
+secondary  school; and  13 
+(3)  Collects, maintains or uses student personal information.  14 
+"School service" does not include a website, mobile application or online service that 15 
+is designed and marketed for use by individuals or entities generally, even if it is also 16 
+marketed to elementary or secondary schools in the State.  17 
+C.  "School service provider" means an entity that operates a school service.  18 
+D.  "Student" means a student of an elementary or secondary school in the State.  19 
+E.  "Student personal information" means i nformation collected through a school 20 
+service that identifies an individual student or that is linked to information that 21 
+identifies an individual student.  22 
+2.  Transparency.  A school service provider may collect, use and share student 23 
+personal information  only in accordance with this section.  24 
+A.  A school service provider shall provide to schools and teachers that use the 25 
+provider's school service clear and easy -to-understand information about the types of 26 
+student personal information it collects and about  how it uses and shares student 27 
+personal information.  28 
+B.  A school service provider shall provide to schools and teachers that use the 29 
+provider's school service prominent notice before making material changes to its 30 
+privacy policies.  31 
+C.  A school service p rovider shall facilitate access to and correction of a student's 32 
+personal information by a student or student's parent or guardian either directly or 33 
+through the student's school or teacher.  34 
+D.  When a school service is offered to a school or teacher, a sc hool service provider 35 
+may provide information required by paragraphs A and B to the school or teacher.  36 
+ 
+ Page 2 - 127LR0638(01) -1 
+ E.  A school service provider may collect, use and share student personal information 1 
+only for purposes authorized by the student's school or teacher or with the consent of 2 
+the student or the student's parent or guardian.  3 
+F.  A school service provider may not sell student personal information.  4 
+G.  A school service provider may not use or share student personal information for 5 
+purposes of targeting advertis ements to students based on students' online behaviors.  6 
+H.  A school service provider may not use student personal information to create a 7 
+personal profile of a student other than for supporting purposes authorized by the 8 
+student's school or teacher or wit h the consent of the student or the student's parent or 9 
+guardian.  10 
+I.  A school service provider must obtain consent before using student personal 11 
+information in a manner that is inconsistent with the provider's privacy policy for the 12 
+applicable school serv ice in effect at the time of collection of the information.  If the 13 
+student's personal information was collected directly from a student, the school 14 
+service provider must obtain consent from the student or the student's parent or 15 
+guardian.  In all other ca ses, the school service provider may obtain consent from the 16 
+school or teacher.  17 
+J.  A school service provider shall maintain a comprehensive information security 18 
+program that is reasonably designed to protect the security, privacy, confidentiality 19 
+and inte grity of student personal information.  The information security program 20 
+must use appropriate administrative, technological and physical safeguards.  21 
+K.  A school service provider may not knowingly retain student personal information 22 
+beyond the time period authorized by the school or teacher, unless the school service 23 
+provider has obtained consent of the student or the student's parent or guardian.  24 
+L.  A school service provider shall obligate any 3rd parties involved on the provider's 25 
+behalf in the providing  of school services to meet the requirements of this subsection.  26 
+M.  Before permitting a successor entity to access student personal information, a 27 
+school service provider shall ensure that the successor entity will abide by all privacy 28 
+and security commit ments related to previously collected student personal 29 
+information.  30 
+3.  Construction.  Nothing in this Act may be construed to:  31 
+A.  Prohibit the use of student personal information for purposes of customized 32 
+education; or  33 
+B.  Authorize the dissemination of  information in violation of section 6001.  34 
+4.  Rulemaking.  The commissioner may adopt rules to implement this section.  35 
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 36 
+chapter 375, subchapter 2 -A. 37 
+Sec. 2.  Tran sition.  If a school service provider, as defined in the Maine Revised 38 
+Statutes, Title 20 -A, section 6006, enters into a signed, written contract with a school or 39 
+teacher prior to the effective date of this Act, that contract may remain in effect until the  40 
+next renewal date of the contract.  41 
+ 
+ Page 3 - 127LR0638(01) -1 
+ SUMMARY  1 
+This bill establishes requirements for providers of websites, mobile applications or 2 
+online services that collect, maintain or use personal information of elementary or 3 
+secondary school students.  4 
+ 

@@ -1,0 +1,604 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1708
+H.P. 1269 House of  Representatives, May 17, 2021
+An Act  To Create the Pine Tree  Power Company, a Nonprofit  
+Utility, To Deliver Lower Rates,  Reliability and  Local Control for  
+Maine Energy  Independence
+Received by the Clerk of the House on May  13, 2021.   Referred  to the Committee on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BERRY of Bowdoinham.
+Cosponsored by Senator BENNETT of Oxford and
+Representatives: CARLOW of Buxton, GROHOSKI  of Ellsworth, NEWELL of the 
+Passamaquoddy Tribe, POIRIER of Skowhegan, Senators: BRENNER of Cumberland, President JACKSON of Aroostook, WOODSOME of York.
+
+Page 1 - 130LR0043(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-G, sub-§36 is enacted to read:
+336.   
+Public 
+UtilitiesPine Tree Power Company Board $110/Day and 
+Expenses35-A MRSA 
+§4002
+4Sec. 2.  21-A MRSA §354, sub-§5, ¶G, as enacted by PL 1985, c. 161, §6, is 
+5 amended to read:
+8 G.  For a candidate for State Representative, at least 50 and not more than 80 voters; 
+9 and
+10Sec. 3.  21-A MRSA §354, sub-§5, ¶H, as enacted by PL 1985, c. 161, §6, is 
+11 amended to read:
+12 H.  For a candidate for county charter commission member, at least 50 and not more 
+13 than 80 voters. ; and
+14Sec. 4.  21-A MRSA §354, sub-§5, ¶I is enacted to read:
+15 I.  For a candidate for member of the Pine Tree Power Company Board under Title 
+16 35-A, section 4002, subsection 2, paragraph A, at least 300 and not more than 400 
+17 voters.
+18Sec. 5.  35-A MRSA §1511-A is enacted to read:
+19§1511-A.  Fitness to serve
+20 By January 1, 2024, the commission shall find a transmission and distribution utility 
+21 with 50,000 or more customers unfit to serve and shall require the sale of the utility if the 
+22 commission determines that the utility has, within the previous 5 years been found to have 
+23 met 2 or more of the following criteria for unfitness:
+241.  Customer satisfaction.  Repeatedly been rated in the lowest decile of utilities of a 
+25 similar size for customer satisfaction on a reputable national survey of utility business or 
+26 retail customers;
+272.  Reliability.  Repeatedly reported reliability, with or without major event days, in 
+28 the lowest decile of utilities of a similar size in the country; and
+293.  Cost.  Repeatedly charged its customers residential delivery rates in the highest 
+30 decile among utilities of a similar size in the country.
+31Sec. 6.  35-A MRSA §3501, sub-§1, ¶D, as amended by PL 2019, c. 311, §2, is 
+32 further amended to read:
+33 D.  The portion of any municipal or quasi-municipal entity located in the State 
+34 providing transmission and distribution services; and
+35Sec. 7.  35-A MRSA §3501, sub-§1, ¶E, as amended by PL 2019, c. 311, §2, is 
+36 further amended to read:
+37 E.  Any transmission and distribution utility wholly owned by a municipality located 
+38 in the State. ; and
+39Sec. 8.  35-A MRSA §3501, sub-§1, ¶F is enacted to read:4
+5
+6
+7
+Page 2 - 130LR0043(01)1 F.  The Pine Tree Power Company established in chapter 40.
+2Sec. 9.  35-A MRSA §3502, first ¶, as amended by PL 1999, c. 398, Pt. A, §86 and 
+3 affected by §§104 and 105, is further amended to read:
+4 Notwithstanding section 310, any consumer-owned transmission and distribution 
+5 utility, except for the Pine Tree Power Company established in chapter 40, that proposes 
+6 to increase rates, tolls or charges by not more than 15% of the utility's annual operating 
+7 revenues or proposes to decrease rates, tolls or charges in any amount may elect to set rates 
+8 pursuant to this section and section 3503.
+9Sec. 10.  35-A MRSA c. 40 is enacted to read:
+10CHAPTER 40
+11PINE TREE POWER COMPANY
+12§4001.  Definitions
+13 As used in this chapter, unless the context otherwise indicates, the following terms 
+14 have the following meanings.
+151.  Acquired utility.  "Acquired utility" means an investor-owned transmission and 
+16 distribution utility whose facilities or property are purchased or intended for purchase 
+17 pursuant to this chapter.
+182.  Board.  "Board" means the Pine Tree Power Company Board established in Title 
+19 5, section 12004-G, subsection 36.
+203.  Company.  "Company" means the Pine Tree Power Company established in section 
+21 4002.
+224.  Cost of service.  "Cost of service" means the total amount that must be collected by 
+23 the company to recover its costs but does not include any return on capital investment 
+24 unless a return is required as security for debt service.
+255.  Customer-owner.  "Customer-owner" means a person to whom the company 
+26 provides electricity.
+276.  Generating source.  "Generating source" means a machine or device that produces 
+28 electric energy by any means.
+297.  Utility facility.  "Utility facility" means any portion of a plant used or useful in 
+30 providing transmission and distribution utility service and includes, but is not limited to, 
+31 transmission lines, office buildings, equipment and transportation equipment.
+328.  Utility property.  "Utility property" means any tangible or intangible asset, liability, 
+33 obligation, plan, proposal, share, agreement or interest of a utility; any facility in 
+34 development or planning by the utility as of January 1, 2020; and, without limitation, the 
+35 entire utility and any part or portion of the utility.
+36§4002.  Pine Tree Power Company established; purpose
+Page 3 - 130LR0043(01)1 The Pine Tree Power Company is established to provide for its customer-owners in this 
+2 State reliable, affordable electric transmission and distribution services in accordance with 
+3 this chapter.
+41.  Company purposes.  The company shall use its access to low-cost capital and its 
+5 ability to manage the electric transmission and distribution system in a manner that is not 
+6 focused on ensuring shareholder profits for the following purposes:
+7 A.  To deliver electricity to the company’s customer-owners in a safe, affordable and 
+8 reliable manner;
+9 B.  To ensure excellence, timeliness and accuracy in billing, metering and customer 
+10 service;
+11 C.  To provide an open, supportive and competitive platform to develop and deploy 
+12 renewable generation, storage, efficiency and beneficial electrification technologies;
+13 D.  To assist the State in rapidly meeting or exceeding the climate action plan goals 
+14 established in Title 38, chapter 3-A;
+15 E.  To improve the State’s Internet connectivity through more affordable access to 
+16 utility poles and other infrastructure in unserved or underserved areas of the State, as 
+17 defined in section 9202, subsection 5;
+18 F.  To advance economic, environmental and social justice and to benefit company 
+19 workers and all communities in the State;
+20 G.  To provide for transparent and accountable governance; and
+21 H.  To support, secure and sustain economic growth and benefits for the State.
+222.  Governance; board.  The company is created as a body corporate and politic and 
+23 is governed by the Pine Tree Power Company Board in accordance with this section.
+24 The board is composed of 11 members, 7 of whom are elected, voting members and 4 of 
+25 whom are expert advisory members selected by the voting members.  All members must 
+26 be residents of the State.
+27 A.  Each of the 7 elected, voting members must be a legal citizen of the United States 
+28 for at least 5 years, be at least 21 years of age, be a legal Maine resident for at least 1 
+29 year and have lived in the area the member represents as provided in this paragraph for 
+30 at least 3 months.  Each elected, voting member must represent 5 of the State's 35 State 
+31 Senate districts, as set out in Title 21-A, section 1203-B, as follows:
+32 (1)  One member represents State Senate districts 1 to 5;
+33 (2)  One member represents State Senate districts 6 to 10;
+34 (3)  One member represents State Senate districts 11 to 15;
+35 (4)  One member represents State Senate districts 16 to 20;
+36 (5)  One member represents State Senate districts 21 to 25;
+37 (6)  One member represents State Senate districts 26 to 30; and
+38 (7)  One member represents State Senate districts 31 to 35.
+Page 4 - 130LR0043(01)1 B.  The 4 expert advisory members must be selected by the elected, voting members.  
+2 The expert advisory members must collectively possess expertise and experience 
+3 across the following 4 areas:
+4 (1) Utility law, management, regulation or finance;
+5 (2)  Clean energy and the environment;
+6 (3)  The concerns of utility employees; and
+7 (4)  The concerns of electricity consumers.
+8 C.  Candidates for election to the board pursuant to paragraph A are eligible for funding 
+9 through the Maine Clean Election Act, in amounts and under terms commensurate with 
+10 those for candidates for the State Senate.  The Commission on Governmental Ethics 
+11 and Election Practices, established pursuant to Title 5, section 12004-G, subsection 33, 
+12 shall adopt rules to implement this paragraph.  Rules must include, at a minimum, the 
+13 procedures for qualifying and certification and for allocation of distributions from the 
+14 fund and other provisions necessary to ensure consistency with the provisions of the 
+15 Maine Clean Election Act.  Rules adopted pursuant to this paragraph are major 
+16 substantive rules as defined in Title 5, chapter 375, subchapter 2-A.
+17 The nomination and election of the elected, voting members of the board are governed by 
+18 the provisions of Title 21-A concerning nonpartisan elections for county office other than 
+19 county commissioner or county charter commission member, except that the determination 
+20 of the elections is governed by Title 21-A, section 723-A.  The Secretary of State may 
+21 adopt rules governing the election of members of the board and shall consult with the 
+22 commission in developing the rules. Rules adopted under this subsection are routine 
+23 technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+243.  Term of office.  An elected, voting member of the board serves for a term of 6 years 
+25 and an expert advisory member of the board serves for a term of 4 years.  An elected, voting 
+26 member serves from December 1st to November 30th and an expert advisory member 
+27 serves from February 1st to January 31st.  A majority of elected, voting members shall 
+28 declare a vacancy on the board upon the resignation, death or incapacitation of an elected, 
+29 voting member, in the event that a member is absent without leave of the chair for at least 
+30 half of all board meetings held in a 180-day period or in the event of a member's gross and 
+31 continual neglect of duty.  If there is a vacancy on the board of an expert advisory member, 
+32 it must be filled within 180 days in the same manner as described in subsection 1 and the 
+33 person selected to fill a vacancy serves for the unexpired term of the member whose 
+34 vacancy the person is filling.  If there is a vacancy on the board of an elected, voting 
+35 member, the board shall notify the Governor and the vacancy must be filled within 180 
+36 days in the same manner as for a State Senator under Title 21-A, sections 366 and 381, and 
+37 the person elected to fill a vacancy serves for the unexpired term of the member whose 
+38 vacancy the person is filling.  Expert advisory members may be reselected and voting 
+39 members may be reelected.
+404.  Quorum and chair.  Four elected, voting members of the board constitute a 
+41 majority and a quorum.  The board shall elect from its elected, voting members a chair and 
+42 a vice-chair. The vice-chair shall serve as acting chair in the absence of the chair.
+435.  Voting.  Except as otherwise provided in this Title, all decisions of the board must 
+44 be made by a majority vote of the elected, voting members of the board.  Whenever 
+Page 5 - 130LR0043(01)45 possible, the board shall attempt to achieve consensus among voting and nonvoting 
+46 members.
+36.  Bylaws; due diligence.  The board shall adopt bylaws, conduct due diligence as it 
+4 considers necessary and develop a transition plan and a business plan for the company prior 
+5 to making a purchase price offer for any utility facility or utility property.
+67.  Board review.  Four years after the first meeting of the board, the board shall review 
+7 the effectiveness of the company governance structure and shall report to the joint standing 
+8 committee of the Legislature having jurisdiction over energy and utilities matters the 
+9 outcome of this review.  The report may suggest necessary changes to the governance 
+10 structure of the company.  The committee may report out legislation pertaining to the 
+11 recommendations in the report.
+12§4003.  Powers and duties; acquisition of utility facilities and utility property
+131.  Powers; generally.  The company is a consumer-owned transmission and 
+14 distribution utility and has all the powers and duties of a transmission and distribution 
+15 utility under this Title, as affected by the provisions of chapter 35, within the service 
+16 territories of the investor-owned transmission and distribution utilities whose utility 
+17 facilities it acquires under this chapter.
+182.  Limits on company; generating property.  The company may not own or operate 
+19 a generating source or purchase electric capacity or energy from a generating source, except 
+20 as the commission may approve in order to allow the company to maintain or improve 
+21 system reliability.
+223.  Operations.  The company shall contract by means of a competitive public 
+23 solicitation the services of a qualified nongovernmental entity, referred to in this chapter as 
+24 "the operator," or "the operations team," to provide cost-effective, private sector operations, 
+25 maintenance, customer accounts management and customer service and information and to 
+26 assist as necessary in regulatory affairs, capital planning and administrative services. In 
+27 requesting and evaluating bids for the provision of these services, the board shall consider 
+28 anticipated costs; professional, operational and managerial experience; familiarity with the 
+29 systems to be administered; and ability to improve customer service and employee morale.  
+30 The company may establish additional criteria for its solicitation and shall determine the 
+31 period and the specific terms of each operations contract.
+324.  Operator employees.  The employees of the operations team retained to operate 
+33 the company's facilities are considered private employees, with all the rights and 
+34 responsibilities of private employees. The operator shall hire any person who was an 
+35 employee of the acquired utility at the time the company acquired the utility facilities who 
+36 is a qualified, nonexempt employee subject to collective bargaining agreements of the 
+37 acquired utility.  To ensure continuity and an experienced local workforce, the operations 
+38 team shall offer to these employees a retention bonus of 6% of annual gross pay for the 
+39 first year of work and 4% of annual gross pay for the 2nd year of work.  This bonus must 
+40 be payable on the earlier of the anniversary of the date of hire and the date of a termination 
+41 of employment that occurs following the date of hire, as long as the termination is due to 
+42 the employee's death or disability, by the employer without cause or by the employee for 
+43 good reason.  The operations team shall maximize opportunities for internal promotion, 
+44 additional staffing and on-the-job training for all employees and may not contract with 
+45 other businesses to perform work that could reasonably have been performed by qualified, 1
+2
+Page 6 - 130LR0043(01)46 nonexempt employees of the operations team.  The operator shall assume all retirement 
+47 benefit obligations to the workers of and retirees of an acquired utility, unless these 
+48 obligations have remained with the acquired utility, its corporate parent or a pension plan 
+49 trust regulated by the federal Employee Retirement Income Security Act of 1974.  The 
+50 operator shall honor and maintain the terms of any collective bargaining agreements in 
+51 effect at the time the company acquired the investor-owned transmission and distribution 
+52 utility for the remaining term of any collective bargaining agreement, except that, when 2 
+53 or more contracts exist, the employees' wages, salaries and benefits must be made 
+54 reasonably equal to the higher of those provided in the contracts or must exceed those 
+55 previously paid by the acquired utility.
+11 Upon the conclusion of a contract pursuant to subsection 3, the company, in soliciting for 
+12 a new contract, shall give preference to service providers who agree to maintain or improve 
+13 the terms of the collective bargaining agreement in existence on the conclusion of the prior 
+14 contract.
+155.  Acquisition of utility facilities and utility property.  Notwithstanding any other 
+16 provision of this Title, rules adopted under this Title or any other applicable law to the 
+17 contrary, the company shall purchase or acquire by the exercise of the right of eminent 
+18 domain all utility facilities in the State owned or operated or held for future use by any 
+19 investor-owned transmission and distribution utility, in accordance with this subsection, 
+20 and may also purchase or acquire by the exercise of the right of eminent domain in 
+21 accordance with this subsection any other investor-owned transmission and distribution 
+22 utility property should the board determine such an acquisition to be in the interest of its 
+23 customer-owners.  The company shall finance the purchase or acquisition of utility 
+24 facilities or utility property under this subsection by issuing debt in accordance with chapter 
+25 9.  The board may not purchase or acquire by the right of eminent domain any utility 
+26 facilities or utility property under this subsection until 12 months after the effective date of 
+27 this chapter or 6 months after the first meeting of the board, whichever is later.
+28 A.  Within 18 months after the effective date of this chapter or 12 months after the first 
+29 meeting of the board, whichever is later, unless further delayed to a date certain by a 
+30 vote of at least 5 elected, voting members of the board, the company shall:
+31 (1)  Identify the utility facilities and any other utility property in the State owned 
+32 or operated or held for future use by any investor-owned transmission and 
+33 distribution utility to be purchased by the company;
+34 (2)  Determine a purchase price offer to be made for the utility facilities and other 
+35 utility property. The purchase price offer must include compensation for the cost 
+36 of preparing and submitting necessary regulatory filings, including but not limited 
+37 to those required by the federal Department of Energy, Federal Energy Regulatory 
+38 Commission; and
+39 (3)  Deliver notice of the purchase price offer, including detailed description of the 
+40 utility facilities and other utility property to be purchased, to the investor-owned 
+41 transmission and distribution utility that owns, operates or holds for future use the 
+42 subject utility facilities and utility property.
+43 B.  After the receipt of a notice of the purchase price offer under paragraph A, 
+44 subparagraph (3), the investor-owned transmission and distribution utility may, within 
+45 30 days of the date of receipt, submit a counteroffer to the board.  If the board rejects 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Page 7 - 130LR0043(01)46 the counteroffer, within 30 days of the date of receipt of the rejection the investor-
+47 owned transmission and distribution utility may petition the Superior Court of 
+48 Kennebec County to determine and order an alternative purchase price for the subject 
+49 utility facilities or utility property in accordance with this paragraph.  The purchase 
+50 price determined by the court must include compensation for the cost of preparing and 
+51 submitting necessary regulatory filings, including but not limited to those required by 
+52 the federal Department of Energy, Federal Energy Regulatory Commission.  After the 
+53 filing of a petition by an investor-owned transmission and distribution utility under this 
+54 paragraph, the Superior Court, as expeditiously as possible, shall:
+10 (1)  Select, in consultation with the company and the petitioner, a referee or referees 
+11 with relevant expertise and capabilities to determine a recommended purchase 
+12 price for the utility facilities and utility property;
+13 (2)  Complete a trial or hearing, as appropriate, for the presentation of evidence to 
+14 referees, who shall submit a recommended purchase price to the court; and
+15 (3)  Render a decision and, based upon the recommended purchase price submitted 
+16 under subparagraph (2) and any other information available to the court, order a 
+17 purchase price to be paid by the company to the petitioner for possession and 
+18 ownership of the subject utility facilities and utility property.
+19 The decision of the Superior Court under this paragraph is appealable to the Law Court 
+20 as in any civil action.
+21 C.  The taking of utility facilities and utility property by the company is governed by 
+22 this paragraph.
+23 (1)  Notwithstanding any law to the contrary, if a petition is filed under paragraph 
+24 B, the company may, after any appeals are resolved, take the subject utility 
+25 facilities and utility property identified in paragraph A by eminent domain at the 
+26 final price rendered by the court, in the same manner and under the same conditions 
+27 as set forth in chapter 65. 
+28 (2)  Notwithstanding any law to the contrary, if a petition is not filed under 
+29 paragraph B, the company may take the subject utility facilities and utility property 
+30 identified in paragraph A by eminent domain at the purchase price offer, in the 
+31 same manner and under the same conditions as set forth in chapter 65.
+32 Within 45 days of the date upon which the purchase price is either mutually agreed upon 
+33 by the company and the investor-owned transmission and distribution utility or is finally 
+34 determined through the judicial process set forth under paragraph B, the investor-owned 
+35 transmission and distribution utility shall prepare and submit any regulatory filings 
+36 necessary to the transfer of subject utility facilities and utility property, including but not 
+37 limited to those required by the federal Department of Energy, Federal Energy Regulatory 
+38 Commission.  If the investor-owned transmission and distribution utility does not prepare 
+39 and submit such filings within 45 days, the company may request that the commission 
+40 investigate the utility's failure to prepare and submit the filings.  Upon such a request from 
+41 the company, the commission shall, in a timely manner, investigate the utility's failure to 
+42 prepare and submit the filings.  If the commission finds the investor-owned transmission 
+43 and distribution utility unreasonably delayed or failed to prepare and submit the filings, or 
+44 failed to prosecute and pursue federal regulatory approvals of the transfer in good faith, the 1
+2
+3
+4
+5
+6
+7
+8
+9
+Page 8 - 130LR0043(01)45 commission shall direct the utility to do so by a date certain and may order other remedies, 
+46 including deducting the cost of preparing and submitting such regulatory filings from the 
+47 purchase price or otherwise preventing the utility from recouping the cost.
+4 The commission shall impose such conditions on the acquisition of all utility facilities and 
+5 utility property in the State owned or operated or held for future use by any investor-owned 
+6 transmission and distribution utility as it determines are necessary to protect the public 
+7 interest during the period between the effective date of this chapter and the date on which 
+8 ownership and control are fully assumed by the company and the operations team.  The 
+9 commission shall take all necessary actions to ensure that the investor-owned transmission 
+10 and distribution utilities and their owners cooperate fully and cost-effectively with the 
+11 company during the transition in ownership and control.
+126.  Regional transmission.  The service territories of the company initially remain in 
+13 the transmission system to which they belonged on the effective date of this chapter until 
+14 changed by majority vote of the board.
+157.  Names.  The company may adopt one or more alternative or regional names to 
+16 distinguish its service territories or for any other purpose.
+178.  Rules.  The company may adopt rules pursuant to Title 5, chapter 375, subchapter 
+18 2-A for establishing and administering the company and carrying out its duties.  Rules 
+19 adopted pursuant to this subsection are major substantive rules as defined in Title 5, chapter 
+20 375, subchapter 2-A.
+219.  Bylaws.  The company shall adopt bylaws, through the board, consistent with this 
+22 section for the governance of its affairs.
+2310.  Consumer-owned transmission and distribution utilities; application.  This 
+24 subsection controls the treatment of consumer-owned transmission and distribution utilities 
+25 and the application of law to the company.
+26 A.  This chapter may not be construed to affect the powers, authorities or 
+27 responsibilities of any consumer-owned transmission and distribution utility other than 
+28 the company created under this chapter.  The company may not oppose the extension 
+29 of the service territory of a consumer-owned transmission and distribution utility 
+30 existing prior to the effective date of this chapter to include the entirety of a 
+31 municipality in which the consumer-owned transmission and distribution utility 
+32 provides electric service as long as the company is reasonably compensated for the 
+33 assets and appurtenances required.
+34 B.  Notwithstanding any other provision of this chapter or any other provision of law 
+35 to the contrary, the company is subject to section 310; section 3104; section 3132, 
+36 subsection 2-D; sections 3132-A, 3132-B, 3132-C and 3132-D; section 3144; section 
+37 3210-C, subsections 3, 7 and 11; sections 3212 and 3212-B; and section 3214, 
+38 subsection 2-A.
+3911.  Board staff; transition.  The board may hire a director or manager, support staff 
+40 and counsel. Additionally, assistance and counsel may be provided to the board by the 
+41 Office of the Treasurer of State, the Office of the Attorney General, the Maine Municipal 
+42 Bond Bank, the Finance Authority of Maine, the commission, the Office of the Public 
+43 Advocate and others.  All initial activities and expenditures of the board prior to the final 
+44 acquisition of utility facilities and utility property must be funded by short-term debt of the 1
+2
+3
+Page 9 - 130LR0043(01)45 company, to be retired in the initial financing and acquisition of the investor-owned 
+46 transmission and distribution utility facilities and utility property.  Debt incurred by the 
+47 board for its initial activities and expenditures is guaranteed by the retail customers of each 
+48 of the State's 2 investor-owned transmission and distribution utilities, and, notwithstanding 
+49 any provision of law to the contrary, the costs of these initial activities and expenditures 
+50 must be considered by the commission to be just and reasonable for rate-making purposes.
+7§4004.  Cost-of-service rates; no use of state funds or tax dollars
+8 The rates and all other charges of the company must be sufficient to pay in full the cost 
+9 of service, including the cost of debt and any payments in lieu of taxation.  No debt or 
+10 liability of the company is a debt or liability of the State or any agency or instrumentality 
+11 of the State other than the company, and neither the State nor any agency or instrumentality 
+12 of the State other than the company guarantees any debt or liability of the company.
+13§4005.  Tax-exempt; payments in lieu of taxes
+141.  Tax exemptions.  The company is a public municipal corporation within the 
+15 meaning and for the purposes of Title 36, section 651, and the property of the company is 
+16 exempt from taxation to the extent provided in that section.  Notwithstanding any provision 
+17 of law to the contrary, income of the company is exempt from all taxation or assessment 
+18 by the State or any political subdivision of the State.
+19 All bonds, notes and other evidences of indebtedness issued by the company in accordance 
+20 with chapter 9 are legal obligations of the company, and the company is a quasi-municipal 
+21 corporation within the meaning and for the purposes of Title 30-A, section 5701.  All bonds, 
+22 notes and other evidences of indebtedness issued by the company are legal investments for 
+23 savings banks in this State and are exempt from state income tax.
+242.  Payments in lieu of taxes.  Rates charged by the company must include sufficient 
+25 amounts to allow the company to make payments in lieu of taxes in accordance with this 
+26 subsection.  The company shall make payments in lieu of taxes with respect to its utility 
+27 facilities or utility property to any municipality, county or other political subdivision to 
+28 which an investor-owned transmission and distribution utility whose utility facilities the 
+29 company acquired pursuant to this chapter paid taxes and in the same amount as those taxes 
+30 would have been if the investor-owned transmission and distribution utility had continued 
+31 to own the utility facilities or utility property.  The company shall make timely payments 
+32 in lieu of taxes on all facilities or property it owns, including all facilities and property 
+33 procured, constructed or improved after the company has commenced operations.
+34§4006.  No debt or liability of the State
+35 The company serves a public purpose in the carrying out of the provisions of this 
+36 chapter, but no debt or liability of the company may be considered a debt or liability of the 
+37 State.
+38§4007.  Termination of the company
+39 The company may not be dissolved or cease operations except by authorization of law 
+40 and only if all debt and liabilities of the company have been paid or a sufficient amount for 
+41 the payment of all debt and liabilities has been placed in an irrevocable trust for the benefit 
+42 of the holders of the debt.
+43§4008.  Freedom of access; confidentiality1
+2
+3
+4
+5
+6
+Page 10 - 130LR0043(01)1 The proceedings and records of the company are subject to the freedom of access laws, 
+2 Title 1, chapter 13, except as specifically provided in this section.
+31.  Confidential records.  The following records are designated as confidential for 
+4 purposes of Title 1, section 402, subsection 3, paragraph A:
+5 A.  A record obtained or developed by the company that a person, including the 
+6 company, to whom the record belongs or pertains has requested be designated 
+7 confidential and that the company has determined contains information that gives the 
+8 owner or a user an opportunity to obtain a business or competitive advantage over 
+9 another person who does not have access to the information, except through the 
+10 company's records, or access to which by others would result in a business or 
+11 competitive disadvantage, loss of business or other significant detriment to any person 
+12 to whom the record belongs or pertains; and
+13 B.  A record that contains usage or other nonpublic information regarding a customer 
+14 of a transmission and distribution utility in the State.
+15 The company shall provide to a legislative committee, on written request signed by the 
+16 chairs of that committee, any information or records, including information designated 
+17 confidential under this subsection, specified in the written request.  The information or 
+18 records may be used only for the lawful purposes of the committee and in any action arising 
+19 out of any investigation conducted by the committee, subject to protective order.
+202.  Exceptions.  Notwithstanding subsection 1, the following are not confidential and 
+21 are public records:
+22 A.  Any otherwise confidential information the confidentiality of which the company 
+23 determines to have been satisfactorily and effectively waived;
+24 B.  Any otherwise confidential information that has already lawfully been made 
+25 available to the public; and
+26 C.  Impersonal, statistical or general information.
+273.  Disclosure prohibited; further exceptions.  A board member, employee, agent, 
+28 other representative of the company or other person may not knowingly divulge or disclose 
+29 records designated confidential by this section, except that the company, in its discretion 
+30 and in conformity with legislative freedom of access criteria in Title 1, chapter 13, 
+31 subchapter 1-A, may make or authorize any of the following disclosures of information: 
+32 A.  If necessary in connection with processing any application for, obtaining or 
+33 maintaining financial assistance for any person;
+34 B.  To a financing institution or credit reporting service;
+35 C.  Information necessary to comply with any federal or state law, regulation or rule or 
+36 with any agreement pertaining to financial assistance;
+37 D.  If necessary to ensure collection of any obligation in which the company has or 
+38 may have an interest;
+39 E.  In any litigation or proceeding in which the company has appeared, introduction for 
+40 the record of any information obtained from records designated confidential by this 
+41 section; and
+Page 11 - 130LR0043(01)1 F.  Pursuant to a subpoena, request for production of documents, warrant or other order, 
+2 as long as the order appears to have first been served on the person to whom the 
+3 confidential information sought pertains or belongs and as long as the order appears on 
+4 its face or otherwise to have been issued or made lawfully.
+5§4009.  Annual report
+6 By April 15th of each year, beginning no more than one year after the first meeting of 
+7 the board, the company shall submit a report to the joint standing committee of the 
+8 Legislature having jurisdiction over energy and utilities matters summarizing the activities 
+9 and performance of the company in meeting its obligations to its customer-owners and its 
+10 responsibilities under sections 4002 and 4003 during the preceding calendar year and its 
+11 plans for the current year and subsequent 5 years.  Each annual report must describe in 
+12 detail how the company's decisions, operations and use of low-cost financing have 
+13 supported and will support the State's progress toward the climate action plan goals 
+14 established under Title 38, chapter 3-A and how such financing has affected and will affect 
+15 job creation and gross state product.
+16§4010.  Initial 5-year plan
+17 Within 18 months of the date in which the company and the operations team fully take 
+18 ownership and control of all utility facilities in the State owned or operated or held for 
+19 future use by any investor-owned transmission and distribution utility, the company shall 
+20 submit to the commission for approval a 5-year plan to meet initial affordability, reliability, 
+21 decarbonization and connectivity goals.
+221.  Plan minimum requirements.  At a minimum, the 5-year plan under this section 
+23 must also include a program to:
+24 A.  Establish lower rates for low-income residential customers;
+25 B.  Build across the State accessible, rapid charging infrastructure for electric vehicles;
+26 C.  Reduce make-ready and pole attachment costs for open-access fiber-optic cable in 
+27 unserved and underserved areas of the State as defined in section 9202, subsection 5; 
+28 and
+29 D.  Make rapid investments in the distribution network to upgrade reliability and to 
+30 improve capacity for interconnections of new renewable generation and storage 
+31 facilities.
+32Sec. 11.  Review of laws and report.  The Public Utilities Commission shall 
+33 examine all laws that may be affected by this Act or need to be changed as a result of this 
+34 Act, including laws governing the Pine Tree Power Company as established under the 
+35 Maine Revised Statutes, Title 35-A, section 4002, and laws relating to investor-owned 
+36 transmission and distribution utilities that may be eliminated as a result of this Act.  The 
+37 commission shall determine any modifications to laws that may be necessary or appropriate 
+38 as a result of this Act or to effectuate the purposes of this Act and shall submit proposed 
+39 legislation to the joint standing committee of the Legislature having jurisdiction over 
+40 energy, utilities and technology matters no later than 6 months after the first meeting of the 
+41 Pine Tree Power Company Board under Title 35-A, section 4002.  The joint standing 
+42 committee of the Legislature having jurisdiction over energy, utilities and technology 
+43 matters may report out a bill relating to the subject matter of this Act and to the 
+44 commission's report.
+Page 12 - 130LR0043(01)1Sec. 12.  Staggered terms of initial members of Pine Tree Power Company 
+2Board.  Notwithstanding the Maine Revised Statutes, Title 35-A, section 4002, subsection 
+3 3, the terms of the initial members of the Pine Tree Power Company Board must be 
+4 staggered as provided in this section.
+5 1.  The initial selected expert advisory members of the board serve as follows, 
+6 determined by lot by those members after their selection: 2 members serve 4-year terms 
+7 and 2 members serve 2-year terms.
+8 2.  The initial elected, voting members of the board serve as follows, determined by lot 
+9 by those members after their election: 3 members serve 6-year terms, 2 members serve 4-
+10 year terms and 2 members serve 2-year terms.
+11Sec. 13.  Statutory referendum procedure; submission at statewide 
+12election; form of question; effective date.  This Act must be submitted to the legal 
+13 voters of the State at a statewide election held in the month of November following passage 
+14 of this Act.  The municipal officers of this State shall notify the inhabitants of their 
+15 respective cities, towns and plantations to meet, in the manner prescribed by law for holding 
+16 a statewide election, to vote on the acceptance or rejection of this Act by voting on the 
+17 following question:
+18 "Do you favor the creation of the Pine Tree Power Company, a nonprofit, 
+19 privately operated utility governed by a board elected by Maine voters, to 
+20 replace Central Maine Power and Versant Power, without using tax dollars 
+21 or state bonds, and to focus on delivering reliable, affordable electricity 
+22 and meeting the State's energy independence and Internet connectivity 
+23 goals?"
+24 The legal voters of each city, town and plantation shall vote by ballot on this question 
+25 and designate their choice by a cross or check mark placed within a corresponding square 
+26 below the word "Yes" or "No."  The ballots must be received, sorted, counted and declared 
+27 in open ward, town and plantation meetings and returns made to the Secretary of State in 
+28 the same manner as votes for members of the Legislature.  The Governor shall review the 
+29 returns. If a majority of the legal votes are cast in favor of this Act, the Governor shall 
+30 proclaim the result without delay and this Act becomes effective 30 days after the date of 
+31 the proclamation.
+32 The Secretary of State shall prepare and furnish to each city, town and plantation all 
+33 ballots, returns and copies of this Act necessary to carry out the purposes of this 
+34 referendum.
+35SUMMARY
+36 This bill creates the Pine Tree Power Company, a privately operated, nonprofit, 
+37 consumer-owned utility controlled by an elected board.  The company's purposes are to 
+38 provide for its customer-owners in this State reliable, affordable electric transmission and 
+39 distribution services and to help the State meet its climate, energy and connectivity goals 
+40 in the most rapid and affordable manner possible.
+41 The Pine Tree Power Company is not permitted to use general obligation bonds or tax 
+42 dollars of the State.  The company finances itself by issuing debt against its future revenues 
+43 to purchase the facilities of investor-owned electric transmission and distribution utilities 36
+37
+38
+39
+40
+Page 13 - 130LR0043(01)44 in the State.  The fair market value of the acquisition is either negotiated or determined by 
+45 a refereed process.  The Pine Tree Power Company Board contracts a nongovernmental 
+46 team to operate the facilities, and the operations team is required to retain all workers of 
+47 the purchased utilities.
+5 The company is required to make payments equivalent to property taxes to 
+6 municipalities.  The company is subject to ratemaking and other oversight by the Public 
+7 Utilities Commission and is required to administer programs for net energy billing, 
+8 nonwires alternatives, supply procurement and low-income assistance programs.
+9 The company is governed by a board of 7 voting members, each elected to represent 5 
+10 State Senate districts, as well as 4 expert advisory members.  The board is subject to 
+11 freedom of access laws and to laws preventing conflicts of interest.
+12 The bill also directs the Public Utilities Commission by January 1, 2024 to find a 
+13 transmission and distribution utility unfit to serve and to direct the sale of the utility if 
+14 within the previous 5 years the utility has been found to have been rated the lowest for 
+15 customer satisfaction, has reported reliability in the lowest decile of utilities of a similar 
+16 size in the country or has charged its customers residential delivery rates in the highest 
+17 decile among utilities of a similar size in the country.
+18 This bill requires that, before the Act becomes effective, the Act must be submitted to 
+19 the legal voters of the State at a statewide election held in the month of November following 
+20 passage of this Act in order to allow the legal voters of the State to vote on the creation of 
+21 the Pine Tree Power Company.1
+2
+3
+4

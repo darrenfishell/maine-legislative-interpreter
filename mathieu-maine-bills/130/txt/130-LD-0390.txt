@@ -1,0 +1,147 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 390
+H.P. 274 House of  Representatives, February 10, 2021
+An Act  Regarding the  Mapping of Shoreland  Zones
+Received by the Clerk of the House on February 8, 2021.  Referred to the Committee  on 
+Environment and  Natural  Resources pursuant to Joint  Rule  308.2 and  ordered printed  pursuant 
+to Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative PERRY of Calais.
+
+Page 1 - 130LR0400(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §436-A, sub-§1, as amended by PL 2005, c. 330, §10, is further 
+3 amended to read:
+41.  Coastal wetlands.  "Coastal wetlands" means all tidal and subtidal lands; all lands 
+5 with vegetation present that is tolerant of salt water and occurs primarily in a salt marine 
+6 water or estuarine habitat; and any swamp, marsh, bog, beach, flat or other contiguous low 
+7 land that is subject to tidal action during the highest tide level for the year in which an 
+8 activity is proposed as identified in tide tables published by the National Ocean Service.  
+9 Coastal wetlands A coastal wetland may include portions of coastal sand dunes.
+10Sec. 2.  38 MRSA §436-A, sub-§5, as amended by PL 1991, c. 346, §2, is further 
+11 amended to read:
+125.  Freshwater wetlands  wetland.  "Freshwater wetlands  wetland" means a freshwater  
+13 swamps  swamp, marshes  marsh, bogs and bog or similar  areas  area, other than a forested  
+14 wetlands  wetland, which are  that is:
+15 A.  Of 10 or more contiguous acres, or of less than 10 contiguous acres and adjacent to 
+16 a surface water body, excluding any river, stream or brook, such that, in a natural state, 
+17 the combined surface area is in excess of 10 acres; and
+18 B.  Inundated or saturated by surface or ground water at a frequency and for a duration 
+19 sufficient to support, and which under normal circumstances do support, a prevalence 
+20 of wetland vegetation typically adapted for life in saturated soils.
+21 C.  Depicted on the National Wetlands Inventory maintained by the United States 
+22 Department of the Interior, United States Fish and Wildlife Service as a Cowardin class 
+23 palustrine emergent or palustrine scrub-shrub wetland.
+24 Freshwater wetlands A freshwater wetland may contain small stream channels or inclusions 
+25 of land that do not conform to the criteria of this subsection.
+26Sec. 3.  38 MRSA §436-A, sub-§5-A, as enacted by PL 1989, c. 838, §1, is 
+27 amended to read:
+285-A.  Forested wetland.  "Forested wetland" means a freshwater wetland dominated 
+29 by woody vegetation that is 6 meters tall or taller and is depicted on the National Wetlands 
+30 Inventory maintained by the United States Department of the Interior, United States Fish 
+31 and Wildlife Service as a Cowardin class palustrine forested wetland.
+32Sec. 4.  38 MRSA §436-A, sub-§9-A, as amended by PL 2013, c. 320, §4, is further 
+33 amended to read:
+349-A.  Outlet stream.  "Outlet stream" means any perennial or intermittent stream, as 
+35 shown on the most recent, highest resolution version of the national hydrography dataset 
+36 plus available from the United States Geological Survey on the website of the United States 
+37 Geological Survey or the national map, that flows from a freshwater wetland.
+38Sec. 5.  38 MRSA §436-A, sub-§11-A, as amended by PL 2013, c. 320, §5, is 
+39 further amended to read:
+4011-A.  Stream.  "Stream" means a free-flowing body of water from the outlet of a great 
+41 pond or the confluence of 2 perennial streams that is a perennial, modified Strahler 2nd-
+Page 2 - 130LR0400(01)42 order stream as depicted on the most recent, highest resolution version of the national 
+43 hydrography dataset plus available from the United States Geological Survey on the 
+44 website of the United States Geological Survey or the national map to the point where the 
+45 stream becomes a river or where the stream meets the shoreland zone of another water body 
+46 or wetland.  When a stream meets the shoreland zone of a water body or wetland and a 
+47 channel forms downstream of the water body or wetland as an outlet, that channel is also a 
+48 stream.
+8Sec. 6.  38 MRSA §436-A, sub-§14 is enacted to read:
+914.  Tributary stream.  "Tributary stream" means any perennial or intermittent 
+10 modified Strahler first-order stream as depicted on the most recent, highest resolution 
+11 version of the national hydrography dataset plus available from the United States 
+12 Geological Survey.
+13Sec. 7.  38 MRSA §436-A, sub-§15 is enacted to read:
+1415.  Wetland.  "Wetland" means lands inundated or saturated by surface or ground 
+15 water at a frequency and for a duration sufficient to support, and which under normal 
+16 circumstances do support, a prevalence of wetland vegetation typically adapted for life in 
+17 saturated soils. "Wetland" includes any coastal, freshwater and forested wetland.
+18Sec. 8.  38 MRSA §438-A, sub-§1, as amended by PL 1993, c. 315, §1, is repealed 
+19 and the following enacted in its place:
+201.  Land use guidelines.  In accordance with Title 5, chapter 375, subchapter 2-A, the 
+21 Board of Environmental Protection shall adopt rules establishing minimum guidelines for 
+22 municipal zoning and land use controls that are designed to carry out the legislative 
+23 purposes described in section 435 and the provisions of this article.  Minimum guidelines 
+24 established by the board must:
+25 A.  Include an exemption from the requirement for a municipal permit for the repair 
+26 and maintenance of an existing road culvert or for the replacement of an existing road 
+27 culvert, as long as the replacement culvert is not more than 25% longer than the culvert 
+28 being replaced, and not longer than 75 feet. Ancillary culverting activities, including 
+29 excavation and filling, are included in this exemption. A person repairing, replacing or 
+30 maintaining an existing culvert under this paragraph shall ensure that erosion control 
+31 measures are taken to prevent sedimentation of the water and that the crossing does not 
+32 block fish passage in the water course;
+33 B.  Include provisions governing building and structure size, setback and location and 
+34 establishment of resource protection, general development, limited residential, 
+35 commercial fisheries and maritime activity zones and other zones;
+36 C.  Prescribe uses that may be allowed in each zone with or without conditions;
+37 D.  Establish criteria for the issuance of permits and nonconforming uses, land use 
+38 standards and administrative and enforcement procedures;
+39 E.  Include a requirement for a person issued a permit pursuant to this article in a great 
+40 pond watershed to have a copy of the permit on site while work authorized by the 
+41 permit is being conducted;1
+2
+3
+4
+5
+6
+7
+Page 3 - 130LR0400(01)1 F.  Include clear and operable language that references widely available and best 
+2 available datasets and is designed to facilitate modeling in a geographic information 
+3 system and for enforcement purposes by municipal officials;
+4 G.  Define terms necessary for geographic information system modeling, including 
+5 "contiguous," "adjacent," "surficially connected" and other similar operational terms;
+6 H.  Include selection distances for use in a geographic information system and field 
+7 surveys; and
+8 I.  Exclude from the resource protection zone lots where less than 2,500 square feet of 
+9 the lot would be zoned as resource protection.
+10 The board shall comprehensively review and update its rules adopted pursuant to this 
+11 subsection and shall reevaluate and update the rules at least once every 4 years.  Rules 
+12 adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 
+13 375, subchapter 2-A.
+14SUMMARY
+15 This bill amends existing definitions and adds additional definitions related to the 
+16 zoning of shoreland areas. It also adds further requirements for minimum guidelines for 
+17 municipal zoning and land use controls adopted by the Board of Environmental Protection 
+18 including: the use of clear and operable language that references widely available and best 
+19 available datasets, specifically for modeling in a geographic information system and for 
+20 enforcement purposes by municipal officials; the addition of defined terms "contiguous," 
+21 "adjacent," "surficially connected" and other similar operational terms; the selection 
+22 distances for use in geographic information systems and field surveys; and the exclusion 
+23 from the resource protection zone lots where less than 2,500 square feet of the lot would 
+24 be zoned as resource protection.

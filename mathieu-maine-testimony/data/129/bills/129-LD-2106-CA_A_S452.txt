@@ -1,0 +1,133 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (S -452) (LD 2106 2020)  
+Date: 7/27/2020
+
+Page 1 - 129LR2690(02)-1
+COMMITTEE AMENDMENT1L.D. 2106
+2
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to S.P. 752, L.D. 2106, Bill, “An Act 
+10Regarding Prior Authorizations for Prescription Drugs”
+11Amend the bill by striking out everything after the enacting clause and inserting the 
+12following:
+13'Sec. 1.  24-A MRSA §4304, sub-§2, as amended by PL 2019, c. 273, §1, is 
+14further amended to read:
+152.  Prior authorization of nonemergency services.  Except for a request in exigent 
+16circumstances as described in section 4311, subsection 1-A, paragraph B, a request by a 
+17provider for prior authorization of a nonemergency service must be answered by a carrier 
+18within 72 hours or 2 business days, whichever is less, in accordance with this subsection.
+19A.  Both the provider and the enrollee on whose behalf the authorization was 
+20requested must be notified by the carrier of its determination.
+21B.  If the carrier responds to a request by a provider for prior authorization with a 
+22request for additional information, the carrier shall make a decision within 72 hours 
+23or 2 business days, whichever is less, after receiving the requested information.
+24C.  If the carrier responds that outside consultation is necessary before making a 
+25decision, the carrier shall make a decision within 72 hours or 2 business days, 
+26whichever is less, from the time of the carrier's initial response.
+27D.  The prior authorization standards used by a carrier must be clear and readily 
+28available to enrollees, participating providers, pharmacists and other providers.  With 
+29regard to prior authorization for prescription drugs, a carrier shall comply with the 
+30requirements set forth in subsection 2-B.  A provider must make best efforts to 
+31provide all information necessary to evaluate a request, and the carrier must make 
+32best efforts to limit requests for additional information.
+33If a carrier does not grant or deny a request for prior authorization within the time frames 
+34required under this subsection, the request for prior authorization by the provider is 
+35granted.Date: (Filing No. S-          )
+COMMITTEE AMENDMENT “      ” to S.P. 752, L.D. 2106
+Page 2 - 129LR2690(02)-1
+COMMITTEE AMENDMENT1Sec. 2.  24-A MRSA §4304, sub-§2-B, as enacted by PL 2019, c. 273, §2, is 
+2amended to read:
+32-B.  Electronic transmission of prior authorization requests.  Beginning no later 
+4than January 1, 2020, if a health plan provides coverage for prescription drugs, the carrier 
+5must accept and respond to prior authorization requests in accordance with subsection 2 
+6and this subsection through a secure electronic transmission using standards 
+7recommended by a national institute for the development of fair standards and adopted by 
+8a national council for prescription drug programs for electronic prescribing transactions.  
+9For the purposes of this subsection, transmission of a facsimile through a proprietary 
+10payer portal or by use of an electronic form is not considered electronic transmission.  A 
+11carrier's electronic transmission system for prior authorization requests for prescription 
+12drugs must comply with the following.
+13A.  No later than January 1, 2022, unless a waiver is granted by the superintendent, a 
+14carrier or entity under contract to a carrier shall make available to a provider in real 
+15time at the point of prescribing one or more electronic benefit tools that are capable 
+16of integrating with at least one electronic prescribing system or electronic medical 
+17record system to provide complete, accurate, timely, clinically appropriate formulary 
+18and benefit information specific to an enrollee, including, but not limited to, enrollee 
+19cost-sharing information, information on any available formulary alternatives that are 
+20clinically appropriate and information about the formulary status and the utilization 
+21review and prior authorization requirements of each drug presented.  Upon a carrier's 
+22request, the superintendent may grant a waiver from the requirements of this 
+23paragraph based on a demonstration of good cause.
+24Sec. 3.  Bureau of Insurance to monitor compliance.  Beginning January 1, 
+252021, the Department of Professional and Financial Regulation, Bureau of Insurance shall 
+26monitor compliance by carriers authorized to do business in this State with the 
+27requirements of the Maine Revised Statutes, Title 24-A, section 4304, subsection 2-B 
+28using its authority under Title 24-A, section 221.  The bureau shall also request 
+29information from carriers on the adoption and usage of electronic transmission by health 
+30care providers for requesting prior authorization for prescription drugs from carriers.  No 
+31later than June 1, 2022, the bureau shall submit a report to the joint standing committee of 
+32the Legislature having jurisdiction over health coverage and insurance matters on the 
+33status of compliance by carriers.  If the bureau determines that a carrier is not complying 
+34with the requirements of Title 24-A, section 4304, subsection 2-B, the bureau shall take 
+35enforcement action against the carrier as appropriate.  The joint standing committee of the 
+36Legislature having jurisdiction over health coverage and insurance matters may report out 
+37a bill to the First Regular Session of the 131st Legislature based on the report.' 
+38Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+39section number to read consecutively.
+40SUMMARY
+41This amendment replaces the bill and makes the following changes.
+421.  It requires carriers to provide by January 1, 2022 at least one electronic tool to 
+43facilitate the availability of certain prescription drug benefit information in real time at 
+COMMITTEE AMENDMENT “      ” to S.P. 752, L.D. 2106
+Page 3 - 129LR2690(02)-1
+COMMITTEE AMENDMENT1the point of prescribing and when submitting prior authorization requests for prescription 
+2drugs. It also permits the Superintendent of Insurance to grant a waiver from the 
+3requirements for good cause.
+42.  It requires the Department of Professional and Financial Regulation, Bureau of 
+5Insurance to monitor compliance by carriers with the requirements of law related to 
+6electronic transmission of prior authorization requests for prescription drugs and to 
+7submit a report to the joint standing committee of the Legislature having jurisdiction over 
+8health coverage and insurance matters on the status of that compliance by June 1, 2022.
+9FISCAL NOTE REQUIRED
+10(See attached)
+Approved: 04/03/20
+LD 21 06 LR 2690 (02)
+Fiscal Detail and NotesMinor cost increase - Ot her Special Revenue Funds
+Any additional costs to the Department of Professional and Financial Regulation,  Bureau of Insurance, to monitor 
+compliance as required in this bill are expected to be mi nor and can be absorbed within existing budgeted resources.129th MAINE LEGISLATURE
+An Act Regarding Prior Authorizations for Prescription Drugs
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Health Covera ge, Insurance and Financial Services
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR2690(02) - Fiscal Note - Page 1 of 1

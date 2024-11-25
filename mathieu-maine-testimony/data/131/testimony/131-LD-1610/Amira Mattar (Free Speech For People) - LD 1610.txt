@@ -1,0 +1,205 @@
+ 1 
+ 
+ 
+Senator Craig Hickman,  Senate Chair  
+Representative Laura Supica, House Chair  
+Committee on Veteran s and Legal Affairs  
+Maine  State Legislature  
+ 
+RE: LD 1610’s  provision  to ban corporate political spending by foreign  
+government -influenced entities  
+ 
+May 3 , 2023  
+ 
+Dear Senator Hickman, Representative Supica, and Members of the Veterans and 
+Legal Affairs Committee,  
+ 
+I am the Counsel for Free Speech For People, a national non -partisan non -profit 
+organization, that has played a critical role in helping draft, provide legal support, 
+and advocate for the nation’s first laws that limit corporate political spending by 
+partially -foreign -owned (foreign -influenced) corporations .1 I write today to 
+provide  legal analysis  on LD 1610 , which would prohibit corporate political 
+spending by foreign government -influenced entities . This bill  is grounded in 
+constitutional principles  that generally restrict  foreign entities from spending 
+money on U.S. elections and  is a productive starting point  towards  securing 
+democratic elections from all means of foreign influenc e.2  
+ 
+1 Legislation prohibiting corporate political spending by foreign -influenced corporations has 
+been in effect in the city of Seattle since January 2020.  Last week, both chambers of the 
+Minnesota Senate passed a landmark bill , which the Governor has pledged to sign into law,  
+prohibiting such spending . Free Speech F or People, Minnesota becomes first state in the nation 
+to pass legislation prohibiting foreign -influenced corporations from spending money in 
+elections , https://bit.ly/44l1KcB . This year, similar bills passed one chamber each of the New 
+York, Washington, and Hawaii legislatures, and are also pending in California and 
+Massachusetts.  
+2 While LD 1610 seeks to restrict corporate political spending by entities with some connection 
+to forei gn governments , we recommend that the Committee revise the bill to trigger foreign -
+influenced status based on any foreign investor outside the United States , not just governments . 
+A foreign  investor  may exert influence  over corporate decision -making in a m anner inconsistent 
+with democratic self -government even if the foreign investor is not a government . Furthermore, 
+LD 1610 ’s foreign investment threshold (5%) should be lowered to either 1% for a single foreign 
+investor  or 5% for aggregate foreign investment . These thresholds —used in the Seattle and 
+Minnesota laws, and the bills in New York, Hawaii, Washington, California, and 
+Massachusetts —reflect corporate governance experts’ analysis of investor influence.  
+ 2 I. General and legal background  
+Under well -established federal law, recently upheld by the U.S. Supreme Court, it 
+is illegal for a foreign government, business, or individual to spend any amount of 
+money at all to influence federal, state, or local elections.3 This existing provision 
+does not turn on whether the foreign national comes from a country that is friend or 
+foe, nor the amount of m oney involved. Rather, as then -Judge (now Justice) Brett 
+Kavanaugh wrote in the seminal decision upholding this law:  
+ 
+It is fundamental to the definition of our national political community that 
+foreign citizens do not have a constitutional right to partic ipate in, and thus 
+may be excluded from, activities of democratic self -government. It follows, 
+therefore, that the United States has a compelling interest for purposes of 
+First Amendment analysis in limiting the participation of foreign citizens in 
+activit ies of American democratic self -government, and in thereby 
+preventing foreign influence over the U.S. political process.4 
+ 
+Federal law, however, leaves a gap that has been opened even further since the 
+U.S. Supreme Court’s 2010 Citizens United  decision invalidated laws that banned 
+corporate political spending.5 While the existing federal statute prohibits a foreign -
+registered  corporation from spending money on federal, state, or local elections, 
+federal law does not address the issue of political spending by U.S. corporations 
+that are partially owned by foreign investors. That is the topic here.  
+ 
+The Citizens United  decision t hree times described the corporations to which its 
+decision applied as “associations of citizens.”6 On the topic of corporations partly 
+owned by foreign investors, the Supreme Court simply noted “[w]e need not reach 
+the question” because the law before it  applied to all corporations.7 As a result, 
+federal law currently does not prevent a corporation that is partly owned by foreign 
+investors from making contributions to super PACs, independent expenditures, 
+ 
+3 52 U.S.C. § 30121.  
+4 Bluman v. Federa l Election Comm’n, 800 F. Supp. 2d 281, 288 (D.D.C. 2011), aff’d,  132 S. 
+Ct. 1087 (2012); see also United States v. Singh, 979 F.3d 697, 710 -11 (9th Cir. 2020),  cert. 
+denied sub nom.  Matsura v. United States, No. 20 -1167, 2021 WL 2044557 (May 24, 2021).  
+5 Citizens United v. Federal Election Comm’n, 558 U.S. 310 (2010).  
+6 Citizens United , 558 U.S. at 349, 354, 356. Many scholars have criticized the Court’s 
+understanding of the corporate entity as an association. See, e.g., Jonathan Macey & Leo E. 
+Strine, Jr ., Citizens United as Bad Corporate Law , 2019 Wis. L. Rev. 451 (2019). However 
+misguided, this account reflects the reasoning that the Court has adopted in extending 
+constitutional rights to corporations.  
+7 Id. at 362.  
+ 3 expenditures on ballot measure campaigns, or even  (in states where it is otherwise 
+legal) contributing directly to candidates.8 
+  
+Since 2010, neither Congress nor the beleaguered Federal Election Commission 
+have done anything. However, as Professor Laurence Tribe of Harvard Law School 
+and Federal Electi on Commissioner Ellen Weintraub have written, a state does not 
+need to wait for federal action to protect its state and local elections from foreign 
+influence. The goal of this bill is to plug the loophole allowing corporations partly 
+or wholly owned by fo reign interests to influence elections.  
+ 
+In the New York Times, Federal Election Commissioner Ellen Weintraub 
+explained the problem, and pointed to a solution: “Throughout Citizens United, the 
+court described corporations as ‘associations of citizens,” she  wrote. “States can 
+require entities accepting political contributions from corporations in state and 
+local races to make sure that those corporations are indeed associations of 
+American citizens —and enforce the ban on foreign political spending against th ose 
+that are not.”9  
+ 
+As Weintraub noted, even partial foreign ownership of corporations calls into 
+question whether Citizens United , which three times described corporations as 
+“associations of citizens” and which expressly reserved questions related to foreign 
+shareholders,10 would apply. Indeed, after deciding Citizens United , the Supreme 
+Court in Bluman v. Federal Election Commission  specifically upheld the federal 
+ 
+8 For example, Uber has shown an increasing appetite for political spending in a variety of 
+contexts. In California, the company spent some $58 million on Proposition 22, which 
+successfully overturned worker protections for Uber drivers. See Ryan Menezes et al., “Billions 
+have been spent on California’s ballot measure battles. But this year is unlike any other,” L.A. 
+Times, Nov. 13, 2020, https://lat.ms/3gRct8d . Uber is, as of this writi ng, 3.8% owned by the 
+Public Investment Fund of Saudi Arabia —a foreign government entity, but at a level that would 
+not trigger LD 1610. See CNBC, Uber Technologies Inc ., 
+https://www.cnbc.com/quo tes/UBER?tab=ownership  (visited May 3, 2023). Similarly, in 
+October 2016, Airbnb responded to the New York Legislature’s growing interest in regulating 
+the homestay industry by arming a super PAC with $10 million to influ ence New York’s 
+legislative races. Airbnb received crucial early funding from, and was at that time partly owned 
+by, Moscow -based (and Kremlin -linked) DST Global. See Kenneth  Lovett, Airbnb to spend 
+$10M on Super PAC to fund pre -Election day ads , N.Y. Daily News, Oct. 11, 2016, 
+http://nydn.us/2EF5Lgi . 
+9 Ellen Weintraub, Taking on Citizens United , N.Y. Times, Mar. 30, 2016, 
+http://nyti.ms/1SwK4gK .  
+10 Citizens United , 558 U.S. at 349, 354, 356, 362.  
+ 4 ban on foreign nationals spending their own money in U.S. elections.11 The 
+Supreme Court went even further in Agency for International Development v. 
+Alliance for Open Society Int’l, Inc . when Justice Kavanaugh (writing for the 
+Court) held that foreign entities  located  abroad have no constitutional rights.12 
+Furthermore, the Court explained that U.S. entities “ cannot export their own First 
+Amendment rights” to the foreign entities with which they associate.13 
+ 
+In light of the Court’s post -Citizens United  decision s in Bluman  and Agency for 
+International Develop ment , a restriction on political spending by corporations with 
+foreign ownership at levels potentially capable of influencing corporate 
+governance can be upheld based on those cases  and as an exception to Citizens 
+United .14 
+II. Frequently asked questions  
+Does the bill prevent corruption?  
+The Supreme Court currently recognizes two distinct public interests in regulating 
+the amounts and sources of money in politics: (1) preventing corruption or the 
+appearance of corruption, and (2) protecting democ ratic self -government against 
+foreign influence. This bill is defensible under both interests.  
+ 
+As Judge Kavanaugh explained in Bluman , the public “has a compelling interest 
+for purposes of First Amendment analysis in limiting the participation of foreign  
+citizens in activities of American democratic self -government, and in thereby 
+preventing foreign influence over the U.S. political process.”15 The U.S. Court of 
+Appeals for the Ninth Circuit has confirmed that this interest applies to state 
+elections as well.16 
+ 
+Is the bill “narrowly tailored” to protecting democratic self -government?  
+Yes. The public interest in protecting democratic self -government from foreign 
+influence is particularly strong and supports a wide range of restrictions ranging 
+ 
+11 Bluman v. Federal Election Comm’n, 800 F. Supp. 2d 281, 288 (D.D.C. 2011), aff’d,  132 S. 
+Ct. 1087 (2012). In 2019, the U.S. Court of Appeals for the Ninth Circuit upheld federal statute’s 
+foreign national political spending ban as applied to local electio ns. Singh , 924 F.3d at 1042.  
+12 140 S. Ct. 2082, 208 6 (2020).  
+13 Id. at 2088.  
+14 A similar analysis would also apply to First Nat. Bank of Boston v. Bellotti , 435 U.S. 765 
+(1978), which addressed limits on corporations spending in ballot question elections.  
+15 Bluman v. Fed. Election Comm’n, 800 F. Supp. 2d 281, 288 (D.D.C. 2011), aff’d, 565 U.S. 
+1104 (2012).  
+16 United States v. Singh, 924 F.3d 1030, 1042 (9th Cir. 2019).  
+ 5 from investment in communications facilities to municipal public employment.17 
+In the specific  context of political spending, the facts of the Bluman  decision are 
+worth noting. The lead plaintiff wanted to contribute to three candidates (subject to 
+dollar limits that in theory minimize the risk of corruption) and “to print flyers .  . . 
+and to distr ibute them in Central Park.”18 All these were banned by the federal 
+statute, and the court upheld the ban on all of them.  
+ 
+In other words, in a context where the risk of corruption was essentially nil, the 
+court found that the interest in protecting democ ratic self -government from foreign 
+influence is so strong that a law that prohibits printing flyers and posting them in a 
+park is narrowly tailored to that interest. Given that, a ban on corporate political 
+spending —with the potential for far greater influ ence on elections than one 
+individual printing flyers —by corporations with substantial foreign ownership, at 
+levels known from corporate governance literature to bring the potential for 
+investor influence, is also narrowly tailored to the same interest.   
+ 
+Does this bill go further than the federal statute at issue in Bluman?  
+Yes; that is the point . The federal statute prevents foreign entities from spending 
+money directly in federal, state, or local elections.19 The proposed bill also applies 
+to non -foreig n entities that may be in part based or incorporated within the U.S. but 
+that are owned, controlled, or otherwise influenced by foreign interests —in this 
+case, a foreign government —according to  the proposed definition .  
+ 
+If you have any questions about leg al, policy, or technical aspects of the bill, I 
+would be happy to discuss.  
+ 
+ 
+Sincerely,  
+ 
+ 
+ Amira Mattar, Counsel  
+ Free Speech For People  
+   
+ 
+17 See Bluman , 800 F. Supp. 2d at 287 (collecting Supreme Court cases upholding limits on 
+noncitizen employment in a wide variety of local positions); 47 U.S.C. § 310(b) (banning 
+issuance of broadcast or common carrier license to companies under minority foreign 
+ownership).  
+18 Id. at 285.  
+19 52 U.S.C. § 30121, formerly codified as 2 U.S.C. § 44 1e. 

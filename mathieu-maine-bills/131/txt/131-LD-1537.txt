@@ -1,0 +1,190 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1537
+S.P. 610 In Senate, April 5, 2023
+An Act to Amend the Laws Relating to the Prevention of 
+Perfluoroalkyl and Polyfluoroalkyl Substances Pollution and to 
+Provide Additional Funding
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator INGWERSEN of York.
+Cosponsored by Representative GRAMLICH of Old Orchard Beach and
+Senators: BENNETT of Oxford, BRENNER of Cumberland, Representatives: MEYER of 
+Eliot, PLUECKER of Warren, SAYRE of Kennebunk.
+
+Page 1 - 131LR1431(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §1614, sub-§2, ¶A, as enacted by PL 2021, c. 477, §1 and 
+3 reallocated by RR 2021, c. 1, Pt. A, §54, is amended to read:
+4 A.  Beginning January  October 1, 2023, a manufacturer of a product for sale in the 
+5 State that contains intentionally added PFAS shall submit to the department a written 
+6 notification that includes:
+7 (1)  A brief description of the product, including estimated annual sales volume in 
+8 the State or nationally;
+9 (2)  The purpose for which PFAS are used in the product, including in any product 
+10 components;
+11 (3)  The amount of each of the PFAS, identified by its chemical abstracts service 
+12 registry number or in the absence of this number a description approved by the 
+13 department, in the product, reported as an exact quantity , or as the amount of total 
+14 organic fluorine if the amount of each PFAS compound is not known, determined 
+15 using commercially available analytical methods or based on information provided 
+16 by a supplier as falling within a range approved for reporting purposes by the 
+17 department;
+18 (4)  The name and address of the manufacturer, and the name, address and phone 
+19 number of a contact person for the manufacturer; and
+20 (5)  Any additional information established by the department by rule as necessary 
+21 to implement the requirements of this section.
+22Sec. 2.  38 MRSA §1614, sub-§4, as enacted by PL 2021, c. 477, §1 and reallocated 
+23 by RR 2021, c. 1, Pt. A, §54, is amended to read:
+244.  Exemptions.  The following are exempt from this section:
+25 A.  A product for which federal law governs the presence of PFAS in the product in a 
+26 manner that preempts state authority; and
+27 B.  A product subject to  that is a package as defined in Title 32, chapter 26‑A or 26‑B.  
+28 section 1732, subsection 4; and
+29 C.  A manufacturer with less than $20,000,000 in national annual sales of products, 
+30 except that this exemption does not apply to any prohibitions under subsection 5.
+31Sec. 3.  38 MRSA §1614, sub-§5, ¶C, as enacted by PL 2021, c. 477, §1 and 
+32 reallocated by RR 2021, c. 1, Pt. A, §54, is amended to read:
+33 C.  The department may by rule identify products by category or use that may not be 
+34 sold, offered for sale or distributed for sale in this State if they contain intentionally 
+35 added PFAS. Not later than January 1, 2025 and every year thereafter until December 
+36 31, 2029, the department shall adopt a rule identifying at least one product category or 
+37 use that may not be sold, offered for sale or distributed in this State if it contains 
+38 intentionally added PFAS. The department shall prioritize the prohibition of the sale of 
+39 product categories that, in the department's judgment, are most likely to cause 
+40 contamination of the State's land or water resources if they contain intentionally added 
+41 PFAS.  Products in which the use of PFAS is a currently unavoidable use as determined 
+Page 2 - 131LR1431(01)42 by the department may be exempted by the department by rule except that, prior to 
+43 January 1, 2028, such a determination may not be made unless the department has 
+44 adopted rules that identify a relevant related product category or use for sales 
+45 prohibitions as authorized by this paragraph.  The department may not prohibit the sale 
+46 or resale of used products.
+6 Rules adopted pursuant to this paragraph are major substantive rules as defined in Title 
+7 5, chapter 375, subchapter 2‑A.
+8Sec. 4.  Appropriations and allocations.  The following appropriations and 
+9 allocations are made.
+10ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+11Remediation and Waste Management 0247
+12 Initiative: Provides allocations for one Toxicologist position and associated costs.
+OTHER SPECIAL REVENUE FUNDS 2023-24 2024-25
+POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+Personal Services $105,063 $110,595
+All Other $4,750 $4,750
+ __________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $109,813 $115,345
+13Remediation and Waste Management 0247
+20 Initiative: Provides allocations for expenditures related to implementation of the Maine 
+21 Revised Statutes, Title 38, section 1614.
+OTHER SPECIAL REVENUE FUNDS 2023-24 2024-25
+All Other $269,606 $269,606
+ __________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $269,606 $269,606
+22Remediation and Waste Management 0247
+27 Initiative: Provides allocations for one Environmental Specialist IV position and associated 
+28 costs.
+OTHER SPECIAL REVENUE FUNDS 2023-24 2024-25
+POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+Personal Services $110,034 $116,096
+All Other $4,750 $4,750
+ __________ __________
+OTHER SPECIAL REVENUE FUNDS TOTAL $114,784 $120,846
+29  
+ENVIRONMENTAL PROTECTION, 
+DEPARTMENT OF  
+DEPARTMENT TOTALS 2023-24 2024-25
+   
+OTHER SPECIAL REVENUE FUNDS $494,203 $505,797
+ __________ __________
+DEPARTMENT TOTAL - ALL FUNDS $494,203 $505,7971
+2
+3
+4
+5
+13
+14
+15
+16
+17
+18
+19
+22
+23
+24
+25
+26
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+Page 3 - 131LR1431(01)1Sec. 5.  Retroactivity. That section of this Act that amends the Maine Revised 
+2 Statutes, Title 38, section 1614, subsection 2, paragraph A applies retroactively to January 
+3 1, 2023.
+4SUMMARY
+5 This bill extends the deadline for reporting the use of perfluoroalkyl and 
+6 polyfluoroalkyl substances, or PFAS, in products for sale until October 1, 2023. The bill 
+7 authorizes reporting the amount of total organic fluorine if the amount of each PFAS 
+8 compound is not known and allows the amount of PFAS to be reported based on 
+9 information provided by a supplier rather than testing. The bill clarifies the packaging 
+10 exemption and exempts manufacturers with less than $20,000,000 in annual national sales 
+11 from the PFAS reporting requirements but not from any sales prohibitions. It requires the 
+12 Department of Environmental Protection, not later than January 1, 2025 and every year 
+13 thereafter until December 31, 2029, to adopt a rule identifying at least one product category 
+14 or use that may not be sold, offered for sale or distributed in this State if it contains 
+15 intentionally added PFAS. It prohibits the department prior to January 1, 2028 from 
+16 providing an exemption for products in which the use of PFAS is a currently unavoidable 
+17 use unless the department has adopted rules that identify a relevant related product category 
+18 or use for a sales prohibition. The bill includes an appropriations and allocations section to 
+19 provide funding for 2 positions and expenditures related to the implementation of the laws 
+20 governing products containing perfluoroalkyl and polyfluoroalkyl substances.1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20

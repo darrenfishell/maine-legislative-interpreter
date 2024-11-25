@@ -1,0 +1,258 @@
+Dear Esteemed Legislators and Staff,
+I respectfully submit this email as my testimony in support of
+LD 697 - Resolve, to
+Study the Effects of 5G.
+I regret that my testimony is not able to be given
+in person today as I am
+unable to attend due to a prior commitment that was immovable.
+Because of
+my family's personal journey which led us to understand first hand about the dangers of
+wireless radiation and due to the fact that ALL wireless communications including "5G"
+utilize various frequency ranges-
+have both negative
+and positive biological effects
+- I
+have pasted my testimony from
+Massachusetts bill
+H115
+An Act relative to best
+management practices for wireless in schools and public institutions of higher
+education
+.
+I have submitted testimony each time the various iterations of this bill have come up for
+hearing over the last few sessions. I have met with Committee Chairs, legislators, and
+aides countless times in person to express my concern for the lack of best practices and
+of the overall failure to make schools safer for our children.
+I strongly urge you to finally pass this important bill before you. The following website
+HOME | TechSafe Schools
+will provide practical best
+practices and
+MITIGATION
+recommendations for your consideration.
+The recent August 2021
+US Appeals Court Judgement
+in which the
+Court ordered the
+FCC to reconsider RF radiation limits on mobile devices,
+is relevant to H115 as
+all wireless transmitters including wi-fi access points in school classrooms are subject to
+this order.
+This is an urgent matter to parents seeking
+to protect their
+children in school  and acting to pass this bill would prioritize the health
+and safety of students and staff.
+My young child was harmed in school with extremely strong enterprise/high- density
+wi-fi. The school wanted seamless coverage at the expense of safety and did not take the
+time to responsibly understand the harm transmitters can cause when too close to the
+body. It is well understood that children are more vulnerable to all toxins. It is also
+known that
+the average radiofrequency radiation energy
+deposition for
+children exposed to  RF is two times higher in the brain and 10 times
+higher in the bone marrow of the skull as stated in
+T
+he
+International Agency
+for Research on Cancer, Monograph
+.
+The image below from the Aerohive Networks, the network provider at my child's
+school,  shows the intensity of the microwave radiation from the enterprise/high-density
+wi-fi . The warm colors indicates greater intensity and thus greater microwave radiation
+exposure- this scenario creates a seamless or blanket coverage- with no reprieve for
+those impacted :
+We do not use wi-fi at home because of the harm it caused my family. Rather, we opt for
+faster, safer, fiber-optic connections.  However,  I think it is important to understand
+home and school environments can differ greatly. For example, the typical home wi-fi
+coverage looks more like the image below- clearly, much less coverage and exposure
+than a typical school :
+
+Without my prior conset or knowledge my child's school placed transmitters close to my
+child (see photos of actual transmitter placement below)  without regard for the
+manufacturer's advice or the advice from
+the
+American
+Academy of Pediatrics
+.
+(
+See
+letter from AAP to FCC
+with additional cautionary
+advice that was
+ignored )
+Antennas very
+close to head/body at my child's school
+
+Antennas at my child's school under desk
+Below is the exposure measured for the entire school day. This school does
+not
+use enterprise/high -density wi-fi  :
+
+The school below ( my child's school) has enterprise / high-density wi-fi - the
+exposure is far greater for students and staff:
+
+The harm to my child occurred daily in school and resulted in debilitating headaches,
+bloody noses, tachycardia, ear pressure , ear ringing,  ear pain, and "underwater" ear
+sensations, chest pain, dizziness, nausea, etc. These symptoms were not present on
+weekends or over school breaks and summer when away from this intense and chronic
+microwave radiation exposure.
+Note: The purple bars
+in the graphs above
+represent electric field change or peaks of pulsed microwave radiation that
+are emitted by the wireless access points. These peaks above are higher
+than 5 mW/m^2 = 0.5 
+μ
+W/cm^2. The science shows that from 1 
+μ
+W/cm^2
+we can have DNA damage with short-term exposures
+(
+see
+Panagopoulos
+papers referenced below in resources
+)
+Had simple best practices been employed in my child's school, this irreparable harm
+could have been prevented. We have a collective opportunity with this important bill to
+help schools understand the unique risks to children and mitigate these risks with
+reasonable best practices.
+Unfortunately, the placement of wireless emitting devices is dictated by coverage and
+profit goals only- not safety. It is the proverbial "wild west" with wireless vendors vying
+for a larger market share and high sales volume. Below illustrates various wi-fi access
+point placement suggested in the respective manuals of the providers- Note: under seat
+
+mounting exposes the user to intense and unsafe exposure yet this is commonly
+recommended for school setting:
+Cisco - advantages of under seat mounting
+:
+“The users
+themselves attenuate the
+signals. Second, this can generally provide a great way to
+hide
+AP’s (access points).”
+Aerohive Networks
+:
+“Installing AP’s on the
+opposite
+side of a wall, beneath the floor ,
+at low height (< 6 feet), or underneath seating
+can
+accomplish high-density Wi-FI.”
+Netgear
+:
+“In high-density environments, the demands
+on throughput are often
+exacerbated by users carrying two or three devices using multiple applications that
+consume network resources simultaneously .”
+Securedge
+:
+“Never try and use access points that were
+made for residential
+environments..”
+Extreme Networks
+:
+“Wi-Fi system satellites use mesh
+technology to talk to the router
+and to each other . Each node (Access Point) serves as a hop point for other nodes in
+the system. This helps the nodes farthest from the router to deliver a
+strong W i-Fi
+signal
+as they are talking to other nodes and not
+relying on one-to-one communications
+with the router .” *
+Radar antennas
+can be integrated
+Cisco:
+Wireless LAN Design Guide for High Density
+Client Environments in Higher Education (cisco.com)
+,
+Wireless High Client
+Density Design Guide - Cisco
+Aerohive:
+https://d2cpnw0u24fjm4.cloudfront.net/wp-content/uploads/Aerohive-High-Density-Wi-Fi-Design-Configuration-Guide-v2.pdf
+NetGear
+Best Practices for High Density Wireless Network
+Design In (pdfslide.net)
+Secureedge
+Wireless Access Point Placement: 3 Common
+Mistakes (securedgenetworks.com)
+AP30 - Extreme Networks
+Source: Former President Frank Clegg’ s slide presentation Shrewsbury , MA 2019
+Reasonable best practices are articulated below by Mr. Frank Clegg, former president of
+Microsoft Canada:
+●
+Begin to Re-orient the mindset of developers, designers, and installers to meet
+consumer demand with
+minimal radiation exposure-
+industry
+has IP
+●
+In the interim
+immediate opportunities to follow
+CDC
+ALARA  principle
+(As Low
+As Reasonably Achievable)*, commercially available solutions are abundant
+●
+Safest Solution- use hardwired connections
+whenever
+possible.
+100 times
+faster , more economical in the long run, more reliable, less vulnerable to
+security and privacy problems and safer . Hard W ired systems
+Use 10x less
+energy than wireless systems
+1
+more green less climate
+impact.
+●
+If hardwired connections are unavailable,
+turn of f Wi-fi Access Points
+and
+devices when not in use via commercially available wall switch with timer
+●
+The wireless vendor can easily
+and
+programmatically
+reduce power density
+without materially impacting coverage (See
+Tech Safe
+School Mitigation
+recommendations)
+●
+Content for teaching can be
+downloaded
+to a tablet
+or device prior to the
+lesson
+●
+Prohibit
+cell phones and other wearables in the classroom
+●
+Ask industry
+to provide devices and software with
+hard-wired features
+Frank Clegg's comments pasted from 2019 Shrewsbury, MA  presentation
+1 Schoechle,
+Timothy,
+Re-Inventing Wires: The Future of  Landlines
+and Networks
+, National Institute for
+Science, Law & Public Policy Washington, DC
+Please reach out if I can help provide further information. Thank you for your time and
+attention.
+Respectfully,
+H. Davis
+Westboro, MA 01581
+774-571-9308
+hdavisinc@gmail.com
+Heidi  Davis
+Westborough, MA
+LD 697
+Dear Esteemed Legislators and Staff, 
+I respectfully submit this email and attach my testimony ( see attached PDF) in 
+support of  LD 697 - Resolve, to Study the Effects of 5G.
+Please see my personal story described in my testimony to understand how my family
+learned the hard way about the biological health impacts of wireless radiation. 
+Please consider the insidious impacts on health as you roll out 5G in your state. 
+Perhaps you will lead with fiber optics to the premises and be thoughtful about 
+deployment to provide safer connectivity for all residents to benefit.  Respectfully, 
+Heidi 

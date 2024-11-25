@@ -1,0 +1,183 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 145
+H.P. 101 House of  Representatives, January 21, 2021
+An Act  To Amend the Maine Uniform  Probate  Code
+(EMERGENCY)
+Reported by Representative HARNETT of  Gardiner for the Probate and Trust Law  
+Advisory Commission pursuant to the Maine Revised  Statutes,  Title 18-C, section 1-803, 
+subsection 2.
+Received by the Clerk of the House on January 19, 2021.  Referred to the Committee  on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed.
+ROBERT  B. HUNT
+Clerk
+
+Page 1 - 130LR0429(01)1Emergency preamble.  Whereas, acts and resolves of the Legislature do not 
+2 become effective until 90 days after adjournment unless enacted as emergencies; and
+3Whereas, the Maine Uniform Probate Code took effect September 1, 2019, but the 
+4 new confidentiality of records provisions applicable to adult guardianships and 
+5 conservatorships were delayed until January 1, 2021 to allow the development and adoption 
+6 of rules governing those records by the Supreme Judicial Court; and
+7Whereas, the rules governing confidentiality of Probate Court records have not yet 
+8 been adopted; and
+9Whereas, the effective date of the statutory provisions should be delayed until the rules 
+10 are adopted and any appropriate statutory amendments can be made; and
+11Whereas, in the judgment of the Legislature, these facts create an emergency within 
+12 the meaning of the Constitution of Maine and require the following legislation as 
+13 immediately necessary for the preservation of the public peace, health and safety; now, 
+14 therefore,
+15Be it enacted by the People of the State of Maine as follows:
+16Sec. 1.  18-C MRSA §3-108, sub-§1, ¶D, as amended by PL 2019, c. 417, Pt. A, 
+17 §4, is further amended to read:
+18 D.  An Regardless of whether the decedent dies before, on or after the effective date of 
+19 this Code, an informal appointment or a formal testacy or appointment proceeding may 
+20 be commenced more than 3 years after the decedent's death if no proceeding 
+21 concerning the succession or estate administration has occurred within the 3-year 
+22 period after the decedent's death, but the personal representative has no right to possess 
+23 estate assets as provided in section 3‑709 beyond that necessary to confirm title in the 
+24 successors to the estate, and claims other than expenses of administration may not be 
+25 presented against the estate;
+26Sec. 2.  18-C MRSA §5-308, sub-§4, as enacted by PL 2019, c. 417, Pt. A, §30, is 
+27 amended to read:
+284.  Effective date.  This section takes effect January 1, 2021  2023.
+29Sec. 3.  18-C MRSA §5-409, sub-§4, as enacted by PL 2019, c. 417, Pt. A, §62, is 
+30 amended to read:
+314.  Effective date.  This section takes effect January 1, 2021  2023.
+32Sec. 4.  18-C MRSA §5-423, sub-§2, ¶E, as amended by PL 2019, c. 417, Pt. A, 
+33 §80, is further amended to read:
+34 E.  An annual credit report of the individual subject to conservatorship and, to To the 
+35 extent feasible, a copy of the most recent reasonably available financial statements 
+36 evidencing the status of bank accounts, investment accounts and mortgages or other 
+37 debts of the individual subject to conservatorship, with all but the last 4 digits of the 
+38 account numbers and the individual's social security number redacted, and, if ordered 
+39 by the court, a credit report of the individual subject to guardianship;
+40Sec. 5.  18-C MRSA §5-431, sub-§8, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+41 affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+Page 2 - 130LR0429(01)18.  Safeguard rights of individual.  Unless the court otherwise orders for good cause, 
+2 before terminating or modifying a conservatorship, the court shall follow the same 
+3 procedures to safeguard the rights of the individual subject to conservatorship that apply to 
+4 a petition for conservatorship.
+5Sec. 6.  18-C MRSA §8-301, sub-§2, ¶A-1, as amended by PL 2019, c. 598, §8, 
+6 is further amended to read:
+7 A-1.  The intestate succession provisions of Article 2, Part 1, Subpart 1, the elective 
+8 share provisions of Article 2, Part 2 and , the exempt property and allowances 
+9 provisions of Article 2, Part 4 and the wrongful death provisions of section 2-807 apply 
+10 to the estates of decedents who die on or after the effective date;
+11Sec. 7.  Retroactivity. Those sections of this Act that amend the Maine Revised 
+12 Statutes, Title 18-C, section 5-308, subsection 4 and section 5-409, subsection 4 apply 
+13 retroactively to January 1, 2021.
+14Emergency clause.  In view of the emergency cited in the preamble, this legislation 
+15 takes effect when approved.
+16SUMMARY
+17 This bill contains recommendations of the Probate and Trust Law Advisory 
+18 Commission pursuant to the Maine Revised Statutes, Title 18-C, section 1-803, subsection 
+19 2.
+20 1.  This bill amends Title 18-C, section 3-108 to resolve an ambiguity as to whether the 
+21 provision applies to decedents who died prior to the effective date of Title 18-C.  
+22 Section 3-108, subsection 1, paragraph D allows the probate of a will of a decedent 
+23 more than 3 years after death in a formal proceeding, but as a result of the limitations 
+24 imposed by section 8-301, subsection 2, paragraph A, the probate is permitted only for a 
+25 decedent who died after the September 1, 2019 effective date of Title 18-C.  Section 3-108, 
+26 subsection 1, paragraph D appears to allow an appointment of a personal representative, in 
+27 an informal or formal proceeding, more than 3 years after death regardless of whether the 
+28 date of death was before, on, or after the September 1, 2019 effective date of Title 18-C.
+29 As a result, if a decedent died more than 3 years prior to the September 1, 2019 effective 
+30 date, with a purported will, it would not be possible to probate the will under current law 
+31 because of the limitation imposed by section 8-301, subsection 2, paragraph A.  However, 
+32 it appears that the decedent's heirs could, under section 3-108, subsection 1, paragraph D, 
+33 still obtain an informal or formal appointment of a personal representative because the 
+34 appointment is permitted regardless of the date of death.  The heirs would submit an 
+35 informal application or a formal petition for appointment of a personal representative, 
+36 indicate that they are aware of an unrevoked testamentary instrument and explain that it is 
+37 not being probated because it cannot be probated due to section 8-301, subsection 2, 
+38 paragraph A.  There is ambiguity, however, as to whether the limitations of section 8-301, 
+39 subsection 2, paragraph A prevent the appointment of a personal representative more than 
+40 3 years after the date of death.
+41 The interplay between section 3-108, subsection 1, paragraph D and section 8-301, 
+42 subsection 2, paragraph A appears to create unintended inconsistencies in outcomes 
+43 regarding the appointment of a personal representative and the probate of a will that can be 
+Page 3 - 130LR0429(01)44 cured by making it clear that section 3-108, subsection 1, paragraph D applies regardless 
+45 of the date of the decedent's death. 
+3 2.  This bill amends section 5-308, subsection 4 and section 5-409, subsection 4 to 
+4 delay the effective date of the confidentiality of records provisions governing guardianships 
+5 of adults and governing conservatorships.  When Title 18-C was enacted, with a September 
+6 1, 2019 effective date, the provisions of section 5-308 and section 5-409 had a delayed 
+7 effective date of January 1, 2021.  The purpose of the delayed effective date was to give 
+8 the Supreme Judicial Court time to address confidentiality of court records in the state 
+9 courts and perhaps in the Probate Courts, and then give the commission an opportunity to 
+10 propose amendments to sections 5-308 and 5-409 to ensure consistency with confidentiality 
+11 of records provisions adopted by the Supreme Judicial Court.  With an effective date of 
+12 August 21, 2020, the Supreme Judicial Court adopted the Maine Rules of Electronic Court 
+13 Systems, which contains extensive provisions governing the confidentiality of records filed 
+14 with the Supreme Judicial Court, the Superior Court and the District Court.  The Supreme 
+15 Judicial Court has not yet had an opportunity to consider rules governing confidentiality of 
+16 records filed with the Probate Courts.  This bill further delays the effective date of sections 
+17 5-308 and 5-409 to January 1, 2023 to provide additional time for the Supreme Judicial 
+18 Court, in conjunction with the commission and the Advisory Committee on Probate Rules, 
+19 to complete its review and approval of rules governing confidentiality of records in the 
+20 Probate Courts.  Because this bill will not take effect before January 1, 2021, these changes 
+21 are made retroactive to January 1, 2021.
+22 3.  This bill amends section 5-423, subsection 2, paragraph E to remove the mandatory 
+23 credit report for the individual subject to conservatorship from the conservator's annual 
+24 report and accounting and make the credit report a requirement only if ordered by the court.  
+25 The reason for the amendment is because it is difficult, and sometimes impossible, for the 
+26 conservator to obtain a credit report for the individual subject to conservatorship and the 
+27 credit report requirement is interfering with the timely submission of conservators' annual 
+28 reports and accountings.  The statutory requirement of submission of copies of recent 
+29 financial statements along with the detailed accounting schedules provide sufficient court 
+30 monitoring of conservators for most situations and the Probate Court will have flexibility 
+31 to order a credit report if the court deems the credit report an appropriate element of the 
+32 conservator's report and accounting.
+33 4.  This bill amends section 5-431, subsection 8 to clarify that the subsection applies to 
+34 both the termination and modification of a conservatorship.  The headnote for section 5-431 
+35 is "Termination or modification of conservatorship," but subsection 8 refers only to the 
+36 termination of a conservatorship, with no reference to modification.  Section 5-319, 
+37 subsection 6, which is the counterpart provision that applies to adult guardianships, 
+38 includes both terminations and modifications of adult guardianships.  The uniform act, on 
+39 which section 5-431, subsection 8 is based, mentions only termination and not 
+40 modification; however, the uniform comment to the corresponding paragraph of the 
+41 uniform act describes both terminating and modifying conservatorships.  It appears that 
+42 reference to modification of a conservatorship was inadvertently omitted from section 
+43 5-431, subsection 8 and that the drafting error originated in the uniform act.  To correct the 
+44 apparent inadvertent omission, this bill amends subsection 8 to cover modifications of adult 
+45 guardianships as well as terminations. 1
+2
+Page 4 - 130LR0429(01)1 5.  This bill amends section 8-301, subsection 2, paragraph A-1 to add a reference to 
+2 the wrongful death provisions of section 2-807 of Title 18-C to avoid ambiguity as to 
+3 whether the intestacy provisions of former Title 18-A or the intestacy provisions of Title 
+4 18-C govern the distribution of a recovery of a wrongful death claim.  The first 2 sentences 
+5 of section 2-807, subsection 2 require the distribution of a recovery of a wrongful death 
+6 claim to be paid to the decedent's heirs without becoming part of the decedent's probate 
+7 estate.
+8 The intestate succession provisions of Title 18-C are materially different, in a number 
+9 of respects, from the intestate succession provisions of former Title 18-A.  Although section 
+10 8-301, subsection 2, paragraph A-1 already states that the intestate succession provisions 
+11 of Article 2, Part 1, Subpart 1 apply to the estates of decedents who die on or after the 
+12 effective date, there remains ambiguity as to whether actions for wrongful death brought 
+13 after the effective date, for deaths occurring before the effective date, are governed by the 
+14 provisions of former Title 18-A or by the provisions of Title 18-C.  The amendment 
+15 resolves any ambiguity by making it clear that the date of death of the decedent will control 
+16 which provisions apply.

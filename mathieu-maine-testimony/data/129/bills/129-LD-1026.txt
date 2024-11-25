@@ -1,0 +1,116 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1026
+H.P. 756 House of  Representatives, February 28, 2019
+An Act  To Require  Election Transparency
+Reference to the Committee on Veterans  and Legal Affairs suggested  and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative HUBBELL of Bar  Harbor.
+Cosponsored by Senator BELLOWS of Kennebec and
+Representative: HICKMAN  of Winthrop, Senator: SANBORN, L. of Cumberland.
+
+Page 1 - 129LR1733(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §610 is enacted to read:
+3§610.  Election transparency
+41.  Transparency of election procedures.  The Secretary of State shall publish a 
+5guide to election procedures for public distribution and revise the guide annually to 
+6reflect current law, rules and procedures regarding elections.  The guide must describe:
+7A.  Rules regarding polling places and the conduct of elections;
+8B.  Devices and software used to capture, interpret or tally votes and the capabilities 
+9and deployment of the devices and software;
+10C.  Duties of election officials on, before and after election day;
+11D.  Opportunities for citizens to monitor election procedures; and
+12E.  Other election laws, rules or procedures that the Secretary of State determines 
+13appropriate for the public interest.
+142.  Duties of election officials.  For each election, an election official shall complete 
+15and return to the Secretary of State:
+16A.  A completed checklist of election procedures for the election official's voting 
+17place; and
+18B.  A ballot reconciliation form that accounts for ballots delivered, ballots voted, 
+19absentee ballots mailed and returned, spoiled ballots, unused ballots, challenged 
+20ballots and ballots unaccounted for.
+21Each completed form required under this subsection must be signed by the municipal 
+22clerk and one other election official. The Secretary of State shall provide the forms 
+23required under this subsection and direct the manner in which the forms must be 
+24completed and returned to the Secretary of State.
+253.  Election complaints.  The Secretary of State shall develop an election complaint 
+26process that an election official and the public can use to report excessive wait times, 
+27noncompliance with election procedures or other concerns about the election process.  
+28Instructions for filing a complaint under this subsection must be included in the guide to 
+29election procedures under subsection 1 and posted at all polling places.  The Secretary of 
+30State shall keep a record of and make public each complaint received under this 
+31subsection and any action taken in response to that complaint.
+324.  Data sharing.  The Secretary of State shall maintain automatic voter registration 
+33information.  The Secretary of State shall contract with a nonprofit corporation of 
+34member states to comply with this subsection.
+355.  Election report.  Within 12 months after a general election, the Secretary of State 
+36shall submit a report to the Legislature that includes for all elections since the prior 
+37general election:
+Page 2 - 129LR1733(01)-11A.  A summary of all forms submitted under subsection 2;
+2B.  A summary of all election complaints under subsection 3;
+3C.  A summary of voters removed from the central voter registration system since the 
+4prior general election;
+5D.  A summary of any recounts conducted, including a description of any 
+6discrepancies in vote totals and explanations for discrepancies when available; and
+7E.  Recommendations for the remedy of any problems identified in the election 
+8process at the state or local level.
+96.  Rules.  The Secretary of State may adopt routine technical rules as defined in Title 
+105, chapter 375, subchapter 2-A to carry out the purposes of this section.
+11Sec. 2.  Deadline for publishing guide to election procedures.  The Secretary 
+12of State shall publish a guide to election procedures pursuant to the Maine Revised 
+13Statutes, Title 21-A, section 610, subsection 1 no later than December 2, 2019.
+14Sec. 3.  Study of post-election ballot audits and recounts.  The Secretary of 
+15State shall establish an ad hoc committee, composed of state and municipal election 
+16officials, election security advocates and registered voters, to conduct a study of best 
+17practices in post-election ballot audits, recounts and the intersection of audits with 
+18recounts.  The study must include nonbinding, postcertification pilot audits of both 
+19plurality and ranked-choice elections.  The Secretary of State shall by December 6, 2023 
+20submit a report based upon the study with any recommended legislation to the joint 
+21standing committee of the Legislature having jurisdiction over election matters.  The joint 
+22standing committee may report out a bill based upon the report to the Second Regular 
+23Session of the 131st Legislature.
+24Sec. 4.  Membership agreement with Electronic Registration Information 
+25Center, Inc.  Pursuant to the Maine Revised Statutes, Title 21-A, section 610, 
+26subsection 4, the Secretary of State shall enter into a membership agreement with 
+27Electronic Registration Information Center, Inc. on behalf of the State.  The agreement 
+28must include terms providing for the periodic sharing of data, including, but not limited 
+29to, voter names and addresses, among the Electronic Registration Information Center, 
+30Inc., the central voter registration system of the Department of the Secretary of State, 
+31Bureau of Motor Vehicles and any other automatic voter registration agency designated 
+32by the Secretary of State.
+33SUMMARY
+34This bill requires the Secretary of State to:
+351.  Publish a guide to election procedures for public distribution and revise the guide 
+36annually to reflect current law, rules and procedures regarding elections;
+372.  Provide local election procedure and ballot reconciliation forms for local election 
+38officials to complete;
+Page 3 - 129LR1733(01)-113.  Develop an election complaint process;
+24.  Maintain automatic voter registration information and contract with a nonprofit 
+3corporation of member states to maintain the information;
+45.  Report to the Legislature on certain election issues within 12 months after a 
+5general election; and
+66.  Conduct a study of post-election audits and recounts.

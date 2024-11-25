@@ -1,0 +1,78 @@
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 417
+S.P. 198 In Senate, February 2, 2023
+An Act to Facilitate Net Energy Billing
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator VITELLI of Sagadahoc.
+Cosponsored by Representative ZEIGLER of Montville.
+
+Page 1 - 131LR0798(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3209-A, sub-§1, ¶C-1 is enacted to read:
+3 C-1.  "Net energy billing data" means customer information in the possession of a 
+4 transmission and distribution utility that is necessary to conduct and administer a net 
+5 energy billing arrangement, including but not limited to a customer's monthly 
+6 electricity usage; rate and subrate classes; generated, applied or banked credits and 
+7 related expiration dates; dollar value of charges offset by credits; credit rate per 
+8 kilowatt-hour; participation in any other net energy billing or demand response 
+9 program; energy production attributed to the customer; historical payment information; 
+10 and other information as determined by rules adopted by the commission.
+11Sec. 2.  35-A MRSA §3209-A, sub-§5-A is enacted to read:
+125-A.  Customer protection; energy assistance.  Notwithstanding any provision of law 
+13 to the contrary, a customer's participation in a net energy billing arrangement and any 
+14 credits received through such participation may not prevent a customer's qualification for 
+15 or receipt of benefits from any energy conservation or energy assistance program 
+16 administered by the Maine State Housing Authority or the Efficiency Maine Trust.
+17Sec. 3.  35-A MRSA §3209-A, sub-§9 is enacted to read:
+189.  Utility data and crediting.  Net energy billing data is the property of the customer 
+19 to which it relates. A customer may direct a transmission and distribution utility in writing 
+20 to release net energy billing data to 3rd parties, including project sponsors, in order to 
+21 administer a customer's net energy billing arrangement or to produce a consolidated bill so 
+22 that the customer can easily understand the financial savings in a billing period resulting 
+23 from the customer's participation in the net energy billing arrangement.  A transmission 
+24 and distribution utility shall release the net energy billing data within 7 days of the date the 
+25 net energy billing data is generated. In accordance with rules adopted by the commission, 
+26 a transmission and distribution utility shall:
+27 A.  Provide access by the customer to that customer's net energy billing data through 
+28 an appropriate computer application or digital platform;
+29 B.  When a customer is entering into a net energy billing arrangement with a project 
+30 sponsor, provide confirmation of acceptance and implementation of the net energy 
+31 billing arrangement to the customer and the project sponsor within 7 days of that 
+32 acceptance;
+33 C.  Apply unused net energy billing credits available from the oldest previous billing 
+34 cycle to the customer's bill up to the full amount of the charges billed in that billing 
+35 cycle before applying credits generated in the current billing cycle and newer unused 
+36 credits; and
+37 D.  Provide to a project sponsor, within 7 days after the end of a net energy billing 
+38 cycle, the total energy production for the project, all net energy billing data necessary 
+39 to implement all customers' net energy billing arrangements and any additional data 
+40 that the commission may require by rule.
+41Sec. 4.  35-A MRSA §3209-A, sub-§10 is enacted to read:
+Page 2 - 131LR0798(01)110.  Billing errors.  A transmission and distribution utility shall correct any net energy 
+2 billing errors made by the transmission and distribution utility within one billing cycle of 
+3 the error and provide written confirmation to the customer and the project sponsor 
+4 describing the error and what was done to correct the error. The commission may direct a 
+5 transmission and distribution utility to pay to a customer any costs the commission finds to 
+6 have been incurred by the customer as a direct result of that transmission and distribution 
+7 utility's error.
+8Sec. 5.  35-A MRSA §3209-A, sub-§11 is enacted to read:
+911.  Complaints.  The commission shall establish a process for receiving and 
+10 responding to complaints from project sponsors related to transmission and distribution 
+11 utility compliance with subsection 10.
+12SUMMARY
+13 This bill establishes various requirements for transmission and distribution utilities to 
+14 share information, handle billing and otherwise interact with customers and project 
+15 sponsors in net energy billing arrangements. The bill requires the Public Utilities 
+16 Commission to establish a complaint handling process for project sponsor complaints about 
+17 transmission and distribution utility compliance with billing error requirements and 
+18 provides that the commission may direct a transmission and distribution utility to pay costs 
+19 resulting from billing errors.13
+14
+15
+16
+17
+18
+19

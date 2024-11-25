@@ -1,0 +1,101 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 583
+H.P. 426 House of  Representatives, February 24, 2021
+An Act  To Repeal  the Changes Made by Public Law 2019, Chapter 
+478, "An Act To  Promote Solar Energy Projects and Distributed 
+Generation Resources in Maine"
+Received by the Clerk of the House on February 22, 2021.  Referred to the Committee  on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative HANLEY of  Pittston.
+Cosponsored by Senator FARRIN of Somerset.
+
+Page 1 - 130LR0706(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3201, sub-§11-A, as enacted by PL 2019, c. 478, Pt. A, §1, 
+3 is repealed.
+4Sec. 2.  35-A MRSA §3201, sub-§13-A, as enacted by PL 2019, c. 478, Pt. A, §2, 
+5 is repealed.
+6Sec. 3.  35-A MRSA §3209-A, as amended by PL 2019, c. 16, §1 and c. 478, Pt. A, 
+7 §3, is further amended to read:
+8§3209-A.  Net energy billing
+9 The commission may adopt or amend rules governing net energy billing. Rules adopted 
+10 or amended under this section are major substantive rules as defined in Title 5, chapter 375, 
+11 subchapter 2‑A.  "Net energy billing" means a billing and metering practice under which a 
+12 customer is billed on the basis of the difference between the kilowatt-hours delivered by a 
+13 transmission and distribution utility to the customer over a billing period and the kilowatt-
+14 hours delivered by the customer to the transmission and distribution utility over the billing 
+15 period, taking into account accumulated unused kilowatt-hour credits from the previous 
+16 billing period.
+171.  Definitions.  As used in this section, the following terms have the following 
+18 meanings.
+19 A.  "Customer" means a customer of a transmission and distribution utility in the State.
+20 B.  "Distributed generation resource" means an electric generating facility that uses a 
+21 renewable fuel or technology under section 3210, subsection 2, paragraph B‑3 and is 
+22 located in the service territory of a transmission and distribution utility in the State.
+23 C.  "Net energy billing" means a billing and metering practice under which a customer 
+24 is billed on the basis of the difference between the kilowatt‑hours delivered by a 
+25 transmission and distribution utility to the customer over a billing period and the 
+26 kilowatt‑hours delivered by the customer to the transmission and distribution utility 
+27 over the billing period, taking into account accumulated unused kilowatt‑hour credits 
+28 from the previous billing period.
+292.  Financial interest required.  The commission shall allow a customer to participate 
+30 in net energy billing if the customer has a financial interest in a distributed generation 
+31 resource or in a generation resource that has a net energy billing arrangement on the 
+32 effective date of this section, including facility ownership, a lease agreement or a power 
+33 purchase agreement.
+343.  Shared financial interest for investor-owned utility customers; limitation.  
+35 Multiple customers of an investor-owned transmission and distribution utility that have 
+36 distinct billing accounts with that utility may share a financial interest in a distributed 
+37 generation resource under subsection 2.  Any number of customers of an investor-owned 
+38 transmission and distribution utility with a shared financial interest in a distributed 
+39 generation resource may participate in net energy billing, except that the number of eligible 
+40 customers or meters is limited to 10 for a shared financial interest in a distributed generation 
+41 resource located in the service territory of an investor-owned transmission and distribution 
+42 utility located in an area administered by the independent system administrator for northern 
+43 Maine or any successor of the independent system administrator for northern Maine unless 
+Page 2 - 130LR0706(01)44 the commission determines that the utility's billing system can accommodate more than 10 
+45 accounts or meters for the purpose of net energy billing.
+34.  System size.  The nameplate capacity of a distributed generation resource that may 
+4 be used for net energy billing must be less than 5 megawatts, except that, if a municipality 
+5 is the customer participating in net energy billing, the nameplate capacity of a distributed 
+6 generation resource located in that municipality that may be used for the net energy billing 
+7 may be 5 megawatts or more, as long as less than 5 megawatts of metered electricity from 
+8 the resource is used for net energy billing.
+9Sec. 4.  35-A MRSA §3209-B, as enacted by PL 2019, c. 478, Pt. A, §4 and 
+10 corrected by RR 2019, c. 1, Pt. A, §51, is repealed.
+11Sec. 5.  35-A MRSA c. 34-C, as amended, is repealed.
+12Sec. 6.  PL 2019, c. 478, Pt. A, §5 is repealed. 
+13Sec. 7.  PL 2019, c. 478, Pt. A, §6 is repealed.
+14Sec. 8.  PL 2019, c. 478, Pt. A, §7 is repealed.
+15Sec. 9.  PL 2019, c. 478, Pt. B, §2 is repealed.
+16Sec. 10.  PL 2019, c. 478, Pt. B, §3 is repealed.
+17SUMMARY
+18 This bill repeals the changes to statutory law made by Public Law 2019, chapter 478 
+19 and repeals related provisions of chapter 478.1
+2

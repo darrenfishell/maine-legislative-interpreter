@@ -1,0 +1,109 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 1970
+S.P. 672 In Senate,  January  8, 2020
+An Act  To Establish Electronic Visit Verification  for In-home and 
+Community-based Health Care  Workers
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+203.
+Reference to the Committee on Health  and Human Services suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator CLAXTON of Androscoggin.
+Cosponsored by Representative McCREIGHT of Harpswell and
+Senators: MOORE of  Washington, SANBORN, L. of Cumberland.
+
+Page 1 - 129LR2894(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §7310 is enacted to read:
+3§7310.  Electronic visit verification
+41.  Definitions.  For purposes of this section, the following terms have the following 
+5meanings.
+6A.  "Electronic visit verification" means the electronic documentation of the 
+7performance of a service, including the type of service performed, the individual 
+8receiving the service, the date of the service, the location of the service delivery, the 
+9individual providing the service and the time that the service begins and ends.
+10B.  "Electronic visit verification system" means a system that provides electronic visit 
+11verification that complies with subsection 3 and the federal 21st Century Cures Act, 
+1242 United States Code, Section 1396b(l).
+13C.  "Provider" means an entity, agency, facility or individual who offers or plans to 
+14offer any services.
+15D.  "Service" means personal care services and home health care services as defined 
+16in the federal 21st Century Cures Act, 42 United States Code, Section 1396b(l).
+172.  Documentation; establishment.  The commissioner shall establish an electronic 
+18visit verification system with respect to services, including implementation requirements 
+19and standards for electronic visit verification that comply with the federal 21st Century 
+20Cures Act, 42 United States Code, Section 1396b(l).
+213.  Department requirements.  The department has the following duties and 
+22responsibilities.
+23A.  The department shall develop implementation requirements for electronic visit 
+24verification systems.  In developing implementation requirements, the commissioner 
+25shall ensure that the requirements:
+26(1)  Are minimally administratively and financially burdensome to the provider 
+27and the direct care workers employed by the provider to deliver the service;
+28(2)  Are minimally burdensome to the service recipient and the least disruptive to 
+29the service recipients in receiving and maintaining allowed services;
+30(3)  Consider existing best practices and existing use of electronic visit 
+31verification;
+32(4)  Are no more restrictive than applicable federal laws;
+33(5)  Are effective methods for preventing fraud when balanced against the 
+34requirements of subparagraphs (1) and (2);
+35(6)  Are consistent with the department's policies related to MaineCare-covered 
+36services, flexibility of service use and quality assurance; and
+Page 2 - 129LR2894(01)-11(7)  Take into account the perspectives and experiences of direct care workers 
+2and the providers that employ those workers and support them in delivering 
+3services.
+4B.  The commissioner shall make training available to providers and direct care 
+5workers on the electronic visit verification system established pursuant to subsection 
+62 and the operational methods of complying with the system's requirements.
+7C.  The commissioner shall establish baseline measurements related to preventing 
+8fraud in the use of electronic visit verification and establish measures to determine 
+9the effect of electronic visit verification requirements on the integrity of the program 
+10under which services are provided.
+11D.  The commissioner shall make the electronic visit verification system established 
+12pursuant to subsection 2 available to providers but must allow the use of other 
+13electronic visit verification systems as provided in subsection 4.
+14E.  The commissioner may not reduce MaineCare reimbursement rates for providers 
+15as a result of federal action to reduce the federal medical assistance percentage under 
+16the federal 21st Century Cures Act, 42 United States Code, Section 1396b(l).
+174.  Provider requirements.  A provider has the following duties and responsibilities.
+18A.  A provider of services may select any electronic visit verification system that 
+19meets the requirements established by the commissioner pursuant to subsection 3, 
+20paragraph A.
+21B.  An electronic visit verification system used by a provider must provide data to the 
+22commissioner in a format and at a frequency to be established by the commissioner.
+23C.  A provider shall implement an electronic visit verification system consistent with 
+24this section by the date established by the United States Department of Health and 
+25Human Services, Centers for Medicare and Medicaid Services for the State's 
+26compliance with the federal 21st Century Cures Act, 42 United States Code, Section 
+271396b(l).  If a good faith effort exemption is approved by the United States 
+28Department of Health and Human Services, Centers for Medicare and Medicaid 
+29Services, the date of required implementation by providers is the date of required 
+30compliance under the exemption.
+31SUMMARY
+32This bill governs the implementation by the Commissioner of Health and Human 
+33Services of the federal requirements for electronic visit verification with respect to 
+34personal care services and home health care services for adults with long-term care needs 
+35under the federal 21st Century Cures Act.

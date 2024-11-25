@@ -1,0 +1,81 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1507
+H.P. 1099 House of  Representatives,  April 4, 2019
+An Act  Relating  to Amateur Radio Service
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative DeVEAU of Caribou.
+Cosponsored by Representative:  MORRIS  of Turner.
+
+Page 1 - 129LR0654(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA c. 213-A is enacted to read:
+3CHAPTER 213-A
+4AMATEUR RADIO SERVICE ACT
+5§1409.  Amateur radio station operation protection
+61.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+7following terms have the following meanings.
+8A.  "Amateur radio operator" means a person licensed by the Federal 
+9Communications Commission under 47 Code of Federal Regulations, Part 97 to 
+10operate an amateur radio station;
+11B.  "Amateur radio station" means a radio station capable of transmitting and 
+12receiving radio signals sent by an amateur radio operator in accordance with 47 Code 
+13of Federal Regulations, Part 97;
+14C.  "Amateur radio transceiver" means a radio apparatus capable of 2-way 
+15communications on frequencies allocated for amateur radio service, as defined under 
+1647 Code of Federal Regulations, Part 97, to an amateur radio operator;
+17D.  "Antenna" means a device connected to an amateur radio transceiver to either 
+18radiate radio signals to or receive them from an amateur radio station.
+19E.  "Homeowner" means a person governed by restrictive covenants, deed restrictions 
+20or limits on the use of land or buildings imposed by a homeowners association; and
+21F.  "Homeowners association" means a nonprofit organization:
+22(1)  Of which owners of real estate, described in a declaration or covenant or 
+23other applicable legal instrument, are required to be members; and
+24(2)  That requires members to pay a share of the costs, including but not limited 
+25to real estate taxes, insurance premiums, maintenance services, improvements or 
+26other costs, related to common property owned by the homeowners association 
+27and not owned exclusively by any member.
+282.  Prohibition.  Except as provided in subsection 3, a homeowners association may 
+29not prohibit or restrict the construction or operation of an amateur radio station by a 
+30homeowner who is an amateur radio operator as long as the outdoor antenna used by the 
+31amateur radio operator is concealed from public view or constructed to occupy minimal 
+32space and is located on property under exclusive control of the amateur radio operator.
+333.  Exceptions.  Nothing in this chapter prohibits a homeowners association from:
+34A.  Requiring an amateur radio operator to obtain prior written approval from a 
+35homeowners association before installing an outdoor antenna;
+Page 2 - 129LR0654(01)-11B.  Prohibiting installation of an outdoor antenna or antenna support structure by an 
+2amateur radio operator on common property not under the exclusive use or control of 
+3the amateur radio operator; or
+4C.  Establishing reasonable requirements governing the height, location, size, 
+5aesthetic impact and installation of an outdoor antenna and antenna support structure 
+6for an amateur radio station.
+7SUMMARY
+8This bill prohibits a homeowners association, which is defined in this bill, from 
+9restricting the construction and operation of an amateur radio station by an amateur radio 
+10operator licensed by the Federal Communications Commission.  This bill allows 
+11homeowners associations to establish certain requirements concerning the construction 
+12and appearance of amateur radio station antennas.

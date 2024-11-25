@@ -1,0 +1,2202 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1080  
+H.P. 740  House of Representatives, March 24, 2015  
+ 
+ 
+An Act Making Unified Appropriations and Allocations for the 
+Expenditures of State Government, Highway Fund and Other 
+Funds and Changing Certain Provisions of the Law Necessary to the 
+Proper Operations of State Government for the Fiscal Years Ending 
+June 30, 2016 and June 30, 2017  
+ 
+ 
+ 
+ 
+Reference to the Committee on Transportation su ggested and ordered printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative McLEAN of Gorham.  (GOVERNOR'S BILL)  
+Cosponsored by Senator COLLINS of York.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1853(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+CONCEPT DRAFT  2 
+SUMMARY  3 
+This bill is a concept draft pursuant to Joint Rule 208.  4 
+This bill as emergency legislation proposes to make unified appropriations and 5 
+allocations for the expenditures of State Government, Highway Fund and other funds and 6 
+change certain provisions of the law necessary to the proper operations of State 7 
+Government for the fiscal years ending June 30, 2016 and June 30, 2017, as submitted by 8 
+the Governor pursuant to the Maine R evised Statutes, Title 5.  9 
+The documents submitted by the Governor may be found here: 10 
+http://legislature.maine.gov/documents/?aiv%5Bdocuments.docume nt_types_id%5D=27 11 
+&tt=documents . 12 
+ 
+ 
+ 
+ 
+The following materials  
+are the documents  available  
+at the link identified  
+in the Legislative Document.  
+Department Summary - GENERAL FUND 
+Positions - LEGISLATIVE COUNT 498.500 493.500 493.000 498.000 
+Positions - FTE COUNT 0.346 0.346   
+Personal Services 32,713,256 33,768,528 32,194,015 32,129,654 
+All Other 89,832,075 91,404,115 97,503,249 109,670,085 
+Capital Expenditures 100,000 600,000 4,000,000 4,000,000 
+Unallocated 5,673    
+Total 122,651,004 125,772,643 133,697,264 145,799,739 
+Department Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 19.000 19.000 14.000 14.000 
+Personal Services 1,260,225 1,311,104 200,617 181,861 
+All Other 1,453,000 1,452,897 1,151,890 1,151,675 
+Total 2,713,225 2,764,001 1,352,507 1,333,536 
+Department Summary - FEDERAL EXPENDITURES FUND 
+All Other 511,187 511,187 490,810 494,350 
+Total 511,187 511,187 490,810 494,350 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+All Other 28,218,582 31,056,582 36,204,315 36,928,315 
+Capital Expenditures 1,050,000    
+Total 29,268,582 31,056,582 36,204,315 36,928,315 
+Department Summary - FINANCIAL AND PERSONNEL SERVIC ES FUND 
+Positions - LEGISLATIVE COUNT 267.000 267.000 258.000 258.000 
+Positions - FTE COUNT 0.346 0.346   
+Personal Services 18,189,877 18,990,172 19,524,402 19,459,685 
+All Other 1,583,489 1,577,370 1,577,370 1,577,370 
+Total 19,773,366 20,567,542 21,101,772 21,037,055 
+Department Summary - POSTAL, PRINTING & SUPPLY FUND
+Positions - LEGISLATIVE COUNT 39.500 39.500 37.000 37.000 
+Personal Services 2,258,283 2,361,498 2,285,651 2,299,594 
+All Other 1,542,220 1,542,220 1,542,220 1,542,220 
+Total 3,800,503 3,903,718 3,827,871 3,841,814 
+Department Summary - OFFICE OF INFORMATION SERVICES  FUND 
+Positions - LEGISLATIVE COUNT 487.500 486.500 503.000 503.000 
+Personal Services 43,585,734 45,160,178 49,106,576 48,846,538 
+All Other 16,178,081 16,178,081 7,566,140 7,566,140 
+Total 59,763,815 61,338,259 56,672,716 56,412,678 
+Department Summary - RISK MANAGEMENT FUND 
+Positions - LEGISLATIVE COUNT 5.000 5.000 5.000 5.000 
+Personal Services 400,387 412,094 424,178 418,778 
+All Other 3,534,326 3,534,326 3,534,326 3,534,326 
+Total 3,934,713 3,946,420 3,958,504 3,953,104 
+Department Summary - WORKERS' COMPENSATION MANAGEME NT FUND 
+Positions - LEGISLATIVE COUNT 12.000 12.000 12.000 12.000 Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 1388.500 1382.500 1381.000 1386.000 
+Positions - FTE COUNT 0.692 0.692   
+Personal Services 103,531,566 107,318,735 109,612,242 109,164,314 
+All Other 249,053,115 265,321,568 269,293,929 282,188,090 
+Capital Expenditures 1,150,000 600,000 4,000,000 4,000,000 
+Unallocated 5,673    
+Total 353,740,354 373,240,303 382,906,171 395,352,404 Administrative and Financial Services, Department o f 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 1 
+Department Summary - WORKERS' COMPENSATION MANAGEME NT FUND 
+Personal Services 1,160,758 1,196,497 1,519,580 1,512,311 
+All Other 18,155,846 18,155,846 18,155,846 18,155,846 
+Total 19,316,604 19,352,343 19,675,426 19,668,157 
+Department Summary - CENTRAL MOTOR POOL 
+Positions - LEGISLATIVE COUNT 17.000 17.000 17.000 17.000 
+Personal Services 999,702 1,036,462 1,114,266 1,102,785 
+All Other 8,587,982 8,921,645 8,921,645 8,921,645 
+Total 9,587,684 9,958,107 10,035,911 10,024,430 
+Department Summary - REAL PROPERTY LEASE INTERNAL S ERVICE FUND 
+Positions - LEGISLATIVE COUNT 3.000 3.000 3.000 3.000 
+Personal Services 271,477 283,200 312,488 308,304 
+All Other 25,593,167 25,590,339 25,590,339 25,590,339 
+Total 25,864,644 25,873,539 25,902,827 25,898,643 
+Department Summary - BUREAU OF REVENUE SERVICES FUN D 
+All Other 151,720 151,720 151,720 151,720 
+Total 151,720 151,720 151,720 151,720 
+Department Summary - RETIREE HEALTH INSURANCE FUND 
+All Other 48,400,235 48,400,235 48,400,235 48,400,235 
+Total 48,400,235 48,400,235 48,400,235 48,400,235 
+Department Summary - ACCIDENT, SICKNESS & HEALTH IN SURANCE INTERNAL SERVICE FUND 
+Positions - LEGISLATIVE COUNT 13.000 13.000 12.000 12.000 
+Personal Services 876,380 916,422 928,419 923,657 
+All Other 895,354 895,354 895,354 895,354 
+Total 1,771,734 1,811,776 1,823,773 1,819,011 
+Department Summary - ALCOHOLIC BEVERAGE FUND 
+Positions - LEGISLATIVE COUNT  1.000 1.000 1.000 
+Personal Services  210,462 225,301 220,370 
+All Other  11,533,800 11,533,800 11,533,800 
+Total 0 11,744,262 11,759,101 11,754,170 
+Department Summary - STATE ADMINISTERED FUND 
+All Other 2,042,515 2,042,515 2,042,515 2,042,515 
+Total 2,042,515 2,042,515 2,042,515 2,042,515 
+Department Summary - STATE LOTTERY FUND 
+Positions - LEGISLATIVE COUNT 26.000 25.000 25.000 25.000 
+Personal Services 1,754,288 1,607,787 1,708,676 1,693,880 
+All Other 2,319,536 2,319,536 2,319,536 2,319,536 
+Total 4,073,824 3,927,323 4,028,212 4,013,416 
+Department Summary - FIREFIGHTERS AND LAW ENFORCEME NT HEALTH INSURANCE PROG FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 61,199 64,331 68,073 66,897 
+All Other 53,800 53,800 1,712,619 1,712,619 
+Total 114,999 118,131 1,780,692 1,779,516 
+A - 2 
+Administrative and Financial Services, Department o f 
+BUDGET - BUREAU OF THE   0055 
+What the Budget purchases: 
+The Bureau of the Budget provides budget and positi on planning, analysis and control in support of gub ernatorial objectives and legislative intent. This role represents a balanced 
+approach for carrying out the program initiatives o f the Executive Branch within the limits of legisla tive oversight for the purpose of achieving the mos t effective program outcomes and 
+results within available budget resources. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+12.000 12.000 12.000 12.000 Positions - LEGISLATIVE COUNT 
+1,150,327 1,169,628 1,299,533 1,283,494 Personal Services 
+62,683 62,683 62,683 62,683 All Other 
+Total 1,213,010 1,232,311 1,362,216 1,346,177 
+Program Summary - HIGHWAY FUND 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+98,363 101,112 111,612 109,447 Personal Services 
+8,893 8,893 8,893 8,893 All Other 
+Total 107,256 110,005 120,505 118,340 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 12.000 12.000 12.000 12.000 
+Personal Services 1,150,327 1,169,628 1,299,533 1,283,494 
+All Other 62,683 62,683 62,683 62,683 
+Total 1,346,177 1,362,216 1,232,311 1,213,010 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 98,363 101,112 111,612 109,447 
+All Other 8,893 8,893 8,893 8,893 
+Total 118,340 120,505 110,005 107,256 
+A - 3 
+Administrative and Financial Services, Department o f 
+BUILDINGS & GROUNDS OPERATIONS   0080 
+What the Budget purchases: 
+The Buildings and Grounds Operations division of th e Bureau of General Services provides for the prope r and safe operation of all state-owned buildings i n multiple complexes.  The 
+division is charged with providing grounds work, ho usekeeping and maintenance to boilers, electrical c ircuits, air conditioning, plumbing operations, loc k shop and automated building 
+environmental control and security systems services .  The division is also responsible for estimating construction and renovation costs, executing contra cts for services, evaluating 
+divisional programs and initiating projects. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+100.000 100.000 100.000 100.000 Positions - LEGISLATIVE COUNT 
+5,253,918 5,374,342 5,844,489 5,816,128 Personal Services 
+6,819,753 6,296,050 6,296,050 6,296,050 All Other 
+Total 12,073,671 11,670,392 12,140,539 12,112,178 
+Program Summary - HIGHWAY FUND 
+16.000 16.000 16.000 16.000 Positions - LEGISLATIVE COUNT 
+654,505 684,437 738,367 739,187 Personal Services 
+1,383,729 1,383,729 1,383,729 1,383,729 All Other 
+Total 2,038,234 2,068,166 2,122,096 2,122,916 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+464,900 464,900 464,900 464,900 All Other 
+Total 464,900 464,900 464,900 464,900 
+Program Summary - REAL PROPERTY LEASE INTERNAL SERV ICE FUND - Informational 
+3.000 3.000 3.000 3.000 Positions - LEGISLATIVE COUNT 
+271,477 283,200 312,488 308,304 Personal Services 
+25,593,167 25,590,339 25,590,339 25,590,339 All Other 
+Total 25,864,644 25,873,539 25,902,827 25,898,643 
+2015-16 2016-17 
+HIGHWAY FUND 
+-5.000 -5.000 Positions - LEGISLATIVE COUNT 
+(230,573) (233,512) Personal Services 
+Total (230,573) (233,512) Eliminates one Housekeeper II position and 4 Instit utional Custodial Worker positions within the BPI B uilding 
+Operations Highway Fund program with the transfer o f janitorial services for the Child Street facility  to the 
+Department of Transportation. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+(290,800) (290,800) All Other 
+Total (290,800) (290,800) Reduces funding as a result of savings achieved thr ough the transfer of Child Street facility operatio ns from 
+the Department of Administrative and Financial Serv ices to the Department of Transportation. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 100.000 100.000 100.000 100.000 
+Personal Services 5,253,918 5,374,342 5,844,489 5,816,128 
+A - 4 
+Administrative and Financial Services, Department o f 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+All Other 6,819,753 6,296,050 6,296,050 6,296,050 
+Total 12,112,178 12,140,539 11,670,392 12,073,671 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 16.000 16.000 11.000 11.000 
+Personal Services 654,505 684,437 507,794 505,675 
+All Other 1,383,729 1,383,729 1,092,929 1,092,929 
+Total 1,598,604 1,600,723 2,068,166 2,038,234 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+All Other 464,900 464,900 464,900 464,900 
+Total 464,900 464,900 464,900 464,900 
+Revised Program Summary - REAL PROPERTY LEASE INTER NAL SERVICE FUND - Informational 
+Positions - LEGISLATIVE COUNT 3.000 3.000 3.000 3.000 
+Personal Services 271,477 283,200 312,488 308,304 
+All Other 25,593,167 25,590,339 25,590,339 25,590,339 
+Total 25,898,643 25,902,827 25,873,539 25,864,644 
+CLAIMS BOARD   0097 
+What the Budget purchases: 
+The State Claims Commission was established to assu re the rights of property owners and interested par ties are protected and just compensation is awarded  in highway condemnations 
+of real property acquired by the State; to afford p roperty owners and interested parties the opportuni ty to appear, present their case and have their rig hts fully protected without the 
+necessity of retaining professional assistance. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+62,327 64,568 66,204 64,822 Personal Services 
+17,861 17,758 17,758 17,758 All Other 
+Total 80,188 82,326 83,962 82,580 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 62,327 64,568 66,204 64,822 
+All Other 17,861 17,758 17,758 17,758 
+Total 82,580 83,962 82,326 80,188 
+A - 5 
+Administrative and Financial Services, Department o f 
+DEPARTMENTS AND AGENCIES-STATEWIDE   0016 
+What the Budget purchases: 
+This program serves as a placeholder to record fund ing adjustments that are subsequently reallocated t o the appropriate programs. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary 
+0 0 0 0
+Total 0 0 0 0
+2015-16 2016-17 
+HIGHWAY FUND 
+(995,397) (1,000,071) Personal Services 
+Total (995,397) (1,000,071) Reduces funding to reflect projected savings to the  State from an increase in the attrition rate from 1.6% to 3% 
+for fiscal years 2015-16 and 2016-17. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Personal Services    (995,397) (1,000,071) 
+Total (1,000,071) (995,397) 0 0
+A - 6 
+Administrative and Financial Services, Department o f 
+REVENUE SERVICES - BUREAU OF   0002 
+What the Budget purchases: 
+Maine Revenue Services (MRS) exists primarily to co llect tax revenues necessary to support Maine State  Government.  To achieve this end, the bureau must responsibly administer 
+state tax law.  Subsidiary responsibilities of MRS include (1) oversight of municipal tax administrati on in order to assist municipalities and provide un iformity of local taxes throughout the 
+State; and (2) operation of various tax relief prog rams to provide tax relief to taxpayers pursuant to  Maine law. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+301.500 296.500 292.000 292.000 Positions - LEGISLATIVE COUNT 
+0.346 0.346   Positions - FTE COUNT 
+19,306,715 20,102,056 22,123,176 22,002,609 Personal Services 
+13,086,570 13,275,067 13,119,737 13,119,737 All Other 
+Total 32,393,285 33,377,123 35,242,913 35,122,346 
+Program Summary - HIGHWAY FUND 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+445,030 460,987 510,404 501,988 Personal Services 
+42,517 42,517 42,517 42,517 All Other 
+Total 487,547 503,504 552,921 544,505 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+5,000 5,000 5,000 5,000 All Other 
+Total 5,000 5,000 5,000 5,000 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+8,318,348 10,568,348 11,418,348 11,418,348 All Other 
+Total 8,318,348 10,568,348 11,418,348 11,418,348 
+2015-16 2016-17 
+HIGHWAY FUND 
+(10,207) (10,422) All Other 
+Total (10,207) (10,422) Reduces funding to more accurately reflect actual a ctivity. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 301.500 296.500 292.000 292.000 
+Positions - FTE COUNT 0.346 0.346   
+Personal Services 19,306,715 20,102,056 22,123,176 22,002,609 
+All Other 13,086,570 13,275,067 13,119,737 13,119,737 
+Total 35,122,346 35,242,913 33,377,123 32,393,285 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 445,030 460,987 510,404 501,988 
+All Other 42,517 42,517 32,310 32,095 
+Total 534,083 542,714 503,504 487,547 
+A - 7 
+Administrative and Financial Services, Department o f 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+All Other 5,000 5,000 5,000 5,000 
+Total 5,000 5,000 5,000 5,000 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+All Other 8,318,348 10,568,348 11,418,348 11,418,348 
+Total 11,418,348 11,418,348 10,568,348 8,318,348 
+A - 8 
+Department Summary - GENERAL FUND 
+Positions - LEGISLATIVE COUNT 71.000 71.000 72.500 72.500 
+Personal Services 5,161,552 5,346,417 6,157,908 6,126,038 
+All Other 1,197,219 1,696,553 1,500,754 1,500,754 
+Capital Expenditures    30,000 
+Total 6,358,771 7,042,970 7,658,662 7,656,792 
+Department Summary - HIGHWAY FUND 
+All Other 33,054 33,054 33,054 33,054 
+Total 33,054 33,054 33,054 33,054 
+Department Summary - FEDERAL EXPENDITURES FUND 
+Positions - LEGISLATIVE COUNT 103.500 103.500 99.500 99.500 
+Positions - FTE COUNT 1.000 1.000 0.596 0.596 
+Personal Services 8,536,321 8,821,987 8,745,335 8,639,245 
+All Other 9,010,080 8,992,301 8,994,560 8,994,592 
+Capital Expenditures   25,000 25,000 
+Total 17,546,401 17,814,288 17,764,895 17,658,837 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+Positions - LEGISLATIVE COUNT 217.000 217.000 201.000 201.000 
+Positions - FTE COUNT 2.462 2.462 1.070 1.070 
+Personal Services 18,694,503 19,364,179 18,944,903 18,712,394 
+All Other 24,727,468 26,214,268 30,194,798 30,194,854 
+Capital Expenditures 524,200 527,500 374,500 289,000 
+Total 43,946,171 46,105,947 49,514,201 49,196,248 Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 391.500 391.500 373.000 373.000 
+Positions - FTE COUNT 3.462 3.462 1.666 1.666 
+Personal Services 32,392,376 33,532,583 33,848,146 33,477,677 
+All Other 34,967,821 36,936,176 40,723,166 40,723,254 
+Capital Expenditures 524,200 527,500 399,500 344,000 
+Total 67,884,397 70,996,259 74,970,812 74,544,931 Environmental Protection, Department of 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 9 
+Environmental Protection, Department of 
+AIR QUALITY   0250 
+What the Budget purchases: 
+Air emissions licensing, monitoring and compliance,  outreach and educational activities, and meteorolo gical research and analysis, to protect and improve  outdoor air quality. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+14.000 14.000 14.000 14.000 Positions - LEGISLATIVE COUNT 
+927,434 997,128 1,111,828 1,104,714 Personal Services 
+59,562 57,159 57,159 57,159 All Other 
+Total 986,996 1,054,287 1,168,987 1,161,873 
+Program Summary - HIGHWAY FUND 
+33,054 33,054 33,054 33,054 All Other 
+Total 33,054 33,054 33,054 33,054 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+4.000 4.000 4.000 4.000 Positions - LEGISLATIVE COUNT 
+282,124 289,045 300,903 300,087 Personal Services 
+2,685,774 2,685,774 2,685,774 2,685,774 All Other 
+Total 2,967,898 2,974,819 2,986,677 2,985,861 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+450,000 450,000 450,000 450,000 All Other 
+Total 450,000 450,000 450,000 450,000 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 14.000 14.000 14.000 14.000 
+Personal Services 927,434 997,128 1,111,828 1,104,714 
+All Other 59,562 57,159 57,159 57,159 
+Total 1,161,873 1,168,987 1,054,287 986,996 
+Revised Program Summary - HIGHWAY FUND 
+All Other 33,054 33,054 33,054 33,054 
+Total 33,054 33,054 33,054 33,054 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+Positions - LEGISLATIVE COUNT 4.000 4.000 4.000 4.000 
+Personal Services 282,124 289,045 300,903 300,087 
+All Other 2,685,774 2,685,774 2,685,774 2,685,774 
+Total 2,985,861 2,986,677 2,974,819 2,967,898 
+A - 10 
+Environmental Protection, Department of 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+All Other 450,000 450,000 450,000 450,000 
+Total 450,000 450,000 450,000 450,000 
+A - 11 
+Department Summary - GENERAL FUND 
+Positions - LEGISLATIVE COUNT 146.500 146.500 146.500 146.500 
+Positions - FTE COUNT 35.698 35.698 35.698 35.698 
+Personal Services 19,384,161 21,010,031 20,059,209 21,365,200 
+All Other 4,537,894 5,037,658 4,537,894 4,887,658 
+Total 23,922,055 26,047,689 24,597,103 26,252,858 
+Department Summary - HIGHWAY FUND 
+Personal Services 5,720 3,575 5,720 3,575 
+All Other 7,280 4,550 7,280 4,550 
+Total 13,000 8,125 13,000 8,125 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+Personal Services 770 3,850   
+All Other 2,730 7,400 1,500 1,500 
+Total 3,500 11,250 1,500 1,500 Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 146.500 146.500 146.500 146.500 
+Positions - FTE COUNT 35.698 35.698 35.698 35.698 
+Personal Services 19,390,651 21,017,456 20,064,929 21,368,775 
+All Other 4,547,904 5,049,608 4,546,674 4,893,708 
+Total 23,938,555 26,067,064 24,611,603 26,262,483 Legislature 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 12 
+Legislature 
+LEGISLATURE   0081 
+What the Budget purchases: 
+The organization of the Legislature is determined b y the Constitution of Maine, by Maine Statutes, and  by legislative rules.  This program funds the oper ational costs of the Legislature. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+146.500 146.500 146.500 146.500 Positions - LEGISLATIVE COUNT 
+35.698 35.698 35.698 35.698 Positions - FTE COUNT 
+19,379,116 21,004,986 20,054,164 21,360,155 Personal Services 
+4,207,928 4,717,692 4,207,928 4,567,692 All Other 
+Total 23,587,044 25,722,678 24,262,092 25,927,847 
+Program Summary - HIGHWAY FUND 
+5,720 3,575 5,720 3,575 Personal Services 
+7,280 4,550 7,280 4,550 All Other 
+Total 13,000 8,125 13,000 8,125 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+500 500 500 500 All Other 
+Total 500 500 500 500 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 146.500 146.500 146.500 146.500 
+Positions - FTE COUNT 35.698 35.698 35.698 35.698 
+Personal Services 19,379,116 21,004,986 20,054,164 21,360,155 
+All Other 4,207,928 4,717,692 4,207,928 4,567,692 
+Total 25,927,847 24,262,092 25,722,678 23,587,044 
+Revised Program Summary - HIGHWAY FUND 
+Personal Services 5,720 3,575 5,720 3,575 
+All Other 7,280 4,550 7,280 4,550 
+Total 8,125 13,000 8,125 13,000 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+All Other 500 500 500 500 
+Total 500 500 500 500 
+A - 13 
+Department Summary - GENERAL FUND 
+All Other 69,331 69,331 69,331 69,331 
+Total 69,331 69,331 69,331 69,331 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+All Other 37,652,508 37,769,183 38,232,084 38,174,512 
+Total 37,652,508 37,769,183 38,232,084 38,174,512 
+Municipal Bond Bank, Maine 
+TRANSCAP TRUST FUND   Z064 
+What the Budget purchases: 
+The TransCap Trust Fund provides financial assistan ce for the planning, design, acquisition, reconstru ction and rehabilitation of transportation capital improvements. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+37,652,508 37,769,183 37,769,183 37,769,183 All Other 
+Total 37,652,508 37,769,183 37,769,183 37,769,183 
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+462,901 405,329 All Other 
+Total 462,901 405,329 Adjusts funding to align allocation with projected available resources. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+All Other 37,652,508 37,769,183 38,232,084 38,174,512 
+Total 38,174,512 38,232,084 37,769,183 37,652,508 Department Summary - All Funds 
+All Other 37,721,839 37,838,514 38,301,415 38,243,843 
+Total 37,721,839 37,838,514 38,301,415 38,243,843 Municipal Bond Bank, Maine 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 14 
+Department Summary - GENERAL FUND 
+Positions - LEGISLATIVE COUNT 362.000 362.000 364.000 364.000 
+Personal Services 23,337,600 23,757,812 26,616,492 26,539,307 
+All Other 15,177,883 15,196,674 17,557,557 17,560,862 
+Capital Expenditures   156,000  
+Total 38,515,483 38,954,486 44,330,049 44,100,169 
+Department Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 78.000 78.000 78.000 78.000 
+Personal Services 16,889,766 17,495,548 18,966,949 18,877,456 
+All Other 8,366,886 8,374,586 8,960,763 8,950,472 
+Capital Expenditures 217,000 217,000 479,800 395,800 
+Total 25,473,652 26,087,134 28,407,512 28,223,728 
+Department Summary - FEDERAL EXPENDITURES FUND 
+Positions - LEGISLATIVE COUNT 11.000 11.000 12.000 12.000 
+Personal Services 1,151,574 1,207,119 1,315,917 1,315,691 
+All Other 7,186,584 7,186,584 6,100,078 6,078,211 
+Capital Expenditures 650,100 650,100   
+Total 8,988,258 9,043,803 7,415,995 7,393,902 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+Positions - LEGISLATIVE COUNT 104.000 104.000 105.000 105.000 
+Personal Services 9,767,819 10,087,593 11,248,061 11,183,218 
+All Other 8,986,836 9,056,475 9,338,663 9,270,615 
+Capital Expenditures 233,500 233,500 502,300 464,000 
+Total 18,988,155 19,377,568 21,089,024 20,917,833 
+Department Summary - CONSOLIDATED EMERGENCY COMMUNI CATIONS FUND 
+Positions - LEGISLATIVE COUNT 70.000 70.000 67.000 67.000 
+Personal Services 5,417,006 5,678,725 5,605,548 5,640,020 
+All Other 687,906 687,906 805,574 819,111 
+Total 6,104,912 6,366,631 6,411,122 6,459,131 Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 625.000 625.000 626.000 626.000 
+Personal Services 56,563,765 58,226,797 63,752,967 63,555,692 
+All Other 40,406,095 40,502,225 42,762,635 42,679,271 
+Capital Expenditures 1,100,600 1,100,600 1,138,100 859,800 
+Total 98,070,460 99,829,622 107,653,702 107,094,763 Public Safety, Department of 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 15 
+Public Safety, Department of 
+ADMINISTRATION - PUBLIC SAFETY   0088 
+What the Budget purchases: 
+The department was created to coordinate and effici ently manage the law enforcement and public safety responsibilities of the State.  The commissioner is  appointed by the Governor, 
+subject to review by the joint standing committee o f the Legislature having jurisdiction over criminal  justice matters and confirmation by the Legislatur e.  The Commissioner's Office 
+oversees the activities and programs of the bureaus  and offices; undertakes comprehensive planning and ; develops and implements procedures and practices to promote economy and 
+coordination within the department; and, actively s eeks cooperation between the department and all oth er law enforcement entities in the State. The commi ssioner recommends law 
+changes relating to organization, functions, servic es or procedures as necessary. The office houses th e public information office and coordinates with th e Department of Administrative 
+and Financial Services for information technology, financial and human resource services. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+105,283 105,334 121,634 117,125 Personal Services 
+195,774 195,774 195,774 195,774 All Other 
+Total 301,057 301,108 317,408 312,899 
+Program Summary - HIGHWAY FUND 
+2.000 2.000 2.000 2.000 Positions - LEGISLATIVE COUNT 
+89,563 95,843 112,320 114,598 Personal Services 
+680,219 680,219 680,219 680,219 All Other 
+Total 769,782 776,062 792,539 794,817 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+80,084 82,053 87,317 85,735 Personal Services 
+1,399,068 1,399,068 1,399,068 1,399,068 All Other 
+Total 1,479,152 1,481,121 1,486,385 1,484,803 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+142,177 147,916 158,809 157,396 Personal Services 
+106,214 106,214 106,214 106,214 All Other 
+Total 248,391 254,130 265,023 263,610 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 105,283 105,334 121,634 117,125 
+All Other 195,774 195,774 195,774 195,774 
+Total 312,899 317,408 301,108 301,057 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 2.000 2.000 2.000 2.000 
+Personal Services 89,563 95,843 112,320 114,598 
+All Other 680,219 680,219 680,219 680,219 
+Total 794,817 792,539 776,062 769,782 
+A - 16 
+Public Safety, Department of 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 80,084 82,053 87,317 85,735 
+All Other 1,399,068 1,399,068 1,399,068 1,399,068 
+Total 1,484,803 1,486,385 1,481,121 1,479,152 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 142,177 147,916 158,809 157,396 
+All Other 106,214 106,214 106,214 106,214 
+Total 263,610 265,023 254,130 248,391 
+A - 17 
+Public Safety, Department of 
+HIGHWAY SAFETY DPS   0457 
+What the Budget purchases: 
+The Bureau of Highway Safety promotes behavioral dr iver safety programs and projects designed to make Maine's roads and highways safer.  The programs con sist of motor vehicle 
+occupant restraint, child restraint, impaired drivi ng, motorcycle safety, speed enforcement, and the M aine defensive driving program.  The bureau also is  responsible for the annual
+planning, development, implementation, and evaluati on of the Highway Safety Plan for Maine. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+57,547 61,278 69,122 70,424 Personal Services 
+557,132 557,132 557,132 557,132 All Other 
+Total 614,679 618,410 626,254 627,556 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+5.000 5.000 5.000 5.000 Positions - LEGISLATIVE COUNT 
+374,816 394,806 411,261 412,970 Personal Services 
+2,516,581 2,516,581 2,516,581 2,516,581 All Other 
+650,100 650,100   Capital Expenditures 
+Total 3,541,497 3,561,487 2,927,842 2,929,551 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+33,166 34,149 33,100 33,644 Personal Services 
+240,787 240,787 240,787 240,787 All Other 
+Total 273,953 274,936 273,887 274,431 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 57,547 61,278 69,122 70,424 
+All Other 557,132 557,132 557,132 557,132 
+Total 627,556 626,254 618,410 614,679 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+Positions - LEGISLATIVE COUNT 5.000 5.000 5.000 5.000 
+Personal Services 374,816 394,806 411,261 412,970 
+All Other 2,516,581 2,516,581 2,516,581 2,516,581 
+Capital Expenditures 650,100 650,100   
+Total 2,929,551 2,927,842 3,561,487 3,541,497 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 33,166 34,149 33,100 33,644 
+All Other 240,787 240,787 240,787 240,787 
+Total 274,431 273,887 274,936 273,953 
+A - 18 
+Public Safety, Department of 
+MOTOR VEHICLE INSPECTION   0329 
+What the Budget purchases: 
+Administers and enforces the motor vehicle inspecti on program including issuing stickers and authorizi ng garages to perform the inspections. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+11.000 11.000 11.000 11.000 Positions - LEGISLATIVE COUNT 
+677,089 699,862 739,783 728,320 Personal Services 
+284,511 284,511 284,808 284,810 All Other 
+75,000 75,000   Capital Expenditures 
+Total 1,036,600 1,059,373 1,024,591 1,013,130 
+2015-16 2016-17 
+HIGHWAY FUND 
+401 2,628 All Other 
+Total 401 2,628 Provides funding for increased technology costs and  associated STA-CAP. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+59,700 59,700 Capital Expenditures 
+Total 59,700 59,700 Provides funding for the replacement of 3 vehicles. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 11.000 11.000 11.000 11.000 
+Personal Services 677,089 699,862 739,783 728,320 
+All Other 284,511 284,511 285,209 287,438 
+Capital Expenditures 75,000 75,000 59,700 59,700 
+Total 1,075,458 1,084,692 1,059,373 1,036,600 
+A - 19 
+Public Safety, Department of 
+STATE POLICE   0291 
+What the Budget purchases: 
+The State Police patrol rural areas of the State wi thout organized police departments, enforce highway  safety laws in rural areas, the Maine Turnpike and  the interstate system, 
+investigate homicides that occur outside Portland a nd Bangor, investigate child abuse cases, provide c rime laboratory services to all law enforcement age ncies and provide a repository 
+for criminal history records information. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - GENERAL FUND - Informational 
+313.500 313.500 313.500 313.500 Positions - LEGISLATIVE COUNT 
+20,081,927 20,443,334 22,677,601 22,624,405 Personal Services 
+9,681,036 9,769,797 9,769,797 9,769,797 All Other 
+Total 29,762,963 30,213,131 32,447,398 32,394,202 
+Program Summary - HIGHWAY FUND 
+10,942,437 11,333,731 12,210,903 12,182,049 Personal Services 
+5,632,498 5,640,198 5,685,405 5,686,436 All Other 
+Total 16,574,935 16,973,929 17,896,308 17,868,485 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+4.000 4.000 4.000 4.000 Positions - LEGISLATIVE COUNT 
+329,212 345,211 359,639 357,831 Personal Services 
+2,120,304 2,120,304 2,120,304 2,120,304 All Other 
+Total 2,449,516 2,465,515 2,479,943 2,478,135 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+4.000 4.000 4.000 4.000 Positions - LEGISLATIVE COUNT 
+276,064 286,498 312,068 306,613 Personal Services 
+400,539 400,539 400,539 400,539 All Other 
+Total 676,603 687,037 712,607 707,152 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+66,570 65,268 Personal Services 
+Total 66,570 65,268 
+HIGHWAY FUND 
+35,847 35,112 Personal Services 
+665 651 All Other 
+Total 36,512 35,763 Reorganizes 21 State Police Trooper positions to St ate Police Corporal positions. Initiative: 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+237,838 212,865 All Other 
+Total 237,838 212,865 
+HIGHWAY FUND 
+130,654 116,958 All Other 
+Total 130,654 116,958 Provides funding for increased technology costs and  associated STA-CAP. Initiative: 
+A - 20 
+Public Safety, Department of 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+81,250 Capital Expenditures 
+Total 81,250 0
+HIGHWAY FUND 
+43,750 Capital Expenditures 
+Total 43,750 0Provides funding for equipment for the Crime Lab in cluding a genotyping software package and an 
+uninterruptable power supply for a gas chromatograp h. Initiative: 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+94,700 94,700 All Other 
+Total 94,700 94,700 
+HIGHWAY FUND 
+46,344 46,344 All Other 
+Total 46,344 46,344 Provides funding for rent. Initiative: 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+152,142 152,142 All Other 
+Total 152,142 152,142 
+HIGHWAY FUND 
+83,434 83,434 All Other 
+Total 83,434 83,434 Provides funding for fees associated with backgroun d checks. Initiative: 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+74,750 Capital Expenditures 
+Total 74,750 0
+HIGHWAY FUND 
+40,250 Capital Expenditures 
+Total 40,250 0Provides funding for the replacement of a micro spe ctrophotometer. Initiative: 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+389,948 389,948 All Other 
+Total 389,948 389,948 
+HIGHWAY FUND 
+232,391 232,391 All Other 
+Total 232,391 232,391 Provides funding for additional vehicles. Initiative: 
+A - 21 
+Public Safety, Department of 
+2015-16 2016-17 
+GENERAL FUND - Informational 
+1.000 1.000 Positions - LEGISLATIVE COUNT 
+62,530 63,157 Personal Services 
+Total 62,530 63,157 
+HIGHWAY FUND 
+33,671 34,006 Personal Services 
+Total 33,671 34,006 
+FEDERAL EXPENDITURES FUND - Informational 
+-1.000 -1.000 Positions - LEGISLATIVE COUNT 
+(96,201) (97,163) Personal Services 
+96,201 97,163 All Other 
+Total 0 0Transfers and reallocates one DNA Forensic Analyst position from 100% Federal Expenditures Fund to 65%
+General Fund and 35% Highway Fund within the same p rogram. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - GENERAL FUND - Informatio nal 
+Positions - LEGISLATIVE COUNT 313.500 313.500 314.500 314.500 
+Personal Services 20,081,927 20,443,334 22,806,701 22,752,830 
+All Other 9,681,036 9,769,797 10,644,425 10,619,452 
+Capital Expenditures    156,000  
+Total 33,372,282 33,607,126 30,213,131 29,762,963 
+Revised Program Summary - HIGHWAY FUND 
+Personal Services 10,942,437 11,333,731 12,280,421 12,251,167 
+All Other 5,632,498 5,640,198 6,178,893 6,166,214 
+Capital Expenditures    84,000  
+Total 18,417,381 18,543,314 16,973,929 16,574,935 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+Positions - LEGISLATIVE COUNT 4.000 4.000 3.000 3.000 
+Personal Services 329,212 345,211 263,438 260,668 
+All Other 2,120,304 2,120,304 2,216,505 2,217,467 
+Total 2,478,135 2,479,943 2,465,515 2,449,516 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+Positions - LEGISLATIVE COUNT 4.000 4.000 4.000 4.000 
+Personal Services 276,064 286,498 312,068 306,613 
+All Other 400,539 400,539 400,539 400,539 
+Total 707,152 712,607 687,037 676,603 
+A - 22 
+Public Safety, Department of 
+STATE POLICE - SUPPORT   0981 
+What the Budget purchases: 
+Provides clerical support for the field troops of t he State Police. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+10.000 10.000 10.000 10.000 Positions - LEGISLATIVE COUNT 
+532,319 552,233 606,157 597,921 Personal Services 
+11,145 11,145 11,145 11,145 All Other 
+Total 543,464 563,378 617,302 609,066 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 10.000 10.000 10.000 10.000 
+Personal Services 532,319 552,233 606,157 597,921 
+All Other 11,145 11,145 11,145 11,145 
+Total 609,066 617,302 563,378 543,464 
+A - 23 
+Public Safety, Department of 
+TRAFFIC SAFETY   0546 
+What the Budget purchases: 
+Provides accident reconstruction and training servi ces, maintains the statewide crash reporting system , as well as the Air Wing operations. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+8.000 8.000 8.000 8.000 Positions - LEGISLATIVE COUNT 
+765,393 789,470 872,507 860,497 Personal Services 
+274,013 274,013 275,473 275,485 All Other 
+30,000 30,000   Capital Expenditures 
+Total 1,069,406 1,093,483 1,147,980 1,135,982 
+2015-16 2016-17 
+HIGHWAY FUND 
+33,500 33,500 Capital Expenditures 
+Total 33,500 33,500 Provides funding for the replacement of one vehicle . Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+7,020 7,393 Personal Services 
+Total 7,020 7,393 Reorganizes one State Police Trooper position to a State Police Specialist position. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+4,453 4,350 Personal Services 
+Total 4,453 4,350 Provides funding for the approved reclassification of one State Police Trooper position to a State Pol ice 
+Specialist position. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 8.000 8.000 8.000 8.000 
+Personal Services 765,393 789,470 883,980 872,240 
+All Other 274,013 274,013 275,473 275,485 
+Capital Expenditures 30,000 30,000 33,500 33,500 
+Total 1,181,225 1,192,953 1,093,483 1,069,406 
+A - 24 
+Public Safety, Department of 
+TRAFFIC SAFETY - COMMERCIAL VEHICLE ENFORCEMENT   0 715 
+What the Budget purchases: 
+Oversees and enforces the laws regarding weight, di mension and protection of ways, and ensures complia nce with federal motor vehicle commercial hours of service regulation by 
+checking vehicle log books. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+46.000 46.000 46.000 46.000 Positions - LEGISLATIVE COUNT 
+3,825,418 3,963,131 4,278,931 4,246,075 Personal Services 
+927,368 927,368 938,384 938,531 All Other 
+112,000 112,000   Capital Expenditures 
+Total 4,864,786 5,002,499 5,217,315 5,184,606 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+297,423 310,522 312,889 311,945 Personal Services 
+5,347 5,347 5,891 5,903 All Other 
+Total 302,770 315,869 318,780 317,848 
+2015-16 2016-17 
+HIGHWAY FUND 
+34,308 34,308 All Other 
+Total 34,308 34,308 Provides funding for increased technology costs and  associated STA-CAP. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+302,600 302,600 Capital Expenditures 
+Total 302,600 302,600 Provides funding for the replacement of 10 vehicles . Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+(3,765) (3,289) Personal Services 
+Total (3,765) (3,289) 
+FEDERAL EXPENDITURES FUND - Informational 
+3,765 3,289 Personal Services 
+50 50 All Other 
+Total 3,815 3,339 Reallocates the cost of 5 Motor Carrier Inspector p ositions from 63% Highway Fund and 37% Federal
+Expenditures Fund; one Motor Carrier Inspector posi tion from 62% Highway Fund and 38% Federal
+Expenditures Fund; one Motor Carrier Inspector posi tion from 61.91% Highway Fund and 38.09% Federal
+Expenditures Fund; and one Motor Carrier Inspection s Supervisor position from 66% Highway Fund and 34%
+Federal Expenditures Fund to 50% Highway Fund and 5 0% Federal Expenditures Fund in the Traffic Safety - 
+Commercial Vehicle Enforcement program; and, reallo cates one State Police Corporal position and one St ate 
+Police Trooper position from 63% Highway Fund and 3 7% Federal Expenditures Fund, to 100% Highway Fund 
+in the Traffic Safety - Commercial Vehicle Enforcem ent program. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 46.000 46.000 46.000 46.000 
+A - 25 
+Public Safety, Department of 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Personal Services 3,825,418 3,963,131 4,275,166 4,242,786 
+All Other 927,368 927,368 972,692 972,839 
+Capital Expenditures 112,000 112,000 302,600 302,600 
+Total 5,518,225 5,550,458 5,002,499 4,864,786 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+Personal Services 297,423 310,522 316,654 315,234 
+All Other 5,347 5,347 5,941 5,953 
+Total 321,187 322,595 315,869 302,770 
+A - 26 
+Department Summary - GENERAL FUND 
+Positions - LEGISLATIVE COUNT 44.500 44.500 44.500 44.500 
+Personal Services 2,633,417 2,799,236 3,164,568 3,170,394 
+All Other 1,418,978 975,807 1,114,205 2,079,032 
+Capital Expenditures 27,700    
+Total 4,080,095 3,775,043 4,278,773 5,249,426 
+Department Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 368.000 368.000 370.500 370.500 
+Personal Services 22,095,867 23,100,852 25,438,230 25,389,508 
+All Other 10,957,162 10,952,836 11,002,549 10,980,397 
+Capital Expenditures   25,000  
+Total 33,053,029 34,053,688 36,465,779 36,369,905 
+Department Summary - FEDERAL EXPENDITURES FUND 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 152,910 75,044 79,994 78,176 
+All Other 1,835,646 1,835,646 1,835,646 1,835,646 
+Total 1,988,556 1,910,690 1,915,640 1,913,822 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+Positions - LEGISLATIVE COUNT 5.000 5.000 5.000 5.000 
+Personal Services 318,501 335,616 340,569 340,893 
+All Other 1,203,474 1,202,315 1,198,214 1,200,449 
+Total 1,521,975 1,537,931 1,538,783 1,541,342 Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 418.500 418.500 421.000 421.000 
+Personal Services 25,200,695 26,310,748 29,023,361 28,978,971 
+All Other 15,415,260 14,966,604 15,150,614 16,095,524 
+Capital Expenditures 27,700  25,000  
+Total 40,643,655 41,277,352 44,198,975 45,074,495 Secretary of State, Department of 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 27 
+Secretary of State, Department of 
+ADMINISTRATION - MOTOR VEHICLES   0077 
+What the Budget purchases: 
+The Bureau of Motor Vehicles oversees the driver li censing process, provides motor vehicle registratio n and titling services, commercial vehicle licensin g, dealer licensing and provides 
+oversight of driver education schools and instructo rs.  The bureau ensures that applicants applying fo r operator's licenses have the ability, knowledge a nd necessary skills for safe 
+vehicle operation; investigates and licenses motor vehicle and trailer dealers; conducts hearings on v iolations of motor vehicle laws to determine if an individual's or company's privilege 
+to operate or register a vehicle should be suspende d, withheld or revoked and also determines when rei nstatement is permissible. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+368.000 368.000 367.000 367.000 Positions - LEGISLATIVE COUNT 
+22,095,867 23,100,852 25,023,051 24,946,838 Personal Services 
+10,957,162 10,952,836 10,952,836 10,952,836 All Other 
+Total 33,053,029 34,053,688 35,975,887 35,899,674 
+Program Summary - FEDERAL EXPENDITURES FUND - Infor mational 
+485,423 485,423 485,423 485,423 All Other 
+Total 485,423 485,423 485,423 485,423 
+Program Summary - OTHER SPECIAL REVENUE FUNDS - Inf ormational 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+100,720 103,626 107,727 105,492 Personal Services 
+186,359 185,200 185,200 185,200 All Other 
+Total 287,079 288,826 292,927 290,692 
+2015-16 2016-17 
+HIGHWAY FUND 
+42,737 42,031 Personal Services 
+2,076 2,041 All Other 
+Total 44,813 44,072 Provides funding for the range change for 13 Motor Vehicle Branch Office Manager positions from range 20 to 
+range 21 and provides funding for associated All Ot her costs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+23,488 All Other 
+25,000 Capital Expenditures 
+Total 48,488 0Provides one-time funding for the replacement of st orage array disks. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+0.500 0.500 Positions - LEGISLATIVE COUNT 
+31,733 32,070 Personal Services 
+1,541 1,558 All Other 
+Total 33,274 33,628 Establishes one part-time Customer Representative A ssociate II-Motor Vehicle position and provides fun ding 
+for associated All Other costs. Initiative: 
+A - 28 
+Secretary of State, Department of 
+2015-16 2016-17 
+HIGHWAY FUND 
+1.000 1.000 Positions - LEGISLATIVE COUNT 
+61,414 62,856 Personal Services 
+9,043 9,113 All Other 
+Total 70,457 71,969 Establishes one Customer Representative Associate I I-Motor Vehicle position and provides funding for 
+associated All Other costs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+1.000 1.000 Positions - LEGISLATIVE COUNT 
+74,381 75,554 Personal Services 
+3,613 3,670 All Other 
+Total 77,994 79,224 Establishes one Information System Support Speciali st position and provides funding for associated All  Other 
+costs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+1.000 1.000 Positions - LEGISLATIVE COUNT 
+85,160 86,855 Personal Services 
+4,136 4,219 All Other 
+Total 89,296 91,074 Establishes one Programmer Analyst position and pro vides funding for associated All Other costs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+119,754 143,304 Personal Services 
+5,816 6,960 All Other 
+Total 125,570 150,264 Reorganizes 40 full-time and one part-time Office A ssistant II positions to Office Associate I positio ns and 
+provides funding for associated All Other costs. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 368.000 368.000 370.500 370.500 
+Personal Services 22,095,867 23,100,852 25,438,230 25,389,508 
+All Other 10,957,162 10,952,836 11,002,549 10,980,397 
+Capital Expenditures    25,000  
+Total 36,369,905 36,465,779 34,053,688 33,053,029 
+Revised Program Summary - FEDERAL EXPENDITURES FUND  - Informational 
+All Other 485,423 485,423 485,423 485,423 
+Total 485,423 485,423 485,423 485,423 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 100,720 103,626 107,727 105,492 
+A - 29 
+Secretary of State, Department of 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS - Informational 
+All Other 186,359 185,200 185,200 185,200 
+Total 290,692 292,927 288,826 287,079 
+A - 30 
+Department Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 705.500 720.500 714.500 714.500 
+Positions - FTE COUNT 1073.982 1073.982 1075.251 1075.251 
+Personal Services 90,534,075 93,323,928 101,123,393 103,710,119 
+All Other 134,562,915 127,046,586 134,482,454 142,928,668 
+Capital Expenditures 25,238,161 20,781,157 8,838,900 6,911,200 
+Total 250,335,151 241,151,671 244,444,747 253,549,987 
+Department Summary - FEDERAL EXPENDITURES FUND 
+Positions - LEGISLATIVE COUNT 3.000 3.000 4.000 4.000 
+Personal Services 22,998,288 23,830,255 24,328,440 24,970,855 
+All Other 43,757,318 58,757,318 58,958,481 58,966,837 
+Capital Expenditures 125,504,315 144,771,668 110,100,000 110,100,000 
+Total 192,259,921 227,359,241 193,386,921 194,037,692 
+Department Summary - OTHER SPECIAL REVENUE FUNDS 
+Positions - LEGISLATIVE COUNT 6.000 6.000 6.000 6.000 
+Personal Services 3,177,683 4,905,748 3,486,140 3,547,536 
+All Other 11,279,153 13,122,720 14,002,220 13,852,220 
+Capital Expenditures 38,518,724 154,610,442 19,292,830 69,283,089 
+Total 52,975,560 172,638,910 36,781,190 86,682,845 
+Department Summary - TRANSPORTATON FACILITIES FUND 
+All Other 7,000,000 2,200,000 2,200,000 2,200,000 
+Total 7,000,000 2,200,000 2,200,000 2,200,000 
+Department Summary - FLEET SERVICES FUND - DOT 
+Positions - LEGISLATIVE COUNT 36.000 21.000 26.000 26.000 
+Positions - FTE COUNT 135.000 135.000 132.000 132.000 
+Personal Services 10,640,099 10,174,850 10,470,861 10,895,876 
+All Other 16,703,871 14,922,256 18,042,564 18,049,732 
+Total 27,343,970 25,097,106 28,513,425 28,945,608 
+Department Summary - INDUSTRIAL DRIVE FACILITY FUND
+All Other   500,000 500,000 
+Total 0 0 500,000 500,000 
+Department Summary - ISLAND FERRY SERVICES FUND 
+Positions - LEGISLATIVE COUNT 76.000 76.000 78.000 78.000 
+Positions - FTE COUNT 10.318 10.318 11.532 11.532 
+Personal Services 5,816,489 6,044,406 6,217,392 6,363,084 
+All Other 3,788,586 3,788,587 4,007,175 4,007,500 
+Total 9,605,075 9,832,993 10,224,567 10,370,584 
+Department Summary - MARINE PORTS FUND 
+All Other 25,000    
+Total 25,000 0 0 0Department Summary - All Funds 
+Positions - LEGISLATIVE COUNT 826.500 826.500 828.500 828.500 
+Positions - FTE COUNT 1219.300 1219.300 1218.783 1218.783 
+Personal Services 133,166,634 138,279,187 145,626,226 149,487,470 
+All Other 217,116,843 219,837,467 232,192,894 240,504,957 
+Capital Expenditures 189,261,200 320,163,267 138,231,730 186,294,289 
+Total 539,544,677 678,279,921 516,050,850 576,286,716 Transportation, Department of 
+2014-15 2015-16 2016-17 2013-14 Actual Current Budgeted Budgeted 
+A - 31 
+Transportation, Department of 
+ADMINISTRATION   0339 
+What the Budget purchases: 
+Provides financial planning and analysis, accountin g and budgetary processes, and legal and administra tive support services. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+100.000 100.000 100.000 100.000 Positions - LEGISLATIVE COUNT 
+7,393,416 7,692,219 8,200,234 8,376,396 Personal Services 
+4,756,029 4,686,900 4,686,900 4,686,900 All Other 
+Total 12,149,445 12,379,119 12,887,134 13,063,296 
+2015-16 2016-17 
+HIGHWAY FUND 
+(1,269,059) (1,196,426) All Other 
+Total (1,269,059) (1,196,426) Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+-1.000 -1.000 Positions - LEGISLATIVE COUNT 
+(55,019) (57,670) Personal Services 
+Total (55,019) (57,670) To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+570,000 570,000 All Other 
+Total 570,000 570,000 Provides funding for the operations of the MaineDOT  headquarters building on Child Street, pursuant to  Public 
+Law 2003, chapter 673, Part SS. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 100.000 100.000 99.000 99.000 
+Personal Services 7,393,416 7,692,219 8,145,215 8,318,726 
+All Other 4,756,029 4,686,900 3,987,841 4,060,474 
+Total 12,379,200 12,133,056 12,379,119 12,149,445 
+A - 32 
+Transportation, Department of 
+BOND INTEREST - HIGHWAY   0358 
+What the Budget purchases: 
+Provides for payments on outstanding Highway Fund b onds. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+4,544,279 3,914,654 3,265,079 2,600,579 All Other 
+Total 4,544,279 3,914,654 3,265,079 2,600,579 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+All Other 4,544,279 3,914,654 3,265,079 2,600,579 
+Total 2,600,579 3,265,079 3,914,654 4,544,279 
+BOND RETIREMENT - HIGHWAY   0359 
+What the Budget purchases: 
+Provides payment for bond principal on outstanding Highway Fund bonds. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+16,035,000 15,275,000 15,300,000 21,015,000 All Other 
+Total 16,035,000 15,275,000 15,300,000 21,015,000 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+All Other 16,035,000 15,275,000 15,300,000 21,015,000 
+Total 21,015,000 15,300,000 15,275,000 16,035,000 
+A - 33 
+Transportation, Department of 
+CALLAHAN MINE SITE RESTORATION   Z007 
+What the Budget purchases: 
+Provides for mitigation expenses at the Callahan Mi ne Site. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+10,000    Personal Services 
+240,000 10,000 10,000 10,000 All Other 
+Total 250,000 10,000 10,000 10,000 
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+10,000 10,000 Personal Services 
+880,000 730,000 All Other 
+Total 890,000 740,000 Provides allocation to spend funds transferred from  the General Fund to design and implement clean up 
+initiatives of the Callahan Mine site. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Personal Services 10,000   10,000 10,000 
+All Other 240,000 10,000 890,000 740,000 
+Total 750,000 900,000 10,000 250,000 
+A - 34 
+Transportation, Department of 
+FLEET SERVICES   0347 
+What the Budget purchases: 
+Provides a fleet of equipment and vehicles for the department, which are used to perform the daily tas ks of making Maine's transportation system more saf e and efficient. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - FLEET SERVICES FUND - DOT 
+36.000 21.000 21.000 21.000 Positions - LEGISLATIVE COUNT 
+135.000 135.000 132.000 132.000 Positions - FTE COUNT 
+10,640,099 10,174,850 10,141,598 10,560,948 Personal Services 
+16,703,871 14,922,256 14,922,256 14,922,256 All Other 
+Total 27,343,970 25,097,106 25,063,854 25,483,204 
+2015-16 2016-17 
+FLEET SERVICES FUND - DOT 
+117,397 124,515 All Other 
+Total 117,397 124,515 Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+FLEET SERVICES FUND - DOT 
+5.000 5.000 Positions - LEGISLATIVE COUNT 
+329,263 334,928 Personal Services 
+2,911 2,961 All Other 
+Total 332,174 337,889 To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+2015-16 2016-17 
+FLEET SERVICES FUND - DOT 
+3,000,000 3,000,000 All Other 
+Total 3,000,000 3,000,000 Provides funding for projected fleet operating budg et. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FLEET SERVICES FUND - DOT
+Positions - LEGISLATIVE COUNT 36.000 21.000 26.000 26.000 
+Positions - FTE COUNT 135.000 135.000 132.000 132.000 
+Personal Services 10,640,099 10,174,850 10,470,861 10,895,876 
+All Other 16,703,871 14,922,256 18,042,564 18,049,732 
+Total 28,945,608 28,513,425 25,097,106 27,343,970 
+A - 35 
+Transportation, Department of 
+HIGHWAY & BRIDGE CAPITAL   0406 
+What the Budget purchases: 
+Provides for capital improvement of the federal-aid  and state highway network making a safe, efficient  and effective infrastructure available for all use rs. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+456.500 456.500 456.500 456.500 Positions - LEGISLATIVE COUNT 
+20.192 20.192 20.192 20.192 Positions - FTE COUNT 
+17,056,727 17,714,114 18,233,147 18,672,615 Personal Services 
+17,345,665 17,246,252 17,246,252 17,246,252 All Other 
+6,460,541    Capital Expenditures 
+Total 40,862,933 34,960,366 35,479,399 35,918,867 
+Program Summary - FEDERAL EXPENDITURES FUND 
+19,821,540 20,554,729 20,589,980 21,078,671 Personal Services 
+27,680,421 42,680,421 42,680,421 42,680,421 All Other 
+121,404,315 140,671,668   Capital Expenditures 
+Total 168,906,276 203,906,818 63,270,401 63,759,092 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+2,341,998 3,921,427 2,231,758 2,281,728 Personal Services 
+3,091,975 4,591,975 4,591,975 4,591,975 All Other 
+26,717,312 145,094,649   Capital Expenditures 
+Total 32,151,285 153,608,051 6,823,733 6,873,703 
+2015-16 2016-17 
+HIGHWAY FUND 
+1,022,118 786,332 All Other 
+Total 1,022,118 786,332 Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+FEDERAL EXPENDITURES FUND 
+106,000,000 106,000,000 Capital Expenditures 
+Total 106,000,000 106,000,000 Provides funding for Capital Expenditures needs for  the biennium. Initiative: 
+A - 36 
+Transportation, Department of 
+2015-16 2016-17 
+HIGHWAY FUND 
+(6,390) (6,639) Personal Services 
+Total (6,390) (6,639) 
+FEDERAL EXPENDITURES FUND 
+(7,099) (7,376) Personal Services 
+Total (7,099) (7,376) 
+OTHER SPECIAL REVENUE FUNDS 
+(708) (738) Personal Services 
+Total (708) (738) To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+50,000,000 Capital Expenditures 
+Total 0 50,000,000 Provides new GARVEE bond funding for highway and br idge needs statewide. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 456.500 456.500 456.500 456.500 
+Positions - FTE COUNT 20.192 20.192 20.192 20.192 
+Personal Services 17,056,727 17,714,114 18,226,757 18,665,976 
+All Other 17,345,665 17,246,252 18,268,370 18,032,584 
+Capital Expenditures 6,460,541     
+Total 36,698,560 36,495,127 34,960,366 40,862,933 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+Personal Services 19,821,540 20,554,729 20,582,881 21,071,295 
+All Other 27,680,421 42,680,421 42,680,421 42,680,421 
+Capital Expenditures 121,404,315 140,671,668 106,000,000 106,000,000 
+Total 169,751,716 169,263,302 203,906,818 168,906,276 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Personal Services 2,341,998 3,921,427 2,231,050 2,280,990 
+All Other 3,091,975 4,591,975 4,591,975 4,591,975 
+Capital Expenditures 26,717,312 145,094,649  50,000,000 
+Total 56,872,965 6,823,025 153,608,051 32,151,285 
+A - 37 
+Transportation, Department of 
+HIGHWAY LIGHT CAPITAL   Z095 
+What the Budget purchases: 
+Provides for light capital treatments that have a u seful life of less than 10 years. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+2,828,980 2,794,094   Personal Services 
+2,250,000 2,250,000 2,250,000 2,250,000 All Other 
+8,315,620 12,086,657   Capital Expenditures 
+Total 13,394,600 17,130,751 2,250,000 2,250,000 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+9,817,371 7,486,419   Capital Expenditures 
+Total 9,817,371 7,486,419 0 0
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+17,500,000 17,500,000 Capital Expenditures 
+Total 17,500,000 17,500,000 Provides authority to spend the return of the cash available after the repayment of bonds from the fun ds 
+previously transferred to the Maine Municipal Bond Bank TransCap Trust Fund.  There is a related langu age 
+item regarding the uses for which these funds can b e used. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+2,726,500 1,783,500 Personal Services 
+800,000 Capital Expenditures 
+Total 3,526,500 1,783,500 Provides funding with a goal of providing approxima tely 600 miles of light capital paving per year, am ong other 
+work, depending on bid prices and the severity of w inter weather. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Personal Services 2,828,980 2,794,094 2,726,500 1,783,500 
+All Other 2,250,000 2,250,000 2,250,000 2,250,000 
+Capital Expenditures 8,315,620 12,086,657 800,000  
+Total 4,033,500 5,776,500 17,130,751 13,394,600 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Capital Expenditures 9,817,371 7,486,419 17,500,000 17,500,000 
+Total 17,500,000 17,500,000 7,486,419 9,817,371 
+A - 38 
+Transportation, Department of 
+LOCAL ROAD ASSISTANCE PROGRAM   0337 
+What the Budget purchases: 
+Provides a financial and administrative partnership  with municipalities targeted to the capital needs of rural roads and highways and reflective of urban  maintenance responsibilities on 
+state and state-aid roads. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+23,489,751 20,334,842 19,038,496 19,870,421 All Other 
+Total 23,489,751 20,334,842 19,038,496 19,870,421 
+2015-16 2016-17 
+HIGHWAY FUND 
+1,145,015 1,064,899 All Other 
+Total 1,145,015 1,064,899 Provides funding for the Local Road Assistance prog ram at the correct proportioned rate in accordance with 
+the Maine Revised Statute, Title 23, section 1803-B . Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+All Other 23,489,751 20,334,842 20,183,511 20,935,320 
+Total 20,935,320 20,183,511 20,334,842 23,489,751 
+A - 39 
+Transportation, Department of 
+MAINTENANCE AND OPERATIONS   0330 
+What the Budget purchases: 
+Provides maintenance for highway and bridges, and t raffic control devices and signs for the proper and  safe utilization of the system by the motoring pub lic. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+149.000 164.000 164.000 164.000 Positions - LEGISLATIVE COUNT 
+1053.790 1053.790 1056.059 1056.059 Positions - FTE COUNT 
+63,254,952 65,123,501 79,028,000 82,534,437 Personal Services 
+60,736,592 57,819,381 57,819,381 57,819,381 All Other 
+10,462,000 8,694,500   Capital Expenditures 
+Total 134,453,544 131,637,382 136,847,381 140,353,818 
+Program Summary - FEDERAL EXPENDITURES FUND 
+2,821,775 2,908,178 3,307,824 3,453,744 Personal Services 
+5,106,169 5,106,169 5,106,169 5,106,169 All Other 
+Total 7,927,944 8,014,347 8,413,993 8,559,913 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+ 19,849 100,000 100,000 Personal Services 
+1,374,735 1,374,886 1,374,886 1,374,886 All Other 
+Total 1,374,735 1,394,735 1,474,886 1,474,886 
+2015-16 2016-17 
+HIGHWAY FUND 
+1,875,004 1,952,704 All Other 
+Total 1,875,004 1,952,704 Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+638,900 611,200 Capital Expenditures 
+Total 638,900 611,200 Provides funding for the purchase of capital equipm ent to be used in the maintenance of the transporta tion 
+system. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+(6,612,289) (7,195,584) Personal Services 
+5,612,289 8,195,584 All Other 
+Total (1,000,000) 1,000,000 Transfers funding from anticipated Personal Service s savings to All Other to provide more direct infra structure 
+improvements through additional contracting and pur chase of highway materials.  The anticipated saving s will
+be generated through the projection of actual benef it costs matching workforce demographics. Initiative: 
+A - 40 
+Transportation, Department of 
+2015-16 2016-17 
+HIGHWAY FUND 
+-5.000 -5.000 Positions - LEGISLATIVE COUNT 
+-1.000 -1.000 Positions - FTE COUNT 
+(390,790) (396,936) Personal Services 
+Total (390,790) (396,936) 
+FEDERAL EXPENDITURES FUND 
+(4,441) (4,501) Personal Services 
+Total (4,441) (4,501) To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+7,400,000 6,300,000 Capital Expenditures 
+Total 7,400,000 6,300,000 Provides funding for the purchase of approximately 55 heavy equipment vehicles in fiscal year 2015-16 and 46 
+heavy equipment vehicles in fiscal year 2016-17 in accordance with the long-term equipment purchasing plan. Initiative: 
+2015-16 2016-17 
+INDUSTRIAL DRIVE FACILITY FUND 
+500,000 500,000 All Other 
+Total 500,000 500,000 Establishes an Internal Service Fund for the mainte nance and capital needs of the facility at 66 Indus trial
+Drive. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+Positions - LEGISLATIVE COUNT 149.000 164.000 159.000 159.000 
+Positions - FTE COUNT 1053.790 1053.790 1055.059 1055.059 
+Personal Services 63,254,952 65,123,501 72,024,921 74,941,917 
+All Other 60,736,592 57,819,381 65,306,674 67,967,669 
+Capital Expenditures 10,462,000 8,694,500 8,038,900 6,911,200 
+Total 149,820,786 145,370,495 131,637,382 134,453,544 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+Personal Services 2,821,775 2,908,178 3,303,383 3,449,243 
+All Other 5,106,169 5,106,169 5,106,169 5,106,169 
+Total 8,555,412 8,409,552 8,014,347 7,927,944 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Personal Services  19,849 100,000 100,000 
+All Other 1,374,735 1,374,886 1,374,886 1,374,886 
+Total 1,474,886 1,474,886 1,394,735 1,374,735 
+Revised Program Summary - INDUSTRIAL DRIVE FACILITY  FUND 
+All Other    500,000 500,000 
+Total 500,000 500,000 0 0
+A - 41 
+Transportation, Department of 
+MULTIMODAL - AVIATION   0294 
+What the Budget purchases: 
+Provides, plans, promotes and executes the coordina ted development of all facets of aviation within th e State of Maine. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - FEDERAL EXPENDITURES FUND 
+1,585,782 1,585,782 1,585,782 1,585,782 All Other 
+300,000 300,000   Capital Expenditures 
+Total 1,885,782 1,885,782 1,585,782 1,585,782 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+2.000 2.000 2.000 2.000 Positions - LEGISLATIVE COUNT 
+180,921 189,270 194,475 199,416 Personal Services 
+957,000 957,000 957,000 957,000 All Other 
+Total 1,137,921 1,146,270 1,151,475 1,156,416 
+2015-16 2016-17 
+FEDERAL EXPENDITURES FUND 
+300,000 300,000 Capital Expenditures 
+Total 300,000 300,000 Provides funding for Capital Expenditures needs for  the biennium. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+All Other 1,585,782 1,585,782 1,585,782 1,585,782 
+Capital Expenditures 300,000 300,000 300,000 300,000 
+Total 1,885,782 1,885,782 1,885,782 1,885,782 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Positions - LEGISLATIVE COUNT 2.000 2.000 2.000 2.000 
+Personal Services 180,921 189,270 194,475 199,416 
+All Other 957,000 957,000 957,000 957,000 
+Total 1,156,416 1,151,475 1,146,270 1,137,921 
+A - 42 
+Transportation, Department of 
+MULTIMODAL - FREIGHT RAIL   0350 
+What the Budget purchases: 
+Provides support for the enhancement of railroad us e throughout Maine and to increase the safety of su ch use for railroad workers and the general public.
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+603,599 603,599 603,599 603,599 All Other 
+Total 603,599 603,599 603,599 603,599 
+Program Summary - FEDERAL EXPENDITURES FUND 
+1,100,000 100,000 100,000 100,000 All Other 
+Total 1,100,000 100,000 100,000 100,000 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+2.000 2.000 2.000 2.000 Positions - LEGISLATIVE COUNT 
+221,066 226,657 206,400 210,342 Personal Services 
+1,492,904 1,467,904 1,467,904 1,467,904 All Other 
+500,000 500,000   Capital Expenditures 
+Total 2,213,970 2,194,561 1,674,304 1,678,246 
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+500,000 500,000 Capital Expenditures 
+Total 500,000 500,000 Provides funding for engineering services performed  by department staff and for projects financed thro ugh 
+General Fund General Obligation Bond funds and adju sts the Capital Expenditure allocation to the antic ipated 
+revenue and expenditure level for the biennium. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+All Other 603,599 603,599 603,599 603,599 
+Total 603,599 603,599 603,599 603,599 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+All Other 1,100,000 100,000 100,000 100,000 
+Total 100,000 100,000 100,000 1,100,000 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Positions - LEGISLATIVE COUNT 2.000 2.000 2.000 2.000 
+Personal Services 221,066 226,657 206,400 210,342 
+All Other 1,492,904 1,467,904 1,467,904 1,467,904 
+Capital Expenditures 500,000 500,000 500,000 500,000 
+Total 2,178,246 2,174,304 2,194,561 2,213,970 
+A - 43 
+Transportation, Department of 
+MULTIMODAL - ISLAND FERRY SERVICE   Z016 
+What the Budget purchases: 
+Provides support to the Maine State Ferry Service a s ferries are an integral part of the highway syste m, carry motor vehicles and are the only method of vehicular transportation available 
+to and from the islands. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - HIGHWAY FUND 
+4,802,000 4,915,958 4,906,250 4,977,298 All Other 
+Total 4,802,000 4,915,958 4,906,250 4,977,298 
+Program Summary - ISLAND FERRY SERVICES FUND 
+76.000 76.000 76.000 76.000 Positions - LEGISLATIVE COUNT 
+10.318 10.318 10.191 10.191 Positions - FTE COUNT 
+5,816,489 6,044,406 6,023,912 6,166,009 Personal Services 
+3,788,586 3,788,587 3,788,587 3,788,587 All Other 
+Total 9,605,075 9,832,993 9,812,499 9,954,596 
+2015-16 2016-17 
+HIGHWAY FUND 
+(16,671) (16,521) All Other 
+Total (16,671) (16,521) 
+ISLAND FERRY SERVICES FUND 
+(33,342) (33,042) All Other 
+Total (33,342) (33,042) Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+205,096 278,151 All Other 
+Total 205,096 278,151 Provides funding to adjust state support to 50% of the operating cost of the Maine State Ferry Service  in 
+accordance with Maine Revised Statutes, Title 23, s ection 4210-C. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+27,106 27,106 All Other 
+Total 27,106 27,106 
+ISLAND FERRY SERVICES FUND 
+1.000 1.000 Positions - FTE COUNT 
+53,691 53,691 Personal Services 
+522 522 All Other 
+Total 54,213 54,213 To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+A - 44 
+Transportation, Department of 
+2015-16 2016-17 
+HIGHWAY FUND 
+32,714 33,954 All Other 
+Total 32,714 33,954 
+ISLAND FERRY SERVICES FUND 
+0.949 0.949 Positions - FTE COUNT 
+64,720 67,174 Personal Services 
+708 733 All Other 
+Total 65,428 67,907 To implement a recruitment and retention stipend of  15% for Ferry Able Seaman based on the August 2014
+agreement between the State of Maine and the Maine State Employees Association to address recruitment 
+and retention problems at the Maine State Ferry Ser vice. The hours were reduced from seven positions, and 
+this initiative puts those hours back. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+37,885 38,455 All Other 
+Total 37,885 38,455 
+ISLAND FERRY SERVICES FUND 
+2.000 2.000 Positions - LEGISLATIVE COUNT 
+-0.608 -0.608 Positions - FTE COUNT 
+75,069 76,210 Personal Services 
+700 700 All Other 
+Total 75,769 76,910 Provides funding to increase the hours of two inter mittent Ferry Able Seaman positions to full-time to  meet the 
+staffing needs of the Maine State Ferry Service. Initiative: 
+2015-16 2016-17 
+HIGHWAY FUND 
+125,000 125,000 All Other 
+Total 125,000 125,000 
+ISLAND FERRY SERVICES FUND 
+250,000 250,000 All Other 
+Total 250,000 250,000 Provides funding necessary to maintain the operatio ns of the fleet of vehicles for MaineDOT.  Assumes fuel
+prices of $3.35 per gallon for 1.8 million gallons of diesel and $3.20 per gallon for 600,000 gallons of gasoline 
+in both fiscal years for Fleet and $3.50 per gallon  for 550,000 gallons of diesel for Ferry Service. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - HIGHWAY FUND 
+All Other 4,802,000 4,915,958 5,317,380 5,463,443 
+Total 5,463,443 5,317,380 4,915,958 4,802,000 
+Revised Program Summary - ISLAND FERRY SERVICES FUN D 
+Positions - LEGISLATIVE COUNT 76.000 76.000 78.000 78.000 
+Positions - FTE COUNT 10.318 10.318 11.532 11.532 
+Personal Services 5,816,489 6,044,406 6,217,392 6,363,084 
+All Other 3,788,586 3,788,587 4,007,175 4,007,500 
+Total 10,370,584 10,224,567 9,832,993 9,605,075 
+A - 45 
+Transportation, Department of 
+MULTIMODAL - PASSENGER RAIL   Z139 
+What the Budget purchases: 
+This program pays the state match for the operation s of the Northern New England Passenger Rail Author ity (NNEPRA).  These funds will match federal fundi ng of approximately $8 
+million each year of Congestion Mitigation, Air Qua lity (CMAQ) funding from the Federal Highway Admini stration that is received directly by NNEPRA outsid e of the state budget process. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+2,000,000 2,000,000 2,000,000 2,000,000 All Other 
+Total 2,000,000 2,000,000 2,000,000 2,000,000 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+All Other 2,000,000 2,000,000 2,000,000 2,000,000 
+Total 2,000,000 2,000,000 2,000,000 2,000,000 
+A - 46 
+Transportation, Department of 
+MULTIMODAL - PORTS AND MARINE   0323 
+What the Budget purchases: 
+Provides support for Oceangate and the Small Harbor  Improvement program projects, which assist in the development of cargo port and intermodal facilities  so that existing international
+trade is efficiently handled and new growth is enha nced. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - FEDERAL EXPENDITURES FUND 
+150,000 150,000 150,000 150,000 All Other 
+Total 150,000 150,000 150,000 150,000 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+172,660 177,170 181,920 183,635 Personal Services 
+8,334 8,334 8,334 8,334 All Other 
+Total 180,994 185,504 190,254 191,969 
+Program Summary - MARINE PORTS FUND 
+25,000    All Other 
+Total 25,000 0 0 0
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+All Other 150,000 150,000 150,000 150,000 
+Total 150,000 150,000 150,000 150,000 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 172,660 177,170 181,920 183,635 
+All Other 8,334 8,334 8,334 8,334 
+Total 191,969 190,254 185,504 180,994 
+Revised Program Summary - MARINE PORTS FUND 
+All Other 25,000     
+Total 0 0 0 25,000 
+A - 47 
+Transportation, Department of 
+MULTIMODAL - TRANSIT    0443 
+What the Budget purchases: 
+Provides for the development and maintenance of a p ermanent and effective public transportation system  with particular regard to low-income, elderly pers ons and persons with 
+disabilities. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - FEDERAL EXPENDITURES FUND 
+3.000 3.000 3.000 3.000 Positions - LEGISLATIVE COUNT 
+354,973 367,348 368,832 373,601 Personal Services 
+8,134,946 8,134,946 8,134,946 8,134,946 All Other 
+3,800,000 3,800,000   Capital Expenditures 
+Total 12,289,919 12,302,294 8,503,778 8,508,547 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+1.000 1.000 1.000 1.000 Positions - LEGISLATIVE COUNT 
+51,038 52,622 54,146 54,628 Personal Services 
+810,000 1,400,000 1,400,000 1,400,000 All Other 
+Total 861,038 1,452,622 1,454,146 1,454,628 
+2015-16 2016-17 
+FEDERAL EXPENDITURES FUND 
+3,800,000 3,800,000 Capital Expenditures 
+Total 3,800,000 3,800,000 Provides funding for Capital Expenditures needs for  the biennium. Initiative: 
+2015-16 2016-17 
+FEDERAL EXPENDITURES FUND 
+1.000 1.000 Positions - LEGISLATIVE COUNT 
+73,344 76,716 Personal Services 
+Total 73,344 76,716 
+OTHER SPECIAL REVENUE FUNDS 
+8,149 8,525 Personal Services 
+Total 8,149 8,525 To adjust the allocation of positions within the De partment of Transportation to more appropriately re flect the 
+amount of time spent on various programs. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+Positions - LEGISLATIVE COUNT 3.000 3.000 4.000 4.000 
+Personal Services 354,973 367,348 442,176 450,317 
+All Other 8,134,946 8,134,946 8,134,946 8,134,946 
+Capital Expenditures 3,800,000 3,800,000 3,800,000 3,800,000 
+Total 12,385,263 12,377,122 12,302,294 12,289,919 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Positions - LEGISLATIVE COUNT 1.000 1.000 1.000 1.000 
+Personal Services 51,038 52,622 62,295 63,153 
+A - 48 
+Transportation, Department of 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+All Other 810,000 1,400,000 1,400,000 1,400,000 
+Total 1,463,153 1,462,295 1,452,622 861,038 
+MULTIMODAL TRANSPORTATION FUND   Z017 
+What the Budget purchases: 
+Provides maintenance and operational support for th e enhancement of transit, aeronautics and railroad throughout Maine. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - FEDERAL EXPENDITURES FUND 
+ 1,000,000 1,000,000 1,000,000 All Other 
+Total 0 1,000,000 1,000,000 1,000,000 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+200,000 200,000   Personal Services 
+250,000 250,000 250,000 250,000 All Other 
+1,484,041 1,529,374   Capital Expenditures 
+Total 1,934,041 1,979,374 250,000 250,000 
+2015-16 2016-17 
+FEDERAL EXPENDITURES FUND 
+201,163 209,519 All Other 
+Total 201,163 209,519 Adjusts funding for technology costs based on the r ate schedules provided by the Office of Information
+Technology. Initiative: 
+2015-16 2016-17 
+OTHER SPECIAL REVENUE FUNDS 
+400,000 400,000 Personal Services 
+1,292,830 1,283,089 Capital Expenditures 
+Total 1,692,830 1,683,089 Provides funding for engineering services performed  by department staff and for projects financed thro ugh 
+General Fund General Obligation Bond funds and adju sts the Capital Expenditure allocation to the antic ipated 
+revenue and expenditure level for the biennium. Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - FEDERAL EXPENDITURES FUND
+All Other  1,000,000 1,201,163 1,209,519 
+Total 1,209,519 1,201,163 1,000,000 0
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Personal Services 200,000 200,000 400,000 400,000 
+All Other 250,000 250,000 250,000 250,000 
+Capital Expenditures 1,484,041 1,529,374 1,292,830 1,283,089 
+Total 1,933,089 1,942,830 1,979,374 1,934,041 
+A - 49 
+Transportation, Department of 
+RECEIVABLES   0344 
+What the Budget purchases: 
+Provides a funding mechanism to allow the departmen t to provide services to various municipalities and  be reimbursed by each municipality and to repair s tate property damage where 
+insurance companies are involved and be reimbursed by respective companies. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+ 118,753 100,000 100,000 Personal Services 
+903,705 912,121 912,121 912,121 All Other 
+Total 903,705 1,030,874 1,012,121 1,012,121 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+Personal Services  118,753 100,000 100,000 
+All Other 903,705 912,121 912,121 912,121 
+Total 1,012,121 1,012,121 1,030,874 903,705 
+STATE INFRASTRUCTURE BANK   0870 
+What the Budget purchases: 
+Provides a financing mechanism to allow greater fle xibility and additional funds for needed transporta tion infrastructure projects in the State by making  a loan program available to 
+counties and municipalities, state agencies and qua si-state government agencies and public and private  utility districts for eligible transportation proj ects. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+150,000 150,000 150,000 150,000 All Other 
+Total 150,000 150,000 150,000 150,000 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+All Other 150,000 150,000 150,000 150,000 
+Total 150,000 150,000 150,000 150,000 
+A - 50 
+Transportation, Department of 
+TRANSPORTATION EFFICIENCY FUND   Z119 
+What the Budget purchases: 
+The fund must be used by the department to increase  the energy efficiency of or reduce reliance on fos sil fuels within the transportation system within t he State. Uses of the fund may 
+include, but are not limited to, rail, public trans it, car and van pooling, zero-emission vehicles, bi ofuel and other alternative fuel vehicles, congesti on mitigation and air quality initiatives 
+that increase the energy efficiency of or reduce re liance on fossil fuels within the transportation sy stem. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - OTHER SPECIAL REVENUE FUNDS 
+500 500   All Other 
+Total 500 500 0 0
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - OTHER SPECIAL REVENUE FUN DS 
+All Other 500 500   
+Total 0 0 500 500 
+TRANSPORTATION FACILITIES   Z010 
+What the Budget purchases: 
+Provides Maine Department of Transportation with an  organized and managed program to address the ongoi ng capital and maintenance needs of more than 600 b uildings. 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 Actual 
+2013-14 Current 
+Program Summary - TRANSPORTATON FACILITIES FUND 
+7,000,000 2,200,000 2,200,000 2,200,000 All Other 
+Total 7,000,000 2,200,000 2,200,000 2,200,000 
+2015-16 2016-17 
+NONE Initiative: 
+Actual 
+2013-14 Current 
+2014-15 Budgeted 
+2015-16 Budgeted 
+2016-17 
+Revised Program Summary - TRANSPORTATON FACILITIES FUND 
+All Other 7,000,000 2,200,000 2,200,000 2,200,000 
+Total 2,200,000 2,200,000 2,200,000 7,000,000 
+A - 51 
+1 of 5 An Act Making Unified Appropriati ons and Allocations for the Ex penditures of 
+State Government, Highway Fund a nd Other Funds, and Changing Ce rtain 
+Provisions of the Law Necessary t o the Proper Operations of Sta te Government for 
+the Fiscal Years Endin g June 30, 2016 and June 30, 2017   
+Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+become effective until 90 days after adjournment unless enacted  as emergencies; and 
+ 
+Whereas, the 90-day period may not terminate until after the beginning o f the next 
+fiscal year; and 
+ 
+Whereas, certain obligations and expenses incident to the operation of s tate 
+departments and institutions will become due and payable immedi ately; and 
+ 
+Whereas, in the judgment of the Legislature, these facts create an emerg ency within 
+the meaning of the Constitution of Maine and require the follow ing legislation as 
+immediately necessary for the preservation of the public peace,  health and safety; 
+now, therefore, 
+Be it enacted by the People of the State of Maine as follows:  
+ 
+ 
+PART A 
+ 
+Sec. A-1.  Appropriations and allocations.   In order to provide  for the necessary 
+expenditures of State Government  and other purposes for the fis cal years ending June 
+30, 2016 and June 30, 2017, the following s ums as designated in  the following 
+tabulations are appropriate d or allocated out of money not othe rwise appropriated or 
+allocated. 
+ 
+PART B 
+Sec. B-1. Programmed GARVEE bonding level for 2016-2017 bienniu m. 
+Notwithstanding any other provision of law and pursuant to the Maine Revised Statutes, 
+Title 23, chapter 19, subchapter 3-A, the Maine Municipal Bond Bank may issue from 
+time to time up to $50,000,000 of GARVEE bonds for highway and bridge needs 
+statewide to be repaid solely from annual federal transportatio n appropriations for 
+funding for qualified tran sportation projects. 
+ 
+SUMMARY 
+PART B 
+This Part allows the Maine M unicipal Bond Bank to issue up to $ 50,000,000 of 
+GARVEE bonds for highway and bridge needs. 
+ 
+   
+2 of 5 PART C 
+Sec. C-1. Transfer of Highway Fund unallocated balance; capital  program needs; 
+Department of Transportation. Notwithstanding the Maine Revised Statutes, Title 5, 
+section 1585 or any other provision of law, at the close of the  fiscal years 2015-16 and 
+2016-17 the State Controller shall transfer amounts exceeding $ 100,000 from the 
+unallocated balance in the Highway Fund after the deduction of all allocations, financial 
+commitments, other designated funds or any other transfer autho rized by statute and the 
+fiscal year 2015-16 unallocated balance dedicated to the fiscal  year 2016-17 budgets to 
+the Department of Transportati on Highway and Bridge Capital, Hi ghway Light Capital 
+and Maintenance and Operations programs for capital or all othe r needs. The 
+Commissioner of Transportation is  authorized to allot these fun ds by financial order upon 
+the recommendation of the State Budget Officer and the approval  of the Governor. The 
+transferred amounts are considered adjustments to allocations. Within 30 days of 
+approval of the financial order, the Commissioner of Transporta tion shall provide to the 
+members of the joint standing committee of the Legislature havi ng jurisdiction over 
+transportation matters a report detailing the financial status of the department's capital 
+program. 
+SUMMARY 
+PART C 
+This Part authorizes the State  Controller to transfer amounts e xceeding $100,000 
+from the unallocated balance in t he Highway Fund after all comm itments, to the Highway 
+and Bridge Capital, Highway Light Capital and Maintenance and O perations programs 
+within the Department of Trans portation, for Capital and All Ot her needs. 
+PART D 
+Sec. D-1. Transfer authorized. Notwithstanding the Maine Revised Statutes, Title 5, 
+section 1585 or any other provisio n of law, for the fiscal year s ending June 30, 2016 and 
+June 30, 2017 the Commissioner of  Transportation is authorized to transfer, by financial 
+order upon the recommendation of the State Budget Officer and a pproval of the 
+Governor, identified Highway Fund Personal Services savings to the Department of 
+Transportation Highway and Bridge  C a p i t a l ,  H i g h w a y  L i g h t  C a p i t a l and Maintenance 
+and Operations programs for capital or all other needs. The fin ancial order must identify 
+the specific savings after all adjustments that may be required  by the State Controller to 
+ensure that all financial commitments have been met in Personal  Services after assuming 
+all costs for that program including collective bargaining cost s. The Commissioner of 
+Transportation shall provide a report by September 15, 2016 and  September 15, 2017 to 
+the members of the joint standi ng committee of the Legislature having jurisdiction over 
+transportation matters detailing t he financial adjustments to t he Highway Fund. 
+ 
+  
+3 of 5 SUMMARY 
+PART D 
+ This Part requires the State C ontroller to tran sfer Highway Fu nd Personal 
+Services balance available at t he end of each fiscal year to th e Department of 
+Transportation, Highway and Bridge Capital, Highway Light Capit al, or Maintenance 
+and Operations for capital or a ll other needs.  The funds may b e allocated by financial 
+order upon the recommendation of t he State Budget Officer and t he approval of the 
+Governor. 
+PART E  
+Sec. E-1. Transfer of funds; Highway Fund; TransCap. Notwithstanding any other 
+provision of law, the State Controller shall transfer $5,710,14 8 in fiscal year 2015-16 and 
+$5,696,863 in fiscal year 2016-17 from the Highway Fund unalloc ated surplus to the 
+TransCap Trust Fund.  
+SUMMARY 
+PART E 
+ This Part requires the Stat e Controller t o transfer $5,710,148 in fiscal year 2015-
+16 and $5,696,863 in fiscal year 2016-17 f rom the unallocated s urplus of the Highway 
+Fund to the Trans Cap Trust Fund. 
+PART F  
+ 
+Sec. F-1. Transfers of nonbond fu nds; capital project expenditu res: 5 year useful 
+life.  Notwithstanding the Maine Revi sed Statutes, Title 24, section 1 604, subsection 3 or 
+any other provision of law, trans fers of nonbond funds from the  TransCap Trust Fund 
+may be used for capital projects  having an estimated useful lif e of 5 years. 
+ 
+SUMMARY 
+PART F 
+ 
+This Part allows Trans Cap Tru st Fund grants and  loans to be au thorized for 
+capital projects with an anticip ated useful life of 5 years. 
+ 
+PART G 
+ 
+Sec. G-1. Department of Administrative and Financial Services; lease-purchase 
+authorization. Pursuant to the Maine Revise d Statutes, Title 5, section 1587, the 
+Department of Administrative and Financial Services, on behalf of the Department of 
+Public Safety, may enter into f inancing arrangements in fiscal years 2015-16 and 2016-17 
+for the acquisition of motor vehicl es for the State Police.  Th e financing arrangements 
+entered into in each fiscal year may not exceed $2,600,000 in p rincipal costs, and a 
+financing arrangement may not e xceed 3 years in duration. The i nterest rate may not 
+4 of 5 exceed 5%. The annual principal and interest costs must be paid  from the appropriate line 
+category appropriations and alloca tions in the State Police acc ounts. 
+ 
+SUMMARY 
+PART G 
+ 
+This Part authorizes the Departm ent of Administrative and Finan cial Services to 
+enter into financing arrangeme nts in fiscal years 2015-16 and 2 016-17 for the acquisition 
+of motor vehicles for the Department of Public Safety. 
+ 
+PART H 
+ 
+Sec. H -1. Attrition savings. Notwithstanding any other provision of law, the attrition 
+rate for the 2016-2017 biennium is increased from 1.6% to 3 % fo r judicial branch 
+and executive branch departments and agencies only. The attriti on rate for subsequent 
+biennia is 1.6%. 
+ 
+Sec. H-2. Calculation and transfer. Notwithstanding any other  provision of law, the 
+State Budget Officer shall calcul ate the amount of savings in t his Part that applies against 
+each Highway Fund account for all de partments and agencies from  savings associated 
+with attrition in fiscal y ear 2015-16 and fiscal year 2016-17 a nd shall transfer the 
+amounts by financial order upon t he approval of the Governor. T hese transfers are 
+considered adjustments to appr opriations in fiscal year 2015-16  and fiscal year 2016-17. 
+The State Budget Officer shall pr ovide a report of the transfer red amounts to the Joint 
+Standing Committee on Appropria tions and Financial Affairs no l ater than October 1, 
+2015. 
+ 
+SUMMARY 
+PART H 
+ 
+This  Part  recognizes  an  increase  in  the  attrition  rate  to  3%  for  the  2016-2017 
+Biennium for judicial branch and executive branch departments a nd agencies. 
+ 
+ 
+PART I 
+ 
+Sec. I-1.  23 MRSA §4210-F  is enacted to read: 
+§4210-F. Industrial Drive Facility Fund  
+1. Establishment of fund.   The Industrial Drive Facility F und, referred t o in this secti on 
+as "the fund" is established a s an internal service fund in the  Department of 
+Transportation for the purposes  of managing the fund and operat ing the facility for the 
+maintenance of vehicles.  The Dep artment may charge a fee to ag encies using the facility.  
+5 of 5 Funds appropriated, allocated, tr ansferred or deposited in the account accrue interest 
+earnings that must be used within  the Industrial Drive Facility  Fund. 
+2. Use of funds.   The money deposited into and disbur sed from the Industrial Dr ive 
+Facility Fund must be used for  the purposes of purchasing, oper ating, maintaining, 
+improving, and repairing the facility. 
+ 
+SUMMARY 
+PART I 
+ 
+This part establishes a new internal service fund, the Industri al Drive Facility Fund in the 
+Department of Transportation for the purposes of purchasing, op erating, maintaining, 
+improving and repairing the facility. 
+FISCAL NOTE 
+UNDEDICATED REVENUE 
+2015-16 2016-17 BIENNIUM 
+Part  A Baseline, Section 1 319,024,509 322,571,108 641,595,617 
+Total 319,024,509 322,571,108 641,595,617 2015-16 ALLOCATIONS 
+BIENNIUM 2016-17 
+HIGHWAY FUND 
+630,234,934 Part A, Section 1 310,716,599 319,518,335 
+630,234,934 Total 310,716,599 319,518,335 
+FEDERAL EXPENDITURES FUND 
+387,424,613 Part A, Section 1 193,386,921 194,037,692 
+387,424,613 Total 193,386,921 194,037,692 
+OTHER SPECIAL REVENUE FUNDS 
+199,870,631 Part A, Section 1 75,013,274 124,857,357 
+199,870,631 Total 75,013,274 124,857,357 
+TRANSPORTATON FACILITIES FUND 
+4,400,000 Part A, Section 1 2,200,000 2,200,000 
+4,400,000 Total 2,200,000 2,200,000 
+FLEET SERVICES FUND - DOT 
+57,459,033 Part A, Section 1 28,513,425 28,945,608 
+57,459,033 Total 28,513,425 28,945,608 
+INDUSTRIAL DRIVE FACILITY FUND 
+1,000,000 Part A, Section 1 500,000 500,000 
+1,000,000 Total 500,000 500,000 
+ISLAND FERRY SERVICES FUND 
+20,595,151 Part A, Section 1 10,224,567 10,370,584 
+20,595,151 Total 10,224,567 10,370,584 
+Highway Fund Unallocated Surplus 
+BIENNIUM 2015-16 2016-17 ADJUSTMENTS TO BALANCE 
+Part  E, Section 1 
+Municipal Bond Bank, Maine (5,710,148) (5,696,863) (11,407,011) 
+Total (5,710,148) (5,696,863) (11,407,011) 

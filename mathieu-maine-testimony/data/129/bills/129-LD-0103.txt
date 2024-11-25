@@ -1,0 +1,143 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 103
+S.P. 30 In Senate,  January  15, 2019
+An Act  To Ensure the Integrity of For-profit  Colleges
+Reference to the Committee on Education  and Cultural Affairs  suggested  and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator VITELLI of Sagadahoc.
+Cosponsored by Representative HEPLER of Woolwich and
+Senators: GRATWICK  of Penobscot, LIBBY of Androscoggin, MOORE of Washington,  
+Representatives: EVANGELOS of Friendship, PLUECKER of Warren.
+
+Page 1 - 129LR0136(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  20-A MRSA §10706-A is enacted to read:
+3§10706-A.  For-profit college review
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5following terms have the following meanings.
+6A.  "Adequate educational standards" means educational offerings and spending 
+7priorities that the state board finds meet the metrics established under subsection 3.
+8B.  "Employed" means a person has obtained permanent employment and:
+9(1)  The position is paid.  If the position is an entry-level position, the salary must 
+10be at least 80% of the entry-level salary for the position;
+11(2)  The position requires at least 32 hours of work per week;
+12(3)  The person has worked in the position for at least 30 days; and
+13(4)  The position is not affiliated with a for-profit college from which the person 
+14graduated, its parent company or a subsidiary or affiliate of its parent company.
+15C.  "Employment in the field of study" means employment in a job:
+16(1) That is included on a list of job titles for which a graduate of a program of 
+17study is qualified, as published by the for-profit college, and in the most recent 
+18national relational database as a job related to that program of study.  If the job 
+19title is not in the national relational database, the job may be considered as 
+20employment in the field of study if the employer's description of the job matches 
+21the job description, tasks and work activities for a job that is included in the most 
+22recent national relational database as related to the program of study; or
+23(2)  That requires the graduate to use the core skills listed in the school's 
+24published program of study taken by the graduate and the employer's written job 
+25description provides that the job requires education beyond a high school 
+26diploma, that applicants with a postsecondary credential are preferred or that the 
+27position is a supervisory or managerial position.
+28D.  "For-profit college" means a postsecondary institution that has degree-granting 
+29authority and that is operated by a private, for-profit business.
+30E.  "National relational database" means the relational database developed by the 
+31United States Department of Education, Institute of Education Sciences, National 
+32Center for Education Statistics and the United States Department of Labor, Bureau of 
+33Labor Statistics relating the United States Department of Education classification of 
+34instructional program code identified for a particular program of study to a standard 
+35occupational classification.
+362.  Reporting.  A for-profit college shall report annually by July 1st to the state board 
+37the following information in accordance with rules established by the state board that 
+38ensure the information is provided in a manner that allows evaluation in accordance with 
+39the metrics established under subsection 3:
+Page 2 - 129LR0136(01)-11A.  The amount of funds, disaggregated by campus, spent on each of the following as 
+2compared with total spending by the for-profit college:
+3(1)  Educational instruction;
+4(2)  Advertising; and
+5(3)  Executive salaries;
+6B.  The percentage of those who graduated in the previous calendar year, 
+7disaggregated by campus and program, who have employment in the field of study;
+8C.  The percentage of those who graduated in the previous calendar year, 
+9disaggregated by campus and program, who are employed; and
+10D.  As reported to the United States Department of Education, the percentage of 
+11graduates who graduated in the previous 3 calendar years who received federal 
+12student loans and:
+13(1)  The percentage of those who received such loans who have defaulted; and
+14(2)  The percentage of those who received such loans whose loan balances 
+15declined in the 3 years after repayment first became due, excluding those 
+16graduates for whom repayment was deferred as a result of military service.
+173.  Evaluation.  The state board shall by rule establish metrics to determine adequate 
+18educational standards that must be met by for-profit colleges.  The metrics must include 
+19at least the following annual evaluation criteria.
+20A.  The state board shall evaluate spending priorities by using information supplied 
+21pursuant to subsection 2, paragraph A.  If the state board finds a for-profit college 
+22annually spends less than 50% of its total spending on instruction or more than 15% 
+23of its total spending on advertising, the state board must find that the for-profit 
+24college fails to meet adequate educational standards.
+25B.  The state board shall determine whether a for-profit college has received 
+26necessary accreditations to allow graduates to meet professional licensing or other 
+27career standards related to the educational programs for which degrees or certificates 
+28are granted by the for-profit college.  If the state board finds a for-profit college has 
+29not received these necessary accreditations, the state board must find that the 
+30for-profit college fails to meet adequate educational standards.
+314.  Rules.  The state board shall adopt rules necessary to implement this section.  
+32Rules adopted under this subsection are routine technical rules as defined in Title 5, 
+33chapter 375, subchapter 2-A.
+345.  Termination of degree-granting authority.  Pursuant to section 10712, the state 
+35board, after completing the evaluation under subsection 3, shall terminate the 
+36degree-granting authority of a for-profit college that the board finds does not meet 
+37adequate educational standards.
+38Sec. 2.  20-A MRSA §10712, as amended by PL 2009, c. 274, §13, is further 
+39amended to read:
+Page 3 - 129LR0136(01)-11§10712.  Termination of degree-granting authority
+2The authority of an educational institution to confer degrees terminates upon 
+3determination by the state board that any of the following has occurred:
+41.  Discontinuance of instruction.  The substantial discontinuance of instruction by 
+5the educational institution;
+62.  Sale of stock.  The sale, exchange or other transfer of all or a substantial part of 
+7the voting stock of an educational institution;
+83.  Sale or lease of assets.  The sale, exchange, lease or other transfer of all or a 
+9substantial part of the assets of an educational institution; or
+104.  Merger; consolidation; reorganization.  The merger or consolidation of the 
+11educational institution with an external entity, or the reorganization of the educational 
+12institution, including, but not limited to, reorganization in bankruptcy.  This subsection 
+13does not apply and authority to confer degrees is not terminated if degree programs are 
+14consolidated  or reorganized within an educational institution and are at the same level as 
+15those authorized by the Legislature or the state board prior to the consolidation or 
+16reorganization.; or
+175.  Failure of certain institutions to meet adequate educational standards.  If the 
+18educational institution is a for-profit college as defined in section 10706-A, the failure of 
+19the institution to meet adequate educational standards under section 10706-A.
+20Upon termination of its degree-granting authority pursuant to this section upon a 
+21determination pursuant to subsection 1, 2, 3 or 4, an educational institution may apply to 
+22the state board pursuant to section 10703 for a certificate of temporary approval to use the 
+23term "community college," "college" or "university" in its name.
+24SUMMARY
+25This bill requires annual review of for-profit colleges by the State Board of Education 
+26to ensure that they are meeting adequate educational standards.  If the board finds that a 
+27for-profit college is not meeting the standards, the board may terminate the 
+28degree-granting authority of the for-profit college.

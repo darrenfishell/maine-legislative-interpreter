@@ -1,0 +1,470 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1691
+S.P. 547 In Senate,  May 10, 2021
+An Act  To Require  Licensing for Certain  Mechanical Trades
+Received by the Secretary of the Senate on May 6, 2021.  Referred to  the Committee on 
+Innovation, Development, Economic  Advancement  and Business  pursuant  to Joint Rule 308.2 
+and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by President JACKSON of Aroostook.
+Cosponsored by Senator:  MIRAMANT of Knox,  Representatives: GERE of Kennebunkport, 
+PEBWORTH of Blue Hill, ROEDER of Bangor,  WARREN of Scarborough.
+
+Page 1 - 130LR1545(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-A, sub-§50 is enacted to read:
+350.   
+Mechanical Trades Board Expenses Only 32 MRSA §15331
+4  
+6Sec. 2.  32 MRSA c. 20, as amended, is repealed.
+7Sec. 3.  32 MRSA c. 134 is enacted to read:
+8CHAPTER 134
+9MECHANICAL TRADES
+10SUBCHAPTER 1
+11GENERAL PROVISIONS
+12§15321.  Definitions
+13 As used in this chapter, unless the context otherwise indicates, the following terms 
+14 have the following meanings.
+151.  Board.  "Board" means the Mechanical Trades Board as set out in section 15331.
+162.  Department.  "Department" means the Department of Professional and Financial 
+17 Regulation.
+183.  Fire protection sprinkler system.  "Fire protection sprinkler system" means an 
+19 assembly of overhead piping or conduits that conveys water with or without other agents 
+20 to dispersal openings or devices to extinguish, control or contain fire and to provide 
+21 protection from exposure to fire or the products of combustion, planned in accordance with 
+22 a national or state standard.
+234.  Installation.  "Installation" means the initial placement of a system or part of a 
+24 system or the extension, modification or alteration of a system or part of a system after the 
+25 initial placement.
+265.  Insulating.  "Insulating" means the supervision, fabrication, installation and 
+27 maintenance of mechanical insulation.
+286.  Journeyman mechanical insulator.  "Journeyman mechanical insulator" means a 
+29 person who, in accordance with this chapter:
+30 A.  Has completed a 4-year apprentice program certified by the Department of Labor 
+31 or has passed a journeyman mechanical insulator examination; and
+32 B.  Without supervision, performs insulating.
+337.  Journeyman pipefitter.  "Journeyman pipefitter" means a person who, in 
+34 accordance with this chapter:4
+5
+Page 2 - 130LR1545(01)1 A.  Has completed a 5-year apprentice program or has passed a journeyman pipefitter 
+2 examination; and
+3 B.  Without supervision, performs the work of pipefitting.
+48.  Journeyman refrigeration technician.  "Journeyman refrigeration technician" 
+5 means a person who, in accordance with this chapter:
+6 A.  Has completed a 5-year apprentice program or has passed a journeyman 
+7 refrigeration technician examination; and
+8 B.  Without supervision, performs the work of refrigeration and air conditioning system 
+9 installation and repair.
+109.  Journeyman sheet metal worker.  "Journeyman sheet metal worker" means a 
+11 person who, in accordance with this chapter:
+12 A.  Has completed a 4-year apprentice program or has passed a journeyman sheet metal 
+13 worker examination; and
+14 B.  Without supervision, performs sheet metal work.
+1510.  Journeyman sprinklerfitter.  "Journeyman sprinklerfitter" means a person who, 
+16 in accordance with this chapter:
+17 A.  Has completed and been graduated from an apprentice program that is at least 4 
+18 years in duration and consists of at least 2,000 work hours per year in the field of fire 
+19 protection sprinkler fitting installation and repair and maintenance of fire protection 
+20 sprinkler systems with 144 hours per year of class time and has passed a journeyman 
+21 sprinklerfitter examination; and
+22 B.  Without supervision, performs the work of fire protection sprinkler fitting 
+23 installation and repair and maintenance of fire protection sprinkler systems.
+2411.  Master fire protection sprinkler contractor.  "Master fire protection sprinkler 
+25 contractor" means a person who, in accordance with this chapter:
+26 A.  Has a regular place of business; and
+27 B.  Without supervision, performs fire protection sprinkler system installation, repair 
+28 and testing.
+2912.  Master mechanical contractor.  "Master mechanical contractor" means a person 
+30 who, in accordance with this chapter:
+31 A.  Has worked as a contractor;
+32 B.  Has been a journeyman pipefitter for at least 10 years;
+33 C.  Has been a master refrigeration contractor for at least 10 years; and
+34 D.  Is designated as a master mechanical contractor pursuant to this chapter.
+3513.  Master mechanical insulator contractor.  "Master mechanical insulator 
+36 contractor" means a person who, in accordance with this chapter:
+37 A.  Has worked as a contractor;
+38 B.  Has a regular place of business; and
+39 C.  Without supervision, performs insulating.
+Page 3 - 130LR1545(01)114.  Master refrigeration contractor.  "Master refrigeration contractor" means a 
+2 person who, in accordance with this chapter:
+3 A.  Has a regular place of business; and
+4 B.  Without supervision, performs refrigeration and air conditioning installation and 
+5 repair.
+615.  Master sheet metal contractor.  "Master sheet metal contractor" means a person 
+7 who, in accordance with this chapter:
+8 A.  Has a regular place of business; and
+9 B.  Without supervision, performs sheet metal work.
+1016.  Mechanical insulation.  "Mechanical insulation" means commercial and 
+11 industrial insulation used to conserve energy, reduce greenhouse gas emissions, regulate 
+12 the temperature or prevent condensation for ducts and mechanical systems including, but 
+13 not limited to, boilers; tanks and vessels; heating, ventilation and air conditioning systems; 
+14 grease ducts; firestops; and plumbing systems.
+1517.  Mechanical insulator apprentice.  "Mechanical insulator apprentice" means a 
+16 person who, in accordance with this chapter:
+17 A.  Is at least 18 years of age; and
+18 B.  Under the direct supervision of a journeyman mechanical insulator under a 
+19 registered state-sanctioned apprentice program, is learning or working in the business 
+20 of insulating.
+2118.  Pipefitter apprentice.  "Pipefitter apprentice" means a person who, in accordance 
+22 with this chapter:
+23 A.  Is at least 18 years of age; and
+24 B.  Under the direct supervision of a journeyman pipefitter under a registered state-
+25 sanctioned apprentice program, is learning or working in the business of pipefitting.
+2619.  Pipefitting.  "Pipefitting" means the supervision, fabrication, installation and 
+27 maintenance of pipefitting installations of every description and character.
+2820.  Refrigeration and air conditioning apprentice.  "Refrigeration and air 
+29 conditioning apprentice" means a person who, in accordance with this chapter:
+30 A.  Is at least 18 years of age; and
+31 B.  Under the direct supervision of a master refrigeration contractor or a journeyman 
+32 refrigeration technician under a registered state-sanctioned apprentice program, is 
+33 learning or working in the business of refrigeration and air conditioning system 
+34 installation and repair.
+3521.  Refrigeration and air conditioning system installation and repair.  
+36 "Refrigeration and air conditioning system installation and repair" means the installation, 
+37 maintenance and repair of heating, ventilation, air conditioning and refrigeration systems.
+3822.  Sheet metal work.  "Sheet metal work" means the fabrication, installation and 
+39 maintenance of all types of sheet metal applications, including, but not limited to:
+40 A.  Heating, air conditioning and ventilation systems;
+Page 4 - 130LR1545(01)1 B.  Gutters, roofing and siding;
+2 C.  Food service equipment; and
+3 D.  Architectural and ornamental work.
+423.  Sheet metal worker apprentice.  "Sheet metal worker apprentice" means a person 
+5 who, in accordance with this chapter:
+6 A.  Is at least 18 years of age; and
+7 B.  Is learning or working in the business of sheet metal work under the direct 
+8 supervision of a master sheet metal contractor or journeyman sheet metal worker under 
+9 a registered state-sanctioned apprentice program.
+1024.  Sprinklerfitter apprentice.  "Sprinklerfitter apprentice" means a person who, in 
+11 accordance with this chapter, is:
+12 A.  At least 18 years of age; and
+13 B.  Under the direct supervision of a master fire protection sprinkler contractor or 
+14 journeyman sprinklerfitter and enrolled in a fire sprinkler apprentice program that is at 
+15 least 4 years in duration and consists of at least 2,000 work hours per year in the field 
+16 of fire protection sprinkler fitting installation and repair and maintenance of fire 
+17 protection sprinkler systems with 144 hours per year of class time.
+18§15322.  Applicability
+191.  License required.  Except as provided in section 15323, a license under this chapter 
+20 is required for any person, corporation, partnership or other entity that is engaged in:
+21 A.  The performance of sheet metal work;
+22 B.  The performance of refrigeration and air conditioning system installation and 
+23 repair;
+24 C.  The performance of pipefitting; and
+25 D.  The performance of fire protection sprinkler system installation, repair and 
+26 maintenance.
+27§15323.  Exceptions
+281.  Maintenance personnel.  This chapter does not apply to:
+29 A.  Persons classified as maintenance personnel regularly in the employ of a hospital 
+30 or school or in the employ of a public utility company doing utility company work; or
+31 B.  An employee of a city, a town or the State who is regularly employed as a 
+32 maintenance person on the premises of the employer.
+332.  Owner of single-family dwelling.  The owner of a single-family dwelling who 
+34 intends to occupy the premises, after approval by local municipal officials and upon receipt 
+35 of a permit, may perform pipefitting, refrigeration and air conditioning system installation 
+36 and repair, sheet metal work or fire protection sprinkler system installation and repair in 
+37 the State without being licensed pursuant to this chapter. Work performed pursuant to this 
+38 subsection must conform to the best installation practices of the trade.
+39§15324.  Penalties; injunction
+Page 5 - 130LR1545(01)11.  Penalties.  A person who engages in or works in sheet metal work, refrigeration and 
+2 air conditioning system installation and repair, pipefitting or fire protection sprinkler 
+3 system installation and repair without first obtaining a license as required by this chapter, 
+4 or after the license issued under this chapter has expired or has been suspended or revoked 
+5 or temporarily suspended or revoked, is guilty of a Class E crime.
+62.  Injunction.  The State may bring an action in Superior Court to enjoin any person 
+7 from violating this chapter, regardless of whether proceedings have been or may be 
+8 instituted in the District Court or whether criminal proceedings have been or may be 
+9 instituted.
+10SUBCHAPTER 2
+11MECHANICAL TRADES BOARD
+12§15331.  Membership
+13 The Mechanical Trades Board, established in Title 5, section 12004-A, subsection 50, 
+14 consists of the following 11 members, notwithstanding Title 5, section 12015:
+151.  Master refrigeration contractor.  One member who has been a master 
+16 refrigeration contractor for at least 5 years, appointed by the Governor;
+172.  Journeyman pipefitters.  Two members who have been employed as journeyman 
+18 pipefitters for at least 5 years, appointed by the Governor;
+193.  Journeyman refrigeration technician.  One member who has been employed as a 
+20 journeyman refrigeration technician for at least 5 years, appointed by the Governor;
+214.  Master fire protection sprinkler contractor.  One member who has been a master 
+22 fire protection sprinkler contractor for at least 5 years, appointed by the Governor;
+235.  Journeyman sprinklerfitter.  One member who has been employed as a 
+24 journeyman sprinklerfitter for at least 5 years, appointed by the Governor;
+256.  State Fire Marshal.  The State Fire Marshal or the fire marshal's designee;
+267.  Master mechanical contractors.  Two members who have been master mechanical 
+27 contractors for at least 5 years, appointed from a list submitted by a statewide association 
+28 of pipefitting contractors, appointed by the Governor;
+298.  Master sheet metal contractor.  One member who has been a master sheet metal 
+30 contractor for at least 5 years, appointed by the Governor; and
+319.  Journeyman sheet metal worker.  One member who has been employed as a 
+32 journeyman sheet metal worker for at least 5 years, appointed by the Governor.
+33§15332.  Terms; vacancies; chair; quorum
+341.  Terms.  A member of the board is appointed for a term of 3 years.
+352.  Vacancies.  The Governor shall fill a vacancy in the board by appointment of a 
+36 person of the same category as the member of the board being replaced to hold office for 
+37 the unexpired term.
+383.  Chair.  The board shall elect a chair every 3 years from its membership.
+Page 6 - 130LR1545(01)14.  Quorum.  Six members of the board constitute a quorum for the transaction of 
+2 business.
+3§15333.  Powers and duties
+41.  Administration.  The board shall administer, coordinate and enforce this chapter.
+52.  Rules.  The board, in accordance with Title 5, chapter 375, subchapter 2-A, may 
+6 adopt rules necessary to implement this chapter. These rules may include, but are not 
+7 limited to, rules concerning licensing requirements, examinations and reciprocity of 
+8 licensing with similar boards of other states that maintain standards equivalent to this 
+9 State's. Rules adopted pursuant to this subsection are routine technical rules pursuant to 
+10 Title 5, chapter 375, subchapter 2-A.
+113.  Hearings.  The board may conduct hearings to assist with investigations to 
+12 determine whether grounds exist for suspension, revocation or denial of a license or as 
+13 otherwise necessary to fulfill its responsibilities under this chapter.
+144.  Refusal to renew license; grounds.  The board may not refuse to renew a license 
+15 for any reason other than failure to pay a required fee unless it has afforded the licensee an 
+16 opportunity for an adjudicatory hearing. The board shall hold an adjudicatory hearing at 
+17 the written request of any person who is denied a license renewal without a hearing for any 
+18 reason other than failure to pay a required fee if the request for hearing is received by the 
+19 board within 30 days of the applicant's receipt of written notice of the denial of the 
+20 application, the reasons for the denial and the right to request a hearing. Hearings must be 
+21 conducted in conformity with Title 5, chapter 375, subchapter 4 to the extent applicable. 
+22 The board may subpoena witnesses, records and documents in any hearing it conducts.
+235.  Contracts.  The board may enter into contracts to carry out its responsibilities under 
+24 this chapter.
+25§15334.  Investigation of complaints; revocation of license
+261.  Investigation.  The board shall investigate or cause to be investigated all complaints 
+27 made to it and all cases of noncompliance with or violation of this chapter.
+282.  Suspension; revocation.  The board may suspend or revoke a license in accordance 
+29 with Title 5, chapter 375, subchapter 5. The board may refuse to issue or renew a license 
+30 or the District Court may suspend, revoke or refuse to renew the license of any licensee 
+31 for:
+32 A.  The practice of any fraud or deceit in obtaining a license;
+33 B.  Any gross negligence, incompetence or misconduct in the performance of the work 
+34 for which the license is held;
+35 C.  Any violation of this chapter or any rule adopted by the board; or
+36 D.  Subject to the limitations of Title 5, chapter 341, conviction of a crime that involves 
+37 dishonesty or false statement or that relates directly to the practice of the work for 
+38 which the license is held or conviction of any crime for which incarceration for one 
+39 year or more may be imposed.
+403.  Reissuance of revoked license.  The board, for reasons it determines sufficient, 
+41 may reissue a license to any person whose license has been revoked.
+Page 7 - 130LR1545(01)1SUBCHAPTER 3
+2INSPECTION
+3§15341.  Inspection; right of entry
+41.  Right of entry.  The board, upon proper identification, may enter at any reasonable 
+5 hour any building, structure or premises where work that is governed by this chapter is 
+6 being performed to ascertain compliance with this chapter and any rules adopted pursuant 
+7 to this chapter.
+82.  Display of license.  A person holding a license issued under this chapter shall 
+9 display that license at the request of an authorized representative of the board.
+103.  Obstruct access.  If a person obstructs entry or access to any part of a building, 
+11 structure or premises by an authorized representative of the board, the board may:
+12 A.  Seek a search warrant authorizing entry and inspection;
+13 B.  Revoke or suspend any license authorized pursuant to this chapter; and
+14 C.  Seek any other remedy as provided by this chapter.
+15SUBCHAPTER 4
+16LICENSES
+17§15351.  Issuance of licenses
+181.  Application; qualifications.  The board may issue a license to any person who files 
+19 a sworn application, who passes an examination approved by the board and who meets the 
+20 qualifications regarding skill, expertise, education, experience and training set forth in this 
+21 section and in rules adopted by the board.
+222.  Journeyman refrigeration technician license.  The board may issue a journeyman 
+23 refrigeration technician license to a person who submits an application on a form prescribed 
+24 by the board with the required fee as set out under section 15353 and who provides 
+25 satisfactory evidence of:
+26 A.  A minimum of 5 years of work in the field of refrigeration and air conditioning 
+27 system installation and repair as a refrigeration and air conditioning apprentice under 
+28 the supervision of a master refrigeration contractor, or the equivalent, and obtaining a 
+29 passing grade as determined by the board on the journeyman refrigeration technician 
+30 examination; or
+31 B.  A minimum of 3 years of work in the field of refrigeration and air conditioning 
+32 system installation and repair as a refrigeration and air conditioning apprentice under 
+33 the supervision of a master refrigeration contractor, or the equivalent, and satisfactory 
+34 completion of at least one academic year of instruction in refrigeration and air 
+35 conditioning system installation and repair at a board-approved technical college or 
+36 community college and obtaining a passing grade as determined by the board on the 
+37 journeyman refrigeration technician examination.
+Page 8 - 130LR1545(01)13.  Master refrigeration contractor license.  The board may issue a master 
+2 refrigeration contractor license to a person who submits an application on a form prescribed 
+3 by the board with the required fee as set out under section 15353 and who provides 
+4 satisfactory evidence of:
+5 A.  Possessing the skill, expertise, education, experience and training set forth in rules 
+6 adopted by the board; and
+7 B.  Obtaining a passing grade as determined by the board on the master refrigeration 
+8 contractor examination.
+94.  Refrigeration and air conditioning apprentice license.  The board may issue a 
+10 refrigeration and air conditioning apprentice license to a person who provides satisfactory 
+11 evidence of completion of a course in refrigeration and air conditioning system installation 
+12 and repair consisting of one year or 2 semesters at a board-approved technical college or 
+13 community college and who submits the required fee as set out under section 15353.
+145.  Journeyman pipefitter license.  The board may issue a journeyman pipefitter 
+15 license to a person who submits an application on a form prescribed by the board with the 
+16 required fee as set out under section 15353 and who provides satisfactory evidence of:
+17 A.  A minimum of 5 years of work in the field of pipefitting as a pipefitter apprentice 
+18 and obtaining a passing grade as determined by the board on the journeyman pipefitter 
+19 examination; or
+20 B.  A minimum of 3 years of work in the field of pipefitting as a pipefitter apprentice 
+21 and satisfactory completion of at least one academic year of instruction in pipefitting 
+22 at a board-approved technical college or community college and obtaining a passing 
+23 grade as determined by the board on the journeyman pipefitter examination.
+246.  Pipefitter apprentice license.  The board may issue a pipefitter apprentice license 
+25 to a person who provides satisfactory evidence of completion of a course in pipefitting 
+26 consisting of one year or 2 semesters at a board-approved technical college or community 
+27 college and who submits the required fee as set out under section 15353.
+287.  Journeyman sheet metal worker license.  The board may issue a journeyman sheet 
+29 metal worker license to a person who submits an application on a form prescribed by the 
+30 board with the required fee as set out under section 15353 and who provides satisfactory 
+31 evidence of:
+32 A.  A minimum of 5 years of work in the field of sheet metal work as a sheet metal 
+33 worker apprentice under the supervision of a master sheet metal worker contractor, or 
+34 the equivalent, and obtaining a passing grade as determined by the board on the 
+35 journeyman sheet metal worker examination; or
+36 B.  A minimum of 3 years of work in the field of sheet metal work as a sheet metal 
+37 worker apprentice under the supervision of a master sheet metal contractor, or the 
+38 equivalent, and satisfactory completion of at least one academic year of instruction in 
+39 sheet metal work at a board-approved technical college or community college and 
+40 obtaining a passing grade as determined by the board on the journeyman sheet metal 
+41 worker examination.
+428.  Master sheet metal contractor license.  The board may issue a master sheet metal 
+43 contractor license to a person who submits an application on a form prescribed by the board 
+Page 9 - 130LR1545(01)44 with the required fee as set out under section 15353 and who provides satisfactory evidence 
+45 of:
+3 A.  Possessing the skill, expertise, education, experience and training set forth in rules 
+4 adopted by the board; and
+5 B.  A passing grade as determined by the board on the master sheet metal contractor 
+6 examination.
+79.  Sheet metal worker apprentice license.  The board may issue a sheet metal worker 
+8 apprentice license to a person who provides satisfactory evidence of completion of a course 
+9 in sheet metal work consisting of one year or 2 semesters at a board-approved technical 
+10 college or community college and who submits the required fee as set out under section 
+11 15353.
+1210.  Journeyman sprinklerfitter license.  The board may issue a journeyman 
+13 sprinklerfitter license to a person who submits an application on a form prescribed by the 
+14 board with the required fee as set out under section 15353 and who provides satisfactory 
+15 evidence of the following qualifications:
+16 A.  A minimum of 5 years of work in the field of fire protection sprinkler system work 
+17 as a sprinklerfitter apprentice under the supervision of a master fire protection sprinkler 
+18 contractor, or the equivalent; and
+19 B.  A passing grade as determined by the board on the journeyman sprinklerfitter 
+20 examination.
+2111.  Master fire protection sprinkler contractor license.  The board may issue a 
+22 master fire protection sprinkler contractor license to a person who submits an application 
+23 on a form prescribed by the board with the required fee as set out under section 15353 and 
+24 who provides satisfactory evidence of:
+25 A.  Possessing the skill, expertise, education, experience and training set forth in rules 
+26 adopted by the board; and
+27 B.  A passing grade as determined by the board on the master fire protection sprinkler 
+28 contractor examination.
+2912.  Sprinklerfitter apprentice license.  The board may issue a sprinklerfitter 
+30 apprentice license to a person who is employed by a master fire protection sprinkler 
+31 contractor and is enrolled in a state-sanctioned apprentice program to learn the trade of fire 
+32 protection sprinkler installation, repair and maintenance.  In order for the State to sanction 
+33 an apprentice program, it must be, at a minimum, at least 4 years in duration and consist of 
+34 at least 2,000 work hours per year in the field of fire protection sprinkler fitting installation 
+35 and repair and maintenance of fire protection sprinkler systems with 144 hours per year of 
+36 class time.
+3713.  Master mechanical contractor license.  The board may issue a master mechanical 
+38 contractor license to a person who submits an application on a form prescribed by the board 
+39 with the required fee as set out under section 15353 and who provides satisfactory evidence 
+40 of:
+41 A.  A minimum of 10 years as a journeyman pipefitter; and
+42 B.  A minimum of 10 years as a master refrigeration contractor.1
+2
+Page 10 - 130LR1545(01)114.  Journeyman mechanical insulator license.  The board may issue a journeyman 
+2 mechanical insulator license to a person who submits an application on a form prescribed 
+3 by the board with the required fee as set out under section 15353 and who provides 
+4 satisfactory evidence of:
+5 A.  A minimum of 4 years of work in the field of mechanical insulation work as an 
+6 apprentice under the supervision of a master mechanical insulator contractor, or the 
+7 equivalent; and
+8 B.  A passing grade as determined by the board on the journeyman mechanical insulator 
+9 examination.
+1015.  Mechanical insulator apprentice license.  The board may issue a mechanical 
+11 insulator apprentice license to a person who provides satisfactory evidence of enrollment 
+12 in a mechanical insulator apprenticeship program that is certified and recognized by the 
+13 United States Department of Labor and who submits the required fee as set out under 
+14 section 15353.
+15§15352.  Display of license certificate
+16 A person licensed by the board shall display that person's license certificate at the 
+17 principal place of business of the licensee.
+18§15353.  Fees
+19 The Director of the Office of Licensing and Registration within the department may 
+20 establish by rule fees authorized under this chapter in amounts that are reasonable and 
+21 necessary for their respective purposes, except that the fee for any one purpose may not 
+22 exceed $200 biennially. Rules adopted pursuant to this section are routine technical rules 
+23 as defined in Title 5, chapter 375, subchapter 2-A.
+24§15354.  Renewal
+251.  Expiration.  All licenses expire 2 years from the original date of issue or at such 
+26 other time as the Commissioner of Professional and Financial Regulation may designate.
+272.  Notification.  The board shall notify a person holding a license under this chapter 
+28 of the date of expiration of the person's license and the fee required for its renewal for a 2-
+29 year period. The notice must be mailed to the person's last known address at least 30 days 
+30 in advance of the expiration date of the license.
+313.  Late renewal.  A license may be renewed up to 90 days after the date of its 
+32 expiration upon payment of a late fee in addition to the renewal fee. Any person who 
+33 submits an application for renewal more than 90 days after the license expiration date is 
+34 subject to all requirements governing new applications under this chapter, except that the 
+35 board may in its discretion, giving due consideration to the protection of the public, waive 
+36 examination or other requirements. The board may assess penalties for a late renewal that 
+37 is received more than 90 days after the date of expiration.
+384.  Waiver of examination.  Notwithstanding subsection 3, the board shall waive 
+39 examination if a renewal application is made within 90 days after separation from the 
+40 United States Armed Forces, under conditions other than dishonorable, by a person who 
+41 has failed to renew the person's license because the person was on active duty in the United 
+42 States Armed Forces.  The waiver of examination may not be granted if the person served 
+43 more than 4 years in the United States Armed Forces unless the person was required by 
+Page 11 - 130LR1545(01)44 some mandatory provision to serve a longer period and the person submits satisfactory 
+45 evidence to the board.
+3§15355.  Reciprocity
+4 The board shall issue a license to any person who files a sworn application and who is 
+5 licensed under the laws of another state or territory of the United States as long as that state 
+6 or territory has licensing standards and experience requirements at least equivalent to this 
+7 State's and as long as that state or territory grants similar privileges to persons licensed 
+8 under this chapter. Reciprocal licenses may not be denied on the basis of current residency.
+9Sec. 4.  Application.  Upon proper application and payment of the fees required in 
+10 the Maine Revised Statutes, Title 32, chapter 134, the Mechanical Trades Board shall issue 
+11 a license under that chapter, without examination, to any person who, on the effective date 
+12 of this Act, has completed an apprentice program in or has been compensated for a 
+13 minimum of 2,000 hours of employment in the business of performing sheet metal work, 
+14 refrigeration and air conditioning system installation and repair, pipefitting or fire 
+15 protection sprinkler system installation, repair and testing.
+16Sec. 5.  Members of Mechanical Trades Board.  Notwithstanding the Maine 
+17 Revised Statutes, Title 32, section 15331, until September 1, 2025, members appointed to 
+18 the Mechanical Trades Board by the Governor must have a minimum of 10 years of 
+19 experience in their respective mechanical trades but need not be licensed under this Act.
+20Sec. 6.  Staggered terms.  Notwithstanding the Maine Revised Statutes, Title 32, 
+21 section 15332, subsection 1, for the original appointments of members of the Mechanical 
+22 Trades Board, the Governor shall designate 3 members for one-year terms, 4 members for 
+23 2-year terms and 4 members for 3-year terms.
+24SUMMARY
+25 This bill requires licensure of persons who perform sheet metal work, refrigeration and 
+26 air conditioning system installation and repair, pipefitting, mechanical insulating and fire 
+27 protection sprinkler system installation, repair and testing.
+28 The bill grandfathers persons who have completed apprentice programs in or have been 
+29 compensated for a minimum of 2,000 hours in the business of performing sheet metal work, 
+30 refrigeration and air conditioning system installation and repair, pipefitting or fire 
+31 protection sprinkler system installation, repair and testing.1
+2
+25
+26
+27

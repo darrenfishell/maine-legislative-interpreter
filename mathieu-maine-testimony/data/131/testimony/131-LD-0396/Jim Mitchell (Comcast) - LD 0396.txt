@@ -1,0 +1,45 @@
+CO/\/\C/\ST 
+Comcast Testimony on LD396 
+An Act to Preserve the 207 Area Code and Impede So-called Robocalling 
+Chairman Lawrence, Chairman Ziegler, and members of the Energy, Utilities and Technology 
+Committee, thank you for the opportunity to offer the following testimony neither for nor against 
+LD 396. My name is Jim Mitchell here today on behalf of my client Comcast. Comcast serves l6 
+Maine communities in the Mid Coast region from Freeport to Woolwich and along the New 
+Hampshire border from Kittery to Sanford. We currently offer our broadband, video, voice and 
+mobile services to more than 63,000 Maine homes, businesses and institutions. 
+Comcast supports the Public Utility Commission ’s (“Commission ”) mission of preventing 
+exhaustion of the 207 Area Code. Comcast will continue to engage with the Commission and its 
+Staff in its efforts to preserve the 207 Area Code. Comcast believes that LD 396 can be improved 
+with the addition of clarifying amendments described below and looks forward to working with 
+the Commission and stakeholders on drafting amended language for the proposed legislation. 
+As a starting point, under federal law, the North American Numbering Plan Administrator 
+(NANPA) manages telephone number resources. NANPA has mandatory reporting requirements 
+for reporting voice providers (wireless, POTS(traditional telephone), VolP) on telephone number 
+utilization, including forecasts. A reporting voice provider is an entity that gets numbers from 
+NANPA or another voice provider. States have access to a service provider ’s applications for 
+numbering resources and can investigate whether service providers have assigned and activated 
+numbers in a timely manner. If not, the numbers can be reclaimed. 
+States have a major role, one that the Commission already has used effectively. We note the 
+Commission has conducted several dockets on telephone number utilization resulting in the 
+reclamation of 785,000 numbers and has opened an investigation on the consolidation of 
+Consolidated ’s rate centers which also should yield signiﬁcant results. States also have access to 
+the data reported to NANPA provided they have appropriate protections in place to prevent 
+disclosure of disaggregated, carrier-speci ﬁc information. 
+Turning to speciﬁc sections of LD 396. The Commission already has access to provider speciﬁc reports 
+on number utilization making additional state registration of those entities unnecessary. Ifthe goal here is 
+to examine the practices of websites that sell and license telephone numbers, the term “number broker” 
+should be deﬁned as “Number Broker: An entity ineligible to obtain telephone numbers directly 
+from the North American Numbering Plan Administrator (“NANPA ”) that does not directly
+use Maine numbering resources but sells or licenses those numbers to third parties via 
+consignment arrangements with service providers entitled to obtain numbers from the NANPA. 
+Number broker does not include transactions between ajjiliates. ” Only entities falling within this 
+deﬁnition would be required to register. To Comcast’s knowledge, no authorization is required for 
+these websites to sell or license local telephone numbers (federal law prohibits the brokering of toll-free 
+numbers). 
+Comcast oﬂ°ers an additional point. ILECs, CLECs, providers of interconnected VoIP including Comcast, 
+and mobile caniers including Comcast’s Xﬁnity Mobile that provide service to retail end users in the state 
+are required to provide reports and contribute to the MTEAF (Chapter 285 Rules) and MUSF (Chapter 288 
+Rules). “Nomadic VoIP” is not covered. 
+Thank you for your consideration of our comments regarding LD 396. We look forward to 
+working with the proponents and other stakeholders to improve this legislation. I would be happy 
+to answer any questions that you may have.

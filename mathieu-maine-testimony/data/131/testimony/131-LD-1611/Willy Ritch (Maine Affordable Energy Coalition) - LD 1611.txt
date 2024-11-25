@@ -1,0 +1,832 @@
+Concentric Energy Advisors, Inc. i 
+  
+ 
+ 
+Whitepaper:  Analysis of Government-Controlled Power 
+in Maine 
+May 2021 
+ 
+ 
+ 
+www.ceadvisors.com
+
+Concentric Energy Advisors, Inc. i 
+ TABLE OF CONTENTS 
+1 Executive Summary ..................................................................................................................................... 1  
+2 Financial Model Review ............................................................................................................................. 7  
+2.1 Four Key Assumptions ...................................................................................................................... 9  
+2.2 Conclusion of Financial Review .................................................................................................... 18  
+2.3 Additional Sources of Cost Increases Associated with Government-Controlled Power Not 
+Reflected in the LEI/Silkman Analyses ....................................................................................... 20  
+2.4 Additional Factors for Stakeholder Consideration .................................................................. 22  
+ 
+  
+Concentric Energy Advisors, Inc. 1 
+ 
+1 EXECUTIVE SUMMARY 
+  
+Concentric Energy Advisors, Inc. 2 
+ 1 EXECUTIVE SUMMARY 
+ Maine is considering the potential government takeover of Maine’s investor-owned electric 
+transmission and distribution companies and forming a Maine Power Delivery Authority 
+(“MPDA”) (currently referred to by supporters as Pine Tree Power Company).  A prudent 
+analysis of such an initiative must include an examination of the key assumptions driving the 
+results and the level of uncertainty surrounding those assumptions.   
+Concentric Energy Advisors, Inc. (“Concentric”) examined the results of the financial model 
+prepared by London Economics International (“LEI”) about the cost of forming such a public 
+authority, and Concentric also reviewed a supplemental review of the LEI model made by Dr. 
+Richard Silkman.  Based on Concentric’s review: 
+ Dr. Silkman’s analysis changes certain assumptions in the LEI model that result in net 
+benefits from government-controlled power; however, his analysis overstates the 
+benefits that would likely result from the formation of a MPDA and fails to capture the 
+uncertainty associated with the assumptions driving his results.  
+ Based on a review of the LEI financial model and Dr. Silkman’s analysis and changes to 
+that model, Concentric identified four key assumptions that significantly affect whether 
+there are projected net savings or net costs to Maine electric customers. 
+ With realistic alternatives to these four key assumptions, there is a reasonable potential 
+for a $4.7 billion  net cost to Maine electric customers associated with government-
+controlled power over the 30-year forecast period. 
+ There are also a number of additional factors in Dr. Silkman’s analysis that, when 
+properly reflected, would add additional costs to a government-controlled power 
+authority. 
+ Beyond any projections of net costs or benefits, there are additional challenges to 
+forming a government-controlled power authority that should be considered as part of 
+any decision to form a MPDA. These challenges are apparent when considering the 
+small number of condemnations that have occurred in the past 20 years.   
+The risks of government-controlled power would be assumed solely by MPDA ratepayers – 
+unlike the current model where risks are assumed by both shareholders and customers.  Very 
+few municipalizations have occurred in the past 20 years due to the significant uncertainty, 
+time, litigation and cost, and ultimately there have been more effective resolutions and efficient 
+use of customer resources that can be achieved.   Because of this incremental risk of government-
+owned power, it is in the interest of protecting Maine electric customers to consider a wide range 
+of financial assumptions when examining the risks of a state takeover of the investor-owned 
+electric utilities in Maine.  Customers in Maine are not well served by only reviewing the most 
+optimistic scenarios.  It is important to provide Maine decision-makers and customers with the 
+full range of potential outcomes as the foundation any decisions.  
+Concentric Energy Advisors, Inc. 3 
+ Background :  In the spring of 2019, the Joint Standing Committee on Energy, Utilities and Technology 
+first considered the formation of a Maine power authority – known as LD 1646.  This bill contemplated 
+the creation of a government-controlled power authority in Maine through the condemnation of the 
+transmission and distribution assets of Central Maine Power (“CMP”) and Versant Power (formerly Emera 
+Maine) (“Versant”).  The Legislature directed the Maine Public Utilities Commission (“MPUC”) to 
+commission an evaluation of the ownership of the power delivery system in Maine, with particular 
+attention on the issue of whether or not it was in the benefit of consumers to create an MPDA.  The MPUC 
+retained LEI to conduct this study, which was completed in February 2020.1  On May 15, 2020, Maine 
+economist Dr. Richard Silkman, on his own initiative, undertook a review of the LEI Report, including the 
+financial assumptions used by LEI, and he offered his conclusions on the potential benefits of creating a 
+MPDA.2  Dr. Silkman provided a presentation on July 15, 2020 that included information from the May 
+15 report as well as selected additional information.  On July 29, 2020, LEI submitted a letter in 
+response to Dr. Silkman’s analysis (“LEI Reply Letter”), concluding that Dr. Silkman’s analysis represented 
+“an overstatement of projected benefits  to ratepayers under MPDA ownership.”3  A recent synopsis of 
+the Silkman Analysis was also prepared by Mr. Bill Dunn on his own initiative (“Dunn Synopsis”).4 
+Concentric has been retained by Avangrid to review the analyses prepared by LEI and Dr. Silkman and 
+to provide an evaluation of the assumptions used in the analyses, as well as offer an understanding of 
+the issues related to condemnation of utility property and the creation of government-controlled electric 
+utilities in the market today.5 
+Four Key Assumptions :  Concentric has utilized the LEI financial model and the analysis provided by 
+Dr. Silkman as the basis for the analysis herein; developing a separate model was outside the scope of 
+Concentric’s engagement.  Based on a review of the LEI model and Dr. Silkman’s analysis, Concentric 
+identified four key assumptions that significantly affect the projected net savings or net costs to Maine 
+electric customers resulting from a government-controlled utility.  These four key assumptions are as 
+follows: 
+Assumption 1:  Annual Management Fee:  LEI estimated that the fee for a third-party utility 
+company to manage the operations of MPDA would be $82 million/year starting in 2024.  In 
+contrast, Dr. Silkman’s analysis assumes that the management fee to operate the MPDA would 
+be substantially lower at $15 million/year, thereby according to Dr. Silkman would result in a 
+savings of $4.75 billion to customers over a 30-year time period.  Dr. Silkman's analysis is 
+ 
+1  “Evaluation of the Ownership of Maine’s Power Delivery System,” London Economics, February 15, 2020 (“LEI 
+Report”).  For purposes of the analysis herein, all references to LEI’s financial model and results are based on LEI’s 
+Reference Case.   
+2  Dr. Richard Silkman. “Review, Assessment and Restatement of the Financial Model Used by London Economics 
+International, LLC in its Report to the Maine Legislature on the Creation of a Consumer-Owned Public Utility,” May 
+15, 2020 (“Silkman Analysis”).  
+3  LEI, Letter to Joint Standing Committee on Energy, Utilities and Technology, July 29, 2020, p. 1 (emphasis in 
+original).   
+4  The Dunn Synopsis does not provide any independent analysis of the issues surrounding the MPDA, but rather 
+summarizes what has been stated in the LEI Report and Silkman Analysis.  Therefore, the discussion herein will not 
+evaluate separately the Dunn Synopsis. All of the issues discussed and highlighted in this report regarding the 
+Silkman Analysis, apply equally to the Dunn Synopsis. 
+5  Please note that the analysis herein is based on a best-efforts understanding of the report prepared by Dr. Silkman. 
+However, there are numerous instances in which the modifications or calculations made in that report are not fully 
+explained.  The fact that there are issues raised by Dr. Silkman and LEI that are not addressed herein should not 
+be construed as acceptance of those positions.  
+
+Concentric Energy Advisors, Inc. 4 
+ inconsistent with the experience of Long Island Power Authority ("LIPA"), which currently pays an 
+annual management fee of approximately $103 million/year.  This is particularly important 
+considering that CMP and Versant Power own double the miles of transmission and distribution 
+lines as compared to LIPA.  Thus, Dr. Silkman’s assumed annual management fee understates the 
+required fee compared to an existing market example for management of extensive utility 
+operations over a broad geographic area.  For purposes of Concentric’s analysis, LEI’s initial 
+management fee of $82 million/year is conservatively assumed as the Year 1 management fee 
+to be paid by MPDA, and that management fee is then escalated thereafter at the same rate 
+the LIPA management fee has escalated over the previous four years.  Thus, all else equal, when 
+using a reasonable management fee to operate the MPDA’s electrical system, Dr. Silkman’s 
+purported savings associated with the management fee would be eliminated.        
+Assumption 2:  Acquisition Multiple:  Both the LEI base case and Dr. Silkman’s analysis assume 
+that the acquisition price to acquire the CMP and Versant transmission and distribution assets 
+would be 1.5 times the net book value of the assets at the time of acquisition.  Other government 
+takeovers of investor-owned utility systems have reflected acquisition multiples of over 2.0 times 
+the net book value of the assets acquired.  A future acquisition multiple to be paid by MPDA is 
+highly uncertain, but this assumption has a significant effect on the results of the analysis, 
+specifically whether there are net costs or net savings to Maine customers of government-
+controlled power.  Assuming only that the acquisition multiple is 2.0 times the net book value 
+instead of 1.5 times, and no other changes are made to the LEI model, increases the acquisition 
+price to Maine customers by $2.75 billion.  As discussed below, this increase in the cost to Maine 
+customers is also understated because it excludes the effect of the additional utility assets that 
+have been placed into service since the time the LEI model and Dr. Silkman’s analysis were 
+prepared.    
+Assumption 3:  Start Date:  The assumed start date is important because it affects the economics 
+of the MPDA since there are significant capital investments over the next several years that 
+would need to be included in the acquisition price in the likely event that a takeover would occur 
+at a later date than 2024 (two and a half years from now), which was assumed in the LEI model. 
+Dr. Silkman did not change this assumption. Based on past experience, this schedule is extremely 
+aggressive and not likely achievable. Recent experiences of proposed government takeovers 
+of electric systems indicate that such efforts have taken up to a decade to resolve the financial 
+matters and the extensive litigation inherent in the process, and many such processes end without 
+a takeover.  In addition, a protracted effort may result in additional legal and consulting fees 
+being incurred during a condemnation proceeding.  For purposes of the analysis herein, a start 
+date of 2030 is assumed.  If the start date were 2030 rather than 2024, the net cost to Maine 
+electric customers would be $1.9 billion higher than reflected in the LEI model.  Moreover, if this 
+later start date is assumed in conjunction with an acquisition price at 2.0 times the net book value 
+of the assets acquired, the net cost to Maine customers would be $5.3 billion higher than 
+reflected in the LEI model. 
+Assumption 4:  Transmission Cost of Capital:  The LEI Report assumes a cost of capital of 8.00% 
+to be included in the rates that MPDA could charge to transmission customers in Maine and 
+throughout New England.  In contrast, Dr. Silkman suggests that a government-owned power 
+authority in Maine could charge higher transmission rates reflecting a 10.15% pre-tax cost of 
+capital – or the equivalent cost of capital for an investor-owned utility.  Dr. Silkman’s assumption 
+is highly speculative, as it assumes a government-controlled power authority in Maine could 
+reflect both a cost of equity and a capital structure that are not reflective of its actual cost of 
+
+Concentric Energy Advisors, Inc. 5 
+ equity or capital structure, as well as receive an allowance for income taxes even though it 
+would not pay any income taxes.  The result of these assumptions is that New England 
+transmission customers would significantly subsidize Maine residential and commercial 
+distribution customers.  The LEI Reply Letter highlighted this same concern with Dr. Silkman’s 
+analysis, stating that it does not believe it is reasonable to assume that other New England 
+stakeholders and the federal regulator overseeing the setting of such rates would agree to such 
+subsidization, thus concluding that Dr. Silkman’s “estimated benefits for Maine ratepayers are 
+not realistic.”6   
+Concentric is not aware of any government-controlled power entity of the scale contemplated 
+by a Maine power authority that has departed from cost-based transmission rates in all three 
+of these respects in the manner suggested by Dr. Silkman.  For purposes of Concentric’s analysis, 
+it is assumed that a government-controlled utility in Maine could have a cost of capital for 
+transmission rates of 6.64%, which reflects the MPDA’s projected capital structure in the LEI and 
+Dr. Silkman financial projections, and a typical investor-owned utility cost of equity.  Replacing 
+only this more reasonable cost of capital assumption in the transmission rates eliminates nearly 
+half, or approximately $8.3 billion, of Dr. Silkman’s projected savings for MPDA over a 30-
+year time period. 
+Financial Model Results - Adjusting 4 Key Assumptions :  Figure 1 reflects the results of the LEI model 
+(as further modified by Dr. Silkman) when the reasonable modifications to the four key assumptions 
+described above are made. As shown in Figure 1, with these reasonable alternative assumptions, 
+government-controlled power in Maine would result in a cumulative net cost of $4.7 billion to Maine 
+electric customers over the 30-year forecast period (“Forecast Period”) on an undiscounted basis, or a 
+net cost of $2.7 billion on a net present value basis.  While the LEI Reference Case suggests net savings 
+to Maine electric customers over time, depending on which assumptions are made, and Dr. Silkman 
+suggests net savings to Maine electric customers immediately, the significant range of variability in the 
+assumptions underscores the potential risks to which Maine customers would be exposed if the MPDA 
+were to take over the transmission and distribution assets of CMP and Versant.   
+FIGURE 1: COMPARISON OF AGGREGATE ESTIMATED FINANCIAL IMPACTS OF MPDA 
+  
+ 
+ 
+6  LEI Reply Letter, p. 2.   
+
+Concentric Energy Advisors, Inc. 6 
+ Additional Cost Considerations :  In addition to the reasonable changes to the four key assumptions 
+described herein, there are a number of additional factors that Concentric has identified that would 
+also increase the costs of a government-controlled power authority and thus affect whether net costs or 
+net savings to Maine customers would be expected.  We have outlined several of these additional 
+factors here, but there very well could be other factors that would drive up the overall cost of forming 
+a state power authority.  If these additional cost factors were considered, the net cost to Maine for 
+government-controlled power would exceed the $4.7 billion in undiscounted costs shown in Figure 1.  
+These additional cost factors include: 
+ Pre-Acquisition/Start-Up Costs :  The LEI and Dr. Silkman analyses do not include costs that would 
+be incurred by a government-controlled power authority, including pre-acquisition costs, such as 
+legal, consulting, and engineering costs, as well as start-up costs that would need to be incurred 
+to consolidate the systems of CMP and Versant and to develop a governance structure to 
+oversee an MPDA.  These costs should not be understated given the experience of other, much 
+smaller electric utilities that have municipalized, and the challenges and risks inherent in 
+establishing a new consolidated organization owning large transmission and distribution systems.  
+ New England Clean Energy Connect (“NECEC”) :  The LEI and Dr. Silkman analyses do not reflect 
+a substantial level of capital expenditures that CMP is expecting to make through 2023 related 
+to the NECEC project that would materially increase the acquisition cost that Maine would need 
+to incur in order to take over the CMP/Versant electric systems.  
+ Dr. Silkman Modeling Error :  Dr. Silkman’s estimated savings to Maine customers of a 
+government-controlled power authority are overstated due to an error in his calculation of the 
+value of an MPDA at the end of the 30-year Forecast Period.  
+ No Precedent/Risk of Operation :  There have been no government-controlled utilities or power 
+authorities formed in the U.S. over the past 20 years of the size currently being contemplated 
+in Maine, and nor has any state ever authorized the statewide takeover of its largest investor-
+owned electric companies.  The majority of existing government-controlled power authorities 
+are on the municipal or county level, the largest of which were developed many decades earlier 
+as part of rural electrification and supported by federal funding.  In addition, there have also 
+been very few instances in the past 20 years in which a municipality or county has taken over 
+the electric system of an investor-owned utility, with just 11 of 64 instances in the U.S. completed 
+since 2000, two of which were ultimately sold back to investor-owned utilities.  Indeed, over the 
+past ten years, there have been a number of privatizations where municipal utilities have 
+actually sold back electric system assets to investor-owned utilities.   
+Conclusion :  There are several key assumptions associated with a state takeover of CMP and Versant 
+Power that are highly uncertain and affect whether a government-controlled power authority in Maine 
+would produce net costs or net savings for customers.  Realistic changes to a few key assumptions would 
+instead result in net costs to Maine customers.  Given that the risks of government-controlled power 
+would be assumed solely by MPDA ratepayers – rather than shared with utility shareholders as is done 
+currently – it is in the interest of protecting Maine electric customers to consider more realistic financial 
+assumptions when examining the risks of a state takeover of CMP and Versant Power.
+Concentric Energy Advisors, Inc. 7 
+ 
+2 FINANCIAL MODEL REVIEW 
+  
+Concentric Energy Advisors, Inc. 8 
+ 2 Financial Model Review 
+ 
+The foundation of the LEI Report is a financial model that compares the cost of operation under continued 
+utility ownership to the cost of operating the electric delivery system as a government-controlled power 
+authority.7  In that model, LEI made certain assumptions about the costs for a state authority to acquire 
+and operate the transmission and distribution system assets.  While Dr. Silkman considered many of 
+these assumptions to be reasonable, he made a number of modifications to key variables, and in so 
+doing, concluded that there were significant and immediate savings associated with a government-
+controlled power authority in Maine relative to LEI’s Reference Case.   
+While Dr. Silkman describes the adjustments that he made to the LEI Report at a conceptual level, his 
+model is not available to be reviewed by stakeholders.  Therefore, it is difficult to determine precisely 
+how certain adjustments were made and the implications of the changes to those assumptions.  The 
+analysis herein is based on a best-efforts understanding of the analysis discussed by Dr. Silkman in his 
+May 2020 report and July 2020 presentation.  The fact that there are issues raised by LEI and Dr. 
+Silkman that are not addressed in this whitepaper should not be construed as acceptance of those 
+positions. 
+Based on a review of the LEI financial model and Dr. Silkman’s analysis, Concentric identified four key 
+assumptions that significantly drive whether there is projected to be net savings or net costs to Maine 
+electric customers associated with government-controlled power: 
+ 
+7  LEI’s financial model assumed a state-controlled power authority that would be a unit of state government. 
+Concentric used the same assumption in its review. Key Takeaway  
+Concentric reviewed the LEI financial model and Dr. Silkman’s suggested changes to certain of 
+LEI’s assumptions.  In particular, Concentric evaluated the financial effect of a government-
+controlled power authority associated with changes to four key assumptions: 
+1) Setting the third-party management fee at a reasonable level; 
+2) Setting a realistic start date for a government-controlled power authority;  
+3) Assuming an acquisition multiple of 2.0 times the net book value of the CMP and Versant 
+assets acquired, which is consistent with recent government takeovers; and 
+4) Assuming that a government-controlled power authority would not be authorized to 
+charge artificially high transmission rates to the rest of New England that subsidize the 
+MPDA.  
+These alternative assumptions are based on market benchmarks and other precedents, and if 
+these more realistic assumptions are used, the economics of a government-controlled power 
+authority change substantially, resulting in significant net costs to Maine electric customers. 
+ 
+Concentric Energy Advisors, Inc. 9 
+ 1)  The level of the management fees associated with third-party operation of a new 
+government-controlled power authority;  
+2) The acquisition multiple used to value the physical assets that would be acquired from CMP 
+and Versant by a government-controlled power authority;  
+3) The assumed start date for a government-controlled power authority; and  
+4)  The weighted average cost of capital that MPDA would be authorized to charge 
+transmission customers in New England. 
+Concentric has not independently developed its own financial model to study the potential costs or 
+benefits of a government-controlled power authority, but rather has utilized the LEI model and the 
+changes to that model described by Dr. Silkman as the basis for the analysis herein.   
+2.1 FOUR KEY ASSUMPTIONS 
+2.1.1 Annual MDPA Management Fee 
+The LEI model assumes that there would be a management 
+agreement established between the MPDA and a third-party 
+utility management company for the operation of the power 
+delivery system, which would have an annual fee of 
+approximately $82 million beginning in 2024.  Dr. Silkman 
+disagrees with LEI’s assumption and instead estimates a 
+substantially lower annual management fee of $15.3 million in 
+2024. 
+Dr. Silkman’s analysis begins with an estimate of the management fee for CMP whereby he compares 
+CMP labor costs from two different time periods: 
+1) An estimate of labor costs for CMP prior to the acquisition by Energy East (now named as 
+Avangrid) in 2001, inflated to current dollars (approximately $160 million); and   
+2) An estimate of the current cost of labor for CMP and the full-time equivalent employees required 
+from Avangrid for the provision of centralized management functions of the business such as 
+accounting, regulatory, finance and legal costs (approximately $148 million).  
+Dr. Silkman states that the difference between these two cost estimates represents a proxy for a 
+management fee for CMP, to which he then adds $2.6 million related to insurance and governance costs 
+for CMP, plus an undisclosed scaling adjustment to account for Versant, in order to arrive at an estimated 
+annual management fee of $15.3 million for the MPDA in total.  Based on the difference between LEI’s 
+estimated management fee starting at $82 million in 2024 and Dr. Silkman’s estimate of $15 million, 
+Dr. Silkman claims that there are incremental savings to Maine customers relative to LEI’s Reference Case 
+of approximately $4.75 billion over the 30-year Forecast Period.  
+As an initial matter, it is important to understand that Dr. Silkman’s analysis is not an estimate of the 
+actual market cost of contracting for an independent operator of a utility system.  Rather, the analysis 
+conducted by Dr. Silkman of the difference in the continued cost to operate CMP prior to its merger as 
+compared to its current costs is, at best, an estimate of the synergy savings produced by Energy East’s 
+acquisition of CMP in 2001.   Dr. Silkman’s assumed annual 
+management fee is extremely 
+low and is inconsistent with 
+existing market experience for 
+the management of extensive 
+electric utility operations in the 
+northeastern United States.   
+Concentric Energy Advisors, Inc. 10 
+ Further, Dr. Silkman’s estimated management fee of approximately $15 million is extremely low and is 
+inconsistent with existing market experience associated with third-party management of government-
+controlled electric utilities in the northeastern United States.   Putting the management fee into context, 
+Concentric reviewed the management fee under the operating agreement that the Long Island Power 
+Authority (“LIPA”), a government-controlled electric utility in New York, has executed with Public Service 
+Electric and Gas (“PSEG”) to operate the LIPA electrical system.  The management fees paid to PSEG 
+include three components:  an annual management fee; a performance incentive; and funding the 
+retirement benefits for PSEG-LIPA employees.  As shown in Figure 2, the total annual cost of the 
+LIPA/PSEG management agreement was nearly $103 million in 2019 and is subject to escalation each 
+year.   
+Figure 2:  PSEG Long Island Management Fees, 2016-20198 
+ 
+There are likely differences between operating an MPDA system and operating the LIPA system that 
+would affect the level of a future third-party management fee.  However, as shown in Figure 3, one 
+key difference between CMP/Versant and LIPA is that the combined CMP and Versant transmission and 
+distribution systems in Maine have more than double the mileage of electrical lines to manage and 
+maintain. 
+Figure 3: Mileage of Transmission and Distribution Lines in Service Territory 
+ 
+ 
+8  LIPA Financial Statements, 2016-2019.   (in $Millions)
+Description 2016 2017 2018 2019
+LIPA Expenses ($M)
+Management Fee 62.0 64.0 64.0 65.0
+Incentive Fee 9.0 9.5 9.7 9.8
+Pension Funding 28.1 35.0 40.0 28.0
+Subtotal 99.1 108.5 113.7 102.8
+CMP
+26,467 
+15,378 Versant
+7,355 
+ 0 5,000 10,000 15,000 20,000 25,000 30,000 35,000 40,000
+Maine LIPA
+Concentric Energy Advisors, Inc. 11 
+ Thus, while there may be differences between operating the MPDA system if it were established and 
+operating the LIPA system, the management fee associated with the current LIPA/PSEG agreement 
+suggests that the $15.3 million management fee assumed by Dr. Silkman in 2024, which is also 5 years 
+later than the most current management fee reflected in Figure 2, is well below the cost of a market-
+based management fee that the MPDA would incur.  As such, LIPA’s management fee payments to PSEG 
+demonstrate that the management fee LEI assumes for the MPDA is likely quite conservative. 
+In addition, as observed in the LEI Report, there are “only a limited number of operators in the world 
+that have the capability and experience to operate a T&D system reliably and are willing to operate 
+under a contractor model,” and the competitive solicitation process for procuring a contractor to operate 
+the electric system can be quite lengthy and potentially costly.9  Consequently, the LEI Report expects 
+that a management agreement for an MPDA would have material performance incentives and penalties, 
+and thus the management fee it assumes in the model could be even higher than 1% of assets under 
+management (which is what LIPA’s current contract with PSEG reflects), not substantially lower as 
+suggested by Dr. Silkman.10 
+For purposes of the analysis herein, Concentric assumes the same starting annual management fee to 
+operate an MPDA as estimated by LEI ( i.e., $82 million), but assumes an escalation of the management 
+fee of 1.75%, which is consistent with the change in the LIPA management fee over time.  Notably, this 
+escalation is lower than the escalation assumed in the LEI model. 
+As noted, Dr. Silkman suggests that his recalculated management fee results in incremental savings 
+associated with a government-controlled utility of approximately $4.75 billion over the 30-year 
+Forecast Period relative to the LEI Reference Case.  However, as shown in Figure 4, that cannot be the 
+case considering that the total management fees over 30 years in the LEI model are less than $4.75 
+billion.  
+ 
+9  LEI Report, p. 46.  Concentric is also aware of the experience of Cross Texas Transmission, LLC (“Cross Texas”), an 
+electric utility in Texas that sought a third-party operator of its system, that corroborates LEI’s conclusion.  Cross 
+Texas “found it difficult to find existing utilities that were willing to take on the additional risks and responsibilities 
+associated with operating our system.”  Cross Texas ultimately decided to operate its own system after the third-
+party operator it initially identified, South Texas Electric Cooperative, Inc., exercised its right to terminate the 
+operator agreement.  (Public Utility Commission of Texas, Docket No. 43950, Direct Testimony of Lawrence J. 
+Willick, at 17).  
+10  Id.   
+Concentric Energy Advisors, Inc. 12 
+ FIGURE 4: UNDISCOUNTED VALUE OF MANAGEMENT FEE OVER 30-YEAR FORECAST PERIOD ($BILLIONS) 
+ 
+2.1.2 Acquisition Price / Acquisition Multiple 
+LEI and Dr. Silkman assume that the acquisition price of the CMP and Versant transmission and 
+distribution assets would be 1.5 times the net book value of the assets.  The magnitude of the acquisition 
+premium is an important driver in determining whether a government-controlled power authority would 
+produce net costs or net savings.  For example, just a 10% increase in the acquisition multiple ( i.e., to 
+1.65 times the net book value) decreases the projected savings by $555 million.     
+The acquisition multiple that may be paid by MPDA to CMP/Versant for the takeover of their 
+transmission and distribution systems is highly uncertain and would not be determined for many years if 
+Maine were to pursue condemnation.  However, prior transaction data for negotiated condemnation 
+proceedings indicates that a premium of 1.5 times the net book value of the assets acquired may be 
+low. Figure 5 summarizes acquisition multiples for three previous government takeovers of investor-
+owned utility property for which data is publicly-available.  Based on publicly-available information 
+regarding these transactions, the acquisition multiples exceeded 2.0 times the net book value of the 
+assets acquired.  
+FIGURE 5: RECENT MUNICIPALIZATION ACQUISITION MULTIPLES  
+ 
+For purposes of evaluating the potential net impact of government-controlled power herein on Maine 
+customers, an acquisition premium of 2.0 times the net book value of the assets acquired is assumed. 
+2.1.3 Start Date of MPDA 
+The LEI Report assumes that a transaction would occur and the MPDA would begin operations in 2024, 
+which, as of the preparation of Concentric’s analysis, is just two and half years from now. Dr. Silkman 
+also assumes a 2024 start date for a state power authority.  A start date of 2024 suggests that the $0.46 $4.28 $4.75 
+Dr. Silkman
+Management
+FeeLEI
+Management
+FeeDr. Silkman
+Claimed
+"Savings"
+Acquisition Net Book
+Price Value Acquisition
+Municipality Utility Year ($M) ($M) Multiple
+Hermiston, OR Pacific Power & Light 2001 $8.0 $3.8 2.1x
+Winter Park, FL Progress Energy Florida 2005 $43.1 $7.8 5.5x
+Jefferson Country, WA Puget Sound Energy 2013 $109.3 $46.7 2.3x
+Concentric Energy Advisors, Inc. 13 
+ entire process for legislation approval, condemnation and associated legal challenges would be 
+concluded in approximately two and half years.  Based on recent history, this schedule is quite 
+aggressive and not likely achievable, particularly considering the fact that CMP and Versant would be 
+expected to vigorously challenge such condemnation given the billions of dollars at stake.  For this 
+reason, condemnation proceedings have historically been lengthy proceedings resulting in extensive 
+negotiations and, in many cases, protracted lawsuits.  LEI indicates that the process of selecting an 
+independent third-party operator to operate the MPDA’s system alone could take more than 3 years 
+as the solicitation process is established, proposals are evaluated, and contract negotiations are 
+finalized.11  
+Recent efforts of municipal governments to take over 
+investor-owned utility electric transmission and/or 
+distribution assets have been much longer than two and 
+half years, even though the systems involved were 
+smaller, local systems and not a statewide takeover as 
+contemplated for Maine.  For example, Jefferson County 
+Public Utility District (PUD) in Washington, which is the 
+most recently formed municipal utility, began its efforts 
+to municipalize in 2008 and ultimately purchased the 
+assets of Puget Sound Energy five years later in 2013.  
+After a six-year condemnation process, the city of 
+Winter Park, Florida established a municipal electric 
+utility in 2005.  The city of Boulder, Colorado conducted 
+its initial study evaluating the feasibility of taking over 
+the distribution assets of Xcel Energy in the early 2000s.  The effort by Boulder to condemn the electric 
+distribution assets began in 2011, and yet after incurring nearly $30 million in litigation and other costs 
+(with an estimated additional $5 to $20 million to be incurred in litigation costs to reach a final purchase 
+price), reached an agreement with Xcel in July 2020 to abandon its efforts to take over the utility’s 
+distribution property, and the city voted in November 2020 to end its municipalization effort.12  
+Based on prior condemnation experience, assuming a later start date for MPDA is reasonable.  If the 
+start date of a government-controlled power authority in Maine were to be later than 2024 as assumed 
+in the LEI/Dr. Silkman analyses, it is important to realize that, based on the LEI model, the price at which 
+Maine would acquire the CMP/Versant assets would also increase.  The acquisition price for Maine 
+would increase because CMP and Versant are expected to continue to make significant capital 
+investments to maintain and expand their systems until the time that their electric systems would be taken 
+over, resulting in a larger net utility plant balance to be acquired, and thus a larger acquisition price.   
+Figure 6 shows the increase in the acquisition price using the LEI Reference Case if the start date is 
+increased to 2030, or approximately the same time frame that it took from the start to the end of the 
+recently terminated condemnation effort in Boulder, Colorado.  As shown in Figure 6, the incremental 
+cost to Maine customers to take over the electric systems of CMP and Versant associated with a delay 
+ 
+11  LEI Report, p. 46.  
+12  Best, Allen, “As costs rack up in Boulder’s push to split with Xcel, voter to have the final say,” Energy News Network, 
+October 27, 2020; Sakas, Michael Elizabeth, “Boulder Ends Decade Long Pursuit of City-Owned Power Utility,” 
+Colorado Public Radio, November 20, 2020.  10 Years6 Years5 Years3 Years
+Boulder, COWinter Park, FLJefferson County, WALEI/Silkman
+Reference Case
+Concentric Energy Advisors, Inc. 14 
+ in the start date could be an additional $2.0 billion (assuming a 1.5x acquisition multiple) to $2.5 billion 
+(assuming a 2.0x acquisition multiple). 
+FIGURE 6: DELAY IN A MPDA START DATE EQUATES TO AN INCREASE IN THE ACQUISITION PRICE 
+(LEI REFERENCE CASE) 
+ 
+While both LEI and Dr. Silkman recognize the need for substantial capital investment over the 30-year 
+Forecast Period, Dr. Silkman proposes an alternative and more aggressive future capital expenditure 
+schedule that reflects expenditures: (1) required to maintain the existing grid; and (2) to expand the 
+grid to enable beneficial electrification and the decarbonization of electric generation.  Dr. Silkman’s 
+analysis assumes much greater capital expenditures in the early years of the Forecast Period as 
+compared to the LEI model.13   
+All else equal, the price to acquire the CMP/Versant assets becomes substantially greater relying on 
+Dr. Silkman’s higher capital expenditure assumption and a start date that is later than 2024.  As shown 
+in Figure 7, under Dr. Silkman’s future capital expenditure assumption, a delay in the start would further 
+increase the cost to Maine customers to acquire the utilities’ transmission and distribution assets by 
+approximately $3.7 billion (assuming a 1.5x acquisition multiple) and $4.9 billion (assuming a 2.0x 
+acquisition multiple).     
+ 
+13  Dr. Silkman also states that the impact on the overall cost/benefit of his revised future capital expenditure 
+assumptions are small and do not account for any of the differences in ratepayer savings between the LEI model 
+and Dr. Silkman’s revised results.  However, this does not appear to be accurate.  All else being equal and changing 
+nothing else in the LEI model, Dr. Silkman’s CAPEX assumption materially increases the projected savings to Maine 
+customers, more than doubling the savings reported by LEI to $1.3 billion. 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030$11.0 billion
+(2.0x multiple)
+$8.2 billion 
+(1.5x multiple)$13.5 billion
+(2.0x multiple)
+$10.2 billion
+(1.5x multiple)
+Concentric Energy Advisors, Inc. 15 
+ FIGURE 7: DELAY IN A MPDA START DATE EQUATES TO AN INCREASE IN THE ACQUISITION PRICE 
+(LEI REFERENCE CASE AS ADJUSTED FOR DR. SILKMAN’S RECOMMENDED CAPITAL EXPENDITURES )   
+ 
+  
+2.1.4 Transmission Cost of Capital 
+The LEI Report assumes that CMP and Versant will continue to charge transmission rates that reflect their 
+currently authorized pre-tax weighted average costs of capital (“WACC”) of 9.86% and 10.15%, 
+respectively.  However, in comparison, LEI indicates that estimating the transmission WACC for the 
+hypothetical MPDA is more uncertain because it is the subject of an uncertain ISO New England (“ISO-
+NE”) ratemaking process.  Specifically, LEI states that this uncertainty is, “a problem that is complex and 
+time consuming to solve.”14  Ultimately, the LEI Report assumes that the MPDA would be allowed to 
+charge transmission rates that reflect an 8.00% WACC, which is the same WACC that is currently used 
+for ratemaking purposes by other municipal transmission owners in ISO-NE. 
+In contrast, Dr. Silkman assumes that the MPDA would be able to charge transmission rates that reflect 
+a 10.15% WACC, which as noted above, is Versant’s existing pre-tax WACC for transmission rates.15 
+While Dr. Silkman admits that there is uncertainty regarding what the newly formed MPDA would be 
+allowed to set as its WACC for transmission ratemaking purposes, he suggests that there is “good 
+precedent” for the MPDA to continue reflecting the WACC of the investor-owned utilities it replaces; 
+however, he does not specify the precedent to which he refers.   
+It is a long-standing principle of utility ratemaking that rates should reflect the cost of providing service.  
+For investor-owned utilities such as CMP and Versant, those costs include a return on capital invested in 
+the provision of utility service and an allowance for income taxes since they are subject to federal and 
+ 
+14  LEI Report, p. 44.   
+15  Silkman Analysis, p. 3. 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030$11.0 billion
+(2.0x multiple)
+$8.2 billion 
+(1.5x multiple)$15.9 billion
+(2.0x multiple)
+$11.9 billion
+(1.5x multiple)
+Concentric Energy Advisors, Inc. 16 
+ state income tax.  Investor-owned utilities typically fund transmission investments using both debt and 
+equity.  Accordingly, the weighted average cost of capital is calculated by summing (i) the actual cost 
+of debt multiplied by the proportion of debt in the utility’s capital structure;16 and (ii) the cost of equity 
+authorized by the regulator multiplied by the proportion of equity in the utility’s capital structure.   
+Importantly, by assuming that a government-controlled power authority would be able to charge 
+transmission rates that reflect a pre-tax WACC of 10.15%, Dr. Silkman’s analysis also assumes that the 
+MPDA would be allowed to charge transmission rates that are divorced from its cost of providing service 
+in three different respects, which as discussed below, Concentric does not believe is realistic: 
+ Capital Structure:  First, LEI states that CMP’s and Versant’s capital structures reflect 
+approximately 50% debt and 50% equity.  In contrast, the MPDA’s capital structure in the LEI 
+model reflects almost 100% debt in the first year of operation ( i.e., 2024), and at no point 
+during the 30-year Forecast Period reflects less than 70% debt in the capital structure.  Dr. 
+Silkman’s transmission WACC implicitly assumes that the MPDA would be allowed to charge 
+transmission rates that are premised on Versant’s actual capital structure, or in other words, a 
+capital structure that is more heavily weighted toward equity than is reflected in the LEI model 
+or otherwise consistent with a government entity without equity shareholders.  While Dr. Silkman 
+does not indicate that he assumes a MPDA could instead use a hypothetical capital structure for 
+transmission ratemaking purposes, it should be noted that the Federal Energy Regulatory 
+Commission (“FERC”) recently rejected the use of a hypothetical capital structure for a non-FERC-
+jurisdictional generation and transmission cooperative that proposed a capital structure largely 
+reflecting the capital structure of other large investor-owned utility transmission owners in the 
+power pool.17  
+ Cost of Equity:  Second, LEI indicates that municipal transmission owners (“MTOs”), “do not have 
+equity and therefore the FERC approved return on equity does not apply to MTOs.”18  However, 
+Dr. Silkman assumes that the MPDA will be allowed to charge transmission rates that include the 
+same return on equity as FERC has authorized for Versant, an investor-owned utility.   
+ Income Taxes:  Third, Dr. Silkman’s assumed 10.15% WACC is equivalent to Versant’s pre-tax 
+WACC, meaning it is higher than an after-tax WACC to account for the fact that income taxes 
+would be required to be paid on the return earned on the transmission assets owned.  However, 
+as a government entity, the MPDA would not pay income taxes.  Therefore, Dr. Silkman presumes 
+that the MPDA would be allowed to recover an allowance for income taxes through its 
+transmission rates, even though it would not pay income taxes.  
+Concentric is not aware of any government-controlled power entity of the scale contemplated by a 
+Maine power authority that has departed from cost-based transmission rates in the manner suggested 
+by Dr. Silkman in all three of these respects.  The premise of Dr. Silkman’s assumptions is that other New 
+ 
+16  “Capital Structure” is a financial term that refers to the proportion of debt and equity capital used to finance a 
+company’s operations. 
+17  Midwest Independent Operator, Inc. , 170 FERC ¶ 61,265 (2020), PP. 30-37; Midwest Independent Operator, Inc. , 
+172 FERC ¶ 61,242 (2020), PP. 11-17.  In these decisions, the Commission reiterated that, “rates are intended to 
+provide utilities the opportunity to recover their costs of providing service, including the cost of capital, and the 
+Commission’s default preference is to base rates on a company’s actual capital structure.”  
+18  “Evaluation of the Ownership of Maine’s Power Delivery System,” London Economics, February 15, 2020 (“LEI 
+Report”), p. 43.   
+Concentric Energy Advisors, Inc. 17 
+ England transmission customers would pay Maine for transmission service at a rate that is substantially 
+higher than the MPDA’s underlying cost for such transmission services, thus subsidizing the MPDA.  
+Concentric does not believe that Dr. Silkman’s assumptions are realistic, as other New England customers 
+and stakeholders would surely challenge the reasonableness of paying transmission rates that are higher 
+than the MPDA’s cost of providing the service.   
+Accordingly, Concentric has estimated a reasonable alternative to the transmission WACC that Dr. 
+Silkman and LEI assume in their analyses.  As detailed in Figure 8, Concentric’s alternative transmission 
+WACC reflects: (i) the capital structure of MPDA in the LEI model that is much more heavily weighted 
+with debt than equity; (ii) the base cost of debt for MPDA assumed in the LEI model, and (iii) 
+conservatively, a pre-tax return on equity for an investor-owned utility such as assumed by Dr. Silkman 
+– even though a government-controlled power authority in Maine would not pay income taxes .  As shown 
+in Figure 8, the transmission WACC under more realistic future assumptions is significantly below both 
+Dr. Silkman’s and LEI’s assumed WACC.  
+Figure 8: Calculation of More Realistic Transmission WACC 
+for a Government-Controlled Power Authority 
+ 
+To evaluate the reasonableness of the various transmission WACC assumptions, Concentric analyzed the 
+transmission WACCs recently authorized by FERC for a variety of government-controlled and 
+cooperative utilities.  The results of that survey are illustrated in Figure 9.  As shown, the WACCs assumed 
+by Dr. Silkman and LEI for a MPDA are significantly higher than these other government-controlled and 
+cooperative electric utilities.     
+
+Concentric Energy Advisors, Inc. 18 
+ Figure 9: Recent Authorized Transmission WACCs19 
+ 
+The level of the transmission WACC assumed for a Maine power authority has a significant effect on 
+the projected costs of a state takeover of CMP and Versant Power.  Changing Dr. Silkman’s WACC 
+assumption from 10.15% to a more traditional cost-based WACC of 6.64% alone eliminates $8.3 
+billion of estimated savings associated with a state power authority, or nearly one-half of the total 
+undiscounted savings Dr. Silkman attributes to a government-controlled power authority . 
+2.2 CONCLUSION OF FINANCIAL REVIEW 
+As shown in Figure 10, reflecting the reasonable modifications to the four key assumptions described 
+above in the LEI model would result in a cumulative net cost of $4.7 billion to Maine electric customers 
+associated with a MPDA over the 30-year Forecast Period on an undiscounted basis, or a net cost of 
+$2.7 billion on a net present value basis.  While the LEI Report projects net savings to Maine electric 
+customers over time and Dr. Silkman suggests immediate and substantial savings to customers, the 
+significant range of variability in the assumptions associated with the takeover by a state authority 
+underscores the potential material risks to which Maine customers would be exposed if the MPDA were 
+to take over the transmission and distribution assets of CMP and Versant. 
+ 
+19  Information obtained from various FERC filings and utility Attachment O documents; utilities with gross revenue 
+requirements of less than $1 million per year are excluded from the analysis. 
+
+Concentric Energy Advisors, Inc. 19 
+ FIGURE 10: COMPARISON OF AGGREGATE ESTIMATED FINANCIAL IMPACTS OF MPDA 
+  
+Figure 11 presents a comparison of the breakdown in the estimated net costs or net savings on an 
+undiscounted basis, with the “red” boxes representing estimated net costs to Maine customers over the 
+Forecast Period and the “green” boxes representing estimated net savings.  These are the same three 
+components discussed previously as reflected in Dr. Silkman’s analysis:  (i) the difference in the estimated 
+revenue requirement over the Forecast Period under MPDA ownership as compared to continued 
+CMP/Versant ownership; (ii) the value of MPDA at the end of the 30-year Forecast Period as measured 
+by the difference in the projected sale price of MPDA at that time less the amount of outstanding debt 
+at that time; and (iii) the value of the accumulated cash reserves and the interest on those cash reserves 
+at the end of the Forecast Period.      
+ 
+FIGURE 11: COMPARISON OF AGGREGATE ESTIMATED FINANCIAL IMPACTS OF  
+A GOVERNMENT -CONTROLLED POWER AUTHORITY IN MAINE (UNDISCOUNTED ) 
+ 
+For purposes of Figure 11, Concentric has not modified the assumption made by Dr. Silkman that the 
+cash reserves in a MPDA, and the interest accumulated on those reserves over time, would be a benefit 
+to a MPDA.  However, Concentric notes that this value to Maine customers can only be monetized if the 
+MPDA were sold, which is antithetical to one of the reasons put forth by advocates for a MPDA – local 
+control.   
+LEI Base Case Concentric Adjustment to LEI Dr. Silkman Scenario
+$0.650 billion Rate Savings/Costs Over 30 Yrs
+$2.037 billion
+$6.446 billionSale Value of MPDA After 30 Yrs
+Cash Reserves + Accum. 
+Interest of MPDA thru 30 Yrs
+Net Benefit/Cost of MPDA $9.133 billion$1.723 billion
+$7.528 billion
+$7.718 billion
+$16.696 billion-$4.298 billion
+-$1.544 billion
+$1.157 billion
+-$4.685 billion+
++ ++ +
++vs.
+Concentric Energy Advisors, Inc. 20 
+ 2.3 ADDITIONAL SOURCES OF COST INCREASES ASSOCIATED WITH GOVERNMENT-
+CONTROLLED POWER NOT REFLECTED IN THE LEI/SILKMAN ANALYSES 
+In addition to the four key assumptions discussed in the prior section, there are multiple additional cost 
+factors that could further diminish the value to Maine customers of a government-controlled power 
+authority that should be carefully considered by stakeholders.  If these additional issues were further 
+studied and quantified, it is very possible that Concentric's estimate of $4.7 billion in cumulative net 
+costs over 30 years to Maine electric customers associated with a government-controlled power 
+authority could be even higher. 
+2.3.1 Exclusion of Additional Costs Associated with a MPDA 
+As part of the upfront costs of forming a government-controlled power authority, the LEI model includes 
+the cost associated with financing an acquisition of the CMP/Versant assets (known as flotation or 
+issuance costs).  LEI’s assumption is based on the percentage of such costs from LIPA and the New York 
+Power Authority.  However, not only would a state power authority face flotation costs, but it would 
+also face additional costs not included in the LEI model or in Dr. Silkman’s analysis– incremental costs 
+that would further reduce the value of a state power authority.  For example: 
+ Startup Costs:  Neither the LEI Report nor Dr. Silkman’s analysis includes startup costs for a 
+MPDA.  It is reasonable to expect that there would be costs to begin operation as a government-
+controlled power authority, including costs to consolidate and integrate the CMP and Versant 
+operations.  These consolidation costs are unique to this proposal because, unlike prior 
+government takeovers such as LIPA, which involved a single entity, the proposal in Maine would 
+be combining two completely separate utilities with different systems and different operations. 
+For example, the information technology, billing, customer support and other systems, processes 
+and functions of CMP and Versant would need to be standardized across the consolidated 
+entity.  In addition to consolidation costs, a MPDA would also incur costs to establish a governing 
+body that would oversee the government utility.  These costs would need to be incurred either 
+directly by the MPDA or the third-party operator, and if the latter, such costs would undoubtedly 
+be reflected in the management fee.  A reasonable cost estimate of government-controlled 
+power in Maine needs to include these significant start-up costs. 
+ Pre-Acquisition Transaction Costs:  There would be additional costs that would be incurred by 
+Maine prior to a condemnation of the utilities’ assets that are necessary to execute such a 
+transaction, including legal, engineering and consulting costs.  As discussed previously, the 
+process to acquire the utilities can be prolonged and result in significant costs in each of these 
+categories.  For example, since 2012, the city of Boulder, Colorado has incurred nearly $30 
+million in legal, engineering, and consulting fees associated with taking over its local utility, even 
+though Boulder represents a single utility within the boundaries of a single municipality, whereas 
+the takeover proposal for Maine would involve two separate utilities encompassing an entire 
+state.  This cost has been borne by taxpayers in Boulder through a rider collected on local 
+property taxes.  
+Concentric Energy Advisors, Inc. 21 
+  
+ 
+2.3.2 New England Clean Energy Connect Excluded from Acquisition Cost 
+As discussed previously, LEI’s Reference Case assumes that Maine would acquire CMP and Versant’s 
+electric assets as of 2024, and the cost to acquire those assets would be 1.5 times the net book value 
+of the utility plant at the time of the acquisition.  In his analysis, Dr. Silkman does not modify these 
+assumptions. 
+The net book value of the utility plant assumed to be acquired by Maine in the LEI model reflects 
+projected capital expenditures for both CMP and Versant to 2024.  However, the LEI model does not 
+reflect the substantial capital expenditures by CMP related to the New England Clean Energy Connect 
+(“NECEC”) project that is scheduled to be placed into service in 2023.  The NECEC project will bring 
+renewable Canadian hydropower into Maine’s electric grid and is estimated to cost approximately $1 
+billion to construct.  Consequently, if a state authority were to take over the CMP/Versant electric assets, 
+the change to the acquisition price related to this project alone reasonably could be up to an additional 
+$2 billion more than the cost to acquire the assets assumed in the LEI and Dr. Silkman analyses ( i.e., the 
+$1 billion in net plant value for NECEC multiplied by a 2.0x acquisition multiple).  
+2.3.3 Effect on Maine Industrial Customers 
+The additional savings suggested by Dr. Silkman’s changes to LEI’s model are largely the result of his 
+assumption that, as discussed previously, a government-controlled power authority would be able to 
+reflect a transmission cost of capital in its transmission rates that is higher than its actual cost of capital.  
+According to Dr. Silkman, “[a]djusting the WACC [weighted average cost of capital] upward results in 
+an increase of roughly $4 billion in revenues to the MPDA over the 30-year period, the majority of 
+which is paid for by ratepayers in the other five New England states.”20  As recognized by Dr. Silkman, 
+his assumption means that not only will ratepayers in the other New England states pay transmission 
+rates for MPDA that are higher than MPDA’s actual cost to provide the service, but such assumed cross-
+subsidization means that Maine’s largest industrial customers that only take transmission service and not 
+distribution service may not benefit from Dr. Silkman’s claimed savings or the establishment of an MPDA.  
+Accordingly, these larger Maine transmission-only customers would be similarly-situated as other New 
+England electric ratepayers and, under Dr. Silkman’s assumption, may be required to subsidize Maine 
+residential and commercial electric customers. 
+ 
+20  Silkman Analysis, p. 3.  
+Condemn ation Costs Incurred Over Time by Boulder, 
+Colorado 
+$10 
+mm 
+[Undefined]  
+2005 
+ 2011 
+ 2016 
+$20 
+mm 
+Mar 2019  
+$28 
+mm 
+Jul 2020 
+$3 
+mm 
+Concentric Energy Advisors, Inc. 22 
+ 2.3.4 Inaccurate Savings Estimate 
+LEI’s Reference Case suggests there may be savings of $232 million on a net present value basis over 
+the 30-year Forecast Period resulting from a government takeover and formation of an MPDA, whereby 
+Maine electric customers pay more under MPDA ownership in the first part of the Forecast Period and 
+ultimately pay less in the latter part of the Forecast Period.  In contrast, Dr. Silkman concludes that LEI’s 
+Reference Case actually suggests approximately $9.1 billion in cumulative savings (undiscounted) over 
+the 30-year Forecast Period, and that such savings accrue immediately upon the formation of a MPDA.  
+Dr. Silkman suggests that this substantial difference in savings is because LEI has failed to include what 
+Dr. Silkman refers to as “balance sheet effects” of the takeover.  To calculate his claimed savings, Dr. 
+Silkman sums three components:   
+(i)  The difference in the estimated revenue requirement over the Forecast Period under MPDA 
+ownership as compared to continued CMP/Versant ownership;  
+(ii)  The value of MPDA at the end of the 30-year Forecast Period as measured by the 
+difference in the projected sale price of MPDA at that time less the amount of outstanding 
+debt at that time; and  
+(iii)  The value of the accumulated cash reserves and the interest on those cash reserves at the 
+end of the Forecast Period.   
+Dr. Silkman terms the value estimated in components (ii) and (iii) above as “balance sheet effects.” 
+Based on our review of Dr. Silkman’s analysis as described in his report, there is an error in Dr. Silkman’s 
+estimation of savings associated with a government-controlled power authority as of 2054, or the end 
+of the Forecast Period.  Specifically, in calculating component (ii) described above, Dr. Silkman compares 
+the projected net book value of a MPDA in 2054 to the projected outstanding debt of MPDA in 2052 
+– or a mismatch between the book value and the outstanding debt.  As reflected in the LEI model, MPDA 
+would have a higher outstanding debt balance as of 2054 than in 2052.  Deducting the debt balance 
+in 2054 from the net plant value as of the same year, the savings would be lower than claimed by Dr. 
+Silkman by $660 million.  Consequently, Dr. Silkman’s suggested savings associated with a government-
+controlled power authority are overstated by $660 million due to the mismatch of years in this 
+calculation.  
+2.4 ADDITIONAL FACTORS FOR STAKEHOLDER CONSIDERATION 
+The relative economics of operating a government-controlled power authority are clearly important.  
+However, there are several additional factors that also should be considered by stakeholders when 
+making an informed decision as to whether to proceed with forming an MPDA: 
+ Capability to Execute :  Maine will want to make a realistic assessment of the ability of an MPDA 
+to execute on its obligations to provide safe and reliable electric service at levels that 
+approximate or exceed the level of service provided by CMP and Versant.  This includes the 
+ability to manage the day-to-day operations (or effectively manage the outsourcing of such 
+operations), address and manage cybersecurity, outages, and emergencies, and the ability to 
+plan for and successfully implement required future system investments.  
+ Sharing of Risk :  The risks of owning and operating an electric utility are currently shared 
+between the shareholders of CMP and Versant and its customers; however, those same risks 
+Concentric Energy Advisors, Inc. 23 
+ after a condemnation and formation of a MPDA would be borne entirely by the electric 
+customers in Maine.   
+ Governance/Oversight :  There has been no discussion of the governance structure to perform the 
+functions that are currently provided by the Maine Public Utilities Commission in order to ensure 
+that the MPDA continues to provide safe and reliable service in an efficient manner.  
+ Past Experience :  There have been no government-controlled utilities or power authorities formed 
+in the past 20 years, and prior examples of takeovers involved single municipal or county 
+systems, not multiple utility systems.  Moreover, at no point in history has a state ever sought to 
+take over and combine its largest utilities.  The vast majority of existing government-controlled 
+power authorities were developed many decades earlier, many of which initially developed in 
+order to electrify rural regions and benefited from federally-funded generation.  In addition, 
+there have been very few instances in the past 20 years in which a municipality or county has 
+taken over the electric system of an investor-owned utility, with just 11 of 64 electric utility 
+municipalizations in the U.S. completed since 2000, with two communities later selling back the 
+assets to the investor-owned utility.  Indeed, over the past ten years, there have been a number 
+of privatizations where municipal utilities have sold back electric system assets to investor-owned 
+utilities. 
+ Scale: The formation of an MPDA, of the scale that is currently proposed is an additional 
+challenge.  The formation of LIPA, which represents a much smaller geography and is only a 
+single utility, is the most recent example of the formation of a regional power authority.  
+Independent management of LIPA has been subject to significant challenges that eventually 
+resulted in the state ordering that more of the management responsibility be turned over to a 
+private, third-party operator, and less of the oversight rest with government officials.   
+ 
+ 
+Willy Ritch
+Maine Affordable Energy Coalition
+LD 1611
+Senator Lawrence, Representative Zeigler and members of the Committee on Energy, 
+Utilities and Technology, I am Willy Ritch of Portland, and I am submitting 
+testimony today on behalf of the Maine Affordable Energy Coalition to testify in 
+opposition to LD 1611 (IB 2), “An Act to Create the Pine Tree Power Company, a 
+Nonprofit, Customer owned Utility.”
+Attached to this testimony are three reports prepared by Concentric Energy Advisors. 
+These reports show that seizing the state’s electric utilities to create the governmental 
+Pine Tree Power will cost consumers more each month. In addition, you will see from
+these reports that government run utilities in this part of the country have not 
+necessarily charged less or provided more reliable service.
+Thank you for your consideration.

@@ -1,0 +1,694 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1749
+S.P. 694 In Senate, April 20, 2023
+An Act to Establish the Physical Therapy Licensure Compact
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRENNER of Cumberland.
+Cosponsored by Representative MATHIESON of Kittery and
+Senators: BENNETT of Oxford, HICKMAN of Kennebec, STEWART of Aroostook, 
+Representatives: ARFORD of Brunswick, GATTINE of Westbrook, GRAHAM of North 
+Yarmouth, MASTRACCIO of Sanford, MURPHY of Scarborough.
+
+Page 1 - 131LR0429(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  32 MRSA c. 149 is enacted to read:
+4CHAPTER 149
+5PHYSICAL THERAPY LICENSURE COMPACT
+6§18701.  Short title
+7 This chapter may be known and cited as "the Physical Therapy Licensure Compact," 
+8 referred to in this chapter as "the compact."
+9§18702. Purpose
+10 The purpose of this compact is to facilitate interstate practice of physical therapy with 
+11 the goal of improving public access to physical therapy services. The practice of physical 
+12 therapy occurs in the state where the patient is located at the time of the physical therapy 
+13 services. The compact preserves the regulatory authority of states to protect public health 
+14 and safety through the current system of state licensure.
+15 This compact is designed to achieve the following objectives:
+161.  License recognition.  Increase public access to physical therapy services by 
+17 providing for the mutual recognition of other member state licenses;
+182.  State powers.  Enhance the states' ability to protect the public's health and safety;
+193.  Multistate practice.  Encourage the cooperation of member states in regulating 
+20 multistate physical therapy practice;
+214.  Military spouses.  Support spouses of relocating active duty military personnel;
+225. Information exchange.  Enhance the exchange of licensure, investigative and 
+23 disciplinary information among member states; and
+246.  Compact privilege.  Allow a remote state to hold a provider of services with a 
+25 compact privilege in that state accountable to that state's practice standards.
+26§18703. Definitions
+27 As used in this chapter, unless the context otherwise indicates, the following terms 
+28 have the following meanings.
+291.  Active duty military.  "Active duty military" means full-time duty status in the 
+30 active uniformed service of the United States, including members of the National Guard 
+31 and Reserves of the United States Armed Forces on active duty orders pursuant to 10 
+32 United States Code, Chapters 1209 and 1211.
+332.  Adverse action.  "Adverse action" means disciplinary action taken by a physical 
+34 therapy licensing board based upon misconduct, unacceptable performance or a 
+35 combination of both.
+Page 2 - 131LR0429(01)13.  Alternative program.  "Alternative program" means a nondisciplinary monitoring 
+2 or practice remediation process approved by a physical therapy licensing board, including, 
+3 but not limited to, addressing substance use disorder issues.
+44.  Compact privilege.  "Compact privilege" means the authorization granted by a 
+5 remote state to allow a licensee from another member state to practice as a physical 
+6 therapist or work as a physical therapist assistant in the remote state under its laws and 
+7 rules. The practice of physical therapy occurs in the member state where the patient is 
+8 located at the time of the physical therapy services.
+95.  Continuing competence.  "Continuing competence" means a requirement, as a 
+10 condition of license renewal, to provide evidence of participation in, or completion of, 
+11 educational and professional activities relevant to practice or area of work.
+126.  Data system.  "Data system" means a repository of information about licensees, 
+13 including examination, licensure, investigative, compact privilege and adverse action 
+14 information.
+157.  Encumbered license.  "Encumbered license" means a license that a physical 
+16 therapy licensing board has limited in any way.
+178.  Executive board.  "Executive board" means a group of directors elected or 
+18 appointed to act on behalf of, and within the powers granted to them by, the commission.
+199.  Home state.  "Home state" means the member state that is the licensee's primary 
+20 state of residence.
+2110.  Investigative information.  "Investigative information" means information, 
+22 records and documents received or generated by a physical therapy licensing board 
+23 pursuant to an investigation.
+2411.  Jurisprudence requirement.  "Jurisprudence requirement" means the assessment 
+25 of an individual's knowledge of the laws and rules governing the practice of physical 
+26 therapy in a state.
+2712.  Licensee.  "Licensee" means an individual who currently holds an authorization 
+28 from a state to practice as a physical therapist or to work as a physical therapist assistant.
+2913.  Member state.  "Member state" means a state that has enacted the compact.
+3014.  Party state.  "Party state" means any member state in which a licensee holds a 
+31 current license or compact privilege or is applying for a license or compact privilege.
+3215.  Physical therapist.  "Physical therapist" means an individual who is licensed by 
+33 a state to practice physical therapy.
+3416.  Physical therapist assistant.  "Physical therapist assistant" means an individual 
+35 who is licensed or certified by a state and who assists a physical therapist in selected 
+36 components of physical therapy.
+3717.  Physical therapy, physical therapy practice or the practice of physical 
+38therapy.  "Physical therapy," "physical therapy practice" or "the practice of physical 
+39 therapy" means the care and services provided by or under the direction and supervision of 
+40 a licensed physical therapist.
+Page 3 - 131LR0429(01)118.  Physical therapy compact commission or commission.  "Physical therapy 
+2 compact commission" or "commission" means the national administrative body whose 
+3 membership consists of all states that have enacted the compact pursuant to section 18708.
+419.  Physical therapy licensing board or licensing board.  "Physical therapy 
+5 licensing board" or "licensing board" means the agency of a state that is responsible for the 
+6 licensing and regulation of physical therapists and physical therapist assistants.
+720.  Remote state.  "Remote state" means a member state other than the home state 
+8 where a licensee is exercising or seeking to exercise the compact privilege.
+921.  Rule.  "Rule" means a regulation, principle or directive promulgated by the 
+10 commission that has the force of law.
+1122.  State.  "State" means any state, commonwealth, district or territory of the United 
+12 States that regulates the practice of physical therapy.
+13§18704. State participation in the compact
+141.  Participation requirements.  To participate in the compact, a state must:
+15 A.  Participate fully in the commission's data system, including using the commission's 
+16 unique identifier as defined in rules;
+17 B.  Have a mechanism in place for receiving and investigating complaints about 
+18 licensees;
+19 C.  Notify the commission, in compliance with the terms of the compact and rules, of 
+20 any adverse action or the availability of investigative information regarding a licensee;
+21 D.  Fully implement a criminal background check requirement, within a time frame 
+22 established by rule, by receiving the results of the Federal Bureau of Investigation 
+23 record search on criminal background checks and use the results in making licensure 
+24 decisions in accordance with subsection 2;
+25 E.  Comply with the rules of the commission;
+26 F.  Utilize a recognized national examination as a requirement for licensure pursuant 
+27 to the rules of the commission; and
+28 G.  Have continuing competence requirements as a condition for license renewal.
+292.  Biometric-based information.  Upon adoption of this compact, the member state 
+30 has the authority to obtain biometric-based information from each physical therapy 
+31 licensure applicant and submit this information to the Federal Bureau of Investigation for 
+32 a criminal background check in accordance with 28 United States Code, Section 534 and 
+33 42 United States Code, Section 14616.
+343.  Compact privilege.  A member state shall grant the compact privilege to a licensee 
+35 holding a valid unencumbered license in another member state in accordance with the terms 
+36 of the compact and rules.
+374.  Fees.  Member states may charge a fee for granting a compact privilege.
+38§18705. Compact privilege
+391.  Compact privilege.  To exercise the compact privilege under the terms and 
+40 provisions of the compact, the licensee:
+Page 4 - 131LR0429(01)1 A.  Must hold a license in the home state;
+2 B.  May not have an encumbrance on any state license;
+3 C.  Must be eligible for a compact privilege in any member state in accordance with 
+4 subsections 4, 7 and 8;
+5 D.  May not have an adverse action against any license or compact privilege within the 
+6 previous 2 years;
+7 E.  Must notify the commission that the licensee is seeking the compact privilege within 
+8 a remote state;
+9 F.  Must pay any applicable fees, including any state fee, for the compact privilege;
+10 G.  Must meet any jurisprudence requirements established by the remote state in which 
+11 the licensee is seeking a compact privilege; and
+12 H.  Must report to the commission adverse action taken by any nonmember state within 
+13 30 days from the date the adverse action is taken.
+142.  Validity.  The compact privilege is valid until the expiration date of the home state 
+15 license. The licensee must comply with the requirements of subsection 1 to maintain the 
+16 compact privilege in the remote state.
+173.  Laws and regulations.  A licensee providing physical therapy in a remote state 
+18 under the compact privilege shall function within the laws and regulations of the remote 
+19 state.
+204.  Regulation.  A licensee providing physical therapy in a remote state is subject to 
+21 that state's regulatory authority. A remote state may, in accordance with due process and 
+22 that state's laws, remove a licensee's compact privilege in the remote state for a specific 
+23 period of time, impose fines or take any other necessary actions to protect the health and 
+24 safety of its citizens.  The licensee is not eligible for a compact privilege in any member 
+25 state until the specific time for removal has passed and all fines are paid.
+265.  Encumbrance.  If a home state license is encumbered, the licensee must lose the 
+27 compact  privilege in any remote state until the following occur:
+28 A.  The home state license is no longer encumbered; and
+29 B.  Two years have elapsed from the date of the adverse action.
+306.  Restoration after encumbrance.  Once an encumbered license in the home state 
+31 is restored to good standing, the licensee must meet the requirements of subsection 1 to 
+32 obtain a compact privilege in any remote state.
+337.  Removal.  If a licensee's compact privilege in any remote state is removed, the 
+34 individual must lose the compact privilege in any remote state until the following occur:
+35 A.  The specific period of time for which the compact privilege was removed has 
+36 ended;
+37 B.  All fines have been paid; and
+38 C.  Two years have elapsed from the date of the adverse action.
+Page 5 - 131LR0429(01)18.  Restoration after removal.  Once the requirements of subsection 7 have been met, 
+2 the licensee must meet the requirements in subsection 1 to obtain a compact privilege in a 
+3 remote state.
+4§18706.  Active duty military personnel or their spouses
+5 A licensee who is active duty military or is the spouse of an individual who is active 
+6 duty military may designate one of the following as the home state:
+71.  Home of record.  Home of record;
+82.  Permanent change of station.  Permanent change of station; or
+93.  Current residence.  State of current residence if it is different than the permanent 
+10 change of station state or home of record.
+11§18707. Adverse actions
+121.  Adverse action authority.  A home state has exclusive power to take adverse action 
+13 against a license issued by the home state.
+142.  Remote state investigative information.  A home state may take adverse action 
+15 based on the investigative information of a remote state, as long as the home state follows 
+16 the home state's procedures for taking adverse action.
+173.  Alternative program.  Nothing in this compact overrides a member state's decision 
+18 that participation in an alternative program may be used in lieu of adverse action and that 
+19 such participation remains nonpublic if required by the member state's laws. Member states 
+20 must require licensees who enter any alternative programs in lieu of discipline to agree not 
+21 to practice in any other member state during the term of the alternative program without 
+22 prior authorization from such other member state.
+234.  Member state authority.  Any member state may investigate actual or alleged 
+24 violations of the laws and rules authorizing the practice of physical therapy in any other 
+25 member state in which a physical therapist or physical therapist assistant holds a license or 
+26 compact privilege.
+275.  Remote state authority.  A remote state has the authority to:
+28 A.  Take adverse actions as set forth in section 18705, subsection 4 against a licensee's 
+29 compact privilege in the state;
+30 B.  Issue subpoenas for both hearings and investigations that require the attendance and 
+31 testimony of witnesses and the production of evidence.  Subpoenas issued by a physical 
+32 therapy licensing board in a party state for the attendance and testimony of witnesses 
+33 or the production of evidence from another party state must be enforced in the latter 
+34 state by any court of competent jurisdiction according to the practice and procedure of 
+35 that court applicable to subpoenas issued in proceedings pending before it. The issuing 
+36 authority shall pay any witness fees, travel expenses, mileage and other fees required 
+37 by the service laws of the state where the witnesses or evidence are located; and
+38 C.  If otherwise permitted by state law, recover from the licensee the costs of 
+39 investigations and disposition of cases resulting from any adverse action taken against 
+40 that licensee.
+Page 6 - 131LR0429(01)16.  Joint investigations.  In addition to the authority granted to a member state by its 
+2 respective physical therapy practice act or other applicable state law, a member state may 
+3 participate with other member states in joint investigations of licensees.
+4 Member states shall share any investigative, litigation or compliance materials in 
+5 furtherance of any joint or individual investigation initiated under the compact.
+6§18708. Establishment of physical therapy compact commission
+71.  Commission established.  The member states hereby create and establish a joint 
+8 public agency known as the physical therapy compact commission.
+9 A.  The commission is an instrumentality of the compact states.
+10 B.  Venue is proper and judicial proceedings by or against the commission must be 
+11 brought solely and exclusively in a court of competent jurisdiction where the principal 
+12 office of the commission is located. The commission may waive venue and 
+13 jurisdictional defenses to the extent it adopts or consents to participate in alternative 
+14 dispute resolution proceedings.
+15 C.  Nothing in this compact may be construed to be a waiver of sovereign immunity.
+162.  Membership; voting; meetings.  Membership, voting and meetings are governed 
+17 by this subsection.
+18 A.  Each member state has and is limited to one delegate selected by that member state's 
+19 licensing board.
+20 B.  The delegate must be either:
+21 (1)  A current member of the licensing board, who is a physical therapist, physical 
+22 therapist assistant or public member; or
+23 (2)  An administrator of the licensing board.
+24 C.  Any delegate may be removed or suspended from office as provided by the law of 
+25 the state from which the delegate is appointed.
+26 D.  The member state licensing board shall fill any vacancy occurring on the 
+27 commission.
+28 E.  Each delegate is entitled to one vote with regard to the promulgation of rules and 
+29 creation of bylaws and must otherwise have an opportunity to participate in the 
+30 business and affairs of the commission.
+31 F.  A delegate shall vote in person or by such other means as provided in the bylaws. 
+32 The bylaws may provide for delegates' participation in meetings by telephone or other 
+33 means of communication.
+34 G.  The commission shall meet at least once during each calendar year. Additional 
+35 meetings must be held as set forth in the bylaws.
+363.  Powers and duties.  The commission has the following powers and duties:
+37 A.  Establish the fiscal year of the commission;
+38 B.  Establish bylaws;
+39 C.  Maintain its financial records in accordance with the bylaws;
+Page 7 - 131LR0429(01)1 D.  Meet and take such actions as are consistent with the provisions of this compact 
+2 and the bylaws;
+3 E.  Promulgate uniform rules to facilitate and coordinate implementation and 
+4 administration of this compact. The rules have the force and effect of law and are 
+5 binding in all member states;
+6 F.  Bring and prosecute legal proceedings or actions in the name of the commission, as 
+7 long as the standing of any state physical therapy licensing board to sue or be sued 
+8 under applicable law is not affected;
+9 G.  Purchase and maintain insurance and bonds;
+10 H.  Borrow, accept or contract for services of personnel, including, but not limited to, 
+11 employees of a member state;
+12 I.  Hire employees, elect or appoint officers, fix compensation, define duties and grant 
+13 such individuals appropriate authority to carry out the purposes of the compact and 
+14 establish the commission's personnel policies and programs relating to conflicts of 
+15 interest, qualifications of personnel and other related personnel matters;
+16 J.  Accept appropriate donations and grants of money, equipment, supplies, materials 
+17 and services and receive, utilize and dispose of the same, as long as at all times the 
+18 commission avoids any appearance of impropriety or conflict of interest;
+19 K.  Lease, purchase, accept appropriate gifts or donations of or otherwise own, hold, 
+20 improve or use any property, real, personal or mixed, as long as at all times the 
+21 commission avoids any appearance of impropriety;
+22 L.  Sell, convey, mortgage, pledge, lease, exchange, abandon or otherwise dispose of 
+23 any property, real, personal or mixed;
+24 M.  Establish a budget and make expenditures;
+25 N.  Borrow money;
+26 O.  Appoint committees, including standing committees composed of members, state 
+27 regulators, state legislators or their representatives and consumer representatives and 
+28 such other interested persons as may be designated in this compact and the bylaws;
+29 P.  Provide and receive information from, and cooperate with, law enforcement 
+30 agencies;
+31 Q.  Establish and elect an executive board; and
+32 R.  Perform such other functions as may be necessary or appropriate to achieve the 
+33 purposes of this compact consistent with the state regulation of physical therapy 
+34 licensure and practice.
+354.  Executive board.  The establishment of an executive board is governed by this 
+36 subsection.
+37 A.  The executive board has the power to act on behalf of the commission according to 
+38 the terms of this compact.
+39 B.  The executive board is composed of 9 members:
+Page 8 - 131LR0429(01)1 (1)  Seven voting members who are elected by the commission from the current 
+2 membership of the commission;
+3 (2)  One ex officio, nonvoting member from a recognized national physical therapy 
+4 professional association; and
+5 (3)  One ex officio, nonvoting member from a recognized membership 
+6 organization of physical therapy licensing boards.
+7 C.  The ex officio members are selected by their respective organizations.
+8 D.  The commission may remove any member of the executive board as provided in 
+9 the bylaws.
+10 E.  The executive board shall meet at least annually.
+11 F.  The executive board has the following duties and responsibilities:
+12 (1)  Recommend to the entire commission changes to the rules or bylaws, changes 
+13 to this compact legislation, fees paid by compact member states such as annual 
+14 dues and any commission compact fee charged to licensees for the compact 
+15 privilege;
+16 (2)  Ensure compact administration services are appropriately provided, 
+17 contractual or otherwise;
+18 (3)  Prepare and recommend the budget;
+19 (4)  Maintain financial records on behalf of the commission;
+20 (5)  Monitor compact compliance of member states and provide compliance reports 
+21 to the commission;
+22 (6)  Establish additional committees as necessary; and
+23 (7)  Other duties as provided in rules or the bylaws.
+245.  Meetings of the commission.  Meetings of the commission are governed by this 
+25 subsection.
+26 A.  All meetings must be open to the public and public notice of meetings must be 
+27 given in the same manner as required under the rule-making provisions in section 
+28 18710.
+29 B.  The commission or the executive board or other committees of the commission may 
+30 convene in a closed, nonpublic meeting if the commission or executive board or other 
+31 committees of the commission must discuss:
+32 (1)  Noncompliance of a member state with its obligations under the compact;
+33 (2)  The employment, compensation, discipline or other matters, practices or 
+34 procedures related to specific employees or other matters related to the 
+35 commission's internal personnel practices and procedures;
+36 (3)  Current, threatened or reasonably anticipated litigation;
+37 (4)  Negotiation of contracts for the purchase, lease or sale of goods, services or 
+38 real estate;
+39 (5)  Accusing any person of a crime or formally censuring any person;
+Page 9 - 131LR0429(01)1 (6)  Disclosure of trade secrets or commercial or financial information that is 
+2 privileged or confidential;
+3 (7)  Disclosure of information of a personal nature where disclosure would 
+4 constitute a clearly unwarranted invasion of personal privacy;
+5 (8)  Disclosure of investigative records compiled for law enforcement purposes;
+6 (9)  Disclosure of information related to any investigative reports prepared by or 
+7 on behalf of or for use of the commission or other committee charged with 
+8 responsibility of investigation or determination of compliance issues pursuant to 
+9 the compact; or
+10 (10)  Matters specifically exempted from disclosure by federal or member state 
+11 law.
+12 C.  If a meeting, or portion of a meeting, is closed pursuant to paragraph B, the 
+13 commission's legal counsel or designee shall certify that the meeting may be closed 
+14 and shall reference each relevant exempting provision.
+15 D.  The commission shall keep minutes that fully and clearly describe all matters 
+16 discussed in a meeting and shall provide a full and accurate summary of actions taken, 
+17 and the reasons therefore, including a description of the views expressed.  All 
+18 documents considered in connection with an action must be identified in the minutes.  
+19 All minutes and documents of a closed meeting must remain under seal, subject to 
+20 release by a majority vote of the commission or order of a court of competent 
+21 jurisdiction.
+226.  Financing of the commission.  Financing of the commission is governed by this 
+23 subsection.
+24 A.  The commission shall pay, or provide for the payment of, the reasonable expenses 
+25 of its establishment, organization and ongoing activities.
+26 B.  The commission may accept any appropriate revenue sources, donations and grants 
+27 of money, equipment, supplies, materials and services.
+28 C.  The commission may levy on and collect an annual assessment from each member 
+29 state or impose fees on other parties to cover the cost of the operations and activities 
+30 of the commission and its staff, which must be in a total amount sufficient to cover its 
+31 annual budget as approved each year for which revenue is not provided by other 
+32 sources.  The aggregate annual assessment amount must be allocated based upon a 
+33 formula to be determined by the commission, which shall promulgate a rule binding 
+34 upon all member states.
+35 D.  The commission may not incur obligations of any kind prior to securing the funds 
+36 adequate to meet the same, and the commission may not pledge the credit of any of the 
+37 member states, except by and with the authority of the member state.
+38 E.  The commission shall keep accurate accounts of all receipts and disbursements.  
+39 The receipts and disbursements of the commission are subject to the audit and 
+40 accounting procedures established under its bylaws; however, all receipts and 
+41 disbursements of funds handled by the commission must be audited yearly by a 
+42 certified or licensed public accountant, and the report of the audit must be included in 
+43 and become part of the annual report of the commission.
+Page 10 - 131LR0429(01)17.  Qualified immunity; defense; indemnification.  Qualified immunity, defense and 
+2 indemnification are governed by this subsection.
+3 A.  The members, officers, executive director, employees and representatives of the 
+4 commission are immune from suit and liability, either personally or in their official 
+5 capacity, for any claim for damage to or loss of property or personal injury or other 
+6 civil liability caused by or arising out of any actual or alleged act, error or omission 
+7 that occurred, or that the person against whom the claim is made had a reasonable basis 
+8 for believing occurred, within the scope of commission employment, duties or 
+9 responsibilities, except that nothing in this paragraph may be construed to protect any 
+10 such person from suit or liability for any damage, loss, injury or liability caused by the 
+11 intentional or willful or wanton misconduct of that person.
+12 B.  The commission shall defend any member, officer, executive director, employee or 
+13 representative of the commission in any civil action seeking to impose liability arising 
+14 out of any actual or alleged act, error or omission that occurred within the scope of 
+15 commission employment, duties or responsibilities, or that the person against whom 
+16 the claim is made had a reasonable basis for believing occurred within the scope of 
+17 commission employment, duties or responsibilities, except that nothing in this 
+18 paragraph may be construed to prohibit that person from retaining that person's own 
+19 counsel, as long as the actual or alleged act, error or omission did not result from that 
+20 person's intentional or willful or wanton misconduct.
+21 C.  The commission shall indemnify and hold harmless any member, officer, executive 
+22 director, employee or representative of the commission for the amount of any 
+23 settlement or judgment obtained against that person arising out of any actual or alleged 
+24 act, error or omission that occurred within the scope of commission employment, duties 
+25 or responsibilities, or that such person had a reasonable basis for believing occurred 
+26 within the scope of commission employment, duties or responsibilities, as long as the 
+27 actual or alleged act, error or omission did not result from the intentional or willful or 
+28 wanton misconduct of that person.
+29§18709. Data system
+301.  Database and reporting system.  The commission shall provide for the 
+31 development, maintenance and utilization of a coordinated database and reporting system 
+32 containing licensure, adverse action and investigative information on all licensed 
+33 individuals in member states.
+342.  Uniform data set submission.  Notwithstanding any other provision of state law to 
+35 the contrary, a member state shall submit a uniform data set to the data system on all 
+36 individuals to whom this compact is applicable as required by the rules of the commission, 
+37 including:
+38 A.  Identifying information;
+39 B.  Licensure data;
+40 C.  Adverse actions against a licensee or compact privilege;
+41 D.  Nonconfidential information related to alternative program participation;
+42 E.  Any denial of application for licensure and the reasons for that denial; and
+Page 11 - 131LR0429(01)1 F.  Other information that may facilitate the administration of this compact, as 
+2 determined by the rules of the commission.
+33.  Investigative information availability.  Investigative information pertaining to a 
+4 licensee in any member state may be made available only to other party states.
+54.  Adverse action information.  The commission shall promptly notify all member 
+6 states of any adverse action taken against a licensee or an individual applying for a license. 
+7 Adverse action information pertaining to a licensee in any member state must be available 
+8 to any other member state.
+95.  Confidential information.  Member states contributing information to the data 
+10 system may designate information that may not be shared with the public without the 
+11 express permission of the contributing state.
+126.  Information expungement.  Any information submitted to the data system that is 
+13 subsequently required to be expunged by the laws of the member state contributing the 
+14 information must be removed from the data system.
+15§18710. Rulemaking
+161.  Powers.  The commission shall exercise its rule-making powers pursuant to the 
+17 criteria set forth in this section and the rules adopted thereunder. Rules and amendments 
+18 become binding as of the date specified in each rule or amendment.
+192.  Rule rejection.  If a majority of the legislatures of the member states rejects a rule, 
+20 by enactment of a law or resolution in the same manner used to adopt the compact within 
+21 4 years of the date of adoption of the rule, then that rule has no further force and effect in 
+22 any member state.
+233.  Rule adoption procedure.  Rules or amendments to the rules must be adopted at a 
+24 regular or special meeting of the commission.
+254.  Notice.  Prior to promulgation and adoption of a final rule or rules by the 
+26 commission, and at least 30 days in advance of the meeting at which the rule will be 
+27 considered and voted upon, the commission shall file a notice of proposed rulemaking:
+28 A.  On the website of the commission or other publicly accessible platform; and
+29 B.  On the website of each member state physical therapy licensing board or other 
+30 publicly accessible platform or the publication in which each state would otherwise 
+31 publish proposed rules.
+325.  Notice requirements.  The notice of proposed rulemaking must include:
+33 A.  The proposed time, date and location of the meeting in which the rule will be 
+34 considered and voted upon;
+35 B.  The text of the proposed rule or amendment and the reason for the proposed rule;
+36 C.  A request for comments on the proposed rule from any interested person; and
+37 D.  The manner in which interested persons may submit notice to the commission of 
+38 their intention to attend the public hearing and any written comments.
+396.  Public comment.  Prior to adoption of a proposed rule, the commission shall allow 
+40 persons to submit written data, facts, opinions and arguments, which must be made 
+41 available to the public.
+Page 12 - 131LR0429(01)17.  Public hearing.  The commission shall grant an opportunity for a public hearing 
+2 before it adopts a rule or amendment if a hearing is requested by:
+3 A.  At least 25 persons;
+4 B.  A state or federal governmental subdivision or agency; or
+5 C.  An association having at least 25 members.
+68.  Hearing notice.  If a hearing is held on the proposed rule or amendment, the 
+7 commission shall publish the place, time and date of the scheduled public hearing. If the 
+8 hearing is held via electronic means, the commission shall publish the mechanism for 
+9 access to the electronic hearing.
+10 A.  All persons wishing to be heard at the hearing must notify the executive director of 
+11 the commission or other designated member in writing of their desire to appear and 
+12 testify at the hearing not less than 5 business days before the scheduled date of the 
+13 hearing.
+14 B.  Hearings must be conducted in a manner providing each person who wishes to 
+15 comment a fair and reasonable opportunity to comment orally or in writing.
+16 C.  All hearings must be recorded.  A copy of the recording must be made available on 
+17 request.
+18 D.  Nothing in this section may be construed as requiring a separate hearing on each 
+19 rule. Rules may be grouped for the convenience of the commission at hearings required 
+20 by this section.
+219.  Consideration.  Following the scheduled hearing date, or by the close of business 
+22 on the scheduled hearing date if the hearing was not held, the commission shall consider 
+23 all written and oral comments received.
+2410.  Proceeding without public hearing.  If no written notice of intent to attend the 
+25 public hearing by interested parties is received, the commission may proceed with 
+26 promulgation of the proposed rule without a public hearing.
+2711.  Final action.  The commission shall, by majority vote of all members, take final 
+28 action on the proposed rule and shall determine the effective date of the rule, if any, based 
+29 on the rule-making record and the full text of the rule.
+3012.  Emergency rulemaking.  Upon determination that an emergency exists, the 
+31 commission may consider and adopt an emergency rule without prior notice, opportunity 
+32 for comment or hearing, as long as the usual rule-making procedures provided in the 
+33 compact and in this section are retroactively applied to the rule as soon as reasonably 
+34 possible, in no event later than 90 days after the effective date of the rule. For the purposes 
+35 of this subsection, "emergency rule" means a rule that must be adopted immediately in 
+36 order to:
+37 A.  Meet an imminent threat to public health, safety or welfare;
+38 B.  Prevent a loss of commission or member state funds;
+39 C.  Meet a deadline for the promulgation of an administrative rule that is established 
+40 by federal law or rule; or
+41 D.  Protect public health and safety.
+Page 13 - 131LR0429(01)113.  Rule revisions.  The commission or an authorized committee of the commission 
+2 may direct revisions to a previously adopted rule or amendment for purposes of correcting 
+3 typographical errors, errors in format, errors in consistency or grammatical errors.  Public 
+4 notice of any revisions must be posted on the website of the commission.  The revision is 
+5 subject to challenge by any person for a period of 30 days after posting.  The revision may 
+6 be challenged only on grounds that the revision results in a material change to a rule.  A 
+7 challenge must be made in writing and delivered to the chair of the commission prior to the 
+8 end of the notice period.  If no challenge is made, the revision takes effect without further 
+9 action. If the revision is challenged, the revision may not take effect without the approval 
+10 of the commission.
+11§18711. Oversight; dispute resolution; enforcement
+121.  Oversight.  Oversight of the compact is governed by this subsection.
+13 A.  The executive, legislative and judicial branches of state government in each 
+14 member state shall enforce this compact and take all actions necessary and appropriate 
+15 to effectuate the compact's purposes and intent.  The provisions of this compact and 
+16 the rules promulgated hereunder have standing as statutory law.
+17 B.  All courts shall take judicial notice of the compact and the rules in any judicial or 
+18 administrative proceeding in a member state pertaining to the subject matter of this 
+19 compact that may affect the powers, responsibilities or actions of the commission.
+20 C.  The commission is entitled to receive service of process in any proceeding under 
+21 paragraph B and has standing to intervene in such a proceeding for all purposes.  
+22 Failure to provide service of process to the commission renders a judgment or order 
+23 void as to the commission, this compact or promulgated rules.
+242.  Default; technical assistance; termination.  Default, technical assistance and 
+25 termination are governed by this subsection.
+26 A.  If the commission determines that a member state has defaulted in the performance 
+27 of its obligations or responsibilities under this compact or the promulgated rules, the 
+28 commission shall:
+29 (1)  Provide written notice to the defaulting state and other member states of the 
+30 nature of the default, the proposed means of curing the default and any other action 
+31 to be taken by the commission; and
+32 (2)  Provide remedial training and specific technical assistance regarding the 
+33 default.
+34 B.  If a state in default fails to cure the default, the defaulting state may be terminated 
+35 from the compact upon an affirmative vote of a majority of the member states, and all 
+36 rights, privileges and benefits conferred by this compact may be terminated on the 
+37 effective date of termination. A cure of the default does not relieve the offending state 
+38 of obligations or liabilities incurred during the period of default.
+39 C.  Termination of membership in the compact may be imposed only after all other 
+40 means of securing compliance have been exhausted.  Notice of intent to suspend or 
+41 terminate must be given by the commission to the governor, the majority and minority 
+42 leaders of the defaulting state's legislature and each of the member states.
+Page 14 - 131LR0429(01)1 D.  A state that has been terminated is responsible for all assessments, obligations and 
+2 liabilities incurred through the effective date of termination, including obligations that 
+3 extend beyond the effective date of termination.
+4 E.  The commission may not bear any costs related to a state that is found to be in 
+5 default or that has been terminated from the compact, unless agreed upon in writing 
+6 between the commission and the defaulting state.
+7 F.  The defaulting state may appeal the action of the commission by petitioning the 
+8 United States District Court for the District of Columbia or the federal district where 
+9 the commission has its principal offices.  The prevailing member must be awarded all 
+10 costs of that litigation, including reasonable attorney's fees.
+113.  Dispute resolution.  Dispute resolution is governed by this subsection.
+12 A.  Upon request by a member state, the commission shall attempt to resolve disputes 
+13 related to the compact that arise among member states and between member and 
+14 nonmember states.
+15 B.  The commission shall promulgate a rule providing for both mediation and binding 
+16 dispute resolution for disputes as appropriate.
+174.  Enforcement.  Enforcement of the compact is governed by this subsection.
+18 A.  The commission, in the reasonable exercise of its discretion, shall enforce the 
+19 provisions and rules of this compact.
+20 B.  By majority vote, the commission may initiate legal action in the United States 
+21 District Court for the District of Columbia or the federal district where the commission 
+22 has its principal offices against a member state in default to enforce compliance with 
+23 the provisions of the compact and its promulgated rules and bylaws. The relief sought 
+24 may include both injunctive relief and damages. In the event judicial enforcement is 
+25 necessary, the prevailing member must be awarded all costs of that litigation, including 
+26 reasonable attorney's fees.
+27 C.  The remedies under this subsection are not the exclusive remedies of the 
+28 commission. The commission may pursue any other remedies available under federal 
+29 or state law.
+30§18712. Date of implementation of compact; associated rules; withdrawal; 
+31amendment
+321.  Effective date.  The compact takes effect on the date on which the compact statute 
+33 is enacted into law in the 10th member state. The provisions of the compact that become 
+34 effective at that time are limited to the powers granted to the commission relating to 
+35 assembly and the promulgation of rules. After the effective date of the compact, the 
+36 commission shall meet and exercise rule-making powers necessary to the implementation 
+37 and administration of the compact.
+382.  Subsequent member states.  Any state that joins the compact subsequent to the 
+39 commission's initial adoption of the rules is subject to the rules as they exist on the date on 
+40 which the compact becomes law in that state. Any rule that has been previously adopted by 
+41 the commission has the full force and effect of law on the day the compact becomes law in 
+42 that state.
+Page 15 - 131LR0429(01)13.  Withdrawal.  Any member state may withdraw from this compact by enacting a 
+2 statute repealing the same.
+3 A.  A member state's withdrawal does not take effect until 6 months after enactment of 
+4 the repealing statute.
+5 B.  Withdrawal does not affect the continuing requirement of the withdrawing state's 
+6 physical therapy licensing board to comply with the investigative and adverse action 
+7 reporting requirements of this chapter prior to the effective date of withdrawal.
+84.  Other agreements or arrangements.  Nothing contained in this compact may be 
+9 construed to invalidate or prevent any physical therapy licensure agreement or other 
+10 cooperative arrangement between a member state and a nonmember state that does not 
+11 conflict with the provisions of this compact.
+125.  Amendment.  This compact may be amended by the member states.  An amendment 
+13 to this compact does not become effective and binding upon any member state until it is 
+14 enacted into the laws of all member states.
+15§18713. Construction and severability
+16 This compact may be liberally construed so as to effectuate the purposes thereof.  The 
+17 provisions of this compact must be severable and if any phrase, clause, sentence or 
+18 provision of this compact is declared to be contrary to the constitution of any party state or 
+19 of the United States or the applicability thereof to any government, agency, person or 
+20 circumstance is held invalid, the validity of the remainder of this compact and the 
+21 applicability thereof to any government, agency, person or circumstance is not affected 
+22 thereby.  If this compact is held contrary to the constitution of any party state, the compact 
+23 remains in full force and effect as to the remaining party states and in full force and effect 
+24 as to the party state affected as to all severable matters.
+25PART B
+26Sec. B-1.  25 MRSA §1542-A, sub-§1, ¶AA is enacted to read:
+27 AA.  Who is required to have a criminal history record check under Title 32, section 
+28 3114-D.
+29Sec. B-2.  25 MRSA §1542-A, sub-§3, ¶Z is enacted to read:
+30 Z.  The State Police shall take or cause to be taken the fingerprints of the person named 
+31 in subsection 1, paragraph AA at the request of that person or the Board of Examiners 
+32 in Physical Therapy and upon payment of the fee as provided under Title 32, section 
+33 3114-D.
+34Sec. B-3.  32 MRSA §3114-D is enacted to read:
+35§3114-D.  Criminal history record information; fees
+361.  Background check.  The board shall request a background check for each person 
+37 who submits an application for initial licensure under this chapter.  The background check 
+38 must include criminal history record information obtained from the Maine Criminal Justice 
+39 Information System, created pursuant to Title 16, section 631, and the Federal Bureau of 
+40 Investigation.  
+Page 16 - 131LR0429(01)1 A.  The criminal history record information obtained from the Maine Criminal Justice 
+2 Information System, created pursuant to Title 16, section 631, must include a record of 
+3 public criminal history record information as defined in Title 16, section 703, 
+4 subsection 8.
+5 B.  The criminal history record information obtained from the Federal Bureau of 
+6 Investigation must include other state and national criminal history record information.
+7 C.  An applicant shall submit to having fingerprints taken.  The Department of Public 
+8 Safety, Bureau of State Police, upon payment of a fee established by the board by rule 
+9 by the applicant, shall take or cause to be taken the applicant's fingerprints and shall 
+10 immediately transmit the fingerprints to the Department of Public Safety, Bureau of 
+11 State Police, State Bureau of Identification so that the State Bureau of Identification 
+12 can conduct state and national criminal history record checks.  Except for the portion 
+13 of the payment, if any, that constitutes the processing fee charged by the Federal 
+14 Bureau of Investigation, all money received by the State Police for purposes of this 
+15 paragraph must be paid over to the Treasurer of State.  The money must be applied to 
+16 the expenses of administration incurred by the Department of Public Safety.  Any 
+17 person who fails to transmit criminal fingerprint records to the State Bureau of 
+18 Identification pursuant to this paragraph is subject to the provisions of Title 25, section 
+19 1550.
+20 D.  The subject of a Federal Bureau of Investigation criminal history record check may 
+21 obtain a copy of the criminal history record check by following the procedures outlined 
+22 in 28 Code of Federal Regulations, Sections 16.32 and 16.33.  The subject of a state 
+23 criminal history record check may inspect and review the criminal history record 
+24 information pursuant to Title 16, section 709.
+25 E.  State and federal criminal history record information may be used by the board for 
+26 the purpose of screening each applicant.  A board action against an applicant under this 
+27 subsection is subject to the provisions of Title 5, chapter 341.
+28 F.  Information obtained pursuant to this subsection is confidential.  The results of 
+29 background checks received by the board are for official use only and may not be 
+30 disseminated to any other person or entity.
+31 G.  An applicant whose license has expired and who has not applied for renewal may 
+32 request in writing that the Department of Public Safety, Bureau of State Police, State 
+33 Bureau of Identification remove the applicant's fingerprints from the State Bureau of 
+34 Identification's fingerprint file.  In response to a written request, the bureau shall 
+35 remove the applicant's fingerprints from the fingerprint file and provide written 
+36 confirmation of that removal.
+372.  Rules.  The board, following consultation with the Department of Public Safety, 
+38 Bureau of State Police, State Bureau of Identification, shall adopt rules to implement this 
+39 section.  Rules adopted pursuant to this subsection are routine technical rules as defined in 
+40 Title 5, chapter 375, subchapter 2‑A.
+41SUMMARY
+42 Part A of this bill enacts the Physical Therapy Licensure Compact, which provides a 
+43 mechanism to facilitate interstate practice by licensed professional physical therapists and 42
+43
+Page 17 - 131LR0429(01)44 physical therapist assistants in order to improve public access to professional physical 
+45 therapy services. 
+3 The form, format and text of the Physical Therapy Licensure Compact have been 
+4 changed minimally so as to conform to Maine statutory conventions. The changes are 
+5 technical in nature and it is the intent of the Legislature that this compact be interpreted as 
+6 substantively the same as the Physical Therapy Licensure Compact that is enacted by other 
+7 member states.
+8 Part B of this bill requires that all applicants for initial licensure as a physical therapist 
+9 or physical therapist assistant undergo a background check, which includes fingerprints and 
+10 criminal history record information.1
+2

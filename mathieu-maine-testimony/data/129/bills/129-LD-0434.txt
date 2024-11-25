@@ -1,0 +1,154 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 434
+H.P. 343 House of  Representatives, January 29, 2019
+An Act  To Price Carbon Pollution in Maine
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative RYKERSON  of Kittery.
+Cosponsored by Senator MIRAMANT  of Knox and
+Representatives: AUSTIN of Skowhegan, BABBIDGE of Kennebunk, BEEBE-CENTER  of 
+Rockland, BERRY of Bowdoinham, BLUME of York, BROOKS of Lewiston, BRYANT of Windham, CARDONE of Bangor, CARNEY of Cape Elizabeth, COOPER of Yarmouth, CRAVEN of Lewiston,  DAUGHTRY  of Brunswick, DODGE  of Belfast,  DOORE of Augusta, 
+DOUDERA of Camden,  DUNPHY of  Old Town, EVANGELOS of  Friendship,  
+FARNSWORTH of  Portland, FAY of Raymond, FOLEY of Biddeford, Speaker  GIDEON  of 
+Freeport, GRAMLICH of Old Orchard Beach, GROHOSKI of Ellsworth, HANDY of Lewiston, HARNETT of Gardiner, HEPLER of Woolwich, HOBBS  of Wells,  HUBBELL  of 
+Bar Harbor, HYMANSON of York, INGWERSEN of Arundel, JORGENSEN of Portland, KORNFIELD of Bangor,  LANDRY of Farmington, MADIGAN  of Waterville,  MATLACK of 
+St. George, McCREA of Fort Fairfield, McCREIGHT of Harpswell, MEYER of Eliot, O'NEIL of Saco, PEBWORTH of Blue Hill, PERRY of Calais, RECKITT of South Portland, ROBERTS-LOVELL of  South Berwick,  SCHNECK  of Bangor,  SHARPE  of Durham,  
+STOVER of Boothbay, SYLVESTER of Portland, TEPLER of Topsham, TIPPING  of Orono,  
+TUCKER of  Brunswick, WARREN  of Hallowell,  ZEIGLER of Montville, Senators: 
+BELLOWS of Kennebec, BREEN of Cumberland,  DILL of Penobscot, GRATWICK  of 
+Penobscot, MILLETT of  Cumberland, SANBORN,  H. of Cumberland, SANBORN,  L. of 
+Cumberland, VITELLI  of Sagadahoc.
+
+Page 1 - 129LR0187(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §1508-A, sub-§1, as amended by PL 2011, c. 623, Pt. B, §5, 
+3is further amended to read:
+41.  Penalty.  Unless otherwise specified in law, the commission may, in an 
+5adjudicatory proceeding, impose an administrative penalty as specified in this section.
+6A.  For willful violations of this Title, a commission rule or a commission order by a 
+7public utility, voice service provider, dark fiber provider, wholesale competitive local 
+8exchange carrier or a, competitive electricity provider or distributor as defined in 
+9section 4451, subsection 1, the commission may impose an administrative penalty for 
+10each violation in an amount that does not exceed $5,000 or .25% of the annual gross 
+11revenue that the public utility, voice service provider, dark fiber provider, wholesale 
+12competitive local exchange carrier or the, competitive electricity provider or 
+13distributor as defined in section 4451, subsection 1 received from sales in the State, 
+14whichever amount is lower.  Each day a violation continues constitutes a separate 
+15offense.  The maximum administrative penalty for any related series of violations 
+16may not exceed $500,000 or 5% of the annual gross revenue that the public utility, 
+17voice service provider, dark fiber provider, wholesale competitive local exchange 
+18carrier or the, competitive electricity provider or distributor as defined in section 
+194451, subsection 1 received from sales in the State, whichever amount is lower.
+20B.  For a violation in which a public utility, voice service provider, dark fiber 
+21provider, wholesale competitive local exchange carrier or a, competitive electricity 
+22provider or distributor as defined in section 4451, subsection 1 was explicitly notified 
+23by the commission that it was not in compliance with the requirements of this Title, a 
+24commission rule or a commission order and that failure to comply could result in the 
+25imposition of administrative penalties, the commission may impose an administrative 
+26penalty that does not exceed $500,000.
+27C.  The commission may impose an administrative penalty in an amount that does not 
+28exceed $1,000 on any person that is not a public utility, voice service provider, dark 
+29fiber provider, wholesale competitive local exchange carrier or a, competitive 
+30electricity provider or distributor as defined in section 4451, subsection 1 and that 
+31violates this Title, a commission rule or a commission order.  Each day a violation 
+32continues constitutes a separate offense.  The administrative penalty may not exceed 
+33$25,000 for any related series of violations.
+34D.    In addition to the administrative penalties authorized by this subsection, the 
+35commission may require disgorgement of profits or revenues realized as a result of a 
+36violation of this Title, a commission rule or a commission order.
+37Sec. 2.  35-A MRSA c. 44-A is enacted to read:
+38CHAPTER 44-A
+39CARBON CONTENT ASSESSMENT
+Page 2 - 129LR0187(01)-11§4451.  Carbon content assessment; Carbon Content Assessment Fund
+21.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+3following terms have the following meanings.
+4A.  "Distributor" means a person that imports or causes to be imported fuel for use, 
+5distribution or sale within the State or a person that produces, refines, manufactures 
+6or compounds fuel within the State for use, distribution or sale.
+7B.  "Fuel" means each form and grade of butane, coal, clear diesel fuel, gasoline, fuel 
+8oil, kerosene, natural gas and propane, but does not include dyed diesel fuel or jet 
+9fuel.
+10C.  "Fund" means the Carbon Content Assessment Fund established in subsection 4.
+112.  Carbon content assessment.  On a monthly basis the commission shall, in 
+12accordance with this section, collect from a distributor an assessment on the carbon 
+13content of fuel on each unit of fuel sold by that distributor in the State and transfer any 
+14assessment it collects under this section to the fund.
+15A.  The assessment is $5 per metric ton of carbon content during fiscal year 2020-21 
+16and increases by $5 per metric ton each fiscal year from fiscal year 2021-22 to fiscal 
+17year 2027-28, remaining at $40 per metric ton each fiscal year thereafter.
+18B.  For each fuel, the commission shall convert the amount per metric ton to a rate 
+19per unit of fuel using the most recent applicable carbon dioxide emissions coefficient 
+20published by the United States Energy Information Administration.  On or before 
+21June 15th of each year, the commission shall publish the rate per unit of fuel that will 
+22be in effect during the following fiscal year for each fuel.
+23The assessment does not apply to the sale of electricity.
+243.  Collection of the assessment by a distributor.  A distributor shall collect the 
+25assessment required under this section on completion of each sale or delivery of fuel to 
+26which the assessment applies.  The distributor shall identify the assessment collected as a 
+27separate invoice entry on each sale or delivery of fuel.  On or before the 15th day of each 
+28month, the distributor shall submit to the commission the following:
+29A.  A statement containing its name and place of business;
+30B.  The quantity and type of fuel subject to the assessment sold in the preceding 
+31calendar month;
+32C.  The assessment due for the fuel sold in the preceding calendar month; and
+33D.  Any other information required by the commission.
+344.  Carbon Content Assessment Fund.  The Carbon Content Assessment Fund is 
+35established.  The fund is a nonlapsing fund and is administered by the commission in 
+36accordance with this section.  Any interest earned on funds in the fund must be credited 
+37to the fund, and funds not spent in any fiscal year remain in the fund to be used in 
+38accordance with this section.  The commission shall deposit any assessment it collects in 
+39accordance with this section into the fund.
+Page 3 - 129LR0187(01)-11A.  At the end of each fiscal year, the commission shall disburse from the fund the 
+2assessments collected in that fiscal year to transmission and distribution utilities in 
+3the State.
+4B.  The commission shall require the funds disbursed to transmission and distribution 
+5utilities in the State pursuant to paragraph A to be used to reduce the rates of those 
+6utilities' customers in a manner that is equitable and that provides maximum benefit 
+7to the economy of the State.
+8The commission may use funds in the fund to cover administrative costs associated with 
+9implementing this section. 
+105.  Administration.  The commission may review the books and records of a 
+11distributor to ensure that reported fuel sales are accurate.  The commission may impose 
+12on a distributor that fails to accurately report its sales or submit the required assessment 
+13in accordance with this section an administrative penalty in accordance with section 
+141508-A.
+156.  Rules.  The commission shall adopt rules to implement this section.  Rules 
+16adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+17chapter 375, subchapter 2-A.
+18SUMMARY
+19This bill requires an assessment on the carbon content of fuels sold by a distributor in 
+20the State.  The bill defines "distributor" and requires a distributor to submit on a monthly 
+21basis the required assessment to the Public Utilities Commission.  The commission is 
+22required to transfer any assessment it receives to the Carbon Content Assessment Fund, 
+23which the bill establishes.  The bill requires the commission at the end of each fiscal year 
+24to transfer funds from the fund to transmission and distribution utilities in the State.  The 
+25funds are to be used to reduce the rates of those utilities' customers in a manner that is 
+26equitable and that provides maximum benefit to the economy of the State.  The bill gives 
+27the commission the authority to review the books and records of a distributor and to 
+28impose an administrative penalty if necessary.  It requires the commission to adopt 
+29routine technical rules.

@@ -1,0 +1,106 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1585
+H.P. 1174 House of  Representatives,  April 27, 2021
+An Act  To Increase Privacy and Security by Prohibiting the Use of 
+Facial Surveillance by  Certain Government  Employees and Officials
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative LOOKNER of Portland.
+Cosponsored by Representatives:  EVANGELOS  of Friendship, HARNETT of Gardiner, 
+MORALES of South  Portland, O'NEIL  of Saco,  PLUECKER of Warren,  TALBOT  ROSS of  
+Portland, WARREN of  Hallowell, Senator: MAXMIN of Lincoln.
+
+Page 1 - 130LR1228(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  25 MRSA Pt. 14 is enacted to read:
+3PART 14
+4SURVEILLANCE 
+5CHAPTER 701
+6FACIAL SURVEILLANCE
+7§6001.  Facial surveillance
+81.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+9 following terms have the following meanings.
+10 A.  "Facial surveillance" means an automated or semi-automated process that assists in 
+11 identifying or verifying an individual, or in capturing information about an individual, 
+12 based on the physical characteristics of an individual's face.
+13 B.  "Facial surveillance system" means any computer software or application that 
+14 performs facial surveillance.
+15 C.  "Public employee" means a person employed by the State, a county, a municipality 
+16 or any entity identified in statute as a public instrumentality.
+17 D.  "Public official" means a person elected or appointed to a public office that is part 
+18 of the State, a county, a municipality or any entity identified in statute as a public 
+19 instrumentality.
+202.  Public employee or public official use of facial surveillance.  The following 
+21 provisions govern the use of facial surveillance by a public employee or public official.
+22 A.  A public employee or public official may not:
+23 (1)  Obtain, retain, possess, access or use a facial surveillance system or 
+24 information derived from a facial surveillance system;
+25 (2)  Enter into an agreement with a 3rd party for the purpose of obtaining, retaining, 
+26 possessing, accessing or using, by or on behalf of a public employee or public 
+27 official, a facial surveillance system; or
+28 (3)  Issue a permit or enter into any other agreement that authorizes a 3rd party to 
+29 obtain, retain, possess, access or use a facial surveillance system or information 
+30 derived from a facial surveillance system.
+31 B.  Nothing in paragraph A prohibits a public employee or public official from:
+32 (1)  Using evidence relating to an investigation of a specific crime that may have 
+33 been generated from a facial surveillance system;
+34 (2)  Obtaining or possessing an electronic device, such as a cell phone or computer, 
+35 for evidentiary purposes or an electronic device, such as a cell phone or tablet, that 
+36 performs facial surveillance for the sole purpose of user authentication;
+Page 2 - 130LR1228(01)1 (3)  Using facial recognition on an electronic device, such as a cell phone or tablet, 
+2 owned by a public employee or public official for the sole purpose of user 
+3 authentication;
+4 (4)  Using social media or communications software or applications for 
+5 communicating with the public as long as such use does not include the affirmative 
+6 use of facial surveillance;
+7 (5)  Using automated redaction software as long as such software does not have 
+8 the capability of performing facial surveillance; and
+9 (6)  Complying with the National Child Search Assistance Act of 1990, 34 United 
+10 States Code, Sections 41307 and 41308 (2021).
+113.  Enforcement.  The following provisions govern enforcement.
+12 A.  Facial surveillance data collected or derived in violation of this section must be 
+13 considered unlawfully obtained and must be deleted upon discovery, subject to 
+14 applicable law.
+15 B.  Data collected or derived from any use of facial surveillance in violation of this 
+16 section and evidence derived therefrom may not be received in evidence in any 
+17 proceeding in or before any department, officer, agency, regulatory body, legislative 
+18 committee or authority subject to the jurisdiction of the State.
+19 C.  A violation of this section constitutes an injury, and a person may institute 
+20 proceedings for injunctive relief, declaratory relief or writ of mandate in any court of 
+21 competent jurisdiction to enforce this section.  An action instituted under this paragraph 
+22 must be brought against the respective public employee or public official necessary to 
+23 effectuate compliance with this section and any other governmental agency with 
+24 possession, custody or control of data subject to this section.
+25 D.  A violation of this section by a public employee or public official must result in 
+26 consequences that may include retraining, suspension or termination, subject to due 
+27 process requirements and provisions of a collective bargaining agreement.
+28 E.  Nothing in this section may be construed to limit any individual's rights under state 
+29 or federal law.
+30SUMMARY
+31 This bill prohibits the use of facial surveillance by public employees and public 
+32 officials subject to certain exceptions.31
+32

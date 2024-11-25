@@ -1,0 +1,56 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 990
+S.P. 409 In Senate, March 4, 2023
+An Act to Authorize State Special Purpose Depository Institutions 
+for Digital Assets
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRAKEY of Androscoggin.
+Cosponsored by Representatives: BOYER of Poland, LANIGAN of Sanford, MORRIS of 
+Turner.
+
+Page 1 - 131LR1742(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  9-B MRSA §1236, as enacted by PL 1997, c. 398, Pt. J, §2, is repealed and 
+3 the following enacted in its place:
+4§1236.  Deposits
+51.  Retail deposit activities.  Except as provided in subsection 2, an uninsured bank 
+6 may not engage in retail deposit activities. The superintendent shall define deposit activities 
+7 that do not constitute retail deposit activities by rule, taking account of the size or nature of 
+8 depositors and deposit accounts.
+92.  Deposits of virtual currency.  Notwithstanding any provision of law to the 
+10 contrary, an uninsured bank may receive deposits of virtual currency as defined in Title 32, 
+11 section 6102, subsection 15 or other digital assets.
+12SUMMARY
+13 Current law authorizes the organization of a special purpose financial institution called 
+14 an uninsured bank that does not take retail deposits and is not required to maintain federal 
+15 deposit insurance. This bill makes clear that this type of financial institution may hold 
+16 virtual currency or other digital assets.13
+14
+15
+16

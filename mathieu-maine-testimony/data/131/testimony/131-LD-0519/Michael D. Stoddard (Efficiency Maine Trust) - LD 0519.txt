@@ -1,0 +1,67 @@
+Testimony of the Efficiency Maine Trust 
+Michael D. Stoddard, Executive Director 
+NEITHER FOR NOR AGAINST (NFNA) 
+LD 519 - Resolve, to Conduct a Vehicle-to-Grid Pilot Project Using Electric School Buses 
+Presented to the Joint Committee on Energy, Utilities and Technology (EUT) 
+March 6, 2023 
+Senator Lawrence, Representative Zeigler, and Members of the Committee on Energy, Utilities and 
+Technology, the Efficiency Maine Trust (the Trust) appreciates the opportunity to testify today neither 
+for nor against LD 519 - Resolve, to Conduct a Vehicle-to-Grid Pilot Project Using Electric School 
+Buses. We offer the following comments on the bill as drafted for your consideration: 
+1. The Trust strongly supports policies and programs seeking to accelerate l\/laine's transition to electric 
+vehicles (EVs), and to minimize the associated costs of this transition to EVs while maximizing the 
+beneﬁts to electricity ratepayers. 
+2. The Trust recognizes that, it is possible, in theory, to harvest value from the large batteries in electric 
+school buses by dispatching their stored electricity onto the grid (vehicle-to-grid or "V2G") at times 
+when the batteries are not needed for propelling the buses and when the grid would value these 
+dispatches the most. 
+3. The Trust currently has all the authority it needs to run a pilot project on V26. In essence, V26 is an 
+energy storage project. (Efficiency l\/laine is currently running another pilot project to test the cost- 
+effectiveness of large batteries at critical care facilities and other commercial or industrial facilities.) it 
+has a budget, already approved by approved the Trust Board and the Public Utilities Commission, for 
+electric efficiency pilot projects of approximately $500,000 for next year, and a similar amount for the 
+following year. 
+4. The chief questions that the Trust has with this proposal to pilot VZG using electric school buses are: 
+a. what is a reasonable estimate of the range (low to high) of costs to run a V2G pilot project? 
+b. what characteristics of a V2G project, including such factors as existing capacity of the utility 
+distribution circuit where the batteries are located to accommodate dispatches, 
+c. what is the value of the potential benefits?
+2 
+6. We appreciate the Sponsor's approach of having reached out to EMT when this bill was still in the 
+early concept stages, and for engaging with us to think about the proposal. We agree with the Sponsor 
+that the approach of using a Resolve was more appropriate than proposing a change to the statute. 
+7. Uncertainty of costs. The Trust has researched all similar V2G pilot projects across the country where 
+the results have been published, and has conferred with the school bus company that will manage the 
+buses in Wells-Ogunquit, and we have spoken to CMP about the possible costs of transformers and grid 
+interconnection. The Trust estimates that the costs for a V2G will include, but not be limited to: 
+0 Between $7,000 and $48,000 to upgrade an EV charger to accommodate V2G dispatching; 
+0 Between $15,000 - $30,000 for early replacement of the EV battery during its lifetime due to 
+degradation from repeated discharging; 
+0 Between $10,000 and $25,000 to upgrade the transformer; 
+0 Between $2,000 and $120,000 for software and controls; 
+0 Between $80,000 and $175,000 for consultants/sub-contractors to operate the pilot, dispatch 
+the batteries (this is based on a 2019 pilot by PSEG in Long Island for a pilot with three EV buses 
+that had expenses of $190,000 for consultants/sub-contractors to operate the pilot). 
+These costs do not include any additional costs to compensate the battery owners for 
+dispatching the batteries to the grid, nor any costs for interconnecting to the grid. CMP 
+informed the Trust that they could not provide a cost estimate for interconnection until an 
+interconnection study could be completed. These costs also do not include any amount for 
+EMT's staff time. 
+8. Current rules around such battery installations have implications for sizing the interconnection (and 
+determining its cost) and for compensating dispatches. (Batteries are not considered eligible for Net 
+Energy Billing under current Maine policy.) 
+9. Given the uncertainty of costs, if this Resolve is approved the Trust would ask that the language be modified 
+to clarify that the decision to proceed, and the nature of the pilot design, and the strategy for implementing the 
+pilot, be left to the Trust's discretion. Among other things, this would empower the Trust to seek out and pursue 
+specific conditions of the site to minimize costs and maximize benefits. It would also enable the Trust to 
+discontinue the pilot if it determines that the costs are so significant that they outstrip the Trust's available 
+lnnovation Program budgets or draw into question the viability of using electric school buses in this way. The 
+Trust suggests that this Resolve be amended to: ask the Trust to consider conducting a V2G pilot and to 
+determine whether: (a) there is a reasonable likelihood that the V2G technology/application has a pathway to 
+being cost-effective; (b) the Trust has available budget to pursue a 2-year pilot; (c) Efficiency Maine sees a path 
+forward to design and implement a pilot within the budget of its lnnovation program; and (d) the potential 
+benefits for a V2G pilot are greater than other competing options for the use of the available lnnovation budget. 
+Respectfully submitted, 
+[s[MDS 
+Michael D. Stoddard 
+168 Capitol Street, Suite 1, Augusta, ME 04330 l (866) 376-2463 l efficiencymainecom

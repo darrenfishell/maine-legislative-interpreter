@@ -1,0 +1,302 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1391  
+H.P. 941  House of Representatives, May 6, 2015  
+ 
+ 
+An Act Regarding the Treatment of Forensic Patients  
+ 
+(AFTER DEADLINE)  
+ 
+ 
+ 
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+205. 
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative MALABY of Hancock.  
+Cosponsored by Senator KATZ of Kennebec and  
+Representatives: HARLOW of Portland, HEAD of Bethel, SANDERSON of Chelsea, 
+VACHON of Scarborough, Senator: BRAKEY of Androscoggin.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1977(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  15 MRSA §§106 and 107 are enacted to read:  2 
+§106.  Involuntary medication of incompetent defendant  3 
+1.  Definition.  As used in this section, "commissioner" means the Commissioner of 4 
+Heal th and Human Services or the commissioner's designee.  5 
+2.  Notice required; contents.  At any time after a defendant has been found 6 
+incompetent to proceed and has been committed to the custody of the commissioner 7 
+under section 101 -D, subsection 5, the commi ssioner shall notify the court, prosecuting 8 
+attorney and attorney for the defendant if the commissioner has determined that the 9 
+defendant is not consenting to or responding to treatment and is unlikely to be restored to 10 
+competency without the administratio n of antipsychotic medication over the defendant's 11 
+objection.  The commissioner shall provide this notice only if there is no basis for 12 
+involuntarily medicating the defendant other than to restore the defendant's competency.  13 
+The commissioner shall state i n the notice whether the commissioner believes that:  14 
+A.  Medication is necessary to render the defendant competent;  15 
+B.  Medication is substantially likely to render the defendant competent;  16 
+C.  Medication is substantially unlikely to produce side effects t hat would 17 
+significantly interfere with the defendant's ability to assist in the defendant's defense;  18 
+D.  No less intrusive means of treatment are available; and  19 
+E.  Medication is medically appropriate and is in the defendant's best medical interest 20 
+in ligh t of the defendant's medical condition.  21 
+The commissioner shall also state in the notice whether less intrusive means of treatment 22 
+have been attempted to render the defendant competent.  23 
+3.  Court authorization.  The following provisions govern court authori zation for 24 
+the involuntary medication of a defendant under this section.  25 
+A.  Upon receipt of the notice under subsection 2, the prosecuting attorney shall 26 
+assess whether important state interests are at stake in restoring the defendant's 27 
+competency and sha ll promptly notify the commissioner of the result of that 28 
+assessment.  If the prosecuting attorney determines that important state interests are at 29 
+stake, the prosecuting attorney shall file a motion seeking court authorization for 30 
+involuntary medication o f the defendant, and the court shall conduct a hearing within 31 
+30 days of the filing of the motion, unless the court extends the time for good cause.  32 
+B.  The court, in determining whether a defendant should be medicated over the 33 
+defendant's objection, shall  consider whether:  34 
+(1)  Important state interests are at stake in restoring the defendant's competency;  35 
+(2)  Involuntary medication will significantly further important state interests, in 36 
+that the medication proposed:  37 
+ 
+ Page 2 - 127LR1977(01) -1 
+ (a)  Is substantially likely to rende r the defendant competent to stand trial; 1 
+and 2 
+(b)  Is substantially unlikely to produce side effects that would significantly 3 
+interfere with the defendant's ability to assist the defense counsel in 4 
+conducting the defendant's defense;  5 
+(3)  Involuntary medic ation is necessary to further important state interests;  6 
+(4)  Any alternate less intrusive treatments are likely to achieve substantially the 7 
+same results; and  8 
+(5)  The administration of the proposed medication is medically appropriate, as it 9 
+is in the def endant's best medical interest in light of the defendant's medical 10 
+condition.  11 
+4.  Potential penalty not relevant.  In determining under subsection 2 or 3 whether 12 
+the proposed treatment is medically appropriate and is in the defendant's best medical 13 
+interes t, the potential penalty to which the defendant may be subject if the defendant is 14 
+convicted of any charged offense is not a relevant consideration.  15 
+5.  Findings; order.  If the court finds by clear and convincing evidence that the 16 
+involuntary administrati on of antipsychotic medication to a defendant under this section 17 
+is necessary and appropriate, it shall make findings addressing each of the factors in 18 
+subsection 3, paragraph B and shall issue an order authorizing the administration of 19 
+antipsychotic medic ation to the defendant over the defendant's objection in order to 20 
+restore the defendant to competency.  When issuing the order, the court may order that 21 
+medication may be administered by more intrusive methods only if the defendant has 22 
+refused administrati on by less intrusive methods.  The court may order that the 23 
+commissioner report to the court within a reasonable period following entry of the order 24 
+as to whether the authorized treatment remains appropriate.  25 
+6.  Application.  This section applies only if the prosecuting attorney seeks an order 26 
+of involuntary medication for the purpose of rendering a defendant competent to proceed.  27 
+§107.  Involuntary medication of patient  28 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the  29 
+following terms have the following meanings.  30 
+A.  "Commissioner" means the Commissioner of Health and Human Services.  31 
+B.  "Department" means the Department of Health and Human Services.  32 
+C.  "Gravely disabled" means unable to provide for basic needs for foo d, clothing or 33 
+shelter because of a mental illness or disorder.  34 
+D.  "Patient" means a person held in a hospital under section 101 -D or 103.  35 
+E.  "Psychiatrist" includes a physician assistant working under the supervision of a 36 
+psychiatrist and a psychiatric nurse practitioner.  37 
+ 
+ Page 3 - 127LR1977(01) -1 
+ 2.  Administration of psychiatric medication over objection prohibited; 1 
+exceptions.  A patient may not be administered psychiatric medication over the objection 2 
+of the patient except:  3 
+A.  As ordered by the court under section 106;  4 
+B.  In accordance with an advance health care directive;  5 
+C.  For a patient under guardianship, as authorized by the guardian; or  6 
+D.  For a patient who is not under guardianship, for whom no advance health care 7 
+directive is known to be in effect and for whom no administration of medication 8 
+under section 106 has been ordered, as provided in subsection 3.  9 
+3.  Involuntary medication on nonemergency basis.  A hospital may seek to initiate 10 
+involuntary medication of a patient under this section on a nonemergency basis only if all 11 
+of the following conditions have been met:  12 
+A.  A psychiatrist has determined that the patient has a mental illness or disorder;  13 
+B.  A psychiatrist has determined that, as a result of the patient's mental illness or 14 
+disorder, the patient is grav ely disabled and lacks the capacity to consent to or refuse 15 
+treatment with psychiatric medication or the patient is a danger to self or others;  16 
+C.  A psychiatrist has determined that the patient should be treated with psychiatric 17 
+medication and has prescri bed one or more psychiatric medications for the treatment 18 
+of the patient's mental illness or disorder, has considered the risks and benefits of and 19 
+treatment alternatives to involuntary medication and has determined that the need for 20 
+treatment outweighs th e risks and side effects;  21 
+D.  The patient has been advised of the risks and benefits of and treatment 22 
+alternatives to the psychiatric medication and refuses or is unable to consent to the 23 
+administration of the medication;  24 
+E.  The patient is provided a hear ing before a hearing officer.  The hearing must be 25 
+held not more than 14 days after the filing of the notice by the hospital pursuant to 26 
+paragraph G with the department's office of administrative hearings, unless counsel 27 
+for the patient agrees to extend th e date of the hearing;  28 
+F.  The patient is provided counsel at the department's expense at least 7 days prior to 29 
+the hearing under paragraph E;  30 
+G.  The patient and counsel are provided with written notice of the hearing under 31 
+paragraph E by the hospital at least 7 days prior to the hearing. The written notice 32 
+must:  33 
+(1)  Set forth the patient's diagnosis, the factual basis for the diagnosis, the basis 34 
+upon which psychiatric medication is recommended, the expected benefits, 35 
+potential side effects and risks of the medication to the patient and treatment 36 
+alternatives to medication, if any;  37 
+(2)  Advise the patient of the right to be present at the hearing, the right to be 38 
+represented by counsel, the right to present evidence and the right to cross - 39 
+ 
+ Page 4 - 127LR1977(01) -1 
+ examine witnesse s.  Counsel for the patient must have access to all medical 1 
+records and files of the patient; and  2 
+(3)  Inform the patient of the patient's right to file an appeal in Superior Court of 3 
+a decision of the commissioner authorizing involuntary treatment.  4 
+Failur e of the hospital to provide timely or adequate notice pursuant to this paragraph 5 
+may be excused only upon a showing of good cause and the absence of prejudice to 6 
+the patient. In making this determination, the hearing officer may consider factors 7 
+including , but not limited to, the ability of the patient's counsel to prepare the case 8 
+adequately and to confer with the patient, the continuity of care and, if applicable, the 9 
+need for protection of the patient or institutional staff that would be compromised by 10 
+a procedural default;  11 
+H.  The hearing officer at the hearing under paragraph E determines by clear and 12 
+convincing evidence that:  13 
+(1)  The patient has a mental illness or disorder;  14 
+(2)  As a result of that illness or disorder the patient is gravely disabled  and lacks 15 
+the capacity to consent to or refuse treatment with psychiatric medication or the 16 
+patient is a danger to self or others if not medicated;  17 
+(3)  There is no less intrusive alternative to involuntary medication; and  18 
+(4)  The need for treatment outw eighs the risks and side effects;  19 
+I.  The hearing officer at the hearing under paragraph E recommends to the 20 
+commissioner that an order authorizing administration of involuntary medication be 21 
+issued;  22 
+J.  The commissioner issues an order authorizing adminis tration of involuntary 23 
+medication.  The decision whether to issue an order authorizing administration of 24 
+involuntary medication rests with the commissioner.  An order authorizing 25 
+administration of involuntary medication provides authority to undertake proc edures 26 
+and administer medication to monitor and manage side effects, all consistent with 27 
+medical standards of care; and  28 
+K.  The historical course of the patient's mental illness or disorder, as determined by 29 
+available relevant information about the course of the patient's mental illness or 30 
+disorder, is considered when it has direct bearing on the determination of whether the 31 
+patient, as the result of a mental illness or disorder, is a danger to self or others or is 32 
+gravely disabled and lacks the capacity to  consent to or refuse treatment.  33 
+4.  Emergency action.  Nothing in this section prohibits a physician from taking 34 
+appropriate action in an emergency, as defined by the department in rules adopted 35 
+pursuant to Title 34 -B, section 3003 and in accordance with procedures contained in 36 
+those rules.  37 
+5.  Effective date and expiration of order.  An order authorizing involuntary 38 
+medication pursuant to subsection 3 is effective 24 hours after it is issued and expires one 39 
+year after the date of the order, unless a new a uthorization is given pursuant to the 40 
+procedures set forth in subsection 7 or authorization is terminated early based on a 41 
+ 
+ Page 5 - 127LR1977(01) -1 
+ significant change to the patient's medical condition such that the need for treatment no 1 
+longer outweighs the risks and side effects  pursuant to the procedures set forth in 2 
+subsection 8.  3 
+6.  Effect of subsequent consent.  A patient's subsequent informed consent does not 4 
+abrogate an order authorizing involuntary medication under this section.  5 
+7.  Extension.  To extend an authorization t hat is in effect allowing involuntary 6 
+medication under this section, the hospital shall, no later than 21 days prior to the 7 
+expiration of the authorization, file with the department's office of administrative hearings 8 
+and provide the patient and the patien t's counsel with a written notice indicating the 9 
+hospital's intent to extend the authorization under the existing decision.  10 
+A.  A patient who is the subject of a filing under this subsection must be given the 11 
+same due process protections as specified in su bsection 3.  The hearing on any 12 
+request to extend an order for involuntary medication must be conducted prior to the 13 
+expiration of the authorization that is in effect.  If the hospital wishes to add a basis to 14 
+an existing decision authorizing involuntary m edication, the notice required by 15 
+subsection 3, paragraph G must also specify the additional basis and the conduct 16 
+within the past year that supports that additional basis.  The hospital must prove the 17 
+additional basis and conduct at the hearing as specifi ed in subsection 3, paragraph H. 18 
+If the hearing officer determines that the requirements for the extension of an 19 
+authorization described in paragraph B have been met, the hearing officer must 20 
+recommend an extension of the authorization to the commissioner.   While the hearing 21 
+officer may consider evidence of behavior during the period of involuntary 22 
+medication, no new acts need be alleged or proven in order to support an extension of 23 
+the authorization that is in effect.  24 
+B.  The commissioner may order an exte nsion of an authorization under this 25 
+subsection.  An order extending an authorization that is in effect must be granted 26 
+based on clear and convincing evidence that the patient has a mental illness or 27 
+disorder that requires treatment with psychiatric medica tion and that, but for the 28 
+medication, the patient would revert to the behavior that was the basis for the prior 29 
+order authorizing involuntary medication, coupled with evidence that it is unlikely 30 
+that the patient would be able or willing to manage the pat ient's own medication and 31 
+treatment regimen.  32 
+C.  An extension under this subsection is valid for one year after the date of the 33 
+hearing under paragraph A.  34 
+8.  Early termination.  To request early termination of an authorization allowing 35 
+involuntary medicat ion, the patient or the patient's designated representative shall file a 36 
+request with the department's office of administrative hearings, along with copies of 37 
+documents from the patient's hospital record, or from another medical source, 38 
+demonstrating that there has been a significant change to the patient's medical condition.  39 
+The hearing officer shall determine within 14 days whether the documents are sufficient 40 
+to show such a change, and, if so, shall schedule a hearing to determine whether the 41 
+change in medical condition is such that the benefits of the authorized treatment no longer 42 
+outweigh the risks and side effects.  43 
+ 
+ Page 6 - 127LR1977(01) -1 
+ A.  A hearing under this subsection must be held no more than 14 days after the 1 
+hearing officer's determination, unless the patient or th e patient's designated 2 
+representative agrees to extend the date of the hearing.  The authorization remains in 3 
+effect unless it is terminated following the hearing.  4 
+B.  The patient, the patient's designated representative, if any, and the hospital must 5 
+be provided with written notice of the hearing under this subsection at least 7 days 6 
+prior to the hearing. The written notice must:  7 
+(1)  Advise the patient of the right to be present at the hearing, the right to present 8 
+evidence and the right to present and ex amine witnesses; and  9 
+(2)  Inform the patient of the patient's right to file an appeal in Superior Court of 10 
+a decision of the commissioner determining that the benefits of the authorized 11 
+treatment continue to outweigh the risks and side effects.  12 
+C.  For pur poses of a request for early termination of an authorization under this 13 
+subsection, the patient may name as the patient's designated representative a lay 14 
+advisor provided by the hospital, a lawyer provided by the patient at the patient's own 15 
+expense or ano ther representative who is selected by the patient and who is willing 16 
+and able to assist in the proceeding.  17 
+D.  If, following a hearing under this subsection, the hearing officer determines by 18 
+clear and convincing evidence that the benefits of authorized t reatment no longer 19 
+outweigh the risks and side effects, the hearing officer must recommend termination 20 
+of the authorization to the commissioner.  The commissioner may order termination 21 
+of the authorization.  22 
+9.  Final agency action.  An order issued by the commissioner under subsection 3, 23 
+paragraph J, subsection 7, paragraph B or subsection 8, paragraph D is a final agency 24 
+action.  25 
+10.  Rules.  The department may adopt rules to implement this section.  Rules 26 
+adopted pursuant to this subsection are routine te chnical rules as described in Title 5, 27 
+chapter 375, subchapter 2 -A. 28 
+SUMMARY  29 
+This bill allows the Commissioner of Health and Human Services to administer 30 
+medication to a defendant who has been found incompetent to proceed without the 31 
+defendant's consent if a court finds that certain standards have been met.  It allows the 32 
+commissioner to authorize a hospital to administer medication to a defendant who has 33 
+been found incompetent to proceed or to a person who has been committed to the custody 34 
+of the commission er following acceptance of a negotiated insanity plea or following a 35 
+verdict or finding of insanity without that defendant's or person's consent if certain 36 
+standards are met, subject to appeal to the court.  37 
+ 

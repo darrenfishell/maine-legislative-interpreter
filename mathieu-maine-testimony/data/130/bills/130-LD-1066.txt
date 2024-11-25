@@ -1,0 +1,168 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1066
+S.P. 334 In Senate,  March  11, 2021
+An Act  To Clarify the Definition of "Mortgage  Servicer" in the 
+Laws Governing  Mortgage Foreclosures
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+Cosponsored by Senator:  CARNEY of Cumberland,  Representative: HARNETT of Gardiner.
+
+Page 1 - 130LR1165(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  14 MRSA §6113, as enacted by PL 2019, c. 363, §1, is amended to read:
+3§6113.  Mortgage servicer duty of good faith
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Good faith" means honesty in fact and the observance of reasonable commercial 
+7 standards of fair dealing.
+8 B.  Except as provided in subsection 5, "mortgage servicer" means a person that is 
+9 responsible for:
+10 ( 1)  Receiving scheduled periodic payments from an obligor pursuant to the terms 
+11 of a mortgage described in section 6111, subsection 1, including amounts for 
+12 escrow accounts;
+13 ( 2)  Making or advancing payments to the owner of the loan or other 3rd parties 
+14 with respect to the amounts received from the obligor pursuant to a loan servicing 
+15 contract; and
+16 ( 3)  Evaluating obligors for loss mitigation or loan modification options.
+17 B-1.  Except as provided in subsection 5, "mortgage servicer" means a person 
+18 responsible for servicing an obligation, including a person that holds or owns an 
+19 obligation or originates a mortgage loan if the person also services the obligation.
+20 C.  "Obligation" means a debt or other duty or liability of an obligor secured by a 
+21 mortgage of the type described in section 6111, subsection 1.
+22 D.  "Obligor" means a person that:
+23 (1)  Owes payment or performance of an obligation;
+24 (2)  Has provided property other than the mortgaged property to secure payment 
+25 of the obligation;
+26 (3)  Has granted a mortgage interest with respect to the mortgaged property; or
+27 (4)  Is otherwise accountable in whole or in part for payment of the obligation.
+28 E.  Except as provided in subsection 5, "servicer" means a person responsible for 
+29 servicing an obligation, including a person that holds or owns an obligation or 
+30 originates a mortgage loan if the person also services the obligation.
+31 F.  "Servicing" means any combination of the following:
+32 (1)  Receiving a periodic payment from an obligor under the terms of an obligation, 
+33 including an amount received for an escrow account;
+34 (2)  Making or advancing payments to the owner of an obligation on account of an 
+35 amount due from the obligor under a mortgage servicing loan document or a 
+36 servicing contract;
+37 (3)  Making a payment to the obligor under a home equity conversion mortgage or 
+38 reverse mortgage;
+Page 2 - 130LR1165(01)1 (4)  Evaluating the obligor for loss mitigation or communicating with the obligor 
+2 with respect to loss mitigation;
+3 (5)  Collecting funds from a homeowner for deposit into an escrow account and 
+4 making payments out of an escrow account; and
+5 (6)  Taking any other action with respect to an obligation that affects the obligor's 
+6 payment or performance of the obligation or that relates to the enforcement of the 
+7 obligation.
+82.  Duty of good faith.  A mortgage servicer shall act in good faith toward an obligor 
+9 in the servicing of an obligation secured by a mortgage and in any foreclosure action 
+10 relating to such an obligation.
+113.  Effect of violation during foreclosure.  If during a foreclosure action a mortgage 
+12 servicer controlling or managing the action on its own behalf or on behalf of the owner of 
+13 the obligation subject to foreclosure is shown to have committed a violation of its duty of 
+14 good faith under subsection 2, the court may dismiss the action, stay the action on 
+15 appropriate terms and conditions or impose other appropriate sanctions until the violation 
+16 is cured.
+174.  Remedies for violation.  The following are remedies for a violation of the duty of 
+18 good faith under subsection 2.
+19 A.  A homeowner or obligor injured by a violation of the duty of good faith may bring 
+20 an action against the mortgage servicer for all actual damages sustained by the 
+21 homeowner or obligor.
+22 B.  In addition to the damages recoverable under this subsection, the court may award 
+23 a homeowner or obligor statutory damages not exceeding $15,000 for a pattern or 
+24 practice of the mortgage servicer's violating the duty of good faith.  In determining 
+25 whether to award statutory damages and the amount of statutory damages, the court 
+26 shall consider all relevant factors, including:
+27 (1)  The frequency and persistence of violations by the mortgage servicer;
+28 (2)  The nature of the violations;
+29 (3)  The extent to which the violations were intentional; and
+30 (4)  The extent to which the actions that constitute violations are prohibited by state 
+31 or federal laws, rules or regulations, and the extent to which such actions constitute 
+32 violations by the mortgage servicer of any consent judgments to which it is a party.
+33 C.  If the court determines during a foreclosure action or an independent action for 
+34 damages that there has been a violation of the duty of good faith:
+35 (1)  The mortgage servicer may not charge the loan owner for, or add to the amount 
+36 of the obligation, any attorney's fees or costs incurred as a result of the violation or 
+37 any other attorney's fees or costs incurred before the mortgage servicer cures the 
+38 violation; and
+39 (2)  The court shall order the mortgage servicer to pay to the obligor the obligor's 
+40 costs incurred in the action and reasonable attorney's fees as determined by the 
+41 court.
+Page 3 - 130LR1165(01)15.  Exclusion.  The terms term "mortgage servicer" and "servicer" defined in subsection 
+2 1 do does not include a supervised financial organization as defined in Title 9‑A, section 
+3 1‑301, subsection 38‑A; a financial institution holding company as defined in Title 9‑B, 
+4 section 1011, subsection 1; a mutual holding company as defined in Title 9‑B, section 1052, 
+5 subsection 2; a credit union service organization as defined in 12 Code of Federal 
+6 Regulations, Section 712.1; a subsidiary of a supervised financial organization, financial 
+7 institution holding company, mutual holding company or credit union service organization; 
+8 or the Maine State Housing Authority.
+9Sec. 2.  14 MRSA §6321-A, sub-§11, as corrected by RR 2019, c. 1, Pt. A, §14, is 
+10 amended by amending the first blocked paragraph to read:
+11 A mortgage servicer as defined in section 6113, subsection 1, paragraph B B-1 participating 
+12 in the mediation process submits to the jurisdiction of the court with respect to the power 
+13 of the court to sanction parties who fail to participate in the mediation process in good faith 
+14 as required by section 6113, subsection 2.
+15Sec. 3.  14 MRSA §6321-A, sub-§12, as amended by PL 2019, c. 363, §3, is further 
+16 amended to read:
+1712.  Good faith effort.  Each party and each party's attorney, if any, must be present at 
+18 mediation as required by this section and shall make a good faith effort to mediate all issues.  
+19 If any party or attorney fails to attend or to make a good faith effort to mediate, the court 
+20 may impose appropriate sanctions.  A mortgage servicer as defined in section 6113, 
+21 subsection 1, paragraph B B-1 participating in the mediation process shall participate in 
+22 good faith as required by section 6113, subsection 2.  In determining the nature and extent 
+23 of appropriate sanctions, the court shall consider the need for deterrence of similar future 
+24 conduct by the entity being sanctioned and by others and may take into account prior orders 
+25 imposing sanctions upon the sanctioned party, whether in the same case or in other previous 
+26 cases.  The imposition of any sanction does not bar any independent action by a defendant 
+27 to seek recovery with respect to the actions giving rise to the order of sanctions.
+28Sec. 4.  14 MRSA §6321-A, sub-§13, as amended by PL 2019, c. 363, §4, is further 
+29 amended to read:
+3013.  Report.  A mediator must complete a report for each mediation conducted under 
+31 this section.  The mediator's report must indicate in a manner as determined by the court 
+32 that the parties completed in full the Net Present Value Worksheet in the Federal Deposit 
+33 Insurance Corporation Loan Modification Program Guide or other reasonable 
+34 determination of net present value.  If the mediation did not result in the settlement or 
+35 dismissal of the action, the report must include the outcomes of the Net Present Value 
+36 Worksheet or other determination of net present value.  As part of the report, the mediator 
+37 may notify the court if, in the mediator's opinion, either party failed to negotiate in good 
+38 faith.  The mediator's report must also include a statement of all agreements reached at 
+39 mediation, with sufficient specificity to put all parties on notice of their obligations under 
+40 agreements reached at mediation, including but not limited to a description of all documents 
+41 that must be completed and provided pursuant to the agreements reached at mediation and 
+42 the time frame during which all actions are required to be taken by the parties, including 
+43 decisions and determinations of eligibility for all loss mitigation options.  The mediator's 
+44 report must identify the name of any mortgage servicer as defined in section 6113, 
+Page 4 - 130LR1165(01)45 subsection 1, paragraph B B-1 that participates in the mediation process, and any order of 
+46 sanctions must likewise identify the name of the mortgage servicer.
+3SUMMARY
+4 This bill amends the law governing a mortgage servicer's duty to act in good faith by 
+5 repealing the current definition of "mortgage servicer" and replacing it with the current 
+6 definition of "servicer."1
+2
+4
+5
+6

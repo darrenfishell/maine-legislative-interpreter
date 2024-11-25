@@ -1,0 +1,450 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2112
+H.P. 1505 House of  Representatives, February 20, 2020
+An Act  To Limit the  Use of Hydrofluorocarbons To Fight  Climate 
+Change
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TUCKER of Brunswick.  (GOVERNOR'S BILL)
+Cosponsored by Senator FOLEY of  York and
+Representatives: BLUME of York, CAMPBELL  of Orrington,  Speaker  GIDEON  of Freeport, 
+HUBBELL of  Bar Harbor, KESCHL of Belgrade, MARTIN  of Eagle Lake, MOONEN of 
+Portland, Senator:  VITELLI of Sagadahoc.
+
+Page 1 - 129LR3158(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §1612 is enacted to read:
+3§1612.  Hydrofluorocarbon use restrictions
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5following terms have the following meanings.
+6A.  "Substance" means any chemical or blend intended for an end use.
+72.  Prohibition.  In order to reduce greenhouse gas emissions by substituting or 
+8reducing the use of the hydrofluorocarbons with the highest global warming potential, a 
+9person may not sell, lease, rent, install, use or enter into commerce in the State any 
+10product or equipment that uses or will use a substance that is a hydrofluorocarbon with 
+11high global warming potential intended for any air conditioning, refrigeration, foam or 
+12aerosol propellant end use as determined by the department in rules.
+133.  Rulemaking.  The department shall adopt rules to implement this section.  Rules 
+14adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+15chapter 375, subchapter 2-A.
+16Sec. 2.  Rulemaking.  The Department of Environmental Protection shall adopt 
+17rules to implement the Maine Revised Statutes, Title 38, section 1612 in accordance with 
+18this section.  In adopting the initial rules pursuant to Title 38, section 1612, the 
+19department shall regulate each substance and end use as provided for in this section and 
+20may not regulate any substance or end use not addressed in this section.  In the future, the 
+21department may adopt rules adding or removing substances from the list of prohibited 
+22substances or adding or removing end uses.
+231.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+24following terms have the following meanings.
+25A.  "Aerosol propellant" means a compressed gas or vapor in a container that, upon 
+26release of pressure and expansion through a valve, carries another substance from the 
+27container as a mist or spray.
+28B.  "Air conditioning equipment" means chillers intended for comfort cooling of 
+29occupied spaces.
+30C.  "Built-in household refrigerators and freezers" means any refrigerator, 
+31refrigerator-freezer or freezer intended for residential use that has 7.75 cubic feet or 
+32greater total volume and 24 inches or less depth not including doors, handles and 
+33custom front panels; that has sides that are not finished and not designed to be visible 
+34after installation; that is designed, intended and marketed exclusively to be installed 
+35totally encased by cabinetry or panels that are attached during installation and 
+36securely fastened to adjacent cabinetry, walls or floor; and that is equipped with an 
+37integral factory-finished face or that accepts a custom front panel.
+38D.  "Capital cost" means an expense incurred in the production of goods or in 
+39rendering services, including, but not limited to, the cost of engineering; the cost of 
+Page 2 - 129LR3158(01)-11the purchase and installation of components or systems and instrumentation; and 
+2contractor and construction fees.
+3E.  "Centrifugal chiller" means air conditioning equipment that uses a centrifugal 
+4compressor in a vapor-compression refrigeration cycle. A centrifugal chiller is a 
+5chiller intended for comfort cooling and does not include chillers used for industrial 
+6process cooling and refrigeration.
+7F.  "Cold storage warehouse" means a cooled facility designed to store meat, produce, 
+8dairy products and other products prior to their delivery to other locations for sale to 
+9the ultimate consumer.
+10G.  "Compact household refrigerators and freezers" means any refrigerator, 
+11refrigerator-freezer or freezer intended for residential use that has a total refrigerated 
+12volume of less than 7.75 cubic feet.
+13H.  "Component" means a part of a refrigeration system, including, but not limited to, 
+14a condensing unit, compressor, condenser, evaporator and receiver, and all of the 
+15system's connections and subassemblies without which the refrigeration system 
+16would not properly function or would be subject to failure.
+17I.  "Department" means the Department of Environmental Protection.
+18J.  "End use" means processes or classes of specific applications within industry 
+19sectors, including, but not limited to, those listed in subsection 2.
+20K.  "Flexible polyurethane" means a nonrigid synthetic foam containing polymers of 
+21urethane radicals, including, but not limited to, foam used in furniture, bedding, chair 
+22cushions and shoe soles.
+23L.  "Foam-blowing agent" or "foam" means a product or substance used to produce a 
+24product with a cellular structure formed via a foaming process, including materials 
+25that undergo hardening or phase transition, such as polymers and plastics.
+26M.  "Heat pump" means a device used for comfort heating or cooling of residential 
+27and commercial spaces, including, but not limited to, a mini-split heat pump.  Heat 
+28pumps may be air sourced, water sourced or ground sourced.
+29N.  "Household refrigerators and freezers" means any refrigerator, refrigerator-
+30freezer, freezer or miscellaneous household refrigeration appliance intended for 
+31residential use.  "Household refrigerators and freezers" does not include compact 
+32household refrigerators and freezers or built-in household refrigerators and freezers.
+33O.  "Integral skin polyurethane" means a synthetic self-skinning foam containing 
+34polymers of urethane radicals, including, but not limited to, foam used in shoe soles 
+35and automobile steering wheels and dashboards.
+36P.  "Light duty vehicle" means a car or light duty truck as defined in the Maine 
+37Revised Statutes, Title 5, section 1812-E.
+38Q.  "Metered dose inhaler" means a device that delivers a measured amount of 
+39medication as a mist that a patient can inhale, typically used for bronchodilation to 
+40treat symptoms of asthma, chronic obstructive pulmonary disease, chronic bronchitis, 
+Page 3 - 129LR3158(01)-11emphysema and other respiratory illnesses, and consists of a pressurized canister of 
+2medication in a case with a mouthpiece.
+3R.  "Miscellaneous residential refrigeration appliance" means a residential 
+4refrigeration appliance smaller than a refrigerator, refrigerator-freezer or freezer for 
+5use in a household and includes coolers, cooler compartments and combination 
+6cooler-refrigeration or cooler-freezer products.
+7S.  "New" means, with regard to a product or equipment, a product or equipment that 
+8is manufactured after the effective date of this section or equipment substantially 
+9modified after the effective date of this section such that the capital cost of the 
+10modification exceeds 50% of the cost of replacing the whole system.
+11T.  "Person" means an individual, firm, association, organization, manufacturer, 
+12distributor, partnership, business trust, corporation, limited liability company, 
+13company, state or local governmental agency or public district.
+14U.  "Phenolic insulation board" means phenolic insulation, including, but not limited 
+15to, insulation used for roofing and walls.
+16V.  "Phenolic insulation bunstock" means phenolic insulation that is a large solid box-
+17like structure formed during the production of polystyrene insulation and that can be 
+18cut into specific custom lengths and shapes.
+19W.  "Polyolefin" means foam sheets and tubes made of polyolefin.
+20X.  "Polystyrene extruded boardstock and billet" means a foam formed from 
+21polymers of styrene and produced on extruding machines in the form of continuous 
+22foam slabs that can be cut and shaped into panels used for insulation of roofing, 
+23walls, flooring and pipes.
+24Y.  "Polystyrene extruded sheet" means polystyrene foam including foam used for 
+25packaging and buoyancy or flotation.  "Polystyrene extruded sheet" includes foam 
+26made into food-service items, including hinged polystyrene containers, food trays, 
+27plates, bowls and retail egg containers.
+28Z.  "Positive displacement chiller" means a vapor compression cycle chiller that uses 
+29a positive displacement compressor, typically used for commercial comfort air 
+30conditioning.  "Positive displacement chiller" does not include a chiller used for 
+31industrial process cooling and refrigeration.
+32AA.  "Refrigerant gas" or "refrigerant" means any substance, including blends and 
+33mixtures, that is used for heat transfer purposes.
+34BB.  "Refrigerated food processing and dispensing equipment" means retail food 
+35refrigeration equipment that is designed to process and dispense food and beverages 
+36that are intended for immediate or near-immediate consumption, including, but not 
+37limited to, chilled and frozen beverages, ice cream and whipped cream. "Refrigerated 
+38food processing and dispensing equipment" excludes water coolers and units 
+39designed solely to cool and dispense water.
+40CC.  "Refrigeration equipment" means any stationary device that is designed to 
+41contain and use refrigerant gas to establish or maintain colder than ambient 
+42temperatures in a confined space, including, but not limited to, retail food 
+Page 4 - 129LR3158(01)-11refrigeration equipment, household refrigerators and freezers and cold storage 
+2warehouses.
+3DD.  "Remote condensing unit" means retail food refrigeration equipment that has a 
+4central condensing portion and may consist of one or more compressors, condensers 
+5and receivers assembled into a single unit, which may be located outside the sales 
+6area.  "Remote condensing unit" includes units that are commonly installed in 
+7convenience stores, specialty shops such as bakeries or butcher shops, supermarkets, 
+8restaurants and other locations where food is stored, served or sold.
+9EE.  "Residential use" means use by an individual of a substance, or a product 
+10containing the substance, in or around a permanent or temporary household, during 
+11recreation or for any personal use or enjoyment. "Residential use" does not include 
+12use within a household for commercial or medical applications or use in automobiles, 
+13watercraft or aircraft.
+14FF.  "Retail food refrigeration equipment" means equipment designed to store and 
+15display chilled or frozen goods for commercial sale, including, but not limited to, 
+16stand-alone units, refrigerated food processing and dispensing equipment, remote 
+17condensing units, supermarket systems and vending machines.
+18GG.  "Retrofit" means to replace the refrigerant used in refrigeration equipment with 
+19a different refrigerant and includes related changes to the refrigeration equipment 
+20required to maintain its operation and reliability following refrigerant replacement.
+21HH.  "Rigid polyurethane and polyisocyanurate laminated boardstock" means 
+22laminated board insulation made with polyurethane or polyisocyanurate foam, 
+23including insulation for roofing and walls.
+24II.  "Rigid polyurethane appliance foam" means polyurethane insulation foam used in 
+25domestic appliances.
+26JJ.  "Rigid polyurethane high-pressure 2-component spray foam" means a foam 
+27product that is pressurized to 800 to 1,600 pounds per square inch during 
+28manufacture; is sold in pressurized containers as 2 parts; and is blown and applied in 
+29situ using high-pressure pumps to propel the foam, and may use liquid blowing 
+30agents without an additional propellant.
+31KK.  "Rigid polyurethane in commercial refrigeration" means polyurethane insulation 
+32for pipes, walls and metal doors in retail food refrigeration equipment.
+33LL.  "Rigid polyurethane low-pressure 2-component spray foam" means a foam 
+34product that is pressurized to less than 250 pounds per square inch during 
+35manufacture, sold in pressurized containers as 2 parts and typically applied in situ 
+36using a gaseous foam-blowing agent that also serves as a propellant so pumps 
+37typically are not needed.
+38MM.  "Rigid polyurethane marine flotation foam" means buoyancy or flotation foam 
+39used in boat and ship manufacturing for both structural and flotation purposes.
+40NN.  "Rigid polyurethane one-component foam sealant" means a foam packaged in 
+41aerosol cans that is applied in situ using a gaseous foam-blowing agent that is also the 
+42propellant.
+Page 5 - 129LR3158(01)-11OO. "Rigid polyurethane sandwich panels" means polyurethane insulation 
+2sandwiched between outer structural layers and used as insulation for walls and metal 
+3doors, including garage doors.
+4PP.  "Rigid polyurethane slabstock" means a rigid closed-cell foam containing 
+5polymers of urethane radicals formed into slabstock insulation for panels and pipes.
+6QQ.  "Stand-alone low-temperature unit" means a stand-alone unit that maintains 
+7food or beverages at temperatures at or below 32 degrees Fahrenheit.
+8RR.  "Stand-alone medium-temperature unit" means a stand-alone unit that maintains 
+9food or beverages at temperatures above 32 degrees Fahrenheit.
+10SS.  "Stand-alone unit" means a retail refrigerator, freezer and reach-in cooler, either 
+11open or with doors, for which all refrigeration components are integrated and the 
+12refrigeration circuit may be entirely brazed or welded. Stand-alone units are fully 
+13charged with refrigerant at the factory and typically require only an electricity supply 
+14to begin operation.
+15TT.  "Substance" means any chemical or blend intended for an end use listed in 
+16subsection 2.
+17UU.  "Supermarket systems" means multiplex or centralized retail food refrigeration 
+18equipment systems designed to cool or refrigerate that operate with racks of 
+19compressors installed in a machinery room.  "Supermarket systems" includes both 
+20direct and indirect systems.
+21VV.  "Use" with regard to any use of a compound or any substance, includes, but is 
+22not limited to, use in a manufacturing process or product in the State, consumption 
+23for an end use in the State and use in intermediate applications in the State, such as 
+24formulation or packaging for other subsequent applications, and excludes residential 
+25use, but does not exclude manufacturing for the purpose of residential use.
+26WW.  "Vending machine" means self-contained retail food refrigeration equipment 
+27that dispenses goods that must be kept cold or frozen.
+282.  End use prohibitions.  The rules must provide that a person may not sell, lease, 
+29rent, install, use or enter into commerce in the State any product or equipment that uses or 
+30will use a listed substance intended for any air conditioning, refrigeration, foam or 
+31aerosol propellant end use listed as prohibited in this subsection, unless an exemption is 
+32provided for that end use in subsection 3.
+33For the following end uses, the listed hydrofluorocarbon substances are prohibited as of 
+34the date indicated for each end use.
+35A.  For aerosol propellants in new products, HFC-125, HFC-134a, HFC-227ea and 
+36blends of HFC-227ea and HFC-134a are prohibited as of January 1, 2021.
+37B. For new centrifugal chillers, FOR12A, FOR12B, HFC-134a, HFC-227ea, HFC-
+38236fa, HFC-245fa, R-125/134a/600a (28.1/70/1.9), R-125/290/134a/600a 
+39(55.0/1.0/42.5/1.5), R-404A, R-407C, R-410A, R-410B, R-417A, R-421A, R-422B, 
+40R-422C, R-422D, R-423A, R-424A, R-434A, R-438A, R-507A, RS-44 (2003 
+41composition) and THR-03 are prohibited as of January 1, 2024.
+Page 6 - 129LR3158(01)-11C.  For new positive displacement chillers, FOR12A, FOR12B, HFC-134a, HFC-
+2227ea, KDD6, R-125/134a/600a (28.1/70/1.9), R-125/290/134a/600a 
+3(55.0/1.0/42.5/1.5), R-404A, R-407C, R-410A, R-410B, R-417A, R-421A, R-422B, 
+4R-422C, R-422D, R-424A, R-434A, R-437A, R-438A, R-507A, RS-44 (2003 
+5composition), SP34E and THR-03 are prohibited as of January 1, 2024.
+6D.  For light duty vehicles, HFC-134a, SP34E, R-426A and RS-24 (new formulation) 
+7are prohibited for all newly manufactured vehicles as of model year 2021.
+8E.  For new cold storage warehouses, HFC-227ea, R-125/290/134a/600a 
+9(55.0/1.0/42.5/1.5), R-404A, R-407A, R-407B, R-410A, R-410B, R-417A, R-421A, 
+10R-421B, R-422A, R-422B, R-422C, R-422D, R-423A, R-424A, R-428A, R-434A, R-
+11438A, R-507A and RS-44 (2003 composition) are prohibited as of January 1, 2023.
+12F.  For new household refrigerators and freezers, FOR12A, FOR12B, HFC-134a, 
+13KDD6, R-125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407C, R-407F, R-
+14410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-422B, R-422C, R-422D, R-
+15424A, R-426A, R-428A, R-434A, R-437A, R-438A, R-507A, RS-24 (2002 
+16formulation), RS-44 (2003 formulation), SP34E and THR-03 are prohibited as of 
+17January 1, 2022.
+18G.  For new compact household refrigerators and freezers, FOR12A, FOR12B, HFC-
+19134a, KDD6, R-125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407C, R-407F, 
+20R-410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-422B, R-422C, R-422D, R-
+21424A, R-426A, R-428A, R-434A, R-437A, R-438A, R-507A, RS-24 (2002 
+22formulation), RS-44 (2003 formulation), SP34E and THR-03 are prohibited as of 
+23January 1, 2021.
+24H.  For new built-in household refrigerators and freezers, FOR12A, FOR12B, HFC-
+25134a, KDD6, R-125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407C, R-407F, 
+26R-410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-422B, R-422C, R-422D, R-
+27424A, R-426A, R-428A, R-434A, R-437A, R-438A, R-507A, RS-24 (2002 
+28formulation), RS-44 (2003 formulation), SP34E and THR-03 are prohibited as of 
+29January 1, 2023.
+30I.  For retrofitted supermarket systems, R-404A, R-407B, R-421B, R-422A, R-422C, 
+31R-422D, R-428A, R-434A and R-507A are prohibited as of January 1, 2021.
+32J.  For new supermarket systems, HFC-227ea, R-404A, R-407B, R-421B, R-422A, 
+33R-422C, R-422D, R-428A, R-434A and R-507A are prohibited as of January 1, 2021.
+34K.  For retrofitted remote condensing units, R-404A, R-407B, R-421B, R-422A, R-
+35422C, R-422D, R-428A, R-434A and R-507A are prohibited as of January 1, 2021.
+36L.  For new remote condensing units, HFC-227ea, R-404A, R-407B, R-421B, R-
+37422A, R-422C, R-422D, R-428A, R-434A and R-507A are prohibited as of January 
+381, 2021.
+39M.  For retrofitted stand-alone units, R-404A and R-507A are prohibited as of 
+40January 1, 2021.
+41N.  For new stand-alone medium-temperature units, FOR12A, FOR12B, HFC-134a, 
+42HFC-227ea, KDD6, R-125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407A, R-
+Page 7 - 129LR3158(01)-11407B, R-407C, R-407F, R-410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-
+2422B, R-422C, R-422D, R-424A, R-426A, R-428A, R-434A, R-437A, R-438A, R-
+3507A, RS-24 (2002 formulation), RS-44 (2003 formulation), SP34E and THR-03 are 
+4prohibited as of January 1, 2021.
+5O. For new stand-alone low-temperature units, HFC-227ea, KDD6, R-
+6125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407A, R-407B, R-407C, R-407F, 
+7R-410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-422B, R-422C, R-422D, R-
+8424A, R-428A, R-434A, R-437A, R-438A, R-507A and RS-44 (2003 formulation) 
+9are prohibited as of January 1, 2021.
+10P.  For new refrigerated food processing and dispensing equipment,  HFC-227ea, 
+11KDD6, R-125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407A, R-407B, R-
+12407C, R-407F, R-410A, R-410B, R-417A, R-421A, R-421B, R-422A, R-422B, R-
+13422C, R-422D, R-424A, R-428A, R-434A, R-437A, R-438A, R-507A and RS-44 
+14(2003 formulation) are prohibited as of January 1, 2021.
+15Q.  For retrofitted vending machines, R-404A and R-507A are prohibited as of 
+16January 1, 2021.
+17R.  For new vending machines, FOR12A, FOR12B, HFC-134a, KDD6, R-
+18125/290/134a/600a (55.0/1.0/42.5/1.5), R-404A, R-407C, R-410A, R-410B, R-417A, 
+19R-421A, R-422B, R-422C, R-422D, R-426A, R-437A, R-438A, R-507A, RS-24 
+20(2002 formulation) and SP34E are prohibited as of January 1, 2022.
+21S.  For new rigid polyurethane and polyisocyanurate laminated boardstock, HFC-
+22134a, HFC-245fa, HFC-365mfc and any blends thereof are prohibited as of January 
+231, 2021.
+24T.  For new flexible polyurethane, HFC-134a, HFC-245fa, HFC-365mfc and any 
+25blends thereof are prohibited as of January 1, 2021.
+26U.  For new integral skin polyurethane, HFC-134a, HFC-245fa, HFC-365mfc and 
+27any blends thereof; Formacel TI; and Formacel Z-6 are prohibited as of January 1, 
+282021.
+29V.  For new polystyrene extruded sheet, HFC-134a, HFC-245fa, HFC-365mfc and 
+30any blends thereof; Formacel TI; and Formacel Z-6 are prohibited as of January 1, 
+312021.
+32W.  For new phenolic insulation board and new phenolic insulation bunstock, HFC-
+33143a, HFC-134a, HFC-245fa, HFC-365mfc and any blends thereof are prohibited as 
+34of January 1, 2021.
+35X.  For new rigid polyurethane slabstock and other new rigid polyurethane, HFC-
+36134a, HFC-245fa, HFC-365mfc and any blends thereof; Formacel TI; and Formacel 
+37Z-6 are prohibited as of January 1, 2021.
+38Y.  For new rigid polyurethane appliance foam, HFC-134a, HFC-245fa, HFC-365mfc 
+39and any blends thereof; Formacel TI; and Formacel Z-6 are prohibited as of January 
+401, 2021.
+Page 8 - 129LR3158(01)-11Z.  For new rigid polyurethane in commercial refrigeration and new rigid 
+2polyurethane sandwich panels, HFC-134a, HFC-245fa, HFC-365mfc and any blends 
+3thereof; Formacel TI; and Formacel Z-6 are prohibited as of January 1, 2021.
+4AA.  For new polyolefin, HFC-134a, HFC-245fa, HFC-365mfc and any blends 
+5thereof; Formacel TI; and Formacel Z-6 are prohibited as of January 1, 2021.
+6BB.  For new rigid polyurethane marine flotation foam, HFC-134a, HFC-245fa, 
+7HFC-365mfc and any blends thereof; Formacel TI; and Formacel Z-6 are prohibited 
+8as of January 1, 2021.
+9CC.  For new polystyrene extruded boardstock and billet, HFC-134a, HFC-245fa, 
+10HFC-365mfc and any blends thereof; Formacel TI; Formacel B; and Formacel Z-6 
+11are prohibited as of January 1, 2021.
+12DD.  For new rigid polyurethane high-pressure 2-component spray foam, HFC-134a, 
+13HFC-245fa and any blends thereof; blends of HFC-365mfc with at least 4% HFC-
+14245fa; commercial blends of HFC-365mfc with 7% to 13% HFC-227ea and the 
+15remainder HFC-365mfc; and Formacel TI are prohibited as of January 1, 2021.
+16EE.  For new rigid polyurethane low-pressure 2-component spray foam, HFC-134a, 
+17HFC-245fa and any blends thereof; blends of HFC-365mfc with at least 4% HFC-
+18245fa; commercial blends of HFC-365mfc with 7% to 13% HFC-227ea and the 
+19remainder HFC-365mfc; and Formacel TI are prohibited as of January 1, 2021.
+20FF.  For new rigid polyurethane one-component foam sealants, HFC-134a, HFC-
+21245fa and any blends thereof; blends of HFC-365mfc with at least 4% HFC-245fa; 
+22commercial blends of HFC-365mfc with 7% to 13% HFC-227ea and the remainder 
+23HFC-365mfc; and Formacel TI are prohibited as of January 1, 2021.
+243.  Exemptions.  The rules must include the following exemption provisions:
+25A.  Heat pumps are exempt from end use prohibitions under this section; and
+26B.  The following exemptions to the prohibitions in subsection 2 apply in the end use 
+27categories indicated.
+28(1)  HFC-134a is allowed as an aerosol propellant in new cleaning products for 
+29removal of grease, flux and other soils from electrical equipment; new refrigerant 
+30flushes; new products for sensitivity testing of smoke detectors; new lubricants 
+31and freeze sprays for electrical equipment or electronics; new sprays for aircraft 
+32maintenance; new sprays containing corrosion preventive compounds used in the 
+33maintenance of aircraft, electrical equipment, electronics or military equipment; 
+34new pesticides for use near electrical wires, in aircraft, in total release insecticide 
+35foggers or in certified organic use pesticides for which the federal Environmental 
+36Protection Agency has specifically disallowed all other lower global warming 
+37potential propellants; new mold release agents and mold cleaners; new lubricants 
+38and cleaners for spinnerets for synthetic fabrics; new duster sprays specifically 
+39for removal of dust from photographic negatives, semiconductor chips, 
+40specimens under electron microscopes and energized electrical equipment; new 
+41adhesives and sealants in canisters for commercial use; new document 
+42preservation sprays; new wound care sprays; new topical cooling sprays for pain 
+Page 9 - 129LR3158(01)-11relief; and new products for removing bandage adhesives from skin. HFC-134a, 
+2HFC-227ea and blends of HFC-227ea and HFC-134a are allowed as aerosol 
+3propellants for new metered dose inhalers approved by the United States 
+4Department of Health and Human Services, Food and Drug Administration for 
+5medical purposes.
+6(2)  HFC-134a is allowed as a new air conditioning refrigerant for military 
+7marine vessels when the department has determined that reasonable efforts have 
+8been made to ascertain that other alternatives are not technically feasible due to 
+9performance or safety requirements. HFC-134a and R-404A are allowed as new 
+10air conditioning refrigerants in spacecraft intended for human occupancy and 
+11related support equipment when the department has determined that reasonable 
+12efforts have been made to ascertain that other alternatives are not technically 
+13feasible due to performance or safety requirements.
+14(3)  For all new foams other than rigid polyurethane one-component foam 
+15sealants, all substances listed in subsection 2 are allowed, until January 1, 2022, 
+16in military applications when the department has determined that reasonable 
+17efforts have been made to ascertain that other alternatives are not technically 
+18feasible due to performance or safety requirements; and, until January 1, 2025, in 
+19space-related and aeronautics-related applications when the department has 
+20determined that reasonable efforts have been made to ascertain that other 
+21alternatives are not technically feasible due to performance or safety 
+22requirements.
+23(4)  For new rigid polyurethane 2-component spray foams, all substances listed in 
+24subsection 2 are allowed, until January 1, 2025, in military or space-related and 
+25aeronautics-related applications when the department has determined that 
+26reasonable efforts have been made to ascertain that other alternatives are not 
+27technically feasible due to performance or safety requirements.
+284.  Disclosure statements.  The rules must require any person who manufactures, 
+29sells, leases, rents or enters into commerce in the State a product or equipment intended 
+30for air conditioning, refrigeration, foam or aerosol propellant end use, if the product or 
+31equipment uses or is intended to use any substance listed as prohibited for that end use in 
+32subsection 2, to provide a written disclosure to the buyer as part of the sales transaction 
+33and invoice.
+34A.  The required written disclosure must state:
+35(1)  For refrigeration equipment and air conditioning equipment: "This equipment 
+36is prohibited from use in Maine with any refrigerant on the list in Maine 
+37Department of Environmental Protection rules of prohibited substances for that 
+38specific end use. This disclosure statement has been reviewed and approved by 
+39[THE ENTITY], and [THE ENTITY] attests, under penalty of perjury, that these 
+40statements are true and accurate.";
+41(2)  For foam: "This foam system is prohibited from use in Maine with any foam-
+42blowing agent on the list in Maine Department of Environmental Protection rules 
+43of prohibited substances for that specific end use. This disclosure statement has 
+Page 10 - 129LR3158(01)-11been reviewed and approved by [THE ENTITY], and [THE ENTITY] attests, 
+2under penalty of perjury, that these statements are true and accurate."; and
+3(3)  For aerosol propellants: "This product is prohibited from use in Maine with 
+4any aerosol propellant on the list in Maine Department of Environmental 
+5Protection rules of prohibited substances for that specific end use. This disclosure 
+6statement has been reviewed and approved by [THE ENTITY], and [THE 
+7ENTITY] attests, under penalty of perjury, that these statements are true and 
+8accurate."
+9B.  At the point of sale, the disclosure statement requirement may be met 
+10alternatively with a label on the product or equipment reading: "Not for sale in 
+11Maine." The label must be displayed on the product or equipment so that it is readily 
+12observable without removing or disassembling any portion of the packaging. The 
+13label must be in a font size as large as or larger than the font size of all other words 
+14on the principal display panel, excluding the company name, brand name and logo.
+15C.  The disclosure statement under paragraph A or label under paragraph B must 
+16remain with the product or equipment while it is in the State.
+175.  Record keeping.  The rules must include a provision requiring any person who 
+18manufactures any product or equipment for the end uses listed in subsection 2 for sale or 
+19entry into commerce in the State to maintain for 5 years, and make available upon request 
+20by the department, records sufficient to demonstrate that the product or equipment does 
+21not contain any substances listed in subsection 2 as prohibited for that end use or that the 
+22product is exempt in accordance with subsection 3.
+236.  Venting prohibition.  The rules must provide that a person maintaining, 
+24servicing, repairing or disposing of any product or equipment containing or using a 
+25substance intended for an end use listed in subsection 2 may not knowingly vent or 
+26otherwise release into the environment any substance contained or used in that product or 
+27equipment.  De minimis releases associated with good faith attempts to recycle or recover 
+28such substances are not subject to this prohibition.
+29SUMMARY
+30This bill prohibits the selling, leasing, renting, installing, use or entering into 
+31commerce of any product or equipment that uses or will use a substance that is a 
+32hydrofluorocarbon with high global warming potential intended for any air conditioning, 
+33refrigeration, foam or aerosol propellant end use as determined by the Department of 
+34Environmental Protection in rules.  It directs the department to adopt rules to implement 
+35the prohibition and specifies the substances and end uses that are to be addressed in the 
+36rules.  In adopting the initial rules, the department must regulate each substance and end 
+37use as specifically provided for in the bill and may not regulate any substance or end use 
+38not addressed in the bill.  In the future, the department may adopt rules adding or 
+39removing substances from the list of prohibited substances or adding or removing end 
+40uses.

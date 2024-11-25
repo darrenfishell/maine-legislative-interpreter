@@ -1,0 +1,141 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 363
+S.P. 103 In Senate,  January  24, 2019
+An Act  To Protect  Residents of Assisted Living  Facilities
+Reference to the Committee on Health  and Human Services suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator MIRAMANT of Knox.
+Cosponsored by Representative ALLEY  of Beals and
+Senators: BREEN of  Cumberland, GRATWICK  of Penobscot, Representatives: DOORE of  
+Augusta, DOUDERA of  Camden.
+
+Page 1 - 129LR1559(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §1833 is enacted to read:
+3§1833.  Orders not to resuscitate
+4A nursing facility shall establish a process for quickly determining in the event of a 
+5medical emergency whether an individual residing in the facility has made a health care 
+6decision that includes an order not to resuscitate.  For purposes of this section, "health 
+7care decision" has the same meaning as in Title 18-C, section 5-802, subsection 6.
+8The department shall adopt rules necessary to implement this section. Rules adopted 
+9pursuant to this section are routine technical rules as defined in Title 5, chapter 375, 
+10subchapter 2-A.
+11Sec. 2.  22 MRSA §2150-C, as repealed and replaced by PL 2007, c. 267, §2, is 
+12amended to read:
+13§2150-C.  Automated external defibrillators; immunity from civil liability; 
+14requirements
+151.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+16following terms have the following meanings.
+17A.  "Automated external defibrillator" or "AED" means a medical device that 
+18combines a heart monitor and a defibrillator approved by the United States Food and 
+19Drug Administration that:
+20(1)  Is capable of recognizing the presence or absence of ventricular fibrillation or 
+21rapid ventricular tachycardia;
+22(2)  Is capable of determining, without intervention by an operator, whether 
+23defibrillation should be performed on an individual; and
+24(3)  Upon determination that defibrillation should be performed, automatically 
+25charges and requests delivery of an electrical impulse to an individual's heart.
+26A-1.  "Activities of daily living" has the same meaning as in section 7852, subsection 
+271.
+28C.  "Extended care facility" means a nursing facility licensed under chapter 405 or an 
+29assisted living facility or residential care facility licensed under chapter 1663 or 1664 
+30that provides services to an individual who requires assistance with activities of daily 
+31living.
+32D.  "Lifesaving procedures" means the use of an automated external defibrillator or 
+33the performance of cardiopulmonary resuscitation for a suspected sudden cardiac 
+34arrest emergency.
+356.  Immunity.  The following persons and entities are immune from civil liability for 
+36damages relating to the use, possession or purchase of an AED and arising out of acts or 
+Page 2 - 129LR1559(01)-11omissions relating to preparing for and responding to suspected sudden cardiac arrest 
+2emergencies absent gross negligence or willful or wanton misconduct:
+3A.  Any person or entity that acquires an AED;
+4B.  Any person or entity that owns, manages or is otherwise responsible for the 
+5premises on which an AED is located;
+6C.  Any person who retrieves an AED in response to a perceived sudden cardiac 
+7arrest emergency;
+8D.  Any person who uses, attempts to use or fails to use an AED in response to a 
+9perceived sudden cardiac arrest emergency;
+10E.  Any physician or other authorized person who issues a prescription for the 
+11purchase of an AED;
+12F.  Any person or entity that is involved with the design, management or operation of 
+13an AED program; and
+14G.  Any person or entity that provides instruction in the use of an AED.
+157.  Requirements for extended care facility.  An extended care facility shall comply 
+16with the following requirements.
+17A.  An extended care facility shall have on its premises an AED and any equipment 
+18necessary to perform cardiopulmonary resuscitation.
+19B.  An extended care facility shall provide to every employee training on using an 
+20AED and performing cardiopulmonary resuscitation.
+21C.  An employee of an extended care facility shall perform lifesaving procedures on 
+22any individual residing in the extended care facility who the employee reasonably 
+23suspects is suffering a sudden cardiac arrest emergency unless that individual has 
+24made a health care decision that includes an order not to resuscitate.  For purposes of 
+25this section, "health care decision" has the same meaning as in Title 18-C, section 
+265-802, subsection 6.
+27D.  Except as provided in paragraph C, an extended care facility may not prohibit an 
+28employee from performing lifesaving procedures on any individual residing in the 
+29extended care facility who the employee reasonably suspects is suffering a sudden 
+30cardiac arrest emergency when the employee has received the training required in 
+31paragraph B.
+328.  Rules.  The department may adopt rules necessary to implement subsection 7. 
+33Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+34chapter 375, subchapter 2-A.
+35Sec. 3.  22 MRSA §7808 is enacted to read:
+36§7808.  Orders not to resuscitate
+37A facility licensed under this chapter that provides services to an individual who 
+38requires assistance with activities of daily living shall establish a process for quickly 
+Page 3 - 129LR1559(01)-11determining in the event of a medical emergency whether an individual residing in the 
+2facility has made a health care decision that includes an order not to resuscitate.  For 
+3purposes of this section, "activities of daily living" has the same meaning as in section 
+47852, subsection 1 and "health care decision" has the same meaning as in Title 18-C, 
+5section 5-802, subsection 6.
+6The department shall adopt rules necessary to implement this section.  Rules adopted 
+7pursuant to this section are routine technical rules as defined in Title 5, chapter 375, 
+8subchapter 2-A.
+9Sec. 4.  22 MRSA §7864 is enacted to read:
+10§7864.  Orders not to resuscitate
+11A facility licensed under this chapter that provides services to an individual who 
+12requires assistance with activities of daily living shall establish a process for quickly 
+13determining in the event of a medical emergency whether an individual residing in the 
+14facility has made a health care decision that includes an order not to resuscitate.  For 
+15purposes of this section, "health care decision" has the same meaning as in Title 18-C, 
+16section 5-802, subsection 6.
+17The department shall adopt rules necessary to implement this section. Rules adopted 
+18pursuant to this section are routine technical rules as defined in Title 5, chapter 375, 
+19subchapter 2-A.
+20SUMMARY
+21This bill requires nursing facilities and assisted living and residential care facilities 
+22that provide services to a person who requires assistance with activities of daily living to 
+23perform cardiopulmonary resuscitation or use an automated external defibrillator in the 
+24event of a suspected sudden cardiac arrest unless the person has made a health care 
+25decision that includes an order not to resuscitate.  It requires those facilities to store the 
+26necessary equipment to perform cardiopulmonary resuscitation or use an automated 
+27external defibrillator.  It requires those facilities to provide training to their employees on 
+28how to perform cardiopulmonary resuscitation and use an automated external 
+29defibrillator.  The bill also directs those facilities to establish a process for quickly 
+30determining in the event of a medical emergency whether an individual residing in the 
+31facility has made a health care decision that includes an order not to resuscitate.

@@ -1,0 +1,370 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -849) (LD 1964 2020)  
+Date: 8/20/2020
+
+Page 1 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1L.D. 1964
+2
+3JUDICIARY
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964, Bill, “An Act To 
+10Limit Access to Juvenile Case Records and Protect the Confidentiality of Juvenile 
+11History Record Information”
+12Amend the bill by inserting after section 1 the following:
+13'Sec. 2.  15 MRSA §3003, sub-§19-C is enacted to read:
+1419-C.  Order of adjudication.  "Order of adjudication" means any document that 
+15constitutes the final disposition of a juvenile petition, including, but not limited to, a 
+16judgment and commitment including conditions of juvenile probation, if imposed, a 
+17dismissal form or other written order.
+18Sec. 3.  15 MRSA §3003, sub-§28 is enacted to read:
+1928.  Victim.  "Victim" has the same meaning as in Title 17-A, section 2101, 
+20subsection 2.' 
+21Amend the bill in section 3 in §3010 in subsection 1 in paragraph D in the first line 
+22(page 1, line 29 in L.D.) by striking out the following:  "section 803" and inserting the 
+23following:  'section 703'
+24Amend the bill in section 3 in §3010 in subsection 1 in paragraph E in the first line 
+25(page 1, line 31 in L.D.) by striking out the following:  "section 803, subsection 5" and 
+26inserting the following:  'section 703, subsection 6'
+27Amend the bill in section 3 in §3010 in subsection 1 in paragraph F in the 9th line 
+28(page 2, line 2 in L.D.) by striking out the following:  "sentencing" and inserting the 
+29following:  'disposition'
+30Amend the bill in section 3 in §3010 in subsection 4 in paragraph B in the last line 
+31(page 2, line 38 in L.D.) by inserting after the following:  "information" the following:  
+32'or one or more of the types of confidential juvenile history record information'
+33Amend the bill in section 4 in §3307 by striking out all of subsection 3 (page 4, lines 
+3416 and 17 in L.D.) and inserting the following:Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 2 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1'3.  Record.  A verbatim record shall must be made of all detention, bind over, 
+2adjudicatory and dispositional hearings.' 
+3Amend the bill by inserting after section 5 the following:
+4'Sec. 6.  15 MRSA §3308-A, sub-§1, ¶C-1 is enacted to read:
+5C-1.  "Dissemination" has the same meaning as in Title 16, section 703, subsection 6.' 
+6Amend the bill by inserting after section 6 the following:
+7'Sec. 7.  15 MRSA §3308-A, sub-§3, ¶B-2 is enacted to read:
+8B-2.  A governmental agency or subunit of a governmental agency in this State or 
+9another state that pursuant to statute is responsible for investigating abuse, neglect or 
+10exploitation of children or a governmental agency in this State or another state 
+11responsible for the licensing of child care or children's camp programs or their 
+12employees;' 
+13Amend the bill by inserting after section 7 the following:
+14'Sec. 8.  15 MRSA §3308-A, sub-§4, as enacted by PL 2019, c. 525, §22, is 
+15amended to read:
+164.  Dissemination of juvenile intelligence and investigative record information 
+17subject to reasonable limitations.  The dissemination of juvenile intelligence and 
+18investigative record information by a criminal justice agency pursuant to subsection 3, 
+19paragraphs A to B-2 is subject to limitations to reasonably ensure that dissemination of 
+20the information will not:
+21A.  Interfere with law enforcement proceedings relating to crimes;
+22B.  Result in public dissemination of prejudicial information concerning an accused 
+23person or concerning the prosecution's evidence that will interfere with the ability of 
+24a court to impanel an impartial jury;
+25C.  Constitute an unwarranted invasion of personal privacy, including, but not limited 
+26to, the personal privacy of juveniles and victims;
+27D.  Disclose the identity of a confidential source;
+28E.  Disclose confidential information furnished only by a confidential source;
+29F.  Disclose investigative techniques and procedures or security plans and procedures 
+30not known by the general public;
+31G.  Endanger the life or physical safety of any individual, including law enforcement 
+32personnel;
+33H.  Disclose information designated confidential by statute; and
+34I.  Interfere with proceedings relating to civil violations, civil enforcement 
+35proceedings and other civil proceedings conducted by the Department of the Attorney 
+36General or by a district attorney's office.
+37To comply with this subsection a criminal justice agency may deny access in whole or in 
+38part to records that contain or constitute juvenile intelligence and investigative record 
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 3 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1information.  A criminal justice agency also may prepare and provide redacted copies of 
+2such records to a person or public or private entity authorized to receive the information 
+3under this section.' 
+4Amend the bill in section 8 in §3308-C by striking out all of subsections 1 and 2 
+5(page 4, lines 31 to 38 and page 5, lines 1 to 28 in L.D.) and inserting the following:
+6'1.  Confidentiality.  Juvenile case records are confidential and may not be disclosed, 
+7disseminated or inspected except as expressly authorized by this Part.  Juvenile case 
+8records open to public inspection pursuant to subsection 2 may be inspected only at a 
+9courthouse.  The court may not disseminate any juvenile case records, including those 
+10open to public inspection, to the public in any manner, including by any paper or 
+11electronic means.
+122.  Juvenile petitions open to public inspection.  Unless Juvenile Court proceedings 
+13are suspended pursuant to section 3318-A, subsection 5, the following juvenile petitions 
+14are open to public inspection:
+15A.  Any juvenile petition alleging a violation of Title 17-A, section 201, 202 or 203 if 
+16the juvenile charged had attained 13 years of age at the time of the alleged juvenile 
+17crime, if:
+18(1)  The juvenile has had a first appearance with respect to the petition in the 
+19Juvenile Court; and
+20(2)  The Juvenile Court finds there is probable cause to believe the juvenile 
+21committed a juvenile crime that would be a violation of Title 17-A, section 201, 
+22202 or 203 if the juvenile involved were an adult.
+23If the juvenile had not attained 13 years of age at the time of the alleged violation of 
+24Title 17-A, section 201, 202 or 203, the Juvenile Court may allow public inspection 
+25of the juvenile petition pursuant to paragraph C;
+26B.  Any juvenile petition alleging a juvenile crime that would constitute a Class A 
+27crime if committed by an adult if the juvenile charged had attained 13 years of age at 
+28the time of the alleged juvenile crime, if:
+29(1)  The juvenile has had a first appearance with respect to the petition in the 
+30Juvenile Court; and
+31(2)  The Juvenile Court finds there is probable cause to believe the juvenile 
+32committed a juvenile crime that would be a Class A crime if the juvenile 
+33involved were an adult.
+34If the juvenile had not attained 13 years of age at the time of the juvenile crime that 
+35would constitute a Class A crime if committed by an adult, the Juvenile Court may 
+36allow public inspection of the juvenile petition pursuant to paragraph C.
+37A petition open to the public under this paragraph may be made confidential and may 
+38not be open to public inspection if, upon written request by a person to the Juvenile 
+39Court, and after notice to the juvenile and the juvenile's parent or parents, guardian or 
+40legal custodian, the attorney for the juvenile and the office of the prosecuting attorney 
+41and after a hearing in which the Juvenile Court considers the purposes of this Part, 
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 4 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1the juvenile's and alleged victim's interest in privacy, the nature of the juvenile crime 
+2alleged and the characteristics of the juvenile and public safety concerns as outlined 
+3in section 3101, subsection 4, paragraph D, the court determines that the general 
+4public's right to information does not substantially outweigh the juvenile's interest in 
+5privacy; and
+6C.  Any petition alleging a juvenile crime that would constitute murder or a Class A 
+7crime if committed by an adult and the juvenile charged had not attained 13 years of 
+8age at the time of the alleged juvenile crime, or any petition alleging a juvenile of any 
+9age committed a juvenile crime that would constitute a Class B or C crime if 
+10committed by an adult, if:
+11(1)  The juvenile has had a first appearance with respect to the petition in the 
+12Juvenile Court;
+13(2)  A written request is filed by any person with the Juvenile Court requesting 
+14that the juvenile petition be open to public inspection;
+15(3)  The Juvenile Court finds there is probable cause to believe the juvenile 
+16committed a juvenile crime that would constitute murder, a violation of Title 
+1717-A, section 204 or a Class A, B or C crime if the juvenile involved were an 
+18adult; and
+19(4)  After notice to the juvenile and the juvenile's parent or parents, guardian or 
+20legal custodian, the attorney for the juvenile, the office of the prosecuting 
+21attorney and the individual or entity requesting the juvenile petition be open to 
+22public inspection and a hearing in which the Juvenile Court considers the 
+23purposes of this Part, the alleged victim's interest in privacy, the nature of the 
+24juvenile crime alleged and the characteristics of the juvenile and public safety 
+25concerns as outlined in section 3101, subsection 4, paragraph D, the court 
+26determines that the general public's right to information substantially outweighs 
+27the juvenile's interest in privacy.
+28In a juvenile petition alleging multiple juvenile crimes, the juvenile crime that would 
+29constitute the highest class of crime if the juvenile were an adult must determine whether 
+30the petition is open to public inspection.
+31The court shall redact the names and identifying information of any alleged minor victims 
+32prior to the inspection of a juvenile petition.
+33If a request to allow public inspection of a petition under this subsection has been filed, 
+34the Juvenile Court shall advise the juvenile and the juvenile's parent or parents, guardian 
+35or legal custodian that the request has been made and shall advise them of the juvenile's 
+36right to be represented by counsel.  The court may not allow the public to inspect a 
+37juvenile petition pursuant to paragraph C until authorized by court order.' 
+38Amend the bill in section 8 in §3308-C by striking out all of subsection 8 (page 8, 
+39lines 24 to 33 in L.D.) and inserting the following:
+40'8.  Records to Secretary of State.  Whenever a juvenile has been adjudicated as 
+41having committed a juvenile crime involving the operation of a motor vehicle or when the 
+42court has ordered a disposition pursuant to section 3314, subsection 3, 3-A or 3-B that 
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 5 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1includes suspension of the juvenile's right to operate a motor vehicle, the court shall 
+2transmit to the Secretary of State an abstract, duly certified, setting forth the name of the 
+3juvenile, the offense, the date of the offense, the date of the adjudicatory hearing and any 
+4other pertinent facts.  These juvenile case records are admissible in evidence in hearings 
+5conducted by the Secretary of State or any of the Secretary of State's deputies and are 
+6open to public inspection.
+7Nothing in this Part may be construed to limit the authority of the Secretary of State, 
+8pursuant to Title 29-A, to suspend a person's driver's license or permit to operate a motor 
+9vehicle, right to operate a motor vehicle or right to apply for or obtain a driver's license.' 
+10Amend the bill in section 8 in §3308-C by striking out all of subsection 10 (page 9, 
+11lines 1 to 25 in L.D.) and inserting the following:
+12'10.  Juvenile case records sealed.  This subsection governs the sealing of juvenile 
+13case records of a person adjudicated as having committed a juvenile crime.
+14A.  A person adjudicated as having committed a juvenile crime that, if the juvenile 
+15were an adult, would constitute murder or a Class A, B or C crime or operating under 
+16the influence as defined in Title 29-A, section 2411 may petition the court to seal 
+17from public inspection all juvenile case records pertaining to the juvenile crime and 
+18its disposition and to any prior juvenile case records and their dispositions if:
+19(1)  At least 3 years have passed since the person's discharge from the disposition 
+20ordered for that juvenile crime;
+21(2)  Since the date of disposition, the person has not been adjudicated as having 
+22committed a juvenile crime and has not been convicted of committing a crime; 
+23and
+24(3)  There are no current adjudicatory proceedings pending for a juvenile or other 
+25crime.
+26B.  The court may grant the petition filed under paragraph A if it finds that the 
+27requirements of paragraph A are satisfied, unless it finds that the general public's 
+28right to information substantially outweighs the person's interest in privacy.  The 
+29person has a right to appeal the court's denial of the person's petition to seal as 
+30provided in chapter 509.
+31C.  At the time a person adjudicated as having committed a juvenile crime other than 
+32a crime listed in paragraph A is finally discharged from the disposition imposed for 
+33that juvenile crime, the court, upon receipt of appropriate notice of the discharge, 
+34shall immediately enter an order sealing from public inspection all records pertaining 
+35to the juvenile crime and its disposition.  Appropriate notice that the person is 
+36discharged from the disposition:
+37(1)  Must be provided to the court by the Department of Corrections if the 
+38person's disposition involved commitment to the custody of a Department of 
+39Corrections juvenile correctional facility, a period of confinement not to exceed 
+4030 days or any suspended disposition with a period of probation;
+41(2)  Must be provided to the court by the office of the prosecuting attorney if 
+42disposition included restitution, community service or a restorative justice event 
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 6 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1and the court ordered that proof of completion of the obligation be provided to 
+2the office of the prosecuting attorney; or
+3(3)  May be provided to the court by the person or the person's attorney. If the 
+4notice is provided by the person or the person's attorney, the person or the 
+5person's attorney must have served a copy of the notice on the office of the 
+6prosecuting attorney before the court may enter the order sealing the juvenile 
+7case records.
+8D.  Notwithstanding subsections 2 and 3, subsection 4, paragraphs C, D and F and 
+9subsections 5 and 6, a court order sealing juvenile case records pursuant to this 
+10subsection permits only the following persons to have access to the sealed juvenile 
+11case records:
+12(1)  The courts and criminal justice agencies as provided by this section; and
+13(2) The person whose juvenile case records are sealed or that person's designee.
+14E.  A copy of the court's written order certifying its granting of the person's petition 
+15to seal juvenile case records pursuant to paragraph A or its order of immediate 
+16sealing pursuant to paragraph C must be provided to the Department of Public Safety, 
+17Bureau of State Police, State Bureau of Identification if the adjudication is for a 
+18juvenile crime the criminal records of which are maintained by the State Bureau of 
+19Identification pursuant to Title 25, section 1541.  The State Bureau of Identification 
+20or the appropriate agency upon receipt of the order shall promptly update its records 
+21relating to each of juvenile adjudications included in the order.
+22F.  A person whose juvenile case records are sealed pursuant to this subsection may 
+23respond to inquiries from other than the courts and criminal justice agencies about 
+24that person's juvenile crimes, the juvenile case records of which have been sealed, as 
+25if the juvenile crimes had never occurred, without being subject to any sanctions.  
+26The sealing of a person's juvenile case records does not remove or otherwise affect 
+27the prohibition against that person's possessing a firearm pursuant to section 393.' 
+28Amend the bill by striking out all of section 10 and inserting the following:
+29'Sec. 10.  15 MRSA §3318-A, sub-§5, as enacted by PL 2011, c. 282, §4, is 
+30amended to read:
+315.  Suspension of juvenile proceedings.  Pending a competency examination when 
+32the issue of a juvenile's competency to proceed is raised by the juvenile, by the State or 
+33sua sponte by the Juvenile Court, the Juvenile Court shall suspend the proceeding on the 
+34petition.  All juvenile case records, including a petition that is otherwise open to public 
+35inspection under section 3308-C, subsection 2, paragraph A or B, are confidential and 
+36may not be open to public inspection while the proceeding remains suspended.  All 
+37Juvenile Court hearings conducted while the proceeding on a juvenile petition is 
+38suspended pursuant to this subsection are confidential and not open to the general public.  
+39The suspension remains in effect pending the outcome of a competency determination 
+40hearing pursuant to subsection 7.  Suspension of the proceeding does not affect the 
+41Juvenile Court's ability to detain or release the juvenile pursuant to section 3203-A, 
+42subsection 5.' 
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 7 - 129LR2605(02)-1
+COMMITTEE AMENDMENT1Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+2section number to read consecutively.
+3SUMMARY
+4This amendment is the majority report of the Joint Standing Committee on Judiciary.
+5The amendment:
+61.  Defines the terms "order of adjudication" and "victim" in the Maine Juvenile 
+7Code;
+82.  Permits a Maine criminal justice agency to disseminate confidential juvenile 
+9history record information to any person for any purpose when expressly authorized by a 
+10statute, court rule, court decision or court order containing language specifically referring 
+11to one or more of the types of confidential juvenile history record information;
+123.  Retains current law requiring the creation of a verbatim record of all detention, 
+13bind over, adjudicatory and dispositional hearings;
+144.  Restores a definition of "dissemination" applicable to juvenile intelligence and 
+15investigative record information that was repealed by Public Law 2019, chapter 525, 
+16section 18;
+175.  Authorizes criminal justice agencies to disseminate confidential juvenile 
+18intelligence and investigative record information to a governmental agency or subunit of 
+19a governmental agency in this State or another state that pursuant to statute is responsible 
+20for investigating abuse, neglect or exploitation of children or a governmental agency in 
+21this State or another state that is responsible for the licensing of child care or children's 
+22camp programs or their employees;
+236.  Clarifies that juvenile case records that are maintained by the court and are open to 
+24public inspection may be inspected only at a courthouse and may not be disseminated by 
+25the court in any manner, including by paper or by any electronic means;
+267.  Modifies the "tiered" system of public access to juvenile petitions created by the 
+27bill, as follows:
+28A.  A petition alleging a Class A crime committed by a juvenile 13 years of age or 
+29older is automatically open to public inspection after the juvenile's first appearance 
+30and if probable cause is found, unless the petition is made confidential by court order.  
+31Any person may request that such a petition be made confidential; and
+32B.  Any person may request access to inspect a juvenile petition that alleges murder 
+33or a Class A crime committed by a juvenile under 13 years of age, or a Class B or C 
+34crime committed by a juvenile of any age.  If a request to allow such inspection is 
+35filed, a hearing on the request must be held, and notice of the hearing must be given 
+36to the juvenile, the juvenile's parents or guardians, the attorney representing the 
+37juvenile, the office of the prosecuting attorney and the person requesting access to the 
+38petition;
+398.  Specifies that when multiple juvenile crimes are alleged in a petition, the juvenile 
+40crime alleged that would constitute the highest class of crime if the juvenile were an adult 
+41determines whether the petition is open to public inspection;
+COMMITTEE AMENDMENT “      ” to H.P. 1408, L.D. 1964
+Page 8 - 129LR2605(02)-1
+COMMITTEE AMENDMENT19.  Requires the court to send notice to the Secretary of State when a juvenile's right 
+2to operate a motor vehicle is suspended for a drug-related crime, as is allowed by law;
+310.  Clarifies that the Juvenile Court must suspend the proceeding on the petition 
+4pending a competency examination when the issue of a juvenile's competency to proceed 
+5is raised by the juvenile, by the State or sua sponte by the Juvenile Court; and
+611.  Amends provisions in the Maine Juvenile Code pertaining to the sealing of 
+7juvenile case records as follows:
+8A.  The amendment provides that when a juvenile is adjudicated of a Class D or E 
+9crime, except operation under the influence, sealing of all court records and its 
+10disposition occurs automatically when a juvenile completes the disposition ordered 
+11by the court.  The Department of Corrections must provide notice to the court when a 
+12juvenile completes probation, completes a period of confinement or is discharged 
+13from a commitment.  The District Attorney's office must provide notice to the court 
+14when the juvenile was ordered to pay restitution or complete some other obligation 
+15and was ordered to provide proof of completion to the District Attorney's office.  The 
+16juvenile may also provide proof of completion of the juvenile's court disposition to 
+17the court, but must provide proof of such completion to the prosecuting attorney;
+18B.  The amendment reiterates that, in accordance with existing law, courts, criminal 
+19justice agencies and the person whose juvenile records are sealed may have access to 
+20those sealed records;
+21C.  The amendment clarifies that sealing juvenile case records does not enable the 
+22person to whom the records relate to possess a firearm if the person is prohibited 
+23from doing so as a result of the adjudication to which the sealed juvenile case records 
+24relate; and
+25D.  The amendment establishes that a person has a right to appeal a court's denial of 
+26the person's petition to seal a juvenile case record.
+27The amendment makes no change to current law regarding the process for sealing 
+28juvenile court records regarding adjudications for murder or Class A, B or C crimes or 
+29operating under the influence, as defined in the Maine Revised Statutes, Title 29-A, 
+30section 2411.
+31FISCAL NOTE REQUIRED
+32(See attached)
+Approved: 07/23/20
+LD 1 964 LR 2605 (02)
+Correctional and Judicial  Impact Statements129th MAINE LEGISLATURE
+An Act To Limit Access to Juvenile Case Records a nd Protect the Confidentia lity of Juvenile History 
+Record Information
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Judiciar y
+Fiscal Note Re quired: Yes
+Fiscal Note
+Minor cost increase - General Fund
+This bill will neither increase nor decrease the number of new cases. 
+This bill may increase administrative costs and the workload of  judicial and clerk staff, but the Courts do not require 
+additional funding at this time.
+LR2605(02) - Fiscal Note - Page 1 of 1

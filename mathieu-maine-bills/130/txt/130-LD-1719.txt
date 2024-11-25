@@ -1,0 +1,243 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1719
+H.P. 1274 House of  Representatives, May 19, 2021
+An Act  To Prevent  Human Trafficking and Child  Exploitation
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative SAMPSON of Alfred.
+Cosponsored by Senator KEIM of Oxford and
+Representatives: LYMAN of Livermore Falls, O'CONNOR  of Berwick,  QUINT of Hodgdon.
+
+Page 1 - 130LR0842(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA c. 1057 is enacted to read:
+3CHAPTER 1057
+4HUMAN TRAFFICKING AND CHILD EXPLOITATION PREVENTION
+5§9571.  Definitions
+6 As used in this chapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Affirmative defense.  "Affirmative defense" means that the matter so designated 
+9 must be proved by the defendant by a preponderance of the evidence.  
+102.  Cellular telephone.  "Cellular telephone" means a communication device 
+11 containing a unique electronic serial number that is programmed into the device's computer 
+12 chip by the manufacturer and whose operation is dependent on the transmission of the 
+13 electronic serial number and a mobile identification number, assigned by the cellular 
+14 telephone carrier, in the form of radio signals through a cellular network and mobile 
+15 switching stations.
+163.  Child pornography.  "Child pornography" means sexually explicit material 
+17 depicting a person who has not attained 16 years of age and has the same meaning as in 18 
+18 United States Code, Section 2256(8).
+194.  Computer.  "Computer" has the same meaning as in 18 United States Code, Section 
+20 1030(e)(1).
+215.  Consumer.  "Consumer" means an individual, business or entity that purchases or 
+22 leases for personal, family or household purposes or any other reason an Internet-enabled 
+23 device.
+246.  Data communications device.  "Data communications device" means an electronic 
+25 device that receives electronic information from one source and transmits or routes it to 
+26 another.
+277.  Distribute.  "Distribute" has the same meaning as in Title 17, section 2911, 
+28 subsection 1, paragraph A.
+298.  Filter.  "Filter" means a digital blocking capability, hardware or software that 
+30 restricts or blocks Internet access to a website, e-mail, chat or other Internet-based 
+31 communication based on category, site or content, including a digital blind that conceals 
+32 pornographic or objectionable content, and can be deactivated by a retailer upon the 
+33 satisfaction of certain nominal conditions.
+349.  Human trafficking.  "Human trafficking" means conduct constituting a criminal 
+35 offense under Title 17-A, section 853.
+3610.  Internet.  "Internet" has the same meaning as in 31 United States Code, Section 
+37 5362(5).
+Page 2 - 130LR0842(01)111.  Internet-enabled device.  "Internet-enabled device" means a cellular telephone, 
+2 computer, data communications device or other product manufactured, distributed or sold 
+3 in the State that provides Internet access or plays a material role in distributing content on 
+4 the Internet.
+512.  Internet service provider.  "Internet service provider" means a person engaged 
+6 in the business of providing consumer access to the Internet. "Internet service provider" 
+7 does not include a common carrier if the carrier provides only telecommunications service.
+813.  Obscene material.  "Obscene material" has the same meaning as "obscene matter" 
+9 in Title 17, section 2911, subsection 1, paragraph D and includes a digital image or website 
+10 that:
+11 A.  Is known to facilitate human trafficking and prostitution; or
+12 B.  Displays or depicts an image that is harmful to a minor or that constitutes 
+13 sadomasochistic abuse, sexually explicit conduct or revenge pornography.
+1414. Personally identifiable information. "Personally identifiable information" means 
+15 any information that identifies a person, including an individual's photograph, social 
+16 security number, driver's license number, name, e-mail address, address or telephone 
+17 number.
+1815.  Prostitution.  "Prostitution" has the same meaning as in Title 17-A, section 851, 
+19 subsection 1.
+2016.  Retailer.  "Retailer" means a person subject to the jurisdiction of this State that 
+21 regularly engages in the manufacturing, sale, offer for sale, lease or distribution of an 
+22 Internet-enabled device or service in the State that makes content accessible on the Internet. 
+23 "Retailer" includes an Internet service provider and a supplier or manufacturer of an 
+24 Internet-enabled device that distributes content on the Internet or that makes content 
+25 accessible.
+2617.  Revenge pornography.  "Revenge pornography" means a sexually explicit image 
+27 or video of an individual distributed without the individual's consent to blackmail, coerce, 
+28 punish, silence or damage the reputation of the individual or for financial gain.
+2918.  Sadomasochistic abuse.  "Sadomasochistic abuse" means flagellation or torture 
+30 by or upon a person clad in undergarments, a mask or a costume or the condition of being 
+31 fettered, bound or otherwise physically restrained by the person who is clothed.
+3219.  Sexually explicit conduct.  "Sexually explicit conduct" means actual or simulated:
+33 A.  Sexual intercourse, including genital-genital, oral-genital, anal-genital or oral-anal 
+34 physical contact, whether between persons of the same or opposite sex or with an 
+35 artificial genital;
+36 B.  Bestiality;
+37 C.  Masturbation; 
+38 D.  Sadistic, masochistic or sadomasochistic abuse; or
+39 E.  Lascivious exhibition of the genitals or pubic area of a person.
+Page 3 - 130LR0842(01)120.  Social media website.  "Social media website" means an Internet website or 
+2 application that enables users to communicate with each other by posting information, 
+3 comments, messages or images and that:
+4 A.  Is open to the public;
+5 B.  Has more than 75,000,000 users;
+6 C.  From inception, has not been specifically affiliated with any one religion or political 
+7 party; and
+8 D.  Provides a means for the website's users to report obscene material and has in place 
+9 procedures for evaluating those reports and removing obscene material.
+10§9572.  Retailer duties; deactivation of filter; privacy of consumers
+111.  Duties of retailers.  A retailer shall:
+12 A.  Ensure that prior to the sale, lease or distribution of an Internet-enabled device that 
+13 the device is equipped with an active and operating filter that blocks by default a 
+14 website that:
+15 (1)  Is known to facilitate human trafficking or prostitution; or
+16 (2)  Displays child pornography, revenge pornography or obscene material harmful 
+17 to minors;
+18 B.  Make reasonable and ongoing efforts to ensure that the filter in paragraph A 
+19 functions properly;
+20 C.  Establish a reporting mechanism, including a website or call center, to allow a 
+21 consumer to report:
+22 (1)  An unblocked website displaying content described in paragraph A, 
+23 subparagraph (2); or 
+24 (2)  A blocked website that is not displaying content described in paragraph A, 
+25 subparagraph (2); and
+26 D.  Report child pornography reported through the mechanism in paragraph C to a 
+27 national center for missing and exploited children in accordance with 18 United States 
+28 Code, Section 2258A.
+292.  Deactivation of filter.  A retailer shall deactivate a filter in subsection 1, paragraph 
+30 A if a consumer:
+31 A.  Requests that the filter be deactivated;
+32 B.  Presents personally identifiable information to verify that the consumer is 18 years 
+33 of age or older; and
+34 C.  Acknowledges receiving a warning regarding the potential danger of deactivating 
+35 the filter. The Attorney General shall prepare and make available the warning under 
+36 this paragraph.
+37 A retailer may charge and retain a reasonable fee to deactivate the filter.
+383.  Privacy of consumers.  A retailer shall take due care to protect the privacy rights 
+39 of an adult consumer under this section and may not disclose the name or personally 
+40 identifiable information of an adult consumer who deactivates a filter under subsection 2. 
+Page 4 - 130LR0842(01)41 This section does not require a retailer to create a database or registry that contains the 
+42 name or personally identifiable information of an adult who knowingly chooses to 
+43 deactivate an Internet-enabled device's filter. 
+4§9573.  Reporting mechanism; civil action; deceptive trade practice; affirmative 
+5defense
+61.  Reporting mechanism for filter blocking content on website.  If a report is made 
+7 of a filter blocking a website under section 9572, subsection 1, paragraph C, subparagraph 
+8 (2), the retailer shall unblock or cause to be unblocked the website within a reasonable time 
+9 and no later than 5 business days after the block is first reported. If the website is not 
+10 unblocked within the time limits of this subsection, a consumer may seek judicial relief 
+11 through a civil action to unblock the website and, if the consumer prevails, may seek 
+12 attorney's fees, costs and other forms of relief.
+132.  Reporting mechanism for website displaying content.  If a retailer is 
+14 unresponsive to a report of an unblocked website made under section 9572, subsection 1, 
+15 paragraph C, subparagraph (1), the Attorney General or a consumer may seek judicial relief 
+16 through a civil action to block the website and, if the Attorney General or the consumer 
+17 prevails, is entitled to damages of up to $500 for each website that was reported but not 
+18 subsequently blocked and may seek attorney's fees, costs and other forms of relief.
+193.  Affirmative defense.  It is an affirmative defense in a civil action brought under 
+20 this section that the dissemination of the content described in section 9572, subsection 1, 
+21 paragraph A was limited to institutions or organizations having scientific, educational or 
+22 other similar justifications for displaying the material.
+234.  Unfair trade practice.  A retailer that violates this section commits a violation of 
+24 the Maine Unfair Trade Practices Act.
+25§9574.  Retailer prohibitions and penalties
+261.  Retailer prohibitions.  A retailer may not:
+27 A.  Sell an Internet-enabled device without a filter under section 9572, subsection 1;
+28 B.  Provide the mechanism or source code to deactivate a filter under section 9572, 
+29 subsection 2;
+30 C.  Fail to comply with the requirements of section 9572, subsection 2 before 
+31 deactivating a filter; 
+32 D.  Disclose to a 3rd party in violation of section 9572, subsection 3 without a court 
+33 order directing otherwise the name or the personally identifiable information of an 
+34 adult consumer who has elected to deactivate an Internet-enabled device's filter;
+35 E.  Block access to a website that:
+36 (1)  Is a social media website that provides a means for the website's users to report 
+37 obscene material and has in place a procedure for evaluating the reports and 
+38 removing obscene material;
+39 (2)  Serves primarily as a search engine; or
+40 (3)  Displays complete movies that meet the qualifications for a G, PG, PG-13 or 
+41 R rating by the Motion Picture Association, Classification and Rating 1
+2
+3
+Page 5 - 130LR0842(01)42 Administration or successor organization, as those qualifications existed on 
+43 September 1, 2020; or
+3 F.  Except as provided by section 9572, subsection 2, provide to a consumer methods, 
+4 source code or other operating instructions for deactivating an Internet-enabled device's 
+5 filter.
+62.  Civil violation.  A retailer that violates subsection 1, paragraph A commits a civil 
+7 violation for which no more than $1,000 may be adjudged for a first offense and no more 
+8 than $2,500 may be adjudged for a 2nd or subsequent offense.
+93.  Class E crime.  A retailer that violates subsection 1, paragraph A after having 
+10 previously violated subsection 1, paragraph A 2 or more times is guilty of a Class E crime.
+114.  Unfair trade practice.  A retailer that violates subsection 1, paragraph A commits 
+12 a violation of the Maine Unfair Trade Practices Act.
+135.  Enforcement.  The Attorney General or a district attorney with jurisdiction over 
+14 the matter may enforce this section.
+15§9575.  Exemptions
+16 This chapter does not apply to:
+171.  Person who is not retailer.  An occasional sale of an Internet-enabled device by a 
+18 person that is not regularly engaged in the trade or business of selling Internet-enabled 
+19 devices;
+202.  Prior product.  A product produced or sold before the enactment of this section; 
+213.  Independent 3rd-party provider.  An independent 3rd-party provider that is not 
+22 affiliated with an Internet service provider; or
+234.  Person not subject to state jurisdiction.  A person that is not subject to the 
+24 jurisdiction of the State who regularly engages in the manufacturing, sale, offer for sale, 
+25 lease or distribution of an Internet-enabled device or service that makes content accessible 
+26 on the Internet.
+27Sec. 2.  Contingent effective date. This Act does not take effect until the passage, 
+28 approval, ratification and enactment of similar legislation by 4 other states. Within 10 days 
+29 of the date that the 4 states enact legislation similar to this Act, the Attorney General shall 
+30 advise the Governor, the President of the Senate, the Speaker of the House of 
+31 Representatives and the Revisor of Statutes of the effective date of this Act.
+32SUMMARY
+33 This bill requires retailers, manufacturers, suppliers and Internet service providers 
+34 subject to the jurisdiction of the State that regularly engage in the manufacturing, sale, offer 
+35 for sale, lease or distribution of an Internet-enabled device or service in the State that makes 
+36 content accessible on the Internet to equip all such devices with filters to block any website 
+37 that promotes prostitution or displays child pornography, revenge pornography or obscene 
+38 material harmful to minors.  The bill provides a reporting mechanism for reporting a 
+39 website displaying obscene material or a blocked website that does not display obscene 
+40 material, with penalties on retailers for not adequately responding to reports filed.1
+2
+33
+34
+35
+36
+37
+38
+39
+40

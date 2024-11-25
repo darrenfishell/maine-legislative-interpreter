@@ -1,0 +1,157 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 566
+H.P. 410 House of  Representatives, February 5, 2019
+An Act  To Protect  Vulnerable  Adults  from  Financial Exploitation
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BAILEY of  Saco.
+Cosponsored by Senator FOLEY of  York and
+Representatives: BABINE of Scarborough,  COREY of Windham, FAY  of Raymond, 
+MASTRACCIO of Sanford, PRESCOTT of Waterboro, TEPLER of Topsham, TUELL of East Machias, Senator: SANBORN, H. of  Cumberland.
+
+Page 1 - 129LR0288(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  32 MRSA c. 135, sub-c. 8 is enacted to read:
+3SUBCHAPTER 8
+4PROTECTION OF VULNERABLE ADULTS FROM FINANCIAL 
+5EXPLOITATION
+6§16801.  Definitions
+7As used in this subchapter, unless the context otherwise indicates, the following 
+8terms have the following meanings.
+91.  Eligible adult.  "Eligible adult" means:
+10A.  An individual 65 years of age or older; or
+11B.  An individual protected under the Adult Protective Services Act.
+122.  Financial exploitation.  "Financial exploitation" means:
+13A.  The wrongful or unauthorized taking, withholding, appropriation or use of 
+14money, assets or property of an eligible adult; or
+15B.  Any act or omission made by a person, including through the use of a power of 
+16attorney, guardianship or conservatorship of an eligible adult, to:
+17(1)  Obtain control, through deception, intimidation or undue influence, over the 
+18eligible adult's money, assets or property to deprive the eligible adult of the 
+19ownership, use, benefit or possession of the eligible adult's money, assets or 
+20property; or
+21(2)  Convert money, assets or property of the eligible adult to deprive the eligible 
+22adult of the ownership, use, benefit or possession of the eligible adult's money, 
+23assets or property.
+243.  Qualified individual.  "Qualified individual" means an agent, investment adviser 
+25representative or individual who serves in a supervisory, compliance or legal capacity for 
+26a broker-dealer or investment adviser.
+27§16802.  Governmental disclosures
+28If a qualified individual reasonably believes that financial exploitation of an eligible 
+29adult may have occurred, may have been attempted or is being attempted, the qualified 
+30individual shall promptly notify the Department of Health and Human Services and the 
+31administrator.
+Page 2 - 129LR0288(01)-11§16803.  Immunity for governmental disclosures
+2A qualified individual who in good faith and exercising reasonable care makes a 
+3disclosure of information pursuant to section 16802 is immune from any administrative or 
+4civil liability that might otherwise arise from the disclosure or for a failure to notify the 
+5eligible adult of the disclosure.
+6§16804.  Third-party disclosures
+7If a qualified individual reasonably believes that financial exploitation of an eligible 
+8adult may have occurred, may have been attempted or is being attempted, the qualified 
+9individual may notify any 3rd party previously designated by the eligible adult.  
+10Disclosure may not be made to any designated 3rd party that is suspected of financial 
+11exploitation or other abuse of the eligible adult.
+12§16805.  Immunity for 3rd-party disclosures
+13A qualified individual who in good faith and exercising reasonable care complies 
+14with section 16804 is immune from any administrative or civil liability that might 
+15otherwise arise from a disclosure under section 16804.
+16§16806.  Delaying disbursements
+17A broker-dealer or investment adviser may delay disbursements in accordance with 
+18this section.
+191.  Disbursement delay authorized.  A broker-dealer or investment adviser may 
+20delay a disbursement from an account of an eligible adult or an account on which an 
+21eligible adult is a beneficiary if the broker-dealer or investment adviser or a qualified 
+22individual reasonably believes, after initiating an internal review of the requested 
+23disbursement and the suspected financial exploitation, that the requested disbursement 
+24may result in financial exploitation of the eligible adult.  If a broker-dealer or investment 
+25adviser delays a disbursement under this subsection, the broker-dealer or investment 
+26adviser shall:
+27A.  Within 2 business days after the requested disbursement, provide written 
+28notification of the delay and the reason for the delay to all parties authorized to 
+29transact business on the account, except that notification may not be provided to a 3rd 
+30party reasonably believed to have engaged in suspected or attempted financial 
+31exploitation of the eligible adult;
+32B.  Within 2 business days after the requested disbursement, notify the Department of 
+33Health and Human Services and the administrator; and
+34C.  Continue the broker-dealer's or investment adviser's internal review of the 
+35suspected or attempted financial exploitation of the eligible adult, as necessary, and 
+36report the results of the internal review to the Department of Health and Human 
+37Services and the administrator within 7 business days after the requested 
+38disbursement.
+Page 3 - 129LR0288(01)-112.  Expiration.  A delay of a disbursement as authorized by this section expires upon 
+2the sooner of:
+3A.  A determination by the broker-dealer or investment adviser that the disbursement 
+4will not result in financial exploitation of the eligible adult; or
+5B.  Fifteen business days after the date on which the broker-dealer or investment 
+6adviser first delayed disbursement of the funds unless the Department of Health and 
+7Human Services or the administrator requests that the broker-dealer or investment 
+8adviser extend the delay, in which case the delay expires no more than 25 business 
+9days after the date on which the broker-dealer or investment adviser first delayed 
+10disbursement of the funds unless terminated earlier by the Department of Health and 
+11Human Services or the administrator or by an order of a court of competent 
+12jurisdiction.
+133.  Judicial order.  A court of competent jurisdiction may enter an order extending 
+14the delay of the disbursement of funds or may order other protective relief based on a 
+15petition from the Department of Health and Human Services or the administrator or from 
+16the broker-dealer or the investment adviser that initiated the delay under this section or 
+17from another interested party.
+18§16807.  Immunity for delaying disbursements
+19A broker-dealer or investment adviser that in good faith and exercising reasonable 
+20care complies with section 16806 is immune from any administrative or civil liability that 
+21might otherwise arise from a delay in a disbursement in accordance with section 16806.
+22§16808.  Records
+23A broker-dealer or investment adviser shall provide access to or copies of records that 
+24are relevant to the suspected or attempted financial exploitation of an eligible adult to the 
+25Department of Health and Human Services and to a law enforcement agency as part of a 
+26referral to the department or to a law enforcement agency or upon request of the 
+27department or a law enforcement agency pursuant to an investigation.  The records may 
+28include historical records and records relating to recent transactions that may constitute 
+29financial exploitation of an eligible adult.  All records made available to agencies under 
+30this section are not public records for purposes of Title 1, chapter 13, subchapter 1.  
+31Nothing in this section limits or otherwise impedes the authority of the administrator to 
+32access or examine the books and records of broker-dealers and investment advisers as 
+33otherwise provided by law.
+34SUMMARY
+35This bill requires reporting to the Securities Administrator within the Department of 
+36Professional and Financial Regulation, Office of Securities and the Department of Health 
+37and Human Services by qualified individuals who reasonably believe that financial 
+38exploitation of a vulnerable adult may have occurred, may have been attempted or is 
+39being attempted.  It defines "qualified individual" to mean an agent, an investment 
+Page 4 - 129LR0288(01)-11adviser representative and a person who serves in a supervisory, compliance or legal 
+2capacity for a broker-dealer or investment adviser.  The bill also:
+31.  Authorizes broker-dealers and investment advisers who suspect financial 
+4exploitation to delay disbursing funds from a vulnerable adult's account;
+52.  Authorizes disclosure by qualified individuals to 3rd parties in certain instances in 
+6which a vulnerable adult has previously designated the 3rd party;
+73.  Prohibits disclosure to the 3rd party if the qualified individual suspects the 3rd 
+8party of the financial exploitation;
+94.  Provides immunity from administrative and civil liability for actions taken 
+10consistent with the law; and
+115.  Requires that broker-dealers and investment advisers comply with certain requests 
+12for information.

@@ -1,0 +1,315 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2103
+H.P. 1498 House of  Representatives, February 11, 2020
+An Act  To Implement  the Recommendations of the Right To Know  
+Advisory Committee Regarding Public Records  Exceptions
+Reported by Representative BAILEY of  Saco for the Joint  Standing Committee  on 
+Judiciary pursuant to  the Maine Revised  Statutes, Title  1, section 411, subsection 6, paragraph  
+G.
+Reference to the Committee on Judiciary  suggested and ordered  printed pursuant to Joint  
+Rule 218.
+ROBERT  B. HUNT
+Clerk
+
+Page 1 - 129LR3192(01)-11Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  1 MRSA §402, sub-§3, ¶C-1, as enacted by PL 2011, c. 264, §1, is 
+4amended to read:
+5C-1.  Information contained in a communication between a constituent and an elected 
+6official if the information:
+7(1)  Is of a personal nature, consisting of:
+8(a)  An individual's medical information of any kind, including information 
+9pertaining to diagnosis or treatment of mental or emotional disorders;
+10(b)  Credit or financial information;
+11(c)  Information pertaining to the personal history, general character or 
+12conduct of the constituent or any member of the constituent's immediate 
+13family; or
+14(d)  Complaints, charges of misconduct, replies to complaints or charges of 
+15misconduct or memoranda or other materials pertaining to disciplinary 
+16action; or
+17(e)  An individual's social security number; or
+18(2)  Would be confidential if it were in the possession of another public agency or 
+19official;
+20Sec. A-2.  1 MRSA §402, sub-§3, ¶K, as amended by PL 2003, c. 392, §1, is 
+21further amended to read:
+22K.  Personally identifying information concerning minors that is obtained or 
+23maintained by a municipality in providing recreational or nonmandatory educational 
+24programs or services, if the municipality has enacted an ordinance that specifies the 
+25circumstances in which the information will be withheld from disclosure.  This 
+26paragraph does not apply to records governed by Title 20-A, section 6001 and does 
+27not supersede Title 20-A, section 6001-A;
+28Sec. A-3.  1 MRSA §402, sub-§3, ¶M, as amended by PL 2011, c. 662, §2, is 
+29further amended to read:
+30M.  Records or information describing the architecture, design, access authentication, 
+31encryption or security of information technology infrastructure, systems and 
+32software, including records or information maintained to ensure government 
+33operations and technology continuity and to facilitate disaster recovery.  Records or 
+34information covered by this paragraph may be disclosed to the Legislature or, in the 
+35case of a political or administrative subdivision, to municipal officials or board 
+36members under conditions that protect the information from further disclosure;
+37Sec. A-4.  3 MRSA §997, sub-§1, as enacted by PL 2001, c. 702, §2, is amended 
+38to read:
+Page 2 - 129LR3192(01)-111.  Review and response.  Prior to the presentation of a program evaluation under 
+2this chapter to the committee by the office, the director of the evaluated state agency or 
+3other entity must have an opportunity to review a draft of the program evaluation report. 
+4Within 15 calendar days of receipt of the draft report, the director of the evaluated state 
+5agency or other entity may provide to the office comments on the draft report.  If 
+6provided to the office by the comment deadline, the comments must be included in the 
+7final report when it is presented to the committee.  Failure by the director of an evaluated 
+8agency or other entity to submit its comments on the draft report by the comment 
+9deadline may not delay the submission of a report to the committee or its release to the 
+10public.
+11All documents, writings, drafts, electronic communications and information transmitted 
+12pursuant to this subsection are confidential and may not be released to the public prior to 
+13the time the office issues its program evaluation report pursuant to subsection 3.  A 
+14person violating the provisions of this subsection regarding confidentiality is guilty of a 
+15Class E crime.
+16Sec. A-5.  3 MRSA §997, sub-§3, as enacted by PL 2001, c. 702, §2, is amended 
+17to read:
+183.  Confidentiality.  The director shall issue program evaluation reports, favorable or 
+19unfavorable, of any state agency or other entity, and these reports are public records, 
+20except that, prior to the release of a program evaluation report pursuant to subsection 2 or 
+21the point at which a program evaluation is no longer being actively pursued, all papers, 
+22physical and electronic records and correspondence and other supporting materials 
+23comprising the working Working papers in the possession of the director or other entity 
+24charged with the preparation of a program evaluation report an entity with which the 
+25director has contracted for the conduct of program evaluations pursuant to section 995, 
+26subsection 2 are confidential and exempt from disclosure pursuant to Title 1, chapter 13, 
+27including disclosure to the Legislative Council or an agent or representative of the 
+28Legislative Council.  All other records or materials in the possession of the director or 
+29other entity charged with the preparation of a program evaluation report under this 
+30chapter an entity with which the director has contracted for the conduct of program 
+31evaluations pursuant to section 995, subsection 2 that would otherwise be confidential or 
+32exempt from disclosure are exempt from disclosure pursuant to the provisions of Title 1, 
+33chapter 13.  Prior to the release of a program evaluation report pursuant to subsection 2 or 
+34the point at which a program evaluation is no longer being actively pursued, all papers, 
+35physical and electronic records and correspondence and other supporting materials 
+36comprising the working papers in the possession of the director or other entity charged 
+37with the preparation of a program evaluation report are confidential and may not be 
+38released or disclosed by the director to the Legislative Council or an agent or 
+39representative of the Legislative Council.  This subsection may not be construed to 
+40prohibit or prevent public access to the records of a state agency or other entity in the 
+41possession of the director that would otherwise be subject to disclosure pursuant to the 
+42provisions of Title 1, chapter 13.  The director shall refer requests for access to those 
+43records directly to the state agency or other entity that is the official custodian of the 
+44requested records, which shall respond to the request for public records.
+Page 3 - 129LR3192(01)-11Sec. A-6.  3 MRSA §997, sub-§5, as enacted by PL 2001, c. 702, §2, is amended 
+2to read:
+35.  Confidentiality of working papers Disclosure to agency or entity subject to 
+4program evaluation.  Except as provided in this subsection, working papers are 
+5confidential pursuant to subsection 3 and may not be disclosed to any person.  Prior to the 
+6release of the final program evaluation report, the director has sole discretion to disclose 
+7working papers to the state agency or other entity subject to the program evaluation when 
+8disclosure will not prejudice the program evaluation.  After release of the final program 
+9evaluation report, working papers may be released as necessary to the state agency or 
+10other entity that was subject to the program evaluation under this chapter.
+11Sec. A-7.  5 MRSA §4572, sub-§2, ¶C, as enacted by PL 1995, c. 393, §13, is 
+12amended by amending subparagraph (2) to read:
+13(2)  Information obtained regarding the Any medical condition or and disability 
+14information and history of the applicant is collected and maintained on separate 
+15forms and in separate medical files and is treated as a confidential medical 
+16record, except that:
+17(a)  Supervisors and managers may be informed regarding necessary 
+18restrictions on the work or duties of the employee and necessary 
+19accommodations;
+20(b)  First aid and safety personnel may be informed, when appropriate, if the 
+21disability might require emergency treatment; and
+22(c)  Government officials investigating compliance with this Act are provided 
+23relevant information on request; and
+24Sec. A-8.  5 MRSA §4572, sub-§2, ¶E, as enacted by PL 1995, c. 393, §13, is 
+25amended to read:
+26E.  A covered entity may conduct voluntary medical examinations, including 
+27voluntary medical histories and disability information and history, that are part of an 
+28employee health or wellness program available to employees at that work site.  A 
+29covered entity may make inquiries into the ability of an employee to perform job-
+30related functions.  Information obtained under this paragraph regarding the medical 
+31condition or and disability information and history of an employee is subject to the 
+32requirements of paragraph C, subparagraphs (2) and (3).
+33Sec. A-9.  5 MRSA §4573, sub-§2, as amended by PL 1995, c. 393, §16, is 
+34further amended to read:
+352.  Records. After employment or admission to membership, to make a record of 
+36such features of an individual as are needed in good faith for the purpose of identifying 
+37them the individual, provided the record is intended and used in good faith solely for 
+38identification, and not for the purpose of discrimination in violation of this Act.  Records 
+39of features regarding physical or mental disability that are collected must be collected and 
+40maintained on separate forms and in separate files and be treated as confidential records;
+Page 4 - 129LR3192(01)-11PART B
+2Sec. B-1.  1 MRSA §402, sub-§3, ¶E, as repealed and replaced by PL 1989, c. 
+3878, Pt. A, §2 and amended by PL 2003, c. 20, Pt. OO, §2 and affected by §4, is further 
+4amended to read:
+5E.  Records, working papers, interoffice and intraoffice memoranda used by or 
+6prepared for faculty and administrative committees of the Maine Maritime Academy, 
+7the Maine Community College System and the University of Maine System when the 
+8subject matter is confidential or otherwise protected from disclosure by statute, other 
+9law, legal precedent or privilege recognized by the courts of this State. The 
+10provisions of this paragraph do not apply to the boards of trustees and the committees 
+11and subcommittees of those boards, which are referred to in subsection 2, paragraph 
+12B;
+13Sec. B-2.  1 MRSA §402, sub-§3, ¶J, as amended by PL 2001, c. 675, §1, is 
+14further amended to read:
+15J.  Working papers, including records, drafts and interoffice and intraoffice 
+16memoranda, used or maintained by any advisory organization covered by subsection 
+172, paragraph F, or any member or staff of that organization during the existence of the 
+18advisory organization.  Working papers are public records if distributed by a member 
+19or in a public meeting of the advisory organization;
+20Sec. B-3.  1 MRSA §402, sub-§3, ¶O, as corrected by RR 2009, c. 1, §1, is 
+21amended by amending subparagraph (1) to read:
+22(1)  "Personal contact information" means home personal address, home 
+23telephone number, home facsimile number, home e-mail address and personal, 
+24cellular telephone number and personal, pager number and username, password 
+25and uniform resource locator for a personal social media account as defined in 
+26Title 26, section 615, subsection 4; and
+27Sec. B-4.  1 MRSA §402, sub-§3, ¶U, as amended by PL 2017, c. 118, §2, is 
+28further amended to read:
+29U.  Records provided by a railroad company describing hazardous materials 
+30transported by the railroad company in this State, the routes of hazardous materials 
+31shipments and the frequency of hazardous materials operations on those routes that 
+32are in the possession of a state or local emergency management entity or law 
+33enforcement agency, a fire department or other first responder, except that records 
+34related to a discharge of hazardous materials transported by a railroad company that 
+35poses a threat to public health, safety and welfare are subject to public disclosure 
+36after that discharge.  For the purposes of this paragraph, "hazardous material" has the 
+37same meaning as set forth in 49 Code of Federal Regulations, Section 105.5; and
+38Sec. B-5.  5 MRSA §244-E, sub-§3, as enacted by PL 2009, c. 567, §1, is 
+39amended to read:
+Page 5 - 129LR3192(01)-113.  Coordination with Office of Program Evaluation and Government 
+2Accountability and Attorney General; disclosure to state agencies.  The State Auditor 
+3may disclose information that is confidential under this section to the Director of the 
+4Office of Program Evaluation and Government Accountability and the Attorney General 
+5to ensure appropriate agency referral or coordination between agencies to respond 
+6appropriately to all complaints made under this section.  The State Auditor may disclose 
+7information that is confidential under this section related to a complaint alleging fraud, 
+8waste, inefficiency or abuse to a department or agency that is the subject of a complaint 
+9to ensure that the department or agency can respond appropriately to the complaint. The 
+10department or agency shall maintain as confidential any information related to a 
+11complaint furnished by the State Auditor.
+12Sec. B-6.  7 MRSA §2992-A, sub-§1, ¶C, as amended by PL 2007, c. 597, §9 
+13and PL 2011, c. 657, Pt. W, §6, is further amended by amending subparagraph (2) to 
+14read:
+15(2)  All meetings and records of the board are subject to the provisions of Title 1, 
+16chapter 13, subchapter 1, except that, by majority vote of those members present 
+17recorded in a public session, records and meetings of the board may be closed to 
+18the public when public disclosure of the subject matter of the records or meetings 
+19would adversely affect the competitive position of the milk industry of the State 
+20or segments of that industry.  The Commissioner of Agriculture, Conservation 
+21and Forestry and those members of the Legislature appointed to serve on the joint 
+22standing committee of the Legislature having jurisdiction over agricultural, 
+23conservation and forestry matters have access to all material designated 
+24confidential by the board; 
+25Sec. B-7.  7 MRSA §2998-B, sub-§1, ¶C, as amended by PL 2007, c. 597, §10 
+26and PL 2011, c. 657, Pt. W, §6, is further amended by amending subparagraph (2) to 
+27read:
+28(2)  All meetings and records of the council are subject to the provisions of Title 
+291, chapter 13, subchapter 1, except that, by majority vote of those members 
+30present recorded in a public session, records and meetings of the council may be 
+31closed to the public when public disclosure of the subject matter of the records or 
+32meetings would adversely affect the competitive position of the milk industry of 
+33the State or segments of that industry.  The Commissioner of Agriculture, 
+34Conservation and Forestry and those members of the Legislature appointed to 
+35serve on the joint standing committee of the Legislature having jurisdiction over 
+36agricultural, conservation and forestry matters have access to all material 
+37designated confidential by the council; 
+38Sec. B-8.  Public records exceptions and confidential records; drafting 
+39templates.  The Office of Policy and Legal Analysis, in consultation with the Office of 
+40the Revisor of Statutes and the Right To Know Advisory Committee, shall examine 
+41inconsistencies in statutory language related to the designation as confidential or not 
+42subject to public disclosure of information and records received or prepared for use in 
+43connection with the transaction of public or governmental business or containing 
+44information relating to the transaction of public or governmental business and shall 
+Page 6 - 129LR3192(01)-11recommend standardized language for use in drafting statutes to clearly delineate what 
+2information is confidential and the circumstances under which that information may 
+3appropriately be released.  On or before September 1, 2021, the Office of Policy and 
+4Legal Analysis shall submit a report with its recommendations to the Right To Know 
+5Advisory Committee.
+6SUMMARY
+7This bill implements the recommendations of the Right To Know Advisory 
+8Committee concerning public records exceptions as included in Appendix C of the 
+9Fourteenth Annual Report of the Right To Know Advisory Committee.
+10Part A implements statutory changes initially recommended by the Right To Know 
+11Advisory Committee in 2019 pursuant to its responsibility to review existing public 
+12records exceptions and included in L.D. 1511, "An Act To Implement the 
+13Recommendations of the Right To Know Advisory Committee Concerning Public 
+14Records Exceptions."
+15Part A eliminates specific protection under the Freedom of Access Act for social 
+16security numbers in the context of constituent communications because social security 
+17numbers are designated as not public records for all contexts.
+18Current law provides that personally identifying information concerning minors that 
+19is obtained or maintained by a municipality in providing recreational or nonmandatory 
+20educational programs or services is not a public record as long as the municipality has 
+21adopted an ordinance that protects the information from disclosure. Part A removes the 
+22requirement that a municipality adopt such an ordinance in order to protect the 
+23information concerning minors.
+24Current law provides a public records exception for records or information describing 
+25the architecture, design, access authentication, encryption or security of information 
+26technology infrastructure, systems and software. Part A amends the provision to 
+27specifically include records or information maintained to ensure government operations 
+28and technology continuity and to facilitate disaster recovery.
+29Part A amends the statutes governing the confidentiality of the working papers of the 
+30Office of Program Evaluation and Government Accountability to clarify that the working 
+31papers, whether in the possession of the office or an entity with which the office director 
+32has contracted, remain confidential even after the report is released to the public. It 
+33removes duplicative language that is already captured in the definition of working papers.
+34Part A amends the Maine Human Rights Act to update and clarify the language 
+35describing medical history and information about disabilities, as well as to update a 
+36reference to employee health and wellness programs.
+37Part B implements recommendations identified by the Right To Know Advisory 
+38Committee in 2019.
+Page 7 - 129LR3192(01)-11Four sections of Part B amend specific exceptions to the definition of public records 
+2in the Freedom of Access Act.
+31.  Part B amends the existing public records exceptions to clarify that records, 
+4working papers and interoffice and intraoffice memoranda used by or prepared for faculty 
+5and administrative committees of the Maine Maritime Academy, the Maine Community 
+6College System and the University of Maine System are confidential when the subject 
+7matter is confidential or otherwise protected from disclosure by statute, other law, legal 
+8precedent or privilege recognized by the courts of this State.
+92.  Part B amends the public records exceptions to clarify that working papers 
+10become public records once distributed in a public meeting of an advisory organization 
+11and not when distributed by an individual member of an advisory organization.
+123.  Part B amends the public records exceptions to provide that personal contact 
+13information concerning public employees protected as confidential includes a person’s 
+14username, password and uniform resource locator for a personal social media account.
+154.  Part B amends the public records exceptions to make records related to a 
+16discharge of hazardous materials transported by a railroad company that poses a threat to 
+17public health, safety and welfare subject to public disclosure after that discharge.
+18Part B amends the public records exceptions under the laws governing the Office of 
+19the State Auditor to permit the State Auditor to share confidential information related to a 
+20complaint alleging fraud, waste, inefficiency or abuse with a department or agency that is 
+21the subject of a complaint to ensure that the department or agency can respond 
+22appropriately to the complaint. The department or agency is required to maintain the 
+23confidentiality of any information related to a complaint furnished by the State Auditor.
+24Part B amends the public records exceptions in the laws governing the Maine Dairy 
+25Promotion Board and the Maine Dairy and Nutrition Council to remove references to a 
+26particular segment or segments of the milk industry.
+27Part B directs the Office of Policy and Legal Analysis, in consultation with the Office 
+28of the Revisor of Statutes and the Right To Know Advisory Committee, to examine 
+29inconsistencies in statutory language related to the designation of information and records 
+30as confidential or not subject to public disclosure and to recommend standardized 
+31language for use in drafting statutes to clearly delineate what information is confidential 
+32and the circumstances under which that information may appropriately be released.  The 
+33Office of Policy and Legal Analysis is required to submit a report with its 
+34recommendations to the Right To Know Advisory Committee on or before September 1, 
+352021.

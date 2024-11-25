@@ -1,0 +1,75 @@
+ 
+ 
+ 
+April 16, 2023  
+ 
+Sen. Chip Curry, Senate Chair  
+Rep. Tiffany Roberts, House Chair  
+Maine Joint St anding Committee on Innovation, Development, Economic Advancement and Business  
+Maine State House  
+August, Maine  04330  
+ 
+Re: CTA Opposition to L.D. 1487  
+ 
+Chair Curry  and Ch air Roberts, and Joint Committee Members : 
+ 
+On behalf of the Consumer Technology Association (CTA) , we are writing in  opposition to L.D. 1487 .  
+ 
+CTA is the trade association representing the U.S. consumer technology industry. Our members 
+are the world’s lead ing innovators – from startups to global brands – helping to support more than 
+18 million American jobs. Our membership is mostly small businesses  and startups, but also 
+includes some of the  world’s  best -known  manufacturer  and retail  brands.   
+ 
+CTA stands r eady to work with repair advocates to establish a national Memorandum of 
+Understanding (MO U) to facilitate repair nationally consistent with the recently enacted New York 
+repair law.  Enactment of varying state repair laws with dif ferent requirements  and definitions  
+subject to differing  interpretations  by state courts and regulators is a major concern for our 
+industry.   
+ 
+Beyon d that over all concern, the specific provisions of L.D. 1487 raise num erous issues for  our 
+industry , including those  summarized below.   
+ 
+1. The definit ion of “Authorized Repair Provider ” encroaches into manufacturing operations .  
+CTA’s national  MOU offer  includes (as does the NY law) parity between the provision of spare 
+parts, too ls, and documentation for indep endent repair providers  and product owners  (both 
+external entities)  equiv alent to external authorized repair providers .  Unfortun ately, the 
+definition in L.D. 1487 equates internal manufacturer repair  with  these external activities which 
+goes well beyond opening up the repair market .    
+• Many manufacturers integrate internal repair operations with new product development, 
+R&D , and management of the manufacturing supply chain .  Parts used internally are 
+typically not designed with do cumentation or packaging or other distribution requirements  
+outside these internal manufacturer operations .   
+• If OEM -internal repairs are eq uated with external authorized  repair s, many manufacturers 
+doing post -warranty repairs will just stop doing  such  work  because of risks and extra c osts 
+associated with turning internal activities into external -facing operations .  This would be an  
+unfortunate  outcome and would inadvertently reduce repair a ctivities and increase the 
+generation of e-waste . 
+2. Implications of jail-break provisions .  Forcing manufacturers to create back -door keys to 
+consumer devices and to make those keys available to anyone claiming to be a device owner or 
+indep endent repair p rovider is a bad idea. This undermines state and federal fencing laws, 
+among other problems.  Security lock openings need to be in the hands of the product users to 
+access their device . 
+3. Retroactive laws are rarely cons titutional.  As currently written manufacturers would have to 
+compl y with these provisions for any product they have already produced in the past – 
+specifically the provisions would apply to any digital electronic equipment “sold or used ” in the 
+state, which is effectively a retroactive  law.  New York addressed this by specifying a date in the 
+future for which products first entering the marke t would be subject to the se new 
+requirements.  
+4. Breadth of prod ucts covered.   CTA represents techn ology produc ers and retailers in the 
+consumer market,  and as noted we continue to offer a national MOU for consumer digital 
+electronic products , but these pr ovisions would cover every product with di gital components 
+regardless of the market – business to business, business to government, and industrial users .  
+L.D. 1487 should be limited to the consumer market.    
+ 
+CTA has additional issues where language is not clear  or is incomplete to avoid undermining key 
+securit y and safety  provisions  associated with digital electronic devices.  CTA recommends the 
+joint committee  not pass  this leg islation . 
+ 
+Thank you again for the opportunity for us to testify.  
+ 
+Sincerely,  
+ 
+Walter Alcorn  
+Consumer Technology Association  
+VP, Environmental Affairs  
+

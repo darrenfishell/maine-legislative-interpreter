@@ -1,0 +1,109 @@
+To: Joint Standing Committee on Health Coverage, Insurance and Financial Services
+Fr: Katie Fullam Harris, MaineHealth
+RE: Research supporting LD 615, “An Act to Ensure Access to Newly Born Male Infant Circumcision 
+by Requiring MaineCare and Health Insurance Coverage”
+cc: Representative Kelly Murphy, Sponsor; Sarah Calder
+Senator Bailey, Representative Perry and members of the Health Coverage, Insurance and Financial 
+Services Committee, below, please find citations for the research mentioned in my testimony that 
+supports the validity of coverage for newborn male circumcision. As you will see below, the evidence 
+suggests that newborn male circumcision is a preventive measure that can lower the prevalence of 
+infections and other medical diagnoses. 
+Thank you, and I am happy to answer questions.  Sarah or I will be available at the work session, as well.
+Review J Urol. 2013 Jun;189(6):2118-24. doi: 10.1016/j.juro.2012.11.114. Epub 2012 Nov 28.
+Circumcision and lifetime risk of urinary tract infection: a systematic review and meta-analysis
+Brian J Morris 1, Thomas E Wiswell
+Abstract
+Purpose: Urinary tract infection is common in infant males who are uncircumcised and can lead to renal 
+parenchymal disease of the still growing pediatric kidney. Although the rate of urinary tract infection is 
+highest in the first year of life, the cumulative incidence during the rest of the lifetime is under-
+recognized, but is expected to be nontrivial. Thus, any intervention that might prevent urinary tract 
+infection would be expected to reduce suffering and medical costs.
+Materials and methods: We conducted a meta-analysis of 22 studies examining the single risk factor of 
+lack of circumcision, then determined the prevalence and relative risk of urinary tract infection in 
+different age groups (0 to 1, 1 to 16 and older than 16 years). From these data we estimated the lifetime 
+prevalence.
+Results: For age 0 to 1 year the relative risk was 9.91 (95% CI 7.49-13.1), for age 1 to 16 years RR was 
+6.56 (95% CI 3.26-13.2) and for older than 16 years it was 3.41-fold (95% CI 0.916-12.7) higher in 
+uncircumcised males. We then calculated that 32.1% (95% CI 15.6-49.8) of uncircumcised males 
+experience a urinary tract infection in their lifetime compared with 8.8% (95% CI 4.15-13.2) of 
+circumcised males (RR 3.65, 95% CI 1.15-11.8). The number needed to treat was 4.29 (95% CI 2.20-27.2).
+Conclusions: The single risk factor of lack of circumcision confers a 23.3% chance of urinary tract 
+infection during the lifetime. This greatly exceeds the prevalence of circumcision complications (1.5%), 
+which are mostly minor. The potential seriousness of urinary tract infection supports circumcision as a 
+desirable preventive health intervention in infant males.
+2. Review Can J Urol. 2016 Oct;23(5):8495-8502.
+Canadian Pediatrics Society position statement on newborn circumcision: a risk-benefit analysis revisited
+Brian J Morris 1, Jeffrey D Klausner, John N Krieger, Bradley J Willcox, Pierre D Crouse, Neil Pollock
+Abstract
+Introduction: The Canadian Pediatrics Society (CPS) recently released a position statement on early 
+infant (newborn) male circumcision (EIMC). It concluded that since benefits do not exceed risks, 
+circumcision should only be performed on boys in high-risk populations or circumstances. This 
+contradicts recommendations by the American Academy of Pediatrics and the Centers for Disease 
+Control and Prevention (CDC) whose policies each support more widespread implementation of EIMC. 
+Here we review the CPS statement, particularly its risk-benefit analysis, to determine the basis for this 
+disparity.
+Materials and methods: We performed a risk-benefit analysis based on relevant literature retrieved 
+from PubMed reporting frequency of each condition, giving emphasis to data from meta-analyses and 
+randomized controlled trials.
+Results: Although the CPS recognized some of the benefits of EIMC, its inclusion of weak studies of 
+adverse events led to these being over-estimated, greatly exceeding the figure of < 0.5% found in a 
+recent large, technically robust, CDC study. The CPS under-estimated benefits by omitting balanitis, 
+balanoposthitis, prostate cancer, some sexually transmitted infections and candidiasis, and failing to 
+consider lifetime prevalence of urinary tract infections in uncircumcised males. In contrast, our more 
+inclusive risk-benefit analysis found benefits exceed risks by approximately 100 to 1 and that lack of 
+EIMC contributes to adverse medical conditions, some potentially fatal, in approximately half of 
+uncircumcised males.
+Conclusions: The 2015 CPS position statement on EIMC is at odds with the evidence. The CPS 
+conclusions stem from errors in its risk-benefit analysis. In light of our findings we recommend the CPS 
+issue a revised statement.
+3. Pediatrics . 2018 Jul;142(1):e20173703. doi: 10.1542/peds.2017-3703. Epub 2018 Jun 7.
+Neonatal Circumcision and Urinary Tract Infections in Infants With Hydronephrosis
+Jonathan S Ellison 1, Geolani W Dy 2, Benjamin C Fu 3, Sarah K Holt 2, John L Gore 3, Paul A Merguerian 
+Abstract
+Background: Boys with urinary tract abnormalities may derive a greater benefit from newborn 
+circumcision for prevention of urinary tract infection (UTI) than the general population. However, the 
+effect of newborn circumcision on UTI is not well characterized across the etiological spectrum of 
+hydronephrosis. We hypothesized that boys with an early diagnosis of hydronephrosis who undergo 
+newborn circumcision will have reduced rates of UTI.
+Methods: The MarketScan data set, an employer-based claims database, was used to identify boys with 
+hydronephrosis or hydronephrosis-related diagnoses within the first 30 days of life. The primary 
+outcome was the rate of UTIs within the first year of life, comparing circumcised boys with 
+uncircumcised boys and adjusting for region, insurance type, year of birth, and infant comorbidity.
+Results: A total of 5561 boys met inclusion criteria, including 2386 (42.9%) undergoing newborn 
+circumcision and 3175 (57.1%) uncircumcised boys. On multivariate analysis, circumcision was 
+associated with a decreased risk of UTI in both boys with hydronephrosis and healthy cohorts: odds ratio 
+(OR) 0.36 (95% confidence interval [CI] 0.29-0.44) and OR 0.32 (95% CI 0.21-0.48), respectively. To 
+prevent 1 UTI, 10 patients with hydronephrosis would have to undergo circumcision compared with 83 
+healthy boys. Among specific hydronephrosis diagnoses, circumcision was associated with a reduced risk 
+of UTI for those with isolated hydronephrosis (OR 0.35 [95% CI 0.26-0.46]), vesicoureteral reflux (OR 
+0.35 [95% CI 0.23-0.54]), and ureteropelvic junction obstruction (OR 0.35 [95% CI 0.20-0.61]).
+Conclusions: Newborn circumcision is associated with a significantly lower rate of UTI among infant boys 
+with hydronephrosis.
+4. Review Mayo Clin Proc. 2014 May;89(5):677-86. doi: 10.1016/j.mayocp.2014.01.001. Epub 2014 Apr 
+2.
+Circumcision rates in the United States: rising or falling? What effect might the new affirmative pediatric 
+policy statement have?
+Brian J Morris 1, Stefan A Bailis 2, Thomas E Wiswell 3
+Abstract
+The objective of this review was to assess the trend in the US male circumcision rate and the impact that 
+the affirmative 2012 American Academy of Pediatrics policy statement might have on neonatal 
+circumcision practice. We searched PubMed for the term circumcision to retrieve relevant articles. This 
+review was prompted by a recent report by the Centers for Disease Control and Prevention that found a 
+slight increase, from 79% to 81%, in the prevalence of circumcision in males aged 14 to 59 years during 
+the past decade. There were racial and ethnic disparities, with prevalence rising to 91% in white, 76% in 
+black, and 44% in Hispanic males. Because data on neonatal circumcision are equivocal, we undertook a 
+critical analysis of hospital discharge data. After correction for underreporting, we found that the 
+percentage had declined from 83% in the 1960s to 77% by 2010. A risk-benefit analysis of conditions 
+that neonatal circumcision protects against revealed that benefits exceed risks by at least 100 to 1 and 
+that over their lifetime, half of uncircumcised males will require treatment for a medical condition 
+associated with retention of the foreskin. Other analyses show that neonatal male circumcision is cost-
+effective for disease prevention. The benefits of circumcision begin in the neonatal period by protection 
+against infections that can damage the pediatric kidney. Given the substantial risk of adverse conditions 
+and disease, some argue that failure to circumcise a baby boy may be unethical because it diminishes his 
+right to good health. There is no long-term adverse effect of neonatal circumcision on sexual function or 
+pleasure. The affirmative 2012 American Academy of Pediatrics policy supports parental education 
+about, access to, and insurance and Medicaid coverage for elective infant circumcision. As with 
+vaccination, circumcision of newborn boys should be part of public health policies. Campaigns should 
+prioritize population subgroups with lower circumcision prevalence and a higher burden of diseases that 
+can be ameliorated by circumcision.
+

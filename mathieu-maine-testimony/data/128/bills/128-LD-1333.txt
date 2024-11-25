@@ -1,0 +1,591 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1333
+H.P. 927 House of  Representatives,  April 6, 2017
+An Act  To Enact the Drug Trafficking Offender Registration and  
+Notification Act
+Reference to the Committee on Criminal  Justice and Public Safety suggested and  ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative LOCKMAN of Amherst.
+Cosponsored by Senator CYRWAY  of Kennebec and
+Representatives: CEBRA of Naples, GERRISH  of Lebanon, HARRINGTON of Sanford, 
+HERRICK of Paris, JOHANSEN of Monticello, NADEAU of Winslow, SKOLFIELD of Weld, STETKIS of Canaan.
+
+ 
+ Page 1 - 128LR0580(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  34-A MRSA c. 21 is enacted to read:  2 
+CHAPTER 21  3 
+DRUG TRAFFICKING OFF ENDER REGISTRATION A ND NOTIFICATION 4 
+ACT  5 
+§11601.  Short title  6 
+This chapter may be known and cited as "the Drug Traffick ing Offender Registration 7 
+and Notification Act."  The purpose of this chapter is to protect the public from 8 
+potentially dangerous registrants and offenders by enhancing access to information 9 
+concerning those registrants and offenders and to help curb drug trafficking in the State.  10 
+§11602.  Application  11 
+This chapter applies to:  12 
+1.  Maine.   A person who commits criminal conduct and is sentenced in this State on 13 
+or after October 1, 2017 as an adult or as a juvenile sentenced as an adult for that criminal 14 
+conduc t and that criminal conduct is a Tier I offense or Tier II offense; and  15 
+2.  Other jurisdictions.   A person who commits criminal conduct and is sentenced in 16 
+another jurisdiction for that criminal conduct on or after October 1, 2017 as an adult or as 17 
+a juven ile sentenced as an adult for an offense that contains the essential elements of a 18 
+Tier I offense or Tier  II offense.  19 
+§11603.  Definitions  20 
+As used in this chapter, unless the context otherwise indicates, the following terms 21 
+have the following meanings.  22 
+1.  Another state.   "Another state" means each of the several states except Maine and 23 
+includes the District of Columbia, the Commonwealth of Puerto Rico, the United States 24 
+Virgin Islands, Guam, American Samoa and the Northern Mariana Islands.  25 
+2.  Bureau.   "Bureau" means the Department of Public Safety, Bureau of State 26 
+Police, State Bureau of Identification.  27 
+3.  Conditional release.   "Conditional release" means supervised release of a 28 
+registrant or an offender from institutional confinement for placement on pr obation, 29 
+parole, supervised community confinement, home release monitoring or release under 30 
+Title 15, section 104 -A or Title 17 -A, chapter 54 -G. 31 
+4.  Discharge.   "Discharge" means unconditional release and discharge of a registrant 32 
+from institutional confin ement upon the expiration of a sentence or upon discharge under 33 
+Title 15, section 104 -A. 34 
+ 
+ Page 2 - 128LR0580(01) -1 
+ 5.  Domicile.   "Domicile" means the place where a person has that person's 1 
+established, fixed, permanent or ordinary dwelling place or legal residence to which, 2 
+whenev er the person is absent, the person has the intention of returning.  A person may 3 
+have more than one residence but only one domicile.  4 
+6.  FBI.   "FBI" means the Federal Bureau of Investigation.  5 
+7.  Jurisdiction.   "Jurisdiction" means the Federal Government,  including the 6 
+military, this State, another state or a tribe.  7 
+8.  Law enforcement agency having jurisdiction.   "Law enforcement agency 8 
+having jurisdiction" means the chief of police in the municipality where a registrant or an 9 
+offender expects to be or is  domiciled.  If the municipality does not have a chief of police, 10 
+"law enforcement agency having jurisdiction" means the sheriff of the county where the 11 
+municipality is located.  "Law enforcement agency having jurisdiction" also means the 12 
+sheriff of the co unty in an unorganized territory.  13 
+9.  Motor vehicle.   "Motor vehicle" means a vehicle that is required to be registered 14 
+pursuant to Title 29 -A, section 351.  15 
+10.  Offender.   "Offender" means a person to whom this chapter applies pursuant to 16 
+section 11602.  17 
+11.  Registrant.   "Registrant" means a Tier I registrant or Tier II registrant.  18 
+12.  Residence.   "Residence" means that place or those places, other than a domicile, 19 
+in which a person may spend time living, residing or dwelling.  Proof that an offender has 20 
+lived in the State for 14 days continuously or an aggregate of 30 days within a period of 21 
+one year gives rise to a permissible inference under the Maine Rules of Evidence, Rule 22 
+303 that the person has established a residence for the purposes of registratio n 23 
+requirements imposed by this chapter.  24 
+13.  Sentence.   "Sentence," in addition to any punishment alternatives, includes an 25 
+involuntary commitment under Title 15, section 103, or similar statute from another 26 
+jurisdiction, following a verdict of not crimina lly responsible by reason of insanity or 27 
+similar verdict in another jurisdiction.  28 
+14.  Tier I offense.   "Tier I offense" means a conviction for a violation of or for an 29 
+attempt, solicitation or conspiracy to commit a violation of:  30 
+A.  Title 17 -A, section 1 103 and the drug trafficked was one of the following 31 
+Schedule W drugs:  32 
+(1)  Methamphetamine as listed in Title 17 -A, section 1102, subsection 1, 33 
+paragraph A;  34 
+(2)  Cocaine as listed in Title 17 -A, section 1102, subsection 1, paragraph F;  35 
+(3)  Heroin as list ed in Title 17 -A, section 1102, subsection 1, paragraph I;  36 
+(4)  Fentanyl as listed in Title 17 -A, section 1102, subsection 1, paragraph I;  37 
+ 
+ Page 3 - 128LR0580(01) -1 
+ (5)  A hallucinogenic drug or its salts, isomers and salts of isomers possible 1 
+within the chemical designations liste d in Title 17 -A, section 1102, subsection 1, 2 
+paragraph O; or  3 
+(6)  Synthetic hallucinogenic drugs as listed in Title 17 -A, section 1102, 4 
+subsection 1, paragraph P; or  5 
+B.  Title 17 -A, section 1124.  6 
+15.  Tier II offense.   "Tier II offense" means a conviction for violation of or for an 7 
+attempt or conspiracy to commit a violation of:  8 
+A.  Title 17 -A, section 1105 -A; or  9 
+B.  Title 17 -A, section 1105 -E. 10 
+16.  Tier I registrant.   "Tier I registrant" means a person who is an adult convicted 11 
+and sentenced or a juvenile convicted and sentenced as an adult for a Tier I offense.  12 
+17.  Tier II registrant.   "Tier II registrant" means a person who is an adult convicted 13 
+and sentenced or a juvenile convicted and sentenced as an adult for a Tier II offense.  14 
+18.  Tribe.   "Tribe" me ans the Passamaquoddy Tribe, the Penobscot Nation or the 15 
+Houlton Band of Maliseet Indians.  16 
+§11604.  Rulemaking  17 
+The bureau may adopt rules necessary to implement this chapter.  Rules adopted 18 
+pursuant to this section are routine technical rules as defined by  Title 5, chapter 375, 19 
+subchapter 2 -A. 20 
+§11605.  Maintenance of drug trafficking offender registry  21 
+1.  Maintenance of registry.   The bureau shall establish and maintain a registry of 22 
+persons required to register pursuant to this chapter, referred to in this  section as "the 23 
+registry."  After initial registration, the registry must include the following information on 24 
+each registrant:  25 
+A.  The registrant's name, aliases, date of birth, sex, race, height, weight, eye color, 26 
+land line and cellular telephone numbe rs, Internet identifiers, mailing address and 27 
+physical location of expected domicile and residence.  For purposes of this paragraph, 28 
+"Internet identifiers" means e -mail addresses and other designations used for 29 
+self-identification or routing in Internet co mmunication or posting;  30 
+B.  Place of employment and college or school being attended, if applicable, and the 31 
+corresponding mailing address and physical location;  32 
+C.  Offense history;  33 
+D.  A current photograph and set of fingerprints;  34 
+E.  A description of th e offense for which the registrant was convicted, the date of 35 
+conviction and the sentence imposed;  36 
+F.  Whether the registrant is a Tier I registrant or Tier II registrant;  37 
+ 
+ Page 4 - 128LR0580(01) -1 
+ G.  A copy of any driver's license information and copy of the driver's license;  1 
+H.  A copy of any professional license;  2 
+I.  Passport and immigration documents and social security number;  3 
+J.  Temporary lodging and dates of travel;  4 
+K.  Information about motor vehicles owned, leased or used and registration and 5 
+location of those motor vehic les.  For purposes of this paragraph, "lease" means a 6 
+transfer of the right to possession and use of a motor vehicle for a term of 30 days or 7 
+more in return for consideration; and  8 
+L.  Any other information the bureau determines important.  9 
+2.  National or r egional registry.   The bureau is authorized to make the registry 10 
+available to and accept files from a national or regional registry of registrants for the 11 
+purpose of sharing information.  12 
+3.  Registration form.   The bureau shall develop a standardized regis tration form to 13 
+be made available to the appropriate reporting authorities and persons required to register.  14 
+4.  Verification form.   The bureau shall develop and mail a nonforwardable 15 
+verification form to the last reported mailing address of each person re quired to meet the 16 
+verification requirements of this chapter.  17 
+5.  Distribution of information to department and law enforcement agencies.   18 
+The bureau shall distribute information described in subsection 1 to the department and 19 
+law enforcement agencies havi ng jurisdiction over the mailing address and physical 20 
+location of the registrant's domicile, residence, place of employment and college or 21 
+school being attended, if applicable.  22 
+6.  Criminal justice agency access to information.   The bureau shall provide ac cess 23 
+to the information described in subsection 1 to criminal justice agencies.  For purposes of 24 
+this subsection, "criminal justice agency" has the same meaning as in Title 16, section 25 
+703, subsection 4.  26 
+7.  Public access to registrant information.   After initial registration, the bureau 27 
+shall provide information to the public as follows.  28 
+A.  The bureau shall post on the Internet for public inspection the following 29 
+information concerning a registrant who is a Tier I registrant or Tier II registrant:  30 
+(1)  Th e registrant's name, aliases and date of birth and a current photograph;  31 
+(2)  The registrant's city or town of domicile and residence;  32 
+(3)  The registrant's place of employment and college or school being attended, if 33 
+applicable, and the corresponding mail ing address and physical location;  34 
+(4)  The statutory citation and name of the offense for which the registrant was 35 
+convicted;  36 
+(5)  Whether the registrant is a Tier I registrant or a Tier II registrant;  37 
+ 
+ Page 5 - 128LR0580(01) -1 
+ (6)  Verification requirements and date of last verif ication; and  1 
+(7)  The registrant's address and its location on a map.  2 
+B.  The bureau shall establish an e -mail notification system to alert a member of the 3 
+public who has subscribed annually to the e -mail notification system when a 4 
+registrant moves into th e subscriber's geographic area.  5 
+C.  Upon receiving a written request that includes the name and date of birth of a 6 
+registrant, the bureau shall provide the following information concerning a registrant 7 
+to the requestor:  8 
+(1)  The registrant's name, aliases,  date of birth, sex, race, height, weight, eye 9 
+color, mailing address and physical location of domicile and residence;  10 
+(2)  The registrant's place of employment and college or school being attended, if 11 
+applicable, and the corresponding mailing address and physical location;  12 
+(3)  A description of the offense for which the registrant was convicted, the date 13 
+of conviction and the sentence imposed; and  14 
+(4)  The registrant's photograph.  15 
+8.  Registrant access to information.   The bureau shall provide all informat ion 16 
+described in subsection 1 to a registrant who requests that person's own information.  17 
+9.  Registry information.   Registry information created, collected or maintained by 18 
+the bureau, including, but not limited to, information relating to the identity of  persons 19 
+accessing the registry, is confidential except information provided to the public pursuant 20 
+to subsection 7.  21 
+10.  Maintenance by bureau.   Only the bureau is authorized to maintain a drug 22 
+trafficking offender registry on the Internet for purposes of  public access.  23 
+11.  Law enforcement agency website.   Notwithstanding subsection 10, a law 24 
+enforcement agency may maintain its own drug trafficking offender website and may 25 
+make that information available for use by the public if:  26 
+A.  A notice is prominent ly posted on the website that expressly states that the 27 
+website is not the official state drug trafficking offender registry under subsection 7, 28 
+paragraph A and that the law enforcement agency posting the website is solely 29 
+responsible for the website's con tent; 30 
+B.  The website provides a link to the bureau's Internet drug trafficking offender 31 
+registry under subsection 7, paragraph A;  32 
+C.  The website contains information regarding only registrants who are domiciled, 33 
+reside, attend college or school or work w ithin the posting law enforcement agency's 34 
+jurisdiction; and  35 
+D.  The information on the website is updated by the law enforcement agency as 36 
+frequently as available resources permit, but no less often than every 7 days.  The law 37 
+enforcement agency shall als o prominently post on the website the date and time of 38 
+the most recent update to the website.  39 
+ 
+ Page 6 - 128LR0580(01) -1 
+ 12.  Access to registrant information existing in electronic form restricted.   1 
+Notwithstanding Title 1, chapter 13:  2 
+A.  The bureau may not disseminate in electron ic form information about a registrant 3 
+that is created, collected or maintained in electronic form by or for the bureau, except 4 
+for the information provided pursuant to subsection 2 and made available to the 5 
+public through the bureau's website pursuant to subsection 7, paragraph A and made 6 
+available to the Background Check Center established pursuant to Title 22, chapter 7 
+1691; and  8 
+B.  Except for information made available to the public through a website maintained 9 
+by a law enforcement agency pursuant to sub section 11, a law enforcement agency 10 
+may not disseminate in electronic form information about a registrant that is collected 11 
+or maintained in electronic form by or for that law enforcement agency.  12 
+§11606.  Duty of offender to register  13 
+1.  Notification by c ourt, department, bureau or law enforcement agency.   An 14 
+offender has a duty to register under this chapter after notification has been given to the 15 
+offender by a court of jurisdiction, the department, the bureau or a law enforcement 16 
+agency.  The court shal l notify the offender at the time of sentence of the duty to register 17 
+pursuant to this chapter.  Notification of the duty to register under this chapter also may 18 
+be given to the offender at any time after the imposition of sentence.  19 
+At any time, the bureau  may correct the term of a registration erroneously assigned to an 20 
+offender or registrant. In such instances, the bureau shall notify the offender or registrant, 21 
+the district attorney and the court in the jurisdiction where the conviction occurred and 22 
+the law enforcement agency having jurisdiction where the offender or registrant is 23 
+domiciled, resides, is employed or attends college or school, if applicable.  24 
+2.  When duty to register must be exercised.   Following notification by a court, the 25 
+department, the  bureau or a law enforcement agency under subsection 1, an offender shall 26 
+register as follows.  27 
+A.  If the offender is sentenced to a wholly suspended sentence with probation or 28 
+administrative release, or to a punishment alternative not involving imprisonme nt, the 29 
+duty to register is triggered at the time the person commences in actual execution of 30 
+the wholly suspended sentence or at the time of sentence imposition when no 31 
+punishment alternative involving imprisonment is imposed, unless the court orders a 32 
+stay of execution, in which event the duty is triggered by the termination of the stay.  33 
+B.  If the offender is sentenced to a straight term of imprisonment or to a split 34 
+sentence, the duty to register is triggered by discharge or conditional release.  35 
+C.  If the offender is committed under Title 15, section 103, the duty to register is 36 
+triggered by discharge or conditional release under Title 15, section 104 -A. 37 
+D.  If the events stated in paragraphs A to C have passed, an offender must register 38 
+within 3 days a fter having received notice of that duty from a court, the department, 39 
+the bureau or a law enforcement agency.  40 
+ 
+ Page 7 - 128LR0580(01) -1 
+ E.  Proof that the name and date of birth of the person notified of the duty to register 1 
+pursuant to this chapter are the same as those of a pers on who has been found not 2 
+guilty by reason of insanity or convicted of an offense requiring registration pursuant 3 
+to this chapter gives rise to a permissible inference under the Maine Rules of 4 
+Evidence, Rule 303 that the person notified of the duty to regi ster is the same person 5 
+as that person convicted of the offense requiring registration.  6 
+3.  Duty to notify law enforcement agency.   An offender shall notify the law 7 
+enforcement agency having jurisdiction in those areas where the offender is domiciled, 8 
+resides, works or attends school within 24 hours of becoming a domiciliary or a resident 9 
+or beginning work or attending school.  If the location is a municipality with an organized 10 
+municipal police department, the law enforcement agency having jurisdiction is the 11 
+municipal police department.  If the location is a school having an organized police 12 
+department, the law enforcement agency having jurisdiction is the campus police 13 
+department.  If the location is neither a municipality nor a school with an organized p olice 14 
+department, the law enforcement agency having jurisdiction is the sheriff's department.  15 
+4.  Responsibility of ensuring initial registration.   The department, the county jail 16 
+or the state mental health institute that has custody of an offender shall i nform the 17 
+offender, prior to discharge or conditional release, of the duty to register.  If an offender 18 
+does not serve a period of institutional confinement, the court shall inform the offender at 19 
+the time of sentencing of the duty to register.  The depart ment, county jail, state mental 20 
+health institute or court shall:  21 
+A.  Inform the offender of the duty to register and obtain the information required for 22 
+the initial registration;  23 
+B.  Inform the offender of the requirement to notify the law enforcement agen cy 24 
+having jurisdiction pursuant to subsection 3;  25 
+C.  Inform the offender that if the offender changes domicile or changes residence, 26 
+place of employment or college or school being attended, the offender shall give the 27 
+new address to the bureau in writing w ithin 3 days and shall notify the law 28 
+enforcement agency having jurisdiction within 24 hours;  29 
+D.  Inform the offender that if that offender changes domicile to another jurisdiction, 30 
+the offender shall register the new address with the bureau and if the new  jurisdiction 31 
+has a registration requirement, the offender shall register with a designated law 32 
+enforcement agency in the new state not later than 3 days after establishing domicile 33 
+in the new state;  34 
+E.  Inform the offender that if that offender has part -time or full -time employment in 35 
+another state, with or without compensation, for more than 14 consecutive days or for 36 
+an aggregate period exceeding 30 days in a calendar year or if that offender enrolls in 37 
+any type of school in another state on a part -time or full -time basis, the offender shall 38 
+give the bureau the offender's place of employment or school to be attended in 39 
+writing within 3 days after beginning work or attending school and if the other state 40 
+has a registration requirement, shall register with the designated law enforcement 41 
+agency in the other state;  42 
+ 
+ Page 8 - 128LR0580(01) -1 
+ F.  Obtain fingerprints and a current photograph of the offender. The court may order 1 
+the offender to submit to the taking of fingerprints and a photograph at a specified 2 
+law enforcement agency with in 3 days if the fingerprints and photograph have not 3 
+already been obtained in connection with the offense that necessitates registration; 4 
+and 5 
+G.  Enforce the requirement that the offender read and sign a form provided by the 6 
+bureau that states that the du ty of the offender to register under this section has been 7 
+explained.  8 
+5.  Transfer of initial registration information to bureau and FBI.   The 9 
+department, county jail, state mental health institute or court within 3 days of receipt of 10 
+the information descr ibed in subsection 4 shall forward the information to the bureau.  If 11 
+the court orders the offender to submit to the taking of fingerprints and a photograph at a 12 
+specified law enforcement agency, the law enforcement agency shall submit the 13 
+fingerprints and  photograph to the bureau within 3 days.  The bureau shall immediately 14 
+enter the information into the registration system, notify the law enforcement agencies 15 
+having jurisdiction where the offender expects to be domiciled and reside and transmit 16 
+the inform ation to the FBI for inclusion in a national criminal history record database.  17 
+6.  Verification.   During the period a registrant is required to register, the bureau 18 
+shall require the registrant to verify all registration information unless verifications ar e 19 
+suspended.  The following provisions govern the verification of registration information.  20 
+A.  At least 10 days prior to the required verification date, the bureau shall mail a 21 
+nonforwardable verification form to the last reported mailing address of the 22 
+registrant.  The verification form is deemed received 3 days after mailing unless 23 
+returned by postal authorities.  24 
+B.  The registrant shall bring the completed verification form and a current 25 
+photograph of the registrant to the law enforcement agency having jurisdiction within 26 
+5 days of receipt of the form.  27 
+C.  The law enforcement agency having jurisdiction shall verify the registrant's 28 
+identity, have the registrant sign the verification form, take the registrant's 29 
+fingerprints, complete the law enforcement p ortion of the verification form and 30 
+immediately forward the fingerprints, photograph and form to the bureau.  31 
+7.  Frequency of verification.   The frequency of in -person verification of 32 
+registration information is dependent upon the registrant's tier classif ication as follows.  33 
+A.  A Tier II registrant shall register for the duration of the registrant's life and shall 34 
+verify registration information every 3 months after the registrant's initial registration 35 
+date.  36 
+B.  A Tier I registrant shall register for 10 y ears and shall verify registration 37 
+information annually after the registrant's initial registration date.  38 
+8.  Change of domicile, residence, place of employment or college or school being 39 
+attended.   An offender or registrant shall notify the bureau in writ ing of a change of 40 
+residence, domicile, place of employment or college or school being attended within 3 41 
+days and shall notify the law enforcement agency having jurisdiction within 24 hours 42 
+ 
+ Page 9 - 128LR0580(01) -1 
+ after changing that domicile, residence, place of employment or co llege or school being 1 
+attended.  2 
+A.  If the offender or registrant establishes a new domicile, residence, place of 3 
+employment or college or school being attended in the State, the bureau shall notify, 4 
+within 3 days, both the law enforcement agency having ju risdiction where the 5 
+offender or registrant was formerly domiciled or resided or was employed or enrolled 6 
+and the law enforcement agency having jurisdiction where the offender or registrant 7 
+is currently domiciled, residing, employed or enrolled.  8 
+B.  If the  offender or registrant establishes a domicile, residence, place of 9 
+employment or college or school being attended in another state, the bureau shall 10 
+notify, within 3 days, the law enforcement agency having jurisdiction where the 11 
+offender or registrant was  formerly domiciled or resided or was employed or enrolled 12 
+and the law enforcement agency having jurisdiction where the offender or registrant 13 
+is currently domiciled, residing, employed or enrolled.  14 
+§11607.  Duty of person establishing domicile or residenc e in this State to register  15 
+A person who has been sentenced for a military, tribal or federal offense that includes 16 
+the essential elements of a Tier I offense or Tier II offense shall register as a Tier I 17 
+registrant or a Tier II registrant, whichever is ap plicable, within 3 days and shall notify 18 
+the law enforcement agency having jurisdiction within 24 hours of establishing domicile 19 
+or residence in this State.  The person shall contact the bureau, which shall provide the 20 
+person with the registration form and  direct the person to take the form and a current 21 
+photograph of the person to the law enforcement agency having jurisdiction.  The law 22 
+enforcement agency shall supervise the completion of the form, take the person's 23 
+fingerprints and immediately forward the  form, photograph and fingerprints to the 24 
+bureau.  25 
+§11608.  Duty of person employed or attending college or school in this State to 26 
+register  27 
+The following provisions govern registration duties for a person not domiciled or 28 
+residing in this State but who is employed or attending college or school in this State.  29 
+1.  Time.   A person who has been sentenced for an offense that includes the essential 30 
+elements of a Tier I or Tier II offense shall register as a Tier I registrant or a Tier II 31 
+registrant, whichever is  applicable, within 3 days and shall notify the law enforcement 32 
+agency having jurisdiction:  33 
+A.  Within 24 hours of beginning full -time or part -time employment, with or without 34 
+compensation, for more than 14 consecutive days or for an aggregate period 35 
+excee ding 30 days in a calendar year in this State; or  36 
+B.  Within 24 hours of beginning college or school on a full -time or part -time basis in 37 
+this State.  38 
+2.  Process for notifying bureau.   The person under subsection 1 shall contact the 39 
+bureau, which shall pro vide the person with a registration form and direct the person to 40 
+take the form and a current photograph of the person to the law enforcement agency 41 
+ 
+ Page 10 - 128LR0580(01) -1 
+ having jurisdiction.  The law enforcement agency shall supervise the completion of the 1 
+form, take the perso n's fingerprints and immediately forward the form, photograph and 2 
+fingerprints to the bureau.  3 
+§11609.  Duration of registration  4 
+The following provisions govern the duration of registration.  5 
+1.  Offender convicted and sentenced in State for Tier I offense.   An offender 6 
+convicted and sentenced in this State for a Tier I offense shall register for a period of 10 7 
+years.  The 10 -year period commences from the date the person initially registers once 8 
+the legal duty arises under section 11606, subsection 2.  9 
+2.  Offender convicted and sentenced in another jurisdiction for Tier I offense.   10 
+An offender convicted and sentenced in another jurisdiction and required to register in 11 
+this State pursuant to section 11607 or 11608 shall register for a period of 10 years or as 12 
+provided in subsection 7.  The following provisions apply.  13 
+A.  A Tier I registrant shall register in this State for a period of 10 years if, pursuant 14 
+to the other jurisdiction's drug trafficking offender registration statute, the registration 15 
+period is for  a period of no more than 10 years.  The 10 -year period commences from 16 
+the date the person initially registers in this State once the legal duty to register arises 17 
+under section 11607 or 11608.  However, the Tier I registrant may receive 18 
+day-for-day credit  for the time actually registered pursuant to the other jurisdiction's 19 
+drug trafficking offender registration statute prior to registering in this State upon 20 
+applying to the bureau for credit.  The bureau may grant credit if the registrant 21 
+provides suffici ent documentation in accordance with any rules adopted by the 22 
+bureau.  23 
+B.  A Tier I registrant shall register for a period of 10 years if registration was not 24 
+required in that other jurisdiction and the person has been sentenced in that 25 
+jurisdiction for a c rime that includes the essential elements of a Tier I offense.  The 26 
+10-year period commences from the date the person initially registers in this State 27 
+once the legal duty to register arises under section 11607 or 11608.  However, the 28 
+Tier I registrant may  receive day -for-day credit from the time of sentencing in the 29 
+other jurisdiction to when the offender initially registers in this State once the legal 30 
+duty to register arises under section 11607 or 11608 and upon applying to the bureau 31 
+for credit.  The bu reau may grant credit if the registrant provides sufficient 32 
+documentation in accordance with any rules adopted by the bureau.  33 
+3.  Offender convicted and sentenced in State for Tier II offense.   An offender 34 
+convicted and sentenced in this State for a Tier I I offense shall register for the duration of 35 
+the offender's life.  36 
+4.  Offender convicted and sentenced in another jurisdiction for Tier II offense.   37 
+An offender convicted and sentenced in another jurisdiction and required to register in 38 
+this State pursuant  to section 11607 or 11608 shall register for the duration of the 39 
+registrant's life.  40 
+ 
+ Page 11 - 128LR0580(01) -1 
+ A.  A Tier II registrant shall register in this State for the duration of the registrant's 1 
+life if, pursuant to the other jurisdiction's drug trafficking offender registra tion statute, 2 
+the registration period is for the duration of the offender's life.  3 
+B.  A Tier II registrant shall register in this State for the duration of the registrant's 4 
+life if registration was not required in that other jurisdiction and the person was  5 
+convicted and sentenced in that jurisdiction for a crime that includes the essential 6 
+elements of a Tier II offense.  7 
+5.  Additional offense.   Notwithstanding section 11603, subsection 14, a person who 8 
+has been convicted and sentenced at any time for 2 or m ore offenses each of which is a 9 
+Tier I offense or includes the essential elements of a Tier I offense is required to register 10 
+as a Tier II registrant.  For purposes of this subsection, convictions that occur on the same 11 
+day count as separate offenses.  12 
+6.  Suspending verifications.   Notwithstanding any other provision of this section, 13 
+the bureau, pursuant to any rules the bureau may adopt, may suspend the requirement that 14 
+the registrant or offender verify registration information during any period in which a  15 
+registrant or offender:  16 
+A.  Leaves this State, establishes a domicile or residence in another state and remains 17 
+physically absent from this State;  18 
+B.  Is incarcerated; or  19 
+C.  Is incapacitated or hospitalized.  20 
+7.  Relief from duty to register.   The followi ng provisions apply to relief from the 21 
+duty to register.  22 
+A.  An offender's or a registrant's duty to register is not required if the circumstances 23 
+triggering the registration requirements under section 11607 or 11608 no longer exist.  24 
+B.  If the underlying conviction in this State or in another jurisdiction that triggers the 25 
+registration requirement is reversed, vacated or set aside or if the offender or 26 
+registrant is pardoned for the crime, registration is no longer required.  27 
+§11610.  Duty of person traveli ng beyond the jurisdiction of the United States  28 
+An offender shall notify the bureau at least 21 days prior to travel beyond the 29 
+jurisdiction of the United States.  The offender shall provide the bureau with information 30 
+about the date of departure from and return to the United States and the destination 31 
+beyond the jurisdiction of the United States.  32 
+§11611.  Fee  33 
+The bureau may charge a $25 annual fee to persons required to register under this 34 
+chapter.  Registrants shall pay the fee at the time of initial regi stration and shall pay the 35 
+fee on each anniversary of their initial registration.  36 
+The fee must be credited to the General Fund and the Highway Fund in an amount 37 
+consistent with budgeted appropriations and allocations in the fiscal year of the credit.  38 
+ 
+ Page 12 - 128LR0580(01) -1 
+ §1161 2.  Violation  1 
+1.  Failure to comply; first offense.   An offender who fails to comply with any duty 2 
+imposed under this chapter or a rule adopted pursuant to this chapter commits a Class D 3 
+crime for which the court shall impose a period of incarceration of a t least 30 days, none 4 
+of which may be suspended by the court.  5 
+2.  Failure to comply; 2nd offense.   A person who has one prior conviction under 6 
+this section and who fails to comply with any duty imposed under this chapter or a rule 7 
+adopted pursuant to this chapter commits a Class C crime for which the court shall 8 
+impose a period of incarceration of at least 6 months, none of which may be suspended 9 
+by the court.  10 
+3.  Failure to comply; 3rd offense.   A person who has 2 or more prior convictions 11 
+under this secti on and who fails to comply with any duty imposed under this chapter or a 12 
+rule adopted pursuant to this chapter commits a Class B crime for which the court shall 13 
+impose a period of incarceration of at least one year, none of which may be suspended by 14 
+the co urt. 15 
+4.  Strict liability.   Violation of this section is a strict liability crime as defined in 16 
+Title 17 -A, section 34, subsection 4 -A. 17 
+5.  Prior convictions.   Title 17 -A, section 9 -A governs the use of prior convictions 18 
+when determining a sentence.  19 
+6.  Affirmative defense.   It is an affirmative defense that the failure to comply with a 20 
+duty imposed under this chapter or a rule adopted pursuant to this chapter resulted from 21 
+just cause.  22 
+7.  Permissible inference.   Proof that the name and date of birth of the  person 23 
+charged with a violation of this section are the same as those of a person who has been 24 
+sentenced for an offense requiring registration pursuant to this chapter gives rise to a 25 
+permissible inference under the Maine Rules of Evidence, Rule 303 that the person 26 
+charged with a violation of this section is the same person as that person convicted of the 27 
+offense requiring registration.  28 
+§11613.  Certification by record custodian  29 
+1.  Certificate admissible.   Notwithstanding any other law or rule of evidence , a 30 
+certificate by the custodian of the records of the bureau, when signed and sworn to by that 31 
+custodian, or the custodian's designee, is admissible in a judicial or administrative 32 
+proceeding as prima facie evidence of any fact stated in the certificate o r in any 33 
+documents attached to the certificate.  34 
+2.  Qualified witness.   With 10 days' written notice to the prosecution, the defendant 35 
+may request that a qualified witness testify to the matters of which the certificate under 36 
+subsection 1 constitutes prima  facie evidence.  The notice must specify those matters 37 
+concerning which the defendant requests testimony.  The certificate is not prima facie 38 
+evidence in those matters.  39 
+ 
+ Page 13 - 128LR0580(01) -1 
+ §11614.  Registrant's right against unreasonable search suspended; duty to notify 1 
+law enforcement official of suspension  2 
+1.  Suspension of right against unreasonable searches.   During the duration of the 3 
+period of registration under section 11609, a registrant's right against unreasonable 4 
+searches under the United States Constitution, Amend ment IV and the Constitution of 5 
+Maine, Article I, Section 5 is suspended and the registrant must submit to being searched 6 
+for illegal drugs at the request of a law enforcement officer at any time with or without 7 
+articulable suspicion, probable cause or a s earch warrant.  A search under this section 8 
+may include:  9 
+A.  The registrant's person;  10 
+B.  The registrant's motor vehicle, residence and personal effects;  11 
+C.  If the registrant is a passenger in a motor vehicle, that motor vehicle; and  12 
+D.  If a registrant i s present in the residence of a 3rd party and the 3rd party is aware 13 
+of the registrant's status as a registrant, the 3rd party's residence.  14 
+2.  Duty to notify law enforcement officer.   A registrant who comes in contact with 15 
+a law enforcement officer during  the duration of registration under section 11609 16 
+immediately shall notify the law enforcement officer of the registrant's status as a 17 
+registrant and of the registrant's duty to submit to a search for illegal drugs upon request 18 
+of a law enforcement officer . 19 
+§11615.  Immunity from liability  20 
+Neither the failure to perform the requirements of this chapter nor compliance with 21 
+this chapter subjects any state, municipal or county official or employee to liability in a 22 
+civil action.  The immunity provided under th is section applies to the release of relevant 23 
+information to other officials or employees or to the general public.  24 
+§11616.  Community education  25 
+The department shall provide law enforcement agencies technical assistance 26 
+concerning community education curri cula for purposes of notification to the public of a 27 
+registrant's conditional release or discharge.  28 
+§11617.  Mandatory notification of conditional release or discharge of registrants  29 
+The department, county jails, state mental health institutes and the bure au are 30 
+governed by the following notice provisions when a registrant is conditionally released or 31 
+discharged.  32 
+1.  Duties.   The department, a county jail or a state mental health institute shall give 33 
+the bureau notice of the following:  34 
+A.  The address where  the registrant will be domiciled and reside;  35 
+B.  The address where the registrant will work and attend college or school, if 36 
+applicable;  37 
+ 
+ Page 14 - 128LR0580(01) -1 
+ C.  The mailing address of the registrant; and  1 
+D.  The geographic area to which a registrant's conditional release is limited, if any.  2 
+2.  Duties of the bureau.   Upon receipt of the information concerning the conditional 3 
+release or discharge of a registrant pursuant to subsection 1, the bureau shall forward the 4 
+information to all law enforcement agencies that have jurisdi ction in those areas where 5 
+the registrant may be domiciled, reside, work or attend college or school.  6 
+§11618.  Public notification  7 
+1.  Department.   Upon the conditional release or discharge of a registrant from a 8 
+state correctional institution, the departm ent shall give notice of the information under 9 
+section 11617, subsection 1 to members of the public the department determines 10 
+appropriate to ensure public safety.  11 
+2.  Law enforcement agencies.   Upon receipt of the information concerning the 12 
+conditional rel ease or discharge of a registrant pursuant to section 11617, subsection 2, a 13 
+law enforcement agency shall notify members of the public that the law enforcement 14 
+agency determines appropriate to ensure public safety.  15 
+SUMMARY  16 
+This bill creates the Drug Traffi cking Offender Registration and Notification Act, 17 
+structured like the Sex Offender Registration and Notification Act of 2013, for the 18 
+registration of persons convicted of certain drug trafficking offenses on or after October 19 
+1, 2017.  This bill also suspen ds for the period of registration a registrant's rights against 20 
+unreasonable searches under the United States Constitution, Amendment IV.  21 
+ 

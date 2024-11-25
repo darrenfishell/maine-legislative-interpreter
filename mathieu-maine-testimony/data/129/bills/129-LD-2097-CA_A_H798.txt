@@ -1,0 +1,124 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (H -798) (LD 2097 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR2767(02)-1
+COMMITTEE AMENDMENT1L.D. 2097
+2
+3ENERGY, UTILITIES AND TECHNOLOGY
+4Reproduced and distributed under the direction of the Clerk of the House.
+5STATE OF MAINE
+6HOUSE OF REPRESENTATIVES
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to H.P. 1494, L.D. 2097, Bill, “An Act To 
+10Establish Requirements for the Construction of Elective Transmission Lines by 
+11Transmission and Distribution Utilities”
+12Amend the bill by striking out the title and substituting the following:
+13'An Act Pertaining to Transmission Lines Not Needed for Reliability or Local 
+14Generation' 
+15Amend the bill by striking out all of section 1 and inserting the following:
+16'Sec. 1.  35-A MRSA §3131, sub-§4-E is enacted to read:
+174-E.  Nonessential transmission line.  "Nonessential transmission line" means a 
+18transmission line that is:
+19A.  Not constructed primarily to provide electric reliability within the State, as 
+20determined by the commission; and
+21B.  Not constructed primarily to provide electricity to retail customers within the 
+22State.
+23A generator interconnection transmission facility as defined in section 3132, subsection 
+241-B is not a nonessential transmission line.' 
+25Amend the bill by striking out all of section 4 and inserting the following:
+26'Sec. 4.  35-A MRSA §3132, sub-§6-C is enacted to read:
+276-C.  Nonessential transmission line; certificate of public convenience and 
+28necessity.  The commission shall evaluate and render a decision on any petition for a 
+29certificate of public convenience and necessity made by a transmission and distribution 
+30utility for a nonessential transmission line that will use ratepayer-funded physical assets 
+31in accordance with this subsection. The commission may issue a certificate only if the 
+32petitioner has demonstrated that the petitioner agrees to provide a minimum benefit to 
+33ratepayers in the State of equal value to the ratepayer-funded physical assets used to 
+34construct the nonessential transmission line. The commission shall by order establish the Date: (Filing No. H-          )
+COMMITTEE AMENDMENT “      ” to H.P. 1494, L.D. 2097
+Page 2 - 129LR2767(02)-1
+COMMITTEE AMENDMENT1value of ratepayer-funded physical assets used to construct the nonessential transmission 
+2line and the benefit amount and method of delivery with preference to a reduction in 
+3electricity rates.
+4The commission shall adopt rules necessary to implement this subsection.  Rules adopted 
+5pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+6subchapter 2-A.
+7Sec. 5.  Public Utilities Commission inquiry; nonessential transmission 
+8lines.  The Public Utilities Commission shall open an inquiry to determine statutory or 
+9rule changes needed to ensure that nonessential transmission lines as defined in the Maine 
+10Revised Statutes, Title 35-A, section 3131, subsection 4-E are built in the most 
+11competitive and cost-effective manner and with consideration given to ratepayer benefits 
+12and greenhouse gas reduction goals. In conducting the inquiry, the commission shall 
+13convene a stakeholder group, hold at least 2 stakeholder group meetings and solicit public 
+14comment.  No later than February 1, 2021, the commission shall submit a report on the 
+15results of the inquiry, including findings, recommendations and suggested legislation, 
+16required by this section to the joint standing committee of the Legislature having 
+17jurisdiction over energy, utilities and technology matters.  The committee may report out 
+18a bill to the First Regular Session of the 130th Legislature based on the commission's 
+19report.' 
+20Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+21section number to read consecutively.
+22SUMMARY
+23This amendment does the following.
+241. It changes the terminology in the bill from "elective transmission line" to 
+25"nonessential transmission line" and clarifies that a generator interconnection 
+26transmission facility is not a nonessential transmission line.
+272. It changes the requirements in the bill for Public Utilities Commission approval of 
+28a nonessential transmission line. Under the amendment, the commission may issue a 
+29certificate of public convenience and necessity for a nonessential transmission line that 
+30will use ratepayer-funded physical assets if the petitioner has demonstrated that the 
+31petitioner agrees to provide a minimum benefit to ratepayers in the State of equal value to 
+32the ratepayer-funded physical assets used to construct the nonessential transmission line. 
+333. It removes from the bill the requirement that the petitioner provide equal access to 
+34rights-of-way and data and information about the petitioner's transmission system to any 
+35person seeking to compete with the petitioner.
+364. It adds a provision that requires the Public Utilities Commission to conduct an 
+37inquiry to determine statutory or rule changes needed to ensure that nonessential 
+38transmission lines are built in the most competitive and cost-effective manner and with 
+COMMITTEE AMENDMENT “      ” to H.P. 1494, L.D. 2097
+Page 3 - 129LR2767(02)-1
+COMMITTEE AMENDMENT1consideration given to ratepayer benefits and greenhouse gas reduction goals and to 
+2report the results of the inquiry to the joint standing committee of the Legislature having 
+3jurisdiction over energy, utilities and technology matters.
+4FISCAL NOTE REQUIRED
+5(See attached)
+Approved: 03/27/20
+LD 2 097 LR 2767 (02)
+Fiscal Detail and NotesMinor cost increase - Othe r Special Revenue Funds 
+Any additional costs to the Public Utilities Commission as a re sult of changes to the criteria for and approval process 
+of nonessential transmission lines are anticipated to be  minor and can be absorbed within existing budgeted 
+resources.  129th MAINE LEGISLATURE
+An Act To Establish Requirements for the Construction of Elective Transmission Lines by 
+Transmission and Distribution Utilities
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Ener gy, Utilities and Technolo gy
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR2767(02) - Fiscal Note - Page 1 of 1

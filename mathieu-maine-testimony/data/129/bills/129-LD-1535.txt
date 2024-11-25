@@ -1,0 +1,1579 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1535
+H.P. 1118 House of  Representatives,  April 11, 2019
+An Act  To Correct  Errors and  Inconsistencies Related to the Maine 
+Uniform Probate Code and  To Make Other  Substantive Changes
+(EMERGENCY)
+Reported by Representative BAILEY of  Saco for the Joint  Standing Committee  on 
+Judiciary pursuant to  Public  Law 2017, chapter 402, Part  G, section 2.
+Reference to the Committee on Judiciary  suggested and ordered  printed pursuant to Joint  
+Rule 218.
+ROBERT  B. HUNT
+Clerk
+
+Page 1 - 129LR0219(01)-11Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+2become effective until 90 days after adjournment unless enacted as emergencies; and
+3Whereas, this Act amends provisions in the Maine Uniform Probate Code, which is 
+4effective July 1, 2019; and
+5Whereas, the 90-day period may not expire until after July 1, 2019; and
+6Whereas, in the judgment of the Legislature, these facts create an emergency within 
+7the meaning of the Constitution of Maine and require the following legislation as 
+8immediately necessary for the preservation of the public peace, health and safety; now, 
+9therefore,
+10Be it enacted by the People of the State of Maine as follows:
+11Sec. 1.  18-C MRSA §1-108, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+12and affected by Pt. F, §1, is amended to read:
+132.  Automatic adjustment of amounts for inflation.  The dollar amounts stated in 
+14sections 2-102, 2-402, 2-403 and, 2-405 and 3-1201 apply to the estate of a decedent who 
+15died in or after 2017, but for the estate of a decedent who died after 2018, these dollar 
+16amounts must be increased or decreased if the Consumer Price Index for the calendar 
+17year immediately preceding the year of death exceeds or is less than the reference base 
+18index.  The amount of any increase or decrease is computed by multiplying each dollar 
+19amount by the percentage by which the Consumer Price Index for the calendar year 
+20immediately preceding the year of death exceeds or is less than the reference base index.  
+21If any increase or decrease produced by the computation is not a multiple of $100, the 
+22increase or decrease is rounded down, if an increase, or up, if a decrease, to the next 
+23multiple of $100, but for the purpose of section 2-405, the periodic installment amount is 
+24the lump-sum amount divided by 12.  If the Consumer Price Index for 2018 is changed by 
+25the United States Department of Labor, Bureau of Labor Statistics, the reference base 
+26index must be revised using the rebasing factor reported by the Bureau of Labor Statistics 
+27or other comparable data if a rebasing factor is not reported.
+28Sec. 2.  18-C MRSA §2-807, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+29and affected by Pt. F, §1, is amended to read:
+302.  Wrongful death action; damages; limitations.  Every wrongful death action 
+31must be brought by and in the name of the personal representative or special 
+32administrator of the deceased person, and is distributable, after payment for funeral 
+33expenses and the costs of recovery including attorney's fees, directly to the decedent's 
+34heirs without becoming part of the probate estate, except as may be specifically provided 
+35in this subsection.  The amount recovered in every wrongful death action, except as 
+36specifically provided in this subsection, is for the exclusive benefit of the deceased's heirs 
+37to be distributed to the individuals and in the proportions as provided in under the 
+38intestacy laws of this State in sections 2-102 and 2-103 2-101 to 2-113.  The jury may 
+39give damages as it determines a fair and just compensation with reference to the 
+40pecuniary injuries resulting from the death.  Damages are payable to the estate of the 
+Page 2 - 129LR0219(01)-11deceased person only if the jury specifically makes an award payable to the estate for 
+2reasonable expenses of medical, surgical and hospital care and treatment and for 
+3reasonable funeral expenses or, in the case of a settlement, the settlement documents 
+4specifically provide for such an allocation to the estate for the same.  In addition, the jury 
+5may give damages not exceeding $500,000 for the loss of comfort, society and 
+6companionship of the deceased, including any damages for emotional distress arising 
+7from the same facts as those constituting the underlying claim, to the persons for whose 
+8benefit the action is brought.  The jury may also give punitive damages not exceeding 
+9$250,000.  An action under this section must be commenced within 2 years after the 
+10decedent's death, except that if the decedent's death is caused by a homicide, the action 
+11may be commenced within 6 years of the date the personal representative or special 
+12administrator of the decedent discovers that there is a just cause of action against the 
+13person who caused the homicide.  If a claim under this section is settled without an action 
+14having been commenced, the amount paid in settlement must be distributed as provided 
+15in this subsection.  A settlement on behalf of minor children is not valid unless approved 
+16by the court, as provided in Title 14, section 1605.
+17Sec. 3.  18-C MRSA §3-108, sub-§1, ¶¶D and E, as enacted by PL 2017, c. 
+18402, Pt. A, §2 and affected by Pt. F, §1, are amended to read:
+19D.  An informal appointment or a formal testacy or appointment proceeding may be 
+20commenced more than 3 years after the decedent's death if no proceeding concerning 
+21the succession or estate administration has occurred within the 3-year period after the 
+22decedent's death, but the personal representative has no right to possess estate assets 
+23as provided in section 3-709 beyond that necessary to confirm title in the successors 
+24to the estate, and claims other than expenses of administration may not be presented 
+25against the estate; and
+26E.  A formal testacy proceeding may be commenced at any time after 3 years from 
+27the decedent's death for the purpose of establishing an instrument to direct or control 
+28the ownership of property passing or distributable after the decedent's death from a 
+29person other than the decedent when the property is to be appointed by the terms of 
+30the decedent's will or is to pass or be distributed as a part of the decedent's estate or 
+31its transfer is otherwise to be controlled by the terms of the decedent's will.; and
+32Sec. 4.  18-C MRSA §3-108, sub-§1, ¶F is enacted to read:
+33F.  Appropriate probate, appointment or testacy proceedings may be commenced in 
+34relation to a claim for personal injury made against the decedent by a person without 
+35actual notice of the death of the decedent at any time within 6 years after the cause of 
+36action accrues. If the proceedings are commenced more than 3 years after the 
+37decedent's death, any recovery is limited to applicable insurance.
+38Sec. 5.  18-C MRSA §3-916, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+39and affected by Pt. F, §1, is amended to read:
+401.  Short title.  This section may be known and cited as "the Uniform Estate Tax 
+41Apportionment Act."
+Page 3 - 129LR0219(01)-11Sec. 6.  18-C MRSA §5-101, as enacted by PL 2017, c. 402, Pt. A, §2 and affected 
+2by Pt. F, §1, is amended to read:
+3§5-101.  Short title
+4Parts 1, 2, 3, 4 and 5 of this Article may be known and cited as "the Maine Uniform 
+5Guardianship, Conservatorship and Protective Proceedings Act."
+6Sec. 7.  18-C MRSA §5-103, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+7and affected by Pt. F, §1, is amended to read:
+81.  Transfer of money or personal property to minor.  Unless a person required to 
+9transfer money or personal property to a minor knows that a conservator has been 
+10appointed or that a proceeding for appointment of a conservator of the estate of the minor 
+11is pending, the person may do so, as to an amount or value not exceeding $10,000 a year 
+12the annual gift tax exclusion pursuant to 26 United States Code, Section 2503, by 
+13transferring it to:
+14A.  A person who has the care and custody of the minor and with whom the minor 
+15resides;
+16B.  A guardian of the minor; 
+17C.  A custodian under the Maine Uniform Transfers to Minors Act;
+18C-1.  A qualified tuition program or a qualified ABLE program in the State, or both, 
+19under Sections 529 and 529A, respectively, of the federal Internal Revenue Code of 
+201986;
+21D.  A financial institution as a deposit in an interest-bearing account or certificate in 
+22the sole name of the minor and giving notice of the deposit to the minor; or
+23E.  The minor, if married or emancipated.
+24Sec. 8.  18-C MRSA §5-113, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+25and affected by Pt. F, §1, is amended to read:
+262.  Proof of notice.  Proof of notice of a hearing under this Act must be made filed 
+27before or at the hearing and filed in the proceeding.
+28Sec. 9.  18-C MRSA §5-114, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+29and affected by Pt. F, §1, is amended to read:
+302.  Waiver prohibited.   A  Unless represented by an attorney, a respondent, an 
+31individual subject to guardianship, an individual subject to conservatorship, an individual 
+32subject to a protective arrangement instead of guardianship or conservatorship, an 
+33appointed guardian or an appointed conservator may not waive notice under this Act.
+34Sec. 10.  18-C MRSA §5-116, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+35affected by Pt. F, §1, is amended to read:
+Page 4 - 129LR0219(01)-11§5-116.  Request for notice
+2A person that is interested in the welfare of a respondent, individual subject to 
+3guardianship or conservatorship or individual subject to a protective arrangement instead 
+4of guardianship or conservatorship and that is not otherwise entitled to notice under this 
+5Act may file a request with the court for notice.  The court shall send or deliver a copy of 
+6the request to the guardian, to the custodian conservator if one has been appointed and to 
+7the individual who is subject to the guardianship, conservatorship or protective 
+8arrangement.  The recipient of the notice guardian, conservator and the individual who is 
+9subject to the guardianship, conservatorship or other protective arrangement may file an 
+10objection to the demand for notice within 60 days.  If an objection is filed, the court shall 
+11hold a hearing on the request.  If the court approves the request, the court shall give 
+12notice of the approval to the guardian or conservator if one has been appointed or to the 
+13respondent if no guardian or conservator has been appointed.  The request must include a 
+14statement showing the interest of the person making it and the address of the person or an 
+15attorney for the person to whom notice is to be given.  If the court approves the request or 
+16if no objection is filed within 60 days then the requesting party is entitled to notice.
+17Sec. 11.  18-C MRSA §5-117, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+18and affected by Pt. F, §1, is amended to read:
+191.  Disclosure; petition.  As part of the petition to be appointed a guardian or 
+20conservator, a person the petitioner shall disclose to the court whether the person 
+21proposed guardian or conservator:
+22A.  Is or has been a debtor in a bankruptcy, insolvency or receivership proceeding; or
+23B.  Has been convicted of:
+24(1)  A felony;
+25(2)  A crime involving dishonesty, neglect, violence or use of physical force; or
+26(3)  Any other crime relevant to the functions the individual would assume as 
+27guardian or conservator.
+28Sec. 12.  18-C MRSA §5-119, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+29affected by Pt. F, §1, is amended to read:
+30§5-119.  Compensation and expenses; in general
+311.  Attorney for respondent.  Unless otherwise compensated for services rendered 
+32the court has made a finding that the respondent is indigent and has appointed an attorney 
+33for the respondent on that basis, an attorney for a respondent in a proceeding under this 
+34Act is entitled to reasonable compensation and reimbursement of reasonable expenses 
+35from the property of the respondent.
+362.  Attorney or other person.  Unless otherwise compensated for services rendered 
+37the court has made a finding that the respondent is indigent, an attorney or other person 
+38whose services resulted in an order beneficial to an individual subject to guardianship or 
+39conservatorship or beneficial to an individual for whom a protective arrangement instead 
+Page 5 - 129LR0219(01)-11of guardianship or conservatorship was ordered is entitled to reasonable compensation 
+2and reimbursement of reasonable expenses from the property of the individual.
+33.  Court review.  After notice to all interested persons, on petition of an interested 
+4person, the propriety of employment of any person by a conservator or guardian, 
+5including any attorney, accountant, investment advisor or other specialized agent or 
+6assistant, and the reasonableness of the compensation of any person so employed, and the 
+7propriety of employment and the reasonableness of compensation for an attorney for a 
+8respondent under subsection 1 and an attorney or other person under subsection 2, may be 
+9reviewed by the court. Any person who has received excessive compensation or 
+10reimbursement of inappropriate expenses for services rendered may be ordered to make 
+11appropriate refunds.  The factors set forth in section 3-721, subsection 2 must be 
+12considered as guides in determining the reasonableness of compensation under this 
+13section.
+144.  Costs assessed against petitioner.  If the court dismisses a petition under this Act 
+15and determines the petition was filed in bad faith, the court may assess the cost of any 
+16court-ordered professional evaluation or visitor, and any attorney's fees or other costs 
+17incurred by the respondent, against the petitioner.
+18Sec. 13.  18-C MRSA §5-122, sub-§4, as enacted by PL 2017, c. 402, Pt. A, §2 
+19and affected by Pt. F, §1, is amended to read:
+204.  Petition to require recognition or acceptance.  A guardian or conservator may 
+21petition the court to require a 3rd party to recognize the authority of a guardian or 
+22conservator or accept a decision made by the guardian or conservator on behalf of the 
+23individual subject to guardianship or conservatorship, and if the court finds that the 
+24refusal of a 3rd party to recognize the authority of a guardian or conservator or accept the 
+25decision made by the guardian or conservator was in bad faith and without adequate 
+26justification, the court may charge the person who refuses to recognize the authority of a 
+27guardian or conservator or accept the decision of the guardian or conservator for 
+28attorney's fees and costs.  Notice of the petition must be given to the adult subject to 
+29guardianship or conservatorship and to all persons entitled to notice under section 5-310, 
+30subsection 5, section 5-411, subsection 5 or a subsequent order.
+31Sec. 14.  18-C MRSA §5-210, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+32and affected by Pt. F, §1, is amended to read:
+331.  Modification of guardianship order.  A guardian of a minor, a parent of a minor, 
+34a person interested in the welfare of a minor or the minor, if 14 years of age or older, may 
+35file a motion asking the court to modify the terms of an order appointing a guardian or to 
+36take other action in the best interest of the minor as circumstances require.  The motion 
+37must be filed with the court and served on all parties entitled to notice.  Unless the motion 
+38specifies that is it is filed with the consent of all parties entitled to notice, the matter must 
+39be set for hearing to determine whether there has been a substantial change in 
+40circumstances necessitating modification of the order and how the court should modify 
+41the order in furtherance of the best interest of the minor and the parent's rights.  The court 
+42may identify certain requirements that must be met before specific provisions of the order 
+Page 6 - 129LR0219(01)-11are modified.  A court may modify a term of a guardianship order as needed to grant 
+2relief to a party to address contempt or other failure to follow the order.
+3Sec. 15.  18-C MRSA §5-210, sub-§7, as enacted by PL 2017, c. 402, Pt. A, §2 
+4and affected by Pt. F, §1, is amended to read:
+57.  Parent's petition to terminate guardianship; burden of proof.  A parent may 
+6bring a petition to terminate the guardianship of a minor.  A parent's notification to the 
+7court of the revocation of prior consent for a guardianship must be considered a petition 
+8to terminate the guardianship.  Before the court may apply the termination requirements 
+9in subsection 6, a party opposing a parent's petition to terminate a guardianship bears the 
+10burden of proving by a preponderance of the clear and convincing evidence that the 
+11parent seeking to terminate the guardianship is currently unfit to regain custody of the 
+12minor, in accordance with the standard set forth in section 5-204, subsection 2, paragraph 
+13C.  If the party opposing termination of the guardianship fails to meet its burden of proof 
+14on the question of the parent's fitness to regain custody, the court shall terminate the 
+15guardianship and make any further order that may be appropriate.  In a contested action, 
+16the court may appoint counsel for the minor or for any indigent guardian or parent.  In 
+17ruling on a petition to terminate a guardianship, the court may modify the terms of the 
+18guardianship or order transitional arrangements pursuant to section 5-211.
+19Sec. 16.  18-C MRSA §5-301, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+20affected by Pt. F, §1, is amended to read:
+21§5-301.  Basis for appointment of guardian for adult
+221.  Appointment.  On petition and after notice and hearing, the court may:
+23A.  Appoint a guardian for a respondent who is an adult if it finds by clear and 
+24convincing evidence that the respondent lacks the ability to meet essential 
+25requirements for physical health, safety or self-care because:
+26(1)  The respondent is unable to receive and evaluate information or make or 
+27communicate decisions, even with appropriate supportive services, technological 
+28assistance or supported decision making that provides adequate protection for the 
+29respondent;
+30(2)  The respondent's identified needs cannot be met by a protective arrangement 
+31instead of guardianship or other less restrictive alternatives that provide adequate 
+32protection for the respondent; and
+33(3)  The appointment is necessary or desirable as a means of enabling the 
+34respondent to meet essential requirements for physical health, safety or self-care; 
+35or
+36B.  With appropriate findings, and additional notice to persons the court determines 
+37are entitled to notice, treat the petition as one for a conservatorship under Part 4 or a 
+38protective arrangement instead of guardianship or conservatorship under Part 5, enter 
+39any other appropriate order or dismiss the proceeding.
+Page 7 - 129LR0219(01)-112.  Powers.  The court shall grant to a guardian appointed under subsection 1 only 
+2those powers necessitated by the limitations and demonstrated needs of the respondent 
+3and enter orders that will encourage the development of the respondent's maximum self-
+4determination and independence.  The court may not establish a full guardianship if a 
+5limited guardianship, protective arrangement instead of guardianship or other less 
+6restrictive alternatives would meet the needs of and provide adequate protection for the 
+7respondent. 
+8Sec. 17.  18-C MRSA §5-302, sub-§2, ¶C, as enacted by PL 2017, c. 402, Pt. A, 
+9§2 and affected by Pt. F, §1, is amended to read:
+10C.  The name and current address of each of the following, if applicable:
+11(1)  A person responsible for care or custody of the respondent;
+12(2)  Any attorney currently representing the respondent;
+13(3)  The representative payee appointed by the United States Social Security 
+14Administration for the respondent;
+15(4)  A guardian or conservator acting for the respondent in this State or in another 
+16jurisdiction;
+17(5)  A trustee or custodian of a trust or custodianship of which the respondent is a 
+18beneficiary;
+19(6)  The United States Department of Veterans Affairs fiduciary for the 
+20respondent;
+21(7)  An agent designated under a power of attorney for health care in which the 
+22respondent is identified as the principal;
+23(8)  An agent designated under a power of attorney for finances in which the 
+24respondent is identified as the principal;
+25(9)  A person nominated as guardian by the respondent;
+26(10)  A person nominated as guardian by the respondent's parent, spouse or 
+27domestic partner in a will or other signed record;
+28(11)  A proposed guardian and the reason the proposed guardian should be 
+29selected; and
+30(12)  A person known to have routinely assisted the respondent with decision 
+31making within the 6 months before the filing of the petition;
+32Sec. 18.  18-C MRSA §5-304, sub-§2, ¶B, as enacted by PL 2017, c. 402, Pt. A, 
+33§2 and affected by Pt. F, §1, is amended to read:
+34B.  Determine the respondent's views about the appointment, including views about a 
+35proposed guardian, the guardian's proposed powers and duties and the scope and 
+36duration of the proposed guardianship, and general preferences and values;
+37Sec. 19.  18-C MRSA §5-304, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+38and affected by Pt. F, §1, is amended to read:
+Page 8 - 129LR0219(01)-113.  Additional duties.  In addition to the duties imposed by subsection 2, the visitor 
+2shall perform any duties that the court directs, which may include:
+3A.  Interview Interviewing the petitioner and proposed guardian, if any;
+4B.  Visit Visiting the respondent's present dwelling and any dwelling in which it is 
+5reasonably believed the respondent will live if the appointment is made;
+6C.  Obtain Obtaining information from any physician or other person known to have 
+7treated, advised or assessed the respondent's relevant physical or mental condition; 
+8and
+9D.  Investigate Investigating the allegations in the petition and any other matter 
+10relating to the petition as the court directs.
+11Sec. 20.  18-C MRSA §5-304, sub-§4, ¶C, as enacted by PL 2017, c. 402, Pt. A, 
+12§2 and affected by Pt. F, §1, is amended to read:
+13C.  A summary of the respondent's medical conditions, cognitive functioning, 
+14everyday functioning, preferences and values and a summary of self-care and 
+15independent living tasks the respondent can manage without assistance or with 
+16existing supports, could manage with the assistance of appropriate supportive 
+17services, technological assistance or supported decision making and cannot manage;
+18Sec. 21.  18-C MRSA §5-304, sub-§4, ¶H-1 is enacted to read:
+19H-1.  A statement whether the respondent wishes to attend the hearing under 
+20paragraph H after being informed of the right to attend the hearing, the purposes of 
+21the hearing and the potential consequences of failing to attend;
+22Sec. 22.  18-C MRSA §5-306, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+23and affected by Pt. F, §1, is amended to read:
+242.  Right to decline.  The respondent has the right to decline to participate in an 
+25evaluation ordered under subsection 1.  If the respondent declines to participate in an 
+26evaluation ordered under subsection 1 or the respondent refuses to provide medical 
+27reports, the court may enter an order of guardianship or other protective arrangement 
+28without the report of a licensed physician or psychologist or supporting medical reports if 
+29the court otherwise finds that there is a basis for such an order in accordance with section 
+305-301.
+31Sec. 23.  18-C MRSA §5-307, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+32and affected by Pt. F, §1, is amended to read:
+331.  Attendance by respondent.  Except as otherwise provided in subsection 2, a 
+34hearing under section 5-303 may proceed only if the respondent attends the hearing.  If it 
+35is not reasonably feasible for the respondent to attend a hearing at the location court 
+36proceedings typically are conducted, the court shall make reasonable efforts to hold the 
+37hearing at an alternative location convenient to the respondent or allow the respondent to 
+38attend the hearing using real-time audiovisual technology or by telephone if real-time 
+39audiovisual technology is not available.
+Page 9 - 129LR0219(01)-11Sec. 24.  18-C MRSA §5-307, sub-§6, as enacted by PL 2017, c. 402, Pt. A, §2 
+2and affected by Pt. F, §1, is amended to read:
+36.  Attendance by proposed guardian required.  Unless excused by the court for 
+4good cause, the proposed guardian shall attend a hearing under section 5-303 in person, 
+5using real-time audiovisual technology or by telephone if real-time audiovisual 
+6technology is not available.
+7Sec. 25.  18-C MRSA §5-308, sub-§4 is enacted to read:
+84.  Effective date.  This section takes effect January 1, 2021.
+9Sec. 26.  18-C MRSA §5-309, sub-§1, ¶D, as enacted by PL 2017, c. 402, Pt. A, 
+10§2 and affected by Pt. F, §1, is amended to read:
+11D.  A spouse or domestic partner of the respondent; and
+12Sec. 27.  18-C MRSA §5-309, sub-§1, ¶E, as enacted by PL 2017, c. 402, Pt. A, 
+13§2 and affected by Pt. F, §1, is repealed.
+14Sec. 28.  18-C MRSA §5-309, sub-§1, ¶¶F to I are enacted to read:
+15F.  An adult child of the respondent;
+16G.  A parent of the respondent, including a person nominated by will or other writing 
+17signed by a deceased parent;
+18H.  Any relative of the respondent with whom the respondent resided for more than 6 
+19months within the 12 months prior to the filing of the petition under section 5-302; 
+20and
+21I.  A family member or other individual who has exhibited special care and concern 
+22for the respondent.
+23Sec. 29.  18-C MRSA §5-309, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+24and affected by Pt. F, §1, is amended to read:
+253.  Appointment based on best interest of respondent.  The court, acting in the best 
+26interest of the respondent, may decline to appoint as guardian a person having priority 
+27under subsection 1 and appoint a person having a lower priority or no priority.  In its 
+28determination, the court may evaluate whatever factors the court determines appropriate, 
+29including comparing the following factors for the person having priority and the potential 
+30guardian who has a lower or no priority: relationships with the respondent, the higher 
+31priority person's and the potential guardian's skills, the expressed wishes of the 
+32respondent and the extent to which the person with higher priority and the potential 
+33guardian with lower or no priority have similar values and preferences as the respondent 
+34and the likelihood that the potential guardian will be able to satisfy the duties of a 
+35guardian successfully.
+36Sec. 30.  18-C MRSA §5-310, sub-§§1 and 2, as enacted by PL 2017, c. 402, Pt. 
+37A, §2 and affected by Pt. F, §1, are amended to read:
+Page 10 - 129LR0219(01)-111.  Order contents.  A court order appointing a guardian for an adult must clearly:
+2A.  Include a finding that clear and convincing evidence has established that the 
+3identified needs of the respondent cannot be met by a protective arrangement instead 
+4of guardianship or other less restrictive alternatives, including use of appropriate 
+5supportive services, technological assistance or supported decision making basis for 
+6an appointment of a guardian, as required under section 5-301, has been met; and
+7B.  Include a finding that clear and convincing evidence established that the 
+8respondent was given proper notice of the hearing on the petition;.
+9C.  State whether the adult subject to guardianship retains the right to vote and, if the 
+10adult does not retain the right to vote, include findings that support removing that 
+11right, which must include a finding that the adult cannot communicate, with or 
+12without support, a specific desire to participate in the voting process; and
+13D.  State whether the adult subject to guardianship retains the right to marry and, if 
+14the adult's right to marry is subject to conditions or if the adult does not retain the 
+15right to marry, include findings that support the conditions on that right or the 
+16removal of that right.
+172.  Rights retained.  An adult subject to guardianship retains the right to vote and the 
+18right to marry unless the order under subsection 1 includes the findings required by 
+19subsection 1, paragraph C court orders otherwise.  An adult subject to guardianship 
+20retains the right to marry unless the order under subsection 1 includes the findings 
+21required by subsection 1, paragraph D. A court order removing the right to vote must 
+22include a finding that the adult cannot communicate, with or without support, a specific 
+23desire to participate in the voting process.  A court order removing the right to marry or 
+24placing conditions on the right to marry must include findings that support the removal of 
+25the right to marry or support conditions on the right to marry.
+26Sec. 31.  18-C MRSA §5-310, sub-§5, ¶D, as enacted by PL 2017, c. 402, Pt. A, 
+27§2 and affected by Pt. F, §1, is amended to read:
+28D.  Notice that the guardian will be unavailable to visit the adult subject to 
+29guardianship for more than 2 months or unable to perform the guardian's duties for 
+30more than one month;
+31Sec. 32.  18-C MRSA §5-312, sub-§3, ¶C, as enacted by PL 2017, c. 402, Pt. A, 
+32§2 and affected by Pt. F, §1, is amended to read:
+33C.  The petitioner shall state in an affidavit the date, time, location and method of 
+34providing the required notice under paragraph A and to whom the notice was 
+35provided.  The court shall make a determination as to the adequacy of the method of 
+36providing notice and whether the petitioner complied with the notice requirements of 
+37this subsection.  The requirements of section 5-309 5-303 do not apply to this section.
+38Sec. 33.  18-C MRSA §5-313, sub-§3, ¶C, as enacted by PL 2017, c. 402, Pt. A, 
+39§2 and affected by Pt. F, §1, is amended to read:
+40C.  Administer assets of the adult subject to guardianship having a value of $5,000 
+41$10,000 or less;
+Page 11 - 129LR0219(01)-11Sec. 34.  18-C MRSA §5-314, sub-§1, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+2§2 and affected by Pt. F, §1, is amended to read:
+3A.  Apply for or receive money, personal effects or benefits for the support of the 
+4adult and apply the money for support, care and education of the adult, unless a 
+5conservator has been appointed for the adult and the application or receipt is within 
+6the powers of the conservator, but the guardian may not use money from the adult's 
+7estate for room and board that the guardian or the guardian's spouse, parent or child 
+8has furnished to the adult unless a charge for the services is approved by order of the 
+9court;
+10Sec. 35.  18-C MRSA §5-314, sub-§5, ¶¶D and F, as enacted by PL 2017, c. 
+11402, Pt. A, §2 and affected by Pt. F, §1, are amended to read:
+12D.  Establish or move the permanent place of dwelling of an adult subject to 
+13guardianship to a nursing home, mental health facility or other facility that places 
+14restrictions on the individual's ability to leave or have visitors only if:
+15(1)  The establishment or move is generally set forth in the guardian's plan;
+16(2)  The court authorizes the establishment or move; or
+17(3)  Notice Absent a compelling reason, notice of the establishment or move is 
+18given at least 14 days before the establishment or move to the adult subject to 
+19guardianship and all persons entitled to the notice under section 5-310, subsection 
+205 or a subsequent order and no objection has been filed.  The notice must be 
+21given orally and in writing to the adult subject to guardianship, and in writing to 
+22all persons entitled to notice under section 5-310, subsection 5 and must include 
+23the address of the current place of dwelling, the address and type of new 
+24permanent place of dwelling, the reason for the establishment or move to the new 
+25permanent place of dwelling and the right to object to the new place of dwelling;
+26F.  Take action that would result in the sale of or surrender the lease to the primary 
+27dwelling of the adult subject to guardianship only if:
+28(1)  The action is specifically generally set forth in the guardian's plan;
+29(2)  The court authorizes the action by specific order; or
+30(3)  Notice of the action is given at least 14 days before the action to the adult 
+31subject to guardianship and, orally and in writing, and in writing to all persons 
+32entitled to the notice under section 5-310, subsection 5 or a subsequent order, and 
+33no objection has been filed within 14 days of the notice.
+34Sec. 36.  18-C MRSA §5-314, sub-§7 is enacted to read:
+357.  Application to existing guardianships.  For guardianships established prior to 
+36July 1, 2019, the guardian is not subject to the duties of notice and restrictions of power 
+37set forth in subsection 5, paragraphs C, D and F until so ordered by the court.
+38Sec. 37.  18-C MRSA §5-315, sub-§3, ¶C, as enacted by PL 2017, c. 402, Pt. A, 
+39§2 and affected by Pt. F, §1, is amended to read:
+Page 12 - 129LR0219(01)-11C.  The guardian has good cause to believe restriction is necessary because 
+2interaction with the person poses a risk of significant physical, psychological or 
+3financial harm to the adult and the restriction is:.  The guardian shall provide a notice, 
+4orally and in writing, of the restriction to the adult subject to guardianship 
+5immediately upon imposition of the restriction and shall provide written notice of the 
+6restriction to all other persons entitled to notice under section 5-310, subsection 5 
+7within 7 days of imposition of the restriction.  Notice must include a description of 
+8the restriction, contact information of the court and the right to object to the 
+9restriction.
+10(1)  For a period of not more than 7 business days if the person has a family or 
+11preexisting social relationship with the adult; or
+12(2)  For a period of not more than 60 days if the person does not have a family or 
+13preexisting social relationship with the adult.
+14Sec. 38.  18-C MRSA §5-315, sub-§4 is enacted to read:
+154.  Application to existing guardianships.  For guardianships established prior to 
+16July 1, 2019, the guardian is not subject to the duties of notice and restrictions of power 
+17set forth in subsection 3 until so ordered by the court.
+18Sec. 39.  18-C MRSA §5-316, sub-§1, ¶A-1 is enacted to read:
+19A-1.  The adult's medical conditions, cognitive functioning, everyday functioning and 
+20levels of supervision needed;
+21Sec. 40.  18-C MRSA §5-316, sub-§§3 and 4, as enacted by PL 2017, c. 402, Pt. 
+22A, §2 and affected by Pt. F, §1, are amended to read:
+233.  Objection to revised plan.  An adult subject to guardianship and any person 
+24entitled under subsection 2 to receive notice and a copy of the guardian's plan may object 
+25to the revised plan within 14 days of receipt of notice of the revised plan.
+264.  Court review of plan or revised plan; approval.  The court shall review a 
+27guardian's plan or revised plan filed under subsection 1.  In deciding whether to approve 
+28the plan or the revised plan the court shall consider an objection under subsection 3 and 
+29whether the plan or revised plan is consistent with the guardian's duties and powers under 
+30sections 5-313 and 5-314.  The court may schedule a hearing on any revised plan 
+31submitted and may not approve any revised plan until 30 days after its filing.  The 
+32guardian may implement the revised plan 30 days after filing unless the court orders 
+33otherwise.
+34Sec. 41.  18-C MRSA §5-316, sub-§6 is enacted to read:
+356.  Application to existing guardianship.  For guardianships established prior to 
+36July 1, 2019, the guardian is not subject to the requirement for filing a revised plan until 
+37so ordered by the court.
+38Sec. 42.  18-C MRSA §5-317, sub-§1, ¶D, as enacted by PL 2017, c. 402, Pt. A, 
+39§2 and affected by Pt. F, §1, is amended to read:
+Page 13 - 129LR0219(01)-11D.  A summary of the guardian's visits with the adult, including the dates of the visits 
+2and the visits of agents designated by the guardian to visit on behalf of the guardian;
+3Sec. 43.  18-C MRSA §5-317, sub-§1, ¶¶M and N, as enacted by PL 2017, c. 
+4402, Pt. A, §2 and affected by Pt. F, §1, are amended to read:
+5M.  A recommendation as to the need for continued guardianship and any 
+6recommended change in the scope of the guardianship; and
+7N.  Whether any coguardian or successor guardian appointed to serve when a 
+8designated future event occurs is alive and able to serve.; and
+9Sec. 44.  18-C MRSA §5-317, sub-§1, ¶O is enacted to read:
+10O.  The fees that are paid to the guardian for the year or still outstanding.
+11Sec. 45.  18-C MRSA §5-317, sub-§8 is enacted to read:
+128.  Application to existing guardianship.  For guardianships established prior to 
+13July 1, 2019, in which there is no existing order to file an annual report, the guardian is 
+14not subject to the requirements for filing an annual report until so ordered by the court.
+15Sec. 46.  18-C MRSA §5-401, sub-§2, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+16§2 and affected by Pt. F, §1, is amended to read:
+17A.  The adult is unable to manage property or financial affairs because:
+18(1)  Of a limitation in the ability to receive and evaluate information or make or 
+19communicate decisions even with the use of appropriate supportive services, 
+20technological assistance and supported decision making that provide adequate 
+21protection for the respondent; or
+22(2)  The adult is missing, detained or unable to return to the United States;
+23Sec. 47.  18-C MRSA §5-401, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+24and affected by Pt. F, §1, is amended to read:
+253.  Powers.  The court shall grant a conservator only those powers necessitated by 
+26demonstrated limitations and needs of the respondent and enter orders that encourage the 
+27development of the respondent's maximum self-determination and independence.  The 
+28court may not establish a full conservatorship if a limited conservatorship, protective 
+29arrangement instead of conservatorship or other less restrictive alternatives would meet 
+30the needs of and provide adequate protection for the respondent.
+31Sec. 48.  18-C MRSA §5-402, sub-§2, ¶E, as enacted by PL 2017, c. 402, Pt. A, 
+32§2 and affected by Pt. F, §1, is amended to read:
+33E.  The reason conservatorship is necessary, including a brief description of:
+34(1)  The nature and extent of the respondent's alleged need based on the 
+35respondent's medical conditions, cognitive functioning and everyday financial 
+36functioning and levels of supervision needed;
+Page 14 - 129LR0219(01)-11(2)  If the petition alleges the respondent is missing, detained or unable to return 
+2to the United States, the relevant circumstances, including the time and nature of 
+3the disappearance or detention and any search or inquiry concerning the 
+4respondent's whereabouts;
+5(3)  Any protective arrangement instead of conservatorship or other less 
+6restrictive alternatives for meeting the respondent's alleged need which have been 
+7considered or implemented;
+8(4)  If no protective arrangement or other less restrictive alternatives have been 
+9considered or implemented, the reason they have not been considered or 
+10implemented; and
+11(5)  The reason a protective arrangement or other less restrictive alternatives are 
+12insufficient to meet the respondent's need;
+13Sec. 49.  18-C MRSA §5-404, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+14affected by Pt. F, §1, is repealed.
+15Sec. 50.  18-C MRSA §5-404-A is enacted to read:
+16§5-404-A.  Order to preserve or apply property while proceeding pending
+17While a petition under section 5-402 is pending, after preliminary hearing and 
+18without notice to others, the court may issue an order to preserve and apply property of 
+19the respondent as required for the support of the respondent or an individual who is in 
+20fact dependent on the respondent.
+21Sec. 51.  18-C MRSA §5-405, sub-§§3 and 4, as enacted by PL 2017, c. 402, Pt. 
+22A, §2 and affected by Pt. F, §1, are amended to read:
+233.  Interview with adult respondent.  A visitor appointed for an adult under 
+24subsection 2 shall interview the respondent in person and, in a manner the respondent is 
+25best able to understand:
+26A.  Explain to the respondent the substance of the petition, the nature, purpose and 
+27effect of the proceeding, the respondent's rights at the hearing and the general powers 
+28and duties of a conservator;
+29B.  Determine the respondent's views about the appointment sought by the petitioner, 
+30including views about a proposed conservator, the conservator's proposed powers and 
+31duties and the scope and duration of the proposed conservatorship, and general 
+32financial preferences and values;
+33C.  Inform the respondent of the respondent's right to employ and consult with an 
+34attorney at the respondent's expense and the right to request a court-appointed 
+35attorney; and
+36D.  Inform the respondent that all costs and expenses of the proceeding, including the 
+37respondent's attorney's fees, may be paid from the respondent's assets.
+Page 15 - 129LR0219(01)-114.  Additional duties.  In addition to the duties imposed by subsection 3, the visitor 
+2appointed for an adult under subsection 2 shall perform any duties that the court directs, 
+3which may include:
+4A.  Interview Interviewing the petitioner and proposed conservator, if any; 
+5B.  Review Reviewing financial records of the respondent, if relevant to the visitor's 
+6recommendation under subsection 5, paragraph B; 
+7C.  State Stating whether the respondent's needs could be met by a less restrictive 
+8alternative, including a protective arrangement instead of conservatorship and, if so, 
+9identify identifying the less restrictive alternative; and
+10D.  Investigate Investigating the allegations in the petition and any other matter 
+11relating to the petition as the court directs.
+12Sec. 52.  18-C MRSA §5-405, sub-§5, ¶A-1 is enacted to read:
+13A-1.  A summary of the respondent's financial functioning, financial preferences and 
+14independent financial tasks the respondent can manage without assistance or with 
+15existing supports or could manage with the assistance of appropriate supportive 
+16services, technological assistance or supported decision making;
+17Sec. 53.  18-C MRSA §5-405, sub-§5, ¶F-1 is enacted to read:
+18F-1.  A statement whether the respondent wishes to attend the hearing under 
+19paragraph F after being informed of the right to attend the hearing, the purposes of 
+20the hearing and the potential consequences of failing to attend;
+21Sec. 54.  18-C MRSA §5-407, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+22and affected by Pt. F, §1, is amended to read:
+232.  Right to decline.  The respondent has the right to decline to participate in an 
+24evaluation ordered under subsection 1.  If the respondent declines to participate in an 
+25evaluation ordered under subsection 1 or the respondent refuses to provide medical 
+26reports, the court may enter an order of conservatorship or other protective arrangement 
+27without the report of a licensed physician or psychologist or supporting medical reports if 
+28the court otherwise finds that there is a basis for such an order in accordance with section 
+295-401.
+30Sec. 55.  18-C MRSA §5-408, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+31and affected by Pt. F, §1, is amended to read:
+321.  Attendance by respondent required.  Except as otherwise provided in 
+33subsection 2, a hearing under section 5-403 may proceed only if the respondent attends 
+34the hearing.  If it is not reasonably feasible for the respondent to attend a hearing at the 
+35location court proceedings typically are conducted, the court shall make reasonable 
+36efforts to hold the hearing at an alternative location convenient to the respondent or allow 
+37the respondent to attend the hearing using real-time audiovisual technology or by 
+38telephone if real-time audiovisual technology is not available.
+Page 16 - 129LR0219(01)-11Sec. 56.  18-C MRSA §5-408, sub-§6, as enacted by PL 2017, c. 402, Pt. A, §2 
+2and affected by Pt. F, §1, is amended to read:
+36.  Attendance by proposed conservator required.  Unless excused by the court for 
+4good cause, the proposed conservator shall attend a hearing under section 5-403 in 
+5person, using real-time audiovisual technology or by telephone if real-time audiovisual 
+6technology is not available.
+7Sec. 57.  18-C MRSA §5-409, sub-§4 is enacted to read:
+84.  Effective date.  This section takes effect January 1, 2021.
+9Sec. 58.  18-C MRSA §5-410, sub-§1, ¶D, as enacted by PL 2017, c. 402, Pt. A, 
+10§2 and affected by Pt. F, §1, is amended to read:
+11D.  A spouse or domestic partner of the respondent; and
+12Sec. 59.  18-C MRSA §5-410, sub-§1, ¶E, as enacted by PL 2017, c. 402, Pt. A, 
+13§2 and affected by Pt. F, §1, is repealed.
+14Sec. 60.  18-C MRSA §5-410, sub-§1, ¶¶F to H are enacted to read:
+15F.  An adult child of the respondent;
+16G.  A parent of the respondent or a person nominated in the will of a deceased parent; 
+17and
+18H.  A family member or other individual who has exhibited special care and concern 
+19for the respondent.
+20Sec. 61.  18-C MRSA §5-410, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+21and affected by Pt. F, §1, is amended to read:
+223.  Appointment based on best interest of respondent.  The court, acting in the best 
+23interest of the respondent, may decline to appoint as conservator a person having priority 
+24under subsection 1 and appoint a person having a lower priority or no priority.  In its 
+25determination, the court may evaluate whatever factors the court determines appropriate, 
+26including comparing the following factors for the person having priority and the potential 
+27conservator who has a lower or no priority: relationships with the respondent, the higher 
+28priority person's and the potential conservator's skills, the expressed wishes of the 
+29respondent and the extent to which the person with higher priority and the potential 
+30conservator with lower priority or no priority have similar values and preferences as the 
+31respondent and the likelihood that the potential conservator will be able to satisfy the 
+32duties of a conservator successfully.
+33Sec. 62.  18-C MRSA §5-411, sub-§§2 to 4, as enacted by PL 2017, c. 402, Pt. 
+34A, §2 and affected by Pt. F, §1, are amended to read:
+352.  Conservator for adult; findings.  A court order appointing a conservator for an 
+36adult must include a clear finding by clear and convincing evidence that:
+Page 17 - 129LR0219(01)-11A.  The identified needs of the respondent cannot be met by a protective arrangement 
+2instead of conservatorship or other less restrictive alternatives, including use of 
+3appropriate supportive services, technological assistance or supported decision 
+4making basis for appointment of a conservator as required under section 5-401 has 
+5been met; and
+6B.  Clear and convincing evidence established the The respondent was given proper 
+7notice of the hearing on the petition.
+83.  Basis for full conservatorship.  A court order establishing a full conservatorship 
+9for an adult clearly must state the basis for granting a full conservatorship and include 
+10specific findings to support the conclusion that a limited conservatorship would not meet 
+11the functional needs of the adult.
+124.  Limited conservatorship; powers granted to conservator.  A court order 
+13establishing a limited conservatorship must state clearly identify the property placed 
+14under the control of the conservator and the powers granted to the conservator.
+15Sec. 63.  18-C MRSA §5-414, sub-§1, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+16§2 and affected by Pt. F, §1, is amended to read:
+17A.  Make Except as provided in section 5-421, subsection 2, paragraph Y, make gifts, 
+18except those of de minimis value;
+19Sec. 64.  18-C MRSA §5-414, sub-§1, ¶I, as enacted by PL 2017, c. 402, Pt. A, 
+20§2 and affected by Pt. F, §1, is amended to read:
+21I.  Make, modify, amend or revoke the will of the individual subject to 
+22conservatorship in compliance with the laws of the State governing executing wills, 
+23with the conservator treated as the individual making, modifying, amending or 
+24revoking the will.
+25Sec. 65.  18-C MRSA §5-414, sub-§5 is enacted to read:
+265.  Application to existing conservatorships.  For conservatorships established prior 
+27to July 1, 2019, the conservator is not subject to the notice and court authorization 
+28requirements under subsection 1, paragraph B until so ordered by the court.
+29Sec. 66.  18-C MRSA §5-416, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+30and affected by Pt. F, §1, is amended to read:
+311.  Bond or alternative asset-protection arrangement required.  The court shall 
+32require a conservator of an estate of $50,000 or more to furnish a bond with a surety the 
+33court specifies, or require an alternative asset-protection arrangement, conditioned on 
+34faithful discharge of all duties of the conservator.  The court may waive the requirement 
+35only if the court finds that a bond or other asset-protection arrangement is not necessary 
+36to protect the interests of the individual subject to conservatorship.  The court may not 
+37waive the requirement if the conservator is in the business of serving as a conservator and 
+38is being paid for the conservator's service except as provided by subsection 3.  With 
+39respect to an estate of less than $50,000, the court in its discretion may require a bond or 
+40other surety.
+Page 18 - 129LR0219(01)-11Sec. 67.  18-C MRSA §5-416, sub-§4 is enacted to read:
+24.  Spouse as conservator.  The court in its discretion may waive the requirement of 
+3a bond or other surety for a spouse wishing to serve as conservator.
+4Sec. 68.  18-C MRSA §5-419, sub-§§2 to 4, as enacted by PL 2017, c. 402, Pt. 
+5A, §2 and affected by Pt. F, §1, are amended to read:
+62.  Notice of revised plan.  A conservator shall give notice of the filing of a revised 
+7plan under subsection 1, along with a copy of the revised plan, to the individual subject to 
+8conservatorship, all persons entitled to notice under section 5-411, subsection 5 or a 
+9subsequent order and other persons as the court determines.  The notice must include a 
+10statement of the right to object to the revised plan and be given not later than 14 days 
+11after the filing.
+123.  Objection to revised plan.  An individual subject to conservatorship and any 
+13person entitled under subsection 2 to receive notice and a copy of the conservator's 
+14revised plan may object to the revised plan within 14 days of receipt of notice of the 
+15revised plan.
+164.  Court review of plan or revised plan; approval.  The court shall review a 
+17conservator's plan or revised plan filed under subsection 1.  In deciding whether to 
+18approve the plan or revised plan, the court shall consider any objection under subsection 
+193 and whether the plan or revised plan is consistent with the conservator's duties and 
+20powers.  The court may schedule a hearing on any revised plan submitted and may not 
+21approve the plan or revised plan until 30 days after its filing.  The conservator may 
+22implement the revised plan 30 days after filing unless the court orders otherwise.
+23Sec. 69.  18-C MRSA §5-419, sub-§6 is enacted to read:
+246.  Application to existing conservatorships.  For conservatorships established prior 
+25to July 1, 2019, the conservator is not subject to the requirement for the filing of a revised 
+26plan until so ordered by the court.
+27Sec. 70.  18-C MRSA §5-420, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+28and affected by Pt. F, §1, is amended to read:
+291.  Inventory.  Not later than 60 90 days after appointment, a conservator shall 
+30prepare and file with the appointing court a detailed inventory of the conservatorship 
+31estate, together with an oath or affirmation that the inventory is believed to be complete 
+32and accurate as far as information permits.
+33Sec. 71.  18-C MRSA §5-421, sub-§2, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+34§2 and affected by Pt. F, §1, is amended to read:
+35A.  Collect, hold and retain property included in the conservatorship estate, including 
+36property in which the conservator has a personal interest and real property in this 
+37State or another state, until the conservator determines disposition of the property 
+38should be made;
+Page 19 - 129LR0219(01)-11Sec. 72.  18-C MRSA §5-421, sub-§2, ¶G, as enacted by PL 2017, c. 402, Pt. A, 
+2§2 and affected by Pt. F, §1, is amended to read:
+3G.  Acquire or dispose of property of the conservatorship estate, including real 
+4property in this State or another state, for cash or on credit, at public or private sale, 
+5and manage, develop, improve, exchange, partition, change the character of or 
+6abandon property included in the conservatorship estate;
+7Sec. 73.  18-C MRSA §5-423, sub-§2, ¶E, as enacted by PL 2017, c. 402, Pt. A, 
+8§2 and affected by Pt. F, §1, is amended to read:
+9E.  Annual An annual credit report of the individual subject to conservatorship and, to 
+10the extent feasible, a copy of the most recent reasonably available financial 
+11statements evidencing the status of bank accounts, investment accounts and 
+12mortgages or other debts of the individual subject to conservatorship, along with, 
+13with all but the last 4 digits of the account numbers and the individual's social 
+14security number redacted;
+15Sec. 74.  18-C MRSA §5-423, sub-§9 is enacted to read:
+169.  Application to existing conservatorships.  For conservatorships established prior 
+17to January 1, 2008, the conservator is not subject to the requirement for an annual report 
+18and accounting until so ordered by the court.
+19Sec. 75.  18-C MRSA §5-431, sub-§10, as enacted by PL 2017, c. 402, Pt. A, §2 
+20and affected by Pt. F, §1, is amended to read:
+2110.  Property; report; petition for discharge.  On termination of a conservatorship 
+22and whether or not formally distributed by the conservator, property of the 
+23conservatorship estate passes to the individual formerly subject to conservatorship or the 
+24individual's heirs, successors or assigns other persons entitled to the property.  The order 
+25of termination must provide for expenses of administration and direct the conservator to 
+26file a final report and petition for discharge on approval of the final report.
+27Sec. 76.  18-C MRSA §5-502, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+28and affected by Pt. F, §1, is amended to read:
+291.  Findings.  After the hearing conducted on a petition for guardianship under 
+30section 5-302 or one or more protective arrangements instead of guardianship under 
+31section 5-501, subsection 1 2, the court may enter an order for one or more protective 
+32arrangements instead of guardianship under subsection 2 if the court finds by clear and 
+33convincing evidence that:
+34A.  The respondent lacks the ability to meet essential requirements for physical 
+35health, safety or self-care because the respondent is unable to receive and evaluate 
+36information or make or communicate decisions, even with after the court's 
+37consideration of the respondent's ability to use appropriate supportive services, 
+38technological assistance or supported decision making that provides adequate 
+39protection for the respondent; and
+Page 20 - 129LR0219(01)-11B.  The respondent's identified needs cannot be met by less restrictive alternatives 
+2that provide adequate protection for the respondent.
+3Sec. 77.  18-C MRSA §5-503, sub-§1, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+4§2 and affected by Pt. F, §1, is amended to read:
+5A.  By clear and convincing evidence that the respondent is unable to manage 
+6property or financial affairs because of a limitation in the ability to receive and 
+7evaluate information or make or communicate decisions, even with appropriate 
+8supportive services, technological assistance or supported decision making that 
+9provides adequate protection for the respondent, or the adult is missing, detained or 
+10unable to return to the United States;
+11Sec. 78.  18-C MRSA §5-503, sub-§3, ¶A, as enacted by PL 2017, c. 402, Pt. A, 
+12§2 and affected by Pt. F, §1, is amended to read:
+13A.  Authorize or direct a transaction necessary to protect the financial interest or 
+14property of the respondent, including but not limited to:
+15(1)  An action to establish eligibility for benefits;
+16(2)  Payment, delivery, deposit or retention of funds or property;
+17(3)  Sale, mortgage, lease or other transfer of property;
+18(4)  Purchase of an annuity;
+19(5)  Entry into a contractual relationship, including a contract to provide for 
+20personal care, supportive services, education, training or employment;
+21(6)  Addition to or establishment of a trust;
+22(6-A)  Creation, modification, amendment or revocation of a will or a codicil;
+23(7)  Ratification or invalidation of a contract, trust, will or other transaction, 
+24including a transaction related to the property or business affairs of the 
+25respondent; or
+26(8)  Settlement of a claim; or
+27Sec. 79.  18-C MRSA §5-503, sub-§4, as enacted by PL 2017, c. 402, Pt. A, §2 
+28and affected by Pt. F, §1, is amended to read:
+294.  Order to restrict access.  If, after the hearing conducted under section 5-505 on a 
+30petition under section 5-501, subsection 1, paragraph B or section 5-501, subsection 3, a 
+31court may enter an order to restrict access to the respondent or the respondent's property 
+32by a person that the court finds by clear and convincing evidence finds:
+33A.  Through fraud, coercion, duress or the use of deception and control, caused or 
+34attempted to cause an action that would have resulted in financial harm to the 
+35respondent or the respondent's property; and or
+36B.  Poses a serious significant risk of substantial financial harm to the respondent or 
+37the respondent's property.
+Page 21 - 129LR0219(01)-11Sec. 80.  18-C MRSA §5-506, sub-§4, ¶¶B to D, as enacted by PL 2017, c. 402, 
+2Pt. A, §2 and affected by Pt. F, §1, are amended to read:
+3B.  Determine the respondent's views, preferences and values with respect to the 
+4order sought;
+5C.  Inform the respondent of the respondent's right to employ and consult with an 
+6attorney at the respondent's expense and the right to request a court-appointed 
+7attorney; and
+8D.  Inform the respondent that all costs and expenses of the proceeding, including the 
+9respondent's attorney's fees, may be paid from the respondent's assets;.
+10Sec. 81.  18-C MRSA §5-506, sub-§4, ¶¶E to H, as enacted by PL 2017, c. 402, 
+11Pt. A, §2 and affected by Pt. F, §1, are repealed.
+12Sec. 82.  18-C MRSA §5-506, sub-§4-A is enacted to read:
+134-A.  Additional visitor duties.  In addition to the duties imposed by subsection 4, 
+14the visitor shall perform any duties that the court directs, which may include:
+15A.  Visiting the respondent's present dwelling and any dwelling in which it is 
+16reasonably believed the respondent will live if the order is granted;
+17B.  Obtaining information from any physician or other person known to have treated, 
+18advised or assessed the respondent's relevant physical or mental condition;
+19C.  Reviewing financial records of the respondent if relevant to the visitor's 
+20recommendation; and
+21D.  Investigating the allegations in the petition and any other matter relating to the 
+22petition as the court directs.
+23Sec. 83.  18-C MRSA §5-506, sub-§5, as enacted by PL 2017, c. 402, Pt. A, §2 
+24and affected by Pt. F, §1, is amended to read:
+255.  Report.  A visitor under this section promptly shall file a report in a record with 
+26the court, which, in addition to reporting on the additional visitor duties directed by the 
+27court under subsection 4-A, must include:
+28A.  A recommendation whether an attorney should be appointed to represent the 
+29respondent;
+30B.  To the extent relevant to the order sought, a summary of self-care, independent 
+31living tasks and financial management tasks the respondent can manage without 
+32assistance or with existing supports, or could manage with the assistance of 
+33appropriate supportive services, technological assistance or supported decision 
+34making and cannot manage that provides adequate protections for the respondent;
+35B-1.  To the extent relevant to the order sought, a summary of the respondent's 
+36medical conditions, cognitive functioning, everyday functioning, values and 
+37preferences, risks and levels of supervision needed and any means to enhance the 
+38respondent's capacity;
+Page 22 - 129LR0219(01)-11C.  Recommendations regarding the appropriateness of the protective arrangement 
+2sought and whether less restrictive alternatives for meeting the respondent's needs are 
+3available that provide adequate protections for the respondent;
+4D.  If the petition seeks to change the physical location of the dwelling of the 
+5respondent, a statement whether the proposed dwelling meets the respondent's needs 
+6and whether the respondent has expressed a preference as to the respondent's 
+7dwelling;
+8E.  A recommendation whether a professional evaluation under section 5-508 is 
+9necessary;
+10F.  A statement whether the respondent is able to attend a hearing at the location court 
+11proceedings typically are conducted;
+12F-1.  A statement whether the respondent wishes to attend a hearing under paragraph 
+13F, after being informed of the right to attend the hearing, the purposes of the hearing 
+14and the potential consequences of failing to attend the hearing;
+15G.  A statement whether the respondent is able to participate in a hearing and that 
+16identifies any technology or other form of support that would enhance the 
+17respondent's ability to participate; and
+18H.  Any other matter as the court directs.
+19Sec. 84.  18-C MRSA §5-508, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+20and affected by Pt. F, §1, is amended to read:
+213.  Right to decline.  The respondent has the right to decline to participate in an 
+22evaluation ordered under subsection 1.  If the respondent declines to participate in an 
+23evaluation ordered under subsection 1 or the respondent refuses to provide medical 
+24reports, the court may enter an order for a protective arrangement without the report of a 
+25licensed physician or psychologist or supporting medical reports if the court otherwise 
+26finds that there is a basis for such an order in accordance with section 5-401.
+27Sec. 85.  18-C MRSA §5-509, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 
+28and affected by Pt. F, §1, is amended to read:
+291.  Attendance by respondent required.  Except as otherwise provided in 
+30subsection 2, a hearing under this Part may proceed only if the respondent attends the 
+31hearing.  If it is not reasonably feasible for the respondent to attend a hearing at the 
+32location court proceedings typically are conducted, the court shall make reasonable 
+33efforts to hold the hearing at an alternative location convenient to the respondent or allow 
+34the respondent to attend the hearing using real-time audiovisual technology or by 
+35telephone if real-time audiovisual technology is not available.
+36Sec. 86.  18-C MRSA §5-511, sub-§4 is enacted to read:
+374.  Effective date.  This section takes effect January 1, 2021.
+38Sec. 87.  18-C MRSA §6-203, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 
+39and affected by Pt. F, §1, is amended to read:
+Page 23 - 129LR0219(01)-112.  Accounts governed by this Part.  An account established before, on or after the 
+2July 1, 2019, whether in the form prescribed in section 6-204 or in any other form, is 
+3either a single-party account or a multiple-party account, with or without right of 
+4survivorship and with or without a POD designation or an agency designation, within the 
+5meaning of this Part and is governed by this Part.
+6Sec. 88.  18-C MRSA §9-204, sub-§3, as enacted by PL 2017, c. 402, Pt. A, §2 
+7and affected by Pt. F, §1, is amended to read:
+83.  Grounds for termination.  The court may order termination of parental rights if:
+9A.  The parent consents to the termination.  Consent must be written and voluntarily 
+10and knowingly executed in court before a judge.  The judge shall explain the effects 
+11of a termination order; or
+12B.  The court finds, based on clear and convincing evidence, that:
+13(1)  Termination is in the best interest of the child; and
+14(2)  Either:
+15(a)  The parent is unwilling or unable to protect the child from jeopardy, as 
+16defined by Title 22, section 4002, subsection 6, and these circumstances are 
+17unlikely to change within a time that is reasonably calculated to meet the 
+18child's needs;
+19(b)  The parent has been unwilling or unable to take responsibility for the 
+20child within a time that is reasonably calculated to meet the child's needs; or
+21(c)  The parent has abandoned the child, as described in Title 22, section 
+224002, subsection 1-A;.
+23In making findings pursuant to this paragraph, the court may consider the extent to 
+24which the parent had opportunities to rehabilitate and to reunify with the child, 
+25including actions by the child’s other parent to foster or to interfere with a 
+26relationship between the parent and child or services provided by public or nonprofit 
+27agencies.
+28Sec. 89.  18-C MRSA §9-401, sub-§4, ¶F, as enacted by PL 2017, c. 402, Pt. A, 
+29§2 and affected by Pt. F, §1, is amended to read:
+30F.  Has in that child's family background factors such as severe mental illness, 
+31substance abuse use disorder, prostitution, genetic or medical conditions or illnesses 
+32that place the child at risk for future problems.
+33Sec. 90.  18-C MRSA Art. 10 is enacted to read:
+34ARTICLE 10
+Page 24 - 129LR0219(01)-11MAINE REVISED UNIFORM FIDUCIARY ACCESS TO DIGITAL 
+2ASSETS ACT
+3§10-101.  Short title
+4This Article may be known and cited as "the Maine Revised Uniform Fiduciary 
+5Access to Digital Assets Act."
+6§10-102.  Definitions
+7As used in this Act, unless the context otherwise indicates, the following terms have 
+8the following meanings.
+91.  Account.  "Account" means an arrangement under a terms of service agreement in 
+10which a custodian carries, maintains, processes, receives or stores a digital asset of a user 
+11or provides goods or services to a user.
+122.  Agent.  "Agent" means an attorney in fact granted authority under a durable or 
+13nondurable power of attorney.
+143.  Carries.  "Carries" means engages in the transmission of an electronic 
+15communication.
+164.  Catalog of electronic communications.  "Catalog of electronic communications" 
+17means information that identifies each person with which a user has had an electronic 
+18communication, the time and date of the communication and the electronic address of the 
+19person.
+205.  Conservator.  "Conservator" means a person appointed by a court to manage the 
+21estate of a living individual.  "Conservator" includes a limited conservator and a guardian 
+22exercising the powers of a conservator when a conservator has not been appointed.
+236.  Content of an electronic communication.  "Content of an electronic 
+24communication" means information concerning the substance or meaning of an electronic 
+25communication that:
+26A.  Has been sent or received by a user;
+27B.  Is in electronic storage by a custodian providing an electronic communication 
+28service to the public or is carried or maintained by a custodian providing a remote 
+29computing service to the public; and
+30C.  Is not readily accessible to the public.
+317.  Custodian.  "Custodian" means a person that carries, maintains, processes, 
+32receives or stores a digital asset of a user.
+338.  Designated recipient.  "Designated recipient" means a person chosen by a user 
+34using an online tool to administer digital assets of the user.
+Page 25 - 129LR0219(01)-119.  Digital asset.  "Digital asset" means an electronic record in which an individual 
+2has a right or interest.  "Digital asset" does not include an underlying asset or liability 
+3unless the asset or liability is itself an electronic record.
+410.  Electronic.  "Electronic" means relating to technology having electrical, digital, 
+5magnetic, wireless, optical, electromagnetic or similar capabilities.
+611.  Electronic communication.  "Electronic communication" has the same meaning 
+7as in 18 United States Code, Section 2510(12).
+812.  Electronic communication service.  "Electronic communication service" means 
+9a service that provides to a user the ability to send or receive an electronic 
+10communication.
+1113.  Fiduciary.  "Fiduciary" means an original, additional or successor personal 
+12representative, conservator, agent or trustee.
+1314.  Information.  "Information" means data, text, images, videos, sounds, codes, 
+14computer programs, software and databases or the like.
+1515.  Online tool.  "Online tool" means an electronic service provided by a custodian 
+16that allows a user, in an agreement distinct from the terms of service agreement between 
+17the custodian and user, to provide directions for disclosure or nondisclosure of digital 
+18assets to a 3rd person.
+1916.  Person.  "Person" means an individual, estate, business or nonprofit entity, 
+20public corporation, government or governmental subdivision, agency or instrumentality 
+21or other legal entity.
+2217.  Personal representative.  "Personal representative" means an executor, 
+23administrator, special administrator or person that performs substantially the same 
+24function under the laws of this State other than this Act and a person claiming to be a 
+25successor of the decedent user who presents an affidavit under section 3-1201.
+2618.  Power of attorney.  "Power of attorney" means a record that grants an agent 
+27authority to act in the place of a principal.
+2819.  Principal.  "Principal" means an individual who grants authority to an agent in a 
+29power of attorney.
+3020.  Protected person.  "Protected person" means an individual for whom a 
+31conservator has been appointed.  "Protected person" includes an individual for whom an 
+32application for the appointment of a conservator is pending and an individual for whom a 
+33guardian has been appointed, when no conservator has been appointed.
+3421.  Record.  "Record" means information that is inscribed on a tangible medium or 
+35that is stored in an electronic or other medium and is retrievable in perceivable form.
+3622.  Remote computing service.  "Remote computing service" means a service that 
+37provides to a user computer processing services or the storage of digital assets by means 
+Page 26 - 129LR0219(01)-11of an electronic communications system as defined in 18 United States Code, Section 
+22510(14).
+323.  Terms of service agreement.  "Terms of service agreement" means an 
+4agreement, as defined in Title 11, section 1-1201, subsection (3), that controls the 
+5relationship between a user and a custodian.
+624.  Trustee.  "Trustee" means a fiduciary with legal title to property pursuant to an 
+7agreement or declaration that creates a beneficial interest in another person.  "Trustee" 
+8includes a successor trustee.
+925.  User.  "User" means a person that has an account with a custodian.
+1026.  Will.  "Will" includes a codicil, a testamentary instrument that only appoints an 
+11executor and an instrument that revokes or revises a testamentary instrument.
+12§10-103.  Applicability
+131.  Applicable date.  This Act applies to:
+14A.  A fiduciary or agent acting under a will or power of attorney executed before, on 
+15or after July 1, 2018;
+16B.  A personal representative acting for a decedent who died before, on or after July 
+171, 2018;
+18C.  A conservatorship proceeding commenced before, on or after July 1, 2018; and
+19D.  A trustee acting under a trust created before, on or after July 1, 2018.
+202.  User resident of this State.  This Act applies to a custodian if the user resides in 
+21this State or resided in this State at the time of the user's death.
+223.  Digital asset of employer.  This Act does not apply to a digital asset of an 
+23employer used by an employee in the ordinary course of the employer's business.
+24§10-104.  User direction for disclosure of digital assets
+251.  Use of online tool.  A user may use an online tool to direct the custodian to 
+26disclose to a designated recipient or not to disclose some or all of the user's digital assets, 
+27including the content of electronic communications.  If the online tool allows the user to 
+28modify or delete a direction at all times, a direction regarding disclosure using an online 
+29tool overrides a contrary direction by the user in a will, trust, power of attorney or other 
+30record.
+312.  No online tool used.  If a user has not used an online tool to give direction under 
+32subsection 1 or if the custodian has not provided an online tool, the user may allow or 
+33prohibit in a will, trust, power of attorney or other record disclosure to a fiduciary of 
+34some or all of the user's digital assets, including the content of electronic 
+35communications.
+Page 27 - 129LR0219(01)-113.  User direction overrides.  A user's direction under subsection 1 or 2 overrides a 
+2contrary provision in a terms of service agreement that does not require the user to act 
+3affirmatively and distinctly from the user's assent to the terms of service.
+4§10-105.  Terms of service agreement
+51.  Rights of custodian or user not changed or impaired.  This Act does not 
+6change or impair a right of a custodian or a user under a terms of service agreement to 
+7access and use digital assets of the user.  
+82.  No new or expanded rights to fiduciary or designated recipient.  This Act does 
+9not give a fiduciary or designated recipient any new or expanded rights other than those 
+10held by the user for whom, or for whose estate, the fiduciary or designated recipient acts 
+11or represents.
+123.  Fiduciary's or designated recipient's access may be modified or eliminated.  A 
+13fiduciary's or designated recipient's access to digital assets may be modified or eliminated 
+14by a user, by federal law or by a terms of service agreement if the user has not provided 
+15direction under section 10-104.
+16§10-106.  Procedure for disclosing digital assets
+171.  Disclosure at discretion of custodian.  When disclosing digital assets of a user 
+18under this Act, the custodian may at its sole discretion:
+19A.  Grant a fiduciary or designated recipient full access to the user's account;
+20B.  Grant a fiduciary or designated recipient partial access to the user's account 
+21sufficient to perform the tasks with which the fiduciary or designated recipient is 
+22charged; or
+23C.  Provide a fiduciary or designated recipient a copy in a record of any digital asset 
+24that, on the date the custodian received the request for disclosure, the user could have 
+25accessed if the user were alive and had full capacity and access to the account.
+262.  Administrative charge.  A custodian may assess a reasonable administrative 
+27charge for the cost of disclosing digital assets under this Act.
+283.  Deleted digital assets.  A custodian need not disclose under this Act a digital 
+29asset deleted by a user.
+304.  Undue burden on custodian; court order to disclose.  If a user directs or a 
+31fiduciary requests a custodian to disclose under this Act some, but not all, of the user's 
+32digital assets, the custodian need not disclose the assets if segregation of the assets would 
+33impose an undue burden on the custodian.  If the custodian believes the direction or 
+34request imposes an undue burden, the custodian or fiduciary may seek an order from the 
+35court to disclose:
+36A.  A subset limited by date of the user's digital assets;
+37B.  All of the user's digital assets to the fiduciary or designated recipient;
+Page 28 - 129LR0219(01)-11C.  None of the user's digital assets; or
+2D.  All of the user's digital assets to the court for review in camera.
+3§10-107.  Disclosure of content of electronic communications of deceased user
+4If a deceased user consented to or a court directs disclosure of the content of 
+5electronic communications of the user, the custodian shall disclose to the personal 
+6representative of the estate of the user the content of an electronic communication if the 
+7representative gives the custodian:
+81.  Written request.  A written request for disclosure in physical or electronic form;
+92.  Death certificate.  A copy of the death certificate of the user;
+103.  Letters of appointment or court order.  A copy of the letters of appointment of 
+11the personal representative or court order;
+124.  Record of consent to disclosure.  Unless the user provided direction using an 
+13online tool, a copy of the user's will, trust, power of attorney or other record evidencing 
+14the user's consent to disclosure of the content of electronic communications; and
+155.  Information requested by custodian.  If requested by the custodian:
+16A.  A number, username, address or other unique subscriber or account identifier 
+17assigned by the custodian to identify the user's account;
+18B.  Evidence linking the account to the user; or
+19C.  A finding by the court that:
+20(1)  The user had a specific account with the custodian, identifiable by the 
+21information specified in paragraph A;
+22(2)  Disclosure of the content of electronic communications of the user would not 
+23violate 18 United States Code, Section 2701 et seq., 47 United States Code, 
+24Section 222 or other applicable law;
+25(3)  Unless the user provided direction using an online tool, the user consented to 
+26disclosure of the content of electronic communications; or
+27(4)  Disclosure of the content of electronic communications of the user is 
+28reasonably necessary for administration of the estate.
+29§10-108.  Disclosure of other digital assets of deceased user
+30Unless the user prohibited disclosure of digital assets or the court directs otherwise, a 
+31custodian shall disclose to the personal representative of the estate of a deceased user a 
+32catalog of electronic communications sent or received by the user and digital assets, other 
+33than the content of electronic communications, of the user if the representative gives the 
+34custodian:
+351.  Written request.  A written request for disclosure in physical or electronic form;
+Page 29 - 129LR0219(01)-112.  Death certificate.  A copy of the death certificate of the user;
+23.  Letters of appointment or court order.  A copy of the letters of appointment of 
+3the personal representative or court order; and
+44.  Information requested by custodian.  If requested by the custodian:
+5A.  A number, username, address or other unique subscriber or account identifier 
+6assigned by the custodian to identify the user's account;
+7B.  Evidence linking the account to the user;
+8C.  An affidavit stating that disclosure of the user's digital assets is reasonably 
+9necessary for administration of the estate; or
+10D.  A finding by the court that:
+11(1)  The user had a specific account with the custodian, identifiable by the 
+12information specified in paragraph A; or
+13(2)  Disclosure of the user's digital assets is reasonably necessary for 
+14administration of the estate.
+15§10-109.  Disclosure of content of electronic communications of principal
+16To the extent a power of attorney expressly grants an agent authority over the content 
+17of electronic communications sent or received by the principal and unless directed 
+18otherwise by the principal or the court, a custodian shall disclose to the agent the content 
+19of electronic communications if the agent gives the custodian:
+201.  Written request.  A written request for disclosure in physical or electronic form;
+212.  Power of attorney.  An original or copy of the power of attorney expressly 
+22granting the agent authority over the content of electronic communications of the 
+23principal;
+243.  Agent's certificate.  A certification by the agent, under penalty of perjury, that the 
+25power of attorney is in effect; and
+264.  Information requested by custodian.  If requested by the custodian:
+27A.  A number, username, address or other unique subscriber or account identifier 
+28assigned by the custodian to identify the principal's account; or
+29B.  Evidence linking the account to the principal.
+30§10-110.  Disclosure of other digital assets of principal
+31Unless otherwise ordered by the court, directed by the principal or provided by a 
+32power of attorney, a custodian shall disclose to an agent with specific authority over 
+33digital assets or general authority to act on behalf of a principal a catalog of electronic 
+34communications sent or received by the principal and digital assets, other than the content 
+35of electronic communications, of the principal if the agent gives the custodian:
+Page 30 - 129LR0219(01)-111.  Written request.  A written request for disclosure in physical or electronic form;
+22.  Power of attorney.  An original or a copy of the power of attorney that gives the 
+3agent specific authority over digital assets or general authority to act on behalf of the 
+4principal;
+53.  Agent's certificate.  A certification by the agent, under penalty of perjury, that the 
+6power of attorney is in effect; and
+74.  Information requested by custodian.  If requested by the custodian:
+8A.  A number, username, address or other unique subscriber or account identifier 
+9assigned by the custodian to identify the principal's account; or
+10B.  Evidence linking the account to the principal.
+11§10-111.  Disclosure of digital assets held in trust when trustee is original user
+12Unless otherwise ordered by the court or provided in a trust, a custodian shall 
+13disclose to a trustee that is an original user of an account any digital asset of the account 
+14held in trust, including a catalog of electronic communications of the trustee and the 
+15content of those electronic communications.
+16§10-112.  Disclosure of content of electronic communications held in trust when 
+17trustee is not original user
+18Unless otherwise ordered by the court, directed by the user or provided in a trust, a 
+19custodian shall disclose to a trustee that is not an original user of an account the content 
+20of an electronic communication sent or received by an original or successor user and 
+21carried, maintained, processed, received or stored by the custodian in the account of the 
+22trust if the trustee gives the custodian:
+231.  Written request.  A written request for disclosure in physical or electronic form;
+242.  Trust instrument or certification of trust.  A certified copy of the trust 
+25instrument or a certification of the trust under Title 18-B, section 1013 that includes 
+26consent to disclosure of the content of electronic communications to the trustee;
+273.  Trustee's certification.  A certification by the trustee, under penalty of perjury, 
+28that the trust exists and the trustee is a currently acting trustee of the trust; and
+294.  Information requested by custodian.  If requested by the custodian:
+30A.  A number, username, address or other unique subscriber or account identifier 
+31assigned by the custodian to identify the trust's account; or
+32B.  Evidence linking the account to the trust.
+Page 31 - 129LR0219(01)-11§10-113.  Disclosure of other digital assets held in trust when trustee is not original 
+2user
+3Unless otherwise ordered by the court, directed by the user or provided in a trust, a 
+4custodian shall disclose to a trustee that is not an original user of an account a catalog of 
+5electronic communications sent or received by an original or successor user and stored, 
+6carried or maintained by the custodian in an account of the trust and any digital assets, 
+7other than the content of electronic communications, in which the trust has a right or 
+8interest if the trustee gives the custodian:
+91.  Written request.  A written request for disclosure in physical or electronic form;
+102.  Trust instrument or certification of trust.  A certified copy of the trust 
+11instrument or a certification of the trust under Title 18-B, section 1013;
+123.  Trustee's certification.  A certification by the trustee, under penalty of perjury, 
+13that the trust exists and the trustee is a currently acting trustee of the trust; and
+144.  Information requested by custodian.  If requested by the custodian:
+15A.  A number, username, address or other unique subscriber or account identifier 
+16assigned by the custodian to identify the trust's account; or
+17B.  Evidence linking the account to the trust.
+18§10-114.  Disclosure of digital assets to conservator of protected person
+191.  Court order granting access.  After an opportunity for a hearing under Article 5, 
+20Part 4, the court may grant a conservator access to the digital assets of a protected person.
+212.  Disclosure by custodian.  Unless otherwise ordered by the court or directed by 
+22the user, a custodian shall disclose to a conservator the catalog of electronic 
+23communications sent or received by a protected person and any digital assets, other than 
+24the content of electronic communications, in which the protected person has a right or 
+25interest if the conservator gives the custodian:
+26A.  A written request for disclosure in physical or electronic form;
+27B.  A certified copy of the court order that gives the conservator authority over the 
+28digital assets of the protected person; and
+29C.  If requested by the custodian:
+30(1)  A number, username, address or other unique subscriber or account identifier 
+31assigned by the custodian to identify the account of the protected person; or
+32(2)  Evidence linking the account to the protected person.
+333.  Request to suspend or terminate account.  A conservator with general authority 
+34to manage the assets of a protected person may request a custodian of the digital assets of 
+35the protected person to suspend or terminate an account of the protected person for good 
+36cause.  A request made under this subsection must be accompanied by a copy of the court 
+37order giving the conservator authority over the protected person's property.
+Page 32 - 129LR0219(01)-11§10-115.  Fiduciary duty and authority
+21.  Fiduciary's legal duties.  The legal duties imposed on a fiduciary charged with 
+3managing tangible property apply to the management of digital assets, including:
+4A.  The duty of care;
+5B.  The duty of loyalty; and
+6C.  The duty of confidentiality.
+72.  Limitations on fiduciary's or designated recipient's authority.  A fiduciary's or 
+8designated recipient's authority with respect to a digital asset of a user:
+9A.  Except as otherwise provided in section 10-104, is subject to the applicable terms 
+10of service agreement;
+11B.  Is subject to other applicable law, including copyright law;
+12C.  In the case of a fiduciary, is limited by the scope of the fiduciary's duties; and
+13D.  May not be used to impersonate the user.
+143.  Right to access.  A fiduciary with authority over the property of a decedent, 
+15protected person, principal or settlor has the right to access any digital asset in which the 
+16decedent, protected person, principal or settlor had a right or interest and that is not held 
+17by a custodian or subject to a terms of service agreement.
+184.  Authorized user.  A fiduciary acting within the scope of the fiduciary's duties is 
+19an authorized user of the property of the decedent, protected person, principal or settlor 
+20for the purpose of applicable computer fraud and unauthorized computer access laws, 
+21including Title 17-A, chapter 18.
+225.  Fiduciary's authority to access; authorized user.  A fiduciary with authority 
+23over the tangible, personal property of a decedent, protected person, principal or settlor:
+24A.  Has the right to access the property and any digital asset stored in it; and
+25B.  Is an authorized user for the purpose of computer fraud and unauthorized 
+26computer access laws, including Title 17-A, chapter 18.
+276.  Disclosure of information to terminate account.  A custodian may disclose 
+28information in an account to a fiduciary of a user when the information is required to 
+29terminate an account used to access digital assets licensed to the user.
+307.  Request for termination.  A fiduciary of a user may request a custodian to 
+31terminate the user's account.  A request for termination must be in writing, in either 
+32physical or electronic form, and accompanied by:
+33A.  If the user is deceased, a copy of the death certificate of the user;
+34B.  A copy of the letters of appointment of the personal representative or court order, 
+35power of attorney or trust giving the fiduciary authority over the account; and
+36C.  If requested by the custodian:
+Page 33 - 129LR0219(01)-11(1)  A number, username, address or other unique subscriber or account identifier 
+2assigned by the custodian to identify the user's account;
+3(2)  Evidence linking the account to the user; or
+4(3)  A finding by the court that the user had a specific account with the custodian, 
+5identifiable by the information specified in subparagraph (1).
+6§10-116.  Custodian compliance and immunity
+71.  Disclose or terminate upon request; court order.  Not later than 60 days after 
+8receipt of the information required under sections 10-107 to 10-115, a custodian shall 
+9comply with a request under this Act from a fiduciary or designated recipient to disclose 
+10digital assets or terminate an account.  If the custodian fails to comply, the fiduciary or 
+11designated recipient may apply to the court for an order directing compliance.
+122.  Finding that compliance not in violation.  An order under subsection 1 directing 
+13compliance must contain a finding that compliance is not in violation of 18 United States 
+14Code, Section 2702.
+153.  Notification to user.  A custodian may notify the user that a request for disclosure 
+16or to terminate an account was made under this Act.
+174.  Denial of request if subsequent lawful access.  A custodian may deny a request 
+18under this Act from a fiduciary or designated recipient for disclosure of digital assets or 
+19to terminate an account if the custodian is aware of any lawful access to the account 
+20following the receipt of the fiduciary's request.
+215.  Court order.  This Act does not limit a custodian's ability to obtain or require a 
+22fiduciary or designated recipient requesting disclosure or termination under this Act to 
+23obtain a court order that:
+24A.  Specifies that an account belongs to the protected person or principal;
+25B.  Specifies that there is sufficient consent from the protected person or principal to 
+26support the requested disclosure; and
+27C.  Contains a finding required by law other than this Act.
+286.  Immunity.  A custodian and its officers, employees and agents are immune from 
+29liability for an act or omission done in good faith in compliance with this Act.
+30§10-117.  Uniformity of application and construction
+31In applying and construing this Act, consideration must be given to the need to 
+32promote uniformity of the law with respect to its subject matter among states that enact it.
+33§10-118.  Relation to Electronic Signatures in Global and National Commerce Act
+34This Act modifies, limits or supersedes the federal Electronic Signatures in Global 
+35and National Commerce Act, 15 United States Code, Section 7001 et seq., but does not 
+36modify, limit or supersede Section 101(c) of that Act, 15 United States Code, Section 
+Page 34 - 129LR0219(01)-117001(c), or authorize electronic delivery of any of the notices described in Section 103(b) 
+2of that Act, 15 United States Code, Section 7003(b).
+3Sec. 91.  22 MRSA §1826, sub-§2, ¶I, as amended by PL 2017, c. 402, Pt. C, §46 
+4and affected by Pt. F, §1, is further amended to read:
+5I.  No contract or agreement may contain a provision that provides for the payment of 
+6attorney's fees or any other cost of collecting payments from the resident, except that 
+7attorney's fees and costs may be collected against any agent under a power of 
+8attorney who breaches the agent's duties as set forth in Title 18-C, section 5-914 or 
+9against a conservator appointed under Title 18-C, section 5-404 5-404-A for breach 
+10of the conservator's duties.
+11Sec. 92.  32 MRSA §9405, sub-§1-A, ¶F, as amended by PL 2017, c. 402, Pt. C, 
+12§86 and affected by Pt. F, §1 and amended by c. 407, Pt. A, §142, is repealed and the 
+13following enacted in its place:
+14F.  Submits an application that contains the following, to be answered by the 
+15applicant:
+16(1)  Full name;
+17(2)  Full current address and addresses for the prior 5 years;
+18(3)  The date and place of birth, height, weight and color of eyes;
+19(4)  A record of previous issuances of, refusals to issue and renew, suspensions 
+20and revocations of a license to be a contract security company. The record of 
+21previous refusals to issue alone does not constitute cause for refusal and the 
+22record of previous refusals to renew and revocations alone constitutes cause for 
+23refusal only as provided in section 9411-A;
+24(5)  The following questions.
+25(a)  Is there a formal charging instrument now pending against you in this or 
+26any other jurisdiction for a crime that is punishable by one year or more of 
+27imprisonment or for any other crime alleged to have been committed by you 
+28with the use of a dangerous weapon, as defined in Title 17-A, section 2, 
+29subsection 9, or of a firearm against another person?
+30(b)  Is there a formal charging instrument now pending against you in this or 
+31any other jurisdiction for a juvenile offense that involves conduct that, if 
+32committed by an adult, would be punishable by one year or more of 
+33imprisonment or for any other juvenile offense alleged to have been 
+34committed by you with the use of a dangerous weapon, as defined in Title 
+3517-A, section 2, subsection 9, or of a firearm against another person?
+36(c)  Have you ever been convicted of a crime described in division (a) or 
+37adjudicated as having committed a juvenile offense as described in division 
+38(b)?
+39(d)  Is there a formal charging instrument now pending against you in this 
+40jurisdiction for any crime enumerated in section 9412?
+Page 35 - 129LR0219(01)-11(e)  Is there a formal charging instrument now pending against you in this 
+2jurisdiction for a juvenile offense that involves conduct that, if committed by 
+3an adult, would be a crime enumerated in section 9412?
+4(f)  Have you within the past 5 years been convicted of a crime described in 
+5division (d) or adjudicated as having committed a juvenile offense as 
+6described in division (e)?
+7(g)  Are you a fugitive from justice?
+8(h)  Are you a drug user or a person with substance use disorder?
+9(i)  Do you have a mental disorder that causes you to be potentially 
+10dangerous to yourself or others?
+11(j)  Do you currently have a guardian or conservator who was appointed for 
+12you under Title 18-C, Article 5, Part 3 or 4?
+13(k)  Have you been dishonorably discharged from the military forces within 
+14the past 5 years?
+15(l)  Are you an illegal alien?;
+16(6)  A list of employees as of the date the applicant signs the application who will 
+17perform security guard functions within the State.  This list must identify each 
+18employee by the employee's full name, full current address and addresses for the 
+19prior 5 years and the employee's date and place of birth, height, weight and color 
+20of eyes.  For each employee on this list who will perform security guard 
+21functions at the site of a labor dispute or strike, the applicant shall have 
+22previously investigated the background of the employee to ensure that the 
+23employee meets all of the requirements to be a security guard as contained in 
+24section 9410-A, subsection 1.  If the employee meets all of the requirements to be 
+25a security guard, the applicant shall also submit a statement, signed by the 
+26applicant, stating that the applicant has conducted this background investigation 
+27and that the employee meets the requirements contained in section 9410-A, 
+28subsection 1; and
+29(7)  A photograph of the applicant taken within 6 months of the date the applicant 
+30affixes the applicant's signature to the application; and
+31Sec. 93.  36 MRSA §4641-D, sub-§6, as amended by PL 2017, c. 402, Pt. C, 
+32§107 and Pt. E, §6 and affected by Pt. F, §1, is repealed and the following enacted in its 
+33place:
+346.  Deed of distribution.  Any deed of distribution made pursuant to Title 18-C; and
+35Sec. 94.  Maine Revised Statutes headnote amended; revision clause.  In 
+36the Maine Revised Statutes, Title 18-C, Article 5, in the article headnote, the words 
+37"uniform guardianship and protective proceedings" are amended to read "Maine uniform 
+38guardianship, conservatorship and protective proceedings" and the Revisor of Statutes 
+39shall implement this revision when updating, publishing or republishing the statutes.
+Page 36 - 129LR0219(01)-11Sec. 95.  Study and recommendations by Family Law Advisory 
+2Commission.  The Family Law Advisory Commission shall study and provide 
+3recommendations on the following matters related to the Maine Uniform Probate Code: 
+4petitions for termination of parental rights in the context of adoption; competing adoption 
+5petitions; and rights of contact between a minor and the former guardian when the 
+6guardianship is terminated.  The Family Law Advisory Commission shall review relevant 
+7decisions of the Maine Supreme Judicial Court and the United States Supreme Court, as 
+8well as relevant court cases and legislative action in other jurisdictions, and work with 
+9stakeholders to explore policy options and develop recommendations.  The Family Law 
+10Advisory Commission shall submit a report, including specific recommendations for 
+11amendments to the Maine Uniform Probate Code and other family law statutes, to the 
+12Joint Standing Committee on Judiciary by December 1, 2019.
+13Emergency clause.  In view of the emergency cited in the preamble, this 
+14legislation takes effect July 1, 2019.
+15SUMMARY
+16This bill is submitted pursuant to Public Law 2017, chapter 402, Part G, section 2.
+17This bill contains recommendations submitted by the Probate and Trust Law 
+18Advisory Commission and the Family Law Advisory Commission.  It makes the 
+19following changes to the Maine Uniform Probate Code.
+201.  It adds a cross-reference to the section regarding cost-of-living adjustments to 
+21include the section authorizing the collection of personal property by affidavit.  By 
+22including the cross-reference, the cost-of-living adjustment will adjust the cap on the 
+23value of property that can be collected by filing an affidavit, to keep the amount 
+24economically relevant.
+252.  It amends the section regarding actions for wrongful death to correct a cross-
+26reference to the Maine laws of intestacy.
+273.  It includes an exception to the 3-year limitation period for filing claims against a 
+28decedent's estate to allow proceedings to be commenced against the estate up to 6 years 
+29after a personal injury cause of action accrues if the claimant does not have actual notice 
+30of the decedent's death.  If the proceedings are commenced more than 3 years after the 
+31decedent's death, any recovery is limited to applicable insurance.  This exception was 
+32included in the Maine Revised Statutes, former Title 18-A, section 3-108, subsection (a), 
+33paragraph (4) and was inadvertently omitted in the enactment of Title 18-C.
+344. It revises the short title of the first 5 Parts of Article 5 to "the Maine Uniform 
+35Guardianship, Conservatorship and Protective Proceedings Act."
+365.  It revises the provision on transferring money or personal property to minors in 2 
+37ways.  It replaces the $10,000 cap with a reference to the annual gift tax exclusion in 26 
+38United States Code, Section 2503, and it authorizes transfers to qualified tuition programs 
+39in the State under Section 529 and qualified ABLE programs in the State under Section 
+40529A of the federal Internal Revenue Code of 1986.
+Page 37 - 129LR0219(01)-116.  In the general provisions applicable to guardianships and conservatorships, it 
+2requires that proof of notice must be filed before a hearing.
+37.  It allows a respondent, an individual subject to guardianship, conservatorship or 
+4other protective arrangement or an appointed guardian or conservator to waive notice if 
+5represented by an attorney.
+68.  It allows the guardian, the conservator and the individual subject to guardianship, 
+7conservatorship or other protective arrangement to object to any person's request for 
+8notice.
+99.  It provides that an attorney or other person providing beneficial services to the 
+10respondent or individual subject to guardianship, conservatorship or other protective 
+11arrangement is entitled to reasonable compensation, unless the court has made a finding 
+12that the respondent is indigent.
+1310.  It authorizes the court to review the reasonableness of compensation and the 
+14appropriateness of services provided by an attorney for the respondent or an individual 
+15subject to guardianship, conservatorship or other protective arrangement.  It also 
+16authorizes the court to assess attorney's fees or other costs incurred by the respondent 
+17against the petitioner if the petition is dismissed and was filed in bad faith.
+1811.  It provides that a guardian or conservator can petition the court to require a 3rd 
+19party to recognize the authority of the guardian or conservator, as well as accept a 
+20decision of the guardian or conservator.  If the court finds that the refusal of a 3rd party 
+21was made in bad faith and without justification, the court may charge the 3rd party for 
+22attorney's fees and costs.  Notice of the petition for an order to recognize the authority or 
+23accept the decision of the guardian or conservator must be provided to the adult subject to 
+24guardianship or conservatorship and everyone else entitled to notice.
+2512.  It addresses an inconsistency and a potential constitutional infirmity in the minor 
+26guardianship termination provision in Title 18-C, section 5-210, subsection 7 identified 
+27by the Family Law Advisory Commission.  Subsection 7 establishes the standards and 
+28burdens of proof applicable to a parent's petition to terminate a minor guardianship when 
+29the termination is opposed by the guardian.  This bill provides that the guardian has the 
+30burden of proving by clear and convincing evidence that the parent seeking to terminate 
+31the guardianship is currently unfit to regain custody of the minor.
+3213.  It requires the court, in determining whether to appoint a guardian, to find that 
+33any appropriate supportive services, technological assistance or supportive decision 
+34making provides adequate protection for the particular respondent.  It adds that a less 
+35restrictive alternative to guardianship must provide adequate protection for the 
+36respondent.
+3714.  It  gives the court discretion as to whether to require the visitor to carry out 
+38additional duties that are mandatory under the uniform act:  interviewing the petitioner 
+39and proposed guardian, visiting the respondent's present and proposed future dwelling, 
+40obtaining information from health care providers and investigating allegations in the 
+41petition.  The visitor must report on the respondent's medical conditions, cognitive 
+Page 38 - 129LR0219(01)-11functioning, everyday functioning, preferences and values.  The report must also include 
+2a statement as to whether the respondent wishes to attend the hearing.
+315.  It provides that if the respondent exercises the right to decline to participate in a 
+4professional evaluation or refuses to provide medical reports, the court may enter an order 
+5of guardianship or other protective arrangement if the court otherwise finds that there is a 
+6basis for the order.
+716.  Throughout Article 5, Parts 3, 4 and 5, it provides that participation in a hearing 
+8by telephone, rather than real-time audiovisual technology, is permitted only if real-time 
+9audiovisual technology is not available.
+1017.  In the provisions governing confidentiality of records regarding adult 
+11guardianship, conservatorship and other protective arrangements, it establishes an 
+12effective date of January 1, 2021 to provide sufficient time for the Supreme Judicial 
+13Court to adopt rules governing the confidentiality of all court records.
+1418.  It adds as potential guardians, in higher priority than another family member or 
+15other individual who has exhibited special care or concern for the respondent, the 
+16following categories of people, in order of priority:  an adult child of the respondent; a 
+17parent of the respondent, including a person nominated by will or other writing signed by 
+18a deceased parent; and a relative of the respondent with whom the respondent resided for 
+19more than 6 months within the 12 months prior to the filing of the petition.  It also 
+20provides factors for the court to consider in determining the best interest of the 
+21respondent when appointing a guardian who is of lower priority or no priority, including 
+22the likelihood that the potential guardian will be able to satisfy the duties of a guardian 
+23successfully.
+2419.  It provides that the right to vote and the right marry are automatically preserved 
+25when a guardian is appointed, unless the court orders otherwise.
+2620.  It deletes the requirement that the guardian give notice when the guardian is 
+27unavailable to visit the person subject to guardianship for more than 2 months.
+2821.  It revises the authority of a guardian to administer the assets of the individual 
+29subject to guardianship from $5,000 to $10,000, which is consistent with the MaineCare 
+30limit for countable assets.
+3122.  It authorizes a guardian to receive personal effects.  It specifically provides that 
+32the guardian may not use funds from the estate of the adult subject to guardianship for 
+33room and board that the guardian or the guardian's spouse, parent or child has furnished 
+34to the adult unless a charge for the services is approved by order of the court.  It expands 
+35the authority of a guardian to establish or move the permanent dwelling of the adult to 
+36permit such a move if it is generally set forth in the guardian's plan.  It also gives a 
+37guardian the authority to establish or move the permanent place of dwelling without the 
+38otherwise required advance notice if the guardian has a compelling reason and subsequent 
+39prompt notice is provided to the adult and persons entitled to notice.  The authority of a 
+40guardian to sell or surrender the lease to the primary dwelling is expanded to permit such 
+41action if it is generally set forth in the guardian's plan or if notice of the proposed action is 
+Page 39 - 129LR0219(01)-11given as required and no objection is filed within 14 days of the notice.  It creates an 
+2exception, for guardianships established prior to the July 1, 2019 effective date of Title 
+318-C, to the imposition of certain duties and restrictions of powers until an express order 
+4of the court so directs the guardian.
+523.  It authorizes a guardian to restrict the access of any person upon good cause but 
+6the guardian must provide immediate oral and written notice to the adult subject to 
+7guardianship and notice to all others entitled to notice within 7 days of the imposition of 
+8the restriction.  It creates an exception, for guardianships established prior to the July 1, 
+92019 effective date of Title 18-C, to the imposition of certain duties of notice and 
+10restrictions of powers until an express order of the court so directs the guardian.
+1124.  It adds a requirement that the guardian's plan identify the adult's medical 
+12conditions, cognitive functioning, everyday functioning and levels of supervision needed 
+13for the adult subject to guardianship.  With regard to revised plans, it creates a right to 
+14object for all appropriate parties within 14 days of receipt of notice of the revised plan.  
+15Although the court may elect to schedule a hearing on a revised plan, a revised plan may 
+16be implemented without hearing 30 days after filing unless the court orders otherwise.  It 
+17creates an exception, for guardianships established prior to the July 1, 2019 effective date 
+18of Title 18-C, to the requirement to file a revised plan until an express order of the court 
+19so directs the guardian.
+2025.  It gives statutory recognition of the guardian's authority to hire an agent to visit 
+21on behalf of the guardian.   It adds a requirement that the guardian's report include a 
+22statement of fees paid to the guardian during the report year and fees still outstanding for 
+23the report year.  Unless there is an existing order to file annual reports, it creates an 
+24exception, for guardianships established prior to the July 1, 2019 effective date of Title 
+2518-C, to the requirement to file an annual report until an express order of the court so 
+26directs the guardian.
+2726.  It requires the court to find that any appropriate supportive services, 
+28technological assistance or supported decision making provides adequate protection for 
+29the particular respondent and that a less restrictive alternative to conservatorship provides 
+30adequate protection for the respondent.
+3127.  It revises the petition for appointment of a conservator to require a brief 
+32description of the respondent's needs based on medical condition, cognitive functioning, 
+33everyday financial functioning and needed levels of supervision.
+3428.  It repeals Title 18-C, section 5-404, which was carried over from the former Title 
+3518-A, section 5-404, and enacts Title 18-C, section 5-404-A.  Section 5-404-A is derived 
+36from section 404 of the Uniform Guardianship, Conservatorship and Other Protective 
+37Arrangements Act and concerns an order to preserve property while a petition for 
+38appointment of a conservator is pending.
+3929.  It revises the duties of a visitor appointed when a petition is filed for the 
+40appointment of a conservator to give the court discretion to tailor the duties in each case.  
+41It also provides for the visitor to report on whether or not the respondent wishes to attend 
+42the hearing after the respondent has been fully informed by the visitor.
+Page 40 - 129LR0219(01)-1130.  It provides that if the respondent exercises the right to decline to participate in a 
+2professional evaluation or refuses to provide medical reports, the court may enter an order 
+3of conservatorship or other protective arrangement if the court otherwise finds that there 
+4is a basis for the order.
+531.  It revises the priority of who may be appointed as a conservator to include an 
+6adult child of the respondent, then a parent of the respondent or a person nominated in the 
+7will of a deceased parent before a family member or other individual who has exhibited 
+8special care and concern for the respondent.  It also provides factors for the court to 
+9consider in determining the best interest of the respondent when appointing a conservator 
+10who is of lower priority or no priority, including the likelihood that the potential 
+11conservator will be able to satisfy the duties of a conservator successfully.
+1232.  It creates an exception, for conservatorships established prior to the July 1, 2019 
+13effective date of Title 18-C, to the imposition of certain notice and court authorization 
+14requirements until an express order of the court so directs the conservator.
+1533.  It requires a bond only for estates of $50,000 or more, although the court may 
+16require a bond for an estate of less than $50,000.  It also preserves the discretionary 
+17waiver of the bond requirement for a spouse in the former Title 18-A, section 5-411.
+1834.  It requires that notice of any conservator's revised plan must include a statement 
+19of the right of any party to object within 14 days of the receipt of notice.  It gives the 
+20court discretion to approve a revised plan with or without a hearing 30 days after filing 
+21and authorizes a conservator to implement the revised plan 30 days after filing unless the 
+22court orders otherwise.  It also creates an exception, for conservatorships established prior 
+23to the July 1, 2019 effective date of Title 18-C, to the requirement to file a revised plan 
+24until an express order of the court so directs the conservator.
+2535.  It changes the inventory provisions for conservatorship estates to a 90-day filing 
+26requirement, replacing the 60-day filing requirement in the Code as enacted.
+2736.  It creates an exception for conservatorships established prior to January 1, 2008 
+28to the requirement to file an annual report and accounting until an express order of the 
+29court so directs.  The January 1, 2008 date is consistent with the provisions of former 
+30Title 18-A, section 5-419, which required a private conservator appointed after January 1, 
+312008 to file an annual account with the court.
+3237.  It provides that when a conservatorship terminates, property of the estate passes 
+33to the individual formerly subject to conservatorship or other persons entitled to the 
+34property.
+3538.  It clarifies that when ordering other protective arrangements for a respondent, the 
+36court must find that the respondent needs more assistance than available through 
+37appropriate supportive services, technological assistance or supported decision making 
+38that provides adequate protection for the respondent and that the respondent's needs 
+39cannot be met by less restrictive alternatives.
+Page 41 - 129LR0219(01)-1139.  It provides that the court, instead of appointing a conservator, may authorize the 
+2creation, modification, amendment or revocation of a will or codicil.  It also revises the 
+3court's authority to restrict access to the respondent or the respondent's property by a 
+4person by providing that the court must find by clear and convincing evidence that the 
+5person poses a significant risk of harm to the respondent or the respondent's property.
+640.  It revises the required duties of a visitor to give the court discretion as to whether 
+7to require the visitor to carry out additional duties that are mandatory under the uniform 
+8act.  The visitor must report on the respondent's medical conditions, cognitive 
+9functioning, everyday functioning, preferences and values, risks and levels of supervision 
+10needed and any means to enhance the respondent's capacity.  The report must also include 
+11a statement as to whether the respondent wishes to attend a hearing.
+1241.  It provides that if the respondent exercises the right to decline to participate in a 
+13professional evaluation or refuses to provide medical reports, the court may enter an order 
+14for a protective arrangement if the court otherwise finds that there is a basis for the order.
+1542.  It directs the Family Law Advisory Commission to study and provide 
+16recommendations on the following matters related to the Maine Uniform Probate Code:  
+17petitions for termination of parental rights in the context of adoption; competing adoption 
+18petitions; and rights of contact between a minor and the former guardian when the 
+19guardianship is terminated.  The Family Law Advisory Commission is required to submit 
+20a report, including specific recommendations for amendments to the Maine Uniform 
+21Probate Code and other family law statutes, to the Joint Standing Committee on Judiciary 
+22by December 1, 2019.
+2343.  It enacts as new Article 10 the Maine Revised Uniform Fiduciary Access to 
+24Digital Assets Act, originally enacted by Public Law 2017, chapter 359, which was 
+25enacted as Article 10 of former Title 18-A.

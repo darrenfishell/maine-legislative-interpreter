@@ -1,0 +1,207 @@
+   
+ 
+ 
+April 17, 2023  
+ 
+Senator Curry, Representative Roberts and members of the Maine Joint Standing Committee on Innovation, 
+Development, Economic Advancement and Business:  
+ 
+Thank you for the opportunity to present our views on this matter.  I am here today as Executive Director of 
+the Diesel Technology  Forum .  In our 23rd year, we are a national, not -for profit educational organization 
+based in the Maryland suburbs of Washington , DC. We represent manufacturers of diesel engines and 
+equipment, components, petroleum, and renewable biofuel producers. Through original research, 
+education,  and fact -based outreach, we seek to expand the broader understanding about the benefits and 
+advancements in diesel engines, technologies,  and fuels as well as  their significance to our economy and 
+how they help achieve clean air and climate goals.   You can learn more about us on our website 
+www.dieselforum.org  . 
+Regarding LD 1487 , the Right to Repair Electronic  Equipment  Act, I would like to express our opposition to 
+the bill as presently drafted.   We respectfully request tha t LD 1487 not move forward in its current form 
+due to significant concerns related to illegal tampering. If the bill is going to advance, we would ask that the 
+amendment language enacted in New York be incorporated into LD 1487.  Otherwise, a s currently written, 
+this legislation opens  the to the door and hands over the keys to anyone seeking to  illegally tamper  with 
+emissions controls – a clear violation of the Federal Clean Air Act.  In short, the unfettered access granted by 
+LD 1487 will  take Maine  the wrong way  on clean air and the wrong way  on safety.   
+ 
+I. Introduction 
+Diesel engines power nearly all farm tractors and machines thanks to their  unique combination of efficiency, 
+power, durability, and reliability.  Over the last two decades, manufacturers of diesel engines and equipment 
+have invested billions of dollars to reduce emissions to near zero levels and meet federal clean air 
+requirements, as you can see in the attached chart. A cross the country, a ll of us – including the residents of 
+Maine  –  benefit from these advanced  technological  innovations in  the form of cle aner air.   
+In its most recent 2022 “State of the Air” report, the American Lung Association found that while Maine air 
+remains some of the cleanest in the county, its counties and metro areas saw mixed progress for some of 
+the most harmful and widespread types of air pollution: particle pollution and ozone. Cumberland, Hancock, Knox and Washington counties all saw improved grades for ozone, while Aroonstook saw a lower grade for short term particle pollution, and the Portland -Lewiston metro area experienced slightly more long -term 
+particle pollution than found in last year’s report.  
+ 
+As we will demonstrate later in this statement, b ased on enforcement actions taken by the US 
+Environmental Protection Agency (US EPA) and other information, tampering with emis sions controls is a nd 
+the subsequent air quality impacts are a lready a major concern.  So -called “Right to Repair” legislation  
+essentially further enables  and facilitates this practice by opening the door to  access engine computers and 
+software that ensure  control of emissions that prevent harm to both people and the environment.   Even if a 
+repair were to be performed in good faith  and not with the intent to override the emissions  controls system , 
+the consequences are the same.   
+ 
+You may already be wondering, “ Why would someone knowingly modify or tamper  with emissions 
+
+     Opposition to LD 1487   Before the Maine Innovation,  Development, Economic Advancement 
+and Business Committee                                                 April  18 2023         page 2 
+ 
+controls? ”  In short, the  act of tampering is linked most often to the desire to save time, money or improve 
+performance. For examp le: 
+• Improving performance might  mean accessing the engine computer to adjust or disable engine 
+speed limiters to enable tractors to travel at faster ground speeds, perhaps beyond the safe design 
+of steering and braking systems.   
+• Getting more power  through  tweaking the system to get higher fuel injection rates or pressures or 
+adjustments in engine timing.   
+• The motivation to save money can result in anything from the physical removal of particulate filters 
+or catalysts to overriding emissions computer contr ol systems , thereby  avoiding the need to fill up 
+with diesel exhaust fluid – a critical component for assuring emissions compliance.   
+On the contrary, even those seeking to legitimately repair a machine or equipment could inadvertently alter 
+engine and e missions control systems. The results are all the same   emissions control systems that ensure 
+clean air compliance are v iolated and harmful pollutants increase , as they are not being properly regulated 
+by the sophisticated technology in place for that sole  purpose.  Additionally, this poses safety concerns, as 
+changes to this same technology could allow the machine or equipment to operate at performance level for which it was not designed or certified.  
+ Right to Repair legislation if enacted would likely contribute to the degradation of air quality in Maine  
+through higher emissions of particulate matter and nitrogen oxide emissions, a precursor to ozone formation. As evidenced from the USEPA report noted below, tampering with emissions controls is directly linked to higher emissions.  Engine computers control, measure and monitor on a real time basis tractor and 
+machine fueling rates, air flows, exhaust pressures and temperatures, diesel exhaust fluid levels and many other parameters that affect emissions and overall machine performance.   
+ II. The Incidence of Tampering with Emissions Controls in Maine Is Well Documented.   
+ The US EPA Air Enforcement Division (“USEPA AED”) released a substantial report
+ in November 2020 
+regarding the incidence of tampering with diesel engines and emissions co ntrols.  Tampering can include 
+removal of devices such as particulate filters or catalytic converters, bypassing of such devices, rendering devices and their control systems inoperable through various means.  
+ EPA enforcement actions, identified that a subs tantial portion of the subject vehicles had software 
+modifications to their engine emissions control units.  Excerpts of Table 5 from the aforementioned report are included below. They show that in Maine , EPA Enforcement office estimates that through 2019,  there 
+
+     Opposition to LD 1487   Before the Maine Innovation,  Development, Economic Advancement 
+and Business Committee                                                 April  18 2023         page 3 
+ 
+were nearly 2800  vehicles (pick -up trucks) that had been tampered with, representing a lmost 21 percent of 
+the entire heavy -duty diesel pick -up fleet in the state --  where a defeat device or other measure deleted 
+some emissions controls.    
+Nationwid e, US EPA automotive enforcement division  estimates that the emissions controls  were removed 
+from more than 550,000 diesel pickup trucks nationwide in the last decade  (2010- 2020).  As a result of this 
+tampering, more than 570,000 tons of excess oxides of n itrogen (NOx) and 5,000 tons of particulate matter 
+(PM) will be emitted by these tampered trucks over the vehicles’ lifetime s.  From EPA’s report comes the 
+following:  
+“The EPA has found  numerous companies and individuals that have manufactured and sold both 
+hardware and software specifically designed to defeat required emissions controls on vehicles and 
+engines used on public roads as well as on nonroad vehicles and engines. Illegally- modified vehicles and 
+engines contribute substantial excess pollution that harms public health and impedes efforts by the EPA, tribes, states, and local agencies to plan for and attain air quality standards. ” 
+ 
+While the USEPA AED report did not directly quantify the extent of tampering in off road engines and 
+equipment, it notes that  “ …AED has reason to believe this conduct occurs within most or all categories 
+of vehicles and engines , including commercial trucks, passenger vehicles , pickup trucks, motorcyc les , 
+forestry equipment, and agricultural equipment. ” 
+ 
+III. Original Equipment Manufacturers (“OEMs”) Are Subject To A Wide Range Of Federal Requirements In 
+The Clean Air Act (CAA) That Govern The Building And Warranting Their Products For Emissions 
+Perfo rmance    
+Section 202(m) of the Clean Air Act (42 U.S.C. §7521) provides authority for EPA to adopt regulations requiring on -board diagnostics and provision of related service and repair information. EPA adopted such 
+rules in 1993 and 1994 for light -duty passenger c ars and trucks, and 2009 for heavy -duty on -highway 
+vehicles and engines.   
+ 
+While Section 202(m) specifically references on -highway applications such as light duty (motor) vehicles, 
+light duty trucks, and heavy duty (motor) vehicles and engines, it presuma bly does not limit EPA’s authority 
+to adopt similar regulations for off- road applications. Thus far, EPA has not taken action to adopt similar on -
+board diagnostics and service information rules for off -road vehicles and engines. Therefore, any reference 
+to statutory requirements that an off-road equipment manufacturer provide customers the same level of 
+diagnostic access as they provide to authorized dealers, does not apply to off- road OEMs.  
+ 
+The open access and the information that LD 1487  would require ma y conflict with federal manufacturer 
+obligations to help ensure that equipment and engine emissions systems remain compliant to Tier 4 standards during their entire useful life. See 40 CFR 1039.240, 1039.245; see also 1039.101(g) (useful life 
+requirements) ; 42 USC § 7525(a)(1) reference to testing to determine conformance to regulations 
+prescribed under § 7521; § 7521(a)(1) requires regulations to prescribe a “useful life” over which 
+vehicles/engines shall comply with emission standards.  
+• Durability Regulati ons/Testing:   40 CFR 1039.240, 1039.245; see also 1039.101(g) (useful life 
+requirements);  see 42 USC § 7525(a)(1) reference to testing to determine conformance to regulations 
+prescribed under § 7521;  § 7521(a)(1) requires regulations to prescribe a “useful life” over which 
+     Opposition to LD 1487   Before the Maine Innovation,  Development, Economic Advancement 
+and Business Committee                                                 April  18 2023         page 4 
+ 
+vehicles/engines shall comply with emission standards.  
+ 
+• Degradation Factor/In- Use Testing:  40 CFR 1039.240, 1039.245, 1039.401; 42 USC § 7541(c)(6)  
+• Tamper Resistant Emissions Systems  
+o 40 CFR Part 1039 -- Control of Emissions from New and In -Use Nonroad Compression -Ignition 
+Engines for Part 1039 regs. 
+o 42 U.S.C. 7522 (a)(3)  
+o 42 U.S.C. 7522 (a)(4)  
+o 42 U.S.C. § 7413(c)(2)(C). It is a crime to knowingly falsify, tamper with, render inaccurate , or fail 
+to install any “monitoring device or method” required under the CAA. Per EPA, “Vehicle 
+Onboard Diagnostics (OBD) are a ’monitoring device or method ‘ required by the CAA.”  
+In summary, manufacturers have Clean Air Act obligations to help ensure the  integrity of Tier 4 emissions 
+systems. The U.S. Clean Air Act, and regulations promulgated thereunder, requires equipment manufacturers to build -in base level tampering safeguards. Restricting access to the software that defines a 
+machine’s emissions perf ormance is part of these base -level tampering safeguards.  
+If LD 1487  is passed, manufacturers could be held liable for providing a “defeat device” to the market in the 
+form of a service tool that allows end -users to circumvent certain engine/machine perfor mance inhibitors 
+related to emission controls.  This is especially true for selective catalytic reduction (“SCR”) - equipped 
+engines that rely on routine end -user action (e.g., filling the diesel exhaust fluid (“DEF”) tank) to ensure 
+proper operation of the  SCR system.  If the end -user doesn’t take that action, the regulations require engine 
+manufacturers to inhibit operation of the engine.  The bottom line is that if manufacturers provide customers the tool for overriding those inhibitors in the way that H.B. 81 would require, that could be considered by the U.S. EPA as circumventing the regulatory requirements.   
+It is important to note that u nder these regulations, OEMs could be held liable for providing a “defeat 
+device” to the market in the form of a ser vice tool that allows end -users to circumvent certain 
+engine/machine performance inhibitors related to emission controls.   If OEMs provide customers with the 
+tool for overriding those inhibitors, that’s considered circumventing the regulatory requirements.   This may 
+not be an obvious take -away after reading the referenced regulations  and statutes.   The California Air 
+Resources Board (CARB) and  the US Environmental Protection Agency  (US EPA), however, have gone 
+through a lengthy process of interpreting those  references and providing guidance to the industry that 
+delivers this outcome.  
+IV. Diesel Powered Farm Equipment Utilizes Advanced Emissions Control Systems  
+Achieving near-zero emissions from diesel engines is  accomplished by a highly integrated system of 
+computers and controllers that control the combustion process and treat the exhaust emissions on a real -
+time basis. This involves  using sophisticated systems like selective catalytic reduction (SCR) and diesel 
+particulate filters .    
+Since 2014, many farm tractors and machines utilize advanced SCR system s.  These are ac tive emissions 
+scrubbers  on the machine  – one where in a specialized catalyst, exhaust gases are treated by carefully 
+calibrated sprays of Diesel Exhaust Fluid (“DEF”; aqueous urea) resulting in a chemical reaction that virtually eliminates nitrogen oxide emissions.  Because it is an active system, DEF fluid must be refilled periodically based on fuel consumption , and that costs money .  Today’s DEF costs about $30 -$40 doll ars for a 2.5-gallon  
+jug.  Row crop t ractors can typically hold 4 -6 gallons.  
+     Opposition to LD 1487   Before the Maine Innovation,  Development, Economic Advancement 
+and Business Committee                                                 April  18 2023         page 5 
+ 
+Unfortunately , some creative individuals and repair shops have illegally accessed  the engine computer and 
+software and reprogramming to “trick” the engine into thinking that the SCR systems are dosing and 
+operating properly, and diesel exhaust fluid levels are full, when in fact they are not operating at all or at 
+very diminished levels, which is advertised as saving the operator the cost of refilling DEF fluid and avoiding expensive maintenance on particulate filters. SCR-equipped engines that rely on routine end -user action 
+(e.g., filling the DEF tank) to ensure proper operation of th e SCR system.   If the end -user doesn’t take that 
+action, the regulations require engine manufacturers to inhibit operation of the engine, going into a limp mode and then shutting it down until repaired.    
+Sometimes called chipping, tuning, or ECU remapping, this service is offered to farmers by a variety of 
+individuals and companies.  Right to Repair legislation  will further facilitate this practice by providing open 
+access to engine emissions control software, which is why we are opposed. Making changes to engine 
+control units (ECU’s)  – computers and their controllers – to enhance the performance  or evade emission 
+controls has become a significant issue across North America. Being sold as “boosting performance ” for 
+pennies on the dollar compared to the cost of buying higher -capacity equipment and saving money through 
+bypassing maintenance on emissions control systems; this practice must look like an attractive proposition, but it’s not. It may void the equipment’s warranty insurance agreemen ts and is illegal in the U.S.  
+What HD 1487  legislation would do, if enacted, would be to enable the defeat of these systems, denigrate 
+emissions performance and make agricultural, forestry and other  equipment dirtier not cleaner, and 
+increase emissions, no t reduce them.   Ultimately, a yes vote on LD 1487  is a vote against  the health and 
+safety of your constituents and the environment  itself.  
+v. Summary  
+ Modern diesel engines in farm and agricultural equipment are more efficient, powerful,  and productive than 
+ever before, while also  meet ing the most stringent clean air emissions requirements  that virtually eliminate 
+emissions of nitrogen oxides and particulate matter.   Unfortunately, as EPA’s own enforcement actions 
+document, the incidence  of tampering with these emissions controls is significant and the consequences for 
+the environment are not good.   
+ At the Diesel Technology Forum, we are working to do our part to encourage better stewardship of diesel technology by users, such as through the support of state legislation to tighten fines and penalties against the practice of “rolling coal” by pickup trucks.  And just a few weeks ago, we launched a national campaign 
+to discourage tampering and promote clean operation of diesel engines and equipment of all kinds.  
+ So called “Right to  Repair ” legislation like this takes us the wrong way on environmental progress by 
+facilitating access to software that directly controls engines and emissions control  systems , effectively saying 
+it is okay for a nyone to mess around with the computer controls and software on a tractor even if it might 
+result in unintended consequences of higher emissions or unsafe operation .  That is not what we want.  
+For all these reasons and others, we respectfully request that L D 1487  not move forward in its current form 
+due to significant  concerns related to illegal tampering. If the bill is going to advance, we would ask that the 
+amendment language enacted in New York be incorporated into LD 1487 .  Otherwise in its present form it 
+takes Maine  the wrong way  on clean air  and the wrong way on safety.  
+Thank you for considering these comments .  We welcome the opportunity to answer questions and work 
+further with the Committee.   
+Allen Schaeffer  
+     Opposition to LD 1487   Before the Maine Innovation,  Development, Economic Advancement 
+and Business Committee                                                 April  18 2023         page 6 
+ 
+Executive Director  
+Diesel Technology Forum 
+5300 Westview Drive #308  
+Frederick , MD 21703     (301) 668-7230 
+aschaeffer@dieselforum.org  
+www.dieselforum.org  
+ 
+

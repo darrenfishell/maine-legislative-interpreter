@@ -1,0 +1,457 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 846
+H.P. 595 House of  Representatives, March 7, 2017
+An Act  To Enact the Revised Uniform  Fiduciary Access to Digital 
+Assets Act
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative CARDONE of Bangor.
+Cosponsored by Senator HILL of York.
+
+ 
+ Page 1 - 128LR1807(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+PART A  2 
+Sec. A -1.  18-A MRSA Art. 10 is enacted to read:  3 
+ARTICLE 10  4 
+MAINE REVISED UNIFOR M FIDUCIARY ACCESS T O DIGITAL 5 
+ASSETS ACT  6 
+§10-101.  Short title  7 
+This Article may be known and cited as "the Maine Revised Uniform Fiduciary 8 
+Access to Digital Assets Act."  9 
+§10-102.  Definitions  10 
+As used in this Act, unless the context otherwise indicates, the following terms have 11 
+the following meanings.  12 
+1.  Account.  "Account" means an arrangement under a terms of  service agreement in 13 
+which a custodian carries, maintains, processes, receives or stores a digital asset of a user 14 
+or provides goods or services to a user.  15 
+2.  Agent.  "Agent" means an attorney in fact granted authority under a durable or 16 
+nondurable power  of attorney.  17 
+3.  Carries.  "Carries" means engages in the transmission of an electronic 18 
+communication.  19 
+4.  Catalog of electronic communications.  "Catalog of electronic communications" 20 
+means information that identifies each person with which a user has ha d an electronic 21 
+communication, the time and date of the communication and the electronic address of the 22 
+person.  23 
+5.  Conservator.  "Conservator" means a person appointed by a court to manage the 24 
+estate of a living individual.  "Conservator" includes a limit ed conservator.  25 
+6.  Content of an electronic communication.  "Content of an electronic 26 
+communication" means information concerning the substance or meaning of an electronic 27 
+communication that:  28 
+A.  Has been sent or received by a user;  29 
+B.  Is in electronic s torage by a custodian providing an electronic communication 30 
+service to the public or is carried or maintained by a custodian providing a remote 31 
+computing service to the public; and  32 
+C.  Is not readily accessible to the public.  33 
+ 
+ Page 2 - 128LR1807(01) -1 
+ 7.  Custodian.  "Custodian" me ans a person that carries, maintains, processes, 1 
+receives or stores a digital asset of a user.  2 
+8.  Designated recipient.  "Designated recipient" means a person chosen by a user 3 
+using an online tool to administer digital assets of the user.  4 
+9.  Digital asse t.  "Digital asset" means an electronic record in which an individual 5 
+has a right or interest.  "Digital asset" does not include an underlying asset or liability 6 
+unless the asset or liability is itself an electronic record.  7 
+10.  Electronic.  "Electronic" m eans relating to technology having electrical, digital, 8 
+magnetic, wireless, optical, electromagnetic or similar capabilities.  9 
+11.  Electronic communication.  "Electronic communication" has the same meaning 10 
+as in 18 United States Code, Section 2510(12).  11 
+12.  Electronic communication service.  "Electronic communication service" means 12 
+a service that provides to a user the ability to send or receive an electronic 13 
+communication.  14 
+13.  Fiduciary.  "Fiduciary" means an original, additional or successor personal 15 
+representative, conservator, agent or trustee.  16 
+14.  Information.  "Information" means data, text, images, videos, sounds, codes, 17 
+computer programs, software and databases or the like.  18 
+15.  Online tool.  "Online tool" means an electronic service provided by a custodian 19 
+that allows a user, in an agreement distinct from the terms of service agreement between 20 
+the custodian and user, to provide directions for disclosure or nondisclosure of digital 21 
+assets to a 3rd person.  22 
+16.  Person.  "Person" means an individual, estate, business or nonprofit entity, 23 
+public corporation, government or governmental subdivision, agency or instrumentality 24 
+or other legal entity.  25 
+17.  Personal representative.  "Personal representative" means an executor, 26 
+administrator, special administra tor or person that performs substantially the same 27 
+function under the laws of this State other than this Act.  28 
+18.  Power of attorney.  "Power of attorney" means a record that grants an agent 29 
+authority to act in the place of a principal.  30 
+19.  Principal.  "Principal" means an individual who grants authority to an agent in a 31 
+power of attorney.  32 
+20.  Protected person.  "Protected person" means an individual for whom a 33 
+conservator has been appointed.  "Protected person" includes an individual for whom an 34 
+applicat ion for the appointment of a conservator is pending.  35 
+21.  Record.  "Record" means information that is inscribed on a tangible medium or 36 
+that is stored in an electronic or other medium and is retrievable in perceivable form.  37 
+ 
+ Page 3 - 128LR1807(01) -1 
+ 22.  Remote computing service.  "Remote computing service" means a service that 1 
+provides to a user computer processing services or the storage of digital assets by means 2 
+of an electronic communications system as defined in 18 United States Code, Section 3 
+2510(14).  4 
+23.  Terms of service ag reement.  "Terms of service agreement" means an 5 
+agreement, as defined in Title 11, section 1 -1201, subsection (3), that controls the 6 
+relationship between a user and a custodian.  7 
+24.  Trustee.  "Trustee" means a fiduciary with legal title to property pursua nt to an 8 
+agreement or declaration that creates a beneficial interest in another person.  "Trustee" 9 
+includes a successor trustee.  10 
+25.  User.  "User" means a person that has an account with a custodian.  11 
+26.  Will.  "Will" includes a codicil, a testamentary i nstrument that only appoints an 12 
+executor and an instrument that revokes or revises a testamentary instrument.  13 
+§10-103.  Applicability  14 
+1.  Applicable date.  This Act applies to:  15 
+A.  A fiduciary or agent acting under a will or power of attorney executed befo re, on 16 
+or after January 1, 2018;  17 
+B.  A personal representative acting for a decedent who died before, on or after 18 
+January 1, 2018;  19 
+C.  A conservatorship proceeding commenced before, on or after January 1, 2018; 20 
+and 21 
+D.  A trustee acting under a trust create d before, on or after January 1, 2018.  22 
+2.  User resident of this State.  This Act applies to a custodian if the user resides in 23 
+this State or resided in this State at the time of the user's death.  24 
+3.  Digital asset of employer.  This Act does not apply to a digital asset of an 25 
+employer used by an employee in the ordinary course of the employer's business.  26 
+§10-104.  User direction for disclosure of digital assets  27 
+1.  Use of online tool.  A user may use an online tool to direct the custodian to 28 
+disclose to a designated recipient or not to disclose some or all of the user's digital assets, 29 
+including the content of electronic communications.  If the online tool allows the user to 30 
+modify or delete a direction at all times, a direction regarding disclosure using a n online 31 
+tool overrides a contrary direction by the user in a will, trust, power of attorney or other 32 
+record.  33 
+2.  No online tool used.  If a user has not used an online tool to give direction under 34 
+subsection 1 or if the custodian has not provided an onlin e tool, the user may allow or 35 
+prohibit in a will, trust, power of attorney or other record disclosure to a fiduciary of 36 
+ 
+ Page 4 - 128LR1807(01) -1 
+ some or all of the user's digital assets, including the content of electronic 1 
+communications.  2 
+3.  User direction overrides.  A user's di rection under subsection 1 or 2 overrides a 3 
+contrary provision in a terms of service agreement that does not require the user to act 4 
+affirmatively and distinctly from the user's assent to the terms of service.  5 
+§10-105.  Terms of service agreement  6 
+1.  Right s of custodian or user not changed or impaired.  This Act does not 7 
+change or impair a right of a custodian or a user under a terms of service agreement to 8 
+access and use digital assets of the user.   9 
+2.  No new or expanded rights to fiduciary or designated  recipient.  This Act does 10 
+not give a fiduciary or designated recipient any new or expanded rights other than those 11 
+held by the user for whom, or for whose estate, the fiduciary or designated recipient acts 12 
+or represents.  13 
+3.  Fiduciary's or designated reci pient's access may be modified or eliminated.  A 14 
+fiduciary's or designated recipient's access to digital assets may be modified or eliminated 15 
+by a user, by federal law or by a terms of service agreement if the user has not provided 16 
+direction under section 10-104. 17 
+§10-106.  Procedure for disclosing digital assets  18 
+1.  Disclosure at discretion of custodian.  When disclosing digital assets of a user 19 
+under this Act, the custodian may at its sole discretion:  20 
+A.  Grant a fiduciary or designated recipient full acce ss to the user's account;  21 
+B.  Grant a fiduciary or designated recipient partial access to the user's account 22 
+sufficient to perform the tasks with which the fiduciary or designated recipient is 23 
+charged; or  24 
+C.  Provide a fiduciary or designated recipient a c opy in a record of any digital asset 25 
+that, on the date the custodian received the request for disclosure, the user could have 26 
+accessed if the user were alive and had full capacity and access to the account.  27 
+2.  Administrative charge.  A custodian may asses s a reasonable administrative 28 
+charge for the cost of disclosing digital assets under this Act.  29 
+3.  Deleted digital assets.  A custodian need not disclose under this Act a digital 30 
+asset deleted by a user.  31 
+4.  Undue burden on custodian; court order to disclo se.  If a user directs or a 32 
+fiduciary requests a custodian to disclose under this Act some, but not all, of the user's 33 
+digital assets, the custodian need not disclose the assets if segregation of the assets would 34 
+impose an undue burden on the custodian.  I f the custodian believes the direction or 35 
+request imposes an undue burden, the custodian or fiduciary may seek an order from the 36 
+court to disclose:  37 
+A.  A subset limited by date of the user's digital assets;  38 
+ 
+ Page 5 - 128LR1807(01) -1 
+ B.  All of the user's digital assets to the fiduc iary or designated recipient;  1 
+C.  None of the user's digital assets; or  2 
+D.  All of the user's digital assets to the court for review in camera.  3 
+§10-107.  Disclosure of content of electronic communications of deceased user  4 
+If a deceased user consented to or  a court directs disclosure of the content of 5 
+electronic communications of the user, the custodian shall disclose to the personal 6 
+representative of the estate of the user the content of an electronic communication if the 7 
+representative gives the custodian:  8 
+1.  Written request.  A written request for disclosure in physical or electronic form;  9 
+2.  Death certificate.  A copy of the death certificate of the user;  10 
+3.  Letters of appointment or court order.  A copy of the letters of appointment of 11 
+the personal re presentative or court order;  12 
+4.  Record of consent to disclosure.  Unless the user provided direction using an 13 
+online tool, a copy of the user's will, trust, power of attorney or other record evidencing 14 
+the user's consent to disclosure of the content of el ectronic communications; and  15 
+5.  Information requested by custodian.  If requested by the custodian:  16 
+A.  A number, username, address or other unique subscriber or account identifier 17 
+assigned by the custodian to identify the user's account;  18 
+B.  Evidence lin king the account to the user; or  19 
+C.  A finding by the court that:  20 
+(1)  The user had a specific account with the custodian, identifiable by the 21 
+information specified in paragraph A;  22 
+(2)  Disclosure of the content of electronic communications of the user wou ld not 23 
+violate 18 United States Code, Section 2701 et seq., 47 United States Code, 24 
+Section 222 or other applicable law;  25 
+(3)  Unless the user provided direction using an online tool, the user consented to 26 
+disclosure of the content of electronic communicatio ns; or  27 
+(4)  Disclosure of the content of electronic communications of the user is 28 
+reasonably necessary for administration of the estate.  29 
+§10-108.  Disclosure of other digital assets of deceased user  30 
+Unless the user prohibited disclosure of digital assets o r the court directs otherwise, a 31 
+custodian shall disclose to the personal representative of the estate of a deceased user a 32 
+catalog of electronic communications sent or received by the user and digital assets, other 33 
+than the content of electronic communica tions, of the user if the representative gives the 34 
+custodian:  35 
+1.  Written request.  A written request for disclosure in physical or electronic form;  36 
+ 
+ Page 6 - 128LR1807(01) -1 
+ 2.  Death certificate.  A copy of the death certificate of the user;  1 
+3.  Letters of appointment or court or der.  A copy of the letters of appointment of 2 
+the personal representative or court order; and  3 
+4.  Information requested by custodian.  If requested by the custodian:  4 
+A.  A number, username, address or other unique subscriber or account identifier 5 
+assigned by the custodian to identify the user's account;  6 
+B.  Evidence linking the account to the user;  7 
+C.  An affidavit stating that disclosure of the user's digital assets is reasonably 8 
+necessary for administration of the estate; or  9 
+D.  A finding by the court tha t: 10 
+(1)  The user had a specific account with the custodian, identifiable by the 11 
+information specified in paragraph A; or  12 
+(2)  Disclosure of the user's digital assets is reasonably necessary for 13 
+administration of the estate.  14 
+§10-109.  Disclosure of content of electronic communications of principal  15 
+To the extent a power of attorney expressly grants an agent authority over the content 16 
+of electronic communications sent or received by the principal and unless directed 17 
+otherwise by the principal or the court, a c ustodian shall disclose to the agent the content 18 
+of electronic communications if the agent gives the custodian:  19 
+1.  Written request.  A written request for disclosure in physical or electronic form;  20 
+2.  Power of attorney.  An original or copy of the power of attorney expressly 21 
+granting the agent authority over the content of electronic communications of the 22 
+principal;  23 
+3.  Agent's certificate.  A certification by the agent, under penalty of perjury, that the 24 
+power of attorney is in effect; and  25 
+4.  Informatio n requested by custodian.  If requested by the custodian:  26 
+A.  A number, username, address or other unique subscriber or account identifier 27 
+assigned by the custodian to identify the principal's account; or  28 
+B.  Evidence linking the account to the principal.  29 
+§10-110.  Disclosure of other digital assets of principal  30 
+Unless otherwise ordered by the court, directed by the principal or provided by a 31 
+power of attorney, a custodian shall disclose to an agent with specific authority over 32 
+digital assets or general aut hority to act on behalf of a principal a catalog of electronic 33 
+communications sent or received by the principal and digital assets, other than the content 34 
+of electronic communications, of the principal if the agent gives the custodian:  35 
+ 
+ Page 7 - 128LR1807(01) -1 
+ 1.  Written request.   A written request for disclosure in physical or electronic form;  1 
+2.  Power of attorney.  An original or a copy of the power of attorney that gives the 2 
+agent specific authority over digital assets or general authority to act on behalf of the 3 
+principal;  4 
+3.  Agent's certificate.  A certification by the agent, under penalty of perjury, that the 5 
+power of attorney is in effect; and  6 
+4.  Information requested by custodian.  If requested by the custodian:  7 
+A.  A number, username, address or other unique subscriber or account identifier 8 
+assigned by the custodian to identify the principal's account; or  9 
+B.  Evidence linking the account to the principal.  10 
+§10-111.  Disclosure of digital assets held in trust when trustee is original user  11 
+Unless otherwise ordered by the co urt or provided in a trust, a custodian shall 12 
+disclose to a trustee that is an original user of an account any digital asset of the account 13 
+held in trust, including a catalog of electronic communications of the trustee and the 14 
+content of those electronic c ommunications.  15 
+§10-112.  Disclosure of content of electronic communications held in trust when 16 
+trustee is not original user  17 
+Unless otherwise ordered by the court, directed by the user or provided in a trust, a 18 
+custodian shall disclose to a trustee that is not an original user of an account the content 19 
+of an electronic communication sent or received by an original or successor user and 20 
+carried, maintained, processed, received or stored by the custodian in the account of the 21 
+trust if the trustee gives the cus todian:  22 
+1.  Written request.  A written request for disclosure in physical or electronic form;  23 
+2.  Trust instrument or certification of trust.  A certified copy of the trust 24 
+instrument or a certification of the trust under Title 18 -B, section 1013 that inc ludes 25 
+consent to disclosure of the content of electronic communications to the trustee;  26 
+3.  Trustee's certification.  A certification by the trustee, under penalty of perjury, 27 
+that the trust exists and the trustee is a currently acting trustee of the trust ; and  28 
+4.  Information requested by custodian.  If requested by the custodian:  29 
+A.  A number, username, address or other unique subscriber or account identifier 30 
+assigned by the custodian to identify the trust's account; or  31 
+B.  Evidence linking the account to  the trust.  32 
+ 
+ Page 8 - 128LR1807(01) -1 
+ §10-113.  Disclosure of other digital assets held in trust when trustee is not original 1 
+user 2 
+Unless otherwise ordered by the court, directed by the user or provided in a trust, a 3 
+custodian shall disclose to a trustee that is not an original use r of an account a catalog of 4 
+electronic communications sent or received by an original or successor user and stored, 5 
+carried or maintained by the custodian in an account of the trust and any digital assets, 6 
+other than the content of electronic communicatio ns, in which the trust has a right or 7 
+interest if the trustee gives the custodian:  8 
+1.  Written request.  A written request for disclosure in physical or electronic form;  9 
+2.  Trust instrument or certification of trust.  A certified copy of the trust 10 
+instrum ent or a certification of the trust under Title 18 -B, section 1013;  11 
+3.  Trustee's certification.  A certification by the trustee, under penalty of perjury, 12 
+that the trust exists and the trustee is a currently acting trustee of the trust; and  13 
+4.  Informatio n requested by custodian.  If requested by the custodian:  14 
+A.  A number, username, address or other unique subscriber or account identifier 15 
+assigned by the custodian to identify the trust's account; or  16 
+B.  Evidence linking the account to the trust.  17 
+§10-114.  Disclosure of digital assets to conservator of protected person  18 
+1.  Court order granting access.  After an opportunity for a hearing under Article 5, 19 
+Part 4, the court may grant a conservator access to the digital assets of a protected person.  20 
+2.  Disclo sure by custodian.  Unless otherwise ordered by the court or directed by 21 
+the user, a custodian shall disclose to a conservator the catalog of electronic 22 
+communications sent or received by a protected person and any digital assets, other than 23 
+the content of  electronic communications, in which the protected person has a right or 24 
+interest if the conservator gives the custodian:  25 
+A.  A written request for disclosure in physical or electronic form;  26 
+B.  A certified copy of the court order that gives the conservato r authority over the 27 
+digital assets of the protected person; and  28 
+C.  If requested by the custodian:  29 
+(1)  A number, username, address or other unique subscriber or account identifier 30 
+assigned by the custodian to identify the account of the protected person;  or 31 
+(2)  Evidence linking the account to the protected person.  32 
+3.  Request to suspend or terminate account.  A conservator with general authority 33 
+to manage the assets of a protected person may request a custodian of the digital assets of 34 
+the protected pers on to suspend or terminate an account of the protected person for good 35 
+cause.  A request made under this subsection must be accompanied by a copy of the court 36 
+order giving the conservator authority over the protected person's property.  37 
+ 
+ Page 9 - 128LR1807(01) -1 
+ §10-115.  Fiduciary duty and authority  1 
+1.  Fiduciary's legal duties.  The legal duties imposed on a fiduciary charged with 2 
+managing tangible property apply to the management of digital assets, including:  3 
+A.  The duty of care;  4 
+B.  The duty of loyalty; and  5 
+C.  The duty of confi dentiality.  6 
+2.  Limitations on fiduciary's or designated recipient's authority.  A fiduciary's or 7 
+designated recipient's authority with respect to a digital asset of a user:  8 
+A.  Except as otherwise provided in section 10 -104, is subject to the applicable t erms 9 
+of service agreement;  10 
+B.  Is subject to other applicable law, including copyright law;  11 
+C.  In the case of a fiduciary, is limited by the scope of the fiduciary's duties; and  12 
+D.  May not be used to impersonate the user.  13 
+3.  Right to access.  A fiduciar y with authority over the property of a decedent, 14 
+protected person, principal or settlor has the right to access any digital asset in which the 15 
+decedent, protected person, principal or settlor had a right or interest and that is not held 16 
+by a custodian or subject to a terms of service agreement.  17 
+4.  Authorized user.  A fiduciary acting within the scope of the fiduciary's duties is 18 
+an authorized user of the property of the decedent, protected person, principal or settlor 19 
+for the purpose of applicable compute r fraud and unauthorized computer access laws, 20 
+including Title 17 -A, chapter 18.  21 
+5.  Fiduciary's authority to access; authorized user.  A fiduciary with authority 22 
+over the tangible, personal property of a decedent, protected person, principal or settlor:  23 
+A.  Has the right to access the property and any digital asset stored in it; and  24 
+B.  Is an authorized user for the purpose of computer fraud and unauthorized 25 
+computer access laws, including Title 17 -A, chapter 18.  26 
+6.  Disclosure of information to terminate account.  A custodian may disclose 27 
+information in an account to a fiduciary of a user when the information is required to 28 
+terminate an account used to access digital assets licensed to the user.  29 
+7.  Request for termination.  A fiduciary of a user may reque st a custodian to 30 
+terminate the user's account.  A request for termination must be in writing, in either 31 
+physical or electronic form, and accompanied by:  32 
+A.  If the user is deceased, a copy of the death certificate of the user;  33 
+B.  A copy of the letters of  appointment of the personal representative or court order, 34 
+power of attorney or trust giving the fiduciary authority over the account; and  35 
+C.  If requested by the custodian:  36 
+ 
+ Page 10 - 128LR1807(01) -1 
+ (1)  A number, username, address or other unique subscriber or account identifier  1 
+assigned by the custodian to identify the user's account;  2 
+(2)  Evidence linking the account to the user; or  3 
+(3)  A finding by the court that the user had a specific account with the custodian, 4 
+identifiable by the information specified in subparagraph (1).  5 
+§10-116.  Custodian compliance and immunity  6 
+1.  Disclose or terminate upon request; court order.  Not later than 60 days after 7 
+receipt of the information required under sections 10 -107 to 10 -115, a custodian shall 8 
+comply with a request under this Act from  a fiduciary or designated recipient to disclose 9 
+digital assets or terminate an account.  If the custodian fails to comply, the fiduciary or 10 
+designated recipient may apply to the court for an order directing compliance.  11 
+2.  Finding that compliance not in v iolation.  An order under subsection 1 directing 12 
+compliance must contain a finding that compliance is not in violation of 18 United States 13 
+Code, Section 2702.  14 
+3.  Notification to user.  A custodian may notify the user that a request for disclosure 15 
+or to te rminate an account was made under this Act.  16 
+4.  Denial of request if subsequent lawful access.  A custodian may deny a request 17 
+under this Act from a fiduciary or designated recipient for disclosure of digital assets or 18 
+to terminate an account if the custod ian is aware of any lawful access to the account 19 
+following the receipt of the fiduciary's request.  20 
+5.  Court order.  This Act does not limit a custodian's ability to obtain or require a 21 
+fiduciary or designated recipient requesting disclosure or termination  under this Act to 22 
+obtain a court order that:  23 
+A.  Specifies that an account belongs to the protected person or principal;  24 
+B.  Specifies that there is sufficient consent from the protected person or principal to 25 
+support the requested disclosure; and  26 
+C.  Contains a finding required by law other than this Act.  27 
+6.  Immunity.  A custodian and its officers, employees and agents are immune from 28 
+liability for an act or omission done in good faith in compliance with this Act.  29 
+§10-117.  Uniformity of application and construction  30 
+In applying and construing this Act, consideration must be given to the need to 31 
+promote uniformity of the law with respect to its subject matter among states that enact it.  32 
+§10-118.  Relation to Electronic Signatures in Global and National Com merce Act  33 
+This Act modifies, limits or supersedes the federal Electronic Signatures in Global 34 
+and National Commerce Act, 15 United States Code, Section 7001 et seq., but does not 35 
+modify, limit or supersede Section 101(c) of that Act, 15 United States Code,  Section 36 
+ 
+ Page 11 - 128LR1807(01) -1 
+ 7001(c), or authorize electronic delivery of any of the notices described in Section 103(b) 1 
+of that Act, 15 United States Code, Section 7003(b).  2 
+PART B  3 
+Sec. B -1.  18-A MRSA §5 -931, sub -§(a), ¶¶(7) and (8), as enacted by PL 4 
+2009, c. 292, §2 and aff ected by §6, are amended to read:  5 
+(7).  Exercise fiduciary powers that the principal has authority to delegate; or 6 
+(8).  Disclaim property, including a power of appointment .; or 7 
+Sec. B -2.  18-A MRSA §5 -931, sub -§(a), ¶(9) is enacted to read:  8 
+(9).  Exercise  authority over the content of an electronic communication of the 9 
+principal in accordance with the Maine Revised Uniform Fiduciary Access to Digital 10 
+Assets Act.  11 
+PART C  12 
+Sec. C -1.  Effective date.  This Act takes effect January 1, 2018.  13 
+SUMMARY  14 
+This bill ena cts the Revised Uniform Fiduciary Access to Digital Assets Act as the 15 
+Maine Revised Uniform Fiduciary Access to Digital Assets Act, Article 10 in the Maine 16 
+Revised Statutes, Title 18 -A. 17 
+The National Conference of Commissioners on Uniform State Laws approve d the 18 
+Revised Uniform Fiduciary Access to Digital Assets Act in July 2015.  19 
+The Prefatory Note and accompanying comments to the Maine Revised Uniform 20 
+Fiduciary Access to Digital Assets Act provide a summary and explanation of the 21 
+Revised Uniform Fiduciary A ccess to Digital Assets Act.  The Revised Uniform 22 
+Fiduciary Access to Digital Assets Act provides an important update for the Internet age.  23 
+A generation ago, files were stored in cabinets, photos were stored in albums and mail 24 
+was delivered by a human bei ng.  Today, people are more likely to use the Internet to 25 
+communicate and store information.  The Revised Uniform Fiduciary Access to Digital 26 
+Assets Act ensures users retain control of their digital property and can plan for its 27 
+ultimate disposition after their death but also takes into account the digital privacy that 28 
+users and those with whom they communicate have a right to expect under federal law 29 
+and the unique authentication issues inherent in a paperless record -keeping system.  30 
+Unless the user instru cts otherwise, legally appointed fiduciaries will have the same 31 
+access to digital assets as they have always had to tangible assets and the same duty to 32 
+comply with the user's instructions.  33 
+This bill modifies the Revised Uniform Fiduciary Access to Digital  Assets Act to be 34 
+consistent with existing Maine law with regard to conservators.  35 
+ 
+ Page 12 - 128LR1807(01) -1 
+ Part B amends the Maine Uniform Power of Attorney Act to specifically allow a 1 
+power of attorney to grant authority to enable the agent to access the content of an 2 
+electronic communication to be consistent with the grant of express authority required by 3 
+Section 9 of the Revised Uniform Fiduciary Access to Digital Assets Act, included in this 4 
+bill as the Maine Revised Statutes, Title 18 -A, section 10 -109. 5 
+Part C provides that th e provisions of this bill take effect January 1, 2018.  6 
+ 

@@ -1,0 +1,257 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 Date: s/Jojl7 L.D. 332 
+(Filing No. H-]f{ ) 
+CRIMINAL JUSTICE AND PUBLIC SAFETY 
+Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+128TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMJTTEE AMENDMENT "/J" to H.P. 246, L.D. 332, Bill, "An Act 
+Regarding Service of Criminal Process on Electronic Communication Service Providers 
+and Remote Computing Service Providers" 
+Amend the bill in section 1 in subsection 6 in the 2nd line (page 1, line 18 in L.D.) by 
+striking out the following: "A clerk" and inserting the following: 'A commercial clerk' 
+Amend the bill in section 1 in subsection 6 by striking out all of paragraph C (page 2, 
+lines 7 to 15 in L.D.) and inserting the following: 
+'C. For purposes of this subsection, criminal process is properly served if it is: 
+(1) Delivered by hand, or in a manner reasonably allowing for proof of delivery 
+if delivered by United States mail, overnight delive1y service or facsimile to a 
+commercial clerk or commercial registered agent as provided in section 106; 
+section 107, subsection 4: or this section; 
+(2) Delivered by specific means identified by the provider for service of criminal 
+process, including, but not limited to, e-mail, facsimile or submission via an 
+Internet web portal: or 
+(3) Delivered to the provider's place of business within the State. 
+If service is made pursuant to subparagraph (1) or (3) and the provider promptly 
+notifies the law enforcement agency of the specific means of service identified by the 
+provider pursuant to subparagraph (2) for criminal process, service must be made by 
+the means of service specified by the provider if possible.' 
+Amend the bill in section 3 in §56 in subsection 1 by striking out all of paragraph L 
+(page 3, line 37 and page 4, lines 1 to 8 in L.D.) and insetting the following: 
+'L. "Properly served" means that a search warrant or grand jmy subpoena has been: 
+(1) Delivered by hand, or in a manner reasonably allowing for proof of delivery 
+if delivered by United States mail, overnight delivery service or facsimile to a 
+Page 1 -128LR0507(04)-l 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT" fl,, to H.P. 246, L.D. 332 
+1 commercial clerk or commercial registered agent as provided in Title 5, section 
+2 106; Title 5, section 107, subsection 4; or this section; 
+3 (2) Delivered by specific means identified by the provider for service of criminal 
+4 process, including, but not limited to, e-mail, facsimile or submission via an 
+5 Intemet web portal; or 
+6 (3) Delivered to the provider's place of business within the State. 
+7 If service is made pursuant to subparagraph (1) or (3) and the provider promptly 
+8 notifies the law enforcement agency of the specific means of service identified by the 
+9 provider pursuant to subparagraph (2) for criminal process, service must be made by 
+1 O the means of service specified by the provider if possible.' 
+11 Amend the bill in section 3 in §56 by striking out all of subsections 2, 3 and 4 and 
+12 inserting the following: 
+13 '2. Requirements applicable to a foreign entity provider. The following 
+14 provisions apply to criminal process issued pursuant to this section that requires a search 
+15 for records that are in the possession or control of a foreign entity provider when those 
+16 records would reveal the identity of a customer using services, data stored by or on behalf 
+17 of a customer, a customer's usage of the service, the recipient or destination of 
+18 communications sent to or from a customer, content information or location infonnation. 
+19 A. A foreign entity provider served with a search warrant pursuant to this section 
+20 shall produce to the applicant all records sought, including those records maintained 
+21 or located outside this State, within 14 days of service. The 14 days may be extended 
+22 by the court as follows: 
+23 (1) By the 10th day following service, the foreign entity provider in writing or 
+24 electronically must notify the law enforcement officer who served the warrant 
+25 that producing all the records within 14 days is not practicable, the reasons why 
+26 compliance is not practicable and the date by which the foreign entity provider 
+27 will complete the production; and 
+28 (2) The law enforcement officer shall file a notice with the comt of the reasons 
+29 under subparagraph (1). 
+3 0 If the court finds that good cause exists for the delay, the court may extend the 14-day 
+31 period to the date of production specified by the foreign entity provider and the 
+32 provider is prohibited from asserting that the wanant has expired. For purposes of 
+33 this paragraph, good cause includes, but is not limited to, impracticability of timely 
+34 response, difficulty of identifying and retrieving the data requested and the volume of 
+35 data or number of sources sought. 
+36 B. A foreign entity provider served with a grand jmy subpoena pursuant to this 
+37 section shall produce to the prosecutor or grand jmy all records sought, including 
+38 those records maintained or located outside this State, by or at the time of the grand 
+39 jmy appearance. The grand jmy subpoena must include the address of the prosecutor 
+40 or grand jury to which the provider must produce the records. 
+Page 2 -128LR0507(04)-1 
+COMMITTEE AMENDMENT 
+COMMITIEE AMENDMENT" A" to H.P. 246, L.D. 332 
+1 C. A foreign entity provider shall verify the authenticity of records that it produces 
+2 by providing an affidavit that complies with the requirements set forth in the Maine 
+3 Rules of Evidence, Rule 902(12). Admissibility of these records in a court in this 
+4 State is governed by the Maine Rules of Evidence, Rule 803(6). 
+5 D. A foreign entity provider that produces records or testifies pursuant to this 
+6 subsection is immune from criminal or civil liability for the release of the requested 
+7 information to the court, attorney for the State or law enforcement agency involved in 
+8 the investigation. 
+9 3. Requirements applicable to a domestic entity provider. The following 
+10 provisions apply to criminal process issued pursuant to this section that requires a search 
+11 for records that are in the possession or control of a domestic entity provider when those 
+12 records would reveal the identity of a customer using services, data stored by or on behalf 
+13 of a customer, a customer's usage of the service, the recipient or destination of 
+14 communications sent to or from a customer, content information or location information. 
+15 A. A domestic entity provider, when served with criminal process issued by another 
+16 state to produce records that would reveal the identity of a customer using services, 
+17 data stored by or on behalf of a customer, a customer's usage of the service, the 
+18 recipient or destination of communications sent to or from a customer, content 
+19 information or location information, shall produce those records as if that criminal 
+20 process had been issued by a comt in this State. 
+21 B. A domestic entity provider served with a search warrant pursuant to this section 
+22 shall produce to the applicant all records sought, including those records maintained 
+23 or located outside this State, within 14 days of service. The 14-day period may be 
+24 extended by the court as follows: 
+25 (1) By the 10th day following service, the domestic entity provider in writing or 
+26 electronically must notify the law enforcement officer who served the warrant 
+27 that producing all the records within 14 days is not practicable, the reasons why 
+28 compliance is not practicable and the date by which the domestic entity provider 
+29 will complete the production; and 
+30 (2) The law enforcement officer shall file a notice with the comt of the reasons 
+31 under subparagraph (1). 
+32 If the comt finds that good cause exists for the delay, the comt may extend the 14-day 
+33 period to the date of production specified by the domestic entity provider and the 
+34 provider is prohibited from asse1ting that the warrant has expired. For purposes of 
+35 this paragraph, good cause includes, but is not limited to, impracticability of timely 
+36 response, difficulty of identifying and retrieving the data requested and the volume of 
+3 7 data or number of sources sought. 
+38 C. A domestic entity provider served with a grand jmy subpoena pursuant to this 
+39 section shall produce to the prosecutor or grand jury all records sought, including 
+40 those records maintained or located outside this State, by or at the time of the grand 
+41 jmy appearance. The grand jmy subpoena must include the address of the prosecutor 
+42 or grand jmy to which the provider must produce the records. 
+Page 3 -128LR0507(04)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A "to H.P. 246, L.D. 332 
+1 D. A domestic entity provider shall verify the authenticity of records that it produces 
+2 by providing an affidavit that complies with the requirements set forth in the Maine 
+3 Rules of Evidence, Rule 902(11) or on a form provided by the requesting jurisdiction. 
+4 Admissibility of these records in a court in this State is governed by the Maine Rules 
+5 of Evidence, Rule 803(6). 
+6 E. A domestic entity provider that produces records or testifies pursuant to this 
+7 subsection is immune from criminal or civil liability for the release of the requested 
+8 infonnation to the court, attorney for the State or law enforcement agency involved in 
+9 the investigation. 
+10 4. Application for expedited production of records. Notwithstanding the 14-day 
+11 period specified in subsection 2 or 3 for production of the records, if an applicant for a 
+12 search warrant believes that delaying production is reasonably likely to cause an adverse 
+13 result, the applicant may request that the comt require the production of the records 
+14 sooner than 14 days after service pursuant to this subsection. 
+15 A. The applicant shall demonstrate to the comt the specific adverse result or results, 
+16 as specified in subsection 1, paragraph A, subparagraphs (1) to (7), that delaying 
+17 production for 14 days is reasonably likely to cause. 
+18 B. If the court finds that the delay may cause an adverse result, the comt shall state 
+19 the adverse result specified in subsection 1, paragraph A, subparagraphs ( 1) to (7) and 
+20 may require the provider to produce the records in a specified number of days. 
+21 C. If the court specifies that the provider has less than 14 days to produce the record 
+22 and the adverse result finding is listed in subsection 1, paragraph A, subparagraphs 
+23 (1) to (4), the provider must respond within the time specified by the comt. 
+24 D. If the comt specifies that the provider has less than 14 days to produce the record 
+25 and the only adverse result findings are results listed in subsection 1, paragraph A, 
+26 subparagraphs (5) to (7), the provider must notify the law enforcement officer serving 
+27 the wal1'ant that compliance within that period specified by the court is not 
+28 practicable and must state the date within 14 days from service by which the provider 
+29 will respond. The law enforcement officer shall file the provider's response with the 
+30 court, and, upon a demonstration of good cause by the provider, the response period 
+31 may be extended by the court to no more than 14 days from the date of service of the 
+32 warrant. As used in this paragraph, good cause includes, but is not limited to, 
+33 impracticability of timely response, difficulty of identifying and retrieving the data 
+34 requested and the volume of data or number of sources sought.' 
+35 SUMMARY 
+36 This amendment makes the following changes to the bill. 
+3 7 1. It specifies that the clerk who is authorized to receive service of a grand jury 
+3 8 subpoena or search warrant is the commercial clerk. 
+39 2. It prioritizes the method of service of criminal process, specifying first priority as 
+40 through the specific means identified by the electronic service provider or remote 
+41 computing service provider. 
+Page 4 -128LR0507(04)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT" A" to H.P. 246, L.D. 332 
+1 3. It specifies that the provisions applicable to a search for records from a foreign 
+2 entity provider apply to records that are in the possession or control of the foreign entity 
+3 provider. 
+4 4. It provides a mechanism for a foreign entity provider or a domestic entity provider 
+5 to obtain an extension beyond 14 days to reply to a search warrant through notice to the 
+6 law enforcement officer who served the warrant. It strikes from the procedure the 
+7 requirement that the foreign entity provider file a request for relief with the court. 
+8 5. It provides for production of the requested grand jury documents to the grand jury 
+9 and provides that the prosecutor's or the grand jury's address must be included in the 
+10 subpoena. 
+11 6. It provides in the mechanism for expedited production of records a way for the 
+12 provider to request a 14-day period for return of the information if the only adverse result 
+13 finding is for the reason of jeopardizing the investigation, undue delay of trial or a 
+14 significantly detrimental consequence that is not immediate danger of death or serious 
+15 physical injury, flight from prosecution, destruction of or tampering with evidence or 
+16 intimidation of a potential witness. 
+17 FISCAL NOTE REQUIRED 
+18 (See attached) 
+Page 5 -128LR0507(04)-1 
+COMMITTEE AMENDMENT 
+Approved: 05/11/17 feac 
+128th MAINE LEGISLATURE 
+LD 332 , LR 507(04) 
+An Act Regarding Service of Criminal Process on Electronic Communication Service Providers and 
+Remote Computing Service Providers 
+Fiscal Note for Bill as Amended by Committee Amendment ,A, { Jl-3JV 
+Committee: Criminal Justice and Public Safety 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Fiscal Detail and Notes 
+Additional costs to the Department of Public Safety associated with this legislation can be absorbed within existing 
+budgeted resources. 
+LR0507(04) -Fiscal Note -Page 1 of 1 

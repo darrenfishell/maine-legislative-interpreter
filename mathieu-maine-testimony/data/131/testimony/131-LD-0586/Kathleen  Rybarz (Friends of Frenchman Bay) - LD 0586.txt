@@ -1,0 +1,101 @@
+131st MAINE LEGISLATURE THE JOINT STANDING COMMITTEE ON MARINE RESOURCES
+ Re: Testimony in Support for LD 586  Public Hearing March 16, 2023, written comments.
+Senator Reny, Representative Hepler, and distinguished members of the Committee on Marine Resources, my 
+name is Kathleen Rybarz, I am President of Friends of Frenchman Bay.  My organization exists to help support 
+a sound and healthy bay, to provide a forum for discussions on how to keep our bay thriving and to try and find 
+a way to look at the cumulative effects on the bay.   Thank you for the opportunity to share why I am supportive 
+of LD 586, An Act to Protect Maine Fisheries from the Effects of Industrial Aquaculture Operations.
+I specifically support the bills effort to regulate the discharge from the so-called RAS form of aquaculture.   
+Current regulations of the Maine DEP utilize the CORMIX model of estimating discharges from these systems.   
+This is not the correct model to use.   I will explain that on page two and three. 
+First to set the scene for you.
+The State of Maine has 3 permitted finfish RAS commercial/industrial size systems approved by the Maine 
+DEP.  None have been built yet.  Two of these have been tied up in the state court system for various reasons, 
+the third, well, no one knows exactly why, has not been started.    
+ So we have zero experience with the discharges, and only “models” and best guesses as to what their 
+effect on our coastal waters will be.    
+1. Nordic Aquafarms, Belfast Maine.  
+Salmon 66 Million Pounds/year. 
+71 Million Gallons discharge per day.  
+Note: Discharge calculations were done with two methods, neither of which are applicable for a tidal 
+bay like Penobscot Bay.   
+2. Whole Oceans, Bucksport Maine.    
+Salmon 44 Million Pounds/year 1
+86 Million Gallons discharge daily to tidal part of Penobscot River.    
+3. Kingfish, Jonesport Maine.  
+Kingfish 16 Million Pounds/year.  
+28.7 Million Gallons per day discharge into Chandler Bay 
+Note: higher nitrogen exception for economic reasons.    Including an okay to discharge up to 96 
+pounds of Fish Oil and Grease into the water of the bay as a maximum amount daily or 39 pounds on 
+average each day.    
+4. 2023 Proposal for Salmon aquaculture in Millinockett, Maine.   Unknown details at this time, but 
+this too will discharge into the upper Penobscot River.
+The last RAS system just proposed last month for Millinocket Maine, which would be the third facility 
+discharging into Penobscot Bay.   Not a single system has been built yet or has ever operated in anywhere near 
+full capacity in Maine.    
+So all their approvals are for “theoretical discharges” and best estimates of discharges.   We don’t yet know 
+what will happen when they begin to operate or what will happen to our native fisheries that will exist in 
+conjunction with these systems.   They all have a “condition” to do a dye study when they start operating.
+To see where the pollution will go.    
+The only system that raises any fish in a recirculating system are the hatcheries in and around the state, the eel 
+facility in Waldoboro which discharges 95,000 gallons per day (not millions of gallons) ) and the startup 
+facilities of Kingfish in Franklin Maine.   The facility in Franklin Maine, discharges into Frenchman Bay 
+eventually through Taunton Bay.   These are microscopic discharges in comparison.     
+We also have the American Aquafarms proposal - what is effectively an in-water RAS system proposed for 
+Frenchman Bay, where the fish aren’t in tanks on land, but in the sea itself, and with no treatment besides 
+containing the solid waste from the fish and letting the liquid waste and water from the solid waste squeezed 
+out, back into the ocean without any treatment.  
+In educating myself about the American Aquafarms proposal I learned a lot about the Cormix Model of 
+discharge evaluation that the Maine DEP utilizes.    It is a model made for rivers, and discharges into rivers.   
+The model maker specifically says that this model doesn’t work for tidal bays.   Yet that’s exactly what we have 
+the RAS farms discharging into, tidal bays. And the tidal portion of the Penobscot River in Bucksport.   
+Here is a portion of our groups’ comments to the Maine DEP about American Aquafarms, a tidal bay proposed 
+finfish farm in Frenchman Bay.    The same situation applies to Nordic and Kingfish as well as Whole Oceans’ 
+discharge into tidal Penobscot River.   
+1) “The use and applicability of Cormix.
+Near and far field dilutions are calculated with a software package called Cormix. Cormix is specifically not 
+intended for regions of dynamic tidal flux where re-entrainment of earlier discharges occur as they do at both 
+proposed lease sites. The literature is replete with notices of these limitations, for example this one from the 
+Cormix website FAQs section Q.13. How does CORMIX simulate TIDAL re-entrainment?
+CORMIX is a STEADY-STATE model, whereas tidal environments are inherently UNSTEADY. Because 
+most REGULATORY MIXING ZONE analysis requires "worst-case" dilution analysis, analysts sometimes 
+consider conditions at slack tide (often zero ambient velocity) as representative of the "worst-case". 
+However, minimum initial dilution generally will not occur at slack tide, but shortly after slack tide when 
+the plume re-entrains material remaining from the previous TIDAL CYCLE. In tidal mode, CORMIX 
+considers the reduction in initial dilution due to the re-entrainment of material remaining from the 
+previous cycle. It does not consider UNSTEADY build-up of material over several TIDAL CYCLES, it assumes 
+complete flushing of the historic plume in the NEAR-FIELD, will occur within a tidal cycle.
+If unsteady build-up in the NEAR-FIELD or FAR-FIELD over multiple TIDAL CYCLES is likely at your site, additional 
+methods of analysis may be necessary. 
+For another description of the limitations of Cormix, this time from American Aquafarms’ “Summary of Q&A 
+from May 6 PIM - Pages from FB01 Long Porcupine General Application for Waste Discharge Permit with 
+Attachments.pdf”:
+This model is a steady-state model, which means it does not account for changes in the current direction 
+or current speed over time. That means that in tidal environments the results are only valid if you consider 
+them as a brief snapshot of the mixing, generally less than 15 minutes.
+But of course, if permitted, the lease sites would discharge waste into tidal zones for a 20-year lease term; it’s 
+therefore appropriate to use tools capable of modelling known phenomena like the re-entrainment that can 
+occur when the dynamic tidal flux occurring at both lease sites is present.  
+Next, Cormix modeled the configuration of the discharge port as a 15-port, 300m diffuser that has little or 
+nothing to do with the actual grid-like configuration of the discharge ports. Further, Cormix requires that the 
+modeled discharge port be in the bottom third of the water column. Unfortunately, it’s in the middle third of 
+the water column. Therefore, additional permutations are applied to an already inappropriate model. 
+Taken together, these flaws make the Cormix projections extremely questionable.”
+Indeed, Friends of Frenchman Bay joined with Frenchman Bay United to fund our own study of the 
+circulation of Frenchman Bay, and is in process of documenting that indeed, this bay does not have a major 
+river type of circulation, and that indeed nitrogen will accumulate in the shallower regions of Frenchman Bay.    
+We have hired a university based researcher to extend his Bay of Maine Research into Frenchman Bay.  We 
+collected data in 2022 and are now working on entering it into an appropriate modeling software.   A report 
+should come out sometime in 2023.   Dr. Chris Kincaid of the Graduate School of Oceanography of Rhode 
+Island is our funded researcher.   He has been and is in concurrent discussions with the Maine DEP modeler.  
+Penobscot Bay and Chandler Bays have NOT BEEN STUDIED and their circulation has not been 
+characterized in any way by these companies, as they were not asked to do such work.   Yet we need that 
+information to have a full picture of where the waste from these discharges is going. 
+We need rules that will be appropriate for discharges that are well beyond what our largest cities discharge into 
+our oceans.   We need the rules to keep our water clean, and our native fisheries thriving, not declining.    I will 
+be present at the study session if you have questions about my comments or about our studies about bay 
+circulation in progress.   
+Thank you for your time and attention.   Please vote out to pass on LD 586.   
+Make all the changes you want.   Likely the discharge evaluations changes should be sent over to the Maine 
+DEP and not the DMR.   Give us a chance to get appropriate discharge evaluation to keep Maine’s coastal 
+waters as clean as we can.   

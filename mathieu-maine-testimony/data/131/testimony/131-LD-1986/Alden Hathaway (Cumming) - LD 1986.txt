@@ -1,0 +1,472 @@
+ 
+ 
+ 
+STATE OF MAINE 
+BEFORE THE 131st MAINE LEGISLATURE 
+ 
+ 
+         
+In RE: An Act Relating to Net Energy Billing and )      LEGISLATIVE 
+Distributed Solar and Energy Storage Systems   )     DOCUMENT NO. 1986 
+        ) 
+ 
+ 
+ 
+ 
+DIRECT TESTIMONY OF ALDEN M. HATHAWAY, P.E. C.E.M.  
+ON BEHALF OF COMMUNITY SOLAR ACCESS AND THE CRANBERRY ISLES 
+COMMUNITY SOLAR ASSOCIATION 
+ 
+May 24, 2023 
+ 
+ 
+  
+  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+1 
+  
+1 Q1: PLEASE STATE YOUR NAME, TITLE, AND BUSINESS ADDRESS. 
+2 A1: My name is Alden M. Hathaway. I am the Senior Energy Engineer and Project Manager 
+3 for 2RS Consulting, LLC. Our business address is PO Box 541, Palmyra, Virginia 22963, 
+4 although I also represent, as President the Cranberry Isles Community Solar Association, 
+5 7 Back Road, Islesford, Maine 04646.   
+6 Q2: ON WHOSE BEHALF ARE YOU TESTIFYING? 
+7 A2: I am testifying on behalf of the Community Solar Access and the Cranberry Isles 
+8 Community Solar Association before the 131st Maine Legislature. 
+9 Q3: MR. HATHAWAY, PLEASE SUMMARIZE YOUR EDUCATIONAL AND 
+10 PROFESSIONAL EXPERIENCE. 
+11 A3: I am Professionally Licensed by the States of Georgia and South Carolina as an 
+12 Engineering Power, Energy and General Electrical Knowledge, with over 41 years of 
+13 consulting, engineering management, sales, and project development experience in the 
+14 fields of solar, wind and energy efficiency systems. My Georgia State License Number is 
+15 #035053  My South Carolina License Number is 34482. 
+16  Our consulting practice is focused on energy and sustainability support with 
+17 engagement in the federal, state, and private sectors.  I am also a certified Commissioning 
+18 Agent specializing in solar energy and energy systems commissioning. 
+19  My areas of expertise include: energy efficiency, including lighting, HVAC and 
+20 industrial process energy/efficiency; renewable energy, including solar and wind, 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+2 
+ 1 bioenergy and renewable natural gas; energy storage technology, including controls, 
+2 thermal and electric battery; micro-grids, controls and energy dashboards; plug-in electric 
+3 vehicles; electrical infrastructure; electric demand and energy bill analysis; Renewable 
+4 Energy Certificates (RECs), Energy Efficiency Credits (White Tags) and Carbon Offsets, 
+5 development, tracking mechanisms, sales and consulting.  
+6  In my 41+ years of experience, I have worked for three years for two electric 
+7 utilities, including Georgia Power, Atlanta, GA and Eastern Edison, Providence RI in their 
+8 energy services and power marketing departments. For over a decade, I worked for two 
+9 manufacturers, GTE Sylvania Lighting, Danvers, MA and Solarex (a solar manufacturer, 
+10 originally based in Frederick, MD). For another decade, I worked as an energy consultant 
+11 in Washington, DC for the USEPA’s Energy Star and Green Power Partnership programs, 
+12 marketing for and implementing the program on behalf of over 1,000 member partners as 
+13 a manager of a team of up to 16 field engineers. The remaining decade and a half I served 
+14 Sterling Planet, Atlanta, GA, one of the nation’s largest retailers of renewable electricity 
+15 as its SVP for Business Development, supporting utilities and commercial companies alike 
+16 in renewable energy procurement, green power programs, REC and Carbon Offset sales 
+17 and solar and energy-efficient lighting project development and application.   
+18  I have developed and hold or been named on three US Patents regarding an Energy 
+19 Efficient Lighting System, a Direct-Current Based Solar and Lighting Interconnection 
+20 System, and an Energy Monitoring Algorithm using Artificial Intelligence to Predict 
+21 Baselines for White Tag Measurements.  I have been Recognized with Awards by both the 
+22 USEPA in the Market Development of the Energy Star Buildings Program, 1995 and the 
+23 US Department of Energy Wind Advocacy Award, 2005. I was named as Loudoun County, 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+3 
+ 1 Virginia’s Environmental Volunteer of the Year in 2001 for the development of the solar 
+2 and energy system at the Barns of Franklin Park. I was also recognized as an Association 
+3 of Energy Engineers (AEE), “Legend in Energy” in 2011 and a Certified Energy Manager 
+4 since 1993.   
+5  I co-founded and have maintained my role as Board Member for the 26-year-old 
+6 non-profit organization, Solar Light for Africa, which has presided over the installation of 
+7 over 2,800 solar lighting, power and water systems in nine sub-Saharan African Countries, 
+8 including Uganda, Tanzania, Rwanda, Kenya, Ethiopia, Sudan, Ghana, Liberia and Sierra 
+9 Leone. Most systems were off-grid Direct Current based systems, but at least 50 of those 
+10 systems were grid-tied and 20 of them as microgrid systems. I have also been involved 
+11 with and/or directly developed solar-microgrid type (solar plus battery plus load) systems 
+12 in Massachusetts, Pennsylvania, Virginia and Georgia.   
+13  I have authored two books on Solar Energy and Net Zero Energy Homes, about our 
+14 solar home in Virginia and our second solar home in Georgia, including my latest 
+15 publication, Energy Independence – The Individual Pursuit of Energy Freedom, 
+16 published by River Publishing – 2022. Our first solar home has been featured in at least 
+17 two other books and major publications: including The Greened House Effect, Jeff 
+18 Wilson, Chelsea Green Publishing, 2013; The Hathaway “solar patriot” House: A Case 
+19 Study in Efficiency and Renewable Energy, Paul Norton, National Renewable Energy 
+20 Laboratory, 2005; Piedmont Magazine, 2008, the front cover of (and inside story) Mother 
+21 Earth News, 2003; the Washington Post, 2002; Solar Today, 2002; and President Bush’s 
+22 National Energy Policy Plan, May, 2001. Our First Solar Home was featured on the 
+23 National Capital Mall for Earth Day, 2001 and was visited by over 26,000 people including 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+4 
+ 1 EPA Administrator Whitman, 14 members of Congress (three US Senators), a number of 
+2 White House staffers and DOE officials.   
+3  I have written extensively on energy policy, energy design and marketing programs, 
+4 including in: Public Utilities Fortnightly, Consulting/Specifying Engineer, AEE Energy 
+5 Engineering Journal, Energy User News, World Aid Directory, Solar Today and North 
+6 American Clean Energy. The topics ranged from integrated building designs including 
+7 lighting, HVAC and solar to increasing load factor on utility systems to reduce overall 
+8 system cost.   
+9  I hold a Bachelor of Science Degree in Electrical Engineering from the University 
+10 of Virginia. Exhibit A includes my full curriculum vitae.   
+11 Q4: HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE MAINE LEGISLATURE? 
+12 A4: No, I have not previously testified before the Maine Legislature.. 
+13 Q5: WHAT IS THE PURPOSE OF YOUR TESTIMONY? 
+14 A5: The purpose of my testimony is to comment on the current electrical efficiency of the 
+15 electric grid in Maine, and the propensity to which that efficiency could be improved 
+16 through distributed generation technologies deployed at the load, including solar. In my 
+17 analysis, I project a cost savings across the electrical transmission and distribution system 
+18 when deploying the same distributed energy technology that rebuts utility claims testimony 
+19 suggesting a cost shift from solar customer to non-solar customer. It is my opinion, based 
+20 on this analysis, that an efficiency across the system benefitting the entire system of 
+21 ratepayers therefore cannot be a cost shift to non-solar customers adversely affecting their 
+22 costs, but a natural savings shared by all.  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+5 
+ 1   My testimony will address the structure of generating, transmission and distribution 
+2 assets in Maine, electricity sales through all assets to all Maine customers in the state. I 
+3 provide a calculation to show the average system load factor, or degree to which those 
+4 assets are utilized, and then a comparison to other systems where system load factor has 
+5 been improved and by what degree. I then summarize a system cost reduction on a 
+6 percentage basis for each basis point improvement in load factor based on other systems, 
+7 and project the potential system cost reduction in Maine by pursuing a distributed solar 
+8 generation and battery storage system program. 
+9   I will provide a real example of the costs savings opportunity based on our 
+10 experience on the Cranberry Isles with regard to system investment and maintenance costs 
+11 serving electricity on a single line serving the islands. 
+12  Finally, I will site recent writings by the esteemed, Ahmad Faruqui, Ph.D. a regular 
+13 witness to many state utility commissions about the costs shifts of solar on the system 
+14 where he has reversed his position with new found evidence from solar and battery systems,   
+15 now claiming that solar, especially with battery, reduces transmission and distribution costs 
+16 across the system. With this information and our own situation, on the Cranberry Isles, I 
+17 will point with confidence in the ability of distributed generation to lower costs across the 
+18 system for all rate payers.   I will stress that any position by the Maine Legislature on solar 
+19 net metering should give full energy credit for all kWh generated by individual solar 
+20 generators to the subscribers of solar systems. 
+21 Q4: ARE YOU SUBMITTING EXHIBITS ALONG WITH YOUR TESTIMONY? 
+22 A4:  Yes, I am submitting one (1) exhibit along with my testimony, as follows: 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+6 
+ 1 1 - EXHIBIT-AMH-1: Curriculum Vitae of Alden Hathaway 
+2 Q7: MR. HATHAWAY, CAN YOU EXPLAIN WHAT HAPPENS TO ELECTRICAL 
+3 CURRENT WHEN IT IS GENERATED AT OR NEAR THE LOAD? 
+4 A7:  Electric current will, as defined by Ohm’s law1, flow in the greater amount through the 
+5 path of least resistance. Although, current will flow in other paths of higher resistance to 
+6 ground, the majority of current will be found in the lowest resistant circuit(s) to 
+7 ground. Long distance distribution wires have resistance to electric current associated with 
+8 them. This resistance is directly proportional to the length of the wire and acts as additional 
+9 resistance to electricity flowing back to the source. The longer the wires the more 
+10 resistance. When electric current is generated near the load it will flow in the greatest 
+11 amount through the nearest closed switches and breakers onto electric ground. If all 
+12 switches are suddenly opened at the main load of the generator source, then the current will 
+13 now flow in greatest amount onto the connecting wires to the next nearest load and through 
+14 its switches and breakers to ground. If those switches are opened the current will flow to 
+15 the next nearest load and so on.   
+16  You can picture it like a water system with a water pipe delivering water from a 
+17 source to a use (or several uses) downhill. The water, once in the pipe, has nowhere to flow 
+18 but down to the water uses. If additional sources are located near the uses, they will not 
+19 flow back up hill but rather to the uses further downhill. If the spigot is closed at the first 
+20 use the water will spill through the pipe to the next nearest use. If that spigot is closed it 
+21 will flow to the next nearest use and so on. It will, for all intents and purposes, not flow 
+ 
+1 Ohm, Georg (1827)  “The galvanic circuit investigated mathematically” (Ohm’s Law) 
+I = E /(r + Rl)   I = V / R,  https://en.wikipedia.org/wiki/Ohm’s_law 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+7 
+ 1 back up the water pipe to the main source because in a multiple use system, there will 
+2 always be a use open for the water in the neighborhood of uses.   
+3  Electric current operates in the same way. There are so many nearby loads that the 
+4 electric current from a local generating source will always find a nearby load to flow 
+5 through. The local electric current will always directly support the local electric loads, 
+6 benefitting the local electric circuit. 
+7 Q8: HOW DO THE ELECTRIC METERS OF NEXT DOOR HOMES THAT RECEIVE 
+8 THIS NEARBY DISTRIBUTED GENERATED ELECTRICITY RECORD THAT 
+9 ENERGY? 
+10 A8: Electric meters do not typically distinguish between electricity from one source or another. 
+11 The current that flows off of a solar generator system, when not being used by the owner, 
+12 will flow onto the wires and through the neighbor’s meter to their loads. To the neighbor, 
+13 the meter simply records electricity used through the wires the house is connected to and 
+14 would be billed for electricity as if it came from the power plant supplying the electric grid. 
+15 However, the impact of this to the circuit feeding this neighborhood, is a reduction in the 
+16 apparent load on the circuit in direct amount equivalent to the capacity of the solar system 
+17 on the home.   
+18 Q9: WHY SHOULD THIS PRACTICE BE ENCOURAGED FROM AN ELECTRICAL 
+19 SYSTEMS POINT OF VIEW? 
+20 A9: Reducing load at the end point of a distribution system reduces the loading on the entire 
+21 circuit feeding the neighborhood. For utilities with a summertime peak typically occurring 
+22 in the afternoon, the aggregate summation of solar systems on multiple circuits means that 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+8 
+ 1 summer peak load reductions are passed back to the substation reducing loading on the 
+2 transmission lines feeding those substations.   
+3   Maine utilities are considered to be summer peaking in general. This means the 
+4 electric utility can continue to serve a growing commercial and industrial peaking 
+5 afternoon load with confidence that solar generation is offsetting that growing peak load. 
+6 Ultimately, this means the utility can forestall otherwise necessary infrastructure 
+7 investment (additional transmission, new substation transformers, reconductored 
+8 distribution circuits) saving the entire rate base, otherwise adversely impacted, by those 
+9 additional costs.   
+10 Q10: DO OTHER STATES CONSIDER THE BENEFITS OF DISTRIBUTED 
+11 GENERATION IN THIS WAY? 
+12 A10:  Yes, many utilities offer solar net metering with the general understanding that it positively 
+13 impacts their system offsetting any loss of revenue from the solar generator. Right now, 
+14 solar net metering (1 to 1 credit for solar generation) is offered in a majority of the states2 
+15 (at least 33 by recent count) across the country. Some states have taken it a step further. In 
+16 South Carolina, the Commission has introduced the first real-time priced solar net 
+17 metering, varying the credit with the varying cost to serve electricity within time of use 
+18 periods.3   
+ 
+2 Pickrel, Kelly 2022 Update – Which States Offer Net Metering? Solar Power World, - 
+https://www.solarpowerworldonline.com/2020/03/which-states-offer-net-metering/  
+3 Penrod, Emma 2021 South Carolina to Implement net metering settlement with time-of-use pricing; Utility Dive  
+https://www.utilitydive.com/news/south-carolina-to-implement-net-metering-settlement-with-time-of-use-
+pricin/600581/  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+9 
+ 1 Q11: ARE THERE ANY STUDIES OF UTILITY SYSTEMS AS A WHOLE ACHIEVING 
+2 SIGNIFICANT COST REDUCTIONS BY FOCUSING ON DISTRIBUTED 
+3 GENERATION? 
+4 A11: The most famous case of a long-term policy of distributed and demand-side focus by a 
+5 utility was documented over a 20-year period by the Central Vermont Public Service 
+6 (CVPS) and published in the Electricity Journal.4 The report documented a focused utility 
+7 approach towards investment in energy efficiency, demand response and distributed 
+8 generation technology in lieu of traditional capacity investment to increase overall system 
+9 load factor from 55% to 70%. 
+10 Q12: WHAT WAS THE REDUCTION IN SYSTEM COSTS FROM THE CVPS 
+11 PROGRAM? 
+12 A12:  The project’s proponent reported the system achieved an overall reduction of $10 million 
+13 in system cost. If one were to extrapolate across the average ratepayer’s bill, assuming 
+14 100% went back to the ratepayer it would represent approximately $38.00 annually in 
+15 savings (about 4%). 
+16 Q13: WHAT IS SYSTEM LOAD FACTOR? 
+17 A13: Load factor is the ratio of total energy used to serve the load of a given system divided by 
+18 the total amount of energy that could be generated and pushed through the transmission 
+19 and distribution system if the load was operated around the clock (24 hours per day, 365 
+20 days per year). The average load factor in the US electrical system is about 50%.  A 50% 
+ 
+4 Spinner, Howard (1992) The Peak Shifts – 18 Years of Load Management, The Electricity Journal 
+Havel Nos Spine 2002 Demand Response: The Future Ain’t what it used to be or is it?  (2002), The Electricity 
+Journal  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+10 
+ 1 system load factor means that a system designed to supply 1 MW of electric capacity to 
+2 serve a load and could deliver 8,760 MWh of energy to that load over the course of a year, 
+3 actually only supplies 4,380 MWh of electricity. Because most of the cost of electric supply 
+4 is tied up in the capacity of the 1 MW system, including power generation, transmission 
+5 and distribution, there is little additional cost in operating at a higher load factor other than 
+6 the additional fuel to keep the plant operating. Therefore, a higher load factor results in a 
+7 significant reduction in the cost per kWh for energy than a lower load factor does.   
+8  Consider load factor like one would consider operating a manufacturing plant on 
+9 one, two or three eight (8) hour shifts per day operations. The plant that operates on one 
+10 shift per day shows 8 / 24 = 33% load factor. The plant that operates on two shifts per day 
+11 shows 16 / 24 = 67% load factor. The plant that operates on three shifts per day shows 24 
+12 / 24 = 100% load factor. Obviously, all other things being equal, the high load factor 
+13 manufacturing plant produces units at lower overall costs than the low load factor plant.   
+14 Q14:  HOW DOES A UTILITY INFLUENCE THE LOAD TO GET HIGHER SYSTEM 
+15 LOAD FACTOR? 
+16 A14: Central Vermont Public Service proved that long-term investment on the demand-side of 
+17 the meter in multiple distributed, demand-response and energy efficiency technologies 
+18 across the entire rate base, often referred to as Demand Side Management (DSM), will 
+19 achieve the desired increase in load factor. (They started in 1974 at 55% and it took them 
+20 more than 20 years to raise it to 70%.) Therefore, it should be the policy of the Maine 
+21 Legislature to seek load factor improvement whenever it is low to produce an offsetting 
+22 reduction in costs, especially when rates are under increased upward pressure.   
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+11 
+ 1 Q15: WHAT IS THE SYSTEM LOAD FACTOR IN MAINE? 
+2 A15: According to the US Energy Information Administration (EIA) data for the state of Maine5, 
+3 peak capacity in Maine is 5,026 MW (5.026 GW). At 100% Load Factor, this would yield 
+4 energy production of 5,026 MW x 8,760 Hrs per year =  44,027,760 MWHs per year. 
+5 According to the same report net generating data is actually 10,908,144 MWHs per year. 
+6 Load Factor then is 10,908,144 / 44,027,760 = 24.8%.  In other words, even though 
+7 ratepayers have essentially paid for a system capable of delivering up to 44,027,760 MWHs 
+8 per year, the entire Maine electric system barely achieves an average load factor well below 
+9 a one shift operation.  
+10 Q16: HAVE YOU EVER STUDIED LOAD FACTORS IN OTHER STATES? 
+11 A16: Yes, I wrote about it in North American Clean Energy Magazine, 2013.6 
+12  I looked into the load factors of Tennessee, Alabama, Florida, South Carolina, 
+13 North Carolina as well as Georgia from a period of 2008 – 2011. I found that during that 
+14 time all states saw a reduction in their system load factor and an increase in electric rates. 
+15 Of all the six states load factor is better than Maine’s. 
+16 Q17: OF THE ARTICLE, WHAT STATES HAD THE BEST LOAD FACTORS? 
+17 A17:  Both North and South Carolina operated with a system load factor in the 50% range and 
+18 their electric rates across all sectors (residential, commercial, industrial and transportation) 
+ 
+5Energy Information Administration Maine Electricity Profile 2020   https://www.eia.gov/electricity/state/Maine/ 
+6 Hathaway, Alden 2013 Improving System Load Factor – A recipe for containing rates & growing renewable 
+energy, North American Clean Energy, www.nacleanergy.com  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+12 
+ 1 average at least 4.5% lower than Georgia (one of the lower load factors at 40%) and almost 
+2 29% below Maine’s rates.7  
+3 Q18: HOW MUCH COULD BE SAVED IF MAINE IMPROVED ITS LOAD FACTOR 
+4 TO 70%? 
+5 A18: If the Central Vermont Public System (CVPS) could achieve a 4% cost reduction for a 27.3 
+6 % increase in load factor, then it seems quite possible that Maine utilities with a 182 % 
+7 increase (24.8 – 70 - approximately 6.6 times) could see a 167% fold increase in cost 
+8 reduction or approximately 24% downward pressure on electric costs. It would take an 
+9 aggressive program of distributed generation focus to get there, but allowing solar to be 
+10 part of the solution under continued net metering is certainly a step in the right direction.   
+11 Q19:  HOW DOES SOLAR, WITH A LOW CAPACITY FACTOR, CONTRIBUTE TO A 
+12 HIGHER OVER ALL LOAD FACTOR? 
+13 A19:  For summer peaking utilities, the peak output of the solar, occurring as it does in the 
+14 afternoon at 12 Noon, lines up well with the natural peak of the Maine electric utility 
+15 system. As such, distributed solar, especially when placed near the load end of a circuit, 
+16 reduces that peak demand throughout the system with affects felt back to the supply. Yet, 
+17 energy use at the load is not reduced as much, thus flattening the load curve and freeing up 
+18 capacity in the circuit for other loads.   
+19 Q20: HOW DOES SOLAR BEHIND-THE-METER BENEFIT THE SYSTEM WHEN 
+20 APPLIED AT THE LOAD? 
+ 
+7 USEIA  2021 Total Electric Industry- Average Retail Price (cents/kWh), Available at: 
+eia.gov/electricity/sales_revenue_price/pdf/table4.pdf 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+13 
+ 1 A20:  When solar is placed at the load it reduces peak demand across the board from the end 
+2 circuit all the way back to the plants energizing the electric grid. The savings are seen in 
+3 reduced distribution and transmission impacts, and improved operating efficiencies at the 
+4 central generating stations. The projection of peak solar demand reduced through a 
+5 program that added 50,000 more solar roofs or solar subscribers by 2028 would yield as 
+6 much as 250 MW of offsetting peak load reduction at the circuit end of the electric system 
+7 about 5% of the system peak demand. 
+8  According to a well-publicized article in Electricity Journal, The Power of 5 
+9 Percent, 8  “Even a 5 percent drop in peak demand can yield substantial savings in 
+10 generation, transmission, and distribution costs – enough to eliminate the need for 
+11 installing and running 625 infrequently used peaking power plants and associated power 
+12 delivery infrastructure. At the national level, this translates into savings of $3 billion a year, 
+13 or $35 billion over the next two decades.” 
+14 Q21: WHAT ESTIMATES DO YOU CLAIM ARE THE SAVINGS OF A DISTRIBUTED 
+15 ROOFTOP SOLAR PROGRAM IN MAINE TO RATEPAYERS? 
+16 A21: Let us focus on that prospective size of 5 kW per solar subscriber and an additional 50,000 
+17 subscribers for increasing the amount of solar use by residential and small business 
+18 consumers. This corresponds to a 5% reduction in peak demand and improvement in 
+19 system load factor by the same amount.   
+ 
+8 Ahmad Faruqui, Ryan Hledik, Sam Newell, Hannes Pfeifenberger, (2007), The Power of 5 Percent, The 
+Electricity Journal 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+14 
+ 1  Using the Central Vermont Public Service (now Green Mountain Power) as a 
+2 reference point; they raised their load factor by 27.3% from 55% to 70% and saw a 
+3 corresponding 4% savings in utility costs. Thus, raising load factor by 5% should see a 
+4 corresponding ((5/27.3) x 4%) = 0.7% decline in utility operating costs per year, seen 
+5 primarily in distribution, transmission and improved central plant operating cost savings. 
+6 If we use the metrics suggested by the article, The Power of 5 Percent, as a reference point 
+7 and extrapolate across the national population (333.29 million) to Maine’s population (1.36 
+8 million), then the cost reduction projected can be calculated as; (1.36 / 333.29) x $3.0 
+9 Billion = $12.2 million per year. 
+10  At $12.2 million per year for 50,000 solar subscribers points to a net benefit of $244 
+11 per solar customer per year that benefits all Maine ratepayers.  
+12 Q22: DO YOU HAVE A REFERENCE FROM YOUR EXPERIENCE ON THE 
+13 CRANBERRY ISLES THAT DEMONSTRATE SAVINGS FOR ALL MAINE RATE 
+14 PAYERS? 
+15 A22: In fact, I do.  The cost to serve electricity on the Cranberry Isles is much higher than the 
+16 cost for electricity on the mainland, while the cost of frequent and prolonged power outages 
+17 on the islands exacts a higher cost to islanders than to electric consumers on the mainland.  
+18 Yet islander electric rates are similar to those on the mainland.  Last year it was necessary 
+19 for Versant to lay an underwater distribution cable between Great and Little Cranberry 
+20 Islands, because the existing one was approaching end of life and was in danger of failing 
+21 catastrophically.  The cost for overhead distribution and one that all ratepayers typically 
+22 cover in their rates is approximately $700,000 per mile.  The cost for that same mile 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+15 
+ 1 underwater is at least $2 million per mile.  The distance underwater for this cable of 
+2 approximately 0.6 miles means an additional cost for electric service of $800,000 or more 
+3 that is supported by all Versant rate payers not placed only on the electric customers on 
+4 Little Cranberry Island (approximately 400 households).  In addition, when power outages 
+5 occur on the single line from the mainland a Versant utility truck and crew must be barged 
+6 over to stage back in the power at much higher cost than normal. 
+7 The Cranberry Isles Community Solar Association believes a solar microgrid (solar plus 
+8 battery) will improve resiliency on the island saving islanders the cost of power outages 
+9 and Maine ratepayers the frequent cost of barging a utility crew and truck over to the island.  
+10 It should also help extend the life of the new underwater cable because of lees propensity 
+11 for heavy electric loading.   
+12 Q23:  MR. HATHAWAY, DO YOU AGREE THAT SIMPLE RATES ARE IMPORTANT 
+13 FOR CUSTOMER SATISFACTION? 
+14 A22: Yes, one of the reasons we advocate for solar net metering is that we agree with that 
+15 principle above as electric customers understand the 1 for 1 credit when they generate their 
+16 own solar energy, especially as they believe they are doing what is right for a resilient and 
+17 robust electric grid and for the environment. Any rate plan that recalculates the buyback 
+18 for solar based on what is generated at a different rate than what they pay introduces 
+19 confusion and suspicion. 
+20 Q24: DO YOU AGREE WITH AHMAD FARUQUI’S REFORMED VIEWS ON NET 
+21  ENERGY METERING? 
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+16 
+ 1 A24: Yes. Before 2020, Dr. Ahmad Faruqui was a major proponent and witness to utility 
+2 commissions around the country for restricting net metering.   
+3  I draw your Attention to the September 27, 2022 Issue of PV Magazine9 to the 
+4 article entitled “Why did I reform my views on Net Energy Metering (NEM)?” by Dr. 
+5 Ahmad Faruqui. In the article Dr. Faruqui claimed his position against NEM policies had 
+6 him standing on the wrong side of history. He said people “rich and poor, want to install 
+7 solar panels. They enhance affordability and green energy. When paired with batteries, 
+8 they enhance local resilience. They lower investments in the distribution and transmission 
+9 system.”   
+10  I reached out to Dr. Faruqui through my linked-in network and told him that I would 
+11 be speaking to the Georgia Public Service Commission in December, 2022. I asked him 
+12 what I could say to the Commission about solar panels in the neighborhood. This is what 
+13 he said: “I am making a qualitative statement here, based on the fact that when many homes 
+14 in a neighborhood have solar panels, they will be drawing less power from the grid and 
+15 therefore reduce the need for distribution investments over the long haul. Solar paired with 
+16 storage effectively resolves the stress on the grid during peak load hours.” 
+17 Q25: HAVE YOU SEEN ANY EVIDENCE THAT DISTRIBUTED SOLAR HAS 
+18  REDUCED DISTRIBUTION COSTS? 
+19 A25: Yes. I had the opportunity to attend the National Association of State Energy Officials 
+20 conference in St. Petersburg, Florida Wednesday, October 12, where Dr. Justin M. Hill, 
+ 
+9 Faruqui, Ahmad 2022 Why did I reform my views on net energy metering (NEM)?  PV Magazine,  https://pv-
+magazine-usa.com/202209/27/why-did-i-reform-my-views-on-net-energy-metering-nem/  
+Direct Testimony of Alden M. Hathaway, P.E. C.E.M. 
+Community Solar Access / Cranberry Isles Community Solar Association 
+Legislative Document No. 1986 
+17 
+ 1 PhD. PE, Senior Research Engineer for Southern Company Services Inc. was presenting 
+2 the results on two solar microgrid residential projects for moderate income neighborhoods 
+3 in Alabama and Georgia. The solar microgrids were successful in their ability to island full 
+4 neighborhoods - completely separating from the electric grids for periods. I asked Dr. Hill 
+5 if he could relate the solar microgrids in terms of cost savings to the distribution equipment 
+6 installed to serve the neighborhood.  He addressed me and the audience with his 
+7 answer. “There was significant reduction in distribution cost required including substation 
+8 transformer. For the Alabama project the reduction in required equipment size was 50%, 
+9 freeing up capacity for other loads.” 
+10 Q26: WHAT ARE THE CONCLUSIONS OF YOUR ANALYSIS? 
+11 A26:  In conclusion, if distributed solar helps lower the cost for the entire electric system, it, 
+12 therefore, cannot be considered as a cost shift subsidy funded by the rate base. In fact, the 
+13 cost savings of between $200 and $300 per solar subscriber in Maine suggests the Maine 
+14 Legislature, should be doing all it can to see that consumers can continue to subscribe for 
+15 solar under net metering provisions for the benefit of all ratepayers. Ensuring access to Net 
+16 Metering 1:1 credit for all solar at the load is the simplest way to proceed.   
+17 Q27: DOES THIS CONCLUDE YOUR TESTIMONY? 
+18 A27: Yes.  
+ 
+ 

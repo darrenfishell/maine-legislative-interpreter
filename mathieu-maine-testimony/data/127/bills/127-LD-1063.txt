@@ -1,0 +1,252 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycle d paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1063  
+H.P. 732  House of Representatives, March 24, 2015  
+ 
+ 
+An Act To Promote Community Broadband Planning and 
+Strengthen Economic Opportunity throughout Maine  
+ 
+ 
+ 
+ 
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+Presented by Representative GIDEON of Freeport.  
+Cosponsored by Senator MASON of Androscoggin and  
+Representatives: Speaker EVES of North Berwick, McCABE of Skowhegan, Senators: 
+ALFOND of Cumberland, CUSHING of Penobscot, HILL of York, President THIBODEAU of 
+Waldo.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1013(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  5 MRSA §12004 -I, sub -§85-A, as enacted by PL 2005, c. 665, §2, is 2 
+repealed.  3 
+Sec. 2.  35-A MRSA §9202, sub -§§3 to 5, as enacted by PL 2005, c. 665, §3, are 4 
+amended to read:  5 
+3.  Communica tions service.   "Communications service" means any wireline voice, 6 
+satellite, data, fixed wireless data , facilities -based wireless voice or data  or video retail 7 
+service.  8 
+4.  Communications service provider.   "Communications service provider" means:  9 
+A.  Any entity offering communications service to customers in the State ; or. 10 
+B.  Any facilities -based provider of wireless voice or data retail service that 11 
+voluntarily chooses to be assessed by the authority pursuant to section 9211.  12 
+5.  Unserved or underserved  area.  "Unserved or underserved area" means an area 13 
+that the authority pursuant to section 9204  9204 -A, subsection 2, paragraph B  1 14 
+determines to meet criteria established by the authority by rule adopted pursuant to 15 
+section 9205, subsection 3 in accordanc e with section 9204, subsection 1 . 16 
+Sec. 3.  35-A MRSA §9202 -A, as enacted by PL 2009, c. 586, §1, is repealed and 17 
+the following enacted in its place:  18 
+§9202 -A.  State broadband policy  19 
+1.  Goals.  The goals of the State related to broadband service are that:  20 
+A.  Broadband service be universally available in this State, including to all 21 
+residential and business locations and community anchor institutions;  22 
+B.  There be secure, reliable, competitive and sustainable forward -looking 23 
+infrastructure that can meet fu ture broadband needs; and  24 
+C.  All residents, businesses and institutions in the State be able to take full advantage 25 
+of the economic opportunities available through broadband service.  26 
+2.  Policies.  The policies of the State related to broadband service ar e to: 27 
+A.  Maximize sustainable investment in broadband infrastructure in the State;  28 
+B.  Maximize federal and private resources to support the deployment of broadband 29 
+infrastructure in unserved and underserved areas of the State;  30 
+C.  Prioritize the use of s tate resources to assist deployment of infrastructure to 31 
+provide broadband service in unserved and underserved areas of the State;  32 
+D.  Promote adoption of broadband service by residents, businesses and institutions; 33 
+and 34 
+E.  Leverage existing infrastructure  to extend broadband service.  35 
+ 
+ Page 2 - 127LR1013(01) -1 
+ Sec. 4.  35-A MRSA §9203, sub -§§1 to 3, as enacted by PL 2005, c. 665, §3, are 1 
+amended to read:  2 
+1.  Establishment; membership.   The ConnectME Authority is established to 3 
+stimulate investment in advanced communications technolo gy infrastructure in unserved 4 
+or underserved areas  further the goals and policies in section 9202 -A.  The authority is 5 
+created as a body corporate and politic and a public instrumentality of the State.  The 6 
+exercise by the authority of powers conferred by this chapter is considered to be the 7 
+performance of essential governmental functions. The authority consists of the following 8 
+5 7 voting members:  9 
+A.  The chair of the Public Utilities Commission or the chair's designee;  10 
+B.  The Chief Information Officer of  the State , or the officer's designee;  11 
+C.  One representative of consumers, appointed by the Governor; and 12 
+D.  Two members with significant knowledge of communications technology, 13 
+appointed by the Governor .; 14 
+E.  The Commissioner of Economic and Community D evelopment or the 15 
+commissioner's designee; and  16 
+F.  One member with significant knowledge of telemedicine as defined in Title 24 -A, 17 
+section 4316, subsection 1, appointed by the Governor.  18 
+Compensation of members is as provided in Title 5, section 12004 -G, su bsection 33 -F. 19 
+2.  Terms; chair; vacancies.   All members are appointed for 3 -year terms.  The 20 
+Governor shall appoint a chair from among the 3 4 members appointed by the Governor. 21 
+In the event of a vacancy in the membership, the Governor shall appoint a rep lacement 22 
+member for the remainder of that vacated term. Each member of the authority serves until 23 
+that member's successor is appointed and qualified. Any member of the authority is 24 
+eligible for reappointment.  25 
+3.  Officers; quorum.   The authority may elect a secretary and a treasurer, who may, 26 
+but need not, be members of the authority. Three  Four  members of the authority 27 
+constitute a quorum, and the affirmative vote of 3 4 members is necessary for any action 28 
+taken by the authority.  29 
+Sec. 5.  35-A MRSA §9203, sub-§6, as enacted by PL 2005, c. 665, §3, is 30 
+repealed.  31 
+Sec. 6.  35-A MRSA §9204, as amended by PL 2009, c. 63, §§1 and 2, is repealed.  32 
+Sec. 7.  35-A MRSA §9204 -A is enacted to read:  33 
+§9204 -A.  Duties of authority  34 
+1.  Establish criteria defining unserved a nd underserved areas.  The authority, by 35 
+rule adopted pursuant to section 9205, subsection 3, shall establish criteria to define 36 
+unserved and underserved areas with respect to broadband service.  Criteria established 37 
+by the authority to define unserved and  underserved areas must include the percentage of 38 
+ 
+ Page 3 - 127LR1013(01) -1 
+ households with access to broadband service within a municipality or other appropriate 1 
+geographic area.  The authority shall use these criteria to determine those areas of the 2 
+State that are unserved or und erserved.  3 
+2.  Promote use of broadband service.  The authority shall promote use of 4 
+broadband service by identifying and sharing best practices that encourage use of 5 
+broadband service, eliminating barriers to use of broadband service and facilitating and 6 
+supporting public -private partnerships to increase use of broadband service.  7 
+3.  Support local and regional broadband planning.   The authority shall provide 8 
+technical and financial assistance to communities in the State that include unserved and 9 
+underserved  areas to identify the need for broadband infrastructure and services and 10 
+develop and implement plans to meet those needs.  11 
+4.  Support broadband investment.  The authority shall expand the availability of 12 
+broadband service to residential and small business  customers in unserved or underserved 13 
+areas by identifying, developing and providing funding for broadband investments that 14 
+will benefit multiple unserved and underserved communities and may be used by multiple 15 
+providers.  16 
+5.  Facilitate state support of de ployment of broadband infrastructure.  The 17 
+authority shall review, recommend and facilitate changes in laws, rules, programs and 18 
+policies of the State and its agencies to further deployment of broadband infrastructure to 19 
+all unserved and underserved areas of the State.  The authority shall assist in identifying 20 
+opportunities to use broadband infrastructure to achieve the state policies and goals as set 21 
+out in section 9202 -A and support coordination between communications providers and 22 
+state and local govern mental entities, including coordination with the statewide 23 
+emergency radio network.  24 
+6.  Collect and disseminate information.  The authority shall collect, aggregate, 25 
+coordinate and disseminate information regarding the availability of and need for 26 
+advanced  communications technology infrastructure in the State and opportunities for 27 
+funding for broadband infrastructure and education.  28 
+7.  Administer funds.  The authority shall administer the ConnectME Fund as 29 
+established pursuant to section 9211.  30 
+8.  Limitatio ns on activities of the authority.  The authority may not develop, 31 
+acquire, fund, coordinate or otherwise undertake any project or make any grant, direct 32 
+investment or loan under this chapter unless the authority determines that without the 33 
+authority's act ion the installation of adequate advanced communications technology 34 
+infrastructure in an unserved or underserved area would not occur within the same time 35 
+period. Notwithstanding any other provision of this chapter, the authority may not 36 
+provide any wireli ne, wireless, satellite, voice, data or video service at retail or wholesale.  37 
+Sec. 8.  35-A MRSA §9206, as enacted by PL 2005, c. 665, §3, is repealed.  38 
+Sec. 9.  35-A MRSA §9208, sub -§2, as enacted by PL 2005, c. 665, §3, is 39 
+amended to read:  40 
+ 
+ Page 4 - 127LR1013(01) -1 
+ 2.  Activities.   Documents the activities of the authority, including review of 1 
+applications for funding received by the authority  a detailed description of the progress 2 
+toward the goals and objectives established in the triennial strategic plan under section 3 
+9218 ; 4 
+Sec. 10.  35-A MRSA §9211, sub -§2, as enacted by PL 2005, c. 665, §3, is 5 
+amended to read:  6 
+2.  Assessment.   After receiving authorization pursuant to Title 5, section 8072 to 7 
+finally adopt major substantive rules under section 9205, subsection 3 or after January  15, 8 
+2007, whichever is later, the authority may require every communications service 9 
+provider to contribute on a competitively neutral basis to the fund.   The assessment may 10 
+not exceed 0.25% of the revenue received or collected for all communications ser vices 11 
+provided in this State by the communications service provider.  A facilities -based 12 
+provider of wireless voice or data retail service may voluntarily agree to be assessed by 13 
+the authority as a communications service provider under this subsection.  14 
+Sec. 11.  35-A MRSA §9216, sub -§4, ¶A, as enacted by PL 2009, c. 612, §10, is 15 
+amended to read:  16 
+A.  Deposit 5% of the funds received under subsection 3 into the ConnectME Fund 17 
+established under section 9211 and may use these funds to support the activities of 18 
+the authority under this section and for the purposes of section 9204  9204 -A; and  19 
+Sec. 12.  35-A MRSA §§9217 and 9218 are enacted to read:  20 
+§9217.  Community broadband planning  21 
+The authority shall provide funds for broadband planning grants to municipaliti es, 22 
+groups of municipalities in the same region of the State or private or public organizations 23 
+to develop plans to expand the availability of broadband services in unserved and 24 
+underserved areas.  25 
+1.  Requirements of plans.  Plans funded through grants und er this section must:  26 
+A.  Define local broadband needs and goals;  27 
+B.  Inventory existing broadband infrastructure assets within the municipality, 28 
+municipalities or region;  29 
+C.  Include a gap analysis defining the additional broadband infrastructure necessar y 30 
+to meet identified needs and goals;  31 
+D.  Include initial network design, cost estimate, operating models and potential 32 
+business models and partners to support the investment necessary to fill any 33 
+broadband gap identified in paragraph C; and  34 
+E.  Include an  assessment of all municipal procedures, policies, rules and ordinances 35 
+that have the effect of delaying or increasing the cost of broadband infrastructure 36 
+deployment.  37 
+ 
+ Page 5 - 127LR1013(01) -1 
+ The authority shall make all plans developed using grant funds under this section 1 
+availa ble on the authority's publicly accessible website.  2 
+2.  Rules.  The authority shall adopt rules to ensure that grants are equitably 3 
+distributed throughout the unserved and underserved areas of the State and that the grants 4 
+encourage collaboration between m ultiple communities. Rules adopted pursuant to this 5 
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 6 
+3.  Precertification.  The authority may establish a precertification process to 7 
+determine eligibility for grants  pursuant to this section to encourage adoption of identified 8 
+best practices by participating municipalities.  9 
+§9218.  Broadband service strategic plan  10 
+1.  Broadband service strategic plan.  The authority shall draft a detailed, triennial 11 
+strategic plan for  broadband service that includes quantifiable measures of performance 12 
+to carry out the duties in section 9204 -A and to further the goals and policies in section 13 
+9202 -A.  The strategic plan must include, but is not limited to, budget allocations, 14 
+objectives , targets, measures of performance, implementation strategies, timelines, a 15 
+definition of "broadband" and other relevant information.  16 
+2.  Public input.  The authority shall post the draft of the triennial strategic plan 17 
+pursuant to subsection 1 on the auth ority's publicly accessible website 90 days before the 18 
+date on which the plan will be voted on and provide opportunity for written comments 19 
+and a public hearing at least 30 days prior to voting.  20 
+3.  Approval of triennial strategic plan.  The authority shal l approve the triennial 21 
+strategic plan pursuant to subsection 1 by affirmative vote of 2/3 of its members upon a 22 
+finding that the plan is consistent with the policies, duties and requirements of the 23 
+authority as set forth in this chapter.  24 
+Sec. 13.  Trienni al strategic plan for broadband service.  By December 31, 25 
+2015, the ConnectME Authority shall establish and approve the first triennial strategic 26 
+plan for broadband service pursuant to the Maine Revised Statutes, Title 35 -A, section 27 
+9218.  28 
+SUMMARY  29 
+This bill  amends the Advanced Technology Infrastructure Act.  It amends the 30 
+definitions of "communications service" and "communications service provider."  It 31 
+makes changes to the State's goals and policies in the Act.  It amends the membership of 32 
+the ConnectME Aut hority and amends the duties of the authority.  It requires the 33 
+authority to provide funds for broadband planning grants.  It abolishes the ConnectME 34 
+Advisory Council.  It requires the authority to establish a triennial strategic plan for 35 
+broadband service  and to report to the Legislature on progress toward meeting the plan's 36 
+goals and objectives.  37 
+ 

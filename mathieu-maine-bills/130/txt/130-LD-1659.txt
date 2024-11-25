@@ -1,0 +1,208 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1659
+H.P. 1230 House of  Representatives, May 5, 2021
+An Act  To Create the Maine Clean Energy and Sustainability 
+Accelerator
+Received by the Clerk of the House on May  3, 2021.  Referred  to the Committee on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative ZEIGLER  of Montville.
+Cosponsored by Senator CARNEY  of Cumberland and
+Representatives: CUDDY of Winterport,  DODGE  of Belfast, Speaker FECTEAU of 
+Biddeford, GROHOSKI of Ellsworth, KESSLER of South Portland, MILLETT of Waterford, SACHS of Freeport, Senator: BENNETT of Oxford.
+
+Page 1 - 130LR0553(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §10104, sub-§13 is enacted to read:
+313.  Maine Clean Energy and Sustainability Accelerator.  The trust shall administer 
+4 the Maine Clean Energy and Sustainability Accelerator under section 10128.
+5Sec. 2.  35-A MRSA §10128 is enacted to read:
+6§10128.  Maine Clean Energy and Sustainability Accelerator
+71.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+8 following terms have the following meanings.
+9 A.  "Accelerator" means the Maine Clean Energy and Sustainability Accelerator, a 
+10 dedicated, specialized finance entity under the trust that:
+11 (1)  Is designed to drive private capital into market gaps for goods and services 
+12 producing low or zero greenhouse gas emissions;
+13 (2)  Uses finance tools to mitigate climate change;
+14 (3)  Does not take deposits;
+15 (4)  Is funded by government, public, private or charitable contributions; and
+16 (5)  Invests in or finances projects:
+17 (a)  Alone; or
+18 (b)  In conjunction with other investors.
+19 B.  "Alternative fuel vehicle project" means any project, technology, product, service, 
+20 function or measure that supports the development or deployment of alternative fuels 
+21 used for electricity generation, alternative fuel vehicles and related infrastructure, 
+22 including infrastructure for electric vehicle charging stations, and that does not include 
+23 the combustion of fossil fuels.
+24 C.  "Climate resilient infrastructure project" means any project that builds or enhances 
+25 infrastructure so that such infrastructure:
+26 (1)  Is planned, designed and operated in a way that anticipates, prepares for and 
+27 adapts to changing climate conditions; and
+28 (2)  Can withstand, respond to and recover rapidly from disruptions caused by these 
+29 climate conditions.
+30 D.  "Demand response project" means any project, technology, product, service, 
+31 function or measure that changes the usage of electricity by retail customers from 
+32 normal consumption patterns in response to:
+33 (1)  Changes in the price of electricity over time; or
+34 (2)  Incentive payments designed to induce lower electricity use at times of high 
+35 market prices or when system reliability is jeopardized.
+36 E.  "Electrification" means the installation, construction or use of end-use electric 
+37 technology that replaces existing technology based on fossil fuel consumption.
+Page 2 - 130LR0553(01)1 F.  "Energy efficiency project" means any project, technology, product, service, 
+2 function or measure that results in the reduction of energy use required to achieve the 
+3 same level of service or output obtained before the application of the project, 
+4 technology, product, service, function or measure.
+5 G.  "Fuel switching" means any project that replaces a heating system or industrial 
+6 process using fossil fuels with a system or process that uses a different fuel and 
+7 achieves lower net greenhouse gas emissions.
+8 H.  "Greenhouse gas" has the same meaning as in Title 38, section 574, subsection 1.
+9 I.  "Microgrid" means a group of interconnected loads and distributed energy resources 
+10 within clearly defined electrical boundaries that acts as a single controllable entity in a 
+11 larger electrical grid and that can connect to and disconnect from the larger grid to 
+12 operate in either grid-connected or isolation mode.
+13 J.  "Qualified projects'' means the following kinds of technologies and activities that 
+14 are eligible for financing and investment from the accelerator:
+15 (1)  Renewable energy generation, including:
+16 (a)  Solar, wind and geothermal projects;
+17 (b)  Projects using small-scale hydropower that produce 30 megawatts or less 
+18 of electricity;
+19 (c)  Projects using ocean and hydrokinetic power generation;
+20 (d)  Projects using fuel cells to store energy; and
+21 (e)  Projects powered by nonhazardous organic biomass and anaerobic 
+22 digestion of organic waste;
+23 (2)  Building energy efficiency, fuel switching and electrification;
+24 (3)  Industrial decarbonization;
+25 (4)  Grid technology such as storage to support clean energy distribution, including 
+26 microgrids and smart grid applications as described in section 3143;
+27 (5)  Agriculture projects that reduce net greenhouse gas emissions, including 
+28 reforestation, afforestation, forestry management and regenerative agriculture;
+29 (6)  Clean transportation, including battery electric vehicles; plug-in hybrid electric 
+30 vehicles; hydrogen vehicles; other zero-emissions fueled vehicles; related vehicle 
+31 charging and fueling infrastructure; and low-emissions mass public transit;
+32 (7)  Climate resilient infrastructure projects; and
+33 (8)  Any other key areas identified by the board as consistent with the mandate of 
+34 the accelerator as described in subsection 3.
+35 K.  "Renewable energy generation" means electricity created by sources that are 
+36 continually replenished by nature, such as the sun, wind and water.
+37 L.  "Renewable energy project" means the development, construction, deployment, 
+38 alteration or repair of any project, technology, product, service, function or measure 
+39 that generates electric power from renewable energy.
+Page 3 - 130LR0553(01)1 M.  "System efficiency project" means the development, construction, deployment, 
+2 alteration or repair of any distributed generation system, energy storage system, smart 
+3 grid technology, advanced battery system, microgrid system, fuel cell system or 
+4 combined heat and power systems.
+5 N.  "Vulnerable communities" means:
+6 (1)  Low-income communities, defined as any geographical unit for which the 
+7 United States Census Bureau publishes sample data in which 30% or more of the 
+8 population are individuals with low income;
+9 (2)  Low-income households, defined as a household with annual income equal to, 
+10 or less than, the greater of:
+11 (a)  An amount equal to 80% of the median income of the area in which the 
+12 household is located, as reported by the federal Department of Housing and 
+13 Urban Development; and
+14 (b)  Two hundred percent of the federal poverty line.
+15 (3)  Communities of color and tribal communities, which include any 
+16 geographically distinct area in which the population of color is higher than the 
+17 average population of color of the State.
+182.  Establishment.  The Maine Clean Energy and Sustainability Accelerator is 
+19 established under the trust and is administered by the trust.
+203.  Mandate.  The accelerator shall help this State combat the causes and effects of 
+21 climate change through the rapid deployment of mature technologies and the 
+22 commercialization and scaling of new technologies by maximizing the reduction of 
+23 greenhouse gas emissions in this State for every dollar deployed by the accelerator, 
+24 including by:
+25 A.  Providing financing support for investments in low-emissions and zero-emissions 
+26 technologies and processes in order to rapidly accelerate market penetration;
+27 B.  Catalyzing and mobilizing private capital through public investment and supporting 
+28 a more robust marketplace for clean technologies, while minimizing competition with 
+29 private investment;
+30 C.  Enabling communities affected by climate change to benefit from and afford 
+31 projects and investments that reduce greenhouse gas emissions;
+32 D.  Providing support for workers and communities affected by the transition to a low-
+33 carbon economy; and
+34 E.  Causing the rapid transition to a clean energy economy without raising energy costs 
+35 to end users and seeking to lower costs when possible.
+364.  Finance and investment.  The following provisions govern the finance and 
+37 investment activities of the accelerator.
+38 A.  The accelerator may provide finance and investment services, including but not 
+39 limited to:
+40 (1)  Originating, evaluating, underwriting and closing financing and investment 
+41 transactions in qualified projects;
+Page 4 - 130LR0553(01)1 (2)  Partnering with private capital providers and capital markets to attract co-
+2 investment from private banks, community development financial institutions, 
+3 investors and others in order to drive new investment into underpenetrated markets, 
+4 to increase the efficiency of private capital markets with respect to investing in 
+5 greenhouse gas reduction projects and to increase total investment caused by the 
+6 accelerator;
+7 (3)  Managing the accelerator's portfolio of assets to ensure performance and 
+8 monitor risk;
+9 (4)  Ensuring appropriate debt and risk mitigation products are offered; and
+10 (5)  Overseeing prudent, noncontrolling equity investments.
+11 B.  The accelerator may provide capital to qualified projects in the form of:
+12 (1)  Debt financing;
+13 (2)  Credit enhancements, including loan loss reserves and loan guarantees;
+14 (3)  Aggregation and warehousing;
+15 (4)  Equity capital; and
+16 (5)  Any other financial product approved by the board.
+175.  Zero-emissions fleet and related infrastructure financing program.  The 
+18 accelerator shall explore the establishment of a program to provide low-interest and zero-
+19 interest loans, up to 30 years in length, to any school, municipal planning organization or 
+20 nonprofit organization seeking financing for the acquisition of zero greenhouse gas 
+21 emissions vehicle fleets or associated infrastructure to support zero greenhouse gas 
+22 emissions vehicle fleets.
+236.  Project prioritization and requirements.  The following provisions govern project 
+24 prioritization and requirements.
+25 A.  While investing in projects that mitigate greenhouse gas emissions, the accelerator 
+26 shall maximize the reduction of greenhouse gas emissions in this State for every dollar 
+27 deployed by the accelerator.
+28 B.  The accelerator shall ensure that 40% of its investment activity is directed to serve 
+29 vulnerable communities.
+30 C. The accelerator shall ensure that workers employed by contractors and 
+31 subcontractors in construction work on projects over $100,000 in total cost, financed 
+32 all or in part by the accelerator, are paid wages not less than those prevailing on similar 
+33 construction in the locality.
+347.  Administration.  The following provisions govern administration.
+35 A.  The accelerator may be capitalized with federal funds available from a national 
+36 clean energy and sustainability accelerator and may accept other federal funds as 
+37 available.
+38 B.  To sustain operations, the accelerator shall manage revenue from financing fees, 
+39 interest, repaid loans and other types of funding.
+Page 5 - 130LR0553(01)1 C.  The accelerator shall create a publicly available annual report that describes the 
+2 financial activities, greenhouse gas emissions reductions and private capital 
+3 mobilization metrics of the accelerator for the previous year.
+4 D.  The accelerator may not accept deposits.
+5 E.  The accelerator may accept and use philanthropic funds.
+6SUMMARY
+7 This bill creates the Maine Clean Energy and Sustainability Accelerator to support the 
+8 development of clean energy and sustainability projects and infrastructure through 
+9 providing financing support, including loans, loan guarantees and other financial and risk 
+10 mitigation products.  The accelerator is administered by the Efficiency Maine Trust.7
+8
+9
+10

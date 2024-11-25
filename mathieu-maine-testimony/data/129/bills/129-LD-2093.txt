@@ -1,0 +1,80 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2093
+S.P. 744 In Senate, February 4, 2020
+An Act  Regarding Net Energy Billing Limits
+(AFTER  DEADLINE)
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+205.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by President JACKSON of Aroostook.
+Cosponsored by Representative MARTIN of Sinclair and
+Senators: CARPENTER of Aroostook, MIRAMANT of Knox,  Representatives: BERRY of 
+Bowdoinham, McCREA of Fort Fairfield.
+
+Page 1 - 129LR3127(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3209-A, sub-§3, as enacted by PL 2019, c. 478, Pt. A, §3, 
+3is amended to read:
+43.  Shared financial interest for investor-owned utility customers; limitation.  
+5Multiple customers of an investor-owned transmission and distribution utility that have 
+6distinct billing accounts with that utility may share a financial interest in a distributed 
+7generation resource under subsection 2.  Any number of customers of an investor-owned 
+8transmission and distribution utility with a shared financial interest in a distributed 
+9generation resource may participate in net energy billing, except that the number of 
+10eligible customers or meters is limited to 10 for a shared financial interest in a distributed 
+11generation resource located in the service territory of an investor-owned transmission and 
+12distribution utility located in an area administered by the independent system 
+13administrator for northern Maine or any successor of the independent system 
+14administrator for northern Maine unless the commission determines that the utility's 
+15billing system can accommodate more than 10 accounts or meters for the purpose of net 
+16energy billing.
+17Sec. 2.  35-A MRSA §3209-B, sub-§4, as enacted by PL 2019, c. 478, Pt. A, §4, 
+18is amended to read:
+194.  Shared financial interest; limitation.  Multiple commercial or institutional 
+20customers that have distinct billing accounts with an investor-owned transmission and 
+21distribution utility may share a financial interest in a distributed generation resource 
+22under subsection 2.  Any number of commercial or institutional customers may 
+23participate in net energy billing with a shared interest in a distributed generation resource, 
+24except that the number of customers or meters is limited to 10 for a shared interest in a 
+25distributed generation resource located in the service territory of an investor-owned 
+26transmission and distribution utility located in an area administered by the independent 
+27system administrator for northern Maine or any successor of the independent system 
+28administrator for northern Maine unless the commission determines that the utility's 
+29billing system can accommodate more than 10 accounts or meters for the purpose of net 
+30energy billing.
+31SUMMARY
+32Under current law, any number of customers of an investor-owned transmission and 
+33distribution utility with a shared financial interest in a distributed generation resource 
+34may participate in net energy billing, except that the number of eligible customers or 
+35meters is limited to 10 for a shared financial interest in a distributed generation resource 
+36located in the service territory of an investor-owned transmission and distribution utility 
+37located in an area administered by the independent system administrator for northern 
+38Maine unless the Public Utilities Commission determines that the utility's billing system 
+39can accommodate more than 10 accounts or meters for the purpose of net energy billing.  
+40This bill removes this exception.

@@ -1,0 +1,103 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1383
+H.P. 1004 House of  Representatives, March 26, 2019
+An Act  To Amend Maine's Municipal Land Use and Eminent 
+Domain Laws  Regarding  Transmission and  Distribution Utilities
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GRIGNON of Athens.
+
+Page 1 - 129LR1195(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  30-A MRSA §4352, sub-§4, as amended by PL 2009, c. 615, Pt. G, §1, is 
+3further amended to read:
+44.  Exemptions.  Real estate used or to be used by a public utility, as defined in Title 
+535-A, section 102, subsection 13, by a person who is issued a certificate by the Public 
+6Utilities Commission under Title 35-A, section 122 or by a renewable ocean energy 
+7project as defined in Title 12, section 1862, subsection 1, paragraph F-1 is wholly or 
+8partially exempt from an ordinance only when on petition, notice and public hearing the 
+9Public Utilities Commission determines that the exemption is reasonably necessary for 
+10public welfare and convenience.  The exemptions provided in this subsection do not 
+11apply to elective transmission upgrades.  The Public Utilities Commission shall adopt by 
+12rule procedures to implement this subsection.  Rules adopted pursuant to this subsection 
+13are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.  For 
+14purposes of this subsection, "elective transmission upgrade" means a proposed 
+15transmission line for which a person developing the transmission line has agreed to pay 
+16all of the costs of the transmission line without passing those costs on to the ratepayers.
+17Sec. 2.  35-A MRSA §3136, sub-§1, as amended by PL 2007, c. 148, §12, is 
+18repealed and the following enacted in its place:
+191.  Prior approval needed to take land for location of transmission lines carrying 
+205,000 volts or more.  A transmission and distribution utility may take and hold by right 
+21of eminent domain lands and easements necessary for the proper location of its 
+22transmission lines that are designed to carry voltages of 5,000 volts or more and of 
+23necessary appurtenances, located within the territory in which the utility is authorized to 
+24do public utility business, only if the public utility:
+25A.  Obtains the prior approval of the body of government having jurisdiction over the 
+26territory in which the land or easement is located;
+27B.  Obtains the approval of the commission pursuant to subsection 4; and
+28C.  Takes the land or easement in the same manner and under the same conditions as 
+29set forth in chapter 65.
+30Sec. 3.  35-A MRSA §3136, sub-§3, as amended by PL 2007, c. 148, §13, is 
+31further amended to read:
+323.  Prior right to locate distribution lines and appurtenances in right-of-way 
+33limits of public way.  Subject to prior approval of the body of government having 
+34jurisdiction over the territory in which the land or easement is located and approval by the 
+35commission under subsection 4, transmission and distribution utilities may take and hold 
+36by right of eminent domain land or easements necessary for the proper location of their 
+37distribution lines and the necessary appurtenances, but only where the transmission and 
+38distribution utilities had a prior right to locate their distribution lines and necessary 
+39appurtenances in the right-of-way limits of a public way and the body having jurisdiction 
+40over the public way has caused the utility to remove its distribution lines and appurtenant 
+Page 2 - 129LR1195(01)-11structures outside the right-of-way limits of the public way.  This right does not apply to 
+2lands or easements as specified in subsection 2, paragraphs B, C, D and E.
+3Sec. 4.  35-A MRSA §3136, sub-§4, as amended by PL 2007, c. 148, §14, is 
+4further amended to read:
+54.  Commission approval required; certificate of public convenience and 
+6necessity; environmental factors.  A location to be taken by eminent domain for such 
+7transmission or distribution lines must be approved first by the body of government 
+8having jurisdiction over the territory in which the land or easement is located and then by 
+9the commission before a transmission and distribution utility can exercise the right of 
+10eminent domain granted in subsection 1 or subsection 3. The commission may not 
+11approve a location to be taken by eminent domain for the construction, rebuilding or 
+12relocation of a transmission line that requires a certificate of public convenience and 
+13necessity under section 3132, unless the commission has issued a certificate of public 
+14convenience and necessity for that transmission line.  Environmental factors to be 
+15considered for proper location of a transmission line are not subject to review by the 
+16commission under this section when the location of the transmission line has received site 
+17location of development approval under Title 38, section 484.
+18SUMMARY
+19This bill requires a transmission and distribution utility, prior to taking land or an 
+20easement by eminent domain, to obtain the approval of the body of government having 
+21jurisdiction over the land or easement.  Following approval by the body of government, 
+22the transmission and distribution utility is still required to obtain a certificate of public 
+23convenience and necessity from the Public Utilities Commission.
+24The bill makes explicit that the exemption from municipal zoning ordinances 
+25regarding real estate used by public utilities does not apply to an elective transmission 
+26upgrade, which is a transmission line for which a person developing the transmission line 
+27has agreed to pay all of the costs of developing the transmission line without passing 
+28those costs on to ratepayers.

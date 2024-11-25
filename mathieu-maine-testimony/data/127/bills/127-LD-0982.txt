@@ -1,0 +1,146 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 982  
+S.P. 344  In Senate, March 18, 2015  
+ 
+ 
+An Act Requiring a Permit and Motor Vehicle Liability Insurance 
+for Transportation Network Companies  
+ 
+ 
+ 
+ 
+Reference to the Committee on Transportation suggested and ordered printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator COLLINS of York.  
+Cosponsored by Representative McLEAN of Gorham and  
+Senators: CYRWAY of Kennebec, DIAMOND of Cumberland, HAMPER of Oxford, 
+LANGLEY of Hancock, Representatives: BRYANT of Windham, HOGAN of Old Orchard 
+Beach, PARRY of Arundel, RYKERSON of Kittery.  
+ 
+ 
+
+ 
+ Page 1 - 127LR1356(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  29-A MRSA c. 13, sub -c. 4 is enacted to read:  2 
+SUBCHAPTER 4  3 
+TRANSPORTATION NETWO RK COMPANIES  4 
+§1671.  Definitions  5 
+As used in this subchapter, unless the context otherwise indicates, the f ollowing 6 
+terms have the following meanings.  7 
+1.  Driver.  "Driver" means an individual who uses a personal motor vehicle to 8 
+provide services to a passenger matched through a transportation network company's 9 
+digital network.  A driver need not be an employee  of a transportation network company.  10 
+2.  Passenger.  "Passenger" means a passenger in a transportation network company 11 
+vehicle for whom service is provided for compensation, including an individual who uses 12 
+a transportation network company's online applic ation or digital network to connect with 13 
+a driver to obtain services in the driver's transportation network company vehicle for the 14 
+individual and anyone in the individual's party and anyone for whom another individual 15 
+uses a transportation network company 's online application or digital network to connect 16 
+with a driver to obtain services in the driver's transportation network company vehicle.  17 
+3.  Transportation network company.  "Transportation network company" means a 18 
+corporation, partnership, sole propri etorship or other entity that uses a digital network to 19 
+connect a passenger with a driver for the purpose of providing transportation for 20 
+compensation.  "Transportation network company" does not include a transportation 21 
+broker arranging nonemergency medica l transportation for Medicaid or Medicare 22 
+members pursuant to a contract with the State or a managed care organization.  23 
+4.  Transportation network company services.  "Transportation network company 24 
+services" or "services" means the provision of transportat ion by a driver to a passenger 25 
+with whom the driver is matched through a transportation network company.  26 
+5.  Transportation network company vehicle.  "Transportation network company 27 
+vehicle" means a personal motor vehicle used by a driver in connection wit h providing 28 
+services.  29 
+§1672.  Transportation network company permit  30 
+1.  Permit required.  A person may not operate a transportation network company 31 
+without a permit issued by the Secretary of State, subject to the following conditions.  32 
+A.  An application f or a permit under this section must be made on a form provided 33 
+or approved by the Secretary of State.  34 
+B.  The permit under this section is valid for a period of one year.  35 
+ 
+ Page 2 - 127LR1356(01) -1 
+ C.  The annual fee for a permit under this section is $25,000.  1 
+D.  A transportation n etwork company shall maintain insurance pursuant to section 2 
+1673.  3 
+2.  Termination of permit.  The Secretary of State shall terminate a permit under 4 
+this section for failure to maintain insurance required by section 1673.  The Secretary of 5 
+State may not rei ssue a permit terminated under this subsection until:  6 
+A.  A reinstatement fee of $1,000 is paid to the Secretary of State; and  7 
+B.  Subsequent to the termination, the transportation network company pays the 8 
+annual permit fee under subsection 1 and provides proof of insurance under section 9 
+1673.  10 
+3.  Penalty.  A violation of this section is a Class D crime.  11 
+§1673.  Insurance requirements  12 
+1.  Insurance required.  A transportation network company shall maintain insurance 13 
+pursuant to this section.  14 
+2.  Proof of in surance.  The Secretary of State shall certify proof of insurance prior 15 
+to issuing a permit under section 1672.  The Secretary of State may not certify an 16 
+insurance policy as proof of insurance unless the policy meets the requirements of 17 
+subsection 4 and u ntil a copy of the form of policy has been on file with the 18 
+Superintendent of Insurance for a least 30 days or the Superintendent of Insurance has 19 
+approved in writing the form of the policy under subsection 3.  20 
+3.  Form.  The form of policy under this secti on must contain:  21 
+A.  The name and address of the insured;  22 
+B.  The conditions of coverage sufficient to identify whether or not a given vehicle is 23 
+covered at a given time;  24 
+C.  The premium charges;  25 
+D.  The policy period;  26 
+E.  The limits of liability;  27 
+F.  An a greement that insurance is provided pursuant to this section; and  28 
+G.  A requirement that the transportation network company disclose to every driver 29 
+that the driver's personal automobile insurance coverage may not apply to the driver's 30 
+transportation netwo rk company vehicle while the driver is providing services.  31 
+4.  Required provisions.  An insurance policy under this section must:  32 
+A.  Provide primary coverage in the amount of at least $1,000,000 for death, personal 33 
+injury and property damage per occurrenc e for transportation network company 34 
+vehicles from the moment the driver is logged into the transportation network 35 
+company network until the driver logs off the network;  36 
+ 
+ Page 3 - 127LR1356(01) -1 
+ B.  Provide uninsured and underinsured motorist coverage in the amount of at least 1 
+$1,000,000 per occurrence from the moment the driver is logged into the 2 
+transportation network company network until the driver logs off the network;  3 
+C.  Provide primary comprehensive collision coverage equal to that coverage in the 4 
+policy insuring the driver 's vehicle that is listed in the policy; and  5 
+D.  Comply with section 1606, subsections 2 to 6.  6 
+§1674.  Municipal authority  7 
+A municipality may adopt an ordinance, regulation or procedure governing the 8 
+operations of a transportation network company or driver  that is not in conflict or 9 
+inconsistent with this subchapter.  10 
+SUMMARY  11 
+This bill creates a permitting process for transportation network companies to provide 12 
+transportation services, establishes minimum motor vehicle liability insurance 13 
+requirements for tr ansportation network companies and allows municipalities to regulate 14 
+transportation network companies and drivers.  15 
+ 

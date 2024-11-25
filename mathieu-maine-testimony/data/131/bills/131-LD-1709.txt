@@ -1,0 +1,161 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1709
+H.P. 1098 House of Representatives, April 18, 2023
+An Act to Establish a Baseline of Consistency and Safety for the 
+Operation of Construction Cranes and Elevators
+Reference to the Committee on Innovation, Development, Economic Advancement and 
+Business suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ROBERTS of South Berwick.
+Cosponsored by Representatives: HASENFUS of Readfield, LaROCHELLE of Augusta, 
+MASTRACCIO of Sanford, SAYRE of Kennebunk.
+
+Page 1 - 131LR2160(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  32 MRSA c. 133-A is enacted to read:
+3CHAPTER 133-A
+4OPERATORS OF CONSTRUCTION CRANES AND ELEVATORS
+5§15301. Definitions
+6 As used in this chapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Commissioner.  "Commissioner" means the Commissioner of Professional and 
+9 Financial Regulation.
+102. Contractor.  "Contractor" means a person who employs or contracts with a person 
+11 to operate a crane or an elevator or to train a crane operator or an elevator operator.
+123. Covered person.  "Covered person" means a crane operator, crane trainer, elevator 
+13 operator or elevator trainer.
+144.  Crane.  "Crane" means a fixed or mobile machine used in construction for lifting, 
+15 lowering and horizontally moving a load, with the hoisting mechanism as an integral part 
+16 of the machine, as described in 29 Code of Federal Regulations, Section 1926.1400 (2020).
+175.  Crane operator.  "Crane operator" means a person who operates a crane.
+186. Crane trainer.  "Crane trainer" means a person who trains a crane operator.
+197.  Elevator.  "Elevator" means a fixed hoisting and lowering mechanism used in 
+20 construction for lifting or lowering personnel.   
+218. Elevator operator.  "Elevator operator" means a person who operates an elevator.
+229. Elevator trainer.  "Elevator trainer" means a person who trains an elevator operator.
+2310. General contractor.  "General contractor" means a person who employs or 
+24 contracts for the services of a contractor.
+25§15302.  Registration and training
+26 Beginning January 1, 2024, a person may not operate a crane, train a crane operator, 
+27 operate an elevator or train an elevator operator unless that person has met the training 
+28 requirements established under subsection 1 and has registered with the commissioner in 
+29 accordance with subsection 2.  
+301. Training.  The commissioner shall by rule establish training requirements for 
+31 covered persons in accordance with this subsection.
+32 A. An elevator operator or an elevator trainer shall complete a safety training program 
+33 that involves:
+34 (1) At least 10 hours of training that the commissioner determines to meet 
+35 applicable standards established by the United States Department of Labor, 
+36 Occupational Safety and Health Administration; and 
+Page 2 - 131LR2160(01)1 (2) At least 5 hours of training, in addition to the training in subparagraph (1), that 
+2 includes a demonstrated knowledge of the American National Standards Institute's 
+3 and American Society of Safety Engineers' publication "Safety Requirements For 
+4 Personnel Hoists And Employee Elevators For Construction And Demolition 
+5 Operations," ANSI/ASSE A10.4-2004, and the United States Department of 
+6 Labor, Occupational Safety and Health Administration's Standard Number 
+7 1926.552, Material hoists, personnel hoists and elevators.
+8 B. A crane operator or a crane trainer shall:
+9 (1) Complete a safety training program that involves at least 10 hours of training 
+10 that the commissioner determines to meet applicable standards established by the 
+11 United States Department of Labor, Occupational Safety and Health 
+12 Administration; and
+13 (2) Be certified in crane operation by an accredited national organization that 
+14 certifies crane operators approved by the commissioner.
+152. Registration. The commissioner shall establish a registry of covered persons in 
+16 accordance with this subsection.
+17 A. A covered person shall register with the commissioner on a form and in the manner 
+18 established by the commissioner by rule.  
+19 B. The registrant shall confirm in writing, under penalty of perjury, that the registrant 
+20 has met the requirements of subsection 1.
+21 C. The fee for a registration is $50.  A registration is valid for 2 calendar years from 
+22 the date of the registration and may be renewed upon payment of the registration fee.
+233. Rules.  The commissioner shall adopt rules to implement this section.  Rules adopted 
+24 by the commissioner under this subsection are routine technical rules as defined in Title 5, 
+25 chapter 375, subchapter 2-A.
+26§15303.  Sanctions
+27 The Attorney General may investigate and bring an appropriate action against any 
+28 person who violates this chapter.
+291. False information.  A covered person may not provide false or incomplete 
+30 information in any registration under section 15302, subsection 2.  
+31 A. A covered person who violates this subsection commits a civil violation for which 
+32 a fine of at least $100 and up to $500 may be adjudged.  
+33 B. The commissioner shall permanently revoke the registration of a covered person 
+34 who is found to have provided 6 or more instances of false or incomplete information 
+35 in a registration.  The commissioner, on appeal by the covered person, after notice and 
+36 a hearing, may shorten the revocation period to no less than 6 months if the covered 
+37 person provides to the commissioner proof satisfactory that:
+38 (1) The person has met all the training requirements for registration under section 
+39 15302, subsection 1;
+40 (2) With respect to registration as an elevator operator or elevator trainer, that the 
+41 person has, subsequent to the revocation, completed at least 5 hours of training, in 
+42 addition to the training in subparagraph (1), that includes a demonstrated 
+Page 3 - 131LR2160(01)43 knowledge of the American National Standards Institute's and American Society 
+44 of Safety Engineers' publication "Safety Requirements For Personnel Hoists And 
+45 Employee Elevators For Construction And Demolition Operations," ANSI/ASSE 
+46 A10.4-2004, and the United States Department of Labor, Occupational Safety and 
+47 Health Administration's Standard Number 1926.552, Material hoists, personnel 
+48 hoists and elevators; and
+7 (3) With respect to registration as a crane operator or crane trainer, that the person 
+8 has completed at least 10 hours of training in crane operation given by an 
+9 accredited national organization that certifies crane operators approved by the 
+10 commissioner.
+112. Hiring unregistered covered person.  A contractor may not employ or contract 
+12 with a person to operate a crane or an elevator or to train a crane operator or an elevator 
+13 operator if the person is not registered in accordance with section 15302, subsection 2 or 
+14 the registration of that person is revoked under subsection 1 or if the contractor knows or 
+15 has reason to know that the person is not otherwise in compliance with this chapter. 
+16 A.  A contractor who violates this subsection commits a civil violation for which a fine 
+17 of  $500 per employee per day of violation, not to exceed $10,000 in any calendar year, 
+18 may be adjudged.
+19 B.  If the court finds that the contractor has violated this subsection in a manner that 
+20 results in the maximum fine under paragraph A, the court shall enjoin the contractor 
+21 from employing in this State any person to operate a crane or an elevator or to train a 
+22 crane operator or an elevator operator for a period of 12 months from the date of the 
+23 adjudication.
+243.  Contracting with violating subcontractor. A general contractor may not employ 
+25 or contract with a subcontractor who is subject to an injunction under subsection 2, 
+26 paragraph B or a subcontractor whom the general contractor knows or has reason to know 
+27 is not in compliance with this chapter.  
+28 A.  A general contractor who violates this subsection commits a civil violation for 
+29 which a fine of $1,000 per subcontractor per day of violation, not to exceed $100,000 
+30 in any calendar year, may be adjudged.
+31SUMMARY
+32 This bill does the following:
+33 1.  Requires operators of construction cranes and elevators to be trained and to register 
+34 with the Commissioner of Professional and Financial Regulation;
+35 2.  Prohibits contractors from hiring persons who are not in compliance with the 
+36 training and registration requirements;
+37 3.  Prohibits general contractors from contracting with contractors who hire persons 
+38 not in compliance with the training and registration requirements; and
+39 4.  Provides for civil penalties for violations of the training and registration 
+40 requirements and the hiring prohibitions.1
+2
+3
+4
+5
+6
+32

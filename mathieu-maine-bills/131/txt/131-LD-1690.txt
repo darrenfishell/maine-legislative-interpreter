@@ -1,0 +1,100 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1690
+S.P. 677 In Senate, April 18, 2023
+An Act Regarding Ongoing Absentee Voting and Tracking of 
+Absentee Ballots
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator DAUGHTRY of Cumberland.
+Cosponsored by Speaker TALBOT ROSS of Portland and
+Senators: HICKMAN of Kennebec, VITELLI of Sagadahoc, Representatives: RIELLY of 
+Westbrook, SUPICA of Bangor.
+
+Page 1 - 131LR0563(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §753-A, sub-§8, as enacted by PL 2021, c. 398, Pt. UUUU, 
+3 §3 and affected by §7, is amended to read:
+48.  Application for ongoing absentee voter status.  A Any voter who will be at least 
+5 65 years of age by the next election or who self-identifies as having a disability may apply 
+6 for status as an ongoing absentee voter.  Each qualified applicant must automatically 
+7 receive an absentee ballot for each ensuing statewide election, municipal election and any 
+8 other election for which the voter is entitled to vote and need not submit a separate request 
+9 for each election.
+10 A.  An application for status as an ongoing absentee voter must be made by a voter 
+11 using procedures designed by the Secretary of State.  These procedures must include a 
+12 process for notifying the voter that if the voter moves out of the municipality, that 
+13 voter's status as an ongoing absentee voter in that municipality terminates.  A voter 
+14 may apply for status as an ongoing absentee voter in the same manner as a voter 
+15 requesting an absentee ballot under this section or at any time the voter is able to 
+16 register to vote or update the voter’s voter registration under chapter 3.  A voter may 
+17 obtain assistance in completing an application for ongoing absentee voter status 
+18 pursuant to subsection 5.
+19 B.  The clerk or Secretary of State shall terminate a voter's ongoing absentee voter 
+20 status only upon:
+21 (1)  The written request of the voter;
+22 (2)  The death or disqualification of the voter;
+23 (3)  The cancellation of the voter's registration record in the central voter 
+24 registration system; or
+25 (4)  The return of an absentee ballot as undeliverable; .
+26 ( 5)  The failure of the voter to vote by absentee ballot for a general election; or
+27 ( 6)  The designation of the voter's status as inactive in the central voter registration 
+28 system.
+29 This subsection does not apply to uniformed service voters or overseas voters who are 
+30 covered by the federal Uniformed and Overseas Citizens Absentee Voting Act, 52 United 
+31 States Code, Section 20302 (2019).
+32Sec. 2.  21-A MRSA §765, as enacted by PL 2021, c. 273, §28, is repealed and the 
+33 following enacted in its place:
+34§765.  Absentee ballot tracking and notification system
+351.  Absentee ballot tracking.  The Secretary of State shall establish and maintain an 
+36 online service that allows a voter who requests an absentee ballot to track the status of the 
+37 absentee ballot process, including by use of a telephone hotline.
+382.  Automatic notification system.  The Secretary of State shall automatically notify 
+39 a voter who provides contact information pursuant to section 753-A, subsection 9 of the 
+40 status of the voter’s ballot when:
+41 A.  The ballot is mailed to the voter;
+Page 2 - 131LR0563(01)1 B.  The clerk has received the ballot;
+2 C.  The ballot has been accepted by the clerk;
+3 D.  The clerk determines there is a defect with the ballot under section 756-A;
+4 E.  The voter has not returned the ballot within a certain amount of time as determined 
+5 by the Secretary of State; or
+6 F.  The ballot is cast.
+73.  Voter access to ballot status information.  A voter may check the status of the 
+8 voter's ballot:
+9 A.  Through the Secretary of State’s publicly accessible website under section 152, 
+10 subsection 6;
+11 B.  By calling the appropriate clerk by telephone; or
+12 C.  Using the telephone hotline established by the Secretary of State pursuant to 
+13 subsection 1.
+14Sec. 3.  Effective date. This Act takes effect July 1, 2025.
+15SUMMARY
+16 This bill amends the provisions of law regarding ongoing absentee voter status, 
+17 clarifies provisions regarding the tracking of absentee ballots and implements provisions 
+18 regarding notification of ballot status for absentee voters and access of absentee voters to 
+19 ballot tracking information.16
+17
+18
+19

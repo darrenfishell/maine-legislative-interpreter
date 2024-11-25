@@ -1,0 +1,940 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1681
+S.P. 542 In Senate,  May 6, 2021
+An Act  Regarding Telehealth Services for Certain Licensees of the 
+Office of Professional and  Occupational  Regulation and Certain 
+Licensees Affiliated with  the Department of Professional  and 
+Financial Regulation
+Received by the Secretary of the Senate on May 4, 2021.  Referred to  the Committee on 
+Health Coverage, Insurance  and Financial Services pursuant to Joint  Rule 308.2 and  ordered 
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator SANBORN  of Cumberland.  (GOVERNOR'S BILL)
+
+Page 1 - 130LR1963(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  32 MRSA §69 is enacted to read:
+3§69.  Telehealth services
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Asynchronous encounter" means an interaction between an individual and a person 
+7 licensed under this chapter through a system that has the ability to store digital 
+8 information, including, but not limited to, still images, video files, audio files, text files 
+9 and other relevant data, and to transmit such information without requiring the 
+10 simultaneous presence of the individual and the person licensed under this chapter.
+11 B.  "Store and forward transfer" means the transmission of an individual's records 
+12 through a secure electronic system to a person licensed under this chapter.
+13 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+14 interactive audio or video connection between an individual and a person licensed 
+15 under this chapter or between a person licensed under this chapter and another health 
+16 care provider.
+17 D.  "Telehealth services" means health care services delivered through the use of 
+18 information technology and includes synchronous encounters, asynchronous 
+19 encounters, store and forward transfers and telemonitoring.  
+20 E.  "Telemonitoring" means the use of information technology to remotely monitor an 
+21 individual's health status via electronic means, allowing the person licensed under this 
+22 chapter to track the individual's health data over time.  Telemonitoring may be 
+23 synchronous or asynchronous.
+242.  Telehealth services permitted.  A person licensed under this chapter may provide 
+25 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+26 license, in accordance with any requirements and restrictions imposed by this section and 
+27 in accordance with standards of practice.
+283.  Confidentiality.  When providing telehealth services, a person licensed under this 
+29 chapter shall comply with all state and federal confidentiality and privacy laws.
+304.  Professional responsibility.  All laws and rules governing professional 
+31 responsibility, unprofessional conduct and generally accepted standards of practice that 
+32 apply to a person licensed under this chapter also apply to that licensee while providing 
+33 telehealth services.
+345.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+35 licensed under this chapter.  These rules must establish standards of practice and 
+36 appropriate restrictions for the various types and forms of telehealth services. Rules 
+37 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+38 375, subchapter 2-A.  
+39Sec. 2.  32 MRSA c. 9, sub-c. 6 is enacted to read:
+40SUBCHAPTER 6
+Page 2 - 130LR1963(01)1TELEHEALTH SERVICES
+2§566.  Definitions 
+3 As used in this subchapter, unless the context otherwise indicates, the following terms 
+4 have the following meanings.
+51.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+6 between a patient and a person licensed under this chapter through a system that has the 
+7 ability to store digital information, including, but not limited to, still images, video files, 
+8 audio files, text files and other relevant data, and to transmit such information without 
+9 requiring the simultaneous presence of the patient and the person licensed under this 
+10 chapter.
+112.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+12 of a patient's records through a secure electronic system to a person licensed under this 
+13 chapter.
+143.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+15 conducted with an interactive audio or video connection between a patient and a person 
+16 licensed under this chapter or between a person licensed under this chapter and another 
+17 health care provider.
+184.  Telehealth services.  "Telehealth services" means health care services delivered 
+19 through the use of information technology and includes synchronous encounters, 
+20 asynchronous encounters, store and forward transfers and telemonitoring.  
+215.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+22 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+23 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+24 synchronous or asynchronous.
+25§567.  Telehealth services permitted 
+26 A person licensed under this chapter may provide telehealth services as long as the 
+27 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+28 requirements and restrictions imposed by this subchapter and in accordance with standards 
+29 of practice.
+30§568.  Confidentiality 
+31 When providing telehealth services, a person licensed under this chapter shall comply 
+32 with all state and federal confidentiality and privacy laws.
+33§569.  Professional responsibility  
+34 All laws and rules governing professional responsibility, unprofessional conduct and 
+35 generally accepted standards of practice that apply to a person licensed under this chapter 
+36 also apply to that licensee while providing telehealth services.
+37§570.  Rulemaking 
+38 The board shall adopt rules governing telehealth services by persons licensed under 
+39 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+40 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+41 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+Page 3 - 130LR1963(01)1Sec. 3.  32 MRSA §1533 is enacted to read:
+2§1533.  Telehealth services
+31.   Definitions.  As used in this section, unless the context otherwise indicates, the 
+4 following terms have the following meanings.
+5 A.  "Asynchronous encounter" means an interaction between an individual and a person 
+6 licensed under this chapter through a system that has the ability to store digital 
+7 information, including, but not limited to, still images, video files, audio files, text files 
+8 and other relevant data, and to transmit such information without requiring the 
+9 simultaneous presence of the individual and the person licensed under this chapter.
+10 B.  "Store and forward transfer" means the transmission of an individual's records 
+11 through a secure electronic system to a person licensed under this chapter.
+12 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+13 interactive audio or video connection between an individual and a person licensed 
+14 under this chapter or between a person licensed under this chapter and another health 
+15 care provider.
+16 D.  "Telehealth services" means health care services delivered through the use of 
+17 information technology and includes synchronous encounters, asynchronous 
+18 encounters, store and forward transfers and telemonitoring.  
+19 E. "Telemonitoring" means the use of information technology to remotely monitor an 
+20 individual's health status via electronic means, allowing the person licensed under this 
+21 chapter to track the individual's health data over time.  Telemonitoring may be 
+22 synchronous or asynchronous.
+232.  Telehealth services permitted.  A person licensed under this chapter may provide 
+24 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+25 license, in accordance with any requirements and restrictions imposed by this section and 
+26 in accordance with standards of practice.
+273.  Confidentiality.  When providing telehealth services, a person licensed under this 
+28 chapter shall comply with all state and federal confidentiality and privacy laws.
+294.  Professional responsibility.  All laws and rules governing professional 
+30 responsibility, unprofessional conduct and generally accepted standards of practice that 
+31 apply to a person licensed under this chapter also apply to that licensee while providing 
+32 telehealth services.
+335.  Rulemaking.  The director shall adopt rules governing telehealth services by 
+34 persons licensed under this chapter.  These rules must establish standards of practice and 
+35 appropriate restrictions for the various types and forms of telehealth services. Rules 
+36 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+37 375, subchapter 2-A.
+38Sec. 4.  32 MRSA c. 31, sub-c. 7 is enacted to read:
+39SUBCHAPTER 7
+40TELEHEALTH SERVICES
+Page 4 - 130LR1963(01)1§2266.  Definitions
+2 As used in this subchapter, unless the context otherwise indicates, the following terms 
+3 have the following meanings.
+41.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+5 between a patient and a person licensed under this chapter through a system that has the 
+6 ability to store digital information, including, but not limited to, still images, video files, 
+7 audio files, text files and other relevant data, and to transmit such information without 
+8 requiring the simultaneous presence of the patient and the person licensed under this 
+9 chapter.
+102.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+11 of a patient's records through a secure electronic system to a person licensed under this 
+12 chapter.
+133.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+14 conducted with an interactive audio or video connection between a patient and a person 
+15 licensed under this chapter or between a person licensed under this chapter and another 
+16 health care provider.
+174.  Telehealth services.  "Telehealth services" means health care services delivered 
+18 through the use of information technology and includes synchronous encounters, 
+19 asynchronous encounters, store and forward transfers and telemonitoring.  
+205.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+21 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+22 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+23 synchronous or asynchronous.
+24§2267.  Telehealth services permitted
+25 A person licensed under this chapter may provide telehealth services as long as the 
+26 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+27 requirements and restrictions imposed by this subchapter and in accordance with standards 
+28 of practice.
+29§2268.  Confidentiality
+30 When providing telehealth services, a person licensed under this chapter shall comply 
+31 with all state and federal confidentiality and privacy laws.
+32§2269.  Professional responsibility
+33 All laws and rules governing professional responsibility, unprofessional conduct and 
+34 generally accepted standards of practice that apply to a person licensed under this chapter 
+35 also apply to that licensee while providing telehealth services.
+36§2270.  Rulemaking
+37 The board shall adopt rules governing telehealth services by persons licensed under 
+38 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+39 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+40 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.  
+41Sec. 5.  32 MRSA §2287 is enacted to read:
+Page 5 - 130LR1963(01)1§2287.  Telehealth services
+21.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+3 following terms have the following meanings.
+4 A.  "Asynchronous encounter" means an interaction between a patient and a person 
+5 licensed under this chapter through a system that has the ability to store digital 
+6 information, including, but not limited to, still images, video files, audio files, text files 
+7 and other relevant data, and to transmit such information without requiring the 
+8 simultaneous presence of the patient and the person licensed under this chapter.
+9 B.  "Store and forward transfer" means the transmission of a patient's records through 
+10 a secure electronic system to a person licensed under this chapter.
+11 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+12 interactive audio or video connection between a patient and a person licensed under 
+13 this chapter or between a person licensed under this chapter and another health care 
+14 provider.
+15 D.  "Telehealth services" means health care services delivered through the use of 
+16 information technology and includes synchronous encounters, asynchronous 
+17 encounters, store and forward transfers and telemonitoring.  
+18 E.  "Telemonitoring" means the use of information technology to remotely monitor a 
+19 patient's health status via electronic means, allowing the person licensed under this 
+20 chapter to track the patient's health data over time.  Telemonitoring may be 
+21 synchronous or asynchronous.
+222.  Telehealth services permitted.  A person licensed under this chapter may provide 
+23 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+24 license, in accordance with any requirements and restrictions imposed by this section and 
+25 in accordance with standards of practice.
+263.  Confidentiality.  When providing telehealth services, a person licensed under this 
+27 chapter shall comply with all state and federal confidentiality and privacy laws.
+284.  Professional responsibility.  All laws and rules governing professional 
+29 responsibility, unprofessional conduct and generally accepted standards of practice that 
+30 apply to a person licensed under this chapter also apply to that licensee while providing 
+31 telehealth services.
+325.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+33 licensed under this chapter.  These rules must establish standards of practice and 
+34 appropriate restrictions for the various types and forms of telehealth services. Rules 
+35 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+36 375, subchapter 2-A.
+37Sec. 6.  32 MRSA c. 34-A, sub-c. 6 is enacted to read:
+38SUBCHAPTER 6
+39TELEHEALTH SERVICES
+40§2447.  Definitions
+Page 6 - 130LR1963(01)1 As used in this subchapter, unless the context otherwise indicates, the following terms 
+2 have the following meanings.
+31.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+4 between a patient and a person licensed under this chapter through a system that has the 
+5 ability to store digital information, including, but not limited to, still images, video files, 
+6 audio files, text files and other relevant data, and to transmit such information without 
+7 requiring the simultaneous presence of the patient and the person licensed under this 
+8 chapter.
+92.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+10 of a patient's records through a secure electronic system to a person licensed under this 
+11 chapter.
+123.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+13 conducted with an interactive audio or video connection between a patient and a person 
+14 licensed under this chapter or between a person licensed under this chapter and another 
+15 health care provider.
+164.  Telehealth services.  "Telehealth services" means health care services delivered 
+17 through the use of information technology and includes synchronous encounters, 
+18 asynchronous encounters, store and forward transfers and telemonitoring.  
+195.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+20 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+21 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+22 synchronous or asynchronous.
+23§2448.  Telehealth services permitted
+24 A person licensed under this chapter may provide telehealth services as long as the 
+25 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+26 requirements and restrictions imposed by this subchapter and in accordance with standards 
+27 of practice.
+28§2449.  Confidentiality
+29 When providing telehealth services, a person licensed under this chapter shall comply 
+30 with all state and federal confidentiality and privacy laws.
+31§2450.  Professional responsibility
+32 All laws and rules governing professional responsibility, unprofessional conduct and 
+33 generally accepted standards of practice that apply to a person licensed under this chapter 
+34 also apply to that licensee while providing telehealth services.
+35§2450-A.  Rulemaking
+36 The board shall adopt rules governing telehealth services by persons licensed under 
+37 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+38 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+39 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.  
+40Sec. 7.  32 MRSA c. 36, sub-c. 8 is enacted to read:
+41SUBCHAPTER 8
+Page 7 - 130LR1963(01)1TELEHEALTH SERVICES
+2§2600-AA.  Definitions
+3 As used in this subchapter, unless the context otherwise indicates, the following terms 
+4 have the following meanings.
+51.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+6 between a patient and a person licensed under this chapter through a system that has the 
+7 ability to store digital information, including, but not limited to, still images, video files, 
+8 audio files, text files and other relevant data, and to transmit such information without 
+9 requiring the simultaneous presence of the patient and the person licensed under this 
+10 chapter.
+112.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+12 of a patient's records through a secure electronic system to a person licensed under this 
+13 chapter.
+143.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+15 conducted with an interactive audio or video connection between a patient and a person 
+16 licensed under this chapter or between a person licensed under this chapter and another 
+17 health care provider.
+184.  Telehealth services.  "Telehealth services" means health care services delivered 
+19 through the use of information technology and includes synchronous encounters, 
+20 asynchronous encounters, store and forward transfers and telemonitoring.  
+215.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+22 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+23 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+24 synchronous or asynchronous.
+25§2600-BB.  Telehealth services permitted
+26 A person licensed under this chapter may provide telehealth services as long as the 
+27 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+28 requirements and restrictions imposed by this subchapter and in accordance with standards 
+29 of practice.
+30§2600-CC.  Confidentiality
+31 When providing telehealth services, a person licensed under this chapter shall comply 
+32 with all state and federal confidentiality and privacy laws.
+33§2600-DD.  Professional responsibility
+34 All laws and rules governing professional responsibility, unprofessional conduct and 
+35 generally accepted standards of practice that apply to a person licensed under this chapter 
+36 also apply to that licensee while providing telehealth services.
+37§2600-EE.  Rulemaking
+38 The board shall adopt rules governing telehealth services by persons licensed under 
+39 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+40 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+41 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.  
+Page 8 - 130LR1963(01)1Sec. 8.  32 MRSA §3120 is enacted to read:
+2§3120.  Telehealth services
+31.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+4 following terms have the following meanings.
+5 A.  "Asynchronous encounter" means an interaction between a patient and a person 
+6 licensed under this chapter through a system that has the ability to store digital 
+7 information, including, but not limited to, still images, video files, audio files, text files 
+8 and other relevant data, and to transmit such information without requiring the 
+9 simultaneous presence of the patient and the person licensed under this chapter.
+10 B.  "Store and forward transfer" means the transmission of a patient's records through 
+11 a secure electronic system to a person licensed under this chapter.
+12 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+13 interactive audio or video connection between a patient and a person licensed under 
+14 this chapter or between a person licensed under this chapter and another health care 
+15 provider.
+16 D.  "Telehealth services" means health care services delivered through the use of 
+17 information technology and includes synchronous encounters, asynchronous 
+18 encounters, store and forward transfers and telemonitoring.  
+19 E.  "Telemonitoring" means the use of information technology to remotely monitor a 
+20 patient's health status via electronic means, allowing the person licensed under this 
+21 chapter to track the patient's health data over time.  Telemonitoring may be 
+22 synchronous or asynchronous.
+232.  Telehealth services permitted.  A person licensed under this chapter may provide 
+24 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+25 license, in accordance with any requirements and restrictions imposed by this section and 
+26 in accordance with standards of practice.
+273.  Confidentiality.  When providing telehealth services, a person licensed under this 
+28 chapter shall comply with all state and federal confidentiality and privacy laws.
+294.  Professional responsibility.  All laws and rules governing professional 
+30 responsibility, unprofessional conduct and generally accepted standards of practice that 
+31 apply to a person licensed under this chapter also apply to that licensee while providing 
+32 telehealth services.
+335.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+34 licensed under this chapter.  These rules must establish standards of practice and 
+35 appropriate restrictions for the various types and forms of telehealth services. Rules 
+36 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+37 375, subchapter 2-A. 
+38Sec. 9.  32 MRSA c. 48, sub-c. 4 is enacted to read:
+39SUBCHAPTER 4
+40TELEHEALTH SERVICES
+Page 9 - 130LR1963(01)1§3300-AA.  Definitions
+2 As used in this subchapter, unless the context otherwise indicates, the following terms 
+3 have the following meanings.
+41.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+5 between a patient and a person licensed under this chapter through a system that has the 
+6 ability to store digital information, including, but not limited to, still images, video files, 
+7 audio files, text files and other relevant data, and to transmit such information without 
+8 requiring the simultaneous presence of the patient and the person licensed under this 
+9 chapter.
+102.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+11 of a patient's records through a secure electronic system to a person licensed under this 
+12 chapter.
+133.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+14 conducted with an interactive audio or video connection between a patient and a person 
+15 licensed under this chapter or between a person licensed under this chapter and another 
+16 health care provider.
+174.  Telehealth services.  "Telehealth services" means health care services delivered 
+18 through the use of information technology and includes synchronous encounters, 
+19 asynchronous encounters, store and forward transfers and telemonitoring.  
+205.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+21 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+22 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+23 synchronous or asynchronous.
+24§3300-BB.  Telehealth services permitted
+25 A person licensed under this chapter may provide telehealth services as long as the 
+26 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+27 requirements and restrictions imposed by this subchapter and in accordance with standards 
+28 of practice.
+29§3300-CC.  Confidentiality
+30 When providing telehealth services, a person licensed under this chapter shall comply 
+31 with all state and federal confidentiality and privacy laws.
+32§3300-DD.  Professional responsibility
+33 All laws and rules governing professional responsibility, unprofessional conduct and 
+34 generally accepted standards of practice that apply to a person licensed under this chapter 
+35 also apply to that licensee while providing telehealth services.
+36§3300-EE.  Rulemaking
+37 The board shall adopt rules governing telehealth services by persons licensed under 
+38 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+39 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+40 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.  
+41Sec. 10.  32 MRSA c. 51, sub-c. 4 is enacted to read:
+Page 10 - 130LR1963(01)1SUBCHAPTER 4
+2TELEHEALTH SERVICES
+3§3661.  Definitions 
+4 As used in this subchapter, unless the context otherwise indicates, the following terms 
+5 have the following meanings.
+61.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+7 between a patient and a person licensed under this chapter through a system that has the 
+8 ability to store digital information, including, but not limited to, still images, video files, 
+9 audio files, text files and other relevant data, and to transmit such information without 
+10 requiring the simultaneous presence of the patient and the person licensed under this 
+11 chapter.
+122.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+13 of a patient's records through a secure electronic system to a person licensed under this 
+14 chapter.
+153.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+16 conducted with an interactive audio or video connection between a patient and a person 
+17 licensed under this chapter or between a person licensed under this chapter and another 
+18 health care provider.
+194.  Telehealth services.  "Telehealth services" means health care services delivered 
+20 through the use of information technology and includes synchronous encounters, 
+21 asynchronous encounters, store and forward transfers and telemonitoring.  
+225.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+23 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+24 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+25 synchronous or asynchronous.
+26§3662.  Telehealth services permitted  
+27 A person licensed under this chapter may provide telehealth services as long as the 
+28 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+29 requirements and restrictions imposed by this subchapter and in accordance with standards 
+30 of practice.
+31§3663.  Confidentiality 
+32 When providing telehealth services, a person licensed under this chapter shall comply 
+33 with all state and federal confidentiality and privacy laws.
+34§3664.  Professional responsibility  
+35 All laws and rules governing professional responsibility, unprofessional conduct and 
+36 generally accepted standards of practice that apply to a person licensed under this chapter 
+37 also apply to that licensee while providing telehealth services.
+38§3665.  Rulemaking
+39 The board shall adopt rules governing telehealth services by persons licensed under 
+40 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+Page 11 - 130LR1963(01)41 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+42 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+3Sec. 11.  32 MRSA c. 56, sub-c. 4 is enacted to read:
+4SUBCHAPTER 4
+5TELEHEALTH SERVICES
+6§3841.  Definitions 
+7 As used in this subchapter, unless the context otherwise indicates, the following terms 
+8 have the following meanings.
+91.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+10 between a patient and a person licensed under this chapter through a system that has the 
+11 ability to store digital information, including, but not limited to, still images, video files, 
+12 audio files, text files and other relevant data, and to transmit such information without 
+13 requiring the simultaneous presence of the patient and the person licensed under this 
+14 chapter.
+152.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+16 of a patient's records through a secure electronic system to a person licensed under this 
+17 chapter.
+183.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+19 conducted with an interactive audio or video connection between a patient and a person 
+20 licensed under this chapter or between a person licensed under this chapter and another 
+21 health care provider.
+224.  Telehealth services.  "Telehealth services" means health care services delivered 
+23 through the use of information technology and includes synchronous encounters, 
+24 asynchronous encounters, store and forward transfers and telemonitoring.  
+255.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+26 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+27 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+28 synchronous or asynchronous.
+29§3842.  Telehealth services permitted  
+30 A person licensed under this chapter may provide telehealth services as long as the 
+31 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+32 requirements and restrictions imposed by this subchapter and in accordance with standards 
+33 of practice.
+34§3843.  Confidentiality 
+35 When providing telehealth services, a person licensed under this chapter shall comply 
+36 with all state and federal confidentiality and privacy laws.
+37§3844.  Professional responsibility  1
+2
+Page 12 - 130LR1963(01)1 All laws and rules governing professional responsibility, unprofessional conduct and 
+2 generally accepted standards of practice that apply to a person licensed under this chapter 
+3 also apply to that licensee while providing telehealth services.
+4§3845.  Rulemaking  
+5 The board shall adopt rules governing telehealth services by persons licensed under 
+6 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+7 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+8 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+9Sec. 12.  32 MRSA §4879 is enacted to read:
+10§4879.  Telehealth services
+111.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+12 following terms have the following meanings.
+13 A.  "Asynchronous encounter" means an interaction between a patient and a person 
+14 licensed under this chapter through a system that has the ability to store digital 
+15 information, including, but not limited to, still images, video files, audio files, text files 
+16 and other relevant data, and to transmit such information without requiring the 
+17 simultaneous presence of the patient and the person licensed under this chapter.
+18 B.  "Store and forward transfer" means the transmission of a patient's records through 
+19 a secure electronic system to a person licensed under this chapter.
+20 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+21 interactive audio or video connection between a patient and a person licensed under 
+22 this chapter or between a person licensed under this chapter and another health care 
+23 provider.
+24 D.  "Telehealth services" means health care services delivered through the use of 
+25 information technology and includes synchronous encounters, asynchronous 
+26 encounters, store and forward transfers and telemonitoring.  
+27 E.  "Telemonitoring" means the use of information technology to remotely monitor a 
+28 patient's health status via electronic means, allowing the person licensed under this 
+29 chapter to track the patient's health data over time.  Telemonitoring may be 
+30 synchronous or asynchronous.
+312.  Telehealth services permitted.  A person licensed under this chapter may provide 
+32 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+33 license, in accordance with any requirements and restrictions imposed by this section and 
+34 in accordance with standards of practice.
+353.  Confidentiality.  When providing telehealth services, a person licensed under this 
+36 chapter shall comply with all state and federal confidentiality and privacy laws.
+374.  Professional responsibility.  All laws and rules governing professional 
+38 responsibility, unprofessional conduct and generally accepted standards of practice that 
+39 apply to a person licensed under this chapter also apply to that licensee while providing 
+40 telehealth services.
+415.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+42 licensed under this chapter.  These rules must establish standards of practice and 
+Page 13 - 130LR1963(01)43 appropriate restrictions for the various types and forms of telehealth services. Rules 
+44 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+45 375, subchapter 2-A.  
+4Sec. 13.  32 MRSA c. 81, sub-c. 5 is enacted to read:
+5SUBCHAPTER 5
+6TELEHEALTH SERVICES
+7§6231.  Definitions 
+8 As used in this subchapter, unless the context otherwise indicates, the following terms 
+9 have the following meanings.
+101.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+11 between a client and a person licensed under this chapter through a system that has the 
+12 ability to store digital information, including, but not limited to, still images, video files, 
+13 audio files, text files and other relevant data, and to transmit such information without 
+14 requiring the simultaneous presence of the client and the person licensed under this chapter.
+152.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+16 of a client's records through a secure electronic system to a person licensed under this 
+17 chapter.
+183.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+19 conducted with an interactive audio or video connection between a client and a person 
+20 licensed under this chapter or between a person licensed under this chapter and another 
+21 health care provider.
+224.  Telehealth services.  "Telehealth services" means health care services delivered 
+23 through the use of information technology and includes synchronous encounters, 
+24 asynchronous encounters, store and forward transfers and telemonitoring.  
+255.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+26 remotely monitor a client's health status via electronic means, allowing the person licensed 
+27 under this chapter to track the client's health data over time.  Telemonitoring may be 
+28 synchronous or asynchronous.
+29§6232.  Telehealth services permitted 
+30 A person licensed under this chapter may provide telehealth services as long as the 
+31 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+32 requirements and restrictions imposed by this subchapter and in accordance with standards 
+33 of practice.
+34§6233.  Confidentiality 
+35 When providing telehealth services, a person licensed under this chapter shall comply 
+36 with all state and federal confidentiality and privacy laws.
+37§6234.  Professional responsibility 1
+2
+3
+Page 14 - 130LR1963(01)1 All laws and rules governing professional responsibility, unprofessional conduct and 
+2 generally accepted standards of practice that apply to a person licensed under this chapter 
+3 also apply to that licensee while providing telehealth services.
+4§6235. Rulemaking
+5 The board shall adopt rules governing telehealth services by persons licensed under 
+6 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+7 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+8 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+9Sec. 14.  32 MRSA c. 83, sub-c. 4 is enacted to read:
+10SUBCHAPTER 4
+11TELEHEALTH SERVICES
+12§7071.  Definitions 
+13 As used in this subchapter, unless the context otherwise indicates, the following terms 
+14 have the following meanings.
+151.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+16 between a client and a person licensed under this chapter through a system that has the 
+17 ability to store digital information, including, but not limited to, still images, video files, 
+18 audio files, text files and other relevant data, and to transmit such information without 
+19 requiring the simultaneous presence of the client and the person licensed under this chapter.
+202.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+21 of a client's records through a secure electronic system to a person licensed under this 
+22 chapter.
+233.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+24 conducted with an interactive audio or video connection between a client and a person 
+25 licensed under this chapter or between a person licensed under this chapter and another 
+26 health care provider.
+274.  Telehealth services.  "Telehealth services" means health care services delivered 
+28 through the use of information technology and includes synchronous encounters, 
+29 asynchronous encounters, store and forward transfers and telemonitoring.  
+305.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+31 remotely monitor a client's health status via electronic means, allowing the person licensed 
+32 under this chapter to track the client's health data over time.  Telemonitoring may be 
+33 synchronous or asynchronous.
+34§7072.  Telehealth services permitted  
+35 A person licensed under this chapter may provide telehealth services as long as the 
+36 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+37 requirements and restrictions imposed by this subchapter and in accordance with standards 
+38 of practice.
+39§7073.  Confidentiality 
+Page 15 - 130LR1963(01)1 When providing telehealth services, a person licensed under this chapter shall comply 
+2 with all state and federal confidentiality and privacy laws.
+3§7074.  Professional responsibility  
+4 All laws and rules governing professional responsibility, unprofessional conduct and 
+5 generally accepted standards of practice that apply to a person licensed under this chapter 
+6 also apply to that licensee while providing telehealth services.
+7§7075.  Rulemaking
+8 The board shall adopt rules governing telehealth services by persons licensed under 
+9 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+10 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+11 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+12Sec. 15.  32 MRSA §9714 is enacted to read:
+13§9714.  Telehealth services
+141.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+15 following terms have the following meanings.
+16 A.  "Asynchronous encounter" means an interaction between a patient and a person 
+17 licensed under this chapter through a system that has the ability to store digital 
+18 information, including, but not limited to, still images, video files, audio files, text files 
+19 and other relevant data, and to transmit such information without requiring the 
+20 simultaneous presence of the patient and the person licensed under this chapter.
+21 B.  "Store and forward transfer" means the transmission of a patient's records through 
+22 a secure electronic system to a person licensed under this chapter.
+23 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+24 interactive audio or video connection between a patient and a person licensed under 
+25 this chapter or between a person licensed under this chapter and another health care 
+26 provider.
+27 D.  "Telehealth services" means health care services delivered through the use of 
+28 information technology and includes synchronous encounters, asynchronous 
+29 encounters, store and forward transfers and telemonitoring.  
+30 E.   "Telemonitoring" means the use of information technology to remotely monitor a 
+31 patient's health status via electronic means, allowing the person licensed under this 
+32 chapter to track the patient's health data over time.  Telemonitoring may be 
+33 synchronous or asynchronous.
+342.  Telehealth services permitted.  A person licensed under this chapter may provide 
+35 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+36 license, in accordance with any requirements and restrictions imposed by this section and 
+37 in accordance with standards of practice.
+383.  Confidentiality.  When providing telehealth services, a person licensed under this 
+39 chapter shall comply with all state and federal confidentiality and privacy laws.
+404.  Professional responsibility.  All laws and rules governing professional 
+41 responsibility, unprofessional conduct and generally accepted standards of practice that 
+Page 16 - 130LR1963(01)42 apply to a person licensed under this chapter also apply to that licensee while providing 
+43 telehealth services.
+35.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+4 licensed under this chapter.  These rules must establish standards of practice and 
+5 appropriate restrictions for the various types and forms of telehealth services. Rules 
+6 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+7 375, subchapter 2-A.
+8Sec. 16.  32 MRSA §9863 is enacted to read:
+9§9863.  Telehealth services
+101.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+11 following terms have the following meanings.
+12 A.  "Asynchronous encounter" means an interaction between a patient and a person 
+13 licensed under this chapter through a system that has the ability to store digital 
+14 information, including, but not limited to, still images, video files, audio files, text files 
+15 and other relevant data, and to transmit such information without requiring the 
+16 simultaneous presence of the patient and the person licensed under this chapter.
+17 B.  "Store and forward transfer" means the transmission of a patient's records through 
+18 a secure electronic system to a person licensed under this chapter.
+19 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+20 interactive audio or video connection between a patient and a person licensed under 
+21 this chapter or between a person licensed under this chapter and another health care 
+22 provider.
+23 D.  "Telehealth services" means health care services delivered through the use of 
+24 information technology and includes synchronous encounters, asynchronous 
+25 encounters, store and forward transfers and telemonitoring.  
+26 E.  "Telemonitoring" means the use of information technology to remotely monitor a 
+27 patient's health status via electronic means, allowing the person licensed under this 
+28 chapter to track the patient's health data over time.  Telemonitoring may be 
+29 synchronous or asynchronous.
+302.  Telehealth services permitted.  A person licensed under this chapter may provide 
+31 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+32 license, in accordance with any requirements and restrictions imposed by this section and 
+33 in accordance with standards of practice.
+343.  Confidentiality.  When providing telehealth services, a person licensed under this 
+35 chapter shall comply with all state and federal confidentiality and privacy laws.
+364.  Professional responsibility.  All laws and rules governing professional 
+37 responsibility, unprofessional conduct and generally accepted standards of practice that 
+38 apply to a person licensed under this chapter also apply to that licensee while providing 
+39 telehealth services.
+405.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+41 licensed under this chapter.  These rules must establish standards of practice and 
+42 appropriate restrictions for the various types and forms of telehealth services. Rules 1
+2
+Page 17 - 130LR1963(01)43 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+44 375, subchapter 2-A.
+3Sec. 17.  32 MRSA §9916 is enacted to read:
+4§9916.  Telehealth services
+51.   Definitions.  As used in this section, unless the context otherwise indicates, the 
+6 following terms have the following meanings.
+7 A.  "Asynchronous encounter" means an interaction between an individual and a person 
+8 licensed under this chapter through a system that has the ability to store digital 
+9 information, including, but not limited to, still images, video files, audio files, text files 
+10 and other relevant data, and to transmit such information without requiring the 
+11 simultaneous presence of the individual and the person licensed under this chapter.
+12 B.  "Store and forward transfer" means the transmission of an individual's records 
+13 through a secure electronic system to a person licensed under this chapter.
+14 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+15 interactive audio or video connection between an individual and a person licensed 
+16 under this chapter or between a person licensed under this chapter and another health 
+17 care provider.
+18 D.  "Telehealth services" means health care services delivered through the use of 
+19 information technology and includes synchronous encounters, asynchronous 
+20 encounters, store and forward transfers and telemonitoring.  
+21 E.  "Telemonitoring" means the use of information technology to remotely monitor an 
+22 individual's health status via electronic means, allowing the person licensed under this 
+23 chapter to track the individual's health data over time.  Telemonitoring may be 
+24 synchronous or asynchronous.
+252.  Telehealth services permitted.  A person licensed under this chapter may provide 
+26 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+27 license, in accordance with any requirements and restrictions imposed by this section and 
+28 in accordance with standards of practice.
+293.  Confidentiality.  When providing telehealth services, a person licensed under this 
+30 chapter shall comply with all state and federal confidentiality and privacy laws.
+314.  Professional responsibility.  All laws and rules governing professional 
+32 responsibility, unprofessional conduct and generally accepted standards of practice that 
+33 apply to a person licensed under this chapter also apply to that licensee while providing 
+34 telehealth services.
+355.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+36 licensed under this chapter.  These rules must establish standards of practice and 
+37 appropriate restrictions for the various types and forms of telehealth services. Rules 
+38 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+39 375, subchapter 2-A.
+40Sec. 18.  32 MRSA c. 113-B, sub-c. 7 is enacted to read:
+41SUBCHAPTER 71
+2
+Page 18 - 130LR1963(01)1TELEHEALTH SERVICES
+2§12611.  Definitions 
+3 As used in this subchapter, unless the context otherwise indicates, the following terms 
+4 have the following meanings.
+51.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+6 between a patient and a person licensed under this chapter through a system that has the 
+7 ability to store digital information, including, but not limited to, still images, video files, 
+8 audio files, text files and other relevant data, and to transmit such information without 
+9 requiring the simultaneous presence of the patient and the person licensed under this 
+10 chapter.
+112.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+12 of a patient's records through a secure electronic system to a person licensed under this 
+13 chapter.
+143.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+15 conducted with an interactive audio or video connection between a patient and a person 
+16 licensed under this chapter or between a person licensed under this chapter and another 
+17 health care provider.
+184.  Telehealth services.  "Telehealth services" means health care services delivered 
+19 through the use of information technology and includes synchronous encounters, 
+20 asynchronous encounters, store and forward transfers and telemonitoring.  
+215.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+22 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+23 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+24 synchronous or asynchronous.
+25§12612.  Telehealth services permitted  
+26 A person licensed under this chapter may provide telehealth services as long as the 
+27 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+28 requirements and restrictions imposed by this subchapter and in accordance with standards 
+29 of practice.
+30§12613.  Confidentiality 
+31 When providing telehealth services, a person licensed under this chapter shall comply 
+32 with all state and federal confidentiality and privacy laws.
+33§12614.  Professional responsibility  
+34 All laws and rules governing professional responsibility, unprofessional conduct and 
+35 generally accepted standards of practice that apply to a person licensed under this chapter 
+36 also apply to that licensee while providing telehealth services.
+37§12615.  Rulemaking  
+38 The board shall adopt rules governing telehealth services by persons licensed under 
+39 this chapter. These rules must establish standards of practice and appropriate restrictions 
+40 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+41 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+Page 19 - 130LR1963(01)1Sec. 19.  32 MRSA c. 117, sub-c. 15 is enacted to read:
+2SUBCHAPTER 15
+3TELEHEALTH SERVICES
+4§13848.  Definitions 
+5 As used in this subchapter, unless the context otherwise indicates, the following terms 
+6 have the following meanings.
+71.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+8 between a patient and a person licensed under this chapter through a system that has the 
+9 ability to store digital information, including, but not limited to, still images, video files, 
+10 audio files, text files and other relevant data, and to transmit such information without 
+11 requiring the simultaneous presence of the patient and the person licensed under this 
+12 chapter.
+132.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+14 of a patient's records through a secure electronic system to a person licensed under this 
+15 chapter.
+163.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+17 conducted with an interactive audio or video connection between a patient and a person 
+18 licensed under this chapter or between a person licensed under this chapter and another 
+19 health care provider.
+204.  Telehealth services.  "Telehealth services" means health care services delivered 
+21 through the use of information technology and includes synchronous encounters, 
+22 asynchronous encounters, store and forward transfers and telemonitoring.  
+235.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+24 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+25 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+26 synchronous or asynchronous.
+27§13849. Telehealth services permitted  
+28 A person licensed under this chapter may provide telehealth services as long as the 
+29 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+30 requirements and restrictions imposed by this subchapter and in accordance with standards 
+31 of practice.
+32§13849-A.  Confidentiality 
+33 When providing telehealth services, a person licensed under this chapter shall comply 
+34 with all state and federal confidentiality and privacy laws.
+35§13849-B.  Professional responsibility  
+36 All laws and rules governing professional responsibility, unprofessional conduct and 
+37 generally accepted standards of practice that apply to a person licensed under this chapter 
+38 also apply to that licensee while providing telehealth services.
+39§13849-C.  Rulemaking  
+Page 20 - 130LR1963(01)1 The board shall adopt rules governing telehealth services by persons licensed under 
+2 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+3 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+4 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.  
+5Sec. 20.  32 MRSA §13868 is enacted to read:
+6§13868.  Telehealth services
+71.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+8 following terms have the following meanings.
+9 A.  "Asynchronous encounter" means an interaction between a client and a person 
+10 licensed under this chapter through a system that has the ability to store digital 
+11 information, including, but not limited to, still images, video files, audio files, text files 
+12 and other relevant data, and to transmit such information without requiring the 
+13 simultaneous presence of the client and the person licensed under this chapter.
+14 B.  "Store and forward transfer" means the transmission of a client's records through a 
+15 secure electronic system to a person licensed under this chapter.
+16 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+17 interactive audio or video connection between a client and a person licensed under this 
+18 chapter or between a person licensed under this chapter and another health care 
+19 provider.
+20 D.  "Telehealth services" means health care services delivered through the use of 
+21 information technology and includes synchronous encounters, asynchronous 
+22 encounters, store and forward transfers and telemonitoring.  
+23 E.  "Telemonitoring" means the use of information technology to remotely monitor a 
+24 client's health status via electronic means, allowing the person licensed under this 
+25 chapter to track the client's health data over time.  Telemonitoring may be synchronous 
+26 or asynchronous.
+272.  Telehealth services permitted.  A person licensed under this chapter may provide 
+28 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+29 license, in accordance with any requirements and restrictions imposed by this section and 
+30 in accordance with standards of practice.
+313.  Confidentiality.  When providing telehealth services, a person licensed under this 
+32 chapter shall comply with all state and federal confidentiality and privacy laws.
+334.  Professional responsibility.  All laws and rules governing professional 
+34 responsibility, unprofessional conduct and generally accepted standards of practice that 
+35 apply to a person licensed under this chapter also apply to that licensee while providing 
+36 telehealth services.
+375.  Rulemaking.  The board shall adopt rules governing telehealth services by persons 
+38 licensed under this chapter.  These rules must establish standards of practice and 
+39 appropriate restrictions for the various types and forms of telehealth services. Rules 
+40 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+41 375, subchapter 2-A.
+42Sec. 21.  32 MRSA §14363 is enacted to read:
+Page 21 - 130LR1963(01)1§14363.  Telehealth services
+21.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+3 following terms have the following meanings.
+4 A.  "Asynchronous encounter" means an interaction between an individual and a person 
+5 licensed under this chapter through a system that has the ability to store digital 
+6 information, including, but not limited to, still images, video files, audio files, text files 
+7 and other relevant data, and to transmit such information without requiring the 
+8 simultaneous presence of the individual and the person licensed under this chapter.
+9 B.  "Store and forward transfer" means the transmission of individual's records through 
+10 a secure electronic system to a person licensed under this chapter.
+11 C.  "Synchronous encounter" means a real-time interaction conducted with an 
+12 interactive audio or video connection between an individual and a person licensed 
+13 under this chapter or between a person licensed under this chapter and another health 
+14 care provider.
+15 D.  "Telehealth services" means health care services delivered through the use of 
+16 information technology and includes synchronous encounters, asynchronous 
+17 encounters, store and forward transfers and telemonitoring.  
+18 E.  "Telemonitoring" means the use of information technology to remotely monitor an 
+19 individual's health status via electronic means, allowing the person licensed under this 
+20 chapter to track the individual's health data over time.  Telemonitoring may be 
+21 synchronous or asynchronous.
+222.  Telehealth services permitted.  A person licensed under this chapter may provide 
+23 telehealth services as long as the licensee acts within the scope of practice of the licensee's 
+24 license, in accordance with any requirements and restrictions imposed by this section and 
+25 in accordance with standards of practice.
+263.  Confidentiality.  When providing telehealth services, a person licensed under this 
+27 chapter shall comply with all state and federal confidentiality and privacy laws.
+284.  Professional responsibility.  All laws and rules governing professional 
+29 responsibility, unprofessional conduct and generally accepted standards of practice that 
+30 apply to a person licensed under this chapter also apply to that licensee while providing 
+31 telehealth services.
+325.  Rulemaking.  The commissioner shall adopt rules governing telehealth services by 
+33 persons licensed under this chapter.  These rules shall establish standards of practice and 
+34 appropriate restrictions for the various types and forms of telehealth services. Rules 
+35 adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+36 375, subchapter 2-A.
+37Sec. 22.  32 MRSA c. 137, sub-c. 4 is enacted to read:
+38SUBCHAPTER 4
+39TELEHEALTH SERVICES
+40§17401.  Definitions 
+Page 22 - 130LR1963(01)1 As used in this subchapter, unless the context otherwise indicates, the following terms 
+2 have the following meanings.
+31.  Asynchronous encounter.  "Asynchronous encounter" means an interaction 
+4 between a patient and a person licensed under this chapter through a system that has the 
+5 ability to store digital information, including, but not limited to, still images, video files, 
+6 audio files, text files and other relevant data, and to transmit such information without 
+7 requiring the simultaneous presence of the patient and the person licensed under this 
+8 chapter.
+92.  Store and forward transfer.  "Store and forward transfer" means the transmission 
+10 of a patient's records through a secure electronic system to a person licensed under this 
+11 chapter.
+123.  Synchronous encounter.  "Synchronous encounter" means a real-time interaction 
+13 conducted with an interactive audio or video connection between a patient and a person 
+14 licensed under this chapter or between a person licensed under this chapter and another 
+15 health care provider.
+164.  Telehealth services.  "Telehealth services" means health care services delivered 
+17 through the use of information technology and includes synchronous encounters, 
+18 asynchronous encounters, store and forward transfers and telemonitoring.  
+195.  Telemonitoring.  "Telemonitoring" means the use of information technology to 
+20 remotely monitor a patient's health status via electronic means, allowing the person licensed 
+21 under this chapter to track the patient's health data over time.  Telemonitoring may be 
+22 synchronous or asynchronous.
+23§17402.  Telehealth services permitted  
+24 A person licensed under this chapter may provide telehealth services as long as the 
+25 licensee acts within the scope of practice of the licensee's license, in accordance with any 
+26 requirements and restrictions imposed by this subchapter and in accordance with standards 
+27 of practice.
+28§17403.  Confidentiality 
+29 When providing telehealth services, a person licensed under this chapter shall comply 
+30 with all state and federal confidentiality and privacy laws.
+31§17404.  Professional responsibility  
+32 All laws and rules governing professional responsibility, unprofessional conduct and 
+33 generally accepted standards of practice that apply to a person licensed under this chapter 
+34 also apply to that licensee while providing telehealth services.
+35§17405.  Rulemaking
+36 The board shall adopt rules governing telehealth services by persons licensed under 
+37 this chapter.  These rules must establish standards of practice and appropriate restrictions 
+38 for the various types and forms of telehealth services. Rules adopted pursuant to this section 
+39 are routine technical rules as defined by Title 5, chapter 375, subchapter 2-A.
+Page 23 - 130LR1963(01)1SUMMARY
+2 This bill permits health care providers licensed under the Department of Professional 
+3 and Financial Regulation to provide telehealth services as long as the licensee acts within 
+4 the scope of practice of the licensee's license, in accordance with any requirements and 
+5 restrictions imposed by law and in accordance with standards of practice.  The bill defines 
+6 "telehealth services" and authorizes licensing entities to adopt rules to establish standards 
+7 of practice and restrictions for telehealth services.2
+3
+4
+5
+6
+7

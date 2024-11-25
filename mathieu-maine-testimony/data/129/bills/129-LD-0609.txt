@@ -1,0 +1,104 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 609
+H.P. 437 House of  Representatives, February 5, 2019
+An Act  To Provide  Municipalities  Additional  Sales Tax Revenue 
+from Lodging Sales
+Reference to the Committee on Taxation  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TERRY of Gorham.
+Cosponsored by Representatives:  CARNEY of  Cape Elizabeth, COOPER of Yarmouth, 
+MATLACK of St.  George, McCREIGHT of Harpswell, TIPPING of Orono, Senator: 
+CHIPMAN of Cumberland.
+
+Page 1 - 129LR1234(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §1812, sub-§1-A, as enacted by PL 2017, c. 211, Pt. B, §4 and 
+3affected by §9, is amended to read:
+41-A.  Computation.  Every retailer shall add the sales tax imposed by section 
+5sections 1811 and 1819 to the sale price on all sales of tangible personal property and 
+6taxable services that are subject to tax under this Part. The tax when so added is a debt of 
+7the purchaser to the retailer until it is paid and is recoverable at law by the retailer from 
+8the purchaser in the same manner as the sale price. When the sale price involves a 
+9fraction of a dollar, the tax computation must be carried to the 3rd decimal place, then 
+10rounded down to the next whole cent whenever the 3rd decimal place is one, 2, 3 or 4 and 
+11rounded up to the next whole cent whenever the 3rd decimal place is 5, 6, 7, 8 or 9.
+12Sec. 2.  36 MRSA §1819 is enacted to read:
+13§1819.  Local sales tax on lodging increment
+141.  Local sales tax on lodging increment.  Beginning January 1, 2020, an additional 
+15tax of 1% is imposed on the value of rental of living quarters in any hotel, rooming house 
+16or tourist or trailer camp that is sold at retail in this State and that is subject to tax at the 
+17rate of 9% under section 1811.
+182.  Distribution of revenue.  By the 20th day of each month, the assessor shall 
+19identify and certify the amount of revenue attributable to each municipality and the 
+20unorganized territory under this section for the previous month and subtract the costs of 
+21administering this section.  The Treasurer of State shall make monthly payments to 
+22municipal treasurers of the net amounts certified by the assessor under this subsection for 
+23each municipality and to the Unorganized Territory Education and Services Fund for the 
+24net amount attributable to the unorganized territory.
+25For purposes of this subsection, "costs of administering this section" means the lesser of 
+26the actual cost to the assessor of administering this section and 2% of the total revenue 
+27generated under this section.
+283.  Effect on revenue sharing and other state aid programs.  Revenue received by 
+29the State pursuant to subsection 1 may not be considered to be receipts from the taxes 
+30imposed under this Part for the purpose of transfers to the Local Government Fund under 
+31Title 30-A, section 5681.  Revenue received pursuant to subsection 1 may not be used to 
+32reduce or eliminate any funding otherwise due a county or municipality under any 
+33provision of law providing aid to the county or municipality, including, but not limited to, 
+34aid for schools, roads, public assistance or jails.
+35Sec. 3.  36 MRSA §1861, as amended by PL 1995, c. 640, §6, is further amended 
+36to read:
+Page 2 - 129LR1234(01)-11§1861.  Imposition
+2A tax is imposed, at the respective rate rates provided in section sections 1811 and 
+31819, on the storage, use or other consumption in this State of tangible personal property 
+4or a service, the sale of which would be subject to tax under section 1764 or 1811.  Every 
+5person so storing, using or otherwise consuming is liable for the tax until the person has 
+6paid the tax or has taken a receipt from the seller, as duly authorized by the assessor, 
+7showing that the seller has collected the sales or use tax, in which case the seller is liable 
+8for it.  Retailers registered under section 1754-B or 1756 shall collect the tax and make 
+9remittance to the assessor.  The amount of the tax payable by the purchaser is that 
+10provided in the case of sales taxes by section 1812.  When tangible personal property 
+11purchased for resale is withdrawn from inventory by the retailer for the retailer's own use, 
+12use tax liability accrues at the date of withdrawal.
+13Sec. 4.  36 MRSA §1951-B, sub-§3, as enacted by PL 2017, c. 245, §1 and 
+14affected by §2, is amended to read:
+153.  Collection of tax by remote seller.  Notwithstanding any provision of law to the 
+16contrary, a person selling tangible personal property, products transferred electronically 
+17or services for delivery into this State is subject to the provisions of this Part and shall 
+18collect and remit the sales tax imposed pursuant to section sections 1811 and 1819 in the 
+19same manner as a retailer that has a physical presence in this State if:
+20A.  The person's gross revenue from delivery of tangible personal property, products 
+21transferred electronically or services that are taxable by this State into this State in the 
+22previous calendar year or current calendar year exceeds $100,000; or
+23B.  The person sold tangible personal property, products transferred electronically or 
+24services that are taxable by this State for delivery into this State in at least 200 
+25separate transactions in the previous calendar year or the current calendar year.
+26SUMMARY
+27This bill provides an incremental sales tax of 1% for those sales currently subject to 
+28the 9% sales tax on lodging.  The incremental revenue, after reduction for administrative 
+29costs, is returned to the municipality or unorganized territory to which the revenue is 
+30attributable.  The amount received may not be used to reduce any other state aid or 
+31revenue sharing to municipalities or the unorganized territory.

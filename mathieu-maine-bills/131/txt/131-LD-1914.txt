@@ -1,0 +1,1462 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1914
+S.P. 774 In Senate, May 9, 2023
+An Act to Enact the Maine Psilocybin Health Access Act
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+Cosponsored by Representative THERIAULT of Fort Kent and
+Senators: BRAKEY of Androscoggin, BRENNER of Cumberland, Representatives: 
+ANKELES of Brunswick, BOYER of Poland, MALON of Biddeford.
+
+Page 1 - 131LR0311(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-I, sub-§73-C is enacted to read:
+373-C.   
+Psilocybin Maine Psilocybin Advisory Board Expenses and 
+Legislative Per 
+Diem 28-B MRSA 
+§2132 
+4Sec. 2.  17-A MRSA §1111-A, sub-§1, as amended by PL 2021, c. 669, §1, is 
+5 further amended to read:
+91.   As used in this section the term "drug paraphernalia" means all equipment, products 
+10 and materials of any kind that are used or intended for use in planting, propagating, 
+11 cultivating, growing, harvesting, manufacturing, compounding, converting, producing, 
+12 processing, preparing, packaging, repackaging, storing, containing or concealing a 
+13 scheduled drug in violation of this chapter or Title 22, section 2383, except that this section 
+14 does not apply to a person who is authorized to possess cannabis for medical use pursuant 
+15 to Title 22, chapter 558‑C, to the extent the drug paraphernalia is used for that person's 
+16 medical use of cannabis; to a person who is authorized to possess cannabis pursuant to Title 
+17 28‑B, to the extent the drug paraphernalia is used for that person's adult use of cannabis; or 
+18 to a cannabis store licensed pursuant to Title 28‑B, to the extent that the drug paraphernalia 
+19 relates to the sale or offering for sale of cannabis by the cannabis store; or to a person who 
+20 is authorized to possess psilocybin pursuant to Title 28-B, to the extent that the drug 
+21 paraphernalia is used for that person's personal use of psilocybin, to the extent the licensee 
+22 is authorized to possess psilocybin or to the extent that the drug paraphernalia relates to the 
+23 sale or offering for sale of psilocybin. It includes, but is not limited to:
+24 A.  Kits used or intended for use in planting, propagating, cultivating, growing or 
+25 harvesting of any species of plant which is a scheduled drug or from which a scheduled 
+26 drug can be derived;
+27 B.  Kits used or intended for use in manufacturing, compounding, converting, 
+28 producing, processing or preparing scheduled drugs;
+29 C.  Isomerization devices used or intended for use in increasing the potency of any 
+30 species of plant that is a scheduled drug;
+31 E.  Scales and balances used or intended for use in weighing or measuring scheduled 
+32 drugs;
+33 F.  Dilutants and adulterants, such as quinine hydrochloride, mannitol, mannite, 
+34 dextrose and lactose, used or intended for use in cutting scheduled drugs;
+35 G.  Separation gins and sifters, used or intended for use in removing twigs and seeds 
+36 from, or in otherwise cleaning or refining, marijuana;
+37 H.  Blenders, bowls, containers, spoons and mixing devices used or intended for use in 
+38 compounding scheduled drugs;
+39 I.  Capsules, balloons, envelopes and other containers used or intended for use in 
+40 packaging small quantities of scheduled drugs; and4
+5
+6
+7
+8
+Page 2 - 131LR0311(01)1 J.  Containers and other objects used or intended for use in storing or concealing 
+2 scheduled drugs.
+3Sec. 3.  28-B MRSA, headnote is amended to read:
+4TITLE 28-B
+5ADULT USE CANNABIS AND PSILOCYBIN
+6Sec. 4.  28-B MRSA Pt. 1 is enacted by adding before chapter 1 the following to 
+7 read:
+8PART 1
+9ADULT USE CANNABIS
+10Sec. 5.  28-B MRSA Pt. 2 is enacted to read:
+11PART 2
+12PSILOCYBIN
+13CHAPTER 5
+14MAINE PSILOCYBIN HEALTH ACCESS ACT
+15SUBCHAPTER 1
+16GENERAL PROVISIONS
+17§2001.  Short title
+18 This chapter may be known and cited as "the Maine Psilocybin Health Access Act."
+19§2002.  Definitions
+20 As used in this chapter, unless the context otherwise indicates, the following terms 
+21 have the following meanings.
+221. Administration session.  "Administration session" means a session in which a client 
+23 consumes a psilocybin product under the supervision of a psilocybin service facilitator.
+242.  Approved medical provider.  "Approved medical provider" means a physician or 
+25 physician assistant licensed under Title 32, chapter 36 or 48, a certified nurse practitioner 
+26 licensed under Title 32, chapter 31 or a naturopathic doctor licensed under Title 32, chapter 
+27 113-B.
+283.  Board.  "Board" means the Maine Psilocybin Advisory Board under section 2132.
+Page 3 - 131LR0311(01)14. Business entity.  "Business entity" means a corporation, limited liability company, 
+2 limited partnership or other legal entity that is registered with the office of the Secretary of 
+3 State.
+45. Client.  "Client" means an individual who receives psilocybin services in this State.
+56. Client information form.  "Client information form" means the form required to be 
+6 completed by a client under subchapter 8.
+77. Department.  "Department" means the Department of Health and Human Services.
+88. Integration session.  "Integration session" means a meeting between a client and a 
+9 psilocybin service facilitator that may occur after the client completes an administration 
+10 session.
+119. Licensee.  "Licensee" means a person holding a current, valid license issued under 
+12 this chapter.
+1310. Licensee representative.  "Licensee representative" means an owner, director, 
+14 officer, manager, employee, agent or other representative of a licensee to the extent that 
+15 person acts in a representative capacity.
+1611. Manufacture.  "Manufacture" means the cultivation, harvesting, production, 
+17 preparation, propagation, compounding, conversion or processing of a psilocybin product 
+18 by extraction from substances of natural origin or by means of chemical synthesis, or by a 
+19 combination of extraction and chemical synthesis, and includes any packaging of the 
+20 psilocybin product or labeling of its container.
+2112. Personal use amount.  "Personal use amount" means the amount of psilocybin 
+22 authorized for a client's use under section 2091, subsection 1, paragraph A.
+2313. Premises.  "Premises" means all public and private enclosed areas as well as areas 
+24 outside of a building used for activities licensed under this chapter, including 
+25 manufacturing psilocybin products, operating a psilocybin service center or providing 
+26 psilocybin services to clients, and includes but is not limited to offices, kitchens, restrooms 
+27 and storerooms.
+2814. Preparation session.  "Preparation session" means a meeting between a 
+29 prospective client and a psilocybin service facilitator that occurs before an administration 
+30 session.
+3115. Psilocybin.  "Psilocybin" means the naturally occurring compound produced by 
+32 various species of fungi as well as psilocin, the substance into which psilocybin is 
+33 converted in the human body.
+3416. Psilocybin Control and Regulation Fund. "Psilocybin Control and Regulation 
+35 Fund" means the fund established under subchapter 14.
+3617. Psilocybin manufacturing facility. "Psilocybin manufacturing facility" means a 
+37 facility licensed under subchapter 4.
+3818. Psilocybin product.  "Psilocybin product" means psilocybin-producing fungi or 
+39 mixtures or substances containing a detectable amount of psilocybin.  "Psilocybin product" 
+40 does not include psilocybin services.
+4119. Psilocybin service center.  "Psilocybin service center" means a place where the 
+42 activities licensed under subchapter 5 may be conducted.
+Page 4 - 131LR0311(01)120. Psilocybin service center operator. "Psilocybin service center operator" means a 
+2 person or entity that operates a psilocybin service center.
+321. Psilocybin service facilitator. "Psilocybin service facilitator" means a person or 
+4 entity licensed in accordance with subchapter 6 to provide psilocybin services.
+522. Psilocybin services.  "Psilocybin services" means services provided to a client 
+6 before, during and after the client's consumption of a psilocybin product, including a 
+7 preparation session, administration session and integration session.
+823. Risk assessment screening. "Risk assessment screening" means a questionnaire 
+9 included in a client information form to guide a psilocybin service facilitator in determining 
+10 whether a client is eligible for psilocybin services as required under section 2081.
+1124. Testing facility.  "Testing facility" means a facility licensed under subchapter 7.
+12§2003.  Scope
+131. Limitations.  A person may not possess, manufacture or test more than a personal 
+14 use amount of psilocybin unless that person is a licensee authorized under this chapter.
+152. Construction.  This chapter may not be construed to:
+16 A. Require the MaineCare program or private health insurance coverage to reimburse 
+17 a person for costs of psilocybin products;
+18 B. Amend or affect state or federal law pertaining to employment matters;
+19 C. Amend or affect state or federal law pertaining to landlord-tenant matters;
+20 D. Prohibit a recipient of or applicant for a federal grant from prohibiting the use, 
+21 possession or manufacture of psilocybin products to the extent necessary to satisfy 
+22 federal requirements for the grant;
+23 E. Prohibit a party to a federal contract or a person applying to be a party to a federal 
+24 contract from prohibiting the use, possession or manufacture of psilocybin products to 
+25 the extent necessary to comply with the terms and conditions of the contract or to 
+26 satisfy federal requirements for the contract;
+27 F. Require a person to violate federal law;
+28 G. Exempt a person from a federal law or allow the person to obstruct the enforcement 
+29 of a federal law;
+30 H. Permit a person to give away any amount of psilocybin as part of a business 
+31 promotion or other commercial activity. This provision does not preclude the charitable 
+32 donation of psilocybin or limit the ability of a psilocybin service center to donate 
+33 psilocybin or provide psilocybin at reduced cost consistent with department rules; or
+34 I. Authorize any activity that is not expressly authorized under this chapter.
+353. Effect of authorized conduct. Conduct authorized under this chapter may not:
+36 A. Constitute child abuse or neglect without a finding of actual threat to the health or 
+37 welfare of a child based on all relevant factors;
+38 B. Be the basis to restrict a person's parenting time with a child without a finding that 
+39 the parenting time would endanger the child's physical health or significantly impair 
+40 the child's emotional development;
+Page 5 - 131LR0311(01)1 C. Be the basis for detention, search or arrest or constitute reasonably articulable 
+2 suspicion of a crime. Psilocybin as permitted by this chapter is not contraband nor 
+3 subject to seizure and may not be harmed or destroyed;
+4 D. Be the basis to deny eligibility for any public assistance program, unless required 
+5 by federal law; or
+6 E. Constitute the use of an illicit substance or otherwise disqualify a person from 
+7 medical care or medical insurance, including organ transplants.
+8§2004.  Rulemaking
+9 The department shall adopt all rules necessary to implement, administer and enforce 
+10 this chapter, including but not limited to rules governing the following:
+111. Possession limits on premises.  The quantity of psilocybin permitted on premises 
+12 at one time.  In adopting rules pursuant to this subsection, the department shall take into 
+13 consideration the demand for psilocybin services in the State, the number and location of 
+14 licensees that operate manufacturing facilities and whether the availability of psilocybin 
+15 products in this State is commensurate with the demand for psilocybin services;
+162. Age verification.  The manner in which a licensee verifies a person's age for the 
+17 purpose of ensuring that a client is 21 years of age or older;
+183. Licensing requirements.  The application process for licensure under this chapter 
+19 and annual renewal of licensure;
+204. License fees.  License fees required for applicants applying for licensure in 
+21 accordance with this chapter.  License fees set by the department may not exceed the cost 
+22 of administering this chapter.  Notwithstanding Title 5, section 8071, subsection 3, 
+23 paragraph B, rules adopted pursuant to this subsection are routine technical rules as defined 
+24 in Title 5, chapter 375, subchapter 2-A;
+255. Prevention of diversion to unauthorized persons.  The prevention of diversion of 
+26 psilocybin products to persons that are not permitted to possess or use psilocybin; and
+276. Administration sessions. A process to allow a psilocybin service facilitator to 
+28 provide psilocybin services at locations other than a psilocybin service center, including a 
+29 client's residence or a medical facility.
+30 The department may not require a client to be diagnosed with or have any particular 
+31 medical condition in order to receive psilocybin services.
+32 In adopting rules, the department shall consider the recommendations of the board.
+33 Except as otherwise provided in this chapter, rules adopted pursuant to this chapter are 
+34 routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+35§2005. Record keeping and inspection of records and premises; notice
+361.  Record keeping; inspection of records.  A licensee shall maintain a complete set 
+37 of all records of the licensee's business transactions, which must be open to inspection and 
+38 examination by the department upon demand and with 72 hours' notice during all business 
+39 hours.  The department may not require the records of a licensee to be maintained on the 
+40 premises of the licensee.
+Page 6 - 131LR0311(01)12. Inspection of premises.  The department may at any time make an examination of 
+2 premises for which a license has been issued for the purpose of determining compliance 
+3 with the provisions of this chapter and the rules adopted pursuant to this chapter.
+4§2006. Administration sessions outside licensed premises prohibited; exception
+5 A client may participate in an administration session only at a psilocybin service center, 
+6 unless the department authorizes a psilocybin service facilitator to provide psilocybin 
+7 services to the client at another location.
+8§2007. Delivery and sale of psilocybin to persons under 21 years of age prohibited
+91. Licensee prohibition. A licensee or licensee representative may not sell or deliver 
+10 a psilocybin product to a person under 21 years of age.  Before selling or providing a 
+11 psilocybin product to a client, the licensee must require the person to produce one of the 
+12 following pieces of identification:
+13 A. A passport;
+14 B. A driver's license;
+15 C. A nondriver identification card issued under Title 29-A, section 1410;
+16 D. A United States military identification card;
+17 E. An identification card issued by one of the federally recognized Indian tribes in this 
+18 State; or
+19 F. Any other identification card issued by a state or territory of the United States that 
+20 bears a photograph of the person, the name of the person, the person's date of birth and 
+21 a physical description of the person.
+22 A licensee or licensee representative is not in violation of this subsection if the licensee or 
+23 licensee representative reasonably relied on an identification provided by a person that did 
+24 not accurately provide that person's age.
+25 A person who violates this subsection commits a civil violation for which a penalty of not 
+26 more than $500 may be adjudged.
+272. False identification.  A person may not produce a piece of identification under 
+28 subsection 1 that falsely indicates the person's age.
+29 A person who violates this subsection commits a Class E crime. 
+30§2008. Psilocybin product to visibly intoxicated person prohibited
+31 A person may not sell, give or otherwise make available a psilocybin product to a 
+32 person who is visibly intoxicated.
+33 A person who violates this section commits a civil violation for which a fine of not 
+34 more than $500 may be adjudged.
+35§2009. Psilocybin product as a prize prohibited
+36 A person may not give a psilocybin product as a prize, premium or consideration for a 
+37 lottery, contest, game of chance, game of skill or competition of any kind.
+38 A person who violates this section commits a civil violation for which a fine of not 
+39 more than $500 may be adjudged. 
+Page 7 - 131LR0311(01)1§2010. Employment of persons under 21 years of age prohibited
+2 A licensee may not employ a person under 21 years of age. The department may verify 
+3 a person's age in accordance with this section.  During an inspection in accordance with 
+4 this chapter, the department may require proof that a person performing work at the 
+5 premises is 21 years of age or older.  If the person does not provide the department with 
+6 acceptable proof of age upon request, the department may require the person to 
+7 immediately cease any activity and leave the premises until the department receives 
+8 acceptable proof of age.  The department may request that the licensee provide proof that 
+9 the person is 21 years of age or older.  Failure of the licensee to respond to the request is 
+10 prima facie evidence that the licensee has allowed the person to perform work at the 
+11 premises for which a license has been issued, except that it is an affirmative defense that 
+12 the person is only temporarily at the premises to make a service, maintenance or repair call 
+13 or for other purposes and is not an employee of the licensee.
+14 A person who violates this section commits a civil violation for which a fine of not 
+15 more than $500 may be adjudged. 
+16§2011. Publication of information related to use of psilocybin
+17 The department shall publish on a publicly accessible website available medical, 
+18 psychological and scientific studies, research and other information, including but not 
+19 limited to information submitted to the department by the board, relating to the safety and 
+20 efficacy of psilocybin in treating mental health conditions, including but not limited to 
+21 substance use disorder, depression, post-traumatic stress disorder, anxiety disorders and 
+22 end-of-life psychological distress.
+23§2012. Investigation by criminal justice agency of unlawful activity
+24 A criminal justice agency may investigate unlawful activity under this chapter and may 
+25 conduct a criminal history record check of a licensee or its employees during an 
+26 investigation of unlawful activity in relation to a licensee.  A law enforcement officer may 
+27 enforce any provision of this chapter and may assist the department in enforcing this 
+28 chapter.
+29 A law enforcement officer who has notice, knowledge or reasonable suspicion of a 
+30 violation of this chapter shall immediately notify the district attorney who has jurisdiction 
+31 over the violation and furnish that district attorney with names and addresses of any 
+32 witnesses to the violation or other information related to the violation.
+33§2013. Cooperation of other state entities; immunity
+34 All state agencies, including but not limited to the Department of Administrative and 
+35 Financial Services, shall upon request of the department assist and cooperate with the 
+36 department to the extent necessary for the department to carry out its duties under this 
+37 chapter.  The Department of Agriculture, Conservation and Forestry may possess, test and 
+38 dispose of psilocybin products on behalf of the department.
+39 Notwithstanding any provision of law to the contrary, the State, its agencies and 
+40 employees are immune from any liability arising out of the performance or nonperformance 
+41 of any duty or function, or the exercise of any power, under this chapter or any other law 
+42 of this State relating to psilocybin products.
+43§2014. Immunity; refusal to serve; insurance
+Page 8 - 131LR0311(01)11.  Reliance immunity.  A licensee or licensee representative may reasonably rely 
+2 upon all statements, declarations and representations made by a client on a client 
+3 information form unless a reasonable person would have reason to believe a statement, 
+4 declaration or representation on the form was incorrect or altered.  A licensee or licensee 
+5 representative who in good faith reasonably relies on statements, declarations and 
+6 representations made by a client on a client information form in accordance with this 
+7 subsection may not be found in violation of this chapter for selling or serving a psilocybin 
+8 product to that person based on those statements, declarations and representations.  Nothing 
+9 in this subsection creates any immunity for a licensee or licensee representative who has 
+10 otherwise violated this chapter or a rule adopted pursuant to this chapter.
+112.  Refusal to serve.  Nothing in this chapter requires a licensee or licensee 
+12 representative to provide psilocybin services to any person.  Except as provided in this 
+13 section, a licensee or licensee representative may refuse to provide psilocybin services to 
+14 any person or may cease providing such services to a client for any reason or for no reason 
+15 as long as those reasons are not on the basis of the person's protected class status as defined 
+16 in the Maine Human Rights Act.  A licensee or licensee representative may not cease 
+17 providing psilocybin services during an administration session after the client has 
+18 consumed a psilocybin product except as authorized by the department by rule or as 
+19 necessary in an emergency.
+203. Insurance.  The department may by rule require licensees to maintain general 
+21 liability insurance in an amount the department determines is reasonably affordable and 
+22 available for the purpose of protecting licensees against damages resulting from causes of 
+23 action related to activities undertaken pursuant to this chapter.
+244.  Discrimination.  A licensee may not discharge, demote, suspend or in any manner 
+25 discriminate or retaliate against an employee of the licensee with regard to promotion, 
+26 compensation or other terms, conditions or privileges of employment on the basis that the 
+27 employee has in good faith reported information to the department about an action or 
+28 inaction of the licensee that the employee reasonably believes is a violation of this chapter 
+29 or any rules adopted pursuant to this chapter. 
+30§2015.  Enforceability of contracts
+31 A contract involving psilocybin products is not unenforceable on the basis that 
+32 manufacturing, distributing, dispensing, possessing or using psilocybin products is 
+33 prohibited by federal law.
+34§2016. Department hotline for verification of license
+35 The department shall maintain a telephone hotline for the following persons to inquire 
+36 if an address is the location of a licensee's premises or is the location of premises for which 
+37 an application for licensure has been submitted under this chapter: 
+381. Designation by municipality. A person designated by a municipality or a county as 
+39 a contact for purposes of this chapter; 
+402. Designation by state agency. A person designated by a state agency as a contact for 
+41 purposes of this chapter; and 
+423. Designation by water district. A person designated by a water district as a contact 
+43 for purposes of this chapter. 
+Page 9 - 131LR0311(01)1§2017.  Confidentiality
+21. Confidential.  The following information obtained by the department under this 
+3 chapter is confidential and may not be disclosed except as provided in subsection 2:
+4 A. Personally identifiable information, as defined by the department by rule, other than 
+5 the name of a direct owner.  For purposes of this paragraph, "direct owner" means an 
+6 individual listed on an application for a license who is an owner of the business 
+7 operating or to be operated under the license.  "Direct owner" does not include a legal 
+8 entity other than an individual and does not include an individual who is a general 
+9 partner, limited partner, member, shareholder or other direct or indirect owner of such 
+10 a legal entity;
+11 B.  The address of premises for which a license has been issued or for which an 
+12 applicant has proposed licensure under this chapter;
+13 C. Information related to the security plan or the operational plan for premises for 
+14 which a license has been issued or for which an applicant has proposed licensure under 
+15 this chapter; and
+16 D. Information related to any record that the department determines by rule to contain 
+17 proprietary information of a licensee.
+182. Exceptions.  Information designated as confidential under subsection 1 may be 
+19 disclosed to a law enforcement agency for law enforcement purposes. 
+20SUBCHAPTER 2
+21GENERAL LICENSING REQUIREMENTS
+22§2021. License process; license types
+23 Beginning January 15, 2025, the department, upon receipt of an application from an 
+24 applicant for a license under this chapter, shall, upon determination that all applicable 
+25 requirements for that license are met, issue to the applicant the license.  The department 
+26 may not unreasonably delay processing, approving or denying an application or, if an 
+27 application is approved, unreasonably delay issuing the license.
+281. License types.  The following licenses may be issued under this chapter in 
+29 accordance with all applicable requirements of this chapter:
+30 A. A psilocybin service center license;
+31 B. A psilocybin service facilitator license; 
+32 C. A psilocybin manufacturing facility license; or
+33 D. A testing facility license.
+34 Except as otherwise provided in this chapter, the department may not impose any limitation 
+35 on the number of each type of license that it issues to a qualified applicant or on the total 
+36 number of each type of license that it issues to qualified applicants pursuant to this chapter.
+37§2022. General licensing criteria
+Page 10 - 131LR0311(01)1 An applicant for a license under this chapter shall meet each of the requirements of this 
+2 section.  An applicant shall disclose in or include with its application the name and address 
+3 of the applicant and each natural person and business entity that would have a direct or 
+4 indirect financial interest in the license and the nature and extent of that financial interest 
+5 and, if applicable, the nature and extent of any financial interest the person or entity has in 
+6 any other license applied for or issued under this chapter.
+71. Age. The applicant must be at least 21 years of age.  If the applicant is a business 
+8 entity, every officer, director, manager and general partner of the business entity must meet 
+9 this requirement.
+102. Incorporated in State.  If the applicant is a business entity, the business entity must 
+11 be incorporated in the State or otherwise formed or organized under the laws of the State.
+123. No disqualifying drug offense.  The applicant may not have been previously 
+13 convicted of violating a federal law, state law or local ordinance if the conviction is 
+14 substantially related to the fitness and ability of the applicant to lawfully carry out activities 
+15 under the license, as determined by the department by rule.  If the applicant is a business 
+16 entity, every officer, director, manager and general partner of the business entity must 
+17 satisfy this requirement.  The department may not determine that an individual's prior 
+18 criminal history related to drug offenses relates to the fitness and ability of the applicant to 
+19 lawfully carry out activities under the license.
+204. Criminal history record check.  The applicant must have submitted to a criminal 
+21 history record check in accordance with section 2024.  If the applicant is a business entity, 
+22 every officer, director, manager and general partner of the business entity must satisfy this 
+23 requirement.
+245. Compliance.  An applicant who has previously held a license under this chapter 
+25 must have a good record of compliance with this chapter and any rules adopted in 
+26 accordance with this chapter and may not have had a license issued under this chapter 
+27 revoked for any reason. 
+286. Truthfulness.  The applicant may not make any false statements to the department.  
+29 If the applicant is a business entity, every officer, director, manager and general partner of 
+30 the business entity is subject to this requirement.
+317. Health and safety.  The applicant must demonstrate an ability to meet any public 
+32 health and safety standards and industry best practices established by the department by 
+33 rule.
+348. Form.  The applicant must disclose the applicant's name, address, location where 
+35 the licensed activities will be conducted and any other information requested by the 
+36 department in the manner required by the department, except that an applicant for a 
+37 psilocybin service facilitator license need not identify a location where the licensed 
+38 activities will be conducted.
+399. Payment of fees.  The applicant must pay the fees established by the department by 
+40 rule.  Fees collected pursuant to this subsection must be deposited into the Psilocybin 
+41 Control and Regulation Fund.
+42§2023. Additional licensing considerations
+Page 11 - 131LR0311(01)11. Financial disclosures.  An applicant for a license under this chapter must submit, at 
+2 the request of the department, the name and address of each person that has a financial 
+3 interest in the business that will be operated under the license and the nature and extent of 
+4 that financial interest.
+52. Limitations on psilocybin service centers.  A psilocybin service center may not be 
+6 located:
+7 A. In any area that is not within the limits of an incorporated municipality;
+8 B. In any area that is zoned exclusively for residential use; or
+9 C.  Within 1,000 feet of a public or private elementary or secondary school, unless:
+10 (1) The department determines that there is a physical or geographic barrier capable 
+11 of preventing children from reaching the premises of the psilocybin service center; 
+12 or
+13 (2) The school had not previously been attended by children and was not attended 
+14 by children at the time the license was issued.
+15 A psilocybin service center must meet any other requirements for the facility established 
+16 by the department by rule.
+17§2024. Criminal history record check
+18 The department shall request a criminal history record check for each applicant for a 
+19 license or permit under this chapter and may at any time require a person applying for a 
+20 license or permit to submit to a criminal history record check in accordance with this 
+21 section.  If the applicant is a business entity, every officer, director, manager and general 
+22 partner of the business entity and any individual who holds a financial interest in the 
+23 business entity of at least 10% must submit to a criminal history record check in accordance 
+24 with this section.
+251.  Record of public criminal history information required.  Criminal history record 
+26 information obtained from the Maine Criminal Justice Information System, established in 
+27 Title 16, section 631, pursuant to this section must include a record of public criminal 
+28 history record information as defined in Title 16, section 703, subsection 8.
+292.  Availability of criminal history record information.  The subject of a Federal 
+30 Bureau of Investigation criminal history record check may obtain a copy of the criminal 
+31 history record check by following the procedures outlined in 28 Code of Federal 
+32 Regulations, Sections 16.32 and 16.33.  The subject of a state criminal history record check 
+33 may inspect and review the criminal history record information pursuant to Title 16, section 
+34 709.
+353.  Use of criminal history record information.  State and national criminal history 
+36 record information obtained by the department under this section may be used only for the 
+37 purpose of screening an applicant for a license or permit under this chapter.
+384.  Confidentiality.  All criminal history record information obtained by the 
+39 department pursuant to this section is confidential, is for the official use of the department 
+40 only and may not be disseminated outside of the department or disclosed to any other 
+41 person or entity except as provided in subsection 2.
+Page 12 - 131LR0311(01)15.  Rules.  The department, after consultation with the Department of Public Safety, 
+2 Bureau of State Police, State Bureau of Identification, shall adopt rules to implement this 
+3 section.
+4§2025. Application process; issuance of license
+51. Forms; payment of fees.  An applicant for a license under this chapter shall file an 
+6 application on a form prepared and furnished by the department for the license sought along 
+7 with the appropriate application fee.
+82. Application for multiple licenses. An applicant may apply for and be granted 
+9 multiple licenses of any license type under this chapter, except that a person may not have 
+10 a financial interest in:
+11 A. More than one psilocybin manufacturing facility;
+12 B. More than 5 psilocybin service centers; or
+13 C. A testing facility and a psilocybin manufacturing facility or psilocybin service 
+14 center.
+153. Each license separate; locations.  Each license issued by the department to an 
+16 applicant under this chapter is separate and distinct from any other license issued by the 
+17 department to that same applicant under this chapter.
+18 A. Except in the case of a psilocybin service facilitator's license, a person must obtain 
+19 a separate license under this chapter for each geographic location where the licensed 
+20 activities will occur. 
+21 B. A person may hold a psilocybin manufacturing license and a psilocybin service 
+22 center license at the same or different locations.
+234. Licensee must maintain possession of premises.  As a condition of licensure, a 
+24 licensee must at all times maintain possession of the licensed premises under the license, 
+25 whether pursuant to a lease, rental agreement or other arrangement for possession of the 
+26 premises or by virtue of ownership of the premises.  If a licensee fails to maintain 
+27 possession of the licensed premises, the licensee shall immediately cease all licensed 
+28 activities and may either apply to the department for relocation of the licensed premises or 
+29 may terminate its license in accordance with this chapter.
+30§2026. Denial of license
+311. Denial for good cause.  The department, for good cause, may deny an application 
+32 for an initial license, a license renewal, a transfer of ownership interests or a relocation of 
+33 licensed premises.  Denial of an application by the department pursuant to this section 
+34 constitutes a final agency action as defined in Title 5, section 8002, subsection 4.
+352. Good cause defined.  As used in this section, "good cause" means a finding by the 
+36 department that an applicant or licensee:
+37 A. Has violated any provisions of this chapter or any rules adopted in accordance with 
+38 this chapter; or
+39 B. Has been convicted of a crime or an offense under this chapter, except that the 
+40 department may not consider a conviction for an offense under this chapter if the date 
+41 of the conviction is 2 or more years before the date of the application.
+Page 13 - 131LR0311(01)1 "Good cause" does not include a violation by an applicant or licensee of a federal law 
+2 prohibiting manufacture, use or possession of psilocybin products.
+33.  Grounds for suspension or revocation.  The department may suspend or revoke a 
+4 license issued under this chapter for a violation by the licensee, or by an agent or employee 
+5 of the licensee, of the provisions of this chapter, rules adopted pursuant to this chapter or 
+6 the terms, conditions or provisions of the licensee's license or if the department finds:
+7 A. That the licensee or an agent or employee of the licensee has made a false 
+8 representation or statement to the department in order to induce or prevent action by 
+9 the department;
+10 B. That the licensee is insolvent or incompetent or physically unable to carry on the 
+11 licensed activities;
+12 C. That the licensee or an agent or employee of the licensee has misrepresented to a 
+13 person or the public any psilocybin products sold by the licensee;
+14 D. That the licensee or an agent or employee of the licensee has been convicted of any 
+15 crime or found by a court of competent jurisdiction to have violated any provision of 
+16 this chapter or of a municipal ordinance, if the violation of that ordinance occurred on 
+17 the premises for which the license was issued;
+18 E. That the licensee or an agent or employee of the licensee has diverted psilocybin 
+19 products to an entity that is not operating legally under the laws of this State;
+20 F. That the licensee or an agent or employee of the licensee has purchased or received 
+21 a psilocybin product from an unlicensed source or has sold, stored or transferred a 
+22 psilocybin product in a manner that is not permitted by the licensee's license; or
+23 G. That a person with a financial interest in the business operating or to be operated 
+24 under the license committed or failed to take an act if that act or failure to act would 
+25 constitute grounds for the department to refuse to issue, or to suspend, revoke or refuse 
+26 to renew, the license if the person were the licensee or applicant for the license.
+27§2027. License term; renewal
+28 A license issued by the department pursuant to this chapter is effective for a period of 
+29 one year from the date of issuance and may be renewed pursuant to this section.
+301. Application. A licensee seeking to renew an existing license must file an application 
+31 for renewal with the department, on forms prepared and furnished by the department, not 
+32 less than 30 days prior to the date of expiration of the license.
+332. Expired license.  A person whose license has expired shall immediately cease all 
+34 activities authorized under that license and ensure that all psilocybin in the possession of 
+35 the person pursuant to that license is forfeited to the department for destruction in 
+36 accordance with this chapter.
+37§2028. License properties; transfer; leftover product
+38 A license issued under this chapter is a personal privilege, expires upon the death of 
+39 the licensee except as otherwise expressly provided in this chapter, does not constitute 
+40 property, is not alienable, is not subject to attachment or execution and may not be 
+41 transferred by will, devise or intestate succession. The department may by rule provide for 
+42 the manner and conditions under which:
+Page 14 - 131LR0311(01)11. Psilocybin products. Psilocybin products left by a deceased, insolvent or bankrupt 
+2 person or licensee may be sold or otherwise disposed of and any security interest in the 
+3 products foreclosed or settled;
+42. Business. The business of a deceased, insolvent or bankrupt licensee may be 
+5 operated for a reasonable period following the death, insolvency or bankruptcy; and
+63. Security interest. A person with a security interest in relevant property may 
+7 continue to operate at the premises for which a license has been issued under this chapter 
+8 for a reasonable period after default on the indebtedness by the licensee.
+9SUBCHAPTER 3
+10PERMIT REQUIREMENTS; PERMIT VIOLATIONS
+11§2031. Permit required
+121. Permit. A person who performs any of the following activities for or on behalf of a 
+13 licensee must have a valid permit issued by the department under this subchapter:
+14 A. Providing psilocybin services;
+15 B. Possessing, manufacturing, securing or selling of psilocybin products; or
+16 C. Verifying a client's age.
+17 A licensee shall verify that a person has a valid permit before allowing that person to 
+18 perform any of the activities listed in this subsection.  A permit issued under this subsection 
+19 is personal to the individual permittee and does not grant any authority to any person other 
+20 than the named permittee.  
+212. Qualifications. The department shall adopt rules establishing the qualifications for 
+22 obtaining a permit under this section, the term of a permit issued, procedures for applying 
+23 for and renewing a permit and reasonable application, issuance and renewal fees for a 
+24 permit.
+25 The qualifications for the permit must include training requirements relating to checking 
+26 client identification, detecting intoxication, handling psilocybin products, manufacturing 
+27 psilocybin products, the requirements of this chapter or rules adopted in accordance with 
+28 this chapter or any other matter the department determines necessary to protect the public 
+29 health and safety. The department may not require an individual to successfully complete 
+30 any training more than once, except as a precondition for lifting a suspension of a permit 
+31 or, after a revocation of a permit, for applying for a new permit. The department or other 
+32 provider of required training may charge a reasonable fee for that training.
+333.  Denial, revocation or suspension of permit.  The department, for good cause, may 
+34 deny an application for an initial permit or a permit renewal or in an adjudicatory 
+35 proceeding in accordance with Title 5, chapter 375 may suspend or revoke a permit.  Denial 
+36 of an application by the department pursuant to this section constitutes a final agency action 
+37 as defined in Title 5, section 8002, subsection 4. As used in this subsection, "good cause" 
+38 means a finding by the department that:
+39 A. A person has violated any provisions of this chapter or any rules adopted in 
+40 accordance with this chapter; or
+Page 15 - 131LR0311(01)1 B. A person has been convicted of a crime or is convicted of an offense under this 
+2 chapter, except that the department may not consider a conviction for an offense under 
+3 this chapter if the date of the conviction is 2 or more years before the date of the 
+4 application or renewal.
+5 "Good cause" does not include the fact that psilocybin products are prohibited by federal 
+6 law.
+7SUBCHAPTER 4
+8LICENSING AND OPERATING REQUIREMENTS FOR PSILOCYBIN 
+9MANUFACTURING FACILITIES
+10§2041. Manufacturing facility license types; authorized and prohibited conduct
+11 Subject to the requirements and restrictions of this subchapter and the other applicable 
+12 requirements of this chapter, the department may issue to an applicant a psilocybin 
+13 manufacturing facility license.  The department may by rule establish different types of 
+14 psilocybin manufacturing facility licenses that allow the licensee to engage in different 
+15 types of manufacturing activities.  The department may by rule require information from 
+16 an applicant in addition to what is required under this chapter as a prerequisite to issuing 
+17 psilocybin manufacturing facility licenses.
+181. Authorized conduct.  A psilocybin manufacturing facility licensee may engage in 
+19 the following activities in accordance with rules adopted by the department:
+20 A. Deliver psilocybin products to premises for which a license has been issued under 
+21 this chapter;
+22 B. Receive psilocybin products from another psilocybin manufacturing facility 
+23 licensee; and
+24 C. Manufacture psilocybin products.
+25 A psilocybin manufacturing facility licensee is not required to manufacture a psilocybin 
+26 product by means of chemical synthesis.
+272. Prohibited conduct.  A psilocybin manufacturing facility licensee may not:
+28 A. Manufacture psilocybin products outdoors;
+29 B. Sell or deliver a psilocybin product to a person under 21 years of age;
+30 C. Employ a person under 21 years of age in manufacturing psilocybin products;
+31 D. Make false representations or statements to the department in order to induce or 
+32 prevent action by the department;
+33 E. Supply or sell impure or otherwise deleterious psilocybin products;
+34 F. Misrepresent to a person or to the public any psilocybin products; or
+35 G. Use information obtained to verify a person's age for any purpose other than 
+36 verifying a person's age.
+37SUBCHAPTER 5
+Page 16 - 131LR0311(01)1LICENSING AND OPERATING REQUIREMENTS FOR PSILOCYBIN 
+2SERVICE CENTERS
+3§2051. Conduct of psilocybin service center licensees
+4 Subject to the requirements and restrictions of this subchapter and the other applicable 
+5 requirements of this chapter, the department may issue to an applicant a psilocybin service 
+6 center license.
+71. Authorized conduct.  A psilocybin service center licensee may engage in the 
+8 following activities in accordance with rules adopted by the department:
+9 A. Deliver psilocybin products to premises for which a license has been issued;
+10 B. Receive psilocybin products from a psilocybin manufacturing facility licensee or 
+11 another psilocybin service center licensee; and
+12 C. Sell psilocybin products to a client on the premises for which the license has been 
+13 issued.
+142. Prohibited conduct.  A psilocybin service center licensee may not:
+15 A. Sell or deliver a psilocybin product to a person under 21 years of age;
+16 B. Employ a person under 21 years of age in the psilocybin service center;
+17 C. Make false representations or statements to the department in order to induce or 
+18 prevent action by the department;
+19 D. Supply or sell impure or otherwise deleterious psilocybin products;
+20 E. Misrepresent to a person or to the public any psilocybin products; or
+21 F. Use information obtained to verify a person's age for any purpose other than 
+22 verifying a person's age.
+23SUBCHAPTER 6
+24LICENSING AND OPERATING REQUIREMENTS FOR PSILOCYBIN 
+25SERVICE FACILITATORS
+26§2061. Minimum qualifications
+271. Qualifications.  In addition to the other applicable licensing requirements required 
+28 by this chapter, an applicant for a psilocybin service facilitator license must:
+29 A. Meet any education or training requirements established by the department by rule, 
+30 except that the department may not require a degree from an institution of higher 
+31 education;
+32 B. Meet any examination requirements established by the department by rule, except 
+33 that the department may provide for waivers of examination requirements in cases it 
+34 determines appropriate.  The department shall offer any required examination at least 
+35 twice annually.  The department may appoint a person to conduct or supervise 
+36 examinations of applicants.  An applicant may retake any failed section of the 
+37 examination in accordance with rules adopted by the department; and
+Page 17 - 131LR0311(01)1 C. Meet any other training, education, skill or fitness requirements adopted by the 
+2 department by rule, such as:
+3 (1) Facilitation skills that are affirming, nonjudgmental and nondirective; and
+4 (2) Support skills for clients during an administration session, including specialized 
+5 skills relating to client safety and clients who may have mental health conditions, 
+6 ability to establish a proper environment in which psilocybin services occur and 
+7 social and cultural skills.
+82.  Training course approval.  The department shall establish a process to approve 
+9 training courses for psilocybin service facilitators.  To obtain approval of a course, the 
+10 person providing the course must submit an outline of instruction to the department and to 
+11 the Department of Education that includes the course topics, total hours of instruction, 
+12 hours of lectures in theory and hours of instruction in application of practical skills.
+133. Professional conduct. The department shall establish by rule a code of professional 
+14 conduct, including a code of ethics, for psilocybin service facilitators.  The department 
+15 shall establish standards of practice and professional responsibility for psilocybin service 
+16 facilitators.
+174. Authorized conduct; generally.  A psilocybin service facilitator licensee may 
+18 engage in the following activities in accordance with rules adopted by the department:
+19 A. Deliver psilocybin products to premises for which a license has been issued under 
+20 this chapter;
+21 B. Receive psilocybin products from a psilocybin manufacturing facility licensee or 
+22 another psilocybin service facilitator licensee; and
+23 C. Facilitate the use of psilocybin products by a client as part of an administration 
+24 session.
+25SUBCHAPTER 7
+26LICENSING AND OPERATING REQUIREMENTS FOR TESTING FACILITIES
+27§2071. Qualifications
+28 In addition to meeting the licensing requirements under this chapter, an applicant for a 
+29 testing facility license must meet qualifications, including accreditation standards, 
+30 established by the department by rule.
+31§2072. Testing standards
+32 The department may adopt rules requiring a testing facility licensee to test psilocybin 
+33 products sold or transferred to others by a psilocybin manufacturing facility licensee.  The 
+34 department may not require a psilocybin product to undergo the same test more than once 
+35 unless the product is processed into a different type of psilocybin product or the condition 
+36 of the psilocybin product has fundamentally changed.  In adopting rules under this section, 
+37 the department shall consider the cost of a potential testing procedure and how that cost 
+38 will affect the cost to clients.  The department may not adopt rules that are more restrictive 
+39 than is reasonably necessary to protect the public health and safety.
+Page 18 - 131LR0311(01)1 The department shall adopt rules establishing standards for testing psilocybin products 
+2 and identify appropriate tests for different types of psilocybin products and manufacturing 
+3 processes that are necessary to protect the public health and safety, including but not limited 
+4 to protection from microbiological contaminants, pesticides, other contaminants, solvents 
+5 and excessive psilocybin concentration.
+6§2073. Conduct of testing facility licensees
+71.  Authorized conduct.  A testing facility licensee may engage in the following 
+8 activities in accordance with rules adopted by the department:
+9 A. Deliver psilocybin products to premises for which a license has been issued under 
+10 this chapter; and
+11 B. Receive psilocybin products from a psilocybin manufacturing facility licensee or 
+12 another psilocybin service center licensee.
+132. Prohibited conduct.  A testing facility licensee may not:
+14 A. Sell or deliver a psilocybin product to a person under 21 years of age;
+15 B. Employ a person under 21 years of age in the testing facility;
+16 C. Make false representations or statements to the department in order to induce or 
+17 prevent action by the department; 
+18 D. Allow licensed premises to be noisy or unsanitary or permit any person on the 
+19 premises to be lewd or disorderly;
+20 E. Supply or sell impure or otherwise deleterious psilocybin products;
+21 F. Misrepresent to a person or to the public any psilocybin products; or
+22 G. Use information obtained to verify a person's age for any purpose other than 
+23 verifying a person's age.
+24SUBCHAPTER 8
+25OPERATING REQUIREMENTS FOR PROVIDING PSILOCYBIN SERVICES
+26§2081. Psilocybin services
+271.  Requirements.  A psilocybin service center and psilocybin service facilitator shall 
+28 comply with the requirements of this section.  The department shall adopt rules regarding 
+29 the services provided by psilocybin service centers and the provision of psilocybin services 
+30 to a client by a psilocybin service facilitator.  The rules must:
+31 A. Require a psilocybin service facilitator to obtain a complete client information form 
+32 signed by the prospective client and, if department rules require, an approved medical 
+33 provider if the prospective client meets the criteria identified by the department in a 
+34 risk assessment screening;
+35 B. Require a psilocybin service facilitator to hold a preparation session with a client 
+36 before the client participates in an administration session; 
+Page 19 - 131LR0311(01)1 C. Require that, during the preparation session, the psilocybin service facilitator review 
+2 the client information form with the client, including any required review by an 
+3 approved medical provider;
+4 D. Require a psilocybin service facilitator to certify, in a form and manner prescribed 
+5 by the department, that the facilitator obtained a completed client information form and 
+6 conducted a preparation session;
+7 E. Require a psilocybin service facilitator to deliver a copy of the completed client 
+8 information form signed by the client and, if department rules require, by an approved 
+9 medical provider to the psilocybin service center licensee at which the administration 
+10 session will be held; and
+11 F. Permit a preparation session to be held at a psilocybin service center, another 
+12 approved location or via telehealth.
+132. Client information form.  The department shall adopt rules governing client 
+14 information and qualifications to receive psilocybin products and psilocybin services.  The 
+15 rules must:
+16 A. Require a client to complete and sign a client information form prescribed by the 
+17 department before a client participates in an administration session.  The form must:
+18 (1) Solicit from the client such information as may be necessary to enable a 
+19 psilocybin service center licensee and a psilocybin service facilitator to determine 
+20 whether the client is eligible to receive psilocybin products and participate in an 
+21 administration session, including information that may identify risk factors and 
+22 contraindications or that will assist the licensees in meeting any public health and 
+23 safety standards and industry best practices during the administration session;
+24 (2) Contain the risk assessment screening approved by the board that establishes a 
+25 clear basis for eligibility and provides guidance for when additional consultation 
+26 with an approved medical provider is required based on safety concerns;
+27 (3) Contain health and safety warnings and disclosures to the client; and
+28 (4) Contain the signature and approval of an approved medical provider, when 
+29 required; and
+30 B. Require a psilocybin service facilitator to deliver a copy of the completed and signed 
+31 client information form to the psilocybin service center licensee at which the 
+32 administration session will be held and to the psilocybin service facilitator supervising 
+33 the administration session.
+343. Additional medical review. The department shall adopt rules regarding when and 
+35 how medical review by an approved medical provider must be provided prior to the 
+36 provision of psilocybin products to a client by a psilocybin service facilitator based on 
+37 criteria identified in a risk assessment screening. The rules must:
+38 A. Provide clear guidance for psilocybin service facilitators to determine when 
+39 additional medical review is indicated by results of the risk assessment screening on 
+40 the client information form and who is approved to provide the review;
+41 B. Provide a standardized format for requiring and obtaining written client consent 
+42 when further medical review is indicated by the risk assessment screening in order to 
+Page 20 - 131LR0311(01)43 determine whether the use of psilocybin products would put the prospective client at 
+44 increased risk so as to be ineligible to receive psilocybin services at that time;
+3 C. For prospective clients who meet any criteria that indicate additional medical review 
+4 as determined by completion of the risk assessment screening, require an approved 
+5 medical provider to sign the prospective client's client information form confirming 
+6 that there is nothing in the client's disclosed health history indicating that use of 
+7 psilocybin is likely to put the prospective client at an increased risk of an adverse health 
+8 outcome compared to an average, healthy adult; 
+9 D. Require that a medical provider who has not previously signed off on a client 
+10 information form for psilocybin services shall, prior to doing so, submit evidence, 
+11 satisfactory to the department, of completion of training or education related to 
+12 psilocybin, which may include self-directed study; and
+13 E. Permit an approved medical provider who reviews and provides written 
+14 confirmation for psilocybin services under this section to use telehealth services as long 
+15 as it is a synchronous encounter.
+16 Nothing in this chapter prevents a professional licensing board from sanctioning a medical 
+17 provider for failing to properly evaluate or treat a person's medical condition or otherwise 
+18 violating the applicable standard of care for evaluating or treating medical conditions. 
+194. Informed consent required. The department shall adopt rules requiring a 
+20 prospective client to review and sign a document informing the client prior to an 
+21 administration session of the likely effects and potential risks of psilocybin use.
+225. Administration session. The department shall adopt rules governing administration 
+23 sessions.  The rules must:
+24 A. Require that a client complete a preparation session and a client information form 
+25 confirming eligibility prior to an administration session, including additional medical 
+26 review if required;
+27 B. Require an administration session to occur at a psilocybin service center or other 
+28 location approved by the department;
+29 C. Require a psilocybin service facilitator to certify, in a form and manner prescribed 
+30 by the department, that the client completed an administration session; and
+31 D. Prohibit a psilocybin service facilitator from consuming a psilocybin product during 
+32 an administration session that the psilocybin service facilitator is supervising.
+336. Integration session. The department shall adopt rules defining and governing 
+34 integration sessions.  The rules must:
+35 A. Require, upon completion of an administration session, that a psilocybin service 
+36 facilitator offer to the client the opportunity to participate in an integration session;
+37 B.  Allow a client to decline to participate in an integration session;
+38 C.  Allow any integration session to occur at a psilocybin service center, at another 
+39 location or via telehealth; and
+40 D. Require a psilocybin service facilitator to certify, in a form and manner prescribed 
+41 by the department, if a client completed an integration session.1
+2
+Page 21 - 131LR0311(01)17. Confidentiality.  A psilocybin service center and psilocybin service facilitator may 
+2 not disclose any information that may be used to identify a client or any communication 
+3 made by a client during the course of providing psilocybin services or selling psilocybin 
+4 products to the client, except when:
+5 A. The client or a person authorized to act on behalf of the client gives consent to the 
+6 disclosure;
+7 B. The client initiates legal action or makes a complaint against the psilocybin service 
+8 center operator, psilocybin service facilitator or employee of either;
+9 C. The communication reveals the intent to commit a crime harmful to the client or 
+10 others;
+11 D. The communication reveals that a minor may have been the victim of a crime or 
+12 physical, sexual or emotional abuse or neglect;
+13 E. Responding to an inquiry by the department made during the course of an 
+14 investigation into the conduct of a psilocybin service center operator, psilocybin 
+15 service facilitator or employee under this chapter; or
+16 F. The information or communication is required or authorized to be released in 
+17 accordance with Title 36, chapter 727.
+18SUBCHAPTER 9
+19PERSONAL USE OF PSILOCYBIN
+20§2091. Personal use of psilocybin
+211. Personal use. Subject to the limitations in this chapter, but notwithstanding any 
+22 provision of law to the contrary, the following acts are not an offense under state law or the 
+23 laws of any locality within the State or subject to a civil fine, penalty or sanction or the 
+24 basis for detention, search or arrest, to deny any right or privilege or to seize or forfeit assets 
+25 under state law or the laws of any locality if the person engaging in the act is 21 years of 
+26 age or older: 
+27 A. Possessing, using, processing, transporting, obtaining, ingesting or giving away 
+28 without remuneration to a person 21 years of age or older not more than 2 grams of a 
+29 psilocybin product or 4 ounces of fungi containing psilocybin;
+30 B. Possessing, growing, cultivating or processing plants or fungi capable of producing 
+31 psilocybin for personal use, as long as the plants and fungi and any psilocybin produced 
+32 in excess of a personal use amount are kept at the person's home or other private 
+33 residence or upon the grounds of that home or private residence and are secure from 
+34 access by a person under 21 years of age; and 
+35 C. Assisting another person who is 21 years of age or older, or allowing property to be 
+36 used, in any of the actions or conduct permitted under this subsection.
+37§2092. Prior conviction
+38 A person who has completed a sentence for a conviction of conduct authorized under 
+39 this chapter, whether by trial or plea of guilty or nolo contendere, who would not have been 
+Page 22 - 131LR0311(01)40 guilty of an offense under this chapter had it been in effect at the time of the offense may 
+41 file a petition before the trial court that entered the judgment of conviction in the person's 
+42 case to seal the record of the conviction at no cost. If there is no objection from the district 
+43 attorney, the court shall automatically seal the record. If there is an objection by the district 
+44 attorney, a hearing must be held and the court shall determine if the record of the conviction 
+45 does not qualify to be sealed under this chapter. If the record does not qualify to be sealed, 
+46 the court shall deny the sealing of the record. Nothing in this section may be construed to 
+47 diminish or abrogate any rights or remedies otherwise available to the petitioner or 
+48 applicant.
+10SUBCHAPTER 10
+11LOCAL REGULATION
+12§2101. Preemption; limited regulation
+13 The provisions of this chapter are intended to operate uniformly in this State and to 
+14 preempt any inconsistent municipal regulation. In accordance with this section, a 
+15 municipality may adopt ordinances that impose reasonable regulations governing activities 
+16 on premises for which a license has been issued under this chapter, except that a 
+17 municipality may not require a license to conduct any activity licensed under this chapter, 
+18 impose a tax or fee on the manufacture or sale of psilocybin products or the sale of 
+19 psilocybin services or prohibit more than one psilocybin service center from being located 
+20 in the municipality as long as the distance between the centers is greater than 1,000 feet.  
+21 For purposes of this subsection, "reasonable regulations" means the following, to the extent 
+22 consistent with the provisions of this chapter: 
+231. Conditions for manufacturing facilities. Conditions on the manner in which a 
+24 psilocybin manufacturing facility licensee may manufacture psilocybin products;
+252. Conditions for psilocybin service centers. Conditions on the manner in which a 
+26 psilocybin service center licensee may provide psilocybin services;
+273. Hours. Limitations on the hours during which licensed premises may operate;
+284. Public access. Requirements related to the public's access to licensed premises; 
+29 and
+305. Location. Limitations on where licensed premises may be located.
+31 Nothing in this section prohibits a municipality from allowing the manufacture of 
+32 psilocybin as a farm use on land zoned for farm or forest use.
+33SUBCHAPTER 11
+34LABELING AND PACKAGING; ADVERTISING AND MARKETING; HEALTH 
+35AND SAFETY
+36§2111. Labeling requirements1
+2
+3
+4
+5
+6
+7
+8
+9
+Page 23 - 131LR0311(01)1 The department shall adopt rules necessary to protect the public health and safety that 
+2 establish standards for the labeling of psilocybin products.
+31.  Labeling standards. The department may establish different labeling standards for 
+4 different varieties and types of psilocybin products.
+52.  Preapproval; fee. The department may require a licensee to submit a label intended 
+6 for use on a psilocybin product for preapproval before the licensee may sell or transfer a 
+7 psilocybin product bearing the label and the department may impose a fee for the 
+8 preapproval process.
+93.  Cost. The department shall consider the cost of meeting a potential requirement and 
+10 how that cost will affect the cost to the client.
+114.  Rules not more restrictive than necessary. The department may not adopt rules 
+12 governing labeling that are more restrictive than reasonably necessary to protect the public 
+13 health and safety.
+145.  Imprecise labeling.  The department shall by rule prohibit a licensee from placing 
+15 or allowing the placement of a mark or label on the container of a psilocybin product that 
+16 is kept for sale if the mark or label does not precisely and clearly indicate the nature of the 
+17 container's contents or if the mark or label in any way might deceive a person about the 
+18 nature, composition, quantity, age or quality of the container's contents.
+196.  Deceptive labeling; injurious or adulterated ingredients. The department shall 
+20 by rule prohibit a licensee from selling any psilocybin product that, in the department's 
+21 judgment, is deceptively labeled or contains injurious or adulterated ingredients.
+22§2112. Packaging requirements; advertising
+23 As necessary to protect the public health and safety, the department shall adopt rules 
+24 establishing standards for the packaging and advertising of psilocybin products.
+251.  Prohibiting advertising. The department may adopt rules prohibiting advertising 
+26 psilocybin products to the public. 
+272.  Regulating advertising. The department may adopt rules regulating and prohibiting 
+28 advertising psilocybin services in a manner that is appealing to minors, promotes excessive 
+29 use, promotes illegal activity, violates the code of professional conduct for psilocybin 
+30 service facilitator licensees established by the department or otherwise presents a 
+31 significant risk to public health and safety.  
+323.  Packaging standards. The department may establish different packaging standards 
+33 for different varieties and types of psilocybin products.  
+344. Labeling standards.  The department may establish different labeling standards for 
+35 different varieties and types of psilocybin packages and may consider the effect on the 
+36 environment of requiring certain packaging.  
+375. Preapproval; fee.  The department may require a licensee to submit packaging 
+38 intended for use on a psilocybin product for preapproval before the licensee may sell or 
+39 transfer a psilocybin product packaged in the packaging and the department may impose a 
+40 fee for the preapproval process. 
+416. Cost. The department shall consider the cost of meeting a potential requirement and 
+42 how that cost will affect the cost to the client.  
+Page 24 - 131LR0311(01)17. Rules not more restrictive than necessary. The department may not adopt rules 
+2 governing labeling that are more restrictive than is reasonably necessary to protect the 
+3 public health and safety.
+4§2113. Dosage requirements
+5 The department shall adopt rules establishing the maximum concentration of 
+6 psilocybin that is permitted in a single serving of a psilocybin product and the number of 
+7 servings that are permitted in a psilocybin product package.
+8§2114. Prohibition on sale to protect health and safety 
+9 A person may not sell or offer for sale a psilocybin product unless the psilocybin 
+10 product complies with the minimum standards prescribed by the provisions of this chapter 
+11 and the rules adopted pursuant to this chapter.  The department may prohibit the sale of a 
+12 psilocybin product for a reasonable period of time for the purpose of determining whether 
+13 the psilocybin product complies with the minimum standards prescribed by the provisions 
+14 of this chapter and the rules adopted pursuant to this chapter.
+15SUBCHAPTER 12
+16LICENSE VIOLATIONS; PENALTIES
+17§2121.  General penalty
+18 Except as otherwise specified in this chapter, a violation of this chapter or any rules 
+19 adopted pursuant to this chapter is a civil violation for which a fine of not more than $500 
+20 may be adjudged.
+21§2122.  Administrative penalties
+221. Administrative penalties; generally.  In addition to any other applicable penalty 
+23 under this chapter, the department, on its own initiative or on complaint and after 
+24 investigation, notice and the opportunity for a public hearing, may issue an order imposing 
+25 an administrative penalty in accordance with this section on a licensee or suspend or revoke 
+26 the licensee's license if the department finds that the licensee or an agent or employee of 
+27 the licensee has violated any provision of this chapter, the rules adopted pursuant to this 
+28 chapter or the terms, conditions or provisions of the licensee's license, including but not 
+29 limited to a finding by the department:
+30 A. That the licensee or an agent or employee of the licensee has made a false 
+31 representation or statement to the department in order to induce or prevent action by 
+32 the department; 
+33 B. That the licensee is insolvent or incompetent or physically unable to carry on the 
+34 licensed activities;
+35 C. That the licensee or an agent or employee of the licensee has misrepresented to a 
+36 person or the public any psilocybin products sold by the licensee;
+37 D. That the licensee or an agent or employee of the licensee has been convicted of any 
+38 crime or found by a court of competent jurisdiction to have violated any provision of 
+39 this chapter or of a municipal ordinance, if the violation of that ordinance occurred on 
+40 the premises for which the license was issued;
+Page 25 - 131LR0311(01)1 E. That the licensee or an agent or employee of the licensee has diverted psilocybin 
+2 products to an entity that is not operating legally under the laws of this State;
+3 F. That the licensee or an agent or employee of the licensee has purchased or received 
+4 a psilocybin product from an unlicensed source or has sold, stored or transferred a 
+5 psilocybin product in a manner that is not permitted by the licensee's license; or
+6 G. That a person with a financial interest in the business operating or to be operated 
+7 under the license committed or failed to commit an act if that act or failure to act would 
+8 constitute grounds for the department to refuse to issue, or to suspend, revoke or refuse 
+9 to renew, the license if the person were the licensee or applicant for the license.
+10 The department may not impose any penalty under this section on the basis of a finding 
+11 that the licensee or an agent or employee of the licensee has violated a provision of federal 
+12 law governing psilocybin products.
+132.  Amounts; deposit.  An administrative penalty imposed by the department on a 
+14 licensee pursuant to this subchapter may not exceed $5,000 per license violation.  The 
+15 department shall adopt rules setting forth amounts of administrative penalties to be imposed 
+16 on a licensee based upon specific categories of violations by the licensee.  All 
+17 administrative penalties paid to the department pursuant to this subchapter must be 
+18 deposited into the Psilocybin Control and Regulation Fund.
+193.  License suspension.  A licensee whose license has been suspended pursuant to this 
+20 subchapter may not, for the duration of the period of suspension, engage in any activities 
+21 authorized by that license.
+224.  License revocation.  A licensee whose license has been revoked pursuant to this 
+23 subchapter shall cease immediately all activities authorized by the license and shall ensure 
+24 that all psilocybin and psilocybin products in the possession of the licensee are forfeited to 
+25 the department for destruction in accordance with this subchapter.
+265. Enforcement actions may be cumulative.  In addition to suspending or revoking a 
+27 licensee's license, the department may impose an administrative penalty on the licensee 
+28 consistent with this section.
+296.  Additional penalties may be imposed.  Any penalties imposed by the department 
+30 on a licensee pursuant to this subchapter are in addition to any criminal or civil penalties 
+31 that may be imposed pursuant to other applicable laws or rules.
+327.  Maine Administrative Procedure Act; appeals.  The imposition of an 
+33 administrative penalty on a licensee or the suspension or revocation of the license of a 
+34 licensee by the department is governed by the Maine Administrative Procedure Act.  A 
+35 final order of the department imposing an administrative penalty on a licensee or 
+36 suspending or revoking the licensee's license is a final agency action, as defined in Title 5, 
+37 section 8002, subsection 4, and the licensee may appeal that final order to the Superior 
+38 Court in accordance with Rule 80C of the Maine Rules of Civil Procedure.
+39§2123. Disposition of unauthorized psilocybin or psilocybin products of licensee
+401.  Order; destruction of psilocybin or psilocybin products.  If the department issues 
+41 a final order imposing an administrative penalty on or a license suspension or revocation 
+42 against a licensee pursuant to this subchapter, the department may specify in the order, in 
+43 addition to any other penalties imposed in the order, that all or a portion of the psilocybin 
+Page 26 - 131LR0311(01)44 or psilocybin products in the possession of the licensee are subject to destruction. A 
+45 licensee subject to a final order directing the destruction of psilocybin or psilocybin 
+46 products in the possession of the licensee shall forfeit the psilocybin or psilocybin products 
+47 described in the order to the department for destruction.
+52.  Investigation.  If the department is notified by a criminal justice agency that there 
+6 is a pending investigation of a licensee subject to an order imposed under subsection 1, the 
+7 department may not destroy any psilocybin or psilocybin products of that licensee until the 
+8 destruction is approved by the criminal justice agency.
+93.  Conviction of licensee.  A court, district attorney or municipal authority involved 
+10 in trying or finding a violation of this chapter shall notify the department upon final 
+11 adjudication or conviction of the offense.  
+124.  Rules.  The department shall adopt rules governing the imposition of administrative 
+13 penalties, suspensions and revocations under this subchapter, which must include, but are 
+14 not limited to, provisions relating to notice and conduct of hearings consistent with the 
+15 Maine Administrative Procedure Act and provisions relating to the disposition of 
+16 unauthorized psilocybin and psilocybin products of a licensee.
+17SUBCHAPTER 13
+18MAINE PSILOCYBIN ADVISORY BOARD
+19§2131.  Definition
+20 For purposes of this subchapter, "program development period" means the period 
+21 beginning October 1, 2024 and continuing until all rules required under this chapter have 
+22 been initially adopted.
+23§2132. Establishment; purposes
+24 The Maine Psilocybin Advisory Board, established in Title 5, section 12004-I, 
+25 subsection 73-C, is established within the department for the purposes of advising and 
+26 making recommendations to the department, the Legislature and municipalities regarding 
+27 the administration of this chapter in a manner that promotes the public health and safety.  
+28 Recommendations by the board require the approval of a majority of the board's members.
+29§2133. Membership
+30 The board consists of 16 members in accordance with this section.
+311. Ex officio members.  The following members serve as ex officio members:
+32 A. The Director of the Maine Center for Disease Control and Prevention within the 
+33 department or the director's designee; and
+34 B. The Attorney General or the Attorney General's designee.
+352. Members appointed by Governor.  The Governor shall appoint members in 
+36 accordance with this subsection.  The Governor shall appoint any 4 of the following 
+37 individuals:
+38 A. A state employee who has technical expertise in the field of public health;1
+2
+3
+4
+Page 27 - 131LR0311(01)1 B. A representative from a district coordinating council for public health established 
+2 pursuant to Title 22, section 412, subsection 4;
+3 C. A representative of one of the federally recognized Indian tribes in the State;
+4 D. A member of the Substance Use Disorder Services Commission, established in Title 
+5 5, section 12004-G, subsection 13-C;
+6 E. A member of the Permanent Commission on the Status of Racial, Indigenous and 
+7 Tribal Populations, established in Title 5, section 12004-J, subsection 19;
+8 F. A member of the Palliative Care and Quality of Life Interdisciplinary Advisory 
+9 Council, established in Title 5, section 12004-I, subsection 47-I; or
+10 G. An individual who represents individuals who provide public health services 
+11 directly to the public.
+123. Members appointed by President of Senate. The President of the Senate shall 
+13 appoint 5 members in accordance with this subsection. The President of the Senate shall 
+14 appoint:
+15 A. A psychologist licensed under Title 32, chapter 56 who has professional experience 
+16 providing behavioral health services;
+17 B. A physician licensed under Title 32, chapter 48; and
+18 C. Any 3 of the following individuals:
+19 (1) A person with professional expertise conducting scientific research regarding 
+20 the use of psychedelic compounds in clinical therapy;
+21 (2) A person who has experience in the field of mycology;
+22 (3) A person who has experience in the field of ethnobotany;
+23 (4) A person who has experience in the field of psychopharmacology; or
+24 (5) A person who has experience in the field of psilocybin harm reduction.
+254. Members appointed by Speaker of House of Representatives. The Speaker of the 
+26 House of Representatives shall appoint 5 members in accordance with this subsection. The 
+27 Speaker of the House of Representatives shall appoint:
+28 A. A naturopathic doctor licensed under Title 32, chapter 113-B;
+29 B. An individual with expertise in the field of public health who has a background in 
+30 academia;
+31 C. A representative of one of the federally recognized Indian tribes in the State; and
+32 D. Any 2 of the following individuals:
+33 (1) A person with professional expertise conducting scientific research regarding 
+34 the use of psychedelic compounds in clinical therapy;
+35 (2) A person who has experience in the field of mycology;
+36 (3) A person who has experience in the field of ethnobotany;
+37 (4) A person who has experience in the field of psychopharmacology; or
+38 (5) A person who has experience in the field of psilocybin harm reduction.
+Page 28 - 131LR0311(01)15. Terms; vacancies. Board members, other than ex officio members, serve 2-year 
+2 terms and are eligible for reappointment.  Before the expiration of the term of a member, 
+3 the appointing authority shall appoint a successor whose term begins on the next January 
+4 1st.  Board members serve at the pleasure of the appointing authority and are not subject to 
+5 legislative confirmation.  If there is a vacancy for cause, the appointing authority shall make 
+6 an appointment to become immediately effective for the unexpired term.
+76. Chair. The board shall elect one of its members to serve as chair.  The chair serves 
+8 a one-year term in that office and is eligible for reelection.
+97. Meeting frequency.  Until all rules necessary to implement this chapter have been 
+10 adopted, the board shall meet at least once every 2 calendar months at a time and place 
+11 determined by the chair or a majority of the members of the board.  Thereafter the board 
+12 shall meet at least 4 times each year at regular intervals at a time and place determined by 
+13 the chair or a majority of the members of the board.  The board may meet at other times 
+14 and places by the call of the chair or a majority of the members of the board.
+158. Quorum. A majority of the board's members constitutes a quorum.
+169. Establishment of subcommittees. The board may establish subcommittees 
+17 necessary for the operation of the board.
+1810. Expenses; reimbursement. Board members are entitled to compensation for 
+19 service on the board and for travel and board-related expenses in accordance with Title 5, 
+20 section 12004-I, subsection 73-C.
+21§2134. Powers and duties
+221. Powers.  The board may:
+23 A. Adopt rules necessary for the operation of the board.  Rules adopted pursuant to this 
+24 section are routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A; and
+25 B. Make recommendations to the department related to:
+26 (1) Administration of this chapter;
+27 (2) Available medical, psychological and scientific studies, research and other 
+28 information on the safety and efficacy of psilocybin in treating behavioral health 
+29 conditions, including but not limited to substance use disorder, depression, anxiety 
+30 disorders and end-of-life psychological distress;
+31 (3) Working with clients receiving psilocybin services, including:
+32 (a) The requirements, specifications and guidelines for providing psilocybin 
+33 services to a client, including but not limited to holding and verifying the 
+34 completion of a preparation session, an administration session and an 
+35 integration session;
+36 (b) The information that must be provided to a client before the client 
+37 participates in an administration session, including health and safety warnings 
+38 or other disclosures; 
+39 (c) The information that must be received from a client to determine whether 
+40 the client should participate in an administration session, including information 
+41 that may identify risk factors and contraindications and information related to 
+Page 29 - 131LR0311(01)42 any public health or safety standards or industry best practices during the 
+43 administration session;
+3 (d) Transportation needs of a client after the completion of an administration 
+4 session; and
+5 (e) Client access to common or outside areas on the premises of a psilocybin 
+6 service center;
+7 (4) Public health and safety standards and industry best practices for each type of 
+8 licensee; and
+9 (5) Required qualifications and practices of psilocybin service facilitators, 
+10 including:
+11 (a) Adherence to a code of professional and ethical conduct;
+12 (b) Required education and training, including but not limited to:
+13 (i) Client facilitation skills that are affirming, nonjudgmental and 
+14 nondirective;
+15 (ii) Providing support to clients during an administration session with 
+16 specialized skills for client safety and clients who may have a mental 
+17 health condition;
+18 (iii) On the appropriate environment in which to provide psilocybin 
+19 services;
+20 (iv) Social and cultural considerations;
+21 (v) The form of required training and education; or
+22 (vi) Examinations or other requirements; and
+23 (c) Holding an administration session, including but not limited to:
+24 (i) Individual or group administration sessions; or
+25 (ii) Circumstances under which an administration session is considered 
+26 complete.
+272. Duties.  The board shall:
+28 A. Develop and maintain a long-term strategic plan for ensuring that psilocybin 
+29 services will become and remain a safe, accessible and affordable therapeutic option 
+30 for all persons who are 21 years of age or older and for whom psilocybin services may 
+31 be appropriate; 
+32 B. Monitor and study federal laws, regulations and policies regarding psilocybin; and
+33 C. Attempt to meet with the United States Attorney for the District of Maine to discuss 
+34 this chapter and potential federal enforcement policies regarding psilocybin in this 
+35 State after the program development period.
+363. Report.  The board shall submit annually a report to the department that contains 
+37 the recommendations to the department described in subsection 1, paragraph B, the board's 
+38 long-term strategic plan described in subsection 2, paragraph A and information and 
+39 updates on federal laws, regulations and policies regarding psilocybin described in 
+40 subsection 2, paragraphs B and C.1
+2
+Page 30 - 131LR0311(01)1SUBCHAPTER 14
+2PSILOCYBIN CONTROL AND REGULATION FUND
+3§2141. Psilocybin Control and Regulation Fund
+4 The Psilocybin Control and Regulation Fund, referred to in this section as "the fund," 
+5 is established as a dedicated, nonlapsing fund within the department for the purposes 
+6 specified in this section.
+71. Sources of fund.  The State Controller shall credit to the fund:
+8 A. Money received from the license fees and administrative penalties imposed under 
+9 this chapter;
+10 B. All money from any other source, whether public or private, designated for deposit 
+11 into or credited to the fund; and
+12 C. Interest earned or other investment income on balances in the fund.
+132. Uses of fund.  Money credited to the fund may be used by the department for the 
+14 purposes of implementing, administering and enforcing this chapter.
+15SUBCHAPTER 15
+16FOOD AND COMMODITY REGULATION
+17§2151.  Regulation as food additive
+18 Notwithstanding any provision of law to the contrary, the Department of Agriculture, 
+19 Conservation and Forestry may not establish standards for psilocybin products as a food 
+20 additive or consider psilocybin products to be an adulterant under Title 7, section 717, 
+21 unless the concentration of a psilocybin product exceeds acceptable levels established by 
+22 the department by rule under this chapter.
+23Sec. 6.  36 MRSA c. 727 is enacted to read:
+24CHAPTER 727
+25TAXATION OF PSILOCYBIN PRODUCTS
+26§4961.  Definitions
+27 As used in this chapter, unless the context otherwise indicates, the following terms 
+28 have the following meanings.
+291. Client.  "Client" has the same meaning as in Title 28-B, section 2002, subsection 5.
+302. Department.  "Department" means the Department of Health and Human Services.
+313. Psilocybin.  "Psilocybin" has the same meaning as in Title 28-B, section 2002, 
+32 subsection 15.
+Page 31 - 131LR0311(01)14. Psilocybin Control and Regulation Fund. "Psilocybin Control and Regulation 
+2 Fund" has the same meaning as in Title 28-B, section 2002, subsection 16.
+35. Psilocybin product.  "Psilocybin product" has the same meaning as in Title 28-B, 
+4 section 2002, subsection 18.
+56. Psilocybin service center.  "Psilocybin service center" has the same meaning as in 
+6 Title 28-B, section 2002, subsection 19.
+77. Psilocybin service center operator. "Psilocybin service center operator" has the 
+8 same meaning as in Title 28-B, section 2002, subsection 20.
+98. Retail sale. "Retail sale" means any transfer, exchange, gift or barter of a psilocybin 
+10 product by any person to a client. 
+119. Retail sales price.  "Retail sales price" means the price paid for a psilocybin product, 
+12 excluding tax, to a psilocybin service center operator by or on behalf of a client. 
+13§4962.  Imposition of tax on retail sale of psilocybin products
+141. Tax imposed.  A tax is imposed upon the retail sale of psilocybin products in this 
+15 State. The tax imposed by this section is a direct tax on the client, for which payment upon 
+16 retail sale is required. The tax must be collected at the point of sale of a psilocybin product 
+17 by a psilocybin service center operator at the time at which the retail sale occurs. 
+18 A. The tax imposed under this section is at the rate of 15% of the retail sales price of 
+19 psilocybin products. 
+20 B. If the tax imposed under this section does not equal an amount calculable to a whole 
+21 cent, the tax is equal to the next higher whole cent.
+222.  Stated separately.  Except as otherwise provided by the State Tax Assessor by rule, 
+23 the amount of the tax must be separately stated on an invoice, receipt or other similar 
+24 document that the psilocybin service center operator provides to the client at the time at 
+25 which the retail sale occurs.
+263. Prohibitions.  The following prohibitions apply.
+27 A. A person may not knowingly sell, purchase, install, transfer or possess electronic 
+28 devices or software programs for the purposes of hiding or removing records of retail 
+29 sales of psilocybin products or falsifying records of retail sales of psilocybin products. 
+30 B. A psilocybin service center operator may not discount a psilocybin product or offer 
+31 a psilocybin product for free if the retail sale of the psilocybin product is made in 
+32 conjunction with the retail sale of any other item or service. 
+334. Review of rate.   The department shall regularly review the rate of tax under this 
+34 section and make recommendations to the Legislature regarding appropriate adjustments 
+35 to the rate to ensure the department has sufficient funds to administer and enforce Title 
+36 28-B, chapter 5 but that the amount of funds, together with fees collected under that chapter, 
+37 do not exceed the costs of administering and enforcing that chapter. 
+38§4963. Collection of tax; refund; credit; penalties
+39 The tax imposed upon the client under this chapter must be collected at the point of 
+40 sale and remitted by each psilocybin service center operator that engages in the retail sale 
+41 of psilocybin products. The tax is imposed upon the psilocybin service center operator that 
+Page 32 - 131LR0311(01)42 is required to collect the tax, and the psilocybin service center operator is liable for the tax 
+43 as the taxpayer.  For the purpose of compensating psilocybin service center operators for 
+44 expenses incurred in collecting the tax imposed under this chapter, each psilocybin service 
+45 center operator may deduct and retain 2% of the amount of taxes that are collected by the 
+46 psilocybin service center operator from all retail sales of psilocybin products conducted by 
+47 the psilocybin service center operator. 
+71.  Filing.  A psilocybin service center operator shall file a return with the State Tax 
+8 Assessor on or before the last day of January, April, July and October of each year for the 
+9 previous calendar quarter.  A psilocybin service center operator shall file each return 
+10 required under this section regardless of whether any tax is owed.  
+11 A.  The psilocybin service center operator shall pay the tax to the State Tax Assessor 
+12 in the form and manner prescribed by the State Tax Assessor, but not later than with 
+13 each quarterly return, without regard to an extension granted under this subsection. 
+14 B.  For good cause, the State Tax Assessor may extend the time for filing a return under 
+15 this section. The extension may be granted at any time if a written request is filed with 
+16 the State Tax Assessor during or prior to the period for which the extension may be 
+17 granted. The State Tax Assessor may not grant an extension of more than 30 days.  
+18 Interest accumulates on late-filed returns at the rate established in section 186. 
+19 C. If a psilocybin service center operator fails to file a return or pay the tax as required 
+20 by this section, the State Tax Assessor may impose penalties or take actions as provided 
+21 in this chapter.  
+22 D. Refunds of any overpayment of tax are governed by section 2011, except as follows:
+23 (1) The State Tax Assessor shall first apply any overpayment of tax by a psilocybin 
+24 service center operator to any tax imposed under this chapter that is owed by the 
+25 psilocybin service center operator;
+26 (2) If after any offset under subparagraph (1) the overpayment of tax remains 
+27 greater than $1,000, the remaining refund must be applied as a credit against the 
+28 next subsequent calendar quarter as an estimated payment; and
+29 (3) The State Tax Assessor may not make a refund of, or credit, any overpayment 
+30 of tax that was credited to the account of a psilocybin service center operator under 
+31 subparagraph (2) if the return for that tax period is not filed within 3 years after the 
+32 due date of that return. 
+33§4964. Psilocybin revenue estimate
+34 Not later than 30 days before the beginning of each calendar quarter, the department 
+35 shall forecast and prepare an estimate of the revenue that will be received during the 
+36 remainder of the current biennium and subsequent 3 biennia pursuant to the tax imposed 
+37 under this chapter.  The estimate may be made on the basis of all pertinent information 
+38 available to the department. Upon making the estimate, the department shall report the 
+39 estimate to the Office of Fiscal and Program Review and the State Tax Assessor.  The State 
+40 Tax Assessor shall provide the department any information necessary for the department 
+41 to perform its duties under this section. 
+42§4965. Enforcement; liability; notice of liability; notices of determination and 
+43assessment1
+2
+3
+4
+5
+6
+Page 33 - 131LR0311(01)11. Trust.  A person who collects any tax under this chapter shall hold the tax in trust 
+2 for the State and for payment to the State Tax Assessor in accordance with this chapter.
+32. Enforcement.  Except as otherwise provided in this section, the State Tax Assessor 
+4 may impose penalties or take actions as provided in chapter 7 against a person who fails to 
+5 pay taxes required under this chapter in accordance with this chapter.
+63. Joint liability.  More than one officer or employee of a corporation may be held 
+7 jointly and severally liable for payment of taxes under this chapter.
+8 A. Notwithstanding any provision of law to the contrary, if more than one officer or 
+9 employee of a corporation is jointly and severally liable for payment of taxes, the State 
+10 Tax Assessor may require any or all of the officers or employees who may be held 
+11 liable to appear before the State Tax Assessor for a joint determination of liability. The 
+12 State Tax Assessor shall notify each officer or employee of the time and place set for 
+13 the determination of liability.  Each person notified of a joint determination under this 
+14 subsection shall appear and present such information as is necessary to establish that 
+15 person's liability or nonliability for payment of taxes to the State Tax Assessor.  If a 
+16 person who was notified fails to appear, the State Tax Assessor shall make its 
+17 determination on the basis of all the information and evidence presented. The 
+18 department's determination is binding on all persons notified and required to appear 
+19 under this subsection and is a final agency action that may be appealed for review 
+20 pursuant to Title 5, section 11001.
+21 B. If an appeal is taken from the decision of the State Tax Assessor by any person 
+22 determined to be liable for unpaid taxes under this subsection, each person required to 
+23 appear before the department under this subsection must be impleaded by the plaintiff.  
+24 The State Tax Assessor may implead any officer or employee who may be held jointly 
+25 and severally liable for the payment of taxes.  Each person impleaded under this 
+26 subsection must be made a party to the action and shall make available to all parties in 
+27 the appeal the information that was presented to the State Tax Assessor. The court may 
+28 determine that one or more persons impleaded under this subsection are liable for 
+29 unpaid taxes without regard to any earlier determination by the State Tax Assessor that 
+30 an impleaded person was not liable for unpaid taxes.
+31 C. If a person required to appear before the court on appeal fails or refuses to appear 
+32 or bring required information in part or in whole, or is outside the jurisdiction of the 
+33 court, the court shall make its determination on the basis of all the evidence introduced.  
+34 All evidence presented in the court constitutes a public record and must be available to 
+35 the parties and the court.  The determination of the court is binding on all persons made 
+36 parties to the action under this subsection.
+37 D. This subsection does not preclude a determination by the State Tax Assessor or the 
+38 court on appeal that more than one officer or employee are jointly and severally liable 
+39 for unpaid taxes.
+40§4966. Duty to keep receipts, invoices and other records
+41 A psilocybin service center operator shall keep receipts, invoices and other pertinent 
+42 records related to retail sales of psilocybin products in accordance with chapter 7 and in the 
+43 form required by the State Tax Assessor.  Each record must be preserved as provided in 
+44 section 135 or for as long as the psilocybin service center operator retains the psilocybin 
+Page 34 - 131LR0311(01)45 products to which the record relates, whichever is later.  During the retention period and at 
+46 any time prior to the destruction of records, the State Tax Assessor may give written notice 
+47 to the psilocybin service center operator not to destroy records described in the notice 
+48 without written permission of the State Tax Assessor. Notwithstanding any provision of 
+49 law to the contrary, the State Tax Assessor shall preserve reports and returns filed with the 
+50 department for at least 5 years.
+7§4967. Disclosure of information
+8 Notwithstanding any provision of law to the contrary, the State Tax Assessor may 
+9 disclose information received under this chapter to the department as necessary for the 
+10 department to carry out the provisions of Title 28-B, chapter 5.
+11§4968. Right to appeal determination of tax liability
+12 Except as otherwise provided in this chapter or chapter 7, a final determination of tax 
+13 liability by the State Tax Assessor under this chapter is a final agency action that may be 
+14 appealed for review pursuant to Title 5, section 11001.
+15§4969. Duty to return excess tax collected
+16 When an amount represented by a psilocybin service center operator at retail to a client 
+17 as constituting the tax imposed under this chapter is computed upon an amount that is not 
+18 taxable or is in excess of the taxable amount and is actually paid by the client to the 
+19 psilocybin service center operator, the excess tax paid must be returned by the psilocybin 
+20 service center operator to the client upon written notification by the State Tax Assessor or 
+21 the client.  The written notification must contain information necessary to determine the 
+22 validity of the client's claim.  If the psilocybin service center operator does not return the 
+23 excess tax within 60 days after the mailing of the written notification, the client may appeal 
+24 to the State Tax Assessor for a refund of the amount of the excess tax, in the manner and 
+25 within the time allowed under rules adopted by the State Tax Assessor.  If excess tax is 
+26 returned to the client by the State Tax Assessor, the assessor may issue a notice of 
+27 deficiency for the excess tax to the psilocybin service center operator. 
+28§4970. Duties and powers of assessor; rules; interagency cooperation
+29 The State Tax Assessor shall administer and enforce this chapter and may adopt rules 
+30 and procedures necessary for the implementation and enforcement of this chapter.  Except 
+31 as otherwise expressly provided in this chapter, the State Tax Assessor may take any 
+32 actions under chapter 7 necessary to the proper discharge of the State Tax Assessor's duties 
+33 under this chapter.  The department shall enter into an agreement with the State Tax 
+34 Assessor for the purpose of administering and enforcing the provisions of this chapter and 
+35 rules or procedures established by the assessor under this section.
+36§4971. Administrative account; payment of expenses; crediting balance to Psilocybin 
+37Control and Regulation Fund
+38 All money received by the State Tax Assessor under this chapter must be deposited in 
+39 a nonlapsing administrative account.  The State Tax Assessor may pay expenses for the 
+40 administration and enforcement of this chapter from the account.  After the payment of 
+41 administrative and enforcement expenses and refunds or credits arising from erroneous 
+42 overpayments, the State Tax Assessor shall transfer on a quarterly basis the balance of the 
+43 funds to the Psilocybin Control and Regulation Fund. 1
+2
+3
+4
+5
+6
+Page 35 - 131LR0311(01)1Sec. 7.  Maine Psilocybin Advisory Board; initial board.  Notwithstanding the 
+2 Maine Revised Statutes, Title 28-B, chapter 5, subchapter 13, the following provisions 
+3 apply to the Maine Psilocybin Advisory Board.
+41. Staggered terms for members of Maine Psilocybin Advisory Board.  At the first 
+5 meeting of the Maine Psilocybin Advisory Board, board members shall draw lots to 
+6 determine members' initial term lengths so that the initial terms of 7 members expire after 
+7 one year and the initial terms of 7 members expire after 2 years.
+82.  Initial appointments to Maine Psilocybin Advisory Board.  The appointing 
+9 authorities shall appoint initial board members to the Maine Psilocybin Advisory Board no 
+10 later than October 15, 2023. 
+113.  Initial meeting of Maine Psilocybin Advisory Board.  The Maine Psilocybin 
+12 Advisory Board shall hold its first meeting no later than November 15, 2023 at a time and 
+13 place specified by the Governor.
+144.  Initial reports of Maine Psilocybin Advisory Board. The Maine Psilocybin 
+15 Advisory Board shall submit no later than April 15, 2024 its findings and recommendations 
+16 to the Department of Health and Human Services regarding available medical, 
+17 psychological and scientific studies, research and other information related to the safety 
+18 and efficacy of psilocybin in treating mental health conditions, including but not limited to 
+19 substance use disorder, depression, anxiety disorders and end-of-life psychological 
+20 distress.  The Maine Psilocybin Advisory Board shall submit no later than October 15, 2024 
+21 its findings and recommendations to the Department of Health and Human Services 
+22 regarding the board's long-term strategic plan described in Title 28-B, section 2134, 
+23 subsection 2, paragraph A, information and updates on federal laws, regulations and 
+24 policies regarding psilocybin as described in Title 28-B, section 2134, subsection 2, 
+25 paragraphs B and C and proposed rules for the implementation of this Act.
+26Sec. 8.  Rulemaking by Department of Health and Human Services.  The 
+27 Department of Health and Human Services shall adopt rules no later than July 15, 2024 in 
+28 order to implement, administer and enforce the Maine Revised Statutes, Title 28-B, chapter 
+29 5.
+30Sec. 9.  Publicly available information regarding psilocybin.  No later than 
+31 December 1, 2024, the Department of Health and Human Services shall first publish 
+32 information about psilocybin in accordance with the Maine Revised Statutes, Title 28-B, 
+33 section 2011.
+34Sec. 10.  Conforming amendments.  The Department of Health and Human 
+35 Services, in consultation with the Department of Agriculture, Conservation and Forestry 
+36 and the State Tax Assessor, shall examine laws of this State and develop recommendations 
+37 for any amendments to those laws to conform to this Act and to otherwise make this Act 
+38 as consistent as possible in substance to the laws governing psilocybin in Oregon.  No later 
+39 than December 1, 2024, the department shall submit its recommendations together with 
+40 suggested legislation to the joint standing committee of the Legislature having jurisdiction 
+41 over health and human services matters.  The committee may report out a bill related to the 
+42 recommendations of the department to the 132nd Legislature in 2025.
+Page 36 - 131LR0311(01)1SUMMARY
+2 This bill enacts the Maine Psilocybin Health Access Act, which establishes a regulatory 
+3 framework in order to provide psilocybin products to individuals in Maine who are 21 years 
+4 of age or older.2
+3
+4

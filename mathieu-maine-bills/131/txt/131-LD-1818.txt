@@ -1,0 +1,170 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1818
+S.P. 733 In Senate, April 27, 2023
+An Act Regarding Port Facilities Relating to Offshore Wind Power 
+Projects
+Reference to the Committee on Transportation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator CURRY of Waldo.
+Cosponsored by Representative GRAMLICH of Old Orchard Beach and
+Senators: BRENNER of Cumberland, President JACKSON of Aroostook, LAWRENCE of 
+York, Representatives: BELL of Yarmouth, DOUDERA of Camden, MILLETT of Cape 
+Elizabeth, O'NEIL of Saco, Speaker TALBOT ROSS of Portland.
+
+Page 1 - 131LR1358(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  23 MRSA c. 412, sub-c. 3 is enacted to read:
+3SUBCHAPTER 3
+4PORT FACILITIES RELATING TO OFFSHORE WIND POWER PROJECTS
+5§4441. Port facility-related requirements
+61.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+7 following terms have the following meanings.
+8 A.  "Labor organization" means an organization of any kind, or an agency or employee 
+9 representation committee or plan, in which employees participate and that exists for 
+10 the purpose, in whole or in part, of dealing with employers concerning grievances, 
+11 labor disputes, wages, rates of pay, hours of employment or conditions of work.
+12 B.  "Labor peace agreement" means an agreement between an employer and a labor 
+13 organization in which the employer agrees to be neutral during a labor organization's 
+14 campaign to organize employees who are not covered by a collective bargaining 
+15 agreement and not to interfere with the campaign and the labor organization agrees not 
+16 to engage in picketing, work stoppages, boycotts or other economic interference 
+17 against the employer during the campaign.
+18 C. "Offshore wind power project" or "wind project" has the same meaning as in Title 
+19 35-A, section 3405, subsection 1, paragraph C.
+20 D. "Project labor agreement" means a prehire collective bargaining agreement with one 
+21 or more labor organizations that establishes the terms and conditions of employment 
+22 for a specific project or portion of a project, wherever the project occurs, and is an 
+23 agreement described in 29 United States Code, Section 158(f).
+24 E.  "Responsible entity" means the person or business entity undertaking to develop a 
+25 wind project.
+26 F.  "Zero-emission port equipment or technology" has the same meaning as in 42 
+27 United States Code, Section 7433(d)(4).
+282.  Public works; project labor agreements.  Notwithstanding Title 26, section 3601, 
+29 if a highway or port facility that is a public work, as defined in Title 26, section 1304, 
+30 subsection 8, is constructed for the purpose of supporting an offshore wind power project, 
+31 the public authority responsible for the construction shall require project labor agreements 
+32 that comply with Title 26, section 3601 for all construction work.
+333.  Other work; project labor agreements; technology use.  If an offshore wind 
+34 power project involves the lease of a port facility owned or operated by the State, including 
+35 any port facility owned or operated by the Maine Port Authority, the department, authority 
+36 or other agency responsible for granting the lease shall require as a condition of the lease:
+37 A. The use of project labor agreements for all on-site construction or fabrication of 
+38 materials for the offshore wind power project;
+Page 2 - 131LR1358(01)1 B. Labor peace agreements governing all full-time employees of the responsible entity 
+2 or of any entity working under contract with the responsible entity, other than 
+3 employees who work on a temporary or project basis, who will make any use of the 
+4 port facility in performing any work related to the wind project, including but not 
+5 limited to employees involved in the following activities related to the wind project: 
+6 manufacturing, fabrication, operation, maintenance, decommissioning or maritime 
+7 access;
+8 C. The responsible entity to develop, submit to the Department of Transportation and 
+9 implement a development plan in accordance with subsection 4; and
+10 D. The responsible entity to develop and implement and submit to the Department of 
+11 Environmental Protection a plan for ensuring the use, to the extent practical, of zero-
+12 emission port equipment or technology.  The entity shall also submit to the Department 
+13 of Environmental Protection an analysis of the effects the implementation of the plan 
+14 will have on air quality and greenhouse gas emissions.
+154.  Development plan requirements.  A development plan required under subsection 
+16 3, paragraph C must include at least the following elements:
+17 A. Processes that will ensure collaboration with:
+18 (1) The State's skilled trade and labor unions to recruit, train and employ residents 
+19 of the State, including but not limited to minorities, women, veterans, LGBTQ+ 
+20 persons, persons with disabilities, people from impoverished or rural communities, 
+21 members of federally recognized tribes in the State and individuals who have a 
+22 criminal record. For the purposes of this subparagraph, "LGBTQ+" includes but is 
+23 not limited to lesbian, gay, bisexual, transgender, queer, questioning, intersex and 
+24 asexual; and
+25 (2) Workers and labor organizations in industries directly affected by the 
+26 development of wind projects, such as the fossil fuel industry and commercial 
+27 fisheries. The plan must specifically provide benefits to workers in these industries 
+28 with appropriate variations for workers at early, middle and late stages of their 
+29 careers; 
+30 B. A plan for recruitment of construction, operation and maintenance workers in all 
+31 crafts needed for all phases of the wind project, including all on-site, off-site, onshore 
+32 and offshore workers within the State as well as necessary workers in the supply chain;
+33 C. A commitment to engage skilled and trained union members in the State and a plan 
+34 that includes:
+35 (1) Specific details of how the responsible entity and any of its contractors and 
+36 subcontractors will invest in and use workers from the Maine Apprenticeship 
+37 Program established under Title 26, chapter 37;
+38 (2) A description of how the responsible entity will promote a diverse workforce 
+39 that includes persons identified in paragraph A, subparagraph (1); and
+40 (3) A description of how the costs of the wind project will be reduced by the use 
+41 of labor peace agreements, accessing skilled labor in the State, using available 
+42 workforce development resources and ensuring high standards for worker safety 
+43 while maintaining workplace efficiencies; and 
+Page 3 - 131LR1358(01)1 D. A description of how the wind project will result in savings to ratepayers, including 
+2 how the responsible entity will acquire available federal tax credits.
+3Sec. 2.  35-A MRSA §3451, sub-§1, as enacted by PL 2007, c. 661, Pt. A, §7, is 
+4 amended to read:
+51.  Associated facilities.  "Associated facilities" means elements of a wind energy 
+6 development other than its generating facilities that are necessary to the proper operation 
+7 and maintenance of the wind energy development, including but not limited to buildings, 
+8 access roads, generator lead lines and substations.  "Associated facilities" includes port 
+9 facilities necessary to the proper operation and maintenance of an offshore wind power 
+10 project as defined in Title 23, section 4441, subsection 1, paragraph C.
+11Sec. 3.  35-A MRSA §3451, sub-§4, as enacted by PL 2007, c. 661, Pt. A, §7, is 
+12 amended to read:
+134.  Expedited wind energy development.  "Expedited wind energy development" 
+14 means a grid-scale wind energy development or a port facility necessary to the proper 
+15 operation and maintenance of an offshore wind power project as defined in Title 23, section 
+16 4441, subsection 1, paragraph C that is proposed for location within an expedited 
+17 permitting area.
+18Sec. 4.  Federal funding.  The Department of Environmental Protection, in 
+19 consultation and coordination with the Department of Inland Fisheries and Wildlife, the 
+20 Department of Marine Resources, the Department of Transportation and the Maine Port 
+21 Authority, shall seek federal funding available under the federal Infrastructure Investment 
+22 and Jobs Act, the federal Inflation Reduction Act of 2022 and any other federal law or 
+23 program to restore or enhance climate resilience and biodiversity of any nearshore, 
+24 intertidal or upland areas disturbed by activities related to offshore wind power projects 
+25 governed by the Maine Revised Statutes, Title 23, chapter 412, subchapter 3.
+26SUMMARY
+27 This bill does the following.
+28 1.  It requires any public port facility or highway constructed to serve an offshore wind 
+29 power project to employ project labor agreements that comply with the Maine Revised 
+30 Statutes, Title 26, section 3601.
+31 2.  It provides that in the case of an offshore wind power project that involves the lease 
+32 of a port facility owned or operated by the State, the lease must require:
+33 A. The use of project labor agreements for all on-site construction or fabrication of 
+34 materials for the project;
+35 B. Labor peace agreements governing full-time employees who will make any use of 
+36 the port facility, including but not limited to employees involved in the following 
+37 activities related to the wind project: manufacturing, fabrication, operation, 
+38 maintenance, decommissioning or maritime access;
+39 C. The implementation of a development plan that includes, among other things, 
+40 specific plans for recruiting and employing a diverse work force; and27
+Page 4 - 131LR1358(01)1 D. The development and implementation of a plan for ensuring the use, to the extent 
+2 practical, of zero-emission port equipment or technology.
+3 3.  It directs the Department of Environmental Protection, in consultation and 
+4 coordination with the Department of Inland Fisheries and Wildlife, the Department of 
+5 Marine Resources, the Department of Transportation and the Maine Port Authority, to seek 
+6 federal funding available under the federal Infrastructure Investment and Jobs Act, the 
+7 federal Inflation Reduction Act of 2022 and any other federal law or program to enhance 
+8 climate resilience and biodiversity of any nearshore, intertidal or upland areas disturbed by 
+9 activities related to offshore wind power projects.
+10 4.  It amends definitions relating to expedited wind energy developments to include 
+11 port facilities associated with offshore wind power projects.

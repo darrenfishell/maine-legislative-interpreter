@@ -1,0 +1,468 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1656
+S.P. 533 In Senate, April 30, 2019
+An Act  To Provide  for the Regulation of Sports Wagering
+Reference to the Committee on Veterans  and Legal Affairs suggested  and ordered  printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by President JACKSON of Aroostook.
+Cosponsored by Representative COLLINGS of Portland and
+Senator: LUCHINI of  Hancock.
+
+Page 1 - 129LR1997(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  8 MRSA §1003, sub-§5, as repealed and replaced by PL 2017, c. 475, Pt. 
+3A, §11, is amended to read:
+45.  Additional duties of the director.  The director also serves as the director of the 
+5Gambling Control Unit, established as a bureau within the Department of Public Safety 
+6under Title 25, section 2902, subsection 12.  As director of the unit, the director shall 
+7administer and enforce the laws governing fantasy contests under chapter 33, sports 
+8wagering under chapter 35 and beano and games of chance under Title 17, chapters 13-A 
+9and 62, respectively.
+10Sec. 2.  8 MRSA §1104, sub-§2, as enacted by PL 2017, c. 303, §2, is amended to 
+11read:
+122.  Certain leagues and contests prohibited.  A fantasy contest operator may not 
+13offer a fantasy contest based on the performances of participants in collegiate or high 
+14school athletic events or other athletic events involving participants under 18 years of 
+15age. 
+16Sec. 3.  8 MRSA c. 35 is enacted to read:
+17CHAPTER 35
+18REGULATION OF SPORTS WAGERING
+19§1201.  Authorization of sports wagering
+20Notwithstanding any provision of law to the contrary, the operation of sports 
+21wagering and ancillary activities are lawful when conducted in accordance with the 
+22provisions of this chapter and the rules of the director.
+23§1202.  Definitions
+24As used in this chapter, unless the context otherwise indicates, the following terms 
+25have the following meanings.
+261.  Adjusted gross sports wagering receipts.  "Adjusted gross sports wagering 
+27receipts" means an operator's gross receipts from sports wagering less the total of all 
+28winnings paid to patrons, which includes the cash equivalent of any merchandise or thing 
+29of value awarded as a prize, and less excise tax payments remitted to the Federal 
+30Government.
+312.  Collegiate sports or athletic event.  "Collegiate sports or athletic event" means a 
+32sports or athletic event offered or sponsored by, or played in connection with, a public or 
+33private institution that offers postsecondary educational services.
+343.  Director.  "Director" means the director of the Gambling Control Unit within the 
+35Department of Public Safety.
+Page 2 - 129LR1997(01)-114.  License.  "License" means any license applied for or issued by the director under 
+2this chapter, including, but not limited to:
+3A.  A facility license under section 1205 to conduct sports wagering within a physical 
+4location in this State as identified in section 1205, subsection 2;
+5B.  A supplier license under section 1206 to sell goods and services to be used in 
+6connection with sports wagering conducted by a facility licensee, but not to directly 
+7accept wagers;
+8C.  A management services license under section 1207 to manage sports wagering on 
+9behalf of a facility licensee;
+10D.  A mobile sports wagering license under section 1208 to permit a mobile operator 
+11to operate sports wagering through an approved mobile application or digital 
+12platform; and
+13E.  An occupational license under section 1209 to be employed by a facility licensee 
+14to operate sports wagering when the employee performs duties in furtherance of or 
+15associated with the operation of sports wagering.
+165.  Mobile operator.  "Mobile operator" means a mobile sports wagering licensee 
+17under subsection 4, paragraph D.
+186.  National criminal history background check system.  "National criminal 
+19history background check system" means the criminal history background check system 
+20maintained by the Federal Bureau of Investigation.
+217.  Operator.  "Operator" includes a retail operator and a mobile operator.
+228.  Professional sports or athletic event.  "Professional sports or athletic event" 
+23means an event at which 2 or more persons participate in sports or athletic contests and 
+24receive compensation in excess of actual expenses for their participation in the event.
+259.  Qualified gaming entity.  "Qualified gaming entity" means a gaming entity that 
+26offers sports wagering through mobile applications or digital platforms in any jurisdiction 
+27in the United States pursuant to a state regulatory structure.    
+2810.  Retail operator.  "Retail operator" means a facility licensee under subsection 4, 
+29paragraph A.
+3011.  Sports event or sporting event.  "Sports event" or "sporting event" means any 
+31professional sports or athletic event, collegiate sports or athletic event, motor race event, 
+32electronic sports event, competitive video game event or any other special event for 
+33which sports wagering is authorized by the director under this chapter.
+3412.  Sports wagering.  "Sports wagering" means the business of accepting wagers on 
+35sporting events or portions of sporting events, other events, the individual performance 
+36statistics of athletes in a sporting event or other events or a combination of any of the 
+37same by any system or method of wagering approved by the director, including, but not 
+38limited to, in person on the property of a facility licensee or via a mobile sports wagering 
+39licensee's mobile applications and digital platforms that use communications technology 
+Page 3 - 129LR1997(01)-11to accept wagers.  "Sports wagering" includes, but is not limited to, single-game bets, 
+2teaser bets, parlays, over-under, moneyline, pools, exchange wagering, in-game 
+3wagering, in-play bets, proposition bets and straight bets.  "Sports wagering" does not 
+4include fantasy contests as defined in section 1101, subsection 4.
+513.  Sports wagering account.  "Sports wagering account" means a financial record 
+6established by an operator, or by a management services licensee on behalf of a facility 
+7licensee, for an individual patron into which the patron may deposit and from which the 
+8patron may withdraw funds for sports wagering and other authorized purchases, and to 
+9which the operator or management services licensee may credit winnings or other 
+10amounts due to that patron or authorized by that patron. A sports wagering account may 
+11be established electronically through any approved mobile application or digital platform.
+1214.  Wager.  "Wager" means a sum of money or thing of value risked on an uncertain 
+13occurrence.
+14§1203.  Powers and duties of director
+151.  Powers and duties.  In administering and enforcing this chapter, the director:
+16A.  Has the power to regulate the conduct of sports wagering;
+17B.  Shall examine the rules and regulations implemented in other states where sports 
+18wagering is conducted and shall, as far as practicable, adopt a similar regulatory 
+19structure through adoption of rules in order to maximize revenue and most effectively 
+20combat the existing illegal sports wagering market;
+21C.  May adopt rules necessary for the successful implementation, administration and 
+22enforcement of this chapter, including, but not limited to, rules governing the 
+23acceptance of wagers on a sports event, other event or a series of sports events; 
+24maximum wagers that may be accepted by an operator from any one patron on any 
+25one event; type of wagering receipts that may be used; method of issuing receipts; 
+26method of accounting to be used by operators; types of records that must be kept; 
+27type of system for wagering; protections for patrons placing wagers; and promotion 
+28of social responsibility, responsible gaming and inclusion of the statement, "If you or 
+29someone you know has a gambling problem and wants help, call 1-800-GAMBLER," 
+30on display at the facility licensee's property or on any mobile application or digital 
+31platform used to place wagers.  Rules adopted under this paragraph are routine 
+32techical rules as defined in Title 5, chapter 375, subchapter 2-A;
+33D.  May adopt emergency rules in accordance with Title 5, section 8054;
+34E.  Shall determine the eligibility of a person to hold or continue to hold a license, 
+35shall issue all licenses and shall maintain a record of all licenses issued under this 
+36chapter. The director may accept applications, evaluate qualifications of applicants 
+37and undertake an initial review of licenses prior to adoption of emergency rules 
+38pursuant to paragraph D;
+39F.  Shall levy and collect all fees, civil penalties and tax on adjusted gross sports 
+40wagering receipts imposed by this chapter, except as otherwise provided under this 
+41chapter;
+Page 4 - 129LR1997(01)-11G.  May sue to enforce any provision of this chapter or any rule of the director by 
+2civil action or petition for injunctive relief;
+3H.  May hold hearings, administer oaths and issue subpoenas or subpoenas duces 
+4tecum in the manner provided by applicable law; and
+5I.  May exercise any other powers necessary to effectuate the provisions of this 
+6chapter and the rules of the director.
+7§1204.  Licenses required
+81.  Licenses.  A person or entity may not offer, accept, process or solicit a sports 
+9wager in this State unless all necessary licenses have been obtained in accordance with 
+10this chapter and rules adopted pursuant to this chapter.
+112.  Qualifications and control.  The director may not grant a license until the 
+12director determines that each person that has control of the applicant meets all 
+13qualifications for licensure. The following persons are considered to have control of an 
+14applicant:
+15A.  Each corporate holding company, parent company or subsidiary company of a 
+16corporate applicant and each person that owns 10% or more of the corporate 
+17applicant and that has the ability to control the activities of the corporate applicant or 
+18elect a majority of the board of directors of that corporate applicant, except for a bank 
+19or other licensed lending institution that holds a mortgage or other lien acquired in 
+20the ordinary course of business;
+21B.  Each person associated with a noncorporate applicant that directly or indirectly 
+22holds a beneficial or proprietary interest in the noncorporate applicant's business 
+23operation or that the director otherwise determines has the ability to control the 
+24noncorporate applicant; and
+25C.  Key personnel of an applicant, including any executive, employee or agent, 
+26having the power to exercise significant influence over decisions concerning any part 
+27of the applicant's business operation.
+283.  Application.  An applicant for a license issued under this chapter shall submit an 
+29application to the director in the form the director requires and submit fingerprints for a 
+30criminal history background check to the national criminal history background check 
+31system conducted by the Maine State Police and the Federal Bureau of Investigation. The 
+32fingerprints must be furnished by all persons required to be named in the application and 
+33must be accompanied by a signed authorization for the release of information by the 
+34Maine State Police and the Federal Bureau of Investigation, except that a person who has 
+35submitted to a criminal history background check in this State or any other state within 
+36the previous 12 months is not required to submit to another criminal history background 
+37check if the person submits the results of the previous criminal history background check. 
+38An applicant convicted of any disqualifying offense may not be licensed.
+394.  Material change to application.  A person licensed under this chapter shall give 
+40the director written notice within 30 days of any material change to any information 
+41provided in the licensee's application for a license or renewal.
+Page 5 - 129LR1997(01)-115.  Gambling Control Unit employees prohibited.  A Gambling Control Unit 
+2employee may not be an applicant for a license issued under this chapter.
+3§1205.  Facility license
+41.  Issue.  The director shall issue a facility license upon finding that the applicant 
+5meets all requirements of this section.
+62.  Application.  In order to be eligible to receive a facility license, an applicant must 
+7also hold a license, or in the case of a beano or high-stakes beano operator, hold a license 
+8or be registered, as a:
+9A.  Commercial track under section 271;
+10B.  Off-track betting facility under section 275-D;
+11C.  A slot machine facility or casino under section 1011; or
+12D.  Beano or high-stakes beano operator under Title 17, section 312.
+13An applicant may not conduct sports wagering until the applicant has obtained a license 
+14required under this subsection.
+153.  Occupational license required.  A facility licensee shall conduct sports wagering 
+16through persons holding a valid occupational license under section 1209.
+174.  Management services permitted.  A facility licensee under this section may 
+18contract with a management services licensee under section 1207.
+195.  Fee.  The fee for an original or renewed facility license is $10,000 and must be 
+20retained by the director for the costs of administering this chapter.
+216.  License period.  A license granted under this section is valid for 10 years unless 
+22sooner terminated by the director for just cause.  Failure to maintain a license required 
+23under subsection 2 voids a license issued under this section.
+247.  Municipal control.  Nothing in this chapter may be construed to restrict the 
+25authority of municipalities under municipal home rule provisions of the Constitution of 
+26Maine, including zoning and public safety authority.
+27§1206.  Supplier license
+281.  Issue.  The director shall issue a supplier license upon finding that the applicant 
+29meets all requirements of this section.
+302.  Equipment.  An applicant for a supplier license shall demonstrate that the 
+31equipment, system or services that the applicant plans to offer to a facility licensee 
+32conform to standards established by the director and applicable state law. The director 
+33may accept approval by another jurisdiction that is specifically determined by the director 
+34to have similar equipment standards as evidence the applicant meets the standards 
+35established by the director and applicable state law.
+Page 6 - 129LR1997(01)-113.  Qualification; fee; renewal.  An applicant for a supplier license shall meet all 
+2requirements for licensure and pay a nonrefundable application fee of $1,000.  The 
+3director may adopt rules establishing additional requirements for a supplier.  A supplier 
+4license must be renewed annually for a licensee that continues to be in compliance with 
+5all requirements and pays the annual renewal fee of $1,000.  Fees paid under this 
+6subsection must be retained by the director for the costs of administering this chapter.
+74.  Inventory.  A supplier licensee shall submit to the director a list of all sports 
+8wagering equipment and services sold to, delivered to or offered to a facility licensee in 
+9this State as required by the director, all of which must be tested and approved by an 
+10independent testing laboratory approved by the director. A licensee under this chapter 
+11may continue to use supplies acquired from a licensed sports wagering supplier even if a 
+12supplier's license expires or is otherwise cancelled unless the director finds a defect in the 
+13supplies.
+14§1207.  Management services license
+151.  Issue.  The director shall issue a management services license upon finding that 
+16the applicant meets all requirements of this section.
+172.  Services.  A management services licensee may contract with a facility licensee to 
+18manage sports wagering operations on behalf of the facility licensee in accordance with 
+19rules adopted pursuant to this chapter.
+203.  Qualification; fee; renewal.  An applicant for a management services licensee 
+21shall meet all requirements for licensure and pay a nonrefundable application fee of 
+22$5,000.  The director may adopt rules establishing additional requirements for a 
+23management services licensee. The director may accept licensing, or authorization to 
+24operate, by another jurisdiction that is specifically determined by the director to have 
+25similar licensing requirements as evidenced by the applicant's meeting authorized 
+26management services provider licensing requirements.  A management services license 
+27must be renewed every 5 years for a licensee that continues to be in compliance with all 
+28requirements and pays the renewal fee of $5,000.  Fees paid under this subsection must 
+29be retained by the director for the costs of administering this chapter.  
+30§1208.  Mobile sports wagering license; temporary license; audits
+311.  Operation upon approval.  A mobile operator may operate sports wagering upon 
+32the approval of the director.
+332.  Authority to conduct sports wagering.  A mobile sports wagering license 
+34granted by the director pursuant to this section grants a licensee lawful authority to 
+35conduct sports wagering within the terms and conditions of the license and any rules 
+36adopted under this chapter.
+373.  Issuance of license.  The director shall issue a mobile sports wagering license to 
+38operate sports wagering to a mobile operator that meets the requirements of this section.
+394.  Temporary license.  A qualified gaming entity may submit a request to the 
+40director for the immediate commencement of sports wagering operations. Such a request 
+Page 7 - 129LR1997(01)-11must include the initial license fee of $10,000. Upon receiving a request for a temporary 
+2license, the director shall review the request. If the director determines that the entity 
+3requesting the temporary license is a qualified gaming entity, has paid the initial license 
+4fee and is in compliance with this subsection, the director shall authorize the qualified 
+5gaming entity to conduct sports wagering for 2 years under a temporary license or until a 
+6final determination on the mobile operator's license application is made.  Sports wagering 
+7conducted under authority of a temporary license must comply with the mobile operator's 
+8house rules adopted pursuant to section 1211.  Fees paid under this subsection must be 
+9retained by the director for the costs of administering this chapter.
+105.  Grant of license; term.  Upon application by a qualified gaming entity and 
+11payment of a $1,000 application fee, the director shall grant a mobile sports wagering 
+12license that provides for the right to conduct sports wagering if the applicant meets the 
+13requirements for licensure under the provisions of this chapter and the rules adopted 
+14under this chapter and pays the initial license fee of $10,000.  A license must be issued 
+15for a 10-year period and may be renewed for 10-year periods upon payment of a $10,000 
+16renewal fee, as long as the mobile operator continues to meet all qualification 
+17requirements.  Fees paid under this subsection must be retained by the director for the 
+18costs of administering this chapter.
+196.  Mobile applications and digital platforms.  A mobile sports wagering license 
+20authorizes the operation of sports wagering through any mobile application or digital 
+21platforms approved by the director.
+227.  Expiration date and renewal.  A mobile operator shall submit to the director 
+23such documentation or information as the director may require demonstrating that the 
+24mobile operator continues to meet the requirements of this chapter and rules adopted 
+25under this chapter. Required documentation or information must be submitted no later 
+26than 5 years after issuance of a mobile sports wagering license and every 5 years 
+27thereafter or within shorter time periods based on circumstances specified by the director.
+288.  Audits.  Upon application for a license and annually thereafter, a mobile operator 
+29shall submit to the director an annual audit of the financial transactions and condition of 
+30the licensee's total operations prepared by a certified public accountant in accordance 
+31with generally accepted accounting principles and applicable federal and state laws. The 
+32audit must be submitted by a mobile operator by July 1st of the following year.
+33§1209.  Occupational license
+341.  License required.  A person employed by a facility licensee to be engaged 
+35directly in sports wagering-related activities, or otherwise conducting or operating sports 
+36wagering, must be licensed by the director and maintain a valid occupational license at all 
+37times.  The director shall issue an occupational license to a person who meets the 
+38requirements of this section.
+392.  Authority to be employed in sports wagering.  An occupational license 
+40authorizes the licensee to be employed by a facility licensee in the capacity designated by 
+41the director while the license is active.  The director may establish, by rule, job 
+Page 8 - 129LR1997(01)-11classifications with different requirements to recognize the extent to which a particular 
+2job has the ability to affect the proper operation of sports wagering.
+33.  Application and fee.  An applicant shall submit any required application forms 
+4established by the director and pay a nonrefundable application fee of $250.  The fee may 
+5be paid on behalf of an applicant by the facility licensee employer.  Fees paid under this 
+6subsection must be retained by the director for the costs of administering this chapter.
+74.  Renewal fee and form.  A licensed employee shall pay to the director an annual 
+8renewal fee of $250 by December 31st of each year. The fee may be paid on behalf of the 
+9licensed employee by the facility licensee employer. In addition to a renewal fee, a 
+10licensed employee shall annually submit a renewal application on the form required by 
+11the director.  Fees paid under this subsection must be retained by the director for the costs 
+12of administering this chapter.
+13§1210.  License prohibitions
+141.  Grounds for denial.  The director may not grant a license, pursuant to the 
+15provisions of this chapter, if the applicant:
+16A.  Has knowingly made a false statement of a material fact to the director;
+17B.  Has had a license revoked by any government authority responsible for regulation 
+18of gaming activities; or
+19C.  Has been convicted of a crime of moral turpitude, a gambling-related offense or a 
+20theft or fraud offense or has otherwise demonstrated, either by a police record or 
+21other satisfactory evidence, a lack of respect for law and order.
+222.  Denial of license; reprimand, suspension and revocation.  The director may 
+23deny a license to any applicant, reprimand any licensee or suspend or revoke a license:
+24A.  If the applicant or licensee has not demonstrated to the satisfaction of the director 
+25financial responsibility sufficient to adequately meet the requirements of the licensed 
+26business or proposed business;
+27B.  If the applicant has not disclosed the existence or identity of other persons that 
+28have an ownership interest in the applicant; or
+29C.  In the case of an applicant for a facility license or mobile sports wagering license, 
+30if an applicant has not met the requirements of this section or any other provision of 
+31this chapter.
+32§1211.  Sports wagering house rules
+331.  Adoption of house rules.  An operator shall adopt comprehensive house rules for 
+34game play governing sports wagering transactions with its patrons. The rules must 
+35specify the amounts to be paid on winning wagers and the effect of schedule changes, the 
+36circumstances under which the operator will void a bet and treatment of errors, late bets 
+37and related contingencies. House rules must be approved by the director prior to 
+38implementation.
+Page 9 - 129LR1997(01)-112.  Posting of house rules.  The house rules, together with any other information the 
+2director determines to be appropriate, must be included in the terms and conditions of the 
+3sports wagering system. Copies must be made readily available to patrons.
+4§1212.  Operator duties
+51.  Duties.  An operator shall:
+6A.  Employ a monitoring system using software to identify unusual irregularities in 
+7volume or odds swings that could signal suspicious activity that requires further 
+8investigation; such activity must be immediately reported to and investigated by the 
+9director.  System requirements and specifications must be in accordance with 
+10industry standards;
+11B.  Promptly report to the director any facts or circumstances related to the operation 
+12of a licensee that constitute a violation of state or federal law and promptly report any 
+13suspicious betting over a threshold set by the operator that has been approved by the 
+14director to the appropriate state or federal authorities;
+15C.  Conduct all sports wagering activities and functions in a manner that does not 
+16pose a threat to the public health, safety or welfare of the citizens of this State;
+17D.  Keep current in all payments and obligations to the director;
+18E.  Prevent any person from tampering with or interfering with the operation of any 
+19sports wagering;
+20F.  Ensure that sports wagering occurs using only a mobile application or digital 
+21platform approved by the director that uses communications technology to accept 
+22wagers originating in this State;
+23G.  Maintain sufficient cash and other supplies to conduct sports wagering at all 
+24times; and
+25H.  Maintain daily records showing the gross sports wagering receipts and adjusted 
+26gross sports wagering receipts of the licensee and timely file with the director any 
+27additional reports required by rule or by other provisions of this chapter.
+28§1213.  Displaying betting limits
+29An operator shall conspicuously display the minimum and maximum wagers 
+30permitted.
+31§1214.  Acceptance of wagers; excluded persons
+321.  Accepting wagers.  A mobile operator may accept wagers on sports events by 
+33means of electronic devices. A person placing a wager must be 18 years of age or older.
+342.  Mobile applications and digital platforms. A mobile operator may accept 
+35wagers from a patron physically located in this State, through the patron's sports wagering 
+36account, using a mobile application or digital platform approved by the director. The 
+37branding for each mobile application or digital platform must be determined by the 
+38mobile operator.
+Page 10 - 129LR1997(01)-113.  Wagers with other operators.  An operator may accept wagers placed by other 
+2operators, and may place wagers with other operators, as long as an operator that places a 
+3wager with another operator informs the operator accepting the wager that the wager is 
+4being placed by an operator and discloses the wagering operator's identity.
+54.  Excluded persons.  The director or an operator may for good cause ban a person 
+6from participating in the play or operation of sports wagering.  A log of all excluded 
+7persons must be kept by the director and each operator, and a person on the director's 
+8exclusion list or an operator's exclusion list may not engage in sports wagering under this 
+9chapter.
+105.  Employees prohibited from wagering.  An employee of an operator may not 
+11place a wager on any sports event through a mobile application or digital platform of that 
+12employee's employer.
+136.  Other wagering prohibitions.  An employee of an operator may not knowingly 
+14wager or be paid any prize from any wager placed with that operator or at any facility or 
+15through any mobile application or digital platform outside this State that is directly or 
+16indirectly owned or operated by that operator.
+17§1215.  Sports wagering revenues; accounting for State's share of revenue imposed 
+18for privilege of offering sports wagering; limitation of other taxes
+191.  Imposition and rate of assessment.  For the privilege of holding a mobile sports 
+20wagering license or a facility license to operate sports wagering under this chapter, a tax 
+21of 10% of the licensee's adjusted gross sports wagering receipts is levied on a mobile 
+22sports wagering licensee and a facility licensee.  The accrual method of accounting must 
+23be used for purposes of calculating the amount of the tax owed by the licensee.
+242.  Operator returns and payment of tax.  The following provisions govern 
+25operator returns and payment of tax pursuant to subsection 1.
+26A.  The tax levied and collected pursuant to subsection 1 is due and payable to the 
+27director in monthly installments on or before the 15th calendar day following the 
+28calendar month in which the adjusted gross sports wagering receipts were received.
+29B.  An operator shall complete and submit the return for the preceding month by 
+30electronic communication to the director, on or before the 15th calendar day, in the 
+31form prescribed by the director that provides:
+32(1)  The gross sports wagering receipts and adjusted gross sports wagering 
+33receipts during that month;
+34(2)  The tax amount for which the operator is liable; and
+35(3)  Any additional information necessary in the computation and collection of 
+36the tax on adjusted gross sports wagering receipts required by the director.
+37C.  The tax amount shown to be due must be remitted by electronic funds transfer 
+38simultaneously with the filing of the return.
+Page 11 - 129LR1997(01)-11D.  When adjusted gross sports wagering receipts for a month is a negative number 
+2because the winnings paid to a licensee's sports wagering patrons exceed the 
+3licensee's gross sports wagering receipts, the director shall allow the licensee to carry 
+4over the negative amount to returns filed for subsequent months. The negative 
+5amount of adjusted gross sports wagering receipts may not be carried back to an 
+6earlier month and money previously received by the director may not be refunded, 
+7except if the licensee surrenders its license and the licensee's last return reported 
+8negative adjusted gross sports wagering receipts.
+93.  No other taxes.  The tax on adjusted gross sports wagering receipts imposed by 
+10this section is in lieu of all other state and local taxes and fees imposed on the operation 
+11of or the proceeds from the operation of sports wagering.
+12§1216.  Civil violation
+13Except as provided in section 1217, a person that violates the provisions of this 
+14chapter commits a civil violation for which the director may impose a fine of not more 
+15than $5,000 for each violation, not to exceed $50,000 for violations arising out of the 
+16same transaction or occurrence.  The director may impose a fine on any person that 
+17violates this chapter and is not limited to persons licensed under this chapter.
+18§1217.  Crimes and penalties related to unauthorized sports wagering
+191.  Violation of this chapter.  A person, other than a licensee under this chapter, that 
+20engages in or facilitates sports wagering commits a Class E crime and notwithstanding 
+21Title 17-A, section 1301 is subject to a fine of not more than $10,000 and a term of 
+22imprisonment of not more than 90 days.
+232.  Second violation.  A person convicted of a 2nd violation of subsection 1 commits 
+24a Class D crime and notwithstanding Title 17-A, section 1301 is subject to a fine of not 
+25more than $50,000 and a term of imprisonment of not more than 6 months.
+263.  Third violation.  A person convicted of a 3rd or subsequent violation of 
+27subsection 1 commits a Class C crime and notwithstanding Title 17-A, section 1301 is 
+28subject to a fine of not less than $25,000 and not more than $100,000 and a term of 
+29imprisonment of not less than one year and not more than 5 years.
+30§1218.  Applicability of other laws
+31The provisions of Title 17, chapter 62 and Title 17-A, chapter 39 do not apply to 
+32sports wagering conducted in accordance with this chapter and the rules adopted pursuant 
+33to this chapter.
+34SUMMARY
+35This bill authorizes sports wagering regulated by the Department of Public Safety, 
+36Gambling Control Unit.  The bill requires a person or entity involved in sports wagering 
+37to hold a facility license, supplier license, management services license, mobile sports 
+38wagering license or occupational license.  To be eligible to receive a facility license, a 
+Page 12 - 129LR1997(01)-11person or entity must also hold a license, or in the case of a beano operator, hold a license 
+2or be registered, as a commercial track, off-track betting facility, slot machine facility, 
+3casino or beano operator.  A mobile sports wagering license authorizes the operation of 
+4sports wagering through a mobile application or digital platform approved by the 
+5Gambling Control Unit.  For the privilege of holding a mobile sports wagering license or 
+6a facility license to operate sports wagering, the bill levies a tax of 10% of the licensee's 
+7adjusted gross sports wagering receipts from the operation of sports wagering.  The bill 
+8allows a fantasy contest operator to offer a fantasy contest based on the performances of 
+9participants in collegiate athletic events.

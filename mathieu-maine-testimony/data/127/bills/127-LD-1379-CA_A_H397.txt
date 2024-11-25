@@ -1,0 +1,797 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+2 Date: 6//I//~ L.D. 1379 
+(Filing No. H-397) 
+3 INSURANCE AND FINANCIAL SERVICES 
+4 
+5 
+6 
+7 
+8 Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+127TH LEGISLATURE 
+FIRST REGULAR SESSION 
+9 
+10 COMMITTEE AMENDMENT "A" to H.P. 934, L.D. 
+Establish Transportation Network Company Insurance" 1379, Bill, "An Act To 
+11 Amend the bill by inserting after the title and before the enacting clause the 
+12 following: 
+13 'Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+14 become effective until 90 days after adjournment unless enacted as emergencies; and 
+15 Whereas, transportation network companies that are currently operating in this State 
+16 are not subject to state regulation; and 
+17 Whereas, this legislation establishes requirements for the operation of transportation 
+18 network companies in the State; and 
+19 Whereas, immediate enactment of this legislation is necessary to ensure that 
+20 transportation network companies are subject to state regulation as soon as possible for 
+21 the protection of those individuals who use their services; and 
+22 Whereas, in the judgment of the Legislature, these facts create an emergency within 
+23 the meaning of the Constitution of Maine and require the following legislation as 
+24 immediately necessary for the preservation of the public peace, health and safety; now, 
+25 therefore,' 
+26 Amend the bill in section 1 in §7302 in subsection 3 in the last line (page 1, line 25 in 
+27 L.D.) by inserting after the following: "vehicle" the following: 'or transportation through 
+28 a shared-expense carpool or vanpool arrangement that does not generate income or profit 
+29 or accept a transportation request through a digital network' 
+30 Amend the bill in section 1 in §7302 in by striking out all of subsection 4 and 
+31 inserting the following: II 
+32 '4. Transportation network company. "TranspOliation network company" means a 
+33 corporation, partnership, sole proprietorship or other entity operating in the State that uses 
+34 a digital network to connect transportation network company riders to transportation 
+35 network company drivers who provide prearranged rides. "Transportation network 
+Page 1 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+· s' ~ ,"*, " 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 COMMITTEE AMENDMENT "A" to RP. 934, L.D. 1379 
+company" does not include a transportation broker arranging nonemergency medical 
+transportation for Medicaid or Medicare members pursuant to a contract with the State or 
+a managed care organization.' 
+Amend the bill in section 1 by striking out all of §§7303 to 7306 and inserting the 
+following: 
+'§7303. Financial responsibility 
+1. Insurance coverage required. A transportation network company driver or a 
+transportation network company on the driver's behalf shall maintain primary automobile 
+liability insurance that recognizes that the driver is a transportation network company 
+driver or otherwise uses a vehicle to transport riders for compensation and that covers the 
+driver in accordance with this section. 
+2. Minimum insurance requirements for driver while on digital network. While 
+a transportation network company driver is logged into the transportation network 
+company digital network but is not engaged in a prearranged ride, primary automobile 
+liability insurance must be maintained in the following amounts: 
+A. For death and bodily injury, $50,000 per person; for ~eath and bodily injury per 
+incident, $100,000; and for property damage, $25,000; 
+B. The minimum amounts of insurance coverage for medical payments under Title 
+29-A, section 1605-A; and 
+C. Uninsured vehicle and underinsured motor vehicle coverage required pursuant to 
+section 2902. 
+The coverage requirements of this subsection may be satisfied by automobile insurance 
+maintained by the transportation network company driver, automobile insurance 
+maintained by the transportation network company or a combination of automobile 
+insurance maintained by the transportation network company driver and the 
+transportation network company. 
+3. Minimum insurance requirements while engaged in prearranged ride. While 
+a tra~sportation network company driver is engaged in it prearranged ride, primary 
+automobile liability insurance must be maintained in the following amounts: 
+A, For death, bodily injury and property damage, $1,000,000; 
+B. The minimum amounts of insurance coverage for medical payments under Title 
+29~A, section 1605-A; and 
+C. Uninsured vehicle and underinsured motor vehicle coverage required pursuant to 
+section 2902. 
+The coverage requirements of this subsection may be satisfied by automobile insurance 
+maintained by the transportation network company driver, automobile insurance 
+maintained by the transportation network company or a combination of automobile 
+insurance maintained by the transportation network company driver and the 
+transportation network company. 
+4~ Lapse of coverage; duty to defend. When automobile insurance maintained by a 
+transportation network company driver to fulfill the insurance obligations of this section 
+Page 2 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+'{\. ~~. 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+]4 
+]5 
+]6 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 COMMITTEE AMENDMENT ,A" to H,P, 934, L.D, 1379 
+has lapsed or does not provide the coverage required by this section, the transportation 
+network company shall provide the coverage required by this section beginning with the 
+first dollar of a claim, and the transpOliation network company's insurer has a duty to 
+defend the claim. 
+S. Coverage not dependent on denial of claim. Coverage under an automobile 
+insurance policy maintained by a transportation network company may not be dependent 
+on the denial of the claim under a personal automobile insurance policy. 
+6. Insurer. Insurance required by this section may be placed with an insurer that is 
+licensed under the provisions of this Title or is authorized as a surplus lines insurer 
+pursuant to chapter 19, 
+7. Satisfaction of financial responsibility requirements. Insurance satisfying the 
+requirements of this section is deemed to satisfy the financial responsibility requirement 
+for a motor vehicle set forth in section 2902 and Title 29-A, section 1605, 
+8. Evidence of coverage for transportation network company insurance~ A 
+transportation network company driver shall carry at all times evidenc;e of coverage 
+satisfying this section during the driver's use of a vehicle il1 connection with a 
+transportation network company's digital network. A transportation network company 
+driver shall provide evidence of insurance coverage to a law enforcement officer upon 
+request and, in the event of an accident, a transportation network company driver shall 
+provide insurance coverage information to the directly interested parties, automobile 
+insurers and investigating police officers, upon request pursuant to Title 29-A, section 
+1601. Upon request, a transportation network company driver shall also disclose to 
+directly interested parties, automobile insurers and investigating police officers whether 
+the driver was logged into the transportation network company's digital network or 
+engaged in a prearranged ride at the time of an accident. 
+9. Claims payments. If a transportation network company's insurer makes a 
+payment for a claim covered under comprehensive ~overage or collision coverage, the 
+transportation network company shall cause its insurer to issue the payment directly to 
+the business repairing the vehicle or jointly to the owner. of the vehicle and the primary 
+lienholder on the covered vehicle, 
+§7304. Disclosure 
+Before a transportation network company driver may accept a. request for a 
+prearranged ride through the transportation network company's digital network, the 
+transportation network company shall disclose in writing to the driver: 
+1. Coverage provided. The insurance coverage, including the types of coverage and 
+the limits for each coverage, that the transportation network company provides while the 
+transportation network company driver uses a personal vehicle in connection with a 
+transportation network company's digital network; 
+2. Personal policy may not cover. That the transportation network company 
+driver's own automobile insurance policy, depending on the policy's terms, might not 
+provide any coverage while the driver is logged into the transportation network 
+company's digital network and is available to receive transportation requests or while the 
+driver is engaged in a prearranged ride; 
+Page 3 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+~~'). 
+t-..· ' 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 COMMITTEE AMENDMENT "A" to H.P, 934, L.D, 1379 
+3. Contact insurer or agent. That the transportation network company driver must 
+contact th~ driver's pers~nal automobile insurer 'or 'ins~ral1ce produc~r to ad~isethe 
+insurer or producer that the driver will be providing transportatio tl network services and 
+to determine the coverage, if any, that may be available from th(l driver's personal 
+autOlllobile insu~ance policy; and 
+4; Potential impact on lien. That, if the motor vehicle that the transportation 
+network cornp~my driver uses to provide transportation netw~~l~ services has a lien against 
+it, using th~ motor vehicle for transportation n~twork services without physical damage 
+coverage may violate the terms of the contract with the lienholder. 
+§7305. Aut~mobile insurance provisions 
+1. Exclude coverage. Notwithstanding section 2902 or Title 29-A, section 1605, an 
+insurer that writes auto~obilt; in~urance in thisStat~' may exclude' coverage affor'ded 
+under the policy issued to an owner or operator of a personal vehicle for any loss or 
+injury that occurs while a transportation, network company' driver is logged into' a 
+transportation network company's digital netwQrk or while a driver is engaged in a 
+prearranged ride, The authority to exclude coverage applies to any coverage included in 
+an automobile insurance policy, including, but not limited to: 
+A. Liability coverage for bodily injury and property damage; 
+B. Uninsured vehicle and underinsured motor vehicle coverage; 
+C. Medical payments coverage; 
+D. Comprehensive physical damage coverage; and 
+E. Collision physical damage coverage. 
+Nothing in this section requires that a personal automobile insurance policy provide 
+coverage while the driver is logged into the transportation network company's digital 
+network, the driver is engaged in a prearranged ride or the driver otherwise uses a vehicle 
+to transport riders for compensation, 
+Nothing in this section may be construed to preclude an insurer from entering into a 
+contract to provide coverage for a transportation network c~mpany driver's personal 
+vehicle. 
+2., No duty t,o indemnify. If an insurer has excluded coverage described in section 
+7303, the insurer has no duty to defend or indemnify any claim expressly excluded, 
+Nothing in this chapter tnay be construed to invalidate or limit an exclusion contained in 
+a policy, including any policy in use or approved for use in this State prior to the effective 
+date of this chapter, that excludes coverage for vehicles used tQ carry persons or property 
+for a charge .or available for hire by the public, ' 
+3. Right of contribution. An automobile insurer that defends or indemnifies a claim 
+against a driver that' is excluded under the terms of its policy has a right of contribution 
+against other insurers that provide automobile insurance to the same driver in satisfaction 
+of the coverage requirements of section 7303 at the time of loss. 
+4. Cooperation. In a claims' coverage investigation, a transportation network 
+company ,and any insurer potentially providing coverage under section 7303 shall 
+Page 4 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 COMMITTEE AMENDMENT" Pr to H.P. 934, L.p. 1379 
+cooperate to facilitate the exchange of relevant information with directly involved parties 
+and any insurer of the transportation network company driver if applicable, including but 
+not limited to: 
+A. The precise times that a transportation network company driver logged in.to and 
+off of the transportation network company's digital network in the l2-hour period 
+immediately preceding and in the l2-hour period immediately following the accident 
+and 
+B. A clear description of the coverage, exclusions and limits provided under~ 
+automobile insurance maintained under this chapter.' 
+Amend the bill by inserting after section 1 the following: 
+'Sec. 2. 29-A MRSA c. 13, sub-c. 4 is enacted to read: 
+SUBCHAPTER 4 
+TRANSPORTATION NETWORK COMPANIES 
+§1671. Definitions 
+As used in this subchapter, unless the context otherwise indicates, the following 
+terms have the following meanings. 
+1. Digital network. "Digital network" has the same meaning as in Title 24-A, 
+section 7302, subsection 1. 
+2. Personal vehicle. "Personal vehicle" has the same meaning as in Title 24-A, 
+section 7302, subsection 2. 
+3. Prearranged ride. "Prearranged ride" has the same ll1~aning as in Title 24-A, 
+section 7302, subsection 3. 
+4. Trallsportation network company. "Tran~12ortation network company" has the 
+same meaning as in Title 24-A, section 7302, subsection 4. 
+5. Transportation network company driver; driver. "Transportation network 
+company driver". or "driver" has the same meaning as in Title 24-A, section 7302, subsection 5. . . . . . . . . 
+6. Transportation network company rider; rider. "Transportation network 
+company rider" or "rider" has the same meaning as in Title 24-A, section 7302, 
+subsection 6. 
+§1672. Transportation network company permit 
+1. Permit required. A person may not operate a transportation network company 
+without a permit issued by the Secretary of State, subject to the following conditions. . 
+A. A transportation network company shall pay an annual fee of $1 0,000 for a permit 
+under this section. 
+B. A transportation network company shall maintain insurance in accordance with 
+section 1673. 
+Page 5 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+'iI. co'\. 
+~. ;\.'t-" 
+,.,~ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 COMMITIEE AMENDMENT "A" to H.P. 934, L.D. 1379 
+2. Application; validity of permit. An applica~ioll for a permit under this section 
+must be made on a form provided or approved by the Secretary of State~ A permit under 
+this section is valid for a period of one year. 
+3. Termination of permit. The Secretary of State shall terminate a pem1it under 
+this section' for failure to maintain insurance required' by ~ecti()n 1673 or to' otherwise 
+comply with the requirements of this subchapter. The Secretary of ~tate may not reissue 
+a permit tenninated under this subsection until: 
+A. A reinstatement fee of $1 ,000 is paid to the Secretary of State; and 
+B. Subsequent to the termination, the transportation network company pays the 
+annual permit fee under subsection 1 and. ~emonstrates compliance with the 
+requirements of this subchapter. 
+4. Penalty. The following provisions apply to violation~under this sectign. 
+A. Operation without a permit as required by subsection 1 is a Class D crime. 
+B. Failure to maintain insurance as requireq by subsection 1, paragraph B is a Class 
+D crime. 
+§1673. Insurance requirements 
+1. Insurance required. A transportation network comRany shall maintain insurance 
+pursuant to this section. 
+2. Proof of insurance. The Secretary of State shall certify proof of insurance prior 
+to issuing a. permit under section 1672. The Secretary. of State may l10t -certify' an 
+insurance policy as proof of insurance unless the policy meets the requirements of 
+subsection 4 and until a copy of the form of policy has been on file with the 
+Superintendent of Insurance for at least 30 days or the Superintendent of Insurance has 
+approved in writing the form of the policy under subsection 3. 
+3 .. Form. The form of policy under this section must contain: •. " .... ". .' " ". . t ' ,. _ .. , . , 
+A. The name and address of the insured; 
+B. The conditions of coverage sufficient to identify whether or not a given vehicle is 
+covered at a given time; ... . ... . .' . 
+C. The policy period; 
+D. The limits of liability; and 
+E. An agreement that insurance is provided pursuant to this section. 
+4. Required provisions. Aninsurance policyullder this section must: 
+A. Provide coverage in accordance with the requirements of Title 24-A, section 
+7303; and 
+B. Comply with section 1606, subsections 2 to6. 
+Page 6 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 COMMITIEE AMENDMENT ''4'' to H.P. 934, L.D. 1379 
+§1674. Other requirements 
+The following provisions apply to a transportation network company operating in this 
+State. 
+1. Not a motor carrier, taxicab, limousine or for-hire vehicle. A transportation 
+network company or a transportation network company &iver is not a motor carrier, a 
+taxicab, a limousine or a provider of for-hire transportation service. 
+2. Agent. A transportation network company shetll de.signate an agent for service of 
+process in this State. 
+3. Fare for services. On behalf of a transportation network company driver, a 
+transportation network company may charge a fare fo~ the services provided to riders; if a 
+fare is collected from a rider, the transportation network company shall disclose to the 
+rider the fare calculation method on its website or through the digital network. The 
+transportation network company shall also provide a rider with the applicable rate being 
+charged and the option to receive an estimated fare before the rider enters the 
+transportation network company driver's vehicle. 
+4. Identification of transportation network company vehicles and drivers. The 
+transportation network company's digital network or web'site must display to a rider a 
+picture of the transportation network company driver and the license plate number of the 
+personal vehicle used for providing the preananged ride before the rider enters the 
+transportation network company driver's vehicle. 
+S. Electronic receipt. Within a reasonable period of time following the completion 
+of a prearranged ride, a transportation network compan.x shall transmit an electronic 
+receipt to. the rider that lists: 
+A. The point of origin and destination of the prearranged ride; 
+B. The total time and distance of the prearranged ride; and 
+C. An itemization of the total fare paid, if any. 
+6. No cash. A transportation network company shall adopt a policy prohibiting the 
+solicitation or acceptance of a cash. payment from a ride! and notify transportation 
+network company drivers of that policy. A transportation network company driver may 
+not solicit or accept a cash payment from a rider. Any payment for a prearranged ride 
+may be made only electronically using the transportation net~ork company's digital 
+network 
+7. Policy on discrimination; accessibility. A transportation network company shall 
+adopt a policy addressing discrimination and accessibility that: 
+A. Prohibits discrimination on the basis of destination, raye, color, national origin, 
+religious belief or affiliation, sex, disability, age, sexual orientation or gender identity 
+with respect to riders and potential riders; 
+B. Requires a transportation network company driver to comply with all applicable 
+laws regarding discrimination against riders or potential riders on the basis of 
+destination, race, color, national origin, religious belief or affiliation, sex, disability, 
+age, sexual orientation or gender identity; 
+Page 7 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+,~~. '{v' 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 COMMITIEE AMENDMENT" A" to H.P. 934, L.D. 1379 
+C. Requires a transportation network company driver to comply with all applicable 
+laws relating to accommodation. of service anim~ls; 
+D. Prohibits the imposition of additional charges for providing services to persons 
+with physical disabilities because of those disabilities; 
+E. Provides a rider an opportunity to indicate whether the rider requires a wheelchair 
+accessible ·vehicle.· If. a transportatiQn . network . company .. cannqt .~rrange for 
+wheelchair accessible transportation in any instance, the transportation network 
+company driver shall direct the rider to an alternate provider of wheelchair accessible 
+service, if available; and 
+F. Provides notice of the policy to each driver. 
+8. Records. A transportation network company shall maintain individual 
+prearranged ride records for at least one yeal'from' t~e' Qatee~c'h prearranged· ride was 
+provided and transportation network com,Rany driver recorgs for, at least one year from 
+the date on which a transportation network company driver's activation on the 
+trans,Rortation network com,Rany's digital network has ended. 
+§1675. Driv~r requirements 
+A transportation network company must meet the following requirements with 
+respect to drivers. 
+1. Driver qualifications. Before allowing a driver to accept prearranged ride 
+requests through a digital network, a transportation ·network·companyshall: .... . 
+A. Require the individual to submit an application, which includes information 
+regarding t,he ·individual's address, age, driver's lice~se, cl~~i~g ilistory,' registration of 
+the personal vehicle, automobile liability in~uran~e and any other information 
+required by the transportation network company; 
+B. CQnduct, or have a 3rd partY conduct, a local and national criminal ~ilckground 
+check for e.ach applicant that must inclllde a reyiew of: 
+(1) A multistate and multijurisdiction criminal records database or a commercial 
+nationwide criminal records database; and 
+(2) . The United States Department of Justice national sex offender regisny 
+database and the state sex offender registry database in the state that issued the 
+individual's driver's license; and .. . 
+C. Obtain and review a driving history report for the individual. 
+2. Grounds for disqualification. A transportation ne,twork company may not 
+permit an individual to act as a driver if the individual: ' , 
+A. Is not at least 19 years. of age; 
+B. Has had more than 3 moving violations in the prior 3-year period or one major 
+violation in the prior 3-year period, including, but not limited to, attempting to evade 
+the police, reckless driving or driving on a suspended or revoked license; 
+Page 8 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+,r,. \,., ,~ ~"). 
+'~', ' 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 COMMITTEE AMENDMENT "P" to H.P. 934, L.D. 1379 
+C. Has been convicted. within the past 7 years, of driving under tile influence of 
+drugs or alcohol, fraud, a sexual offense, use of a motor vehicle to commit a felony. a 
+crime involving property damage or theft, an act of violence or an act of terror; 
+D. Is a match in the national sex offender registry datapase or is required to register 
+in the state that issued the individual's driver's license pursuant to that state's sex 
+offender registration laws; 
+E. Does not possess a valid driver's license; 
+F. Does not possess proof of registration for the motor vehicle to be used to provide 
+a prearranged ride; or 
+G. Does not possess proof of automobile liability insurance for the motor vehicle to 
+be used to provide a prearranged ride. 
+3. Prohibition of drug or alcohol use. A transportation network company shall 
+adopt and implement a policy regarding a driver's use of drugs or alcohQl while accessing 
+the transportation network company's digital network in accordance with this suQsection. 
+A. The policy adopted under this subsection must prohibit the use of drugs or alcohol 
+while a driver is providing a prearranged ride and address such use while a driver is 
+logged into the digital network, but is not providing a prearranged rige. The 
+!ransportation network company shall provide notice of the policy on its vvebsite, as 
+well as procedures to report a complaint aboyt a drive~ who the rider reasonably 
+suspects was under the influence of drugs or alcohol during the course of the 
+prearranged ride. 
+B. Upon receipt of a rider complaint under paragraph A, the transportation network 
+company shall immediately suspend the driver's access to the digital network and 
+shall conduct an investigation into the reported incident. The suspension must last 
+the duration of the investigation. 
+C. A transportation network company shall maintain records relevant to the 
+enforcement of its policy under this subsection for a period of at least 2 years from 
+the date that a rider complaint is received by the transportation network company. 
+4. Vehicle s~fety and emissions. A transportatipn n~.twork company shall regllire 
+that any motor vehicle used by a driver to provide a prearranged ride meets any safety 
+and emissions requirements of the stat~ in which the veh'icle is registered. ' 
+5. No str~et hails. A transportation network company driver may not solicit or 
+accept street hails. " 
+§1676. No application to workers' compensation 
+This subchapter does not apply to claims or proceedings involving workers' 
+compensation. 
+§1677. Municipal action 
+Notwithstanding any other proVlsIOn of law, a municipality or other political 
+subdivision may not adopt an ordinance, regulation or procedure governing the operations 
+of a transportation network company, driver or motor vehicle used by a transportation 
+Page 9 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+(Ii 
+,"" ~ t\.. 
+~"i~ .... 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 COMMITTEE AMENDMENT "A" to H.P. 934, L.D. 1379 
+network company driver to provide a prearranged ride or itnpose a tax or fee on or require 
+a license fgr a transportation network company, driver or motor vehicle used by a 
+transportation network company driver to provide a prearranged ride. 
+Sec. 3. Issuance of permit. Notwithstanding the Maine Revised Statutes, Title 
+29-A, section 1673, subsection 2, the Secretary of State shall certify proof of insurance 
+filed by a transportation network company operating in this State on the effective date of 
+this Act upon a detennination that the policy meets the requirements of Title 29-A, 
+section 1673, subsection 4. 
+Emergency clause. In view of the emergency cited in the preamble, this 
+legislation takes effect when approved~' 
+SUMMARY 
+This amendment creates a pennitting process for transportation network companies to 
+provide transportation services, establishes requirements for drivers providing 
+transportation services on behalf of transportation network companies, establishes 
+minimum motor vehicle liability insurance requirements for transportation network 
+companies and drivers and prohibits municipalities from regulating transportation 
+network companies and drivers. 
+This amendment adds an emergency preamble and emergency clause to the bill. 
+FISCAL NOTE REQUIRED 
+(See attached) 
+Page 10 -127LR1441(02)-1 
+COMMITTEE AMENDMENT 
+Revised: 06/03115 Mac.. 
+127th MAINE LEGISLATURE 
+LD 1379 LR 1441(02) 
+An Act To Establish Transportation Network Company Insurance 
+Fiscal Note for Bill as Amended by Committee Amendment 1}' 01-391) 
+Committee: Insurance and Financial Services 
+Net Cost (Savings) 
+Highway Fund 
+Revenue 
+Highway Fund Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Minor revenue increase -General Fund 
+Minor cost increase -Other Special Revenue Funds 
+FY 2015-16 FY 2016-17 
+($10,000) ($10,000) 
+$10,000 $10,000 
+Correctional and Judicial Impact Statements 
+Establishes new Class D crimes. 
+The collection of additional fines may increase General Fund revenue by minor amounts. 
+Fiscal Detail and Notes Projections 
+FY 2017-18 
+($10,000) 
+$10,000 Projections 
+FY 2018-19 
+($10,000) 
+$10,000 
+This legislation creates a permitting process for transportation network companies to provide transportation services 
+and would increase Highway Fund revenue by $10,000 beginning in fiscal year 2015-16. Any additional costs to the 
+Department of Secretary of State can be absorbed within existing budgeted resources. 
+Any additional costs to the Department of Professional and Financial Regulation to adopt the changes in this bill are 
+expected to be minor and can be absorbed within existing budgeted resOlirces. 
+LR1441(02) -Fiscal Note -Page 1 of 1 

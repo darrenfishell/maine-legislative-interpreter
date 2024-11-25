@@ -1,0 +1,855 @@
+ 
+Page 1 Alliance of Nurses for Healthy EnvironmentsEnvironmental Health in Nursing
+2nd EditionALLIANCE OF NURSES FOR HEALTHY ENVIRONMENTS
+Editors:
+Ruth McDermott-Levy, PhD, MPH, RN, FAAN
+Kathryn P . Jackman-Murphy, EdD, MSN, RN, CHSEJeanne Leffers, PhD, RN, FAANAdelita G. Cantu, PhD, RN, FAAN
+
+Title: Environmental Health in Nursing, 2nd Edition
+Publisher:  Alliance of Nurses for Healthy Environments www.enviRN.org
+Editors: Ruth McDermott-Levy, PhD, MPH, RN, FAAN, Kathryn P . Jackman-Murphy, EdD, MSN, RN, CHSE, Jeanne Leffers, 
+PhD, RN, FAAN, Adelita G. Cantu, PhD, RN, FAAN
+Acknowledgements: We would like to acknowledge all of our environmental health nursing leaders and experts 
+who willingly contributed to the second edition of Environmental Health in Nursing, 2nd edition.   We also would like to 
+acknowledge our reviewers, copy editor, and ANHE intern:
+Reviewers:
+Cara Cook, MS, RN, AHN-BC
+Director of Program,  Alliance of Nurses for Healthy Environments
+Katie Hufﬂing, DNP , RN, CNM, FAAN 
+Executive Director,  Alliance of Nurses for a Healthy Environments
+Claudia Smith, EdD, MPH, RN-BC
+Community/Public Health Nursing Educator and Consultant, retired 
+Copy Editor: 
+Emily Hennessee, MPH 
+Intern:
+Hope DeLorme
+Environmental Science Major, University of Southern New Hampshire
+ISBN: 978-0-9998123-1-0
+Copyright April 2022 by the Alliance of Nurses for Healthy Environments 
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. T o 
+view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ .
+ 
+Page ii Alliance of Nurses for Healthy Environments
+
+Unit III: Environmental Health Sciences
+A NEW FORM OF ENVIRONMENTAL POLLUTION: 
+WIRELESS AND NON-IONIZING ELECTROMAGNETIC FIELDS
+Catherine Dodd PhD, RN, FAAN Environmental Health Consultant, former Chief District of Staff Speaker Nancy Pelosi and Deputy Chief of Staff for Health and Human Services to San Francisco Mayor (now CA Governor Newsom), former Director Region IX USDHHS under President Clinton. Theodora Scarato, MSW Executive DirectorEnvironmental Health Trust 
+The wireless revolution and the expansion of the internet of things is rapidly increasing our exposure to non-ionizing electromagnetic ﬁelds (EMFs) now considered a new form 
+of environmental pollution (Russell, 2018, Bandara & Carpenter, 2018). Health and medical professionals recommend that we reduce these EMF exposures because of a growing body of research that documents adverse biological effects from low level exposures (Miller, 2019). 
+This chapter will introduce what EMFs are, how people are exposed, science documenting health effects of exposure, U.S. and international policy on protection from EMFs and nursing implications for clinical practice and advocacy in concert with ANA’s principles.
+WHAT ARE EMFS? 
+EMFs are invisible energy waves consisting of electric and 
+magnetic ﬁelds. For thousands of years, humans have been 
+exposed to natural EMFs - such as the magnetic ﬁeld of 
+the earth and light from the sun. However, exposure to human-made EMFs are a relatively recent phenomenon and the more complex data carrying signals of cellular networks have been found to have signiﬁcant biologic effects. (Panagopoulos, 2015). 
+Humans are electrical beings. Our cells communicate with tiny electrical impulses which affect our heart, our brain, our nervous system, and our endocrine system. In health care, these electrical impulses are recorded as electric waves on electrocardiograms and electroencephalograms. 
+IONIZING RADIATION VERSUS NON-IONIZING 
+RADIATION
+Electromagnetic ﬁelds include two types of radiation: 
+ionizing and non-ionizing. Ionizing radiation has intense high energy, high frequency waves which can remove electrons from atoms or “ionize them” causing cellular damage and directly breaking DNA. Ionizing radiation is known to cause cancer. 
+ Ionizing radiation is used in healthcare both diagnostically (e.g. x-rays and CT scans), and therapeutically to reduce tumors (radiation treatment). Protective precautions such as lead shields and minimizing exposure are required. Health care institutions have procedures for nurses and other staff who with patients receiving ionizing radiation therapy to minimize the health care providers’ exposures (Kaiser, 2001). 
+In contrast, non-ionizing radiation (e.g. Wi-Fi, wireless 
+networks, cell tower radiation) has much lower energy and lower frequency waves. Decades ago, cell phones and wireless networks were brought to market without long term safety studies because the frequencies were non-ionizing and assumed to be safe. While non-ionizing radiation is not thought to cause DNA damage in the same way that ionizing radiation does, recent studies indicate that DNA damage and other adverse health effects can result from non-ionizing radiation, via a more complex indirect process (Lai, 2021, Panagopoulos et al., 2021). 
+ 
+Page 136 Alliance of Nurses for Healthy EnvironmentsThe American Nurses Association Principles of 
+Environmental Health for Nursing Practice were based 
+on a Foundation of Principles including (among 
+them):Human health is linked to the quality of the 
+environment. 
+•A healthy environment is a universal need and 
+fundamental human right. 
+•Current generations should meet their needs without compromising the ability of future generations to meet their own needs.
+•Pollution prevention should occur at its source. The concern of nurses is the promotion, maintenance, and restoration of people’s health. 
+•Nurses have an obligation to address health disparities and environmental injustice. The nurse collaborates with other professionals, policy makers, advocacy groups, and the public in promoting local, state, national, and international efforts to meet health needs. 
+(ANA’s Principles of Environmental Health for Nursing 
+Practice with Implementation Strategies, 2007) 
+Reproduced with permission of the American Nurses 
+Association
+Unit III: Environmental Health Sciences
+There are two main categories of non-ionizing EMF’s of 
+scienti ﬁc research conducted to identify possible 
+biological and environmental effects for over four decades.
+•Magnetic Field Extremely Low Frequency (ELF-EMFs)- which are generated anywhere electricity ﬂows such as 
+powerlines, electrical wiring and charging cords. 
+•Radiofrequency (RF- EMFs) - also known as Radiofrequency Radiation (RFR) -which are the data/information carrying waves of cell phones and wireless networks (Moon, 2020). 
+In this chapter, unless otherwise noted, the acronym “EMF refers to both ELF and RFF . 
+WHY ARE EMF EXPOSURES IMPORTANT?
+A large and increasing body of research in both human 
+and animal studies have found that even legally allowed low level exposures are linked to a myriad of harmful biological effects including cancer, DNA damage and impacts to reproduction, nervous system and brain development (Bandara & Carpenter, 2018). The effects of new technology on human health are challenging to study because there is no unexposed control group in humans (Russell, 2018.) 
+SOURCES OF EMF EXPOSURES 
+Home and School Exposures 
+People are directly and indirectly 
+exposed to EMFs from cell phones, computers, smart electronics and the myriad of Wi-Fi networks in their homes, workplaces and schools (see table 1). The use of wireless electronics by every age group continues to increase each year (Common Sense Media, 2019). Many school districts have robust Wi-Fi networks and students now use computers in school and at home for hours a day. 
+The use of electronics close to the 
+body -e.g. laptops on laps, cell phones carried in a pocket or bra- create two kinds of intense EMF exposures to the body part closest to the device- RF from the wireless and ELF from the electricity. In addition, ELF exposures are elevated near charging cell phones, appliances, and electronics (Behrens et al., 2004).Occupational Exposures 
+Cell phones, and wireless networks are common in 
+today’s workplace -e.g. in hospitals, schools, retail, transportation and numerous industries. There is a critical need to gather health data on these exposures (Stam, 2021). For example, many delivery drivers use cell phones and tablets to track packages and hospital workers often have a cell phone in their pocket, a walkie talkie clipped to their chest, and they use numerous wireless devices over the course of one day. 
+Cell tower/antenna maintenance workers, physical 
+therapists using diathermy, and operators of dielectric welders have elevated EMF exposures. The latter two directly use high frequency EMFs to generate heat produced by EMFs (Aniołczyk et al., 2015). Overexposure has been documented to induced central nervous system demyelinating disease mimicking Multiple Sclerosis (Raefsky et al., 2020). Although U.S. National Institute for Occupational Safety and Health (NIOSH) scientists developed recommendations to reduce EMF , they were never implemented (Bowman, 2016). 
+Environmental Exposures
+Environmental exposures to non-ionizing EMFs have 
+dramatically increased over the last few decades (Bandara& Carpenter, 2018). People who live near high voltage powerlines and substations may have elevated ELF-
+Page 137 Alliance of Nurses for Healthy Environments
+Figure 1
+Used with permission from Environmental Health Trust
+Unit III: Environmental Health Sciences
+EMF throughout their home (Gagsek et al., 2013, Amoon 
+et al., 2020). 
+Cell tower networks are a signiﬁcant source of a person’s daily RF-EMF exposure, especially in urban areas (Sagar et al., 2018). Cell tower RF-EMF penetrates into homes, especially through windows facing the beam of a nearby wireless antenna (Hardell et al., 2018). The newest generations of wireless - 4G and 5G- will increase RF-EMF as these networks consist of thousands of new “small” cell towers built closer to homes (El Hajj and Naous, 2020, Mzloum et al., 2019).     It is   estimated that 800,000 new 
+cell towers will be needed in the U.S. (Shepardson, 2018).   
+Researchers caution that increasing cell antennas closer to the ground, close to homes and schools will increase ambient RF exposures to people (Frank 2021, Koppel et al 2022, Pearce 2020). WHO ARE MOST VULNERABLE TO HEALTH EFFECTS OF EMFS? Children
+When cell phones ﬁrst came on the market, no one could 
+imagine the need for a child to use one. Now they are a favorite toy and used as babysitters. Children are uniquely vulnerable to EMFs just as they are to other environmental toxins. As wireless technology is now ubiquitous, children will receive a greater cumulative exposure than today’s adults, with exposure starting before they are born (Miller et al., 2019). Both their ongoing physical development and physiology put them at greater risk. 
+•Children absorb proportionally higher doses of cell phone RF-EMF in the eyes and critical brain regions than adults due to their smaller heads, thinner undeveloped skulls and the higher water content in both their bodies and brain (Fernandez et al., 2018). 
+Page 138 Alliance of Nurses for Healthy EnvironmentsFirst-Hand Exposure (Devices Used 
+Close to the Body)Second-Hand Exposure (Devices and 
+Networks Inside Homes, Schools and Buildings)Environmental Exposure
+ELF- EMF and Magnetic ﬁelds (*Also emit RF if wireless)
+•Cell phones, tablets and laptops *
+•Electric blankets
+•Charging phones and electronics *
+•Alarm clocks and radios plugged in 
+directly near the body such as near beds•Wiring errors in electrical systems 
+•Electric cars
+Occupational sources 
+•Microwave ovens
+•Welding equipment
+•Appliances
+•Electrical equipment
+•Motors•High-voltage power lines
+•Power cables
+•Electrical transformers
+•Substations
+•Railways and electric trains
+RF-EMF
+•Cell phones
+•Cordless phones 
+•Wi-Fi tablets, laptops & computers 
+•Walkie talkies
+•Wearable technology
+•Smart watches
+•Wireless keyboard and mouse 
+•Bluetooth
+•Wireless T oys •Wi-Fi networks
+•Wi-Fi routers 
+•Cordless phone base station
+•Wireless devices such as:
+•Baby monitors 
+•Gaming consoles 
+•Speakers
+•Security systems/hubs- doorbells 
+with cameras
+•Virtual Assistants 
+•Wireless printers •Cell towers
+•Small cell towers aka: Personal 
+Wireless Facilities
+•Antennas mounted on buildings
+•Smart Meter networks Table 1: Types and sources of EMF exposures 
+Unit III: Environmental Health Sciences
+•Children’s developing brains are more susceptible to 
+neurotoxic exposures (Redmayne and Johansson, 2014 and 2015).
+•Children have more active stem cells and stem cells have been found to be more sensitive to RF-EMF exposure (Markova et al., 2010).
+•Safety limits for RF-EMF from cell phones and cell towers are outdated as they were set over two decades ago in 1996 and are based on the body of a large adult, not a child (Gandhi et al., 2012). 
+Researchers at Penn State Medical Center found reducing EMFs improved health outcomes in preterm infants (Passi et al., 2017). NICU equipment is linked to various impacts to the autonomic nervous system including melatonin production and heart rate and a 2017 review concluded that incubators should be redesigned to reduce exposure to the babies and caregivers (Bellieni et al., 2017). Pregnancy
+As with other environmental toxins, the developing fetus 
+is particularly sensitive to exposure during critical developmental windows. Although more research needs to be done to fully understand the risk during windows of vulnerability, research on pregnant women has linked prenatal cell phone radiation exposure to oxidative stress and DNA damage in cord blood (Bektas et al., 2021); increased risk for miscarriage (Mahmoudabadi et al., 2015), lower birth weight (Lu et al., 2017), fetal growth impacts (Boileau et al., 2020), and preterm birth (Tsarna et al., 2019); as well as emotional/behavioral problems (Divan et al., 2012, Sudan et al., 2016) and hyperactivity (Birks et al., 2017) in their children. Animal studies have linked prenatal wireless exposure to DNA damage (Smith-Roe et al., 2020), brain damage (Tan et al., 2017), memory problems (Shahin et al., 2018) and hyperactivity (Aldad et al., 2012). 
+A Kaiser Foundation Research Institute team took measurements of the magnetic ﬁeld ELF-EMF exposure of 
+pregnant women and followed their pregnancies and subsequent birth and health of their children over time. They published a series of studies documenting links between higher prenatal magnetic ﬁeld exposure (ELF-
+EMF) and miscarriage (Li et al., 2017) as well as ADHD (Li et al., 2020), obesity (Li et al., 2012), and asthma (Li et al., 2011) in children exposed prenatally. 
+Watch BabySafe Project press conference where Hugh 
+Taylor MD, Chief of OBGYN at Yale Medicine and Devra 
+Davis PhD, MPH   presented on the scientiﬁc basis for the 
+recommendations to reduce exposure. 
+PHYSIOLOGICAL IMPACTS OF ELECTROMAGNETIC FIELDS
+Oxidative Stress and Preexisting Conditions
+Reviews of animal and cell studies consistently ﬁnd even 
+very low EMF exposure associated with increased 
+oxidative stress. Oxidative stress plays a role in the development of many diseases, such as cancer, diabetes, immune and neurodegenerative syndromes. The young, old and/or medically compromised individuals, whose immune system and defense mechanisms are already compromised, are more likely to experience health effects from the increased oxidative stress (Yakymenko et al., 2015, Schuermann & Mevissen, 2021). 
+Cancer 
+Researchers have long studied EMFs for their relationship to causation. In 2002, magnetic ﬁeld ELF-EMF was 
+classiﬁed by the World Health Organization International Agency for Research on Cancer (WHO/IARC) as a Group 
+Page 139 Alliance of Nurses for Healthy Environments
+Figure 2
+Used with permission from Environmental Health Trust 
+and Professor Claudio Fernandez. 
+Unit III: Environmental Health Sciences
+2B possible carcinogen due to research ﬁndings that 
+showed a relationship between residential exposure and 
+increased childhood leukemia risk (WHO/IARC 2002). This association continues to be reported in more recent studies (Carpenter 2019, Seomun et al., 2021).
+In 2011, the WHO/IARC concluded that wireless radiofrequency radiation (RF-EMF) was a Group 2B possible carcinogen largely based on studies of long term cell phone users with increased tumors-glioblastomas and acoustic neuromas (WHO/ IARC 2011). Several international experts conclude RF-EMF is a proven Group 1 human carcinogen (Miller et al., 2018, Peleg et al., 2018 Carlberg and Hardell 2017, Belpomme et al., 2018). 
+Examples of new scienti ﬁc research that ﬁnds a 
+carcinogenic effect for RF-EMF include:
+•Two major animal studies investigating long-term exposure found the same tumors as found in human studies (U.S. National T oxicology Program, 2018, Falcioni et al., 2018). 
+•A 2020 meta-analysis linked cumulative cell phone use over 1000 hours increased tumor risk (Choi et al., 2020). 
+•Studies have found women who carry cellphones in the bra have elevated breast cancer risk (West et al., 2013, Shih et al., 2020). 
+•A Yale study funded by the American Cancer Society found elevated thyroid cancer risk in heavy cell phone users with speciﬁc genetic susceptibilities (Luo et al., 2020). 
+Reproduction
+Systematic reviews associate RF-EMF with impacts to 
+sperm (Kim et al., 2021, Yu et al., 2021) and decreased testosterone (Maluin et al., 2021) leading many researchers to conclude “it is recommended to keep the cell phone away from the pelvis as much as possible” (Hassanzadeh-Taheri et al., 2021).  Nervous System Impacts 
+The nervous system is sensitive to EMFs (Bertagna et al., 
+2021). Cell phone radiation has been found to alter brain activity (Volkow et al., 2011, Bin et al., 2014), impact neurotransmitters and alter neuron development (Kaplan et al., 2015, Li et al., 2021, Chen et al., 2021). T eenagers were found to experience memory damage to the area of the brain most exposed to cell phone radiation after just one year (Foerster et al., 2018).
+ Experimental animal research has found a variety of RF-
+EMF impacts especially in the brain regions critical to memory and learning (Sonmez, et al., 2010, Dasdag et al., 2015, Shahin et al., 2018, Obajuluwa et al., 2017, Tan et al., 2021, Hasan et al., 2021). 
+Electromagnetic Hypersensitivity
+In 2021, scientists published a consensus statement calling 
+for the acknowledgement of electrohypersensitivity as a distinct neuropathological disorder (Belpomme et al., 2021) and exposure to non-ionizing radiation has a series of ICD 10 codes. 
+Electromagnetic hypersensitivity (EHS) is characterized by 
+the development of numerous symptoms linked to EMF exposure including: headaches, sleeping problems, concentration problems, nosebleeds, unexplained skin rashes, digestive problems, neurological problems, heart palpitations and disabling fatigue (Belyaev et al., 2016). 
+Synergistic Effects
+EMFs can add to our total body burden of carcinogens. 
+Research has found that EMF exposure can act synergistically with other environmental pollutants potentiating harmful effects (Kostoff and Lau, 2017). For example, prenatal and postnatal mobile phone exposure has been linked to greater neurobehavioral effects in children with elevated lead levels (Choi et al., 2017, Byun et al., 2017). 
+It is challenging to isolate an association epidemiologically 
+because there is no unexposed control group (Russell, 2018.) Scientists must therefore rely on animal experiments which are carefully controlled to understand if the effects are caused by the exposure. 
+Animal studies have found combining ELF-EMF exposure 
+with known carcinogens can increase tumors (Soffritti et al., 2016, Soffritti et al., 2016). EMFs can increase permeability of the blood brain barrier, thus, allowing more toxic agents to reach the brain (Sirav and Seyhan, 2016, Tang et al., 2015).
+EMFs and the Environment
+There are reports that the proliferation of cell antennas 
+will have numerous environmental effects. Analysis are accumulating that electricity and energy consumption of 5G and new wireless networks will contribute to greenhouse gasses and exacerbate climate change (The Shift Project, 2019, Williams et al, 2022). 
+ 
+Page 140 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Further, trees are critical to a healthy environment. They 
+ﬁlter toxic chemicals from the air, reduce ground-level ozone and absorb carbon dioxide emissions that are driving climate change (T erzaghi et al., 2020, Bastin et al., 2019). There are studies ﬁnding that cell antenna RF- EMF 
+can injure trees (Waldmann-Selsam, C., et al., 2016, Breunig, 2017, Haggerty, 2010) and impact plant growth (Halgamuge, 2017, Pall, 2016). 
+A 2021 research review on effects to wildlife published in Reviews on Environmental Health references more than 1,200 scientiﬁc references which found impacts to wildlife, including pollinators, from even very low intensities of non-ionizing EMFs including impacts to orientation and migration, reproduction, mating, nest, den building and survivorship (Levitt et al., 2021a, b, c). The authors assert that the current body of science should trigger urgent protective regulatory action to protect wildlife. 
+A COMPLEX SCIENCE WITH LIMITED PROTECTIVE FEDERAL REGULATION AND HEAVY INDUSTRY INFLUENCE 
+U.S. and international scientists are calling for an update to the 1996 federal regulations and the need for independent research reviews in order to ensure the public is protected (Hardell & Carlberg, 2020). Similar to other environmental pollutants, literature reviews show conﬂicting results and industry funding has long been found to inﬂuence the results both in ELF and RF research (Hardell et al., 2006, Carpenter 2019, Huss et al., 2017). The of ﬁcial reports of many authorities have been 
+criticized as having major conﬂicts of interest (Hardell 2017, Buchner & Rivasi, 2020). 
+The book,   “Captured Agency” (Alster, 2015) identiﬁed   a 
+“revolving door” between industry, Congress and the Federal Communications Commission. The investigation compared the tactics of the wireless industry to Big T obacco citing the heavy industry lobbying, the funding of science that shows no effect and the massive public relations campaigns designed to attack the credibility of the science and of scientists who do ﬁnd harmful effects. 
+U.S. Policy 
+The Federal Communications Commission (FCC) 
+established human exposure limits for cell phones and cellular network RF-EMF in 1996 and they have not been updated despite the dramatic changes in wireless communications in the last 25 years. The FCC is not a health agency and does not have medical or public health experts on staff. In 2021, a federal court ruled that the FCC needed to reexamine their decision to retain the 1996 limits (No. 20-1025, 2021). T o date, governmental health and environmental agencies such as the Environmental Protection Agency (EPA), the Food and Drug Administration (FDA), the Department of Health and Human Services and National Cancer Institutes have not reviewed the totality of the latest science on health effects of EMFs. 
+In 2018, the U.S. National T oxicology Program (NTP) found “clear evidence of cancer” and DNA damage in a large-scale animal study designed to evaluate the effects of long term exposure to radio frequency radiation from cell phones   (U.S. National T oxicology Program, 2018). 
+Although the FDA requested the studies, they rejected the study conclusions. Research analyzing the NTP ﬁndings 
+conclude U.S safety limits need to be strengthened by 200 to 400 times to protect children according to current risk assessment guidelines (Uche & Naidenko ., 2021).  
+The American Academy of Pediatrics has long recommended that FCC limits be updated to protect children and pregnant women (AAP , 2012 & 2013). In addition, cell phones and electronics are not tested the way people use devices today- in body contact positions. Although it is now commonplace to see children watching videos with a cell phones pressed against their chest, research has found that when phones are tested for exposure levels in body contact positions, they can exceed government limits up to 11 times the FCC limit (Gandhi, 2019). Pregnant women rest cell phones laptops on their abdomens, and research ﬁnds these positions create RF-
+EMF exposures into the fetal brain (Cabot et al., 2014) and can induce ELF-EMF in the fetus Bellieni et al., 2012).
+Magnetic and ELF Safety Limits
+The United States has no federal safety limit for magnetic ﬁelds or ELF-EMF . In contrast, over a dozen countries have some level of protective policy in place and they limit building homes in areas with magnetic ﬁeld levels higher 
+than the levels associated with childhood leukemia (Stam, 2018). 
+State and Local Policies
+In the US, many states and localities have enacted laws 
+related to Cell/T ower/Antenna placement. Physicians for Safe T echnology and the Environmental Health Trust track state legislation and local ordinances. In 2020, the New Hampshire State Commission on 5G issued 15 r e c o m m e n d a t i o n s w h i c h i n c l u d e d s e v e r a l recommendations including large setbacks to distance cell antennas from homes and schools, replacing Wi-Fi with wired in schools and a public health campaign to educate families. 
+Page 141 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+International Policies and Actions
+Internationally governments have policies and regulations 
+in place to inform the public and reduce exposures. Numerous scientists, medical and public health professionals have issued appeals and recommendations on the need to reduce exposure to electromagnetic radiation and pause the proliferation of new untested networks (EMF Scientists Appeal, 2015, Di Ciaula, 2018, Mallery-Blythe, 2020, Nyberg & Hardell, 2017)
+•Switzerland, Italy, China, Russia, India, Israel and several European countries have far more stringent cell tower radiation emission limits compared to the US FCC and many de ﬁne homes, schools and kindergartens as 
+“sensitive areas” (Stam, 2017). 
+•Over a dozen countries have clear recommendations that people reduce exposure to cell phone radiation, especially for children (Redmayne, 2016, EHT, 2021). 
+•France has several policies including: limiting Wi-Fi in classrooms, banning the sale of cell phones designed for young children, banning advertisements aimed at children under 14 years old. Consumers are informed with instructions to use speakerphone, limit children’s use and “keep away from the belly of pregnant women and lower abdomen of adolescents.”
+•Cyprus and French Polynesia have multimedia public education campaigns (EHT, 2021). •A major hospital in Cyprus removed Wi-Fi from the pediatric Intensive Care Unit and Neonatal units (Cyprus Committee on Environment and Children’s Health, 2019). 
+ IMPLICATIONS FOR NURSING PRACTICE 
+In 1992, the International Council of Nurses made 
+environmental health, preventing illness by eliminating environmental toxins a priority (as cited in ANA’s Principles of Environmental Health for Nursing Practice with Implementation Strategies 2007). Nurses can protect human health and the environment through prevention, clinical practice, and advocacy. 
+Prevention
+Nurses are trusted advisors. Nurses must ﬁrst protect 
+themselves and their families, their patients, and their 
+communities by learning how to decrease exposures to EMFs. Small lifestyle changes can signiﬁcantly reduce cellular damage of our total lifetime exposure. We can then educate our patients- especially parents and vulnerable populations. Nurses can work in coalition with other groups to educate why and how to reduce EMF exposures in the workplace, schools, and communities. People need to know how to eliminate unnecessary sources of EMFs and choose safe alternatives. Tips and checklists follow.
+Page 142 Alliance of Nurses for Healthy EnvironmentsFigure 3
+Used with permission from Environmental Health Trust
+
+Unit III: Environmental Health Sciences
+Table 2: Ways to reduce exposure to cell phone radiation
+Clinical Practice
+Nurses can integrate their understanding of EMFs into 
+their clinical practice and include interview questions about technology use and EMF exposure in their assessments. When patients present with EHS symptoms, such as headache, insomnia, irritability, they should be further assessed for EMF sensitivity. 
+Helpful Resources include:
+•Physicians for Safe T echnology EHS information includes 
+Clinical Interview Questions 
+Page 143 Alliance of Nurses for Healthy EnvironmentsAmerican Academy of Pediatrics Reducing Cell 
+Phone Radiation Recommendations 
+•Prefer texting to voice calls
+•Use cell phones in speaker mode or hands-free. 
+•Hold cell phone at a distance from head. 
+•Make only short or essential calls on cell phones.
+•Avoid carrying your phone against the body like in a pocket, sock, or bra. 
+•Do not talk on the phone or text while driving. 
+•If you plan to watch a movie on your device, download it ﬁrst, then switch to airplane mode while 
+you watch in order to avoid unnecessary radiation exposure.
+•Minimize use in areas of low signal (i.e. how many bars you have). The weaker your cell signal, the harder your phone has to work and the more radiation it gives off. 
+•Avoid making calls in cars, elevators, trains, and buses. The cell phone works harder to get a signal through metal, so the power level increases.
+•Remember that cell phones are not toys or teething items.
+(American Academy of Pediatrics, 2016) 
+Resources on How To Reduce Cell Phone Radiation  
+•EHT Steps to Reduce Cell Phone Radiation 
+•Cell Phone Tip Card from Grassroots Environmental 
+Education
+•Downloadable Posters on Reducing Cell Phone Radiation
+Reducing EMFs During Pregnancy 
+During pregnancy, new parents are highly motivated to 
+learn everything they can to have a healthy baby. This is a great opportunity for nurses to give parents information. 
+The Baby Safe Project website includes ﬁve simple ways 
+to reduce exposure , downloadable brochures in French 
+and Spanish. 
+Reducing EMFs at Home 
+•Replace cordless phones with corded telephones
+•Minimize wireless use. Start by turning Wi-Fi off at 
+night. Then install wired ethernet connections instead of Wi-Fi. Reducing EMFs at Home (Cont.) 
+•Use wired mouse, keyboard, speaker, and printer. 
+•Use wired alarm systems and doorbells not wireless
+•Keep devices on a table off the lap/body.
+•Do not use wireless speakers or virtual assistants.
+•Keep mobile devices and chargers out of bedrooms.
+•Eliminate baby monitors and wireless cameras.
+•Refuse Smart meters and request analog, non-wireless 
+utility (water, electricity, gas) meter options. 
+•Safe T echnology at Home
+•Checklist for Reducing EMF at Home
+•How to Connect Y our Laptop with Ethernet Instead of Wi-Fi
+Tips for Reducing Magnetic Field EMF 
+•Use tablets, laptops and electronics on a table, not the 
+lap. 
+•Do not use a cell phone or device while it is charging. 
+•Charge phones and devices away from beds and away from your body. 
+•Remove screens and electronics from the bedroom - especially around your bed and the crib.
+•Avoid sleeping with electric blankets and heating pads. 
+•Ensure you are not sleeping against a wall with the utility meter on the other side. 
+•Get magnetic ﬁeld measurements, especially if you live 
+close to high voltage power lines. 
+•Building science and radiofrequency radiation: What makes smart and healthy buildings: Reduce EMF
+•Collaborative for High Performance Schools Reduce RF and Low EMF Criteria
+•How to Reduce EMF in Schools
+•Safe T ech for Kids: What to do about children's increased use of technology during Covid-19
+Unit III: Environmental Health Sciences
+•Austrian Medical Association EMF Guidelines H a s  
+algorithms and a sample patient questionnaire.
+•The Environmental Health Clinic, Women’s College Hospital at the University of Toronto Practice Guidelines for Diagnosis and Treatment (Bray, 2020) 
+•EMF Medical Conference 2021 offers CME Online
+•Electrosensitivity Society Providers in US and Canada
+ADVOCACY
+Protecting Health Requires Nurses T o Be Advocates for 
+Systematic Policy Change
+Just as with other environmental issues, nurses have a 
+responsibility to act to protect individuals and communities by supporting meaningful policy change. 
+Nurses bring credibility on health issues to advocacy and 
+our voices are important in developing protective policy.Working in coalition with other organizations always strengthens the message (e.g parent groups, environmental organizations, faith-based organizations, etc.). 
+•Nursing organizations can adopt resolutions or policy positions on wireless and EMF exposures. See the resolution of the California Medical Association. 
+•Nurses can join “safe tech” organizations and coalitions to support policies that reduce EMF exposures in our workplaces, schools, and communities. These include the citing of small cell antennas in neighborhood and sensitive areas and advocate for wired internet connection to and into the building: FASTER, SAFER, RELIABLE, and if it is a municipal/community partnership, it will eliminate the digital divide. Learn more at: SafeG.net
+•Nurses and nursing organizations ﬁghting climate change 
+can lobby elected ofﬁcials to take into account the carbon footprint of wireless technology. Download Environmental Health Trust’s Fact sheet on 5G and Climate Change which describes research showing escalating energy consumption from 5G networks. 
+•As environmental health advocates, nurses can educate and work with schools, parents, teachers, and unions to reduce EMF exposures in schools, replace Wi-Fi with wired internet connections and ensure cell towers are not built near schools or daycare centers.
+ RESOURCES
+Resources for Safe Schools  
+Environmental Health Trust Physicians for Safe T echnology
+Santa Clara Medical Association
+Wi-ﬁ In Schools: Are We playing It Safe With Our Kids?
+Shallow Minds: How the Internet and Wi Fi in Schools Can Affect Learning 
+How To Reduce EMFs in Schools 
+New Jersey Education Association Article , PDF of 
+Recommendations 
+Maryland State Children's Environmental Health and Protection Advisory Council 
+Collaborative for High Performance Schools Low EMF Criteria 
+Grassroots Environmental Education
+Environmental Health Trust Checklist for Schools 
+Websites
+Environmental Health Trust
+Environmental Working Group
+Physicians for Safe T echnology 
+Americans for Responsible T echnology
+Dr. Joel Moskowitz, UC Berkeley School of Public Health, 
+Director, Center for Family and Community Health
+Educational Webinars
+Dr. Joel Moskowitz “Health Effects of Cell Phones and Wireless: Implications for 5G” Center for Occupational and Environmental Health Webinar
+Dr. Devra Davis “Children, Wireless Radiation and Health” Cyprus Pediatric Symposium 
+Expert Webinar “What Environmental Health Leaders 
+Need to Know” 
+Downloads/Printables
+EHT Posters and Factsheets 
+American Academy of Pediatrics Letters 
+Santa Clara Medical Organization 
+Books
+Dunkley, V. (2015). Reset your child’s brain: A four-week 
+plan to end meltdowns, raise grades, and boost social skills by reversing the effects of electronic screen-time. New World Library.
+Aly Cohen MD & Frederick S. vom Saal PhD (2020). Non-
+T oxic: Guide to Living Healthy in a Chemical World, Oxford University Press.
+Davis et al, (2018). Chapter 10: Microwave/Radiofrequency 
+Radiation and Human Health: Clinical Management in the 
+Page 144 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Digital Age, in Integrative Environmental Medicine Oxford 
+University Press
+REFERENCES 
+Aldad, T. S., Gan, G., Gao, X.-B., & Taylor, H. S. (2012). Fetal 
+Radiofrequency Radiation Exposure From 800-1900 Mhz-Rated Cellular T elephones Affects Neurodevelopment and Behavior in Mice. 
+Scientiﬁc Reports , 2(1), 312. https://
+doi.org/10.1038/srep00312
+Alster, N. (2015). Captured agency: How the Federal Communications Commission is dominated by the industries it presumably regulates. Harvard University: 
+Cambridge, MA, USA. 
+https://ethics.harvard.edu/ﬁles/center-
+for-ethics/ﬁles/capturedagency_alster.pdf
+American Academy of Pediatrics. (2016). Cell Phone 
+Radiation & Children’s Health: What Parents Need to Know. HealthyChildren.Org. https://www.healthychildren.org/
+English/safety-prevention/all-around/Pages/Cell-Phone-Radiation-Childrens-Health.aspx
+Amoon, A. T., Swanson, J., Vergara, X., & Kheifets, L. (2020). Relationship between distance to overhead power lines 
+and calculated ﬁelds in two studies. Journal of Radiological 
+Protection: Ofﬁcial Journal of the Society for Radiological 
+Protection , 40(2),  431–443.  https://doi.org/
+10.1088/1361-6498/ab7730
+ANA’s Principles of Environmental Health for Nursing Practice with Implementation Strategies. (2007). Nursesbooks.org, the Publishing Program of the American Nurses Association, 8515 Georgia Avenue, Suite 400, Silver Spring, M D 2 0 9 0 1 . http://ojin.nursingworld.org/
+MainMenuCategories/WorkplaceSafety/Healthy-Nurse/ANAsPrinciplesofEnvironmentalHealthforNursingPractice.pdf
+Arﬁn, S., Jha, N. K., Jha, S. K., Kesari, K. K., Ruokolainen, J., 
+Roychoudhury, S., Rathi, B., & Kumar, D. (2021). Oxidative Stress in Cancer Cell Metabolism. Antioxidants, 10(5), 642.  
+https://doi.org/10.3390/antiox10050642
+Austrian Medical Association’s EMF & Working Group. (2012). Guideline of the Austrian Medical Association (w) for 
+the diagnosis and treatment of EMFrelated health problems and illnesses (EMF syndrome). Austrian Medical Association’s EMF Working Group (cn< AG-EMF).  https://ehtrust.org/
+wp-content/uploads/The-Austrian-Medical-Association-Guidelines-for-Diagnosis-and-Treatment-of-EMF-related-Health-Problems.pdf
+Bandara, P., & Car penter, D. O. (2018a). Planetary 
+electromagnetic pollution: It is time to assess its impact. The Lancet Planetary Health, 2(12), e512–e514.Bandara, P., & Carpenter, D. O. (2018b). Planetary electromagnetic pollution: It is time to assess its impact. The Lancet Planetary Health, 2(12), e512–e514. https://
+doi.org/10.1016/S2542-5196(18)30221-3
+Bastin, J.-F ., Finegold, Y., Garcia, C., Mollicone, D., Rezende, M., Routh, D., Zohner, C. M., & Crowther, T. W. (2019). The global tree restoration potential. Science (New York, N.Y.), 
+365(6448), 76–79. https://doi.org/10.1126/science.aax0848
+Behrens, T., T erschüren, C., Kaune, W. T., & Hoffmann, W. 
+(2004). Quantiﬁcation of lifetime accumulated ELF-EMF 
+exposure from household appliances in the context of a retrospective epidemiological case–control study. Journal of 
+Exposure Science & Environmental Epidemiology, 14(2), 144–
+153. https://doi.org/10.1038/sj.jea.7500305
+Bektas, H., Bektas, M. S., & Dasdag, S. (2018). Effects of mobile phone exposure on biochemical parameters of cord blood: A preliminary study. Electromagnetic Biology and 
+Medicine, 37(4),  184–191.  https://doi.org/
+10.1080/15368378.2018.1499033
+Bellieni, C. V., Acampa, M., Maffei, M., Maffei, S., Perrone, S., Pinto, I., Stacchini, N., & Buonocore, G. (2008). 
+Electromagnetic ﬁelds produced by incubators inﬂuence 
+heart rate variability in newborns. Archives of Disease in 
+Childhood - Fetal and Neonatal Edition , 93(4), F298–F301. 
+https://doi.org/10.1136/adc.2007.132738
+Bellieni, C. V., Nardi, V., Buonocore, G., Di Fabio, S., Pinto, I., 
+& Verrotti, A. (2019). Electromagnetic ﬁelds in neonatal 
+incubators: The reasons for an alert. The Journal of 
+Maternal-Fetal & Neonatal Medicine, 32(4), 695–699. https://
+doi.org/10.1080/14767058.2017.1390559
+Bellieni, C. V., Pinto, I., Bogi, A., Zoppetti, N., Andreuccetti, D., & Buonocore, G. (2012). Exposure to Electromagnetic Fields From Laptop Use of “Laptop” Computers. Archives 
+of Environmental & Occupational Health, 67(1), 31–36. 
+https://doi.org/10.1080/19338244.2011.564232
+Bellieni, C. V., T ei, M., Iacoponi, F ., Tataranno, M. L., Negro, S., Proietti, F ., Longini, M., Perrone, S., & Buonocore, G. (2012). 
+Is newborn melatonin production inﬂuenced by magnetic 
+ﬁelds produced by incubators? Early Human Development, 
+88(8),  707–710.  https://doi.org/10.1016/
+j.earlhumdev.2012.02.015
+Belpomme, D., Carlo, G. L., Irigaray, P ., Carpenter, D. O., Hardell, L., Kundi, M., Belyaev, I., Havas, M., Adlkofer, F ., Heuser, G., Miller, A. B., Caccamo, D., De Luca, C., von Klitzing, L., Pall, M. L., Bandara, P ., Stein, Y., Sage, C., Soffritti, M., … Vorst, A. V. (2021). The Critical Importance of Molecular Biomarkers and Imaging in the Study of 
+Electrohypersensitivity. A Scienti ﬁc Consensus 
+Page 145 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+International Report. International Journal of Molecular 
+Sciences , 22(14),  7321.  https://doi.org/10.3390/
+ijms22147321
+Belpomme, D., Hardell, L., Belyaev, I., Burgio, E., & 
+Carpenter, D. O. (2018). Thermal and non-thermal health effects of low intensity non-ionizing radiation: An international perspective. Environmental Pollution, 242, 643–
+658. https://doi.org/10.1016/j.envpol.2018.07.019
+Belyaev, I., Dean, A., Eger, H., Hubmann, G., Jandrisovits, R., Kern, M., Kundi, M., Moshammer, H., Lercher, P ., Müller, K., Oberfeld, G., Ohnsorge, P ., Pelzmann, P ., Scheingraber, C., & Thill, R. (2016). EUROPAEM EMF Guideline 2016 for the prevention, diagnosis and treatment of EMF-related health problems and illnesses. Reviews on Environmental Health, 
+31(3), 363–397. https://doi.org/10.1515/reveh-2016-0011
+Bertagna, F ., Lewis, R., Silva, S. R. P ., McFadden, J., & 
+Jeevaratnam, K. (2021). Effects of electromagnetic ﬁelds on 
+neuronal ion channels: A systematic review. Annals of the 
+New York Academy of Sciences, 1499(1), 82–103. https://
+doi.org/10.1111/nyas.14597
+Bin, L., Chen, Z., Wu, T., Shao, Q., Yan, D., Ma, L., Lu, K., & Xie, Y. (2014). The alteration of spontaneous low frequency 
+oscillations caused by acute electromagnetic ﬁelds 
+exposure. Clinical Neurophysiology, 125(2), 277–286. https://
+doi.org/10.1016/j.clinph.2013.07.018
+Birks, L., Guxens, M., Papadopoulou, E., Alexander, J., Ballester, F ., Estarlich, M., Gallastegi, M., Ha, M., Haugen, M., Huss, A., Kheifets, L., Lim, H., Olsen, J., Santa-Marina, L., Sudan, M., Vermeulen, R., Vrijkotte, T., Cardis, E., & Vrijheid, M. (2017). Maternal cell phone use during pregnancy and 
+child behavioral problems in ﬁve birth cohorts. 
+Environment International, 104, 122–131. https://doi.org/
+10.1016/j.envint.2017.03.024
+Boileau, N., Margueritte, F ., Gauthier, T., Boukeffa, N., Preux, P .-M., Labrunie, A., & Aubard, Y. (2020). Mobile phone use during pregnancy: Which association with fetal growth? Journal of Gynecology Obstetrics and Human Reproduction , 
+49(8), 101852. https://doi.org/10.1016/j.jogoh.2020.101852
+Bray, R. I. (2020). PRELIMINARY Clinical Practice Guidelines in 
+the Diagnosis and Management of Electromagnetic Field Hypersensitivity (EHS). Women’s College Hospital. https://
+www.womenscollegehospital.ca/assets/pdf/environmental/Preliminary%20Clinical%20Guidelines%20%20for%20EHS.pdf
+Breunig, H. (2017). Tree damage caused by mobile phone 
+base stations An observation guide. Kompetenzinitiative.com. https://kompetenzinitiative.com/wp-content/uploads/2019/08/2017_Observation_Guide_ENG_FINAL_RED.pdf
+Buchner, K., & Rivasi, M. (2020). The International Commission on Non-Ionizing Radiation Protection: Conﬂicts of interest , corporate capture and the push for 5G. 98.
+Byun, Y.-H., Ha, M., Kwon, H.-J., Hong, Y.-C., Leem, J.-H., Sakong, J., Kim, S. Y., Lee, C. G., Kang, D., Choi, H.-D., & Kim, N. (2013). Mobile Phone Use, Blood Lead Levels, and 
+Attention Deﬁcit Hyperactivity Symptoms in Children: A 
+Longitudinal Study. PLOS ONE, 8(3), e59742. https://doi.org/
+10.1371/journal.pone.0059742
+Cabot, E., Christ, A., Bühlmann, B., Zefferer, M., Chavannes, N., Bakker, J. F ., van Rhoon, G. C., & Kuster, N. (2014). 
+Quantiﬁ cation Of RF-exposure of the Fetus Using 
+Anatomical CAD-Models in Three Different Gestational Stages. Health Physics, 107(5), 369–381. https://doi.org/
+10.1097/HP .0000000000000129
+Capstick, M. H., Kuehn, S., Berdinas-T orres, V., Gong, Y., Wilson, P . F ., Ladbury, J. M., Koepke, G., McCormick, D. L., Gauger, J., Melnick, R. L., & Kuster, N. (2017). A Radio Frequency Radiation Exposure System for Rodents Based on Reverberation Chambers. IEEE Transactions on 
+Electromagnetic Compatibility, 59(4), 1041–1052. https://
+doi.org/10.1109/TEMC.2017.2649885
+Carlberg, M., & Hardell, L. (2017). Evaluation of Mobile Phone and Cordless Phone Use and Glioma Risk Using the Bradford Hill Viewpoints from 1965 on Association or Causation. BioMed Research International, 2017, e9218486. 
+https://doi.org/10.1155/2017/9218486
+Carpenter, D. O. (2019a). Extremely low frequency 
+electromagnetic ﬁelds and cancer: How source of funding 
+affects results. Environmental Research, 178, 108688. https://
+doi.org/10.1016/j.envres.2019.108688
+Carpenter, D. O. (2019b). Extremely low frequency 
+electromagnetic ﬁelds and cancer: How source of funding 
+affects results. Environmental Research, 178, 108688. https://
+doi.org/10.1016/j.envres.2019.108688
+Choi, K.-H., Ha, M., Ha, E.-H., Park, H., Kim, Y., Hong, Y.-C., Lee, A.-K., Hwa Kwon, J., Choi, H.-D., Kim, N., Kim, S., & 
+Park, C. (2017). Neurodevelopment for the ﬁrst three 
+years following prenatal mobile phone use, radio frequency radiation and lead exposure. Environmental 
+Research , 156, 8 1 0 – 8 1 7 . https://doi.org/10.1016/
+j.envres.2017.04.029
+Choi, Y.-J., Moskowitz, J. M., Myung, S.-K., Lee, Y.-R., & Hong, Y.-C. (2020). Cellular Phone Use and Risk of T umors: Systematic Review and Meta-Analysis. International Journal 
+Page 146 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+of Environmental Research and Public Health , 17(21), 8079. 
+https://doi.org/10.3390/ijerph17218079
+Clegg, F . M., Sears, M., Friesen, M., Scarato, T., Metzinger, R., 
+Russell, C., Stadtner, A., & Miller, A. B. (2020). Building science and radiofrequency radiation: What makes smart and healthy buildings. Building and Environment , 176, 
+106324. https://doi.org/10.1016/j.buildenv.2019.106324
+Cyprus Committee on Environment and Children’s Health. (2019). PRESS RELEASE “Living with Technology, Children’s 
+Health Remains their Inexplicable Right and our Own Obligation" . Cyprus Committee on Environment and 
+Children’s Health. https://ehtrust.org/wp-content/uploads/
+PRESS-RELEASE-Cyprus-2019-Campaign-3.pdf
+Dasdag, S., Akdag, M. Z., Erdal, M. E., Erdal, N., Ay, O. I., Ay, M. E., Yilmaz, S. G., Tasdelen, B., & Yegin, K. (2015). Effects of 2.4 GHz radiofrequency radiation emitted from Wi-Fi equipment on microRNA expression in brain tissue. International Journal of Radiation Biology, 91(7), 555–561. 
+https://doi.org/10.3109/09553002.2015.1028599
+Di Ciaula, A. (2018). 5G networks in European Countries: Appeal for a standstill in the respect of the precautionary principle. International Society of Doctors for Environment. https://www.isde.org/5G_appeal.pdf
+Directorate-General for Parliamentary Research Services (European Parliament), & Belpoggi, F . (2021). Health impact of 5G: Current state of knowledge of 5G related carcinogenic and reproductive/developmental hazards as they emerge from epidemiological studies and in vivo 
+experimental studies. Publications Ofﬁce of the European 
+Union. https://data.europa.eu/doi/10.2861/657478
+Divan, H. A., Kheifets, L., Obel, C., & Olsen, J. (2012). Cell phone use and behavioural problems in young children. J 
+Epidemiol Community Health , 66(6), 524–529. https://
+doi.org/10.1136/jech.2010.115402
+El-Hajj, A. M., & Naous, T. (2020). Radiation Analysis in a Gradual 5G Network Deployment Strategy. 2020 IEEE 3rd 
+5G World Forum (5GWF) , 448–453. https://doi.org/
+10.1109/5GWF49715.2020.9221314
+ENVIRONMENTAL HEALTH TRUST, ET AL., PETITIONERS v. FEDERAL COMMUNICATIONS COMMISSION AND UNITED STATES OF AMERICA, RESPONDENTS, No. 20-1025, Consolidated with 20-1138 (United States Court of Appeals FOR THE DISTRICT OF COLUMBIA CIRCUIT August 13, 2021). https://
+www.cadc.uscourts.gov/internet/opinions.nsf/
+FB976465BF00F8BD85258730004EFDF7/$ ﬁle/
+20-1025-1910111.pdfFalcioni, L., Bua, L., Tibaldi, E., Lauriola, M., De Angelis, L., Gnudi, F ., Mandrioli, D., Manservigi, M., Manservisi, F ., Manzoli, I., Menghetti, I., Montella, R., Panzacchi, S., Sgargi, D., Strollo, V., Vornoli, A., & Belpoggi, F . (2018). Report of 
+ﬁnal results regarding brain and heart tumors in Sprague-
+Dawley rats exposed from prenatal life until natural death 
+to mobile phone radiofrequency ﬁeld representative of a 
+1.8 GHz GSM base station environmental emission. 
+Environmental Research , 165, 496–503. https://doi.org/
+10.1016/j.envres.2018.01.037
+Fernández, C., de Salles, A. A., Sears, M. E., Morris, R. D., & Davis, D. L. (2018). Absorption of wireless radiation in the child versus adult brain and eye from cell phone conversation or virtual reality. Environmental Research, 167, 
+694–699. https://doi.org/10.1016/j.envres.2018.05.013
+Frank JW. (2021) Electromagnetic ﬁelds, 5G and health: 
+what about the precautionary principle?J Epidemiol Community Health;75:562-566.  10.1136/jech-2019-213595
+Foerster, M., Thielens, A., Joseph, W., Eeftens, M., & R, öösli M. (n.d.). A Prospective Cohort Study of Adolescents’ Memory Performance and Individual Brain Dose of Microwave Radiation from Wireless Communication. Environmental Health Perspectives, 126(7), 077007. https://
+doi.org/10.1289/EHP2427
+Fragopoulou, A. F ., Polyzos, A., Papadopoulou, M.-D., Sansone, A., Manta, A. K., Balafas, E., Kostomitsopoulos, N., Skouroliakou, A., Chatgilialoglu, C., Georgakilas, A., Stravopodis, D. J., Ferreri, C., Thanos, D., & Margaritis, L. H. 
+(2018). Hippocampal lipidome and transcriptome proﬁle 
+alterations triggered by acute exposure of mice to GSM 1800 MHz mobile phone radiation: An exploratory study. Brain and Behavior, 8(6), e01001. https://doi.org/10.1002/
+brb3.1001
+Gajšek, P ., Ravazzani, P ., Grellier, J., Samaras, T., Bakos, J., & Thuróczy, G. (2016). Review of Studies Concerning Electromagnetic Field (EMF) Exposure Assessment in Europe: Low Frequency Fields (50 Hz-100 kHz). International Journal of Environmental Research and Public Health, 13(9), E875. https://doi.org/10.3390/ijerph13090875
+Gandhi, O. P . (2019). Microwave Emissions From Cell Phones Exceed Safety Limits in Europe and the US When T ouching the Body. IEEE Access, 7, 47050–47052. https://
+doi.org/10.1109/ACCESS.2019.2906017
+Gandhi, O. P ., Morgan, L. L., de Salles, A. A., Han, Y.-Y., Herberman, R. B., & Davis, D. L. (2012b). Exposure limits: The underestimation of absorbed cell phone radiation, especially in children. Electromagnetic Biology and Medicine, 
+31(1),  34–51.  https://doi.org/
+10.3109/15368378.2011.622827
+Page 147 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Gong, Y., Capstick, M. H., Kuehn, S., Wilson, P . F ., Ladbury, J. 
+M., Koepke, G., McCormick, D. L., Melnick, R. L., & Kuster, N. (2017). Life-Time Dosimetric Assessment for Mice and Rats Exposed in Reverberation Chambers for the T wo-Year NTP Cancer Bioassay Study on Cell Phone Radiation. IEEE Transactions on Electromagnetic Compatibility, 59(6), 
+1798–1808. https://doi.org/10.1109/TEMC.2017.2665039
+Haggerty, K. (2010). Adverse Inﬂuence of Radio Frequency 
+Background on Trembling Aspen Seedlings: Preliminary Observations. International Journal of Forestry Research , 
+2010, e836278. https://doi.org/10.1155/2010/836278
+Halgamuge, M. N. (2017). Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants. Electromagnetic Biology and Medicine , 36(2), 213–235. 
+https://doi.org/10.1080/15368378.2016.1220389
+Hardell, L. (2017). World Health Organization, radiofrequency radiation and health—A hard nut to crack (Review). International Journal of Oncology, 51(2), 405–413. 
+https://doi.org/10.3892/ijo.2017.4046
+Hardell, L., & Carlberg, M. (2020). [Comment] Health risks from radiofrequency radiation, including 5G, should be 
+assessed by experts with no conﬂicts of interest. Oncology 
+Letters, 20(4), 1–1.  https://doi.org/10.3892/ol.2020.11876
+Hardell, L., & Carlberg, M. (2013). Use of Mobile and Cordless Phones and Survival of Patients with Glioma. Neuroepidemiology , 40(2),  101–108.  h t t p s : / / d o i . o r g /
+10.1159/000341905
+Hardell, L., Walker, M. J., Walhjalt, B., Friedman, L. S., & 
+Richter, E. D. (2007). Secret ties to industry and conﬂicting 
+interests in cancer research. American Journal of Industrial 
+Medicine, 50(3),  227–233.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 2 /
+ajim.20357
+Hardell L,  Carlberg M,  Hedendahl LK.  (2018).  Radiofrequency radiation from nearby base stations gives high levels in an apartment in Stockholm, Sweden: A case report. Oncol Lett. May;15(5):7871-7883. https://doi.org/
+10.3892/ol.2018.8285
+Hasan, I., Rubayet Jahan, M., Nabiul Islam, M., & Raﬁqul 
+Islam, M. (2022). Effect of 2400 MHzmobile phone radiation exposure on the behavior and hippocampus morphology in Swiss mouse model. Saudi Journal of 
+Biological Sciences, 29(1), 102–110.  https://doi.org/10.1016/
+j.sjbs.2021.08.063
+Hassanzadeh-Taheri, M., Khalili, M. A., Hosseininejad Mohebati, A., Zardast, M., Hosseini, M., Palmerini, M. G., & Doostabadi, M. R. (2021). The detrimental effect of cell phone radiation on sperm biological characteristics in normozoospermic. Andrologia , e14257.  h t t p s : / / d o i . o r g /
+10.1111/and.14257
+Huss, A., Egger, M., Hug, K., Huwiler-Müntener, K., & Röösli, M. (2007). Source of Funding and Results of Studies of Health Effects of Mobile Phone Use: Systematic Review of Experimental Studies. Environmental Health Perspectives, 
+115(1), 1.  https://doi.org/10.1289/ehp.9149
+IARC. (n.d.-a). Non-ionizing Radiation, Part 1: Static and Extremely Low-frequency (ELF) Electric and Magnetic Fields. Retrieved December 22, 2021, from h t t p s : / /publications.iarc.fr/Book-And-Report-Series/Iarc-
+Monographs-On-The-Identi ﬁcation-Of-Carcinogenic-
+Hazards-T o-Humans/Non-ionizing-Radiation-Part-1-Static-And-Extremely-Low-frequency-ELF-Electric-And-Magnetic-Fields-2002
+IARC. (n.d.-b). Non-ionizing Radiation, Part 1: Static and Extremely Low-frequency (ELF) Electric and Magnetic Fields. Retrieved December 22, 2021, from h t t p s : / /publications.iarc.fr/Book-And-Report-Series/Iarc-
+Monographs-On-The-Identi ﬁcation-Of-Carcinogenic-
+Hazards-T o-Humans/Non-ionizing-Radiation-Part-1-Static-And-Extremely-Low-frequency-ELF-Electric-And-Magnetic-Fields-2002 
+IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. (2013). Non-Ionizing Radiation, Part 2: 
+Radiofrequency Electromagnetic Fields . World Health 
+Organization,   International Agency for Research on 
+Cancer. https://www.ncbi.nlm.nih.gov/books/NBK304630/ 
+IARC.  (2011).  IARC CLASSIFIES RADIOFREQUENCY 
+ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS . World Health Organization.  h t t p s : / /
+www.iarc.who.int/wp-content/uploads/2018/07/pr208_E.pdf
+Jimenez, H., B. P ., Carl Blackman, Glenn Lesser, Waldemar Debinski, Michael Chan, Sambad Sharma, Kounosuke Watabe, Hui-Wen Lo, Alexandra Thomas, Dwayne Godwin, William Blackstock, Albert Mudry, James Posey, Rodney O’Connor, Ivan Brezovich, Keith Bonin, Daniel Kim-Shapiro, Alexandre Barbault. (2018). Use of non-ionizing 
+electromagnetic ﬁelds for the treatment of cancer. 
+Frontiers in Bioscience-Landmark, 23(2), 284–297.  https://
+doi.org/10.2741/4591
+Kaiser Permanente. (2001). RADIATION SAFETY FOR 
+NURSES. Kaiser Permanente Medical Care Program, Southern California Region.  https://kpnursing.org/_SCAL/
+professionaldevelopment/orientation/LAMC/rs_nurse.pdf
+Kim, S., Han, D., Ryu, J., Kim, K., & Kim, Y. H. (2021). Effects of mobile phone usage on sperm quality - No time-
+Page 148 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+dependent relationship on usage: A systematic review and 
+updated meta-analysis. Environmental Research , 202, 
+111784.  https://doi.org/10.1016/j.envres.2021.111784
+Koppel T, Ahonen M, Carlberg M, Hardell L. (2022). Very high radiofrequency radiation at Skeppsbron in Stockholm, Sweden from mobile phone base station antennas positioned close to pedestrians' heads. Environ Res.   Epub 
+a h e a d o f p r i n t . https://doi.org/10.1016/
+j.envres.2021.112627
+ 
+Kostoff, R. N., & Lau, C. G. Y. (2017). Modiﬁed Health 
+Effects of Non-ionizing Electromagnetic Radiation Combined with Other Agents Reported in the Biomedical Literature. In C. D. Geddes (Ed.), Microwave Effects on DNA 
+and Proteins (pp. 97–157). Springer International Publishing.  
+https://doi.org/10.1007/978-3-319-50289-2_4
+Lai, H. (2021). Genetic effects of non-ionizing 
+electromagnetic ﬁelds. Electromagnetic Biology and Medicine, 
+40(2),  264–273.  h t t p s : / / d o i . o r g /
+10.1080/15368378.2021.1881866
+Lerchl, A., Klose, M., Grote, K., Wilhelm, A. F . X., Spathmann, O., Fiedler, T., Streckert, J., Hansen, V., & Clemens, M. (2015). Tumor promotion by exposure to radiofrequency 
+electromagnetic ﬁelds below exposure limits for humans. 
+Biochemical and Biophysical Research Communications , 
+459(4),  585–590.  h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 /
+j.bbrc.2015.02.151
+Levitt, B. B., Lai, H. C., & Manville, A. M. (2021a). Effects of 
+non-ionizing electromagnetic ﬁelds on ﬂora and fauna, part 
+1. Rising ambient EMF levels in the environment. Reviews 
+on Environmental Health . h t t p s : / / d o i . o r g / 1 0 . 1 5 1 5 /
+reveh-2021-0026
+Levitt, B. B., Lai, H. C., & Manville, A. M. (2021b). Effects of 
+non-ionizing electromagnetic ﬁelds on ﬂora and fauna, Part 
+2 impacts: How species interact with natural and man-made EMF . Reviews on Environmental Health.  https://doi.org/
+10.1515/reveh-2021-0050
+Levitt, B. B., Lai, H. C., & Manville, A. M. (2021c). Effects of 
+non-ionizing electromagnetic ﬁelds on ﬂora and fauna, Part 
+3. Exposure standards, public policy, laws, and future directions. Reviews on Environmental Health.  https://doi.org/
+10.1515/reveh-2021-0083
+Li, D.-K., Chen, H., Ferber, J. R., Hirst, A. K., & Odouli, R. (2020). Association Between Maternal Exposure to Magnetic Field Nonionizing Radiation During Pregnancy 
+and Risk of Attention-Deﬁcit/Hyperactivity Disorder in 
+Offspring in a Longitudinal Birth Cohort. JAMA Network 
+Open, 3(3),  e201417.  h t t p s : / / d o i . o r g / 1 0 . 1 0 0 1 /
+jamanetworkopen.2020.1417Li, D.-K., Chen, H., Ferber, J. R., Odouli, R., & Quesenberry, C. (2017). Exposure to Magnetic Field Non-Ionizing Radiation and the Risk of Miscarriage: A Prospective Cohort Study. 
+Scientiﬁc Reports , 7(1), 17541.  https://doi.org/
+10.1038/s41598-017-16623-8
+Li, D.-K., Chen, H., & Odouli, R. (2011). Maternal Exposure to Magnetic Fields During Pregnancy in Relation to the Risk of Asthma in Offspring. Archives of Pediatrics & 
+Adolescent Medicine , 165(10), 945–950.  h t t p s : / / d o i . o r g /
+10.1001/archpediatrics.2011.135
+Li, D.-K., Ferber, J. R., Odouli, R., & Quesenberry, C. P . (2012). A Prospective Study of In-utero Exposure to Magnetic Fields and the Risk of Childhood Obesity. 
+Scientiﬁ c Reports , 2(1), 540.  h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 /
+srep00540
+Lu, X., Oda, M., Ohba, T., Mitsubuchi, H., Masuda, S., & Katoh, T. (2017). Association of excessive mobile phone use during pregnancy with birth weight: An adjunct study in Kumamoto of Japan Environment and Children’s Study. Environmental Health and Preventive Medicine, 22(1), 52.  
+https://doi.org/10.1186/s12199-017-0656-1
+Luo, J., Li, H., Deziel, N. C., Huang, H., Zhao, N., Ma, S., Ni, X., Udelsman, R., & Zhang, Y. (2020). Genetic susceptibility may modify the association between cell phone use and thyroid cancer: A population-based case-control study in Connecticut. Environmental Research, 182, 109013.  https://
+doi.org/10.1016/j.envres.2019.109013
+Mahmoudabadi, F. S., Ziaei, S., Firoozabadi, M., & Kazemnejad, A. (2015). Use of mobile phone during pregnancy and the risk of spontaneous abortion. Journal of 
+Environmental Health Science and Engineering, 13(1), 34.  
+https://doi.org/10.1186/s40201-015-0193-z
+Mallery-Blythe, E. (2020). 2020 Consensus Statement of UK 
+and International Medical and Scienti ﬁc Experts and 
+Practitioners on Health Effects of Non-Ionising Radiation (NIR). Physicians’ Health Initiative for Radiation and Environment (PHIRE), British Society for Ecological Medicine (BSEM).  
+https://phiremedical.org/wp-content/uploads/2020/11/2020-Non-Ionising-Radiation-Consensus-Statement.pdf
+Maluin, S. M., Osman, K., Jaffar, F . H. F ., & Ibrahim, S. F . (2021). Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hormones: A Systematic Review. Frontiers in 
+Physiology , 12, 1 5 6 8 .  h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 /
+fphys.2021.732420
+Markovà, E., Malmgren, L. O. G., & Belyaev, I. Y. (2010). Microwaves from Mobile Phones Inhibit 53BP1 Focus Formation in Human Stem Cells More Strongly Than in 
+Page 149 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Differentiated Cells: Possible Mechanistic Link to Cancer 
+Risk. Environmental Health Perspectives, 118(3), 394.  https://
+doi.org/10.1289/ehp.0900781
+Mazloum, T., Aerts, S., Joseph, W., & Wiart, J. (2019). RF-EMF exposure induced by mobile phones operating in LTE small cells in two different urban cities. Annals of 
+Telecommunications, 74(1), 35–42.  https://doi.org/10.1007/
+s12243-018-0680-1
+McInerny, T. K. (2012a, July 12). American Academy of Pediatrics to The Honorable Julius Genachowski.  https://
+ehtrust.org/wp-content/uploads/American-Academy-of-Pediatrics-Letters-to-FCC-and-Congress-.pdf
+McInerny, T. K. (2012b, December 12). American Academy of Pediatrics to The Honorable Dennis Kucinich; support of H.R. 6358, the Cell Phone Right to Know Act.  https://
+ehtrust.org/wp-content/uploads/American-Academy-of-Pediatrics-Letters-to-FCC-and-Congress-.pdf
+McInerny, T. K. (2013, August 20). American Academy of Pediatrics to The Honorable Mignon L. Clyburn and The Honorable Dr. Margaret A. Hamburg; comment on the Proposed Rule “Reassessment of Exposure to Radiofrequency Electromagnetic Fields Limits and Policies” published in the Federal Register on June 4, 2013.  https://
+ehtrust.org/wp-content/uploads/American-Academy-of-Pediatrics-Letters-to-FCC-and-Congress-.pdf
+Melnick, R. L. (2019). Commentary on the utility of the National Toxicology Program study on cell phone radiofrequency radiation data for assessing human health risks despite unfounded criticisms aimed at minimizing the 
+ﬁndings of adverse health effects. Environmental Research, 
+168, 1–6.  https://doi.org/10.1016/j.envres.2018.09.010
+Miller, A. B., Morgan, L. L., Udasin, I., & Davis, D. L. (2018). Cancer epidemiology update, following the 2011 IARC 
+evaluation of radiofrequency electromagnetic ﬁelds 
+(Monograph 102). Environmental Research, 167, 673–683.  
+https://doi.org/10.1016/j.envres.2018.06.043
+Miller, A. B., Sears, M. E., Morgan, L. L., Davis, D. L., Hardell, L., Oremus, M., & Soskolne, C. L. (2019). Risks to Health and Well-Being From Radio-Frequency Radiation Emitted by Cell Phones and Other Wireless Devices. Frontiers in 
+Public Health , 7, 2 2 3 . h t t p s : / / d o i . o r g / 1 0 . 3 3 8 9 /
+fpubh.2019.00223
+Moon, J.-H. (2020). Health effects of electromagnetic ﬁelds 
+on children. Clinical and Experimental Pediatrics, 63(11), 422.  
+https://doi.org/10.3345/cep.2019.01494
+Nittby, H., Brun, A., Eberhardt, J., Malmgren, L., Persson, B. R. R., & Salford, L. G. (2009). Increased blood–brain barrier permeability in mammalian brain 7 days after exposure to the radiation from a GSM-900 mobile phone. Pathophysiology , 16(2), 103–112.  h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 /
+j.pathophys.2009.01.001
+Nyberg, R., & Hardell, L. (2017). 5G Appeal.  http://
+www.5gappeal.eu/scientists-and-doctors-warn-of-potential-serious-health-effects-of-5g/
+Ordinance of the Federal Minister for Labor, Social Affairs and Consumer Protection, with which the ordinance on the protection of workers from exposure to 
+electromagnetic ﬁelds (Ordinance on Electromagnetic 
+Fields—VEMF) is enacted and with which the Ordinance on Health Monitoring at Work 2014 and the regulation on employment bans and restrictions for young people will be amended, no. Federal Law Gazette II No. 179/2016 (2016), Federal Law Gazette authentic from 2004.  https://
+www.ris.bka.gv.at/eli/bgbl/II/2016/179/20160707
+Pall, M. L. (2016). Electromagnetic Fields Act Similarly in Plants as in Animals: Probable Activation of Calcium Channels via Their Voltage Sensor. Current Chemical Biology,  10(1),  74–82.  DOI:  10.2174/2212796810666160419160433
+Panagopoulos, D. J., Johansson, O., & Carlo, G. L. (2015). Polarization: A Key Difference between Man-made and Natural Electromagnetic Fields, in regard to Biological Activity. 
+Scientiﬁ c Reports , 5(1), 14914.  h t t p s : / / d o i . o r g /
+10.1038/srep14914
+Panagopoulos, D. J., Karabarbounis, A., Yakymenko, I., & Chrousos, G. P . (2021). Human-made electromagnetic 
+ﬁelds: Ion forced-oscillation and voltage-gated ion channel 
+dysfunction, oxidative stress and DNA damage (Review). International Journal of Oncology, 59(5), 1–16. https://doi.org/
+10.3892/ijo.2021.5272
+Passi, R., Doheny, K. K., Gordin, Y., Hinssen, H., & Palmer, C. (2017). Electrical Grounding Improves Vagal T one in Preterm Infants. Neonatology, 112(2), 187–192.  https://
+doi.org/10.1159/000475744
+Pearce JM. (2020). Limiting liability with positioning to minimize negative health effects of cellular phone towers. Environ Research. Feb;181 10.1016/j.envres.2019.108845
+ 
+Peleg, M., Nativ, O., & Richter, E. D. (2018). Radio frequency radiation-related cancer: Assessing causation in the occupational/military setting. Environmental Research, 163, 
+123–133.  https://doi.org/10.1016/j.envres.2018.01.003
+Physicians for Safe T echnology. (n.d.). Patient Questionnaire 
+Electrosensitivity . Environmental Health Trust.  h t t p s : / /
+ehtrust.org/wp-content/uploads/patient-questionnaire-electrohypersensitivity-print-pdf-2.pdf
+Page 150 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Raefsky, S. M., Chaudhari, A., & Sy, M. Y. (2020). Delayed-
+Onset multiphasic demyelinating lesions after high dose 
+radiofrequency electromagnetic ﬁeld exposure: A multiple 
+sclerosis (MS) mimic. Multiple Sclerosis and Related 
+Disorders, 45. https://doi.org/10.1016/j.msard.2020.102318
+Redazione, L. (2015). International Appeal: Scientists call for protection from non-ionizing electromagnetic ﬁeld 
+exposure. European Journal of Oncology and Environmental 
+Health, 20(3/4), 180–182.
+Redmayne, M. (2016). International policy and advisory response regarding children’s exposure to radio frequency 
+electromagnetic ﬁelds (RF-EMF). Electromagnetic Biology 
+and Medicine , 35(2),  176–185.  h t t p s : / / d o i . o r g /
+10.3109/15368378.2015.1038832
+Redmayne, M., & Johansson, O. (2014). Could myelin 
+damage from radiofrequency electromagnetic ﬁeld 
+exposure help explain the functional impairment electrohypersensitivity? A review of the evidence. Journal of 
+Toxicology and Environmental Health. Part B, Critical Reviews, 17(5),  247–258.  h t t p s : / / d o i . o r g /
+10.1080/10937404.2014.923356
+Redmayne, M., & Johansson, O. (2015). Radiofrequency exposure in young and old: Different sensitivities in light of age-relevant natural differences. Reviews on Environmental 
+Health, 30(4),  323–335.  h t t p s : / / d o i . o r g / 1 0 . 1 5 1 5 /
+reveh-2015-0030
+Rideout, V., & Robb, M. B. (2019). The Common Sense census: Media use by tweens and teens,. Common Sense Media.  h t t p s : / / w w w . c o m m o n s e n s e m e d i a . o r g / s i t e s / d e f a u l t /
+ﬁles/uploads/research/2019-census-8-to-18-full-report-
+updated.pdf
+Russell, C. L. (2018). 5 G wireless telecommunications expansion: Public health and environmental implications. Environmental Research , 165, 484–495. h t t p s : / / d o i . o r g /
+10.1016/j.envres.2018.01.016
+Sagar, S., Adem, S. M., Struchen, B., Loughran, S. P ., Brunjes, M. E., Arangua, L., Dalvie, M. A., Croft, R. J., Jerrett, M., Moskowitz, J. M., Kuo, T., & Röösli, M. (2018). Comparison 
+of radiofrequency electromagnetic ﬁeld exposure levels in 
+different everyday microenvironments in an international context. Environment International, 114, 297–306.  https://
+doi.org/10.1016/j.envint.2018.02.036
+Schuermann, D., & Mevissen, M. (2021). Manmade Electromagnetic Fields and Oxidative Stress—Biological Effects and Consequences for Health. International Journal 
+of Molecular Sciences, 22(7), 3772.  https://doi.org/10.3390/
+ijms22073772Seomun, G., Lee, J., & Park, J. (2021). Exposure to 
+extremely low-frequency magnetic ﬁelds and childhood 
+cancer: A systematic review and meta-analysis. PLOS ONE, 
+16(5),  e0251628.  h t t p s : / / d o i . o r g / 1 0 . 1 3 7 1 /
+journal.pone.0251628
+Shahin, S., Banerjee, S., Swarup, V., Singh, S. P ., & Chaturvedi, C. M. (2018a). From the Cover: 2.45-GHz Microwave Radiation Impairs Hippocampal Learning and Spatial Memory: Involvement of Local Stress Mechanism-Induced Suppression of iGluR/ERK/CREB Signaling. Toxicological 
+Sciences, 161(2), 349–374.  https://doi.org/10.1093/toxsci/
+kfx221
+Shahin, S., Banerjee, S., Swarup, V., Singh, S. P ., & Chaturvedi, C. M. (2018b). From the Cover: 2.45-GHz Microwave Radiation Impairs Hippocampal Learning and Spatial Memory: Involvement of Local Stress Mechanism-Induced Suppression of iGluR/ERK/CREB Signaling. Toxicological 
+Sciences, 161(2), 349–374.  https://doi.org/10.1093/toxsci/
+kfx221
+Shepardson, D. (2018). Trump Administration looks to speed 5G networks, ease hurdles. Reuters, Sept 28, 2028. 
+https://www.reuters.com/article/ctech-us-usa-tech-5g-idCAKCN1M82UN-OCATC 
+Shih, Y.-W., Hung, C.-S., Huang, C.-C., Chou, K.-R., Niu, S.-F ., Chan, S., & Tsai, H.-T. (2020). The Association Between Smartphone Use and Breast Cancer Risk Among Taiwanese Women: A Case-Control Study. Cancer 
+Management and Research , 12, 10799. h t t p s : / / d o i . o r g /
+10.2147/CMAR.S267415
+Singh, K. V., Gautam, R., Meena, R., Nirala, J. P ., Jha, S. K., & Rajamani, P . (2020). Effect of mobile phone radiation on 
+oxidative stress, inﬂammatory response, and contextual 
+fear memory in Wistar rat. Environmental Science and 
+Pollution Research, 27(16), 19340–19351.  https://doi.org/
+10.1007/s11356-020-07916-z
+Sırav, B., & Seyhan, N. (2016). Effects of GSM modulated radio-frequency electromagnetic radiation on permeability of blood–brain barrier in male & female rats. Journal of 
+Chemical Neuroanatomy , 75, 123–127. h t t p s : / / d o i . o r g /
+10.1016/j.jchemneu.2015.12.010
+Smith, M. T., Guyton, K. Z., Gibbons, C. F ., Fritz, J. M., Portier, C. J., Rusyn, I., DeMarini, D. M., Caldwell, J. C., Kavlock, R. J., Lambert, P . F ., Hecht, S. S., Bucher, J. R., Stewart, B. W., Baan, R. A., Cogliano, V. J., & Straif, K. (2016). Key Characteristics of Carcinogens as a Basis for Organizing Data on Mechanisms of Carcinogenesis. Environmental Health 
+Perspectives , 124(6), 713–721.  h t t p s : / / d o i . o r g / 1 0 . 1 2 8 9 /
+ehp.1509912
+Page 151 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Smith-Roe, S. L., Wyde, M. E., Stout, M. D., Winters, J. W., 
+Hobbs, C. A., Shepard, K. G., Green, A. S., Kissling, G. E., Shockley, K. R., Tice, R. R., Bucher, J. R., & Witt, K. L. (2020). Evaluation of the genotoxicity of cell phone radiofrequency radiation in male and female rats and mice following subchronic exposure. Environmental and 
+Molecular Mutagenesis , 61(2), 276–290.  h t t p s : / / d o i . o r g /
+10.1002/em.22343
+Soffritti, M., Tibaldi, E., Padovani, M., Hoel, D. G., Giuliani, L., Bua, L., Lauriola, M., Falcioni, L., Manservigi, M., Manservisi, F ., & Belpoggi, F . (2016). Synergism between sinusoidal-50 
+Hz magnetic ﬁeld and formaldehyde in triggering 
+carcinogenic effects in male Sprague–Dawley rats. American Journal of Industrial Medicine, 59(7), 509–521.  
+https://doi.org/10.1002/ajim.22598
+Soffritti, M., Tibaldi, E., Padovani, M., Hoel, D. G., Giuliani, L., Bua, L., Lauriola, M., Falcioni, L., Manservigi, M., Manservisi, F ., Panzacchi, S., & Belpoggi, F . (2016). Life-span exposure to 
+sinusoidal-50 Hz magnetic ﬁeld and acute low-dose γ 
+radiation induce carcinogenic effects in Sprague-Dawley rats. International Journal of Radiation Biology, 92(4), 202–
+214. https://doi.org/10.3109/09553002.2016.1144942
+Sonmez, O. F ., Odaci, E., Bas, O., & Kaplan, S. (2010). Purkinje cell number decreases in the adult female rat cerebellum following exposure to 900 MHz 
+electromagnetic ﬁeld. Brain Research, 1356, 95–101.  https://
+doi.org/10.1016/j.brainres.2010.07.103
+Stam, R. (2022). Occupational exposure to radiofrequency 
+electromagnetic ﬁelds. Industrial Health, adv pub.  https://
+doi.org/10.2486/indhealth.2021-0129
+Stam, R. (2017). Comparison of international policies on 
+electromagnetic ﬁelds. National Institute for Public Health 
+and the Environment, RIVM.  https://www.rivm.nl/sites/
+default/ﬁ les/2018-11/
+Comparison%20of%20international%20policies%20on%20
+electromagnetic%20ﬁelds%202018.pdf
+Sudan, M., Olsen, J., Arah, O. A., Obel, C., & Kheifets, L. (2016). Prospective cohort analysis of cellphone use and 
+emotional and behavioural difﬁculties in children. Journal of 
+Epidemiology and Community Health, 70(12), 1207–1213.  
+https://doi.org/10.1136/jech-2016-207419
+Tan, S., Wang, H., Xu, X., Zhao, L., Zhang, J., Dong, J., Yao, B., Wang, H., Hao, Y., Zhou, H., Gao, Y., & Peng, R. (2021). Acute effects of 2.856 GHz and 1.5 GHz microwaves on spatial memory abilities and CREB-related pathways. 
+Scientiﬁc 
+Reports, 11(1),  12348.  h t t p s : / / d o i . o r g / 1 0 . 1 0 3 8 /
+s41598-021-91622-4Tan, S., Wang, H., Xu, X., Zhao, L., Zhang, J., Dong, J., Yao, B., Wang, H., Zhou, H., Gao, Y., & Peng, R. (2017). Study on dose-dependent, frequency-dependent, and accumulative effects of 1.5 GHz and 2.856 GHz microwave on cognitive functions in Wistar rats. 
+Scientiﬁc Reports , 7(1), 10781.  
+https://doi.org/10.1038/s41598-017-11420-9
+Tang, J., Zhang, Y., Yang, L., Chen, Q., Tan, L., Zuo, S., Feng, H., Chen, Z., & Zhu, G. (2015). Exposure to 900MHz 
+electromagnetic ﬁelds activates the mkp-1/ERK pathway 
+and causes blood-brain barrier damage and cognitive impairment in rats. Brain Research, 1601, 92–101.  https://
+doi.org/10.1016/j.brainres.2015.01.019
+T erzaghi, E., De Nicola, F ., Cerabolini, B. E. L., Posada-Baquero, R., Ortega-Calvo, J.-J., & Di Guardo, A. (2020). Role of photo- and biodegradation of two PAHs on leaves: Modelling the impact on air quality ecosystem services provided by urban trees. Science of The Total Environment, 
+739, 1 3 9 8 9 3 .  h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 /
+j.scitotenv.2020.139893
+The Shift Project. (2019, March 5). “Lean ICT: Towards Digital 
+Sobriety”: Our new report . The Shift Project.  h t t p s : / /
+theshiftproject.org/en/article/lean-ict-our-new-report/
+Tsarna, E., Reedijk, M., Birks, L. E., Guxens, M., Ballester, F ., Ha, M., Jiménez-Zabala, A., Kheifets, L., Lertxundi, A., Lim, H.-R., Olsen, J., González Safont, L., Sudan, M., Cardis, E., Vrijheid, M., Vrijkotte, T., Huss, A., & Vermeulen, R. (2019). Associations of Maternal Cell-Phone Use During Pregnancy With Pregnancy Duration and Fetal Growth in 4 Birth Cohorts. American Journal of Epidemiology, 188(7), 
+1270–1280.  https://doi.org/10.1093/aje/kwz092
+Uche, U. I., & Naidenko, O. V. (2021). Development of health-based exposure limits for radiofrequency radiation from wireless devices using a benchmark dose approach. Environmental Health, 20(1), 84.  https://doi.org/10.1186/
+s12940-021-00768-1
+Volkow, N. D., T omasi, D., Wang, G.-J., Vaska, P ., Fowler, J. S., T elang, F ., Alexoff, D., Logan, J., & Wong, C. (2011). Effects of Cell Phone Radiofrequency Signal Exposure on Brain Glucose Metabolism. JAMA  : The Journal of the American 
+Medical Association, 305(8), 808.  https://doi.org/10.1001/
+jama.2011.186
+Waldmann-Selsam, C., Balmori-de la Puente, A., Breunig, H., & Balmori, A. (2016). Radiofrequency radiation injures trees around mobile phone base stations. Science of The 
+Total Environment, 572, 554–569.  https://doi.org/10.1016/
+j.scitotenv.2016.08.045
+West, J. G., Kapoor, N. S., Liao, S.-Y., Chen, J. W., Bailey, L., & Nagourney, R. A. (2013). Multifocal Breast Cancer in Y oung 
+Page 152 Alliance of Nurses for Healthy Environments
+Unit III: Environmental Health Sciences
+Women with Prolonged Contact between Their Breasts 
+and Their Cellular Phones. Case Reports in Medicine, 2013, 
+e354682.  https://doi.org/10.1155/2013/354682
+Williams, D. A., Xu, H., & Cancelas, J. A. (2006). Children are not little adults: Just ask their hematopoietic stem cells. Journal of Clinical Investigation , 116(10), 2593.  h t t p s : / /
+doi.org/10.1172/JCI30083
+Wyde, M., Cesta, M., Blystone, C., Elmore, S., Foster, P ., Hooth, M., Kissling, G., Malarkey, D., Sills, R., Stout, M., Walker, N., Witt, K., Wolfe, M., & Bucher, J. (2016). Report of 
+Partial Findings from the National Toxicology Program Carcinogenesis Studies of Cell Phone Radiofrequency Radiation 
+in Hsd: Sprague Dawley 
+® Sd Rats (Whole Body Exposure) 
+[Preprint]. Cancer Biology.  https://doi.org/10.1101/055699
+Wyde, M. E., Horn, T. L., Capstick, M. H., Ladbury, J. M., 
+Koepke, G., Wilson, P . F ., Kissling, G. E., Stout, M. D., Kuster, N., Melnick, R. L., Gauger, J., Bucher, J. R., & McCormick, D. L. (2018). Effect of cell phone radiofrequency radiation on body temperature in rodents: Pilot studies of the National T oxicology Program’s reverberation chamber exposure system. Bioelectromagnetics, 39(3), 190–199.  https://doi.org/
+10.1002/bem.22116
+Yakymenko, I., Tsybulin, O., Sidorik, E., Henshel, D., Kyrylenko, O., & Kyrylenko, S. (2016). Oxidative mechanisms of biological activity of low-intensity radiofrequency radiation. Electromagnetic Biology and 
+Medicine, 35(2),  186–202.  h t t p s : / / d o i . o r g /
+10.3109/15368378.2015.1043557
+Yu, G., Bai, Z., Song, C., Cheng, Q., Wang, G., Tang, Z., & Yang, S. (2021). Current progress on the effect of mobile phone radiation on sperm quality: An updated systematic review and meta-analysis of human and animal studies. Environmental Pollution , 282, 116952.  h t t p s : / / d o i . o r g /
+10.1016/j.envpol.2021.116952
+ 
+ 
+Page 153 Alliance of Nurses for Healthy Environments
+Theodora Scarato
+Environmental Health Trust
+LD 697
+ 
+Nursing Handbook on EMF (wireless, Wi-Fi, cell phone and cell tower radiation) as an 
+Environmental Pollutant: Alliance of Nurses for Healthy Environments Textbook of 
+Environmental Health in Nursing 2nd Edition  .
+This is an open access Chapter. 

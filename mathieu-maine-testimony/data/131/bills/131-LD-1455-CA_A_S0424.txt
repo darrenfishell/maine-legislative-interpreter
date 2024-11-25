@@ -1,0 +1,354 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+~ 
+\ 
+\ 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 Date lo, l zz. J 2.~ 
+TRANSPORTATION L D 1455 
+(Filmg No s-'jl~) 
+Reproduced and d1stnbuted under the d1rect10n of the Secretary of the Senate 
+STATE OF MAINE 
+SENATE 
+131ST LEGISLATURE 
+FIRST SPECIAL SESSION 
+COMMITTEE AMENDMENT" A" to S P 573, L D 1455, "An Act to Estabhsh the 
+We1ghmg Pomt Preclearance Program" 
+Amend the bill by stnkmg out everythmg after the enactmg clause and msertmg the 
+followmg 
+'Sec. 1. 29-A MRSA §2366 1s enacted to read 
+§2366. We1ghmg Pomt Preclearance Program 
+The State Pohce shall establish the We1ghmg Pomt Preclearance Program, referred to 
+m this sect10n as "the program," to provide a preclearance system capable of detenmnmg 
+a commercial motor vehicle's size, weight, registlatlon and safety records as the 
+commercial motor vehicle travels on a highway and allowmg compliant commercial motor 
+velucles to bypass we1ghmg pomts 
+1 DefimtJons. For purposes of this sect10n, unless the context otherwise md1cates, the 
+followmg terms have the followmg meanmgs 
+A "Preclearance system" means an electromc system that ve1 Ifies a commercial motor 
+velucle's size, weight, reg1strat10n and safety records as the commercial motor vehicle 
+travels on a highway and allows compliant commercial motor vehicles to bypass 
+we1ghmg pomts 
+B "State Pohce" means the Department of Pubhc Safety, Bureau of State Police 
+C "We1ghmg pomt" means a state-owned station where commercial motor vehicles 
+are reqmred to stop for weight and safety mspect1ons by the State Pohce 
+2. Standards The program must be m accordance with the commercial motor vehicle 
+mformat10n systems and networks electromc screenmg commercial vehicle mspection and 
+we1ghmg pomt preclearance standards authorized by the Federal Motor Came1 Safety 
+Admm1strat1on The State Pohce shall, m accordance with Title 5, chapter 155, select 
+preclearance system providers to nnplement the program The State Pohce may remove 
+from the program any preclearance system provider who fails to bomply with the 
+requ1rements of this section The State Pohce may adopt rules as necessary to nnplement 
+Page 1 -131LR0845(02) 
+COMMITTEE AMENDMENT 
+ROS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 COMMITTEE AMENDMENT •A" to SP 573, L D 1455 
+the prov1S1ons of this sect10n The State Police may consult with the department and the 
+Mame Turnpike Authonty as necessary m the 1mplementation of the p10gram Rules 
+adopted pursuant to this subsect10n are routme techmcal rules as defined m Title 5, chapter 
+375, subchapter 2-A 
+3. Review. The State Police shall establish standards for the program m 01dei to meet 
+the needs of the State The State Police shall establish a review process to be conducted 
+every 5 years to evaluate any new preclearance system providers or technologies 
+4. Report. Preclearance system providers, except those on the Mame Turnpike, shall 
+provide a monthly report to the State Pohce on the number of commei cial vehicles that 
+have bypassed each weighmg pomt that uses the preclearance system 
+Sec. 2. We1ghmg Pomt Preclearance Program. The followmg provis10ns 
+govern the Weighmg Pomt Preclearance Program established under the Mame Revised 
+Statutes, Title 29-A, section 2366, referred to m this section as "the program" Any 
+proposed mfrastructure to be mstalled withm the nght-of-way of a state highway as part of 
+a preclearance system must be designed and constructed m accordance with standards 
+estabhshed by the Department of Pubhc Safety and must be reviewed and approved by the 
+Department of Pubhc Safety, the Department of Transportation and the Mame Turnpike 
+Authonty, as applicable, puor to consti uct10n All costs associated with the design, 
+mspection, mstallat10n, mamtenance, operation, modification, replacement and removal of 
+a preclearance system 1s the respons1bihty of the preclearance system provider 
+Any mfrastructure to be mstalled w1thm the nght-of-way on the Mame Turnpike as 
+part of a preclearance system must be reviewed and approved by the Mame Turnpike 
+Authonty The preclearance system provider must enter mto a 1 evocable license agreement 
+with the Mame Turnpike Authonty pnor to construction A provider of a preclearance 
+system w1thm the Mame Turnpike nght-of-way that allows the we1ghmg of commercial 
+vehicles m motion must provide reports to the Mame Turnpike Authonty, ma fom1at and 
+as frequently as the Mame Turnpike Authonty d1rects, showmg the number and 
+classification of vehicles weighed by tlus method and the weights of each vehicle Each 
+report must mclude all data recorded smce the time of the most recent pn01 report 
+1 The State Pohce shall operate the program at designated locations where commercial 
+motor vehicle weight and safety mspections are conducted A precleai ance system 
+provider's devices and computer software and hardware must be used umformly at each 
+location where the program 1s operated m accordance with subsection 4 
+2 The preclearance systems used by the program must meet the followmg cntena 
+A A preclearance system must use global pos1tionmg system technology or 
+mfrastructure-based eqmpment and be able to be used at both fixed weighmg pomts 
+and mobile or remote locat10ns 
+B A preclearance system must be a system that is broadly deployed across the Umted 
+States for mterstate operabihty purposes 
+C A preclearance system must allow for the State Police to select commercial vehicles 
+for manual mspect1on and visual venfication 
+3 Computer software and hardware that are necessary for the use of the preclearance 
+system must be made available at no cost to the State Pohce The preclearance system 
+Page 2 -131LR0845(02) 
+COMMITTEE AMENDMENT 
+ROS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 COMMITTEE AMENDMENT A "to SP 573, L D 1455 
+provider 1s responsible for all costs of operatmg and mamtammg the computer software 
+and hardware The computer software and hardware must meet the followmg cntena 
+A The computer software and hardwaie must meet the reqmrements of the Fedeial 
+Motor Carner Safety Admm1stratlon for compliance with the commercial motor 
+vehicle mf01mation systems and networks electi omc sci eenmg commercial vehicle 
+mspection and we1ghmg pomt preclearance standards 
+B Hardware mstalled m a commercial vehicle pursuant to the program must be 
+operated m compliance with applicable state law and rules ielatmg to hands-free 
+devices and distracted dnvmg 
+C Program preclearance mformation must be transmitted and received by the 
+commercial vehicle dnver through electromc messagmg w1thm the cab of the 
+commercial vehicle 
+D The computer software and hardware must meet applicable standards set by the 
+Department of Admm1strattve and Fmancial Services, Office of Infonnat10n 
+Technology 
+4 The State Pohce and the Department of Pubhc Safety, as applicable, must have 
+unrestricted access to data provided by the preclearance system as part of the program, 
+mcludmg real-time event data, real-time sensor data and any iecorded data captmed by the 
+preclearance system Recorded data captured by the preclearance system must be 
+mamtamed by the preclearance system provider for at least 3 0 days from the date of 
+recordmg 
+The Mame Turnpike Authority must have access to this data for any weighmg pomts 
+overseen by the authority 
+5 By January 3, 2024, the State Pohce shall report on which preclearance system 
+provider or p1 oviders are selected for the program and how the development of the pt ogram 
+has progressed and mclude any proposed statutory changes to the Jomt Standmg 
+Committee on Transportation The committee may rep011 out a bill related to the report to 
+the Second Regular Session of the 131 st Legislature 
+For the purposes of this sect10n, "preclearance system," "State Police" and "we1ghmg 
+pomt" have the same meanmgs as m Title 29-A, subsect10n 1 ' 
+Amend the bill by relettermg or 1enumbermg any nonconsecutive Part lettei 01 section 
+number to read consecutively 
+SUMMARY 
+This amendment replaces the bill and does the followmg 
+1 It changes the defm1t1on m the bill of "weighmg pomt" to clanfy that we1ghmg pomts 
+are state owned 
+2 It adds language to clai ify that the W e1ghmg Pomt Preclearance Program must 
+follow the current statutory procurement process for departments and agencies of State 
+Government 
+Page 3 -131LR0845(02) 
+COMMITTEE AMENDMENT 
+ROS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 COMMITTEE AMENDMENT 'A' to SP 573, L D 1455 
+3 It removes the reqmrement that the preclearance program must ahgn with other state 
+precleaiance piograms It adds a review process to be conducted every 5 years to evaluate 
+any new preclearance system providers or technologies 
+4 It adds that any mfrastructure to be mstalled withm the right-of-way on the Mame 
+Turnpike as part of a preclearance system must be reviewed and approved by the Mame 
+Turnpike Authority The preclearance system provider must enter mto a revocable hcense 
+agreement with the authority pnor to begmnmg any construct10n 
+5 It adds that cost of modification, replacement 01 removal of a preclearance system 
+must be covered by the preclearance system provider 
+6 It adds 3 cntena to the criteria m the bill that the preclearance system must meet 
+The preclearance system must allow for the Department of Public Safety, Bureau of State 
+Pohce to select vehicles for manual mspect10n and visual verification Preclearance system 
+providers, except those on the Mame Turnpike, must provide a monthly report of the 
+number of commercial vehicles that have bypassed each weighmg pomt that uses the 
+preclearance system For preclearance system withm the Mame Turnpike nght-of-way that 
+allows the weighmg of vehicles m mot10n, the preclearance system must provide reports to 
+the authority, ma format and as frequently as the authority directs, showmg the number 
+and classification of vehicles weighed by this method and the weights of each vehicle, each 
+report must mclude all data rec01 ded smce the tune of the most recent prior report 
+7 It adds that all computer software and hardwaie must meet applicable standards set 
+by the Department of Admmistrative and Fmancial Services, Office of Information 
+Technology 
+8 It adds that the Department of Pub he Safety and the Bm eau of State Pohce must 
+have access to any recorded data captured by the preclearance system for at least 3 0 days 
+from the date of recordmg and that the Mame Turnpike Authority must have access to this 
+data for any weighmg pomts overseen by the authority 
+9 It adds that the Bureau of State Police may remove from the program any 
+preclearance system provider who fails to comply with the reqmrements of the program 
+10 It adds that the Bureau of State Pohce is reqmred to report on the program to the 
+Jomt Standmg Committee on Transportat10n by January 3, 2024 
+FISCAL NOTE REQUIRED 
+(See attached) 
+Page 4-131LR0845(02) 
+COMMITTEE AMENDMENT 
+Revised 06/15/23 ~ae.. 
+131st MAINE LEGISLATURE 
+LD 1455 LR 845(02) 
+An Act to Establish the We1ghmg Pomt Preclearance Program 
+Fiscal Note for Bill as Amended by Committee Amendment J} [5-lfl_ tj'\ 
+Committee: Transportation · ') 
+Fiscal Note Reqmred: Yes 
+Fiscal Note 
+Mmor cost mcrease -General Fund 
+Mmor cost mcrease -Highway Fund 
+Mmor cost mcrease -Mame Turnpike Auth011ty 
+r1scal Detail and Notes 
+/ Add1t10nal costs to the Department of Pubhc Safety to establish and adm1mster the program and provide a 1 eport can 
+be absorbed w1thm ex1stmg budgeted resources 
+' 
+I 
+I 
+I Add1t10nal costs to the Department of Transportat10n and the Mame Turnpike Authonty to review and approve 
+p1oposed mfrastructure withm the 11ght-of-way of a state highway can also be absorbed withm ex1stmg budgeted 
+resources 
+LR0845(02) -Fiscal Note -Page 1 of 1 

@@ -1,0 +1,985 @@
+/i255/1 /2 /3 /4 /5/6 /7 /8 /i255 /6 /9 /i255 /10 /6 /7 /11 /12 /13 /11 /7 /i255 /14 /15 /2 /7 /16 /13 /17 /i255 /18 /19 /20 /19 /i255 /9 /15 /6 /5/i255 /21 /22 /23 /24 /25 /i255 /1 /13 /2 /i255 /20 /15 /11 /i255 /26 /7 /i255 /27 /22 /28 /28 /6 /15 /12 /i255 /6 /9 /i255 /29 /30 /i255 /31 /32 /33 /i255 /34 /7 /i255 /34 /16 /12 /i255 /12 /6 /i255 /18 /15 /6 /35 /23 /25 /2 /i255
+/i255/1 /15 /11 /36/16 /i255 /27 /11 /9 /2 /12 /8 /i255 /20 /25 /22 /16 /11 /4 /6 /7 /i255 /23 /7 /i255 /27 /16 /13 /6 /6 /24 /3 /17 /i255 /37/11 /15 /16 /13 /i255 /38 /32 /17 /i255 /38 /33 /38 /32 /i255
+/i255/40 /41 /42 /43 /44 /45 /46 /i255 /47 /43 /48 /41 /46 /44 /49 /50 /i255 /47 /41 /51 /46 /41 /52 /41 /42 /44 /43 /53 /54 /41 /i255 /55 /46 /41 /42 /42 /43 /42 /i255 /43 /42 /56 /i255 /57/41 /57/58 /41 /46 /52 /i255 /45 /59 /i255 /44 /60 /41 /i255 /61 /45 /62 /42 /44 /i255 /40 /44 /43 /42 /56 /62 /42 /63 /i255 /64 /45 /57/57/62 /65 /41 /41 /i255 /45 /42 /i255
+/i255/66 /56 /67 /68 /43 /53 /45 /42 /i255 /43 /42 /56 /i255 /64 /67 /69 /44 /67 /46 /43 /69 /i255 /70 /48 /43 /62 /46 /52 /50 /i255 /57/49 /i255 /42 /43 /57/41 /i255 /62 /52 /i255 /61 /45 /42 /43 /44 /60 /43 /42 /i255 /71 /46 /41 /42 /68 /60 /i255 /43 /42 /56 /i255 /72 /i255 /43 /57/i255 /43 /i255 /69 /62 /68 /41 /42 /52 /41 /56 /i255 /51 /46 /45 /59 /41 /52 /52 /62 /45 /42 /43 /69 /i255
+/i255/41 /42 /63 /62 /42 /41 /41 /46 /i255 /69 /62 /54 /62 /42 /63 /i255 /62 /42 /i255 /73 /43 /69 /69 /45 /74 /41 /69 /69 /75 /i255 /72 /i255 /43 /57/i255 /43 /69 /52 /45 /i255 /43 /i255 /68 /45 /59 /45 /67 /42 /56 /41 /46 /i255 /43 /42 /56 /i255 /58 /45 /43 /46 /56 /i255 /57/41 /57/58 /41 /46 /i255 /45 /59 /i255 /55 /67 /62 /69 /56 /i255 /76 /60 /41 /i255 /66 /46 /43 /50 /i255 /43 /i255
+/i255/42 /43 /53 /45 /42 /43 /69 /i255 /54 /45 /69 /67 /42 /44 /41 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /43 /42 /56 /i255 /43 /56 /54 /45 /68 /43 /68 /49 /i255 /45 /46 /63 /43 /42 /62 /77 /43 /53 /45 /42 /i255 /59 /45 /68 /67 /52 /41 /56 /i255 /45 /42 /i255 /44 /46 /43 /42 /52 /51 /45 /46 /44 /43 /53 /45 /42 /i255 /43 /42 /56 /i255
+/i255/62 /42 /59 /46 /43 /52 /44 /46 /67 /68 /44 /67 /46 /41 /i255 /43 /52 /i255 /62 /44 /i255 /46 /41 /69 /43 /44 /41 /52 /i255 /44 /45 /i255 /44 /60 /41 /i255 /78 /75 /40 /75 /i255 /79 /41 /51 /43 /46 /44 /57/41 /42 /44 /i255 /45 /59 /i255 /76 /46 /43 /42 /52 /51 /45 /46 /44 /43 /53 /45 /42 /i255 /80 /78 /40 /79 /81 /76 /82 /75 /i255 /81 /42 /41 /i255 /45 /59 /i255 /45 /67 /46 /i255 /59 /45 /68 /67 /52 /i255
+/i255/43 /46 /41 /43 /52 /i255 /60 /43 /52 /i255 /58 /41 /41 /42 /i255 /44 /60 /41 /i255 /42 /41 /41 /56 /i255 /59 /45 /46 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /62 /42 /i255 /44 /60 /41 /i255 /78 /42 /62 /44 /41 /56 /i255 /40 /44 /43 /44 /41 /52 /50 /i255 /41 /52 /51 /41 /68 /62 /43 /69 /69 /49 /i255 /44 /46 /43 /83/68 /i255 /52 /43 /59 /41 /44 /49 /i255
+/i255/41 /56 /67 /68 /43 /53 /45 /42 /50 /i255 /52 /45 /i255 /74 /41 /i255 /43 /46 /41 /i255 /62 /42 /i255 /52 /44 /46 /45 /42 /63 /i255 /52 /67 /51 /51 /45 /46 /44 /i255 /45 /59 /i255 /84 /79 /i255 /85 /86 /87 /75 /i255 /88/41 /i255 /43 /69 /52 /45 /i255 /44 /60 /43 /42 /89 /i255 /40 /41 /42 /43 /44 /45 /46 /i255 /79 /43 /67 /63 /60 /44 /46 /49 /i255 /59 /45 /46 /i255
+/i255/62 /42 /44 /46 /45 /56 /67 /68 /62 /42 /63 /i255 /43 /42 /56 /i255 /52 /51 /45 /42 /52 /45 /46 /62 /42 /63 /i255 /44 /60 /62 /52 /i255 /62 /57/51 /45 /46 /44 /43 /42 /44 /i255 /58 /62 /69 /69 /75 /i255
+/i255/70 /65 /43 /68 /60 /41 /56 /i255 /44 /45 /i255 /57/49 /i255 /44 /41 /52 /53 /57/45 /42 /49 /i255 /43 /46 /41 /i255 /52 /67 /51 /51 /45 /46 /53 /42 /63 /i255 /56 /45 /68 /67 /57/41 /42 /44 /52 /i255 /62 /42 /68 /69 /67 /56 /62 /42 /63 /i255 /52 /68 /43 /42 /i255 /56 /43 /44 /43 /i255 /59 /45 /46 /i255 /43 /i255 /51 /46 /45 /90 /41 /68 /44 /i255 /72 /i255
+/i255/56 /41 /54 /41 /69 /45 /51 /41 /56 /i255 /59 /45 /46 /i255 /44 /60 /41 /i255 /72 /42 /52 /53 /44 /67 /44 /41 /i255 /45 /59 /i255 /76 /46 /43 /42 /52 /51 /45 /46 /44 /43 /53 /45 /42 /i255 /66 /42 /63 /62 /42 /41 /41 /46 /52 /i255 /43 /58 /45 /67 /44 /i255 /46 /45 /67 /42 /56 /43 /58 /45 /67 /44 /i255 /69 /43 /74 /52 /i255 /43 /42 /56 /i255 /56 /46 /62 /54 /41 /46 /i255
+/i255/41 /56 /67 /68 /43 /53 /45 /42 /i255 /62 /42 /i255 /44 /60 /41 /i255 /78 /42 /62 /44 /41 /56 /i255 /40 /44 /43 /44 /41 /52 /i255 /43 /42 /56 /i255 /64 /43 /42 /43 /56 /43 /50 /i255 /46 /45 /43 /56 /i255 /44 /46 /43 /83/68 /i255 /56 /41 /43 /44 /60 /i255 /46 /43 /44 /41 /52 /i255 /59 /46 /45 /57/i255 /44 /60 /41 /i255 /88/45 /46 /69 /56 /i255 /73 /41 /43 /69 /44 /60 /i255
+/i255/81 /46 /63 /43 /42 /62 /77 /43 /53 /45 /42 /i255 /80 /88/73 /81 /82 /50 /i255 /43 /42 /i255 /41 /91 /68 /41 /46 /51 /44 /i255 /45 /59 /i255 /43 /i255 /46 /41 /51 /45 /46 /44 /i255 /45 /59 /i255 /44 /60 /41 /i255 /52 /44 /43 /44 /67 /52 /i255 /45 /59 /i255 /44 /46 /43 /83/68 /i255 /52 /43 /59 /41 /44 /49 /i255 /43 /42 /56 /i255 /57/45 /58 /62 /69 /62 /44 /49 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255
+/i255/62 /42 /i255 /66 /67 /46 /45 /51 /41 /i255 /58 /49 /i255 /44 /60 /41 /i255 /66 /67 /46 /45 /51 /41 /43 /42 /i255 /76 /46 /43 /42 /52 /51 /45 /46 /44 /i255 /40 /43 /59 /41 /44 /49 /i255 /64 /45 /67 /42 /68 /62 /69 /50 /i255 /43 /42 /56 /i255 /43 /42 /i255 /43 /46 /53 /68 /69 /41 /i255 /43 /58 /45 /67 /44 /i255 /44 /46 /43 /83/68 /i255 /63 /43 /46 /56 /41 /42 /52 /i255 /59 /46 /45 /57/i255
+/i255/44 /60 /41 /i255 /57/43 /63 /43 /77 /62 /42 /41 /i255 /45 /59 /i255 /44 /60 /41 /i255 /92 /43 /53 /45 /42 /43 /69 /i255 /47 /41 /68 /46 /41 /43 /53 /45 /42 /i255 /43 /42 /56 /i255 /93 /43 /46 /89 /i255 /70 /52 /52 /45 /68 /62 /43 /53 /45 /42 /75 /i255
+/i255/72 /42 /i255 /44 /60 /41 /i255 /78 /42 /62 /44 /41 /56 /i255 /40 /44 /43 /44 /41 /52 /50 /i255 /74 /41 /i255 /46 /41 /69 /49 /i255 /51 /46 /62 /57/43 /46 /62 /69 /49 /i255 /45 /42 /i255 /56 /46 /62 /54 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /59 /45 /46 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /50 /i255 /43 /42 /56 /i255 /57/45 /52 /44 /69 /49 /i255
+/i255/59 /46 /45 /57/i255 /51 /46 /62 /54 /43 /44 /41 /i255 /58 /67 /52 /62 /42 /41 /52 /52 /41 /52 /75 /i255 /76 /60 /62 /52 /i255 /60 /43 /52 /i255 /69 /62 /57/62 /44 /41 /56 /i255 /43 /68 /68 /41 /52 /52 /i255 /44 /45 /i255 /44 /60 /43 /44 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /44 /45 /i255 /45 /42 /69 /49 /i255 /44 /60 /45 /52 /41 /i255 /74 /60 /45 /i255 /74 /43 /42 /44 /i255 /44 /45 /i255
+/i255/56 /46 /62 /54 /41 /50 /i255 /74 /60 /45 /i255 /68 /43 /42 /i255 /43 /48 /45 /46 /56 /i255 /44 /45 /i255 /56 /46 /62 /54 /41 /50 /i255 /43 /42 /56 /i255 /74 /60 /45 /i255 /43 /46 /41 /i255 /51 /60 /49 /52 /62 /68 /43 /69 /69 /49 /i255 /43 /58 /69 /41 /i255 /44 /45 /i255 /56 /46 /62 /54 /41 /75 /i255 /76 /60 /41 /i255 /46 /41 /69 /62 /43 /42 /68 /41 /i255 /45 /42 /i255 /56 /46 /62 /54 /41 /46 /i255
+/i255/41 /56 /67 /68 /43 /53 /45 /42 /i255 /60 /43 /52 /i255 /44 /60 /41 /46 /41 /59 /45 /46 /41 /i255 /68 /46 /41 /43 /44 /41 /56 /i255 /62 /42 /41 /94 /67 /62 /53 /41 /52 /i255 /62 /42 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /i255 /89 /42 /45 /74 /69 /41 /56 /63 /41 /i255 /59 /45 /46 /i255 /45 /67 /46 /i255 /51 /45 /51 /67 /69 /43 /53 /45 /42 /75 /i255 /76 /60 /41 /i255
+/i255/68 /67 /46 /46 /62 /68 /67 /69 /67 /57 /i255 /45 /59 /i255 /56 /46 /62 /54 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /62 /52 /i255 /43 /69 /52 /45 /i255 /69 /62 /57/62 /44 /41 /56 /i255 /43 /42 /56 /i255 /54 /43 /46 /62 /41 /52 /i255 /59 /46 /45 /57/i255 /52 /44 /43 /44 /41 /i255 /44 /45 /i255 /52 /44 /43 /44 /41 /75 /i255 /81 /42 /69 /49 /i255 /95 /96 /i255 /52 /44 /43 /44 /41 /52 /i255
+/i255/43 /68 /44 /67 /43 /69 /69 /49 /i255 /46 /41 /94 /67 /62 /46 /41 /i255 /52 /45 /57/41 /i255 /44 /49 /51 /41 /i255 /45 /59 /i255 /59 /45 /46 /57/43 /69 /i255 /56 /46 /62 /54 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /59 /45 /46 /i255 /43 /69 /69 /i255 /68 /60 /62 /69 /56 /46 /41 /42 /i255 /97 /98 /i255 /49 /41 /43 /46 /52 /i255 /45 /69 /56 /i255 /43 /42 /56 /i255 /49 /45 /67 /42 /63 /41 /46 /i255
+/i255/44 /45 /i255 /58 /41 /68 /45 /57/41 /i255 /43 /i255 /69 /62 /68 /41 /42 /52 /41 /56 /i255 /56 /46 /62 /54 /41 /46 /50 /i255 /74 /62 /44 /60 /i255 /99/43 /62 /42 /41 /i255 /58 /41 /62 /42 /63 /i255 /45 /42 /41 /i255 /45 /59 /i255 /44 /60 /41 /57/75 /i255 /81 /44 /60 /41 /46 /52 /i255 /45 /42 /69 /49 /i255 /60 /43 /54 /41 /i255 /43 /i255 /46 /41 /94 /67 /62 /46 /41 /57/41 /42 /44 /i255 /59 /45 /46 /i255
+/i255/68 /41 /46 /44 /43 /62 /42 /i255 /43 /63 /41 /52 /i255 /45 /46 /i255 /42 /45 /i255 /46 /41 /94 /67 /62 /46 /41 /57/41 /42 /44 /i255 /43 /44 /i255 /43 /69 /69 /75 /i255 /70 /69 /52 /45 /50 /i255 /58 /49 /i255 /44 /60 /41 /i255 /53 /57/41 /i255 /68 /60 /62 /69 /56 /46 /41 /42 /i255 /60 /43 /54 /41 /i255 /46 /41 /43 /68 /60 /41 /56 /i255 /44 /60 /41 /62 /46 /i255 /44 /41 /41 /42 /43 /63 /41 /i255
+/i255/49 /41 /43 /46 /52 /50 /i255 /44 /60 /41 /49 /i255 /60 /43 /54 /41 /i255 /43 /69 /46 /41 /43 /56 /49 /i255 /51 /43 /52 /52 /41 /56 /i255 /44 /60 /41 /i255 /43 /63 /41 /52 /i255 /74 /60 /41 /42 /i255 /58 /41 /60 /43 /54 /62 /45 /46 /52 /i255 /43 /46 /41 /i255 /100 /46 /52 /44 /i255 /69 /41 /43 /46 /42 /41 /56 /50 /i255 /43 /42 /56 /i255 /74 /60 /41 /42 /i255 /89 /42 /45 /74 /69 /41 /56 /63 /41 /i255
+/i255/62 /52 /i255 /58 /41 /52 /44 /i255 /62 /42 /63 /46 /43 /62 /42 /41 /56 /i255 /52 /45 /i255 /62 /44 /i255 /46 /41 /57/43 /62 /42 /52 /i255 /44 /60 /46 /45 /67 /63 /60 /i255 /43 /56 /67 /69 /44 /60 /45 /45 /56 /75 /i255
+/i255/84 /62 /57/62 /53 /42 /63 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /44 /45 /i255 /57/43 /62 /42 /69 /49 /i255 /44 /41 /41 /42 /43 /63 /41 /i255 /56 /46 /62 /54 /41 /46 /52 /i255 /74 /60 /45 /i255 /46 /41 /68 /41 /62 /54 /41 /i255 /59 /45 /46 /57/43 /69 /i255 /56 /46 /62 /54 /41 /46 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /60 /43 /52 /i255
+/i255/68 /43 /67 /52 /41 /56 /i255 /44 /60 /41 /i255 /78 /42 /62 /44 /41 /56 /i255 /40 /44 /43 /44 /41 /52 /i255 /44 /45 /i255 /42 /45 /44 /i255 /43 /56 /41 /94 /67 /43 /44 /41 /69 /49 /i255 /51 /46 /41 /51 /43 /46 /41 /i255 /57/45 /52 /44 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /52 /i255 /74 /62 /44 /60 /i255 /44 /60 /41 /i255 /58 /43 /52 /62 /68 /i255 /89 /42 /45 /74 /69 /41 /56 /63 /41 /i255
+/i255/43 /42 /56 /i255 /58 /41 /60 /43 /54 /62 /45 /46 /52 /i255 /45 /59 /i255 /58 /41 /62 /42 /63 /i255 /43 /i255 /52 /43 /59 /41 /i255 /51 /41 /56 /41 /52 /44 /46 /62 /43 /42 /i255 /45 /46 /i255 /58 /62 /68 /49 /68 /69 /62 /52 /44 /50 /i255 /69 /41 /44 /i255 /43 /69 /45 /42 /41 /i255 /43 /i255 /56 /46 /62 /54 /41 /46 /75 /i255 /72 /44 /i255 /52 /60 /45 /67 /69 /56 /i255 /42 /45 /44 /i255 /58 /41 /i255
+/i255/52 /67 /46 /51 /46 /62 /52 /62 /42 /63 /i255 /44 /45 /i255 /52 /41 /41 /i255 /44 /60 /43 /44 /i255 /69 /43 /68 /89 /i255 /45 /59 /i255 /51 /46 /41 /51 /43 /46 /43 /53 /45 /42 /i255 /68 /45 /46 /46 /41 /69 /43 /44 /41 /52 /i255 /74 /62 /44 /60 /i255 /45 /67 /46 /i255 /67 /42 /43 /68 /68 /41 /51 /44 /43 /58 /69 /41 /i255 /43 /42 /56 /i255 /41 /57/58 /43 /46 /46 /43 /52 /52 /62 /42 /63 /i255
+/i255/52 /43 /59 /41 /44 /49 /i255 /52 /44 /43 /53 /52 /53 /68 /52 /75 /i255 /72 /42 /i255 /68 /45 /57/51 /43 /46 /62 /52 /45 /42 /50 /i255 /58 /41 /68 /43 /67 /52 /41 /i255 /45 /59 /i255 /44 /46 /43 /83/68 /i255 /52 /43 /59 /41 /44 /49 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /51 /46 /45 /63 /46 /43 /57/52 /i255 /62 /42 /i255 /41 /69 /41 /57/41 /42 /44 /43 /46 /49 /i255
+/i255/52 /68 /60 /45 /45 /69 /52 /50 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /52 /i255 /62 /42 /i255 /66 /67 /46 /45 /51 /41 /43 /42 /i255 /78 /42 /62 /45 /42 /i255 /80 /66 /78 /82 /i255 /68 /45 /67 /42 /44 /46 /62 /41 /52 /i255 /60 /43 /54 /41 /i255 /43 /69 /69 /i255 /69 /41 /43 /46 /42 /41 /56 /i255 /44 /60 /41 /52 /41 /i255 /58 /43 /52 /62 /68 /i255 /52 /89 /62 /69 /69 /52 /50 /i255 /43 /42 /56 /i255 /43 /44 /i255
+/i255/43 /42 /i255 /41 /43 /46 /69 /49 /i255 /43 /63 /41 /75 /i255 /88/60 /62 /69 /41 /i255 /44 /60 /41 /i255 /56 /62 /46 /41 /68 /44 /i255 /62 /57/51 /43 /68 /44 /i255 /45 /59 /i255 /44 /46 /43 /83/68 /i255 /52 /43 /59 /41 /44 /49 /i255 /41 /56 /67 /68 /43 /53 /45 /42 /i255 /51 /46 /45 /63 /46 /43 /57/52 /i255 /45 /42 /i255 /46 /45 /43 /56 /i255 /67 /52 /41 /46 /i255 /52 /43 /59 /41 /44 /49 /i255 /62 /42 /i255
+/i255/44 /60 /45 /52 /41 /i255 /68 /45 /67 /42 /44 /46 /62 /41 /52 /i255 /62 /52 /i255 /42 /45 /44 /i255 /41 /43 /52 /62 /69 /49 /i255 /56 /41 /44 /41 /46 /57/62 /42 /41 /56 /50 /i255 /74 /60 /43 /44 /i255 /74 /41 /i255 /56 /45 /i255 /89 /42 /45 /74 /50 /i255 /43 /68 /68 /45 /46 /56 /62 /42 /63 /i255 /44 /45 /i255 /95 /87 /97 /101 /i255 /56 /43 /44 /43 /i255 /63 /43 /44 /60 /41 /46 /41 /56 /i255 /58 /49 /i255
+/i255/1/2 /3 /4 /i255 /5 /6 /i255 /7 /8 /9 /7 /i255 /9 /10 /10 /i255 /11 /12 /i255 /13 /14 /15 /16 /7 /17 /5 /18 /6 /i255 /8 /9 /19 /18 /i255 /8 /9 /20 /i255 /21 /18 /22 /18 /17 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /20 /18 /9 /7 /8 /6 /i255 /23 /18 /17 /i255 /24 /25 /25 /4 /25 /25 /25 /i255 /23 /18 /14 /23 /10 /18 /i255 /7 /8 /9 /16 /i255 /7 /8 /18 /i255
+/i255/12 /16 /5 /7 /18 /20 /i255 /26 /7 /9 /7 /18 /6 /i255 /27 /24 /28 /29 /30 /31 /32 /29 /i255 /33 /7 /i255 /5 /6 /i255 /16 /14 /7 /9 /34 /10 /18 /i255 /7 /8 /9 /7 /i255 /7 /8 /5 /6 /i255 /20 /9 /7 /9 /i255 /5 /6 /i255 /9 /10 /6 /14 /i255 /34 /18 /21 /14 /17 /18 /i255 /7 /8 /18 /i255 /6 /8 /9 /17 /23 /i255 /5 /16 /13 /17 /18 /9 /6 /18 /i255 /5 /16 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255
+/i255/20 /18 /9 /7 /8 /6 /i255 /7 /8 /9 /7 /i255 /22 /18 /i255 /8 /9 /19 /18 /i255 /6 /18 /18 /16 /i255 /14 /19 /18 /17 /i255 /7 /8 /18 /i255 /10 /9 /6 /7 /i255 /21 /18 /22 /i255 /35 /18 /9 /17 /6 /29 /i255 /36 /14 /17 /i255 /7 /8 /18 /i255 /6 /9 /21 /18 /6 /7 /i255 /37 /16 /14 /22 /16 /i255 /13 /14 /15 /16 /7 /17 /5 /18 /6 /i255 /6 /15 /13 /8 /i255 /9 /6 /i255
+/i255/26 /22 /18 /20 /18 /16 /i255 /27 /38 /29 /24 /39 /32 /i255 /9 /16 /20 /i255 /40 /14 /17 /22 /9 /35 /i255 /27 /28 /29 /24 /28 /32 /4 /i255 /7 /8 /18 /5 /17 /i255 /16 /15 /41/34 /18 /17 /i255 /14 /21 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /20 /18 /9 /7 /8 /6 /i255 /23 /18 /17 /i255 /24 /25 /25 /4 /25 /25 /25 /i255 /23 /18 /14 /23 /10 /18 /i255 /22 /9 /6 /i255
+/i255/41/14 /17 /18 /i255 /7 /8 /9 /16 /i255 /21 /14 /15 /17 /4 /i255 /9 /16 /20 /i255 /9 /10 /41/14 /6 /7 /i255 /6 /5 /42 /i255 /43 /41/18 /6 /i255 /17 /18 /6 /23 /18 /13 /43 /19 /18 /10 /35 /i255 /21 /18 /22 /18 /17 /i255 /7 /8 /9 /16 /i255 /7 /8 /18 /i255 /16 /15 /41/34 /18 /17 /i255 /21 /14 /17 /i255 /7 /8 /18 /i255 /12 /16 /5 /7 /18 /20 /i255 /26 /7 /9 /7 /18 /6 /4 /i255
+/i255/9 /16 /20 /i255 /9 /10 /41/14 /6 /7 /i255 /21 /14 /15 /17 /i255 /9 /16 /20 /i255 /6 /5 /42 /i255 /43 /41/18 /6 /i255 /17 /18 /6 /23 /18 /13 /43 /19 /18 /10 /35 /i255 /21 /18 /22 /18 /17 /i255 /7 /8 /9 /16 /i255 /7 /8 /18 /i255 /16 /15 /41/34 /18 /17 /i255 /21 /14 /17 /i255 /44/9 /5 /16 /18 /i255 /27 /24 /28 /29 /25 /25 /i255 /5 /16 /i255 /28 /25 /28 /25 /i255
+/i255/9 /13 /13 /14 /17 /20 /5 /16 /45 /i255 /7 /14 /i255 /7 /8 /18 /i255 /33 /16 /6 /15 /17 /9 /16 /13 /18 /i255 /33 /16 /6 /43 /7 /15 /7 /18 /i255 /21 /14 /17 /i255 /2 /5 /45 /8 /22 /9 /35 /i255 /26 /9 /21 /18 /7 /35 /32 /29 /i255 /1/5 /7 /8 /i255 /7 /8 /9 /7 /i255 /37 /5 /16 /20 /i255 /14 /21 /i255 /20 /5 /46 /18 /17 /18 /16 /13 /18 /4 /i255 /22 /18 /i255 /34 /18 /10 /5 /18 /19 /18 /i255
+/i255/9 /i255 /7 /17 /9 /47/13 /i255 /6 /9 /21 /18 /7 /35 /i255 /18 /20 /15 /13 /9 /43 /14 /16 /i255 /23 /17 /14 /45 /17 /9 /41/i255 /5 /6 /i255 /22 /14 /17 /7 /8 /i255 /23 /15 /17 /6 /15 /5 /16 /45 /i255 /5 /16 /i255 /44/9 /5 /16 /18 /48 /6 /i255 /6 /13 /8 /14 /14 /10 /6 /i255 /7 /14 /i255 /9 /7 /i255 /10 /18 /9 /6 /7 /i255 /6 /18 /18 /i255 /5 /21 /i255 /41/14 /17 /18 /i255
+/i255/10 /5 /19 /18 /6 /i255 /13 /9 /16 /i255 /34 /18 /i255 /6 /9 /19 /18 /20 /i255 /9 /6 /i255 /9 /i255 /17 /18 /6 /15 /10 /7 /29 /i255
+/i255/49 /8 /18 /i255 /34 /15 /17 /20 /18 /16 /i255 /14 /16 /i255 /44/9 /5 /16 /18 /i255 /6 /13 /8 /14 /14 /10 /6 /i255 /6 /18 /18 /41/6 /i255 /17 /18 /10 /9 /43 /19 /18 /10 /35 /i255 /10 /5 /45 /8 /7 /i255 /22 /5 /7 /8 /i255 /14 /16 /10 /35 /i255 /14 /16 /18 /i255 /8 /14 /15 /17 /i255 /14 /21 /i255 /7 /17 /9 /47/13 /i255 /6 /9 /21 /18 /7 /35 /i255
+/i255/18 /20 /15 /13 /9 /43 /14 /16 /i255 /23 /18 /17 /i255 /35 /18 /9 /17 /i255 /9 /6 /i255 /7 /8 /18 /i255 /41/5 /16 /5 /41/15 /41/i255 /17 /18 /50 /15 /5 /17 /18 /41/18 /16 /7 /i255 /5 /16 /i255 /7 /8 /5 /6 /i255 /34 /5 /10 /10 /29 /i255 /3 /21 /i255 /13 /14 /15 /17 /6 /18 /4 /i255 /22 /18 /i255 /22 /14 /15 /10 /20 /i255 /8 /14 /23 /18 /i255 /6 /13 /8 /14 /14 /10 /6 /i255
+/i255/22 /14 /15 /10 /20 /i255 /23 /17 /14 /19 /5 /20 /18 /i255 /41/14 /17 /18 /i255 /7 /8 /9 /16 /i255 /7 /8 /18 /i255 /41/5 /16 /5 /41/15 /41/4 /i255 /9 /16 /20 /i255 /7 /8 /18 /17 /18 /i255 /5 /6 /i255 /14 /23 /23 /14 /17 /7 /15 /16 /5 /7 /35 /i255 /21 /14 /17 /i255 /23 /17 /14 /51 /18 /13 /7 /6 /i255 /10 /5 /37 /18 /i255 /9 /i255 /52 /7 /17 /9 /47/13 /i255
+/i255/45 /9 /17 /20 /18 /16 /4 /53 /i255 /22 /8 /18 /17 /18 /i255 /13 /8 /5 /10 /20 /17 /18 /16 /i255 /13 /9 /16 /i255 /10 /18 /9 /17 /16 /i255 /8 /9 /16 /20 /6 /54 /14 /16 /i255 /17 /14 /9 /20 /i255 /6 /9 /21 /18 /7 /35 /i255 /6 /37 /5 /10 /10 /6 /4 /i255 /22 /5 /7 /8 /i255 /23 /14 /6 /6 /5 /34 /10 /18 /i255 /21 /15 /16 /20 /5 /16 /45 /i255 /7 /8 /17 /14 /15 /45 /8 /i255 /7 /8 /18 /i255
+/i255/26 /7 /9 /7 /18 /i255 /55 /3 /49 /i255 /8 /5 /45 /8 /22 /9 /35 /i255 /6 /9 /21 /18 /7 /35 /i255 /5 /41/23 /17 /14 /19 /18 /41/18 /16 /7 /i255 /23 /17 /14 /45 /17 /9 /41/i255 /9 /16 /20 /i255 /9 /10 /6 /14 /i255 /20 /5 /6 /13 /17 /18 /43 /14 /16 /9 /17 /35 /i255 /45 /17 /9 /16 /7 /6 /i255 /21 /17 /14 /41/i255 /12 /26 /55 /3 /49 /29 /i255
+/i255/33 /20 /18 /9 /10 /10 /35 /4 /i255 /22 /18 /i255 /23 /5 /13 /7 /15 /17 /18 /i255 /9 /i255 /17 /18 /10 /9 /43 /14 /16 /6 /8 /5 /23 /i255 /22 /8 /18 /17 /18 /i255 /44/9 /5 /16 /18 /i255 /6 /13 /8 /14 /14 /10 /6 /i255 /13 /9 /16 /i255 /6 /18 /13 /15 /17 /18 /i255 /21 /15 /16 /20 /5 /16 /45 /i255 /7 /8 /17 /14 /15 /45 /8 /i255 /44/9 /5 /16 /18 /55 /3 /49 /i255
+/i255/9 /16 /20 /i255 /23 /9 /17 /7 /16 /18 /17 /i255 /22 /5 /7 /8 /i255 /5 /7 /4 /i255 /7 /8 /18 /i255 /44/9 /5 /16 /18 /i255 /55 /18 /23 /9 /17 /7 /41/18 /16 /7 /i255 /14 /21 /i255 /11 /20 /15 /13 /9 /43 /14 /16 /i255 /9 /16 /20 /i255 /14 /7 /8 /18 /17 /i255 /9 /45 /18 /16 /13 /5 /18 /6 /i255 /6 /15 /13 /8 /i255 /9 /6 /i255 /7 /8 /18 /i255 /44/9 /5 /16 /18 /i255
+/i255/55 /18 /23 /9 /17 /7 /41/18 /16 /7 /i255 /14 /21 /i255 /56 /15 /34 /10 /5 /13 /i255 /26 /9 /21 /18 /7 /35 /4 /i255 /9 /16 /20 /i255 /14 /17 /45 /9 /16 /5 /57 /9 /43 /14 /16 /6 /i255 /7 /8 /9 /7 /i255 /7 /18 /9 /13 /8 /i255 /17 /14 /9 /20 /i255 /6 /9 /21 /18 /7 /35 /i255 /10 /5 /37 /18 /i255 /7 /8 /18 /i255 /58 /5 /13 /35 /13 /10 /18 /i255 /59 /14 /9 /10 /5 /43 /14 /16 /i255
+/i255/14 /21 /i255 /44/9 /5 /16 /18 /29 /i255 /49 /14 /45 /18 /7 /8 /18 /17 /4 /i255 /7 /8 /18 /35 /i255 /13 /14 /15 /10 /20 /i255 /23 /15 /7 /i255 /7 /14 /45 /18 /7 /8 /18 /17 /i255 /9 /i255 /17 /14 /34 /15 /6 /7 /i255 /7 /17 /9 /47/13 /i255 /6 /9 /21 /18 /7 /35 /i255 /18 /20 /15 /13 /9 /43 /14 /16 /i255 /23 /17 /14 /45 /17 /9 /41/i255 /9 /16 /20 /i255 /8 /18 /10 /23 /i255
+/i255/6 /15 /23 /23 /10 /18 /41/18 /16 /7 /i255 /7 /8 /18 /i255 /17 /18 /6 /23 /14 /16 /6 /5 /34 /5 /10 /5 /7 /35 /i255 /14 /21 /i255 /7 /8 /18 /i255 /6 /13 /8 /14 /14 /10 /6 /29 /i255 /1/8 /9 /7 /i255 /22 /18 /i255 /8 /9 /19 /18 /i255 /6 /18 /18 /16 /i255 /22 /5 /7 /8 /i255 /13 /14 /14 /17 /20 /5 /16 /9 /7 /18 /20 /i255 /23 /17 /14 /51 /18 /13 /7 /6 /i255 /10 /5 /37 /18 /i255
+/i255/7 /17 /9 /47/13 /i255 /45 /9 /17 /20 /18 /16 /6 /4 /i255 /5 /6 /i255 /7 /8 /9 /7 /i255 /7 /8 /18 /35 /i255 /13 /9 /16 /i255 /34 /17 /5 /16 /45 /i255 /45 /17 /18 /9 /7 /i255 /51 /14 /35 /i255 /7 /14 /i255 /13 /8 /5 /10 /20 /17 /18 /16 /i255 /9 /16 /20 /i255 /9 /20 /15 /10 /7 /6 /i255 /22 /8 /5 /10 /18 /i255 /7 /8 /18 /35 /i255 /9 /17 /18 /i255 /6 /43 /10 /10 /i255 /10 /18 /9 /17 /16 /5 /16 /45 /i255
+/i255/5 /41/23 /14 /17 /7 /9 /16 /7 /i255 /10 /5 /21 /18 /i255 /6 /37 /5 /10 /10 /6 /i255 /7 /8 /9 /7 /i255 /22 /5 /10 /10 /i255 /6 /9 /19 /18 /i255 /10 /5 /19 /18 /6 /i255 /5 /16 /i255 /7 /8 /18 /i255 /21 /15 /7 /15 /17 /18 /29 /i255 /2 /14 /22 /18 /19 /18 /17 /4 /i255 /51 /15 /6 /7 /i255 /8 /9 /19 /5 /16 /45 /i255 /9 /i255 /17 /18 /50 /15 /5 /17 /18 /41/18 /16 /7 /i255 /21 /14 /17 /i255 /14 /16 /18 /i255
+/i255/8 /14 /15 /17 /i255 /9 /i255 /35 /18 /9 /17 /i255 /22 /5 /10 /10 /i255 /6 /43 /10 /10 /i255 /41/9 /37 /18 /i255 /9 /i255 /20 /5 /46 /18 /17 /18 /16 /13 /18 /i255 /9 /16 /20 /i255 /5 /6 /i255 /9 /i255 /45 /17 /18 /9 /7 /i255 /6 /7 /9 /17 /43 /16 /45 /i255 /23 /14 /5 /16 /7 /i255 /7 /14 /22 /9 /17 /20 /6 /i255 /9 /i255 /41/14 /17 /18 /i255 /5 /16 /21 /14 /17 /41/18 /20 /i255 /9 /16 /20 /i255
+/i255/6 /9 /21 /18 /17 /i255 /23 /14 /23 /15 /10 /9 /43 /14 /16 /i255 /14 /21 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /6 /i255 /5 /16 /i255 /44/9 /5 /16 /18 /29 /i255 /49 /8 /18 /i255 /5 /16 /13 /10 /15 /6 /5 /14 /16 /i255 /14 /21 /i255 /6 /18 /13 /14 /16 /20 /9 /17 /35 /i255 /6 /13 /8 /14 /14 /10 /6 /i255 /5 /16 /i255 /7 /8 /18 /i255 /34 /5 /10 /10 /i255 /22 /14 /15 /10 /20 /i255
+/i255/9 /10 /6 /14 /i255 /9 /13 /7 /15 /9 /10 /10 /35 /i255 /23 /10 /9 /13 /18 /i255 /44/9 /5 /16 /18 /i255 /9 /34 /14 /19 /18 /i255 /6 /14 /41/18 /i255 /14 /21 /i255 /7 /8 /18 /i255 /13 /14 /15 /16 /7 /17 /5 /18 /6 /i255 /5 /16 /i255 /7 /8 /18 /i255 /11 /12 /i255 /21 /14 /17 /i255 /7 /17 /9 /47/13 /i255 /6 /9 /21 /18 /7 /35 /i255 /18 /20 /15 /13 /9 /43 /14 /16 /i255
+/i255/17 /18 /50 /15 /5 /17 /18 /41/18 /16 /7 /6 /29 /i255
+/i255/1/18 /i255 /37 /16 /14 /22 /i255 /7 /8 /18 /i255 /45 /14 /9 /10 /i255 /8 /9 /6 /i255 /34 /18 /18 /16 /i255 /6 /18 /7 /i255 /21 /14 /17 /i255 /57 /18 /17 /14 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /20 /18 /9 /7 /8 /6 /i255 /5 /16 /i255 /44/9 /5 /16 /18 /i255 /9 /16 /20 /i255 /7 /8 /18 /i255 /17 /18 /6 /7 /i255 /14 /21 /i255 /7 /8 /18 /i255 /13 /14 /15 /16 /7 /17 /35 /4 /i255
+/i255/9 /16 /20 /i255 /23 /9 /17 /7 /i255 /14 /21 /i255 /45 /18 /60/16 /45 /i255 /7 /14 /i255 /7 /8 /9 /7 /i255 /45 /14 /9 /10 /i255 /5 /6 /i255 /7 /14 /i255 /8 /9 /19 /18 /i255 /9 /i255 /6 /9 /21 /18 /17 /i255 /9 /16 /20 /i255 /41/14 /17 /18 /i255 /5 /16 /21 /14 /17 /41/18 /20 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /23 /14 /23 /15 /10 /9 /43 /14 /16 /29 /i255 /1/5 /7 /8 /i255
+/i255/7 /8 /18 /i255 /17 /18 /50 /15 /5 /17 /18 /41/18 /16 /7 /6 /i255 /5 /16 /i255 /61 /55 /i255 /31 /38 /25 /4 /i255 /44/9 /5 /16 /18 /i255 /13 /9 /16 /i255 /10 /18 /9 /20 /i255 /7 /8 /18 /i255 /16 /9 /43 /14 /16 /i255 /5 /16 /i255 /7 /17 /9 /16 /6 /21 /14 /17 /41/5 /16 /45 /i255 /14 /15 /17 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /18 /20 /15 /13 /9 /43 /14 /16 /i255
+/i255/6 /35 /6 /7 /18 /41/i255 /7 /14 /i255 /34 /18 /i255 /41/14 /17 /18 /i255 /13 /14 /41/23 /17 /18 /8 /18 /16 /6 /5 /19 /18 /4 /i255 /41/14 /17 /18 /i255 /18 /50 /15 /5 /7 /9 /34 /10 /18 /i255 /9 /16 /20 /i255 /7 /14 /i255 /23 /17 /14 /19 /5 /20 /18 /i255 /21 /14 /17 /i255 /45 /17 /18 /9 /7 /18 /17 /i255 /6 /9 /21 /18 /7 /35 /4 /i255 /6 /14 /i255 /22 /18 /i255 /13 /9 /16 /i255
+/i255/10 /14 /22 /18 /17 /i255 /14 /15 /17 /i255 /17 /14 /9 /20 /i255 /15 /6 /18 /17 /i255 /20 /18 /9 /7 /8 /6 /i255 /7 /14 /i255 /7 /8 /18 /i255 /17 /9 /7 /18 /6 /i255 /7 /8 /9 /7 /i255 /11 /12 /i255 /13 /14 /15 /16 /7 /17 /5 /18 /6 /i255 /8 /9 /19 /18 /i255 /16 /14 /22 /4 /i255 /9 /16 /20 /i255 /7 /8 /18 /16 /i255 /18 /19 /18 /16 /7 /15 /9 /10 /10 /35 /i255 /7 /14 /i255
+/i255/57 /18 /17 /14 /29 /i255 /1/18 /i255 /6 /7 /17 /14 /16 /45 /10 /35 /i255 /15 /17 /45 /18 /i255 /59 /14 /41/41/5 /62 /18 /18 /i255 /41/18 /41/34 /18 /17 /6 /i255 /7 /14 /i255 /19 /14 /7 /18 /i255 /52 /14 /15 /45 /8 /7 /i255 /7 /14 /i255 /23 /9 /6 /6 /53 /i255 /21 /14 /17 /i255 /7 /8 /5 /6 /i255 /34 /5 /10 /10 /i255 /7 /14 /i255 /8 /9 /19 /18 /i255 /44/9 /5 /16 /18 /i255
+/i255/10 /18 /9 /20 /i255 /7 /8 /18 /i255 /22 /9 /35 /i255 /7 /14 /i255 /7 /8 /9 /7 /i255 /6 /9 /21 /18 /17 /i255 /21 /15 /7 /15 /17 /18 /29 /i255
+Roundabout  Laws and Driver Education  in US States and Canadian  Provinces  12‐1‐2022.xlsx
+US State Roundabout  Laws Driver  Education  Course Required  18 and under? Driver  Education  Curriculum? Roundabout  Curriculum  Required?
+Alabama 32‐5A‐87 One‐way roadways  and rotary traffic islands   No No No
+13 AAC 02.120. Vehicle approaching  or entering intersection  or roundabout
+13 AAC 02.55. Passing on right.
+13 AAC 02.150. Pedestrian  obedience  to traffic‐control devices and traffic regulations
+13 AAC 03.55. Passing on right.
+13 AAC 40.10. Definition s
+Arizona 28‐728. One‐way roadways  and rotary traffic island s No Yes ‐ ADTSEA National Standar d Yes  (Traffic circle/roundabout  pg. 12)
+Arkansas 27‐51‐304. One‐way roadways  and rotary traffic islands. No No No
+California None  found Yes No No
+Colorado 42‐4‐1006. One‐way roadways  and rotary traffic islands Yes if under 16, No if 16 or older No ‐ but link to PSDP No, PSDP does have roundabout  sectio n
+Sec. 14‐212. Definitions.
+Sec. 14‐239. One‐way streets. Rotaries or roundabouts .
+Sec. 14‐241. Turns.
+Sec. 14‐297. Definitions.
+Delaware § 4121 One‐way roadways  and rotary traffic islands . Yes Yes Unknown
+Florida 316.088 One‐way roadways  and rotary traffic islands . No ‐ 4 HR TLSAE instea d No No
+Georgia § 40‐6‐47. One‐way roadways  and rotary traffic islands Yes if under 17, No if 17 or older No No
+Hawaii §291C‐48  One‐way roadways  and rotary traffic islands.  Yes No  ‐ ADTSEA National Standar d No
+Idaho None  found Yes Yes Yes (pg 8)
+Illinois 625 ILCS 5/11‐708 One‐way roadways  and rotary traffic islands.  Yes Yes No
+IC 9‐13‐2‐157.5 "Roundabout"  
+IC 9‐21‐8‐10 Roundabout s
+IC 9‐21‐8‐10.5 Right‐of‐way in a roundabout  
+Iowa §321.305  ‐ One‐way roadways  and rotary traffic islands . Yes No  ‐ ADTSEA National Standar d No
+Kansas8‐1521 ‐ One‐way highways,  roadways  or traffic lanes; designation  by secretary  of 
+transportation  or local authorities;  duties of drivers; rotary traffic islands.Yes if 15, No if older Yes Yes (round‐a‐bout pg. 33)
+Kentucky None  found Yes for unrestricted  ‐ 4 hr No No
+Louisiana RS 32:78 One‐way roadways  and rotary traffic islands Yes if under 17 No No
+§101. Definitions
+§2053. Right‐of‐way
+Maryland §21–308. Yes Yes Yes ‐ slides 36‐37
+Massachusetts Section 8: Right‐of‐way at intersecting  ways; turning on red signals Yes Yes Yes (pg 11‐12, 35)
+Michigan257.641 Designating  1‐way traffic; signs; driving to right of rotary traffic island; violation as
+civil infraction.Yes Yes Yes (pg 10, 26)
+169.18 DRIVING RULES.
+169.19 TURNING,  STARTING,  AND SIGNALING.
+169.20 RIGHT‐OF‐WAY.
+Mississippi § 63‐3‐605. Driving upon one‐way roadways  and around rotary traffic islands No Yes No
+Missouri None  found No No No
+Montana 61‐8‐327. One‐way roadways,  rotary traffic islands, and roundabouts . Yes Yes No
+Nebraska60‐6,138 One‐way roadways  and roundabouts;  jurisdiction;  exception  for emergency  
+vehicles.No No No
+Nevada NRS 484B.220   One‐way highway;  rotary traffic island . Yes No No
+New Hampshire 265:23 One‐Way Roadways  and Roadways  and Rotary Traffic Islands . Yes No No
+New Jersey None  found No No No
+New Mexico 66‐7‐316. One‐way roadways  and rotary traffic islands.   Yes No No
+140‐D ‐ Roundabout.  
+1145 ‐ Vehicle approaching  rotary traffic circle or island.
+North Carolina § 20‐155. Right‐of‐way Yes No No
+North Dakota 39‐10‐16. One‐way roadways  and rotary traffic island s Yes if under 16, No if 16 or older Yes Yes ‐ page 31
+Ohio 4511.32 One‐way traffic ‐ rotary islands. Yes if under 16, No if 16 or older No No
+Oklahoma §47‐11‐308.  One‐way roadways  and rotary traffic islan d No No No
+810.247 Signs giving notice of multilane  roundabouts .
+811.292 Failure to yield right of way within roundabout;  exception;  penalty
+811.330 Driving wrong way around traffic island; penalty. 
+811.370 Failure to drive within lane; exception;  penalty .
+811.400 Failure to use appropriate  signal for turn, lane change, stop or exit from roundabout ;
+penalty. 
+§ 3308.  One‐way roadways  and rotary traffic islands .
+§ 3321.  Vehicle approaching  or entering intersection .
+Rhode Island § 31‐15‐10. Rotary traffic islands.  Yes No ‐ AAA How to Drive  Unknown
+South Carolina SECTION 56‐5‐1910. One‐way roadways  and rotary traffic islands . Yes if 17 or unde r No No
+South Dakota None  found No No NoNo No Maine Yes
+Pennsylvania NoYes Yes  New York Yes ‐ pages 32 and 136Alaska No
+Connecticut No
+Indiana No specific referenceNo No
+Yes No
+Yes Yes
+Yes ‐ page 31
+No NoNo YesMinnesota Yes Yes
+OregonNo
+Roundabout  Laws and Driver Education  in US States and Canadian  Provinces  12‐1‐2022.xlsx
+Tennessee 55‐8‐122. One‐way roads and rotary traffic islands.  No No No
+Texas Sec. 545.059. ONE‐WAY ROADWAYS  AND ROTARY TRAFFIC ISLANDS.   Yes No No
+41‐6a‐102.  Definitions.  
+41‐6a‐709.  One‐way traffic. 
+Vermont § 1037. One‐way roadways  and rotarie s Yes if under 17, No if 17 or older No ‐ ADTSEA National Standar d No
+§ 46.2‐807. Path of travel at circular intersections.
+§ 46.2‐822. Right‐of‐way at circular intersections.
+§ 46.2‐100. Definitions.
+RCW 46.04.118  Circular intersection.
+RCW 46.61.135  One‐way roadways  and rotary traffic islands.
+RCW 46.61.140  Driving on roadways  laned for trafffic.
+West Virginia §17C‐7‐8. One‐way roadways  and rotary traffic islands; penalty . No No No
+346.13  Driving on roadways  laned for traffic .
+346.18  General rules of right‐of‐way.
+Wyoming 31‐5‐208. One‐way roadways  and rotary traffic islands . No No No
+Canadian  Province Roundabout  Laws Driver  Education  Course Required  18 and under? Driver  Education  Curriculum? Roundabout  Curriculum  Required?
+Alberta None  found No  Yes Yes (Module 5:  Intersections  (Traffic Circle))
+British Columbia 150 Driver on right No Yes Yes ( 7.4.3 traffic circles pg. 30)
+Manitoba 109(4) Driving around a rotary traffic islan d No No No
+New Brunswic k 147(2) Centre line, lances, rotary traffic circle No No No
+100.1 Roundabout s
+Penalties  100.1 (1) to 100.1(3 )
+Nova Scotia 135 Rotary or roundabou t Yes Yes No
+Ontario None  found No Yes Yes (Traffic circles pg. 99)
+PEI 158. Driving around rotary islan d Yes No No
+Quebec None  found Yes Yes No
+Saskatchewan None  found Yes No NoUtah No
+Wisconsin NoVirginia NoYes No
+Washington Yes Yes Yes (pages 26, 30‐32)Yes Yes
+Newfoundland  and Labrador Yes No NoYes No
+-Estimated road traffic death rate (per 100 000 
+population) 
+17 Eastern Mediterranean 
+Western Pacific 
+South-East Asia 
+Americas 
+Europe 
+• 60 
+40 • 
+20 • • •• •• •• •• • • •Year 
+Latest 
+eBoth sexes 
+•• •• Disaggregation 
+Sex 
+•• •• Africa 
+Amencas 
+Eastern Mediterran ... 
+Europe 
+South-East Asia 
+Western Pacific 
+• • •ϮϬϭϵZŽĂĚdƌĂĨĨŝĐ ĞĂƚŚZĂƚĞƐƉĞƌϭϬϬ͕ϬϬϬƉŽƉƵůĂƚŝŽŶ ŽĨƚŚĞŵĞƌŝĐĂƐ ĨƌŽŵƚŚĞtŽƌůĚ ,ĞĂůƚŚKƌŐĂŶŝǌĂƚŝŽŶ͕ŽďƚĂŝŶĞĚϯͬϮϮͬϮϯ
+ŚƚƚƉƐ͗ͬͬǁǁǁ͘ǁŚŽ͘ŝŶƚͬĚĂƚĂͬŐŚŽͬĚĂƚĂͬŝŶĚŝĐĂƚŽƌƐͬŝŶĚŝĐĂƚŽƌ ͲĚĞƚĂŝůƐͬ',KͬĞƐƚŝŵĂƚĞĚ ͲƌŽĂĚͲƚƌĂĨĨŝĐͲĚĞĂƚŚͲƌĂƚĞ Ͳ;ƉĞƌͲϭϬϬͲϬϬϬͲƉŽƉƵůĂƚŝŽŶͿ
+-
+20 w 
+15 • 
+10 
+5 Estimated road traffic death rate (per 100 000 
+population) 
+17 
+•••••• Eastern Mediterranean 
+Western Pacific 
+South-East Asia 
+Americas 
+Europe 
+• • Year 
+Latest 
+eBoth sexes Disaggregation 
+Sex 
+Africa 
+Americas 
+Eastern Mediterran ... 
+Europe 
+South-East Asia 
+Western Pacific 
+• • • • •. . . . . . . . . . . -. . . .'' ' •• •• •• • • ...... ' , .. • ••• 2019 Road Traffic  Death Rates per 100,000 population  of Europe from the World  Health  Organization, obtained 3/22/23
+https://www.who.int/data/gho/data/indicators/indicator -details/GHO/estimated -road -traffic -death -rate -(per-100-000-population)
+The status of traffic safety and mobility education in Europe | 154.1 An Overview of Traffic Safety and Mobility Education in Europe
+The responsibility for traffic safety and mobility education thus lies with the Member 
+States in Europe. Without a unifying framework at European level, this raises the question of how Member States individually approach road safety education. Are there distinct differences and similarities to be found in their approaches? 
+This report presents a first overview of how traffic safety and mobility education is 
+given in EU Member States (and other European countries – see box). The report highlights general trends in Europe, while giving examples of the countries’ individual approaches. An overview per country for several of the overview’s themes is set out in the annexes.
+This report looks at all EU Member States, except for Romania for which no data were 
+available. Belgium was divided into Flanders and Wallonia as road safety education is a community competence 
+22, while the United Kingdom was similarly divided into 
+England & Wales on the one hand, and Scotland on the other.23  In addition to the EU’s 
+Member States, Albania, Bosnia Herzegovina’s Republic of Srpska, Iceland, Kosovo24, 
+Norway, Serbia and Switzerland provided data for this report.
+ETSC, Fundación MAPFRE and VSV are grateful to the national experts who provided 
+the information on which this overview of traffic safety and mobility education is based.
+22 In Belgium, the competence for education lies with the country’s three community authorities (Flemish, French 
+and German-speaking). Given the small size of the latter (80,000 inhabitants), we have chosen to focus on the 
+situation in the Flemish and French communities. These are referred to as “Flanders” and “Wallonia” respectively 
+in this report, although this is not fully correct political terminology.  
+23 Northern Ireland has not been included in this report due to insufficient data.  
+24 Throughout this report this designation is without prejudice to positions on status, and is in line with UNSCR 
+1244 and the ICJ opinion on the Kosovo declaration of independence.  
+Part IV from the European Transport Safety Council LEARN! Report on the Status of Traffic Safety and 
+Mobility Education in Europe,  January 2019,  obtained 3/22/23
+https://etsc.eu/wp-content/uploa ds/ETSC-LEARN-Report-on-the-Status-of-Tra ffic-Safety-and-Mobility-
+Education-in-Europe.pdf
+PART IV
+THE STATUS OF TRAFFIC 
+SAFETY AND MOBILITY 
+EDUCATION IN EUROPE
+16 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 17Overview of the levels of education at which traffic safety and mobility education is given.
+  Primary Only
+  Pre-Primary + Primary
+  Primary + Secondary
+  Pre-Primary + Primary + Secondary
+  Primary + Secondary + Tertiary
+  Pre-Primary + Primary + Secondary + Tertiary
+The status of traffic safety and mobility education in Europe | 174.1.1 Traffic Safety and Mobility Education across Europe
+Road safety education is given at primary schools in all European countries. For Croatia, the 
+Netherlands, Serbia and Wallonia this is also the only level of education at which children 
+are generally given road safety lessons. For the large majority (81%) of states, road safety education is also given at secondary schools, while in a slightly slimmer majority (69%) of 
+states it is given at pre-primary education. 
+In Malta and England & Wales as well as in the Czech Republic, Germany and Ireland, 
+traffic safety and mobility education is furthermore given at tertiary education, with the latter group representing the only three states in Europe where such education is given at 
+every level of education. 
+In 21 states road safety education is given at three levels, with lessons given at pre-primary, 
+primary and secondary levels being the most frequently used form (19 states). 
+4.1.2 Where is Traffic Safety and Mobility Education Required by Law?
+While road safety education is given in all European countries, 12 states do not require 
+schools to provide road safety education at any level by law. Most states (24) however 
+require such education to be given at elementary schools.
+15 states furthermore require road safety education to be given at secondary level, while 
+14 states require it at pre-primary. No state in Europe requires road safety education at 
+tertiary level.
+  No legal requirment
+  Primary 
+  Pre-Primary + Primary
+  Primary + Secondary
+  Pre-Primary + Primary + Secondary
+  Overview of the legal requirements to provide traffic safety and mobility education.
+18 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 19
+4.1.3 Who is Responsible for Traffic Safety Education?
+In most states (81%), the final responsibility for traffic safety education lies with the Ministry 
+of Education. This responsibility is furthermore sometimes shared with other actors, for 
+example with the Ministry of Transport (5), the police (5), a governmental agency (2) and 
+non-governmental organisations (3). In Luxembourg, this responsibility is also shared with 
+a commercial organisation. 
+In Finland and the Netherlands this responsibility lies with a governmental agency, such as 
+the Finnish National Agency for Education. In Scotland, the governmental agency Transport 
+Scotland is responsible for the co-ordination of national road safety education activities, 
+while the implementation is the responsibility of Scotland’s 32 local authorities. In England 
+& Wales the responsibility for road safety education lies with the local highway authorities. 
+In Ireland, uniquely, the Ministry for Transport is the entity ultimately responsible, although 
+in practice the Road Safety Authority is responsible for the implementation and delivery.
+Only in Denmark and Sweden does no government authority have the final responsibility 
+for road safety education, and instead responsibility is placed on respectively the school and 
+the headmaster. However, while schools in Denmark are required to teach traffic safety 
+education, this is not verified by any Ministry, resulting in a variety of efforts taken by the 
+schools with some teaching it, while others do not.
+In Germany, the responsibility for school education is with the Federal States. Only pre-
+school education as well as tertiary education is under the competence of the national level. 
+With the aim to provide harmonised traffic education at school level, the Conference of 
+Ministers of Education of the Federal States have however agreed on common basic rules 
+related to the content and the quality of traffic education.25 
+4.1.4 The Supply of Educational Material
+Traffic safety education material is provided by more than one supplier in the vast majority 
+of European states. Some publishing companies have specialised in the development of 
+road safety and mobility teaching material and work closely with educational authorities. 
+Road safety and mobility-related NGOs also develop teaching materials. In Germany, the 
+Association of Accident Insurers as well as the insurance sector also develop teaching and 
+learning materials.
+In Croatia no separate educational material is provided as the topic is part of another 
+subject at school. In Iceland and Lithuania the material is provided solely by the Ministry of 
+Education, while in Latvia this is done by the Road Traffic Safety Directorate. 
+Greece’s Institute of Education Policy has set up a website where teachers can download 
+approved material from various organisations, such as the Ministry for Transport and RSI 
+Panos Mylonas (an NGO).
+Given that road safety education is given predominantly at primary and secondary levels of 
+education, this report will focus in more detail on how education is given and organised at 
+these two levels. However, the next section will first provide an overview of how teachers 
+are educated on traffic safety and mobility issues.
+5.2 The Education of Teachers
+How traffic safety and mobility education is addressed during the education of teachers 
+differs greatly across Europe. In Albania, the Netherlands and Switzerland it is only addressed 
+to a very limited extent at teacher training colleges. There is also no regular provision of 
+such education for teachers in France as well as England & Wales, although in the latter 
+region local projects have tried to introduce this, albeit not consistently over time.
+25 Ständige Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland (2012), Empfehlung zur 
+Mobilitäts- und Verkehrserziehung in der Schule. http://bit.ly/2TFlG4Q
+Responsibility 
+for Traffic Safety 
+Education
+Supply of 
+Educational 
+Material
+
+The status of traffic safety and mobility education in Europe | 19In the Czech Republic, Finland and Norway it depends on the college whether or not 
+the teacher is trained in traffic safety and mobility education, while in Iceland and 
+Serbia such training is offered as elective courses. Teachers in Germany receive some 
+training during an internship period after having finalised their tertiary education.
+In Cyprus, periodical seminars to train teachers are organised by the Pedagogical 
+Institute. Non-mandatory seminars are also organised in Portugal, where accredited 
+training activities have been developed for teachers of various levels of education, as 
+well as in Greece, where training has been based on good practices from EU funded 
+projects such as AVENUE for Traffic Safety.26
+In Slovenia meetings for teachers are regularly organised, notably for those teachers 
+who coordinate the cycling exam for fifth graders, while in Italy training is provided 
+during information days. 
+Information is provided to teachers in Ireland, where stands with materials are 
+available in tertiary education institutes, in Lithuania, where teachers receive updated 
+methodological material, and in Scotland, where local governments’ road safety 
+teams deliver material adapted to the needs of the training college. Teachers in Ireland 
+are also provided with road safety programmes that have been developed with the 
+involvement of teachers. 
+In both Flanders and Wallonia, traffic safety and mobility education is not part of the 
+curriculum. Nevertheless, non-mandatory training by different NGOs is offered in both 
+communities of Belgium. In Denmark, trainee teachers receive a brief introduction to 
+educational material provided by the Danish Road Safety Council.
+Only in Poland and Slovakia is traffic safety included in teacher training programmes. In 
+Poland, teachers giving road safety education need to complete a dedicated 18-month 
+post-graduate course in ‘techniques with elements of road safety education’. In 
+addition, teachers who prepare pupils for a “bicycle licence” need to have completed 
+a 1- or 2-day course. Although no such education exists yet in Hungary, a project is 
+ongoing which would implement a module on the education of road safety.
+4.3 Primary Education
+4.3.1 Time Spent Learning
+Traffic safety and mobility education is not a dedicated subject at primary schools in 
+the majority (72%) of states in Europe. A slighter larger majority of states (78%) do not 
+mandate a minimum number of teaching hours by law. 
+Interestingly, out of the ten states in which road safety education is a dedicated subject, 
+only Austria and the Czech Republic have also set a required minimum number of 
+teaching hours. Conversely, a minimum number of hours is required in Albania, 
+Republic of Srpska, Germany, Greece, Hungary and Slovakia, even though it is not a 
+dedicated subject there.
+The minimum number of teaching hours required by law varies significantly between 
+states. While children in Hungary receive 6 lessons of 45 minutes per year, children in 
+the Czech Republic receive 20 hours of road safety education per year, and in Republic 
+of Srpska the number is 23 hours per year (and 40 hours for optional classes). 
+In Greece, the number of hours varies for the different grades. While grades 1, 3 and 
+4 receive road safety lessons for 1 hour per week during one trimester, this is 1 hour 
+per week for the whole year for grade 2. Ten hours per year are furthermore given to 
+Greek children in grades 5 and 6. 
+26 AVENUE for Traffic Safety. http://bit.ly/2s95PQc 
+Education 
+of Teachers
+Time Spent 
+Learning
+20 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 21In states where there is no minimum hour requirement, the number of teaching hours 
+also varies widely, both between states as well as within states. In the Netherlands 
+children receive roughly 45 minutes of road safety education each week. Teachers in 
+Lithuania dedicate 40 hours per year, teachers in Slovenia 25 hours, and teachers in 
+Malta 10 to 20 hours.
+In Cyprus, 10 to 15 sessions of 45 minutes are given each year, while the topic is 
+addressed at most one hour a month in France and Latvia. In Luxembourg one activity 
+a year is dedicated to road safety, while in Iceland an expert provides an hour of road 
+safety education each spring, after which the teacher continues the lessons. 
+In Flanders, children have on average 20 hours of road safety education each year, 
+however this varies considerably by school, as is the case in Belgium’s other community, 
+Wallonia, where it varies from 10 days a year to none at all. Although there is a big 
+variety in the amount of road safety lessons in Denmark, these lessons are primarily 
+given to the youngest pupils and much less to the older.
+It also varies a lot across Sweden, as it is up to the school’s headmaster to decide how 
+much time is reserved for teaching children about road safety. The same decision is left 
+to the teachers in Portugal and Poland. Moreover, teachers in the latter state remarked 
+that the time currently dedicated to the topic was limited and they would like to have 
+more time for it, especially in grades where the “bicycle licence” programme is given.
+In seven states it was unknown or too difficult to estimate how many hours of road 
+safety education was given on average in elementary schools. For example, teaching 
+hours in Norway are decided for the whole year and cover all main subject areas, 
+basic skills and competence aims. Therefore, as the schools are supposed to work 
+interdisciplinary, it is impossible to report how many lessons per year or per month are 
+given for one single topic within the subject. In Norway they underline the importance 
+of also giving traffic education when the children are outdoors, either playing in the 
+neighbourhood or going on a trip.
+Similarly, for Estonia and Kosovo it was also not possible to estimate the average amount 
+of hours spent on traffic safety and mobility education, as the subject is integrated in 
+other subjects. This is similar to Germany, where mobility and road safety education 
+is integrated into the syllabus in primary schools, but with different amount of hours 
+depending on the Federal State.
+4.3.2 Structure of the Lessons and Exams
+The traffic safety education lessons contain both theoretical and practical elements in 
+almost all states in Europe, except for Albania, Kosovo, Latvia and Portugal, where only 
+theoretical lessons are given. Nowhere in Europe is road safety education given only 
+through practical lessons.
+Exams are not held for road safety education in the majority of European states (67%). 
+Albania and Kosovo do have written exams, while Wallonia, the Czech Republic, and 
+Lithuania hold practical exams. Children in Flanders, Germany, the Netherlands, Poland, 
+Slovakia, Slovenia and Switzerland have both a written and practical exam. In Norway, 
+70% of the schools use the NCRS’ educational bicycle learning resources, including the 
+“cycling test”, however this is not considered an exam.Structure of the 
+Lessons and Exams
+
+The status of traffic safety and mobility education in Europe | 214.3.3 What Do Children Learn?
+The topics generally addressed in elementary schools across Europe can be defined in 
+two broad categories: traffic rules and safe behaviour. 
+In most states, children are taught about the traffic rules and the meaning of traffic signs 
+when they are in elementary school. Most children across Europe also receive lessons 
+in safe behaviour on the road focussing primarily on behaving safely as a pedestrian 
+and cyclist, including lessons on how to cross the road safely. Several countries also 
+focus on how to behave safely using public transport and as a passenger in a car. 
+Lessons are furthermore dedicated to how to get safely from home to school in 
+Bulgaria, Iceland, Germany, Luxembourg, Norway, Poland, Serbia and England & 
+Wales. In Finland, Germany and Sweden, the road safety of their local neighbourhood 
+is focused on during the lessons.
+Children also learn how to recognise the risks on the roads as well as how to deal 
+with them in Austria, Flanders, Denmark, Hungary, Iceland, Ireland, Lithuania, the 
+Netherlands and Serbia. The use of protective as well as safety equipment is furthermore 
+taught to children at elementary schools in Finland, Poland and Serbia. 
+A differentiation between age groups in primary education is also made in several 
+states. For example, young children in elementary schools in Denmark are trained in 
+being a safe pedestrian, while pupils of 11 and 12 years of age receive bicycle training. 
+In Scotland, the younger children are, amongst others, taught to wear a seatbelt and 
+crossing roads safely, while for older primary school children the focus is more about 
+not being distracted while on the road, making the safest choice possible and dealing 
+with peer pressure.
+In Germany, the former “road safety” education moved into a broader “mobility” 
+education taking into account not only the safety aspects, but also sustainability and 
+environment, social competence and independent mobility. 
+4.3.4 Educational Goals
+Educational goals and/or objectives for traffic safety and mobility education are set in 
+a majority of states (64%). Across the EU, these goals follow the topics taught in class 
+and can therefore also be generalised in objectives on understanding traffic rules and 
+signs on the one hand, and objectives on acquiring the skills and knowledge necessary 
+to behave safely in traffic as a pedestrian, cyclist or passenger on the other hand.
+In Flanders for example, educational objectives are already set at pre-primary education 
+level (kindergarten), with goals set to recognise in their surroundings where they can 
+play safely and where not, to realise that traffic involves risks and to be able to apply 
+elementary traffic rules under supervision.
+For primary education, the objectives in Flanders are split into traffic education 
+objectives and mobility education objectives. The former includes the goals of 
+identifying dangerous traffic situations in the wider school environment, having the 
+necessary skills and understanding of traffic rules to be able to move independently 
+and safely as a pedestrian and cyclist on familiar routes, and showing a willingness to 
+take into account other road users.
+The goals for mobility education at primary schools in Flanders include that the pupils 
+know the most important consequences of the growing use of cars, to be able to 
+compare the pros and cons of possible alternatives, and that they are able to plan a 
+simple route with public transport.Education 
+GoalsTraffic Rules and 
+Safe Behaviour
+
+22 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 23In Finland, the goals for first and second graders amongst others focus on the pupils’ 
+independent and safe mobility in their surroundings and improving skills and knowledge as 
+pedestrians and cyclists. During the third to sixth grades, the goal is to widen the children’s 
+independent mobility to a larger area and to include public transport. Special focus is 
+placed on their safe cycling skills and ensuring their own and other people’s safety.
+The required outcomes as defined in the road safety curriculum in Serbia for grades 1 
+through 4 include that children behave safely when walking from home to school, and 
+understand that the road and the pavement are not play areas.
+For fifth grade the goals include the ability to make a distinction between safe and unsafe 
+behaviour of pedestrians, cyclists and vehicles, to behave properly as a road user, to use 
+protective equipment while riding a bicycle and to understand the necessity of wearing a 
+seat belt, as well as acting responsibly as a passenger and showing respect to other road 
+users. 
+Sixth graders in Serbia also have to understand the connection between good infrastructure 
+and the safety of its users, and demonstrate correct and safe behaviour as pedestrians and 
+cyclists in a mock-up road layout and/or via computer simulation.
+In Norway there are specific competence aims related to physical education, in which the 
+aim of the training is to enable the pupil to comply with traffic rules for pedestrians and 
+bicyclists after the fourth grade and to enable the pupil to ride a bicycle safely as a means 
+of transport after the seventh grade. In addition, the pupil has to explain why physical 
+activity is important in everyday life.
+4.3.5 Who Provides the Lessons?
+It is common across Europe that the lessons could be given by different entities in primary 
+education. In the majority of states (67%), the teacher responsible for the class usually give 
+the road safety lessons to the children, while in 15 states a teacher responsible for a certain 
+subject may give the lessons.
+Only in Denmark is a dedicated teacher for traffic safety and mobility education a possibility. 
+While the teacher in Switzerland is also a teacher dedicated to the subject, this is mostly a 
+police officer. Police officers furthermore provide lessons or assistance in Austria, Belgium, 
+Cyprus, France, Germany, Poland, Portugal and Serbia. While primary school teachers in 
+Germany give the general mobility and safety lessons, the cycling training and exam are 
+done by police officers who are specially trained.
+It is also common that the lessons are given by external experts, which include the previously 
+mentioned police officers. This is the case in 61% of the European states. In roughly half 
+these cases, the external experts are not paid for the lessons they give. In Iceland and 
+Portugal the schools themselves pay for the external experts, and while this is also the 
+case for Belgium and the Netherlands, governmental authorities in those states share this 
+burden with the schools. Governmental authorities in Hungary and Ireland solely carry the 
+costs for the external expert in their schools. 
+The Road Safety Authority in Ireland provides a National Road Safety Education Service 
+where ten dedicated Road Safety Promotions Officers visit each school in a three year 
+cycle.
+External interventions in France are mainly made on a voluntary basis, while certain experts 
+in Denmark also provide their lessons for free. In Cyprus and Greece, the external experts 
+belong to a non-profit organisation, which in turn receives subsidies from sponsors for 
+various activities, which could include traffic safety lessons at schools.
+ 
+Who Provides 
+the Lessons
+The status of traffic safety and mobility education in Europe | 234.4 Secondary Education
+This section sets out the status of traffic safety and mobility education in the 
+29 European states where it is generally given at secondary levels. As this type of 
+education is generally not given in the remaining seven, they have not been included 
+in this analysis.
+4.4.1 Time Spent Learning
+Road safety education is a dedicated subject at secondary schools only in France, 
+Iceland, Italy, Norway and Switzerland. None of these countries however have a 
+minimum legal requirement for the amount of hours that the subject should be given 
+at secondary schools. Such a requirement is only found in Albania (12 hours per year), 
+Cyprus (eight 45 minute lessons per year), and Slovakia.
+Of the states where there is no legal minimum requirement, only in Latvia do pupils 
+receive traffic safety education once a month. In Greece, a ‘thematic week’ has been 
+introduced for the first three grades of secondary school, during which the teacher 
+can choose out of four subjects related to health, including traffic safety. For the latter 
+three grades in Greece’s secondary education, traffic education activities are also a 
+possibility during a dedicated teaching day in the last four months of the school year.
+In the other states it is less structured and furthermore not well known. In France for 
+example, pupils receive generally less than four hours of road safety education per year, 
+however they do not receive lessons every year. While French pupils between 11 and 
+15 have two compulsory theoretical exams, the teachers are not required to prepare 
+the pupils for these exams. In addition, a half-day road safety awareness training is 
+compulsory in high schools and apprentice schools, although no exam is taken at the 
+end of the training.
+Pupils in Iceland may have two days of road safety education in spring as well as a few 
+trips where traffic rules are reviewed. In both Flanders and Slovenia, the amount differs 
+greatly from school to school, with 1 to 2 days generally given in Flanders, and lectures 
+lasting between one and six hours given in Slovenia.
+In Austria and Portugal, the amount of road safety education is decided upon by the 
+teachers, while in Denmark, Hungary and Malta this depends on the school. Also in 
+Sweden there is a lot of variation between schools across the country.
+For Bulgaria, Estonia, Kosovo, and Poland it was difficult to estimate how many hours 
+of education was given to pupils, as the subject was integrated in other subjects. It was 
+similarly difficult to estimate it for Finland, because the subject is generally offered as 
+an optional course.
+Also for Norway it was difficult to estimate how many hours of traffic education are 
+generally given, as pupils can choose an elective course on road safety and traffic in 
+addition to their normal curriculum. If chosen, the pupil would have two hours of 
+classes per week, however it is up to the school to decide which choice of subjects 
+they want to offer to the pupils. The course can furthermore be set up in a way that 
+would allow pupils to take the first part of their driving licence trajectory as part of the 
+subject. Schools would however have to follow the provisions of the Traffic Training 
+Regulation in such case.
+Time Spent 
+Learning
+24 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 254.4.2 Structure of the Lessons and Exams
+Contrary to primary education, the traffic safety and mobility education lessons at 
+secondary level are solely theoretical in the majority of states (16), while in the other 
+13 states it is both theoretical as well as practical. Nowhere in Europe are only practical 
+road safety lessons given to pupils in secondary schools.
+No exams are taken in 25 of the 29 states where traffic safety and mobility education is 
+generally given at secondary level. While a written test is conducted in Albania, France 
+and Kosovo, only in Slovakia do pupils have written as well as practical exams.
+4.4.3 What Do Youngsters Learn?
+Knowledge on traffic rules, safe behaviour (as a pedestrian, cyclist, passenger and 
+public transport user) as well as recognising and avoiding risks remain important topics 
+taught at secondary schools.
+A significant amount of states furthermore address the risks and challenges of being 
+a young driver, including the risks of speeding as well as driving under the influence 
+of alcohol and drugs. The danger of distraction, notably by smartphones, is also 
+addressed, not only in the context of being a young driver, but also as a pedestrian, 
+cyclist or rider. Austria, Flanders, Finland, France, Germany, Italy and Latvia furthermore 
+focus specifically on driving mopeds safely as well.
+Pupils in Denmark, France, England & Wales as well as Scotland receive lessons in 
+recognising the effects of peer pressure and dealing with the pressure to take high-risk 
+actions by saying no.
+Children in Cyprus furthermore examine statistical data on road accidents and develop 
+proposals for improving the safety of young road users, while sustainable mobility 
+concepts are introduced to pupils in Greece.
+Sustainable mobility also features prominently in Germany, where pupils are given 
+lessons in amongst others alternatively powered engines and technologies, the 
+economic and environmental aspects of mobility, as well as the development and 
+design of future-oriented sustainable mobility.
+4.4.4 Educational Goals
+Educational goals and/or objectives for road safety education are only set in 14 out of 
+the 29 states where traffic safety and mobility education is generally given at secondary 
+level. Out of those 14 states, the Czech Republic, Latvia, Poland, Portugal and Slovakia 
+furthermore set different educational goals and/or objectives for different levels of 
+education, i.e. traffic education differs for students preparing for vocational school 
+compared to those preparing for university. 
+In Flanders, only general objectives for road safety education at secondary level are set 
+in the framework of personal health and safety goals, and include being able to apply 
+traffic rules and using personal and public transport safely. The objectives are however 
+not binding and furthermore no exam is taken to verify they are met.
+While all pupils in Cyprus’ secondary schools should develop appropriate behaviour 
+on the road, be able to provide first aid and be able to judge the human, social and 
+cultural factors contributing to collisions, different additional objectives are set for the 
+first three years of secondary education and the last three years. What Do 
+Youngsters Learn?
+
+The status of traffic safety and mobility education in Europe | 25During the first three years, 12- to 14-year-olds are expected to develop the abilities 
+to identify and evaluate factors causing collisions as well as the means to protect 
+themselves, to behave safely with others in their daily environment, and to engage 
+with personal and collective actions to prevent, reduce or even eliminate road collisions. 
+During the last three years, 15- to 18-year-olds are also expected to identify the factors 
+that could affect their behaviour as a pedestrian, cyclist, passenger and as a future 
+young driver.
+In Norway, specific competence aims for after the tenth grade are set and are related 
+to the natural sciences subject curriculum, elaborating on how traffic safety equipment 
+prevents and reduces injuries in collisions.
+In Denmark, no formal objectives are established by a Ministry. However, the Danish 
+Road Safety Council does provide schools with a chart on the theory of change that 
+includes objectives as expected outcomes.
+ 
+OUTPUTS  
+ OUTCOMES/RESULTS  
+Short -term/ intermediate                                                                                                     Longer -term  TARGET 
+GROUPS  
+ RESSOUR -
+CEs 
+  ACTIVITIES  
+ 
+2950
+MH/
+per 
+year  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+App. 
+300.  
+000 
+euro 
+pr. 
+year*  PRIMARY 
+SCHOOL  
+(8.-10. 
+grade)  
+13-16 years  8.-10. grade 
+VISITS – 
+primary 
+schools (PS):  
+ Injured 
+persons story  
+ Complements 
+other  teaching 
+materials  
+ Teacher's 
+guide and 
+student sheet  KNOWLEDGE ( PS): 
+ Know min. 2 risk 
+factors in traffic  
+ 
+App. 
+20.000 
+pupils in 
+grade 8. -
+10.  
+130 visits 
+per year 
+(app. 40 -
+50 pupils 
+pr. visit)  Fewer 
+fatalitie
+s /killed 
+in traffic  
+ 
+Fewer 
+injuries 
+(light 
+and 
+serious)  
+ Reduce  
+number 
+of 
+traffic 
+acci-
+dents  BEHAVIOUR:  
+ Say no to: 
+drink driving, 
+speeding,  2 on 
+scooter etc.   
+ Take 
+responsibility 
+against others' 
+risk behavior  
+ 
+ Reduce/ 
+observe speed  
+ No drink 
+driving  
+ Not 
+inattentive/ 
+distracted in 
+traffic  
+ Use seat belt  
+ Use a helmet  
+(bike or 
+motorcycle )  
+ 
+ 
+ 
+ 
+ TECNICAL 
+COLLEGES/  
+VOCATIO-
+NAL 
+SCHOOLS  
+16-20 (+) 
+years  SCHOOLS 
+OF 
+PRODUC -
+TION  
+16-20 (+) 
+years  
+ PRO -TEC-
+VISITS:  
+ Fact 
+presentation  
+with different 
+exercises/ 
+dialogue and 
+personal story 
+by relative  
+ KNOWLE DGE 
+(BOTH) : 
+ Know/ under -
+stand the 
+consequences 
+of their own and 
+others' behavior 
+in traffic  
+ Know that they 
+in terms of 
+traffic are in the 
+most dangerous 
+period in their  
+lives  
+ Know  the class 
+/ group´s 
+position  
+(majority 
+misunderstand -
+dings) 
+KNOWLEDGE  
+(PRO -TEC) : 
+ Know the main 
+accident / injury 
+factors (speed , 
+alcohol, seat 
+belt, 
+inattention)  
+ RELEVANCE:  
+ Be able to relate 
+the story to own 
+lives  
+REFLECTION:  
+ Reflect on what 
+could have 
+prevented the 
+accident  
+ Reflection on 
+own abilities and 
+behavior in 
+traffic  
+ Take a stand for 
+own future 
+behavior in 
+traffic  
+ATTITUDE:  
+ No to drink 
+driving  
+ Always seatbelt 
+/ helmet  
+ Avoid being 
+distracted in 
+traffic  /Not be 
+inattentive/ 
+ No s peeding/  
+going beyond 
+speed limit is 
+unacceptable  (INTENTIONAL ) 
+BEHAVIOUR:  
+ Decide how 
+to react to 
+others' risk 
+behavior  
+ Actively 
+contribute to 
+one's friends 
+/ family does 
+not become 
+involved in a 
+traffic 
+accident  
+ 
+ Talk to one's 
+friends / 
+family about 
+the visit 
+  
+ 
+ 
+* Ambassadors´ and uni. 
+students´salery, transport, 
+courses etc.  
+ 
+ THEORY OF CHANGE : LIVE  INTERVENTION  
+Figure 7. Theory of Change chart for interventions (Danish Road Safety Council)THEORY OF CHANGE: LIVE INTERVENTION
+26 | The status of traffic safety and mobility education in Europe
+ The status of traffic safety and mobility education in Europe | 274.4.5 Who Provides the Lessons?
+Traffic safety and mobility education is also given by different entities in secondary 
+education, and in 11 states it could be given by different actors. For example, the 
+lessons in Iceland and Italy could be given by the teacher responsible for the class, the 
+teacher responsible for a certain subject or by an external expert.
+It is common for the teacher responsible for a certain subject to provide road safety 
+education in 15 states, while in 10 states the teacher responsible for the class could 
+give such education. Only in Norway and Switzerland would a dedicated traffic safety 
+and mobility education teacher provide the lessons. However, in Switzerland this is 
+usually a police officer.
+External experts provide road safety lessons in 14 states. In Italy, Malta, Poland, Spain 
+and Sweden, such an external expert would not be paid for the lessons, while in Iceland 
+and Portugal the schools pay the external experts. Ireland and Slovakia are the only 
+states where the relevant ministry would pay the external expert to give such lessons, 
+while Switzerland is the only state in which the police sometimes fund the lessons by 
+the external expert.
+The lessons in Denmark are free if the external expert is provided by the Danish 
+Road Safety Council, however if provided by other experts a cost could be charged. 
+In Slovenia, the police or governmental agencies provide such lessons for free, while 
+experts from non-governmental organisations would be paid for the lessons provided.
+In Flanders, the funding for external experts is shared between the school and VSV 
+as the governmental agency, while in Cyprus and Greece the external experts belong 
+to a non-governmental organisation which in turn may be subsidised by sponsors to 
+provide such lessons to schools. 
+In Greece, an external expert is usually invited by the teacher who has undertaken 
+the responsibility to teach or coordinate traffic education in one or different grades 
+and classes, with the associated costs for implementing the educational programmes 
+usually covered by governmental agencies and municipal authorities as well as private 
+sponsors. 
+The ten previously mentioned dedicated Road Safety Promotions Officers in Ireland also 
+visit each secondary school in a three-year cycle.
+1 / 4Growing Bicyclists in a T raffic Garden
+nrpa.org /parks-recreation-magazine/2022/december/growing-bicyclists-in-a-traf fic-garden/
+November 17, 2022, Feature, by Ellen Drogin Rodgers, Ph.D., Fionnuala Quinn, B.E., and
+Rick Holt, M.S.
+For an enhanced digital experience, read this story in the ezine .
+How traffic gardens can teach children to safely navigate active
+transportation methods
+Active transportation is beneficial for the environment; individual health; equitable and
+inclusive access to employment opportunities, amenities and rich resources of a region; and
+sense of community well-being and belonging. Bicycling, in particular , is a lifetime activity
+that provides enhanced mobility , independence and enjoyment.
+Early life influences profoundly impact patterns of behavior . Children who engage in physical
+activity are more likely to engage as adults and to remain healthy into their adolescence. Y et,
+as a function of age and ability , children are less independent and are physically and
+cognitively more vulnerable. Further , they can behave impulsively , have dif ficulty self-
+regulating, be distracted from tasks, and are challenged with spatial discrimination. Many
+lack reading ability , English proficiency , or warning directives/symbol recognition.
+2 / 4While streets and public places should be a right and accessible to all, there are inherent
+safety issues in the built environment. Y et, children have great capacity for curiosity and
+learning through experience. It is, therefore, imperative that children engage in transportation
+activities in a safe space that will enhance their knowledge, awareness, access to
+opportunities, independence and well-being across their lifespan. Key to student learning is
+involvement in appropriately challenging play in settings that imitate real situations and are
+personally relevant.
+Traffic Gardens as Safe Spaces for Learning and Play
+Traffic gardens (also known as safety towns/villages/cities or traf fic parks) are miniature city
+streetscapes with a network of reduced-sized streets, scaled traf fic elements (e.g.,
+roundabouts, directional traf fic patterns, intersections, parking spaces, food truck spaces)
+and appropriate signage. As community amenities, these often are constructed on
+underutilized parking lots, community spaces, recreational facilities and park grounds, and
+school playgrounds. T raffic gardens provide small worlds in which children can learn about
+traffic rules, safe navigation of cities, resolution of conflicts, and how to appropriately handle
+interactions with other travelers on the roadway . Children are able to walk, maneuver
+motorized wheelchairs, ride bikes, steer scooters, drive pedal cars and negotiate a
+community of their own in these spaces.
+Sheila Hensley , a pre-kindergarten (pre-K) teacher at Aiton Elementary School in
+Washington, D.C., says: “Children in D.C. are cognizant as 3-year-olds about traf fic. Some 4-
+and 5-year-olds ride the bus alone; they are already navigating the streets at a very early
+age, so the traf fic garden is very important to start at a young age.” In addition, traf fic
+gardens serve as safe, reality-based spaces for imaginative, creative, dramatic and risky
+play, and provide opportunities for enhanced risk competence, resilience, well-being and a
+more complete understanding of the environment.
+The focus on traf fic safety education for children emerged in the United States in the 1920s,
+with school-based road safety essay contests and the formation of school safety patrols.
+These school-based models became insuf ficient in a period of rapid adoption of motor
+vehicle use and an increase in child roadway fatalities, and precipitated innovations, such as
+safety towns. The first recorded traf fic garden in the world was installed in Mansfield, Ohio, in
+1937, initiated by a local patrol of ficer. Shortly thereafter , the Model T raffic Area No. 1 was
+developed in T ottenham, United Kingdom (UK). It was a more sophisticated project, publicly
+funded, and received widespread attention. Subsequent plans for a series of similar facilities
+around the UK were derailed by W orld W ar II, while in the United States, this community-
+based idea was highlighted in the media and spread through local champions. By the 1960s
+and into the 1980s, momentum was fostered through the National Safety T own Center , which
+also produced curriculum and program materials. By this time, many facilities had become
+much more elaborate, featuring actual streets, curbs, buildings and operating traf fic signals.
+3 / 4Children were brought to safety towns as part of school activities and learning opportunities
+were generally led by local police of ficers. Families visited as tourist destinations and
+locations for play and recreation.
+Today , traffic gardens are “sprouting” all over as a result of an enhanced societal focus on
+equity , inclusion and access within communities; environmental sustainability (and creative
+repurposing of under-utilized or ill-maintained asphalt); the need for active transportation;
+and the availability of improved installation materials for new sites.
+Traffic Garden Case Study: W ashington, D.C. Public Schools
+The “Mason T eam” — consisting of George Mason University , Discover T raffic Gardens, T orti
+Gallas + Partners, Safe Routes to Schools National Partnership and W ashington Area
+Bicyclist Association — engaged in a multi-faceted project, funded through the District
+Department of T ransportation (DDOT) V ision Zero grant, and focused on the design,
+construction and installation of two traf fic gardens at a public elementary school in Northeast
+Washington, D.C., (an urban, under-resourced, majority Black jurisdiction). The Mayor ’s
+Vision Zero initiative focuses on reducing, and ultimately eliminating, transportation fatalities
+and serious injuries in the District of Columbia.
+Through a series of charrettes (i.e., concept design workshops), more than 130 students,
+teachers, families and community members lent their voices to the collaborative design of
+the traf fic gardens, thus creating ownership of their space. The Mason T eam then refined the
+design, purchased key traf fic garden elements, and oversaw installation of the traf fic gardens
+and programming of celebratory activities. “W e involved the community; we involved the
+students that participated in laying out what they thought their traf fic gardens should look
+like. W e did the same for parents, inviting them in so that they [could] share what they
+envisioned. But having it back there [behind the school]…everyone benefits,” says Dr .
+Marierose
+ Mbinack, manager , health and physical education at District of Columbia Public Schools.
+Curricular materials and activity kits (including mini lessons, felt boards and characters, a
+song, and teacher training documents) were developed and provided to teachers to facilitate
+dramatic play in the pre-K classroom and encourage challenging free play in the outdoor
+traffic gardens. All materials were carefully crafted to be developmentally appropriate and
+model culturally sensitive practices. Pre-K students learned about transportation networks,
+safety awareness in the built environment and risk competence, as well as gaining familiarity
+with use of balance bikes. These activities provided scaf folded learning for children who will
+develop into second graders required to participate in a comprehensive District of Columbia
+Public Schools bike education program, “Biking in the Park.” For current second graders, the
+traffic gardens served as a bridge from the classroom instruction to the end-of-session five-
+to six-mile bike ride on D.C. streets to a local park.
+4 / 4Key to the success of this project was an engaged team of stakeholders, collaboration with
+the DDOT , D.C. Public Schools and school personnel, and intentional and ongoing
+interactions with the school communities. This was achieved through school events, activities
+to engage the community members in production of felt boards for lessons, volunteer action
+within the schools, and celebrations surrounding ribbon-cutting ceremonies.
+Engaging children and the community in design of the traf fic gardens empowered them as
+civic-minded agents of change and impacted their collective well-being. “During COVID, the
+traffic garden installations provided an ideal way to get kids outdoors, practice biking and
+bike safety , and interact as a community , while maintaining social distancing, mask-wearing
+and adherence to COVID protocols,” says Lauren Hassel, former Safe Routes to School
+coordinator for Arlington (V irginia) Public Schools. “The traf fic gardens also allowed families
+to re-connect.”
+Development of these traf fic gardens was found to change community perceptions of safety
+and the built environment. This is critical to whether children spend more time playing,
+interacting in the environment, or walking or biking to school. Creative and challenging play ,
+as well as physical activity , contribute to children’ s cognitive, social and emotional
+development (e.g., enjoyment, conflict resolution, resilience, problem solving, self-confidence
+and independence). Further , exposing children to traf fic gardens as high-value and safe
+learning and play spaces will help them better maneuver the built environment and engage in
+active transportation, as well as ensure patterns of enjoyment, healthy behavior , improved
+equity through access to the resources and amenities of their community , inclusivity , overall
+well-being, and sense of belonging. The traf fic gardens serve as a mechanism for creating a
+better world, one child at a time.
+Ellen Drogin Rodgers, Ph.D. , is Associate Dean, College of Education and Human
+Development at George Mason University . Fionnuala Quinn, B.E. , is Director at  Discover
+Traffic Gardens . Rick Holt, M.S. , is Co-Founder/Researcher at  Early Childhood Mobility
+Coalition .

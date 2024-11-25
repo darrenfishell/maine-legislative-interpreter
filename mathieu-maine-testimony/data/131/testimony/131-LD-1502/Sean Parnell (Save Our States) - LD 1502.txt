@@ -1,0 +1,117 @@
+Testimony of Sean Parnell  
+Senior Director, Save Our States Action  
+ 
+to the  
+ 
+Veter ans and Legal Affairs  Committee  
+Maine Legislature  
+ 
+Re: LD 1502  
+An Act to Provide Consistency of Process for Maine ’s Electoral Votes by Pr ohibitin g 
+Enactment of the National Pop ular Vote I ntersta te Compact  
+ 
+May 17, 2023  
+ 
+Chairman Hickman, Chairwoman Supica, pl ease accept my written testi mony on this legislation,  
+which is offere d neither  in support of nor opposition to LD 1502 , but that I hope provides useful  
+information  regarding this bill . 
+ 
+LD 1502 proposes to bar the state of  Maine from enteri ng the National Popular Vote interstate 
+compact (NPV) so long as the state uses ranked choice voting (RCV ) in a ny election. I would like 
+to explain the key issue involved here , which is the problems that  Maine ’s use of  RCV would 
+creat e for the operation of t he co mpact – regardless of whether  Maine is  or is not a member of  
+the compact – should  NPV  ever go int o effect.  
+ 
+RCV creates serious  problems for NPV because  the compact anticipates th at every  state will , at 
+the end of the election , provide a single vote total  for each  pres idential slate , which can then be 
+added into the national vote count . Under RCV, however, there are at least two vote totals for 
+each p residential slate – an initial total of first r ound  votes, and then a final total, after the RCV 
+process  has concluded . The compact does not provid e any guidance on which vote t otals are to 
+be used  by member states  in determining the national vote count for each presidential slate , 
+leaving it to the discr etion of each m ember s tate’s chief election offici al (typically, as in Maine, 
+the Secreta ry of S tate).  Because the difference in first round and final round vote to tals can be 
+in the tens or even hun dreds of thousands, in a close national election the choice of which vote 
+totals are used in determining  the national vote count could determine the outcome under 
+NPV.  
+ 
+Lobbyists for NPV reject this analysis, claiming that Maine ’s law requiring that final -round vote 
+totals appear on the state ’s Certificate of Ascertainment resolve this issue. What  this assertion 
+ignores, however, is that Maine ’s law has no affect on the cho ice made by other  states that are 
+in the compact . The chief election official  of another state is not req uired to obtain Maine ’s 
+vote totals from the state ’s Certificate of Ascertainment  – the compact only requires that they 
+obtain vote totals from an  “official statement ,” a term  that encompasses any number of other 
+documents typically produced by states durin g the pos t-election tabulation and certification 
+process. NPV Chairman and founder John Koza explained to the Connect icut legislature in 2014:  
+ 
+“…the National Popular Vote Compact does not depend on any particular piece 
+of paper … The “final determination” of a state’s presidential vote does not have 
+to come in the form of the Certificate of Ascertainment. It could just as well be 
+evidenced by, say, the offi cial minutes of the state board of canvassers or any 
+other official document from the state containing the vote count.”1 
+ 
+As part of the RCV process, Maine produces an “official state ment ” that includes both first -
+round and final -round vote totals.  Maine ’s Secretary of State is required to  file with the 
+Governor and make public  a report detailing vote totals for all ro unds ,2 as was done following  
+the 2022 election in the state ’s 2nd Congres sional district.3 No law passed by Maine can direct 
+the chief election  officer of another  state to prefer Main e’s Certificate of Ascertainment over 
+this report or any ot her “official statement ” produced by M aine  when they gat her vote totals 
+for inclu sion in the national vote count.  
+ 
+One reason another  state ’s chief ele ction official might prefer to use the first -round results  
+rather than those on the Cert ificate of Ascertainment would be  to avoid the erasure of 
+hundreds of thous ands of votes  from the national vote count  in the event either the 
+Democratic or Republican presidential slates finished behind an indep endent or th ird-party 
+candid ate. For example, in 1992 Ross Perot finished in second place in Maine (and Utah), just 
+ahead of Geo rge H . W. Bush. Had the state used RCV in that election, Bush ’s final vote total 
+from Maine that year would have been 0, erasing more than 20 6,000 vote s from his national 
+vote co unt.  
+ 
+1 Koza, John. “Answers to Questions about Presidential Vote Counting and the National Popular Vote Bill ,” 
+February 2014. Available upon requ est. 
+2 Under rules adopted by the Maine Secretary of S tate in 2018, initial, final, and any intermediate vote 
+totals are to be reported to the Governor and made publicly available  following the e lection.   Section 6, 
+subsection 4, “Rules Governing the Administration of Elections Determined by Ranked Choice Voting .” 
+Available at https://www.maine.gov/sos/cec/elec/upcoming/pdf/250c535 -2018 -230-complete.pdf.  
+3 The 2022 report to Maine ’s gover nor for the 2nd Congressional district race , which includes both initial 
+and final vote totals, is available at: 
+https://www.maine.gov/sos/cec/elec/results/2022/Rep%20to%20Congress%20Dist%202%20RCV%20res
+ults.pdf  
+ 
+Finally, I will note that lobbyists for NPV claim that it’s not possible for there to be any conflict  
+between the compact and RCV  because the nation ’s leadin g proponent  of RCV  (Rob Richie, president 
+of FairVote) helped write the compact. This ignores a 2021 paper  on this issue that R ichie served as 
+the lead author o f, which noted : 
+ 
+“…as currently drafted, the [NPV compact] seems to assume a plurality system…. 
+[U]sing RCV for Presidential elections in states might seem incompatible with 
+[NPV]. Most fundamentally, which votes should be reported out for the purpose 
+of [NPV]? Wou ld it be the first choices among all the candidates? Or would it be 
+the final “instant runoff” totals after the RCV tallies are completed? If that latter 
+choice were made, what if one of the two strongest national candidates was 
+eliminated during the RCV t ally in a given state? ”4 
+  
+That paper came out in August 2021, months  after Maine changed its law regarding what 
+information is to be reported on its Certificate of Ascertainment in an unsuccessful effort  to 
+address the problem . Other  leaders in the area of alter nativ es to plurality voting have  also 
+noted the conflict. For example, Dr. Warren D. Smith of the Center for Range Voting warns that 
+there will be  a “train wreck ” if any state uses RCV while NPV  is in effect  and observes  “Different 
+kinds of voting systems in different states simply were not designed to be agglomerated to yield  
+one overall "popul ar vote winner "”5 Other experts in alternatives to p lurality voting have 
+offered similar c riticisms.6  
+ 
+While there may have been some recognition by the drafters of the compact that some states 
+in the future may use RCV or other forms of non -plurality voting , the fact is that NPV as written 
+does not adequately address the issue , which I hope you will keep in mind as you consi der LD 
+1502 . I am happy to provide additional  information on this or any related topic , and I can be 
+reached at (571) 289 -1374 or s ean@saveourstates.com . Thank y ou. 
+ 
+ 
+  
+ 
+4 “Toward a More Perfect Union: Integrating Ranked Choice Voting with the National Popular Vote 
+Interstate Compact ,”4 p. 15 9. Available at: https://harvardlpr.com/wp -
+content/uploads/sites/20/2021/08/HLP106.pd f 
+5 “Warning! Voting reform trainwreck approaching – need to act now to avoid the p roblem ” available at: 
+https://www.rangevoting.org/NPVtrainwreck.html  
+6 See:  “Voting Reform Community Sees Major Problem with National Popu lar Vote, ” January 2023. A vailable at: 
+https://saveourstates.com/blog/voting -reform -community -sees -major -problem -with -national -popular -vote  

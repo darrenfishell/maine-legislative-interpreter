@@ -1,0 +1,149 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+SECOND REGULAR SESSION -2016  
+ 
+Legislative Document  No. 1634  
+H.P. 1110  House of Representatives, March 3, 2016  
+ 
+ 
+An Act To Provide Tax Revenue To Offset Transfers to the Maine 
+Clean Election Fund  
+ 
+ 
+ 
+ 
+Reported by six members in Report A from the Joint Standing Committee on Taxation 
+pursuant to the Maine Revised Statutes, Title 36, section 199 -E. 
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR2656(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  36 MRSA §5200, sub -§5, as enacted by PL 2005, c. 457, Pt. FFF, §1 and 2 
+affected by §2, is repealed and the following enacted in its place:  3 
+5.  Net income.  For purposes of this section, "net income" means for any taxable 4 
+year the total of the following as modified by section 5200 -A: 5 
+A.  The taxable income of the taxpayer for that taxable year under the laws of the 6 
+United States; and  7 
+B.  The taxable income or loss of any corporation that i s a member of a unitary group 8 
+and that is incorporated in any of the following jurisdictions: the Principality of 9 
+Andorra, Anguilla, Antigua and Barbuda, Aruba, the Commonwealth of the 10 
+Bahamas, the Kingdom of Bahrain, Barbados, Belize, Bermuda, the British  Virgin 11 
+Islands, the Cayman Islands, the Cook Islands, the Republic of Cyprus, the 12 
+Commonwealth of Dominica, Gibraltar, Grenada, the Bailiwick of Guernsey, the Isle 13 
+of Man, the Bailiwick of Jersey, the Republic of Liberia, the Principality of 14 
+Liechtenstein , the Grand Duchy of Luxembourg, Malta, the Republic of the Marshall 15 
+Islands, the Republic of Mauritius, the Principality of Monaco, Montserrat, the 16 
+Republic of Nauru, the Caribbean Netherlands, Niue, the Independent State of 17 
+Samoa, the Republic of San Mar ino, the Republic of Seychelles, the Federation of St. 18 
+Christopher and Nevis, St. Lucia, St. Vincent and the Grenadines, the Turks and 19 
+Caicos Islands, the United States Virgin Islands and the Republic of Vanuatu.  20 
+The State Tax Assessor shall review annuall y the list of jurisdictions in paragraph B and 21 
+report to the joint standing committee of the Legislature having jurisdiction over taxation 22 
+matters whether any jurisdictions should be added to or deleted from the list based on 23 
+whether the jurisdiction taxes  no or only nominal income, the jurisdiction lacks effective 24 
+exchange of information with other taxing authorities, the jurisdiction lacks governmental 25 
+transparency and the jurisdiction protects business with no substantial activity.  26 
+Sec. 2.  Rules.  The S tate Tax Assessor shall adopt rules to determine the income or 27 
+loss for a corporation that is a member of a unitary group that is not otherwise required to 28 
+file a consolidated federal return and to prevent double taxation or double deduction of 29 
+any amount included in the computation of net income under the Maine Revised Statutes, 30 
+Title 36, section 5200, subsection 5.  Rules adopted pursuant to this section are major 31 
+substantive rules as described in Title 5, chapter 375, subchapter 2 -A. 32 
+Sec. 3.  Application .  This Act applies to tax years beginning on or after January 1, 33 
+2016.  34 
+Sec. 4.  Appropriations and allocations.  The following appropriations and 35 
+allocations are made.  36 
+ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF  37 
+Revenue Services, Bureau of 0002  38 
+Initiative: Provides funding for 2 Staff Attorney positions, one Tax Analyst position and 39 
+computer programming costs.  40 
+ 
+ Page 2 - 127LR2656(01) -1 
+  1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 
+SUMMARY  8 
+This bill is reported out by the Joint Standing Committee on Taxation pursuant to the 9 
+Maine Revised Statutes, Title 36, section 199 -E, as enacted by Initiated Bill 2015, chapter 10 
+1.  This bill offsets the annual tra nsfer of $3,000,000 in General Fund revenue to the 11 
+Maine Clean Election Fund by requiring corporations that file unitary income tax returns 12 
+in Maine to include income from certain jurisdictions outside the United States in net 13 
+income when apportioning inco me among tax jurisdictions.  The State Tax Assessor is 14 
+required to adopt major substantive rules to determine the income or loss attributable to 15 
+such corporations and to prevent double taxation or double deduction of income.  The 16 
+State Tax Assessor is also  required to submit an annual report to the joint standing 17 
+committee of the Legislature having jurisdiction over taxation matters regarding whether 18 
+jurisdictions should be added to or deleted from the list of tax havens based on specified 19 
+criteria.  20 
+FISCAL NOTE REQUIRED  21 
+(See attached)  22 
+ GENERAL FUND  2015 -16 2016 -17 
+POSITIONS - LEGISLATIVE COUNT  0.000  3.000  
+Personal Services  $0 $274,837  
+All Other  $0 $120,006  
+ 
+  
+  
+GENER AL FUND TOTAL  $0 $394,843  
+Approved: 02/26/16
+LD 1634     LR 2656(01)
+FY 2015-16 FY 2016-17Projections  
+FY 2017-18Projections  
+FY 2018-19
+Net Cost (Savings)
+General Fund $0 ($4,603,157) ($4,941,820) ($5,178,163)
+Appropriations/Allocations
+General Fund $0 $394,843 $301,180 $309,837
+Revenue
+General Fund $0 $4,998,000 $5,243,000 $5,488,000
+Other Special Revenue Funds $0 $102,000 $107,000 $112,000
+Fiscal Detail and NotesPreliminary Fiscal Impact Statement
+The bill requires corporations who file unitary income tax returns to include income from certain jurisdictions outside 
+the United States in net income when apportioning income among tax jurisdictions.  It would result in an increase in 
+General Fund and Local Government Fund revenue of $4,998,000 and $102,000, respectively, in fiscal year 2016-17.  
+The bill includes a General Fund appropriation to the Department of Administrative and Financial Services of 
+$394,843 in fiscal year 2016-17 for two Staff Attorney positions, one Tax Analyst position and computer 
+programming charges.127th MAINE LEGISLATURE
+An Act To Provide Tax Revenue To Offset Transfers to the Maine Clean Election Fund
+Fiscal Note for Original Bill
+Committee: Taxation
+Fiscal Note Required: Yes
+LR2656(01) - Fiscal Note - Page 1 of 1

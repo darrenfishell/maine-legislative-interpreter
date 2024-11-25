@@ -1,0 +1,150 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1554
+H.P. 1159 House of  Representatives,  April 22, 2021
+An Act  To Provide  Climate Change Transition  Assistance  for 
+Maine's Energy-intensive Businesses
+Received by the Clerk of the House on April  20, 2021.  Referred to  the Committee  on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative WADSWORTH  of Hiram.
+Cosponsored by Senator STEWART of Aroostook and
+Representatives: DUNPHY of Old Town,  MARTIN of  Sinclair,  PAULHUS of Bath, Senator: 
+DILL of Penobscot.
+
+Page 1 - 130LR1670(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §10109, sub-§4, as amended by PL 2019, c. 69, §1, is further 
+3 amended to read:
+44.  Expenditures; projects.  Except for transfers required under subsection 3‑A and 
+5 section 10128 and other costs authorized in accordance with this chapter, funds in the trust 
+6 fund must be expended in accordance with this subsection.
+7 A.  Trust funds must be allocated for measures, investments, loans, technical assistance 
+8 and arrangements that reduce electricity consumption, increase energy efficiency or 
+9 reduce greenhouse gas emissions and lower energy costs at commercial or industrial 
+10 facilities and for investment in measures that lower residential heating energy demand 
+11 and reduce greenhouse gas emissions.  The measures that lower residential heating 
+12 demand must be fuel-neutral and may include, but are not limited to, energy efficiency 
+13 improvements to residential buildings and upgrades to efficient heating systems that 
+14 will reduce residential energy costs and greenhouse gas emissions, as determined by 
+15 the board.  The trust shall ensure that measures to reduce the cost of residential heating 
+16 are available for low-income households as defined by the trust.  When promoting 
+17 electricity cost and consumption reduction, the trust may consider measures at 
+18 commercial and industrial facilities that also lower peak capacity demand.  Subject to 
+19 the apportionment pursuant to this subsection, the trust shall fund conservation 
+20 programs that give priority to measures with the highest benefit-to-cost ratio, as long 
+21 as cost-effective collateral efficiency opportunities are not lost, and that:
+22 (1)  Reliably reduce greenhouse gas production and heating energy costs by fossil 
+23 fuel combustion in the State at the lowest cost in funds from the trust fund per unit 
+24 of emissions; or
+25 (2)  Reliably increase the efficiency with which energy in the State is consumed at 
+26 the lowest cost in funds from the trust fund per unit of energy saved.
+27 B.  Expenditures from the trust fund relating to conservation of electricity and 
+28 mitigation or reduction of greenhouse gases must be made predominantly on the basis 
+29 of a competitive bid process for long-term contracts, subject to rules adopted by the 
+30 board under section 10105.  Rules adopted by the board to implement the competitive 
+31 bid process under this paragraph may not include an avoided cost methodology for 
+32 compensating successful bidders.  Bidders may propose contracts designed to produce 
+33 greenhouse gas savings or electricity conservation savings, or both, on a unit cost basis.  
+34 Contracts must be commercially reasonable and may require liquidated damages to 
+35 ensure performance.  Contracts must provide sufficient certainty of payment to enable 
+36 commercial financing of the conservation measure purchased and its installation.
+37 C.  The board may target bid competitions in areas or to participants as they consider 
+38 necessary, as long as the requirements of paragraph A are satisfied.
+39 D.  Community-based renewable energy projects, as defined in section 3602, 
+40 subsection 1, may apply for funding from the trust to the extent they are eligible under 
+41 paragraph A.
+42 E.  The size of a project funded by the trust fund is not limited as long as funds are 
+43 awarded to maximize energy efficiency and support greenhouse gas reductions and to 
+44 fully implement the triennial plan.
+Page 2 - 130LR1670(01)1 F.  No more than $800,000 of trust fund receipts in any one year may be used for the 
+2 costs of administering the trust fund pursuant to this section.  The limit on 
+3 administrative costs established in this paragraph does not apply to the following costs 
+4 that may be funded by the trust fund:
+5 (1)  Costs of the Department of Environmental Protection for participating in the 
+6 regional organization as defined in Title 38, section 580‑A, subsection 20 and for 
+7 administering the allowance auction under Title 38, chapter 3‑B; and
+8 (2)  Costs of the Attorney General for activities pertaining to the tracking and 
+9 monitoring of allowance trading activity and managing and evaluating the trust's 
+10 funding of conservation programs.
+11 G.  In order to minimize administrative costs and maximize program participation and 
+12 effectiveness, the trustees shall, to the greatest extent feasible, coordinate the delivery 
+13 of and make complementary the energy efficiency programs under this section and 
+14 other programs under this chapter.
+15 H.  The trust shall consider delivery of efficiency programs by means of contracts with 
+16 service providers that participate in competitive bid processes for reducing energy 
+17 consumption within individual market segments or for particular end uses.
+18 I.  A trade association aggregator is eligible to participate in competitive bid processes 
+19 under this subsection.
+20 J.  Trust fund receipts must, upon request by the Department of Environmental 
+21 Protection, fund research approved by the Department of Environmental Protection in 
+22 an amount of up to $100,000 per year to develop new categories for carbon dioxide 
+23 emissions offset projects, as defined in Title 38, section 580‑A, subsection 6, that are 
+24 located in the State.  Expenditures on research pursuant to this paragraph are not 
+25 considered administrative costs under paragraph F, subparagraph (1).
+26Sec. 2.  35-A MRSA §10128 is enacted to read:
+27§10128.  Industrial Climate Transition Fund
+281.  Industrial Climate Transition Fund.  The Industrial Climate Transition Fund is 
+29 established as a revolving, nonlapsing fund administered by the trust in the disbursement 
+30 of funds received from the sale of carbon dioxide allowances pursuant to this subsection.  
+31 The purpose of the Industrial Climate Transition Fund is to provide loans for projects and 
+32 programs that assist businesses to sustainably transition to operations in support of the 
+33 economic and climate goals of the State.  The trust shall make a loan under this subsection 
+34 as a 5-year, no-interest forgivable loan to an eligible business.  If the recipient of the loan 
+35 or the recipient's successor in interest meets the requirements of the loan and is in operation 
+36 after 5 years from receipt of the loan and has at least the same number of employees as at 
+37 the time of the receipt of the loan, the trust shall forgive the entire balance of the loan.  A 
+38 recipient of a loan under this subsection that fails to meet the requirements of this 
+39 subsection must repay the loan within 2 years after the expiration of the 5-year term.  The 
+40 trust shall implement application procedures, criteria for a program or project to carry out 
+41 the purposes of this subsection, verification measures to ensure the project or program 
+42 funded was completed or implemented and other loan requirements as determined by the 
+43 trust.
+Page 3 - 130LR1670(01)12.  Sources of fund.  Beginning with fiscal year 2021-22 and every fiscal year 
+2 thereafter, the trust shall transfer into the Industrial Climate Transition Fund revenue in 
+3 excess of $6 per carbon dioxide allowance received by the trust from the sale of carbon 
+4 dioxide allowances in that fiscal year:
+5 A.  Up to an aggregate limit of $3,000,000 per year, for loans to affected customers, as 
+6 defined in section 10109, subsection 3-A; and
+7 B.  Excess revenue after the aggregate limit in paragraph A is satisfied up to an 
+8 additional aggregate of $1,000,000 for loans to energy-intensive businesses based in 
+9 the State other than affected customers.
+10 Any excess revenue from the sale of carbon dioxide allowances under this subsection after 
+11 the aggregate limits of paragraph A and B are met must be spent pursuant to section 10109, 
+12 subsection 4.
+13SUMMARY
+14 This bill creates the Industrial Climate Transition Fund administered by the Efficiency 
+15 Maine Trust that uses revenue from the sale of carbon dioxide allowances to provide loans 
+16 to energy-intensive manufacturers and other businesses to become more efficient and use 
+17 less energy in their operations.  The loan is forgivable if after 5 years the number of 
+18 employees of the fund recipient is substantially the same or more than the number of 
+19 employees of the recipient when the loan was received.14
+15
+16
+17
+18
+19

@@ -1,0 +1,55 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 83
+H.P. 49 House of  Representatives, January 13, 2021
+An Act  To Clarify the Meaning of "Unserved Area" within  the 
+State's Broadband  Service  Laws
+Received by the Clerk of the House on January 11, 2021.  Referred to the Committee  on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative RISEMAN of Harrison.
+
+Page 1 - 130LR0060(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §9204-A, sub-§1, as enacted by PL 2015, c. 284, §7, is 
+3 amended to read:
+41.  Establish criteria defining unserved and underserved areas.  The authority, by 
+5 rule adopted pursuant to section 9205, subsection 3, shall establish criteria to define 
+6 unserved and underserved areas with respect to broadband service.  Criteria established by 
+7 the authority to define unserved areas must include any geographic area where broadband 
+8 service is not available or where the speeds available are less than 100 megabits per second 
+9 for downloads and less than 100 megabits per second for uploads.  Criteria established by 
+10 the authority to define unserved and underserved areas must include the percentage of 
+11 households with access to broadband service within a municipality or other appropriate 
+12 geographic area.  The authority shall use these criteria to determine those areas of the State 
+13 that are unserved or underserved.
+14SUMMARY
+15 This bill clarifies the meaning of "unserved area" within the State's broadband service 
+16 laws by providing that the criteria established by the ConnectMaine Authority by rule to 
+17 define that term must include any geographic area where broadband service is not available 
+18 or where the speeds available are less than 100 megabits per second for downloads and less 
+19 than 100 megabits per second for uploads.

@@ -1,0 +1,387 @@
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+History 
+SkyWay by MicroRail is the cul mination of research from 1999-20 12 documented in FTA Report 
+000026 " FTA Low-Speed Urban Magl ev Research Program " as undertaken by 
+MagneMotion(MM) of Devens, MA.. That effort was successful in a ll but one way - cost. This 
+current project and my follow-on d ialogue with Richard Thornton , PhD, of MIT, in his YouTube 
+webinar " https://www.youtube.com/watch?v=eijRFZc6o5M " leads to innovation in scale, 
+materials, methods, and transpor tation technology to create a n ew mode of transportation. 
+ 
+Videos - Representative Syst ems, Materials and Expertise 
+1. German 1970 Prototype - https://www.youtube.com/watch?v=rdXlVBNL42M  (4:15) 
+2. MagneMotion components - https://www.youtube.com/watch?v=d7uNrDQDFCU  (7:36) 
+3. Richard Thornton, PhD., - https://www.youtube.com /watch?v=eijRFZc6o5M  (33:19) 
+4. Research on Novel Vane Device to  Improve Helical Pile Performan ce for Transportation 
+ Structures https://www.youtube.com/watch?v=x7-KjZKaqJU  
+5. Niron Magnetics-the Clean Earth Magnet™  
+https://www.youtube.com/watch?v=0DtM82fJAoY  
+Potential Routes will be based o n terms of grant funding and MO U. Prefer ZERO match. 
+• https://tigerweb.geo.census.gov/tigerweb2020/  
+ 
+What is the SkyWay System? 
+SkyWay is a new mode of transportation. SkyWay is not a train. It is not a monorail. It is not 
+light rail. It is not actually rail. So what is it? It’s a smal l lightweight elevated guideway on which 
+4-passenger pods travel powered by  magnetic levitation under vo ice control. 
+  There is no argument that this is the best alternative to exist ing transit. SkyWay is a tram-like, 
+elevated lightweight fixed gui deway of stainless steel and comp osites which uses limited space 
+above the sidewalk and/or parking lane in the public R.O.W. to avoid congestion. It uses four-
+passenger non-shared car-like ePods to move people and freight.  Lightweight, silent, smooth, 
+fast, reliable, cheap, expandable.   It is also the least expensive and most environmentally friendl y mode of transit with near-zero 
+energy usage, near-zero carbon  production and miles of solar ge neration. Safe? This system 
+eliminates accidents. Snap-togeth er construction eliminates the  need for disruptive heavy 
+equipment, concrete trucks and en vironmental damage during cons truction. 
+  This offers personal rapid transit that is autonomous, on-deman d, non-stop, 24/7/365, all 
+weather, door-to-door, stationl ess, uses empathic AI and that i s driven by LSMs (linear 
+synchronous motors)(magnetic levitation).   SkyWay has ten different reve nue sources with an overall 11/1 B enefit-Cost Ratio. Unlike any 
+other mode of transportation, th is is not ridership dependent. Is Maine ready for this? The 
+answer is that if we hope to reach our climate goals, it is the  only option. MicroRail will deploy 
+its guideways above the public R OW, both sides of the road (to eliminate the risk of crossing 
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+streets), so as not to interfere with whatever sidewalks or par king exist at surface level. Its low 
+costs offer an expansion of acce ss for low-income and all diver se populations. 
+ Dr. Thornton suggests reducing si ze of vehicles and weight of i nfrastructure would be impactful 
+ways to reduce costs. We are planning a suspended three-foot wi de overhead guideway made 
+of pultruded composites support ed by helical piles with collar vanes
+1. Currently pultrusion 
+results only in straight beams. We will need to invent a way to  pultrude beams that follow the 
+contours of the roadside.2 The piles-plus-collar-vane are in final evaluation but we need  to 
+determine if they can support mor e than light posts and roadsid e lighting. 
+ 
+In 2014, Univ. of Minnesota spun off the bulk manufacture of a new type of magnet using iron 
+nitride via Niron Manufacturing. We need to test whether its cl aim to be twice as strong at one-
+tenth of the cost is true in action as permanent magnets in a m aglev drive/guideway. This will 
+be a huge cost reduction for a  project that involves miles and miles of guideway. How do we 
+use this most effectively? Can i t be manufactured to match our needs? 
+ 
+One major cost and weakness of all transit systems is the use o f fixed destinations - aka 
+stations. The ability to board/deboard at any location along a route adds tremendous 
+functionality to SkyWay and if done well, saves time and money all around. It adds a level of 
+convenience, especially for people with mobility challenges, un matched by any other mode. 
+How? The power of the magnet. Without going into full detail - eddy currents. Each pod is 
+equipped with a robotic arm that can grab the pylon closest to your destination, releases from 
+the guideway and descends slowly  by eddy currents down the pylo n to the surface. It returns to 
+service much the same way. Person al, door-to-door, on-demand, 2 4/7/365, all-weather rapid 
+transit. Lenz's Law. Induction. 
+  
+In our effort to keep costs low, the plan is to apply 4’ x 100’  sheets of Perovskite solar on the 
+upper surface of the guideway. Not only will this power the mag lev drives but it will provide for 
+lighting and communications inside and out of the pods. As Pero vskite increases in efficiency, 
+SkyWay can carry more and more o f the system load as well as su pplying a local DC power grid  
+- much like community solar. 
+ 
+Engineers will appreciate our ‘snap-together’ construction meth od. Set the pylons in the 
+ground guided by a civil engine er every 25’, 50’ or 100’. Set h angers on tops of pairs of pylons. 
+Attach the connector units to the hangers. Attach the guideway to the connector at each end – 
+Voila! Although we had planned a crew of five, by confirming an d marking the ROW and spots 
+for the pylons in advance, we make more efficient use of time. And time is money.  
+ 
+                                                 
+1 UMO and URI - joint study awaiting white paper.  
+2 UMO and ATI - common need, potential partnership. 
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+Dr. Thornton suggested using many  small vehicles rather than tr ain-sized passenger cars. I took 
+that one step further and will fully implement swarm theory - m uch the way drones were 
+displayed at the 2022 Olympics. Only pods with passengers will be in service - no more empty 
+buses. 
+The work of the pilot deployment  primarily includes working wit h businesses and towns to pick 
+a preferred route. From that, th e legal and civil engineering t eams will go about getting access 
+to the public ROW and marking ou t the specific placements of py lons (helical piles) and 
+installing them. From there it i s a matter of hanging the guide way beams and connectors and 
+plugging in the electrical and Internet connections. Solar pane ls will be added after all testing 
+has passed scrutiny. This will ta ke place over 2-3 years in tot al. Note the simplicity of our snap-
+together construction methods. No digging. No heavy equipment. A five-person team can 
+deploy a mile per week. The more  teams, the farther we go. This  is also a prime reason our 
+costs are so low.  SPECIAL NOTE: 
+SkyWay by MicroRail has been sugge sted as a transportation mode  for planetary deployment 
+due to its light weight and ease o f deployment. MicroRail plans  to pursue this idea to maximize 
+consideration by NASA . 
+  
+
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+ 
+Benefit-Cost Analysis (BCA) 
+Baselines 
+• The BCA should measure costs and benefits of a proposed project  against a baseline “no 
+build” alternative. We want to co mpare the state of the world w ith and without the 
+proposed project improvement. 
+ 
+Safety Benefits 
+1. No accidents  - vehicles operate autonomously on fixed elevated guideway; co ntrol 
+software prevents collisions; hum an factor eliminated; zero fat alities. Sensors prevent 
+collision. Vehicles never come in  contact with surface vehicles  and obstacles. 
+2. No worry about distracted driving ; passenger can check email s and social media while 
+riding to/from work; saves lives ; reduces accidents and deaths.  
+3. No concern about dozing  off while driving; saves lives; reduces accidents and deaths. 
+4. Passenger can relax and avoid stress  and arrive at destination fresh and alert; may 
+reduce domestic violence. 
+5. Drunk drivers  no longer a road hazard; saves lives; reduces accidents and de aths; ePod 
+can be instructed to take drunk p atron to specific home address  or hospital or police 
+station. 
+6. Risk of surface vehicle crash  damaging vehicle or support pylon same as for telephone 
+poles. Repair  of pylon is a quick snap-together module. 
+7. Rides well above  bike/pedestrian lanes; may save  lives, reduce accidents and de aths.  
+8. ePods are not shared ; no unsavory strangers; passenger feels safe  and secure; no fear 
+of being attacked/robbed means m ore likely to use service in fu ture. 
+9. Riders with aging  issues (dementia) unlikely to get  lost or have accidents; can be tracked 
+electronically .  
+10. Works in all weather, 24/7/365,  except high winds; eliminates accidents due to rain, 
+snow, sleet, ice, and flood.  
+11. No more road kill ; no dodging squirrels, cats and dogs; no collisions with deer,  moose, 
+cows, etc.  
+12. Should be zero work zone  accidents due to snap-together design. 
+13. Rapid evacuation w/extreme capacity in emergencies. 
+14. No need to chase background checks for drivers. 
+15. In lieu of CPR and other training , SkyWay provides rapid trans.  to hospital. 
+16. NASCAR-like “Safer Barrier” plac ed on pylons at sites of freque nt accidents.            
+ 
+Travel Time Savings 
+1. Faster  than ground transport. Maglev tr avels at zero to 150 mph. Can be voice 
+controlled . 
+2. ePods travel above congestion ; no delays ; no idling  at intersections and rail crossings ; 
+don't have to pull off road for fire/police/ambulance ( safer for 1st responders ); 
+3. ePods will adjust speed  to make up time (if late for wo rk or appointment); also a safe ty 
+benefit  
+4. No wasted time looking for parking .  
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+5. No time wasted fooling with GPS nor getting lost.  
+6. Non-stop feature provides fastest route  to destination self-selected. 
+7. Door-to-door service eliminates time wasted  walking to/from bus stop and waiting,; 
+8. Solar self-charging eliminates stops  for refueling gasoline, battery, other. 
+ 
+ Operating Cost Savings 
+1. Near-zero maintenance: 
+a. Near-zero wear from minimal friction 
+b. No moving parts to repair/replace 
+2. Existing transportation systems can remain in place (without disrupting  traffic) 
+throughout general adoption and implementation of MicroRail tra nsit services 
+3. Costs of gasoline  replaced by costs of electricit y; ePods est. use is equiv. to 3 x 100w 
+lightbulbs 
+4. Low Operational labor  costs - due to autonomous ope ration. Control room. EPod 
+detailing. Limited repairs expecte d for guideways, ePods, solar  and electronics. 
+5. Simplistic design reduces weight  and stress on vehicles; reduc es costs of ePods ($2k to 
+$5k) 
+6. Eliminates shortage of drivers. 
+ Emissions Reduction Benefits  
+1. Zero or near-zero carbon emissions ; Miles of solar  generation; uses proprietary internal 
+transmission lines and micro-grids  (community solar). 
+2. Frictionless operation eliminates particulate  matter in environment. 
+3. Pylons raise system well above floods or sea level rise  for 200+years. 
+4. No idling exhaust  fumes.  
+5. Produces no greenhouse gases.  
+ Community Benefits  
+1. No more dealing with potholes. 
+2. ePods ride well above bikes and pedestrians and likely reduce n umbers of surface 
+vehicles making streets safer  for bike-pedestrian corridors.  
+3. ePods carry bikes, bikers and hikers to more remote  destinations. 
+4. Footpaths  have usually formed under guideways so people can stay out of the weather .  
+5. Compatible intermodal  connections with all other modes of transit.  
+6. Potential to service rubbish-removal , leaf pickup, etc. 
+7. Eliminates fret over storm-related, construction-related parking bans.    
+8. Future expansion to replace USPS , UPS, FedeX, and others. 
+9. MicroRail infrastructure can be used for Holiday  decorations and lighting. 
+10. MicroRail infrastructure can be used as community bulletin boards  for posting flyers, 
+banners, posters, announcem ents and more.                                                         
+                                       
+Health Benefits 
+1. Priority  transport to health care facili ty or office upon voice request . 
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+2. First-responders  priority to fire or accident by dispatch. 
+3. Planning is underway for design of specialty ambulance  ePods for quick responses. 
+ Modal Diversion 
+1. People will always default to that mode of transit that is most convenient and least 
+expensive . MicroRail is all of that. It i s expected to attract more car- owning riders and 
+transfers from other modes. 
+2. The barrier to college graduation : transportation (source - VIA ) 
+"A lack of reliable, affordable transportation has made it more  challenging for college 
+students  — particularly low-income students and students of color — to finish school." 
+ 
+Other Benefits and Issues 
+1. System runs silently  and smoothly  
+2. Projected zero impact on wildlife  above or below due to enclosed and elevated design. 
+3. Priority transport to health care  facility or office upon voice  request. 
+4. First-responders priority  to fire or accident by dispatch. 
+5. Planning is underway for design of specialty ambulance  ePods for quick responses. 
+6. Compatible intermodal connections with all other modes of transit. 
+7. Footpaths have usually formed under guideways so people can sta y out of the weather. 
+8. Impact on property values  uncertain although system e xpands commuter range for 
+housing and jobs 
+9. Average annual cost of vehicle ownership (AAA). 
+10. Installation process is non-disruptive due to snap-together met hodology 
+11. Will not require expansion of electrical distribution  systems 
+12. Integrated payment  systems 
+13. System will provide real-time traffic data /statistics 
+14. “IEA (International Energy Agenc y) says that with the current l evel of innovation, an 
+electric car requires six times m ore mineral inputs than a conv entional car” 
+15. MicroRail is U.S. sourced and manufactured  (no rare earth meta ls are used at all). 
+16. Perfect statistics on regional transportation usage. 
+17. No more school “snow” days. 
+18. MicroRail runs full-time on Holidays, weekends, 24/7/365 
+19. Special pod deployments for big  events to move parking and cong estion away from 
+events.                .                                                   
+ Hikers & Cyclists, Walkers & Talkers  
+1. Accident-free 
+2. Carbon-free 
+3. Fare-free 
+4. Stationless 
+5. Timeless 24/7/365 
+6. Safe 
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+7. Carries bikers and hikers to remo te areas to begin their advent ures without having to 
+use a surface based gas-powered vehicle 
+8. For people who want to hit the sk i slopes without long drives t o the mountains 
+9. Is that bike trail you always wanted to try just a bit too far away? Not anymore. 
+10. Fast 
+11. Dependable 
+12. If someone gets hurt, MicroRail will be 1st on scene and fast t o the hospital 
+13. Tell Alexa what you need and we'll take it from there  
+Capital Costs - Grant Funded 
+• 5.1. Capital Expenditures 
+1. Land Acquisition 
+2. Row Acquisition 
+3. Planning And Design 
+4. Environmental Reviews 
+5. Legal 
+6. Utility Relocation 
+7. Construction 
+ Labor 
+ Material 
+ Equipment Rentals 
+8. Financing Costs 
+9. Installation Labor And Materials  
+ Grant Sources 
+1. USDOT -  New Starts  – "Major new fixed guideway pro jects, or extension to existing  
+systems financed with New Start s funds, typically receive these  funds through a full 
+funding grant agreement that defines the scope of the project a nd specifies the total 
+multi-year federal commitm ent to the project." 
+https://www.transit.dot.gov/funding/grants/major-capital-invest ments-new-starts-
+small-starts-5309b1  
+2. USDOT - RAISE 
+3. USDOT - CRISI 
+4. USDOT - REGAIN 
+5. USDOT - ( RCP) Reconnecting Communities Pilot Discretionary 
+6. CDS - Congressionally Designated  
+7. USDOE -VTO; Vehicle 
+8. USDOE -SETO; Solar  
+9. USDOE - NETL -Grid Resilience and Innovation Partnerships (GRIP )  
+10. NSF - Mobility (M0) 
+11. NSF - Computer and Information Sc ience and Engineering (CISE) 
+12. Maine -solar and other rebates 
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+13. Maine -FAME - Grow Maine 
+14. FREIGHT subject to weight testing of guideway. 
+ 
+Operating Costs - Self Funded 
+• Maintenance - frictionless; no moving parts = negligible mainte nance costs 
+• Maintenance Labor - cleaning Pods 
+• Labor - autonomous operation = r educed operational labor costs 
+• Electricity - usage in e xcess of self-generation 
+• Software & Hardware (custo mizations and enhancements) 
+ 
+ 
+Revenue Sources  (est. for Maine)  
+1. Ridership assumed to be zero 
+2. Sale of statistics and travel patterns databases  
+3. School bus alternate transportation (Portland= 1.1 million boar dings per year) 
+4. Marketing - $200-500 per pod @20  pods per mile for assumed 12 m ile corridor  
+  
+5. Solar generation c 
+ 
+6. Subscriptions - includes personal pylon 
+7. Carbon Exchange  (RGGI; TCI; Cap & Trade) 
+8. Value Capture  from new economic development opportunities and municipal serv ices. 
+9. Utilities  - fiber; broadband; Renewable energy (DC) ; telephone; Wi-Fi 
+10. Corporate contracts; VPN’s 
+11. Municipal Lighting  (motion-sensing programmable LCDs ) - standard lighting is fre e; custom 
+lighting available for fee 
+12. USM ridership contract (186,000 riders/year) and other campus-t o-campus connections.  
+13. Community Solar; DC grid  management  
+14. FREIGHT - small package delivery ; home food deliver (meals on wheels) 
+ 
+A. Broadband  is the transmission of wide ba ndwidth data over a high-speed i nternet connection. So what is broadband? 
+According to the FCC, the definit ion of broadband internet is a  minimum of 25 Mbps download and 3 Mbps upload speeds. 
+Broadband connections can be wired or wireless . miles pods/mile rev/podmonthly
+revenue
+12 20 200 $       48,000     
+12 20 300 $       72,000     
+12 20 400 $       96,000     
+12 20 500 $       120,000   
+miles W L sq.ft./miletotal
+sq.ft. Acres LOW HIGH effiiencymonthly
+revenue
+1 4 5280 21120 21120 0.4848485 10,303      20,606      23%
+12 4 5280 21120 253440 5.8181818 123,636    247,273    23% 247,273    
+MicroRail & Southern Mai ne Research Institute 
+Kenneth A. Capron, ret. CPA, MCSE 
+1375 Forest Avenue D-11, Portland, Maine 04103 
+Phone: 207-797-7891     kcapron1@maine.rr.com; maglev@maine.rr. com 
+B. Wi-Fi  is wireless connectivity that uses radio waves to provide an i nternet connection. Broadband is open connectivity in 
+which a high-speed internet co nnection is always available 
+C. https://ecotality.com/can-you-ma ke-money-with-solar-panels/ 
+ 
+Added Value  –  
+• Value of elimination of municipal transit subsidies. 
+• Value of street lighting 
+• Reduction of street usage and maintenance 
+• Safety on streets 
+• Reduced roadkill 
+• Privacy for riders  
+Additional Areas of Exploration 
+1. Energy Storage – PolyJoule/MIT Battery 
+2. Energy Storage – Super Capacitors 
+3. District Heating - capture excess solar and electrical heat und erground 
+4. 3D Printing of components  
+5. Angular Levitation 
+6. Regenerative braking 
+7. Graphene and Silk Reinforced Polymer 
+8. Halbach Arrays 
+9. Inductive Charging - Wireless Power Transfer 
+10. Fare Systems? 
+11. SynRM 
+12. Micro-heat-pumps 
+13. Maximum Speed 
+14. EV Charging Stations 
+15. Autonomous Trash Collection  
+ 
+Full Production  plans are to make our own components  
+1. Pultrusion Factory 
+2. Composites Factory 
+3. Pod (automotive) Factory(ies) 
+4. Stainless steel forming 
+ 
+Kenneth Capron
+Portland
+LD 1411
+The SkyWay by MicroRail would address nearly all of the net 54% GHG contribution
+from the Transportation sector while providing even greater benefits overall. Not only
+does SkyWay have a zero-carbon drive system, it also does not produce atmospheric 
+particulate.
+SkyWay is by far the cleanest, most equitable, most affordable solution to the 
+challenges in the transportation sector. It provides positive impacts to the education 
+sector, the econdev sector, the tourism domain, the social services domain and 
+essentially all other concerns about getting from here to there wherever one may be.
+The Transportation Department and the Transportation Committee needs to be forced 
+to adopt SkyWay as a solution if it intends to meet its goals for 2030 and 2050.

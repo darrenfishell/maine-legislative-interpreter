@@ -1,0 +1,209 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+1 
+2 Date: (J) / 5 / ;J 017 
+3 HEALTH AND HUMAN SERVICES L.D. 1485 
+(Filing No. s-aOS") 
+4 Reproduced and distributed under the direction of the Secretary of the Senate. 
+5 STATE OF MAINE 
+6 SENATE 
+7 128TH LEGISLATURE 
+8 FIRST REGULAR SESSION 
+9 COMMITTEE AMENDMENT "A" to S.P. 515, L.D. 1485, Bill, "An Act 
+10 Regarding MaineCare Coverage for Telehealth Services" 
+11 Amend the bill by striking out eve1ything after the enacting clause and before the 
+12 summary and inserting the following: 
+13 'Sec. 1. 5 MRSA §12004-1, sub-§38-A is enacted to read: 
+14 38-A. 
+15 
+16 
+17 Human Services Maine Telehealth and Not Authorized 
+Telemonitoring 
+Advismy Group 
+18 Sec. 2. 22 MRSA §3173-H is enacted to read: 
+19 §3173-H. Services delivered through telehealth 22 MRSA §3173-I 
+20 1. Definitions. As used in this section, unless the context otherwise indicates, the 
+21 following terms have the following meanings. 
+22 A. "Asynchronous encounters" means the interaction between a patient and a health 
+23 professional through a system with the ability to store digital infonnation, including, 
+24 but not limited to, still images, video, audio and text files, and other relevant data in 
+25 one location and subsequently transmit such information for interpretation at a remote 
+26 site by health professionals without requiring the simultaneous presence of the patient 
+27 or the patient's provider. 
+28 B. "Store and forward transfers" means transmission of a patient's recorded health 
+29 histmy through a secure electronic system to a provider. 
+30 C. "Synchronous encounters" means a real-time interaction conducted with 
+31 interactive audio or video connection between a patient and the patient's provider or 
+32 between providers. 
+Page 1 -128LR2196(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A" to S.P. 515, L.D. 1485 
+1 D. "Telehealth," as it pertains to the delivery of health care services, means the use 
+2 of interactive real-time visual and audio or other electronic media for the purpose of 
+3 consultation and education concerning and diagnosis, treatment, care management 
+4 and self-management of a patient's physical and mental health and includes real-time 
+5 interaction between the patient and the telehealth provider, synchronous encounters, 
+6 asynchronous encounters, store and forward transfers and remote patient monitoring. 
+7 "Telehealth" includes telephonic services when interactive telehealth services are 
+8 unavailable or when a telephonic service is medically appropriate for the underlying 
+9 covered service. 
+10 E. "Telemonitoring," as it pe1iains to the delive1y of health care services, means the 
+11 use of information technology to remotely monitor a patient's health status via 
+12 electronic means through the use of clinical data while the patient remains in a 
+13 residential setting, allowing the provider to track the patient's health data over time. 
+14 Telemonitoring may or may not take place in real time. 
+15 2. Grants. The department may solicit, apply for and receive grants that support the 
+16 development of the technology infrastructure necessary to suppoti the delivery of health 
+17 care services through telehealth and that suppoti access to equipment, technical suppoti 
+18 and education related to telehealth for health care providers. 
+19 3. Annual repoi1. Beginning January 1, 2018 and annually thereafter, the 
+20 depatiment shall report to the joint standing committee of the Legislature having 
+21 jurisdiction over health and human services matters on the use of telehealth in the 
+22 MaineCare program, including the number oftelehealth and telemonitoring providers, the 
+23 number of patients served by telehealth and telemonitoring services and a summmy of 
+24 grants applied for and received related to telehealth and telemonitoring. 
+25 4. Education. The department shall conduct educational outreach to providers and 
+26 MaineCare members on telehealth and telemonitoring services. 
+27 5. Rules. The department shall adopt routine technical rules as defined by Title 5, 
+28 chapter 375, subchapter 2-A to cany out the provisions of this section. Rules adopted by 
+29 the depmiment: 
+30 A. May not include any requirement that a patient have a certain number of 
+31 emergency room visits or hospitalizations related to the patient's diagnosis in the 
+32 criteria for a patient's eligibility for telemonitoring services; 
+33 B. Must include qualifying criteria for a patient's eligibility for telemonitoring 
+34 services that include documentation in a patient's medical record that the patient is at 
+35 risk of hospitalization or admission to an emergency room; 
+36 C. Must provide that group therapy for behavioral health or addiction services 
+37 covered by the MaineCare program may be delivered through telehealth; and 
+38 D. Must include requirements for individual providers and the facility or 
+39 organization in which the provider works for providing telehealth and telemonitoring 
+40 services. 
+41 Sec. 3. 22 MRSA §3173-1 is enacted to read: 
+Page 2 -128LR2196(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A "to S.P. 515, L.D. 1485 
+§3173-1. Maine Telehealth and Telemonitoring Advisory Group 
+2 The Maine Telehealth and Telemonitoring Advis01y Group, as established by Title 5, 
+3 section 12004-I, subsection 38-A and refen-ed to in this section as "the advis01y group," is 
+4 created within the department. 
+5 1. Membership. The advisory group consists of the commissioner or the 
+6 commissioner's designee and 9 other members appointed by the commissioner as follows: 
+7 A. A representative of an organization in this State that has a mission to increase 
+8 access to telehealth services in rural areas; 
+9 B. A representative from a home health agency in this State; 
+10 C. A representative from a nonprofit advocacy organization that represents hospitals 
+11 in this State; 
+12 D. A representative from each of 2 separate health care providers of integrated 
+13 medical services in this State; 
+14 E. A representative from a behavioral health organization in this State; 
+15 F. A representative from an entity in this State with experience in the field of 
+16 pharmacy;and 
+17 G. Two medical practitioners in this State who use telehealth or telemonitoring as 
+18 part of their regular practice. 
+19 2. Meetings. The adviso1y group shall hold at least one regular meeting and no 
+20 more than 4 meetings each year. 
+21 3. Duties. The advis01y group shall: 
+22 A. Evaluate technical difficulties related to telehealth and telemonitoring services; 
+23 and 
+24 B. Make recommendations to the depaiiment to improve telehealth and 
+25 te1emonitoring services statewide. 
+26 For the purposes of this section, "telehealth" and "telemonitoring" have the same 
+27 meaning as in section 3173-H, subsection 1, paragraphs D and E. 
+28 Sec. 4. Appropriations and allocations. The following appropriations and 
+29 allocations are made. 
+30 HEALTH AND HUMAN SERVICES, DEPARTMENT OF (FORMERLY DHS) 
+31 Medical Care -Payments to Providers 0147 
+32 Initiative: Provides appropriations and allocations for additional telehealth per-visit site 
+33 facility fees and per-month telemonitoring fees. 
+34 
+35 
+36 GENERAL FUND 
+All Other 
+Page 3 -128LR2196(02)-1 2017-18 
+$2,869 
+COMMITTEE AMENDMENT 2018-19 
+$5,739 
+2 
+3 
+4 
+5 
+6 COMMITTEE AMENDMENT "A" to S.P. 515, L.D. 1485 
+GENERAL FUND TOTAL 
+FEDERAL EXPENDITURES FUND 
+All Other 
+FEDERAL EXPENDITURES FUND TOTAL 
+7 SUMMARY $2,869 
+2017-18 
+$5,178 
+$5,178 $5,739 
+2018-19 
+$10,355 
+$10,355 
+8 This amendment establishes an advisory group within the Depatiment of Health and 
+9 Human Services to study telehealth and telemonitoring. It changes the guidance for 
+10 rulemaking by the department. It changes the date of the required annual repoti from the 
+11 depatiment to the Legislature. It also adds an appropriations and allocations section. 
+12 FISCAL NOTE REQUIRED 
+13 (See attached) 
+Page 4 -128LR2196(02)-1 
+COMMITTEE AMENDMENT 
+Approved: 05/25/17 feac 
+128th MAINE LEGISLATURE 
+LD 1485 LR 2196(02) 
+An Act Regarding MaineCare Coverage for Telehealth Services 
+Fiscal Note for Bill as Amended by Committee Amendment ''A,' (,S -;)..oi;j 
+Committee: Health and Human Services 
+Net Cost (Savings) 
+General Fund 
+Appropriations/ Allocations 
+General Fund 
+Federal Expenditures Fund 
+Revenue 
+Federal Expenditures Fund 
+Fiscal Detail and Notes Fiscal Note Required: Yes 
+Fiscal Note 
+FY 2017-18 
+$2,869 
+$2,869 
+$5,178 
+$5,178 FY 2018-19 
+$5,739 
+$5,739 
+$10,355 
+$10,355 Projections 
+FY 2019-20 
+$5,739 
+$5,739 
+$10,355 
+$10,355 Projections 
+FY 2020-21 
+$5,739 
+$5,739 
+$10,355 
+$10,355 
+The bill includes General Fund appropriations to the Depaiiment of Health and Human Services of $2,869 in fiscal 
+year 2017-18 and $5, 739 in fiscal year 2018-19 for additional telehealth per-visit site facility fees and per-month 
+telemonitoring fees incurred by expanded eligiblity. Federal Expenditures Fund allocations will also be required for 
+the FMAP match. 
+LR2196(02) -Fiscal Note -Page 1 of I 

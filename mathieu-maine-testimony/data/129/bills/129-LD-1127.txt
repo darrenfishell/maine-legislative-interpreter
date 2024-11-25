@@ -1,0 +1,117 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1127
+S.P. 347 In Senate,  March  7, 2019
+An Act  To Expand Community-based Solar Energy  in Maine
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator SANBORN,  H. of  Cumberland.
+Cosponsored by Senators:  FARRIN of Somerset, LAWRENCE of York, WOODSOME of 
+York, Representatives: RILEY of Jay, STROM  of Pittsfield.
+
+Page 1 - 129LR1621(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3210-C, sub-§3-A is enacted to read:
+33-A.  Long-term contracts for community-based solar resources.  The 
+4commission shall direct investor-owned transmission and distribution utilities to enter 
+5into long-term contracts for community-based solar resources located within the service 
+6territories of the utilities in accordance with this subsection.  For the purposes of this 
+7subsection, "community-based solar resource" means a new renewable capacity resource 
+8located within the State that relies on solar photovoltaic arrays to generate electricity and 
+9is community-based, as defined by the commission by rule.
+10A.  The commission shall direct investor-owned transmission and distribution utilities 
+11to procure up to 100 megawatts from community-based solar resources through long-
+12term contracts.  The commission shall ensure that at least 20% of resources procured 
+13under this subsection are procured through long-term contracts with community-
+14based solar resources with a nameplate capacity of less than 2 megawatts.
+15B.  The commission shall, by rule, establish provisions to protect the interests of 
+16customers of investor-owned transmission and distribution utilities over the term of 
+17the contracts entered into pursuant to this subsection.
+18C.  A community-based solar resource is eligible for long-term contracting under this 
+19subsection if the community-based solar resource and its owners meet at least the 
+20following requirements:
+21(1)  The resource has a nameplate capacity of no more than 10 megawatts;
+22(2)  The resource has an in-service date of no earlier than June 30, 2020 and no 
+23later than December 31, 2021;
+24(3)  Ownership of the resource is at least 75% accounted for by qualified owners.  
+25For the purposes of this subparagraph, "qualified owner" means a resident of the 
+26State or a business, corporation or other entity that is at least 75% owned by 
+27residents of the State; and
+28(4)  The owners of the resource provide documentation to the commission that:
+29(a)  Demonstrates completion of an interconnection agreement application 
+30with the local transmission and distribution utility;
+31(b)  Includes a plan to obtain all required federal, state and local permits and 
+32approvals for the resource; 
+33(c)  Demonstrates financial capability to operate the resource over the term of 
+34the contract;
+35(d)  Includes a letter or resolution of support from the local community in 
+36which the resource is located; and
+37(e)  Outlines expected economic benefits from the long-term contract to the 
+38local community in which the resource is located.
+Page 2 - 129LR1621(01)-11D.  Long-term contracts under this subsection must be for a term of at least 20 years.  
+2The contract rate must be less than 9 cents per kilowatt-hour, and the rate must be 
+3fixed for a period of at least 20 years.  Contracts may be for energy or capacity.  The 
+4contracts may also include renewable energy credits, or the owners of the 
+5community-based solar resource may retain the renewable energy credits associated 
+6with the resource, as determined by the owners.
+7E.  Available energy contracted for pursuant to this subsection must be sold into the 
+8wholesale electricity market in conjunction with solicitations for standard-offer 
+9supply bids in a manner that ensures that the energy is incorporated into the standard 
+10offer.
+11The commission shall adopt rules to implement this subsection. Rules adopted pursuant 
+12to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 
+132-A.
+14SUMMARY
+15This bill requires the Public Utilities Commission to direct investor-owned 
+16transmission and distribution utilities to enter into long-term contracts with community-
+17based solar photovoltaic energy generating facilities.  The total amount of resources 
+18procured through these long-term contracts may not exceed 100 megawatts, and 20% of 
+19resources procured must come from generators with a capacity of less than 2 megawatts.  
+20The bill requires the commission to establish provisions to protect the interests of utility 
+21customers over the term of the contracts.
+22The bill sets forth eligibility requirements for community-based solar resources to 
+23enter into long-term contracts.  To be eligible, a resource must have a capacity of no more 
+24than 10 megawatts, have an in-service date between June 30, 2020 and December 31, 
+252021 and meet local ownership requirements. In addition, to be eligible, the owners of the 
+26resource must:
+271.   Demonstrate to the Public Utilities Commission completion of an interconnection 
+28agreement application with the local transmission and distribution utility;
+292.  Include a plan to obtain all required federal, state and local permits and approvals;
+303.  Demonstrate financial capability to operate the resource over the term of the 
+31contract;
+324.  Include a letter or resolution of support from the local community in which the 
+33resource is located; and 
+345.  Outline expected economic benefits from the long-term contract to the local 
+35community in which the resource is located.
+36The bill establishes a minimum contract length of 20 years and requires the contract 
+37rate to be less than 9 cents per kilowatt-hour and fixed for a period of at least 20 years.  
+38Contracts may be for energy or capacity.  The contracts may also include renewable 
+39energy credits, or the owners of the resource may retain the renewable energy credits 
+Page 3 - 129LR1621(01)-11associated with the resource, as determined by the owners.  Finally, the bill specifies that 
+2available energy contracted for under the provisions of this bill must be sold into the 
+3wholesale electricity market in conjunction with solicitations for standard-offer supply 
+4bids.

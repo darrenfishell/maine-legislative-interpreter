@@ -1,0 +1,49 @@
+TESTIMONY OF 
+JOHN SAGASER, TAX POLICY COUNSEL 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES 
+Before the Joint Standing Committee on Taxation 
+Hearing Date: April 26, 2023, at 9:30 A.M. 
+L.D. 1504 — “An Act to Exempt Broadband Equipment from the Sales and Use Tax” 
+Senator Grohoski, Representative Perry, and members of the Taxation 
+Committee — good morning, my name is John Sagaser, Tax Policy Counsel in the 
+Office of Tax policy at Maine Revenue Services. I am here today at the request of 
+the Administration to testify Neither For Nor Against L.D. 1504, “An Act to 
+Exempt Broadband Equipment from the Sales and Use Tax.” 
+My comments are directed to recommended clariﬁcation of certain language 
+in the bill, and to points the Committee should consider with respect to the 
+intended scope of the bill. This bill would exempt certain sales of machinery and 
+equipment used to provide broadband communications service. In evaluating this 
+proposed exemption, the Committee should keep in mind that sales taxes are 
+usually but not always a tax imposed on retail sales at the end-consumer level. 
+Sales taxes are at their most efficient when imposed at the retail end-sale toa 
+consumer, rather than on business-to-business intermediate transactions. 
+I would also like to note for the Committee aspects of the bill that relate to 
+use tax and the Service Provider Tax (“SPT”). First, the language of this bill is 
+ambiguous as to whether it would grant the exemption only for sales of qualifying 
+machinery and equipment to “broadband communications service providers, ” or 
+instead more broadly to any person who purchases machinery and equipment that 
+is used to provide broadband communications services. Contractors, for example,
+1
+often purchase such equipment as tangible personal property and then install the 
+equipment into realty; under current law they must pay the sales tax (or impute use 
+tax) on these items intended for installation. 
+Next, the Committee should note that many items that fall under this bill’s 
+deﬁnition of “machinery and equipment used to provide broadband 
+communications service” would also be considered “telecommunications 
+equipment ” deﬁned under the Service Provider Tax law. A 6% Service Provider 
+Tax (“SPT”) is imposed on the provider of installation, maintenance or repair 
+services of telecommunications equipment. As L.D. 1504 does not affect the SPT, 
+even if the sale of broadband equipment becomes exempt from sales tax, its 
+installation may still be taxable under the SPT. 
+In addition, the language in lines 4-5 should be simpliﬁed since the 
+deﬁnition section provides sufﬁcient limitation on qualifying machinery and 
+equipment. The deﬁnition of qualifying “machinery and equipment ” should also 
+be narrowed; the phrase “other infrastructure that is used in whole or in part to 
+provide broadband communications service” is very broad and could arguably 
+include any networkable device, software, or equipment. The term “affiliate ” on 
+line 10 should be deﬁned, as the existing deﬁnition in § l752(6-F) applies to that 
+subsection only. 
+The Administration looks forward to working with the Committee on the 
+bill; representatives from MRS will be here for the Work Session to provide 
+additional information and respond in detail to the Committee ’s questions.
+2

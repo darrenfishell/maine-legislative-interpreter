@@ -1,0 +1,519 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1363
+S.P. 450 In Senate, April 7, 2021
+An Act  To Amend the Laws Governing Elections
+Submitted by the Secretary of State pursuant to Joint Rule 204
+Received by the Secretary of the Senate on April 5, 2021.   Referred to the Committee on 
+Veterans and Legal Affairs  pursuant to Joint Rule 308.2  and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator LUCHINI of Hancock.
+Cosponsored by Representative CAIAZZO of Scarborough.
+
+Page 1 - 130LR0439(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §1, sub-§27-C, as amended by PL 2019, c. 320, §1 and c. 539, 
+3 §§1 and 2 and affected by §6, is repealed and the following enacted in its place:
+427-C.  Elections determined by ranked-choice voting.  "Elections determined by 
+5 ranked-choice voting" means any of the following elections in which 3 or more candidates 
+6 have qualified to be listed on the ballot for a particular office or at least 2 such candidates 
+7 plus one or more declared write‑in candidates have qualified for that particular office:
+8 A.  Primary elections for the offices of United States Senator, United States 
+9 Representative to Congress, Governor, State Senator and State Representative;
+10 B.  General and special elections for the offices of United States Senator and United 
+11 States Representative to Congress;
+12 D.  General elections for presidential electors; and
+13 E.  Primary elections for the office of President of the United States.
+14Sec. 2.  21-A MRSA §153-A, sub-§3, as amended by PL 2005, c. 568, §6, is further 
+15 amended to read:
+163.  Signing petitions.  Once an alternative registration signature statement is on file 
+17 with the registrar, the voter may authorize any other Maine-registered voter to sign 
+18 candidate petitions, direct initiative of legislation petitions, people's veto petitions and any 
+19 Maine Clean Election Act forms requiring a voter's signature in the presence and at the 
+20 direction of the voter, except that the individual assisting the voter may not be a candidate, 
+21 the circulator of the petition or form, the voter's employer or an agent of that employer or 
+22 an officer or agent of the voter's union.  In addition to using the voter's signature stamp or 
+23 signing for the voter, the individual assisting the voter must print and sign the individual's 
+24 own name and residence address on the petition or form and attest that the individual is 
+25 signing on the voter's behalf.  This method of signing satisfies the requirements in this Title 
+26 that voters personally sign candidate petitions.  This method of signing also satisfies the 
+27 requirements of the Constitution of Maine, Article IV, Part Third, Section 20 that petitions 
+28 for the direct initiative of legislation and people's veto petitions contain the original 
+29 signatures of the petitioners.
+30Sec. 3.  21-A MRSA §232, sub-§1, as enacted by PL 2019, c. 409, §6 and affected 
+31 by §9, is amended to read:
+321.  Application for driver's license or nondriver identification card; creation of 
+33pending voter registration record.  If an individual applies for, renews or updates a 
+34 driver's license or nondriver identification card from the bureau, unless the individual opts 
+35 out under section 234, the bureau shall scan record the documentation provided by the 
+36 individual and create a pending voter registration record for that individual, which must be 
+37 stored electronically in the bureau's database.  The pending voter registration record and 
+38 the record of the accompanying scanned documentation must be in a searchable, auditable 
+39 format.
+40Sec. 4.  21-A MRSA §301, sub-§1, ¶E, as amended by PL 2017, c. 254, §1, is 
+41 further amended to read:
+Page 2 - 130LR0439(01)1 E.  At The party's candidate for Governor or for President received at least 5% of the 
+2 total vote cast in the State for Governor or for President in the last preceding 
+3 gubernatorial or presidential election or at least 10,000 voters were enrolled in the party 
+4 voted in as of the last general election, except that a qualified party does not have to 
+5 meet this enrollment until the 2nd general election after it has qualified and thereafter.
+6Sec. 5.  21-A MRSA §335, sub-§5, as amended by PL 2019, c. 445, §1, is further 
+7 amended to read:
+85.  Number of signatures required.  Petitions must be signed by the following 
+9 numbers of voters:
+10 A.  For a candidate for Governor, at least 2,000 and not more than 3,000 2,500 voters;
+11 B.  For a candidate for United States Senator, at least 2,000 and not more than 3,000 
+12 2,500 voters;
+13 B-3.  For a candidate for the office of President of the United States, at least 2,000 and 
+14 not more than 3,000 2,500 voters .;
+15 C.  For a candidate for Representative to Congress, at least 1,000 and not more than 
+16 1,500 1,250 voters;
+17 D.  For a candidate for county office other than county commissioner, at least 150 and 
+18 not more than 200 voters;
+19 E.  For a candidate for county commissioner, at least 50 and not more than 75 voters;
+20 F.  For a candidate for State Senator, at least 100 and not more than 150 voters; and
+21 G.  For a candidate for State Representative, at least 25 and not more than 40 voters.
+22Sec. 6.  21-A MRSA §340, as enacted by PL 1987, c. 423, §3, is amended to read:
+23§340.  Notice of parties of qualified primary voters
+241.  Notice to Secretary of State.  No later than February 1st of the election year, each 
+25 political party eligible to participate in a primary election shall notify the Secretary of State 
+26 of the enrollment qualifications, subject to the restrictions in section 144, for voters of 
+27 whether unenrolled voters will be eligible to vote in that party's primary.  If no notice is 
+28 received by that date, only voters enrolled in a political party may vote in that party's 
+29 primary.
+302.  Notice to municipal clerks.  The Secretary of State shall inform all municipal clerks 
+31 of the qualifications necessary for voters to participate in each party's primary.  The clerks 
+32 Secretary of State shall establish procedures to ensure that all qualified primary voters are 
+33 offered ballots for each party in which primary election the voters are qualified to vote.  A 
+34 voter may vote in the primary election of only one qualified party.
+35Sec. 7.  21-A MRSA §354, sub-§5, as amended by PL 1991, c. 362, §§2 and 3, is 
+36 further amended to read:
+375.  Number of signatures required.  Nomination petitions must be signed by the 
+38 following numbers of voters:
+39 A.  For a slate of candidates for the office of presidential elector, at least 4,000 and not 
+40 more than 6,000 5,000 voters;
+Page 3 - 130LR0439(01)1 B.  For a candidate for Governor, at least 4,000 and not more than 6,000 5,000 voters;
+2 C.  For a candidate for United States Senator, at least 4,000 and not more than 6,000 
+3 5,000 voters;
+4 D.  For a candidate for United States Representative, at least 2,000 and not more than 
+5 3,000 2,500 voters;
+6 E.  For a candidate for county office other than county commissioner or county charter 
+7 commission member, at least 300 and not more than 400 voters;
+8 E-1.  For a candidate for county commissioner, at least 100 and not more than 150 
+9 voters;
+10 F.  For a candidate for State Senator, at least 200 and not more than 300 voters;
+11 G.  For a candidate for State Representative, at least 50 and not more than 80 voters; 
+12 and
+13 H.  For a candidate for county charter commission member, at least 50 and not more 
+14 than 80 voters.
+15Sec. 8.  21-A MRSA §441, as enacted by PL 2019, c. 445, §4, is amended to read:
+16§441.  Determination and date of primary; voter eligibility
+171.  Determination of primary.  No later than November October 1st of the year prior 
+18 to a presidential election year, the state committee of each party shall certify whether there 
+19 is a contest among candidates for nomination as the presidential candidate.  Upon receiving 
+20 the certification from one or more parties, the Secretary of State shall announce the parties 
+21 that will have a presidential primary election, which must be held on the first Tuesday after 
+22 the first Monday in March of the presidential election year.
+232.  Eligible voter.  No later than December October 1st of the year prior to a 
+24 presidential election year, the state committee of each party shall notify the Secretary of 
+25 State of the enrollment qualifications, subject to the restrictions in section 144, for voters 
+26 eligible of whether unenrolled voters will be eligible to vote in that party's presidential 
+27 primary election.  If no notice is received by that date, only voters enrolled in a political 
+28 party may vote in that party's presidential primary election.  A voter may vote in the primary 
+29 election of only one qualified party.
+30Sec. 9.  21-A MRSA §442, as enacted by PL 2019, c. 445, §4, is amended to read:
+31§442.  Petitions
+32 On or before November October 1st of the year prior to a presidential election year, the 
+33 Secretary of State shall prepare and make available petitions for circulation by a person 
+34 desiring to be a candidate in the state presidential primary election of any party.  Petitions 
+35 must be delivered to the registrar, or clerk at the request or upon the absence of the registrar, 
+36 for certification by 5 p.m. on November 20th of the year prior to a presidential election 
+37 year.  This petition Petitions must be completed and filed with the Secretary of State no 
+38 later than 5:00 5 p.m. on December 21st 1st of the year prior to a presidential election year 
+39 in the manner provided in sections 335 and 336.
+40Sec. 10.  21-A MRSA §503-A, sub-§1, as enacted by PL 2019, c. 64, §2, is 
+41 amended to read:
+Page 4 - 130LR0439(01)11.  Qualifications; compensation.  Election clerks must be at least 18 years of age, 
+2 must be registered to vote and must be residents of the municipality or the county in which 
+3 they serve, except that residents of a municipality or county who are 17 16 years of age and 
+4 who are conditionally registered to vote pursuant to section 155 also qualify to serve as 
+5 election clerks.  Election clerks are entitled to reasonable compensation as determined by 
+6 the municipal officers.
+7Sec. 11.  21-A MRSA §601, sub-§3, as amended by PL 2007, c. 455, §19, is further 
+8 amended to read:
+93.  Order of offices.  The order of offices on the ballot is as follows:  President, United 
+10 States Senator, Governor, Representative to Congress, State Senator and Representative to 
+11 the Legislature, and the county offices in the following order: judge of probate, register of 
+12 probate, county treasurer, register of deeds, sheriff, district attorney and county 
+13 commissioner, except that the order may be modified to allow ranked-choice contests to be 
+14 printed on the opposite side of the ballot, separate from contests other than ranked-choice 
+15 contests.
+16Sec. 12.  21-A MRSA §723-A, sub-§5-B, as enacted by PL 2019, c. 539, §3 and 
+17 affected by §6, is amended to read:
+185-B.  Presidential primary elections; selection of delegates.  Notwithstanding any 
+19 provision of this section to the contrary, for presidential primary elections, batch 
+20 elimination may not be used for any candidates with more than 100 votes, tabulation must 
+21 continue until only 2 continuing candidates remain, separate tabulations must be conducted 
+22 statewide and for each congressional district and selection and allocation of delegates to a 
+23 party's national presidential nominating convention must be in accordance with any 
+24 reasonable procedures established at the state party convention.
+25Sec. 13.  21-A MRSA §752-B is enacted to read:
+26§752-B.  Exterior absentee ballot drop boxes or drop slots
+27 A municipality may obtain and deploy an absentee ballot drop box or drop slot for use 
+28 by voters of that municipality to return their voted ballots without requiring contact with 
+29 an election official.  A municipality may obtain and deploy additional absentee ballot drop 
+30 boxes at other locations within the municipality, subject to the approval of the Secretary of 
+31 State.  The clerk must submit a certification to the Secretary of State at least 90 days before 
+32 the election that the additional absentee ballot drop boxes will meet the requirements of 
+33 this section, other than the requirements for location outside the municipal office building. 
+34 Delivery to an absentee ballot drop box or drop slot pursuant to this section constitutes 
+35 delivery to the clerk as provided in section 754-A.  An absentee ballot drop box or drop 
+36 slot must comply with guidelines issued by the Secretary of State to ensure accessibility to 
+37 individuals with disabilities and must meet the following requirements.
+381.  Security; location.  An absentee ballot drop box or drop slot must be located outside 
+39 the municipal office building or the building where in-person absentee voting is taking 
+40 place before an election, if separate from the municipal office building.  The absentee ballot 
+41 drop box or drop slot must be secured so that it cannot be moved or removed by any 
+42 unauthorized person.  If the absentee ballot drop box or drop slot is positioned against an 
+43 outside wall of the building, it must be bolted or otherwise securely fastened to the building 
+44 wall or to the deck or landing.  If the absentee ballot drop box is located away from the 
+Page 5 - 130LR0439(01)45 municipal building, it must be set onto a post that is sunk into the ground or set into a 
+46 concrete pad or bolted or otherwise securely affixed to a platform or other structure. When 
+47 in use for an election, the absentee ballot drop box or drop slot must be monitored 
+48 periodically by law enforcement personnel, municipal staff or a surveillance camera.  A 
+49 drop slot must be attached to a secure collection box.
+62.  Secure method for ballot deposit.  An absentee ballot drop box must provide a 
+7 slot or chute that the voter can use to deposit an absentee ballot envelope into a collection 
+8 box.  This slot or chute must be designed so that it prevents anyone from reaching in and 
+9 accessing absentee ballot envelopes deposited into the box and so that the deposited ballots 
+10 are protected from the elements.  The slot or chute also must have a mechanism to close 
+11 and lock the absentee ballot drop box so that no ballots can be deposited once it is closed 
+12 and locked.  The absentee ballot drop box may not consist simply of a slot in an outside 
+13 doorway to the municipal building or allow the envelopes to fall to the floor and remain 
+14 unsecured.  A slot or drop slot must feed directly into a secure, locked collection box, so 
+15 that the deposited absentee ballot envelopes remain secured until the municipal clerk or 
+16 designee removes the envelopes and secures them in the clerk’s office.
+173.  Clear label.  An absentee ballot drop box or drop slot must be labeled, or a sign 
+18 must be posted on or near the absentee ballot drop box or drop slot, to indicate that it is an 
+19 official absentee ballot drop box or drop slot.  Unless an absentee ballot drop box is affixed 
+20 to the outside wall of the municipal office building, it must display the name of the 
+21 municipality.  An absentee ballot drop box may have an additional sign instructing voters 
+22 about absentee voting requirements, including warnings against use by voters of other 
+23 municipalities.
+244.  Use and access during absentee voting period.  During the period when absentee 
+25 voting is taking place before an election, the absentee ballot drop box or drop slot must be 
+26 used only for collection of absentee ballot envelopes and not for other municipal office 
+27 filings or payments.  The contents of an absentee ballot drop box or drop slot collection 
+28 box must be accessible only to the municipal clerk or designees.  No other municipal staff 
+29 may have keys or access to the drop box or drop slot collection box contents during the 
+30 absentee voting period.  If items other than absentee ballot envelopes are deposited into an 
+31 absentee ballot drop box, the municipal clerk or designee is responsible for delivering those 
+32 items to the appropriate municipal official.
+335.  Periodic retrieval of ballots.  An absentee ballot drop box must have a locking 
+34 access door or cover that allows the municipal clerk or designee to open and retrieve the 
+35 absentee ballot envelopes.  During the absentee voting period, the municipal clerk or a team 
+36 of 2 people designated by the clerk must periodically remove absentee ballot envelopes 
+37 from an absentee ballot drop box and deliver the envelopes to the municipal clerk's office 
+38 to be secured until they can be processed.  At a minimum, absentee ballot envelopes must 
+39 be retrieved on each day that the municipal clerk's staff is working in the office.  Absentee 
+40 ballot envelopes may be retrieved on other days as necessary based on the level of absentee 
+41 voting to ensure that the absentee ballot drop box does not get so full that no other absentee 
+42 ballot envelopes can be deposited and so that deposited absentee ballot envelopes do not 
+43 become accessible to unauthorized persons.  The municipality must keep a log noting each 
+44 time an absentee ballot drop box is emptied and have each person emptying the absentee 
+45 ballot drop box initial or sign the log.  The log form must be designed by the Secretary of 
+46 State.  On election night, the clerk or team of designees shall arrive at the absentee ballot 1
+2
+3
+4
+5
+Page 6 - 130LR0439(01)47 drop box just before 8 p.m. and wait until 8 p.m. to remove the deposited absentee ballot 
+48 envelopes and lock the slot or chute so that no other voters can deposit absentee ballot 
+49 envelopes after the deadline for returning absentee ballot envelopes under section 755.
+4Sec. 14.  21-A MRSA §753-A, sub-§3, ¶D is enacted to read:
+5 D.  If the voter wishes to have an opportunity to cure any defect in the absentee ballot 
+6 that is submitted by the voter, in addition to the information required in paragraph A, 
+7 the following information must be provided:  
+8 (1)  The voter's telephone number, if applicable; and
+9 (2)  The voter's e-mail address, if applicable.
+10 The information, if provided by the voter, is confidential and may be used by the 
+11 municipal election officials only to contact the voter.
+12Sec. 15.  21-A MRSA §753-A, sub-§4, as amended by PL 2003, c. 447, §29, is 
+13 further amended to read:
+144.  Application by telephone.  A voter may make a telephone application for the voter's 
+15 own ballot.  In this case, the voter may not designate an immediate family member or a 3rd 
+16 person to deliver the ballot on the voter's behalf.  The clerk shall ask the voter for the 
+17 information required and complete the application, with the exception of the voter's 
+18 signature, and shall write "telephone request" on the application.  The clerk shall also obtain 
+19 the voter's birth date and write it on the application.  The clerk shall verify that it is the 
+20 voter who is requesting the ballot by confirming the voter's residence address and birth date 
+21 with the information in the voter's record.  A telephone application must be accepted by the 
+22 clerk if it contains the voter's name, the voter's date of birth, the voter's residence address 
+23 or other address sufficient to identify the voter and, if applicable, a different address to 
+24 which the applicant requests the ballot be sent or delivered  information required for a 
+25 request in writing under subsection 3, except that the signature of the voter is not required.
+26Sec. 16.  21-A MRSA §753-A, sub-§6, as amended by PL 2009, c. 563, §1, is 
+27 further amended to read:
+286.  Application by electronic means.  A municipal clerk shall accept absentee ballot 
+29 applications by the electronic means authorized by the Secretary of State.    The Secretary 
+30 of State shall design or approve the form of the absentee ballot application to be submitted 
+31 by electronic means.
+32 A voter may make an application for the voter's own ballot by electronic means using the 
+33 form designed or approved by the Secretary of State.  The voter may not designate an 
+34 immediate family member or a 3rd person to deliver the ballot on the voter's behalf.  The 
+35 clerk shall verify that it is the voter who is requesting the ballot by confirming the voter's 
+36 residence address and birth date with the information in the voter's record.  The clerk shall 
+37 print the electronically submitted application and write "electronic request" on the 
+38 application.  An application by electronic means must be accepted by the clerk if it contains 
+39 the information required for a request in writing under subsection 3, except that the 
+40 signature of the voter is not required.
+41Sec. 17.  21-A MRSA §753-B, sub-§1, as amended by PL 2011, c. 399, §22, is 
+42 further amended to read:1
+2
+3
+Page 7 - 130LR0439(01)11.  Application or written request received.  Upon receipt of an application or written 
+2 request for an absentee ballot that is accepted pursuant to section 753‑A, and after the 
+3 official ballots become available, the clerk shall immediately issue an absentee ballot and 
+4 return envelope by mail or in person to the applicant or to the immediate family member 
+5 or to a 3rd person designated in a written application or request made by the voter, except 
+6 as provided in subsection 2.  The clerk shall type or write in ink the name and the residence 
+7 address of the voter in the designated section of the return envelope.
+8Sec. 18.  21-A MRSA §753-B, sub-§2, ¶C, as enacted by PL 2011, c. 399, §23, is 
+9 amended to read:
+10 C.  To a 3rd person who already has been issued 5 absentee ballots for voters in the 
+11 municipality, until the 3rd person has returned one of those ballots; or
+12Sec. 19.  21-A MRSA §753-B, sub-§2, ¶D, as amended by PL 2011, c. 534, §18, 
+13 is further amended by amending subparagraph (4) to read:
+14 (4)  An incapacity or illness that has resulted in the voter's being unable to leave 
+15 home or a treatment facility. ; or
+16Sec. 20.  21-A MRSA §753-B, sub-§2, ¶E is enacted to read:
+17 E.  To any candidate, except for the candidate's own ballot.
+18Sec. 21.  21-A MRSA §753-B, sub-§8, as amended by PL 2011, c. 399, §24, is 
+19 further amended to read:
+208.  Absentee voting in presence of clerk.  A person who wishes to vote by absentee 
+21 ballot may, without completing an application, vote by absentee ballot in the presence of 
+22 the clerk, except as provided in subsection 2.  Before issuing a ballot, the clerk shall verify 
+23 that it is the voter who is requesting the ballot by confirming the voter's residence address 
+24 and year of birth with the information in the voter's record.  The method of voting is 
+25 otherwise as prescribed in this article.  After the person has voted, the clerk shall sign the 
+26 affidavit on the return envelope as a witness, indicate on the envelope that the voter voted 
+27 in the presence of a clerk and ensure that the affidavit on the return envelope is properly 
+28 completed by the voter.  For the 45 days preceding an election, during the hours when the 
+29 clerk's office is open and may be conducting absentee voting, the display or distribution of 
+30 any advertising material intended to influence a voter's decision regarding a candidate or 
+31 question on the ballot for that election is prohibited within the clerk's office and on public 
+32 property within 250 feet of the entrance to the building in which the clerk's office is located.
+33 This subsection does not apply to the display or distribution of any campaign advertising 
+34 material on private property that is within 250 feet of the entrance to the building in which 
+35 the clerk's office is located.  For purposes of this section, "private property" includes 
+36 privately owned property subject to a public right-of-way that is an easement right-of-way.
+37 This subsection does not apply to campaign advertising material on automobiles traveling 
+38 to and from the municipal office or parked on municipal property while the occupants are 
+39 visiting the municipal office to conduct municipal business.  It does not prohibit a person 
+40 who is at the municipal office for the purpose of conducting municipal business or for 
+41 absentee voting from wearing a campaign button when the longest dimension of the button 
+42 does not exceed 3 inches.
+Page 8 - 130LR0439(01)1Sec. 22.  21-A MRSA §756, sub-§2, as amended by PL 2009, c. 538, §9, is 
+2 repealed.
+3Sec. 23.  21-A MRSA §756, sub-§2-A is enacted to read:
+42-A.  Clerk to examine absentee ballot envelopes upon return.  The clerk shall 
+5 examine the absentee ballot envelope upon receipt from the voter and proceed as follows.
+6 A.  If no defects are detected, the clerk shall write "OK" and the clerk's initials on the 
+7 return envelope.
+8 B.  If the clerk detects a potential defect as described in section 756-A, the clerk shall 
+9 hold the envelope aside for up to 2 business days while attempting to notify the voter, 
+10 note the potential defect in the section of the envelope reserved for the clerk's notes 
+11 and follow the procedures for curing defects on absentee ballot envelopes pursuant to 
+12 section 756-A.
+13 (1)  If the defect is cured while the ballot is being held and the ballot is accepted 
+14 with or without a challenge, the clerk shall make a notation in the section of the 
+15 envelope reserved for the clerk's notes that the ballot is accepted, or accepted but 
+16 challenged, along with an explanation.
+17 (2)  If the potential defect is not cured while the ballot is being held by the clerk, 
+18 the clerk shall make a notation in the section of the envelope reserved for the clerk's 
+19 notes that the ballot is rejected and the reason why.  If the voter subsequently cures 
+20 the defect in accordance with section 756-A, the notation in the section of the 
+21 envelope reserved for the clerk's notes must be changed from rejected to accepted, 
+22 or to accepted but challenged, as applicable.
+23Sec. 24.  21-A MRSA §756-A is enacted to read:
+24§756-A.  Procedures for curing defects on absentee ballot envelopes
+251.  Notice to voters.  Within one business day of noting a defect on an absentee ballot 
+26 envelope pursuant to section 756, subsection 2-A, the clerk shall notify the voter of the 
+27 defect and that the ballot may be rejected or challenged unless the defect is cured.  If the 
+28 ballot is received on election day or less than 24 hours before election day, the clerk shall 
+29 make a good faith effort to notify the voter as quickly as possible. Notification must be 
+30 made by telephone, using the telephone number provided on the absentee ballot 
+31 application.  If the clerk does not speak directly with the voter by telephone, the clerk shall 
+32 leave a voice mail message if available and shall also notify the voter by e-mail, using the 
+33 e-mail address provided on the absentee ballot application.
+342.  Procedure for curing defects; mismatched voter signatures.  If the voter 
+35 signature on the envelope does not appear to have been written by the voter whose signature 
+36 appears on the absentee ballot application, the clerk shall:
+37 A.  Notify the voter of the issue by e-mail, asking the voter to call the clerk, or shall 
+38 call the voter and ask the voter to self-identify by name, date of birth and voting 
+39 residence as if the voter were making a telephone request for an absentee ballot 
+40 pursuant to section 753-A, subsection 4;
+41 B.  Verify that the voter requested a ballot, cast the ballot and placed the ballot in the 
+42 envelope or had the voter's assistant under section 754-A, subsection 5 do so; and
+Page 9 - 130LR0439(01)1 C.  Verify that the voter signed the envelope.  If the voter verifies that the voter signed 
+2 the envelope, the clerk shall accept the ballot without challenge and make a notation in 
+3 the section of the envelope reserved for the clerk's notes that the voter confirmed that 
+4 the voter personally signed the envelope. 
+5 If the clerk is unable to reach the voter before 8 p.m. on election day, the clerk shall accept 
+6 the ballot but challenge it in accordance with section 673, subsection 1.
+73.  Procedure for curing defects; missing voter signature.  If the defect is a missing 
+8 voter signature, the clerk shall notify the voter of the defect by telephone or e-mail and 
+9 inform the voter of the following options: 
+10 A.  The voter may come to the town office, and after the clerk verifies the voter's 
+11 identity, the clerk must allow the voter to sign the envelope or, at the voter's option, 
+12 open the envelope, inspect the ballot and sign a new envelope after the verified ballot 
+13 is sealed inside;
+14 B.  The voter may request a duplicate ballot; or
+15 C.  If the voter does not wish to choose an option under paragraph A or B, but the voter 
+16 self-identifies by name, date of birth and voting residence address over the telephone 
+17 with the clerk and acknowledges to the clerk that the voter requested a ballot, cast the 
+18 ballot and placed the ballot in the envelope or had an aide under section 754-A, 
+19 subsection 3 do so, the clerk shall accept the ballot but challenge it in accordance with 
+20 section 673, subsection 1.
+21 If the voter does not respond to the telephone call or e-mail or does not cure the defect by 
+22 8 p.m. on election day, the ballot must be rejected in accordance with section 759, 
+23 subsection 3.
+244.  Procedure for curing defects; aide or witness certificate incomplete.  If the aide 
+25 or witness certification under section 754-A, subsection 2 or 3 is unsigned, not completed 
+26 or completed incorrectly for a ballot with which the voter has been assisted or that has been 
+27 handled by a person other than the voter's immediate family member, the clerk shall notify 
+28 the voter of the defect by telephone or e-mail and inform the voter of the following options: 
+29 A.  The voter may ask the witness or aide to come to the town office to sign and 
+30 properly complete the affidavit, and if the aide or witness does so, the clerk shall accept 
+31 the ballot;
+32 B.  The voter may request a duplicate ballot; or
+33 C.  If the voter does not wish to choose an option under paragraph A or B, but self-
+34 identifies by name, date of birth and voting residence address over the telephone with 
+35 the clerk and describes how the voter received the ballot, who assisted the voter if 
+36 applicable and who delivered and returned the ballot if it was a person other than the 
+37 voter's immediate family member, the clerk shall accept the ballot but challenge it in 
+38 accordance with section 673, subsection 1.
+39 If the voter does not respond to the telephone call or e-mail or does not cure the defect by 
+40 8 p.m. on election day, the ballot must be rejected in accordance with section 759, 
+41 subsection 3.
+425.  Duplicate ballot issued.  In response to any of the circumstances listed in 
+43 subsections 2 to 4, if the clerk issues a duplicate ballot to the voter, the clerk shall enclose 
+Page 10 - 130LR0439(01)44 a note stating the reason for sending the ballot and remind the voter what the voter needs 
+45 to do to comply.  The clerk shall also write "second ballot issued" on the return envelope.
+3 A.  The clerk shall provide the duplicate ballot in the manner requested by the voter, 
+4 which may include issuance to the voter in person at the municipal office, by postal 
+5 mail to the address requested on the original absentee ballot application or by delivery 
+6 by an immediate family member or 3rd person as designated on the original application 
+7 or authorized in writing by the voter.
+8 B.  If the clerk is unable to reach the voter by telephone or e-mail to determine the 
+9 voter's preferred method of receiving a duplicate ballot, the clerk shall send a duplicate 
+10 ballot by postal mail to the voter's address or to the address listed on the original 
+11 absentee ballot request, if different.
+12 C.  The duplicate ballot must be received in the clerk's office by 8 p.m. on election day 
+13 in order to be counted.  If a duplicate ballot has been issued to a voter, only one 
+14 completed and returned ballot from that voter may be accepted and counted.
+15Sec. 25.  21-A MRSA §759, sub-§2, as amended by PL 2007, c. 455, §42, is further 
+16 amended to read:
+172.  Accepted if correct.  If the warden finds that the affidavit is properly completed, 
+18 that the clerk has verified that the signature on the envelope matches the signature on the 
+19 application where applicable, or confirmed that it is the voter's signature in accordance with 
+20 section 756-A, subsection 2, and that the person is registered and enrolled where necessary, 
+21 the warden shall then examine the incoming voting list to determine whether the voter 
+22 voted in person at the election.  The warden shall then announce the name of each absentee 
+23 voter who has not voted at the election and remove each ballot from its envelope without 
+24 destroying the envelope or unfolding the ballot.  After having an election clerk from a 
+25 political party different from that of the warden mark the letters "AV" beside the name of 
+26 each absentee voter on the incoming voting lists and place a check mark or horizontal line 
+27 in red ink on the list beside the voter's name, the warden shall accept the ballot.
+28Sec. 26.  21-A MRSA §759, sub-§3, as amended by PL 2009, c. 538, §10, is 
+29 repealed.
+30Sec. 27.  21-A MRSA §759, sub-§3-A is enacted to read:
+313-A.  Rejected if incorrect.  The warden may not open the envelope and shall write 
+32 "Rejected" on it, the reason why the ballot is rejected and the warden's initials if the warden 
+33 finds that:
+34 A.  The clerk’s notes on the envelope confirm that the absentee ballot defect was not 
+35 cured and the ballot cannot be accepted and challenged according to the procedures for 
+36 curing defects under section 756-A, subsection 2;
+37 B.  The voter has voted in person; or
+38 C.  The ballot was received by the clerk after the deadline.
+39SUMMARY
+40 This bill makes the following changes to the election laws.1
+2
+40
+Page 11 - 130LR0439(01)1 1.  It repeals and replaces the definition of "elections determined by ranked-choice 
+2 voting" in order to remove a conflict in the law.
+3 2.  It provides that a voter with an alternative registration signature statement on file 
+4 with the municipal registrar may authorize any other Maine-registered voter to sign a 
+5 citizen's initiative or people's veto petition for the voter.
+6 3.  It replaces the requirement that the Department of the Secretary of State, Bureau of 
+7 Motor Vehicles scan documentation that will be used to create a pending voter registration 
+8 record for an individual who has not opted out of automatic voter registration and who 
+9 applies for a driver's license or nondriver identification card with a requirement that the 
+10 bureau record the individual's documentation for pending voter registration record purposes 
+11 and clarifies that this pending voter registration process also applies to renewals and 
+12 updates of driver's licenses and nondriver identification cards.
+13 4.  It changes the requirements for a political party to retain its qualification to provide 
+14 that a party retains its qualification if the party's candidate for Governor or President 
+15 received at least 5% of the total vote in the preceding gubernatorial or presidential election 
+16 or at least 10,000 voters were enrolled in the party as of the last general election.
+17 5.  It changes the maximum number of signatures a party or nonparty candidate for 
+18 certain offices must file in order to gain ballot access.
+19 6.  It provides that a qualified party must notify the Secretary of State by February 1st 
+20 of the election year whether unenrolled voters will be eligible to vote in the party's primary.  
+21 It also clarifies that a voter may vote in the primary election of only one qualified party.
+22 7.  It changes the date by which a qualified party must notify the Secretary of State of 
+23 whether there is a contest for nomination as the party's presidential candidate.  It changes 
+24 the date by which a party must notify the Secretary of State of whether unenrolled voters 
+25 will be eligible to vote in the party's presidential primary.  The bill also changes the date 
+26 by which the Secretary of State must make petitions available for the presidential primary 
+27 and sets November 20th as the deadline to file petitions with the municipal registrar and 
+28 December 1st as the deadline to file with the Secretary of State.
+29 8.  It provides that a person who is 16 years of age and who is conditionally registered 
+30 to vote is qualified to serve as an election clerk.
+31 9.  It provides that the order of offices on the ballot may be modified to allow a ranked-
+32 choice contest to be printed on a separate side of the ballot from contests other than ranked-
+33 choice.
+34 10.  It clarifies the process for conducting the ranked-choice tabulation for presidential 
+35 primary elections.
+36 11.  It provides requirements for an absentee ballot drop box.
+37 12.  It provides that a voter wishing to cure a defect in the voter's absentee ballot must 
+38 provide the voter's telephone number and e-mail address.  The bill also specifies that this 
+39 information, if provided, is confidential and may be used only by municipal election 
+40 officials.
+41 13.  It clarifies that the signature of a voter is not required for an absentee ballot 
+42 application by telephone or electronic means.
+Page 12 - 130LR0439(01)1 14.  It clarifies that the clerk, upon receipt of an accepted application, must immediately 
+2 issue an absentee ballot and return envelope as soon as official ballots become available.
+3 15.  It adds a restriction on issuing an absentee ballot to a candidate unless it is the 
+4 candidate's own ballot.  
+5 16.  It provides that the clerk must verify it is the voter requesting an absentee ballot 
+6 when a voter requests to vote an absentee ballot in the clerk's presence by confirming the 
+7 voter's residence address and year of birth.
+8 17.  It clarifies the process that the clerk must follow to examine absentee ballot 
+9 envelopes returned from voters.
+10 18.  It provides a procedure for the clerk to follow to assist voters in curing defects in 
+11 their absentee ballot envelopes that would otherwise cause the ballot to be challenged or 
+12 rejected. 

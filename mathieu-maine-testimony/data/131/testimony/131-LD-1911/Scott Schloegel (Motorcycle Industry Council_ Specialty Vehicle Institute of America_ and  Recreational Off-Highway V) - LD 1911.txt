@@ -1,0 +1,133 @@
+ 
+ 
+1235 South Clark Street, Suite 600, Arlington, VA 22202   PH: (703) 416 -0444   FAX: (703) 416 -2269      
+ 
+ 
+May 15, 2023
+The Honorable Chip Curry  
+Chair, Jt. IDEA  Committee  
+3 State House Station  
+Augusta, ME 04333 -0003  
+ 
+ 
+ The Honorable Tiffany Roberts  
+Chair, Jt. IDEA Committee  
+2 State House Station  
+Augusta, ME 04333 -0002  
+ 
+ 
+RE: Exclude  Motorcycles and Off-Highway Vehicles  from LD 1911  
+ 
+Dear Chair Curry and Chair Roberts :  
+ 
+The Motorcycle Industry Council (MIC)1, the Specialty Vehicle Institute of America (SVIA)2, and 
+the Recreational Off -Highway Vehicle Association (ROHVA)3 represent several hundred 
+companies in the powersports industry.  We urge that you follow the lead of Massachusetts and 
+New York by amending  LD 1911  to specifically exclude motorcycles  and off -highway vehicles  
+from the scope of the provisions . In the absence of an amendment our organizations oppose the 
+bill. 
+ 
+Our member companies have several pr oblems and concerns with LD 1911 : 
+1. Not all m otorcycles , ATVs or ROVs  have the prescribed SAE  or ISO  interfaces.   
+2. Franch ised dealers, which are Maine  small businesses, will be economically harmed 
+by your legislation .  
+3. Non-factory trained technicians working on motorcycle s is a serious safety concern as 
+is the litigation risk of untrained individuals performing work on such vehicles.  
+4. Without a specific exclusion, motorcycles and off -highway vehicles may no longer be 
+sold in Maine . 
+ 
+Not all m otorcycles , ATVs or ROVs  have the prescribed  SAE or ISO interfaces. These interfaces 
+were developed for the United S tates EPA emission standards mandate for cars and trucks 
+equipped with on -board diagnostic (OBD) systems. On-highway m otorcycles are not subject to 
+EPA  requirements for on-board diagnostic system s. The SAE J1962 (connector standard) 
+mandated by J2534 for “ diagnostic connector” specifically applies to passenger cars, light and 
+medium duty trucks, and heavy trucks. This standard does not apply to motorcycles  and 
+compliance would require major engineering changes for motorcycles, both software and 
+                                                      
+1 The Motorcycle Industry Council (MIC) is a not -for-profit, national trade association representing several hundred 
+manufacturers, distributors, dealers and retailers of motorcycles, scooters, motorcycle parts, accessories and related 
+goods, and allied tra des. 
+2 The Specialty Vehicle Institute of America (SVIA) is the national not -for-profit trade association representing 
+manufacturers, dealers, and distributors of all -terrain vehicles (ATVs) in the United States.  SVIA’s primary goal is 
+to promote safe and  responsible use of ATVs.  
+3 The Recreational Off -Highway Vehicle Association (ROHVA) is a national, not -for-profit trade association formed 
+to promote the safe and responsible use of recreational off -highway vehicles (ROVs – sometimes referred to as side -
+by-sides or UTVs) manufactured or distributed in North America.  ROHVA is also accredited by the American 
+National Standards Institute (ANSI) to serve as the Standards Developing Organization for ROVs .  More information 
+on the standard can be found at https://rohva.org/ansi -standard/ . 
+
+ hardware , and would take several years to implement (unlike autos which already have the 
+connectors) . Off-highway motorcycles, ATVs and ROVs are not required to have the prescribed 
+adaptors.  
+ 
+LD 1911  would harm economically Maine  small business franchised dealers.  Dealers have 
+invested heavily in training, special tooling, and equipment to service vehicles.  Franchised dealers 
+sign a dealer agreement giving them  access to service information, technical expertise, and special 
+tools required to diagnose and repair ori ginal equipment products. This investment is substantial 
+in terms of a monetary commitment. If tools and technical information are provided to customer s 
+and unauthorized independent repair shops, the franchised dealer’s investment is compromised.  
+ 
+In addi tion to lost service revenue, if motorcycle manufacturers are unable to com ply with the 
+mandates of LD 1911 , motorcycles would not be able to  be offered for sale in Maine . This would 
+cause franchised dealers to lose all new motorcycle sales and income a nd force Maine  residents to 
+purchase new motorcycles in neighboring states  – further harming the Maine  economy . In 2022, 
+the value of the powersports retail marketplace in Maine was $351  million with an estimated 
+10,500  new powersports  retail sales in the sta te.4 
+ 
+We have serious safety concerns relating to the inherent danger of allowing non -factory trained 
+technicians, untrained mechanics, and owners to perform certain work on motorcycles and off-
+highway vehicles  if they are captured under right to repair legislation. Manipulating  of powersports  
+emissions or safety controls, whether intentionally or unintentionally, could lead to  clean air 
+violations,  product failure , and possibly  cause injury  or death . Manufactur ers require dealers to 
+attend two technical training programs per year to instruct them on how to use the website and 
+specialty tools and receive highly technical training. This training and knowledge is extensive and 
+vital to ensure the correct repair of the product line.  
+ 
+Litigation risk is a nother concern associated with allowing non -factory trained technicians to 
+perform certain work on motorcycles and off-highway vehicles . Environmental or safety override 
+attempts could result  in clean air violations, destruction of property , injury, or death, and 
+manufacturers are likely to be swept up in lawsuits, regardless of who may be liable for such 
+damage and injuries.  
+ 
+Massachusetts enacted similar right to repair legislation and recognize d the need for an exclusion 
+for motorcycles.5  As a result, motorcycles and off -highway vehicles such as dirt bikes, all -terrain 
+vehicles, and recreat ional off -highway vehicles are not subject to the right to repair provisions in 
+the Massachusetts right to  repair law or the automobile Memorandum of Understanding . New 
+York also recently passed Right to Repair legislation which specifically excluded motorcycles, 
+ATVs and off -highway vehicles . We urge Maine  to follow the lead of Massachusetts and New 
+York by exclud ing motorcycles and off -highway vehicles from the provisions of LD 1911  as 
+follows:  
+                                                      
+4 2022 Motorcycle Industry Council “Economic Impact of the Powersports Industry”  
+5 The definition of motor vehicle in digital right to repair legislation appears to be drawn from  state legislation that 
+deals specifically with motor vehicle “right to repair” (originating in Massachusetts as part of their motor vehicle right 
+to repair law which has been used as a model for other states and for a national Memorandum of Understanding) . 
+Motorcycles were ultimately excluded from the Massachusetts right to repair law (and automobile MOU) because 
+they are different than automobiles in terms of the diagnostic connector standard mandated by motor vehicle right to 
+repair laws. Motorcycles can not comply with provisions typically included in motor vehicle right to repair legislation. 
+Therefore, Massachusetts legislators specifically excluded motorcycles from the definition of motor vehicle for 
+purposes of the right to repair law.  Off -highway ve hicles are also excluded from the Massachusetts law because it 
+applies only to on -highway motor vehicles.  
+ 
+  
+1. “Automobile ” has the  same  meaning as in section 101, subsection 7, but does not 
+include:  
+A. A motor vehicle with a gross vehicle weight over 14,000 pounds; or 
+B. A recreational vehicle or a motor vehicle originally designed or permanently 
+altered and equipped for human habitation that is not used to transport 
+property other than that property used for human habitation or camping 
+purposes ; or  
+C. A motorcycle, motoriz ed bicycle, all -terrain vehicle, and off -highway 
+recreational vehicle.  
+ 
+Thank you for your consideration of our comments. Should you have any questions, please contact 
+me at 703 -416-0444 ext. 3202.  
+ 
+Sincerely,  
+ 
+Scott P. Schloegel  
+Senior Vice President, Government Relations  
+ 
+cc: Jt. Innovation, Development, Economic Advancement, and Business Committee Members  
+ 
+

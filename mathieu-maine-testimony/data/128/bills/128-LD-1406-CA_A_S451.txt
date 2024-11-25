@@ -1,0 +1,478 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+c~ 
+~ . 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 Date: 'f/ftJ/:ZO!'t 0 ci.\Ofi-tJ. 
+JUDICIARY L.D. 1406 
+(Filing No. s-45" /) 
+Reproduced and distributed under the direction of the Secretary of the Senate. 
+STATE OF MAINE 
+SENATE 
+128TH LEGISLATURE 
+SECOND REGULAR SESSION 
+COMMITTEE AMENDMENT "ff" to S.P. 484, L.D. 1406, Bill, "An Act To 
+Promote Prescription Drug Price Transparency" 
+Amend the bill by striking out everything after the enacting clause and before the 
+summary and inserting the following: 
+'Sec. 1. 22 MRSA §8702, sub-§5-C is enacted to read: 
+5-C. Manufacturer. "Manufacturer" means a manufacturer of prescription drugs. 
+Sec. 2. 22 MRSA §8702, sub-§12 is enacted to read: 
+12. Wholesale acquisition cost. "Wholesale acquisition cost" means the list price of 
+a manufacturer to a wholesaler or direct purchaser in the United States, not including 
+prompt pay or other discounts, rebates or reductions in price, as reported in wholesale 
+price guides or other publications of pharmaceutical pricing data or as estimated by the 
+organization using the all-payer claims data and the ingredient cost and list price and 
+dispensing fee information that is submitted to the organization. 
+Sec. 3. 22 MRSA §8703, sub-§1, as amended by PL 2003, c. 469, Pt. C, §22, is 
+further amended to read: 
+1. Objective. The purposes of the organization are to create and maintain a useful, 
+objective, reliable and comprehensive health information database that is used to improve 
+the health of Maine citizens and to issue reports, as provided in section 8712. This 
+database must be publicly accessible while protecting patient confidentiality and 
+respecting providers of care. The organization shall collect, process, analyze and report 
+clinical, fmancial, quality and .. restructuring and prescription drug price data as defined in 
+this chapter. 
+Sec. 4. 22 MRSA §8704, sub-§1, ,fA, as amended by PL 2003, c. 469, Pt. C, 
+§23, is further amended to read: 
+A. The board shall develop and implement policies and procedures for the collection, 
+processing, storage and analysis of clinical, fmancial, quality and .. restructuring and 
+Page 1 -128LR0994(02)-1 
+COMMITTEE AMENDMENT 
+'~-,(o (}. 1 ~·· 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 COMMITTEE AMENDMENT "A" to S.P. 484, L.D. 1406 
+prescription drug price data in accordance with this subsection for the following 
+purposes: 
+(1) To use, build and improve upon and coordinate existing data sources and 
+measurement efforts through the integration of data systems and standardization 
+of concepts; 
+(2) To coordinate the development of a linked public and private sector 
+information system; 
+(3) To emphasize data that is useful, relevant and not duplicative of existing 
+data; 
+( 4) To minimize the burden on those providing data; and 
+(5) To preserve the reliability, accuracy and integrity of collected data while 
+ensuring that the data is available in the public domain. 
+Sec. 5. 22 MRSA §8710-A is enacted to read: 
+§8710-A. Prescription drug price transparency 
+1. Annual identification; list. The organization shall annually identify and compile 
+a list of the following prescription drugs, including brand name and generic drugs: 
+A. The 25 most frequently prescribed drugs in the State; 
+B. The 25 costliest drugs as determined by the total amount spent on those drugs in 
+the State; and 
+C. The 25 drugs with the highest year-over-year cost increases as determined by the 
+total amount spent on those drugs in the State. 
+The list must also include along with each identified prescription drug the corresponding 
+wholesale acquisition cost and the percentage of wholesale acquisition cost increase, if 
+applicable. The organization shall make the list and cost information compiled pursuant 
+to this section available to the public and post it on the publicly accessible website of the 
+organization. 
+2. Required information. Beginning July 1, 2019 and annually thereafter. the 
+organization shall require the manufacturer of each of the drugs listed in subsection 1 to 
+provide to the organization, in such form and format and on a schedule determined by the 
+organization, information to explain prescription drug prices. including but not limited to 
+the following: 
+A. Total cost of production and total cost per dose of the drug; 
+B. Research and development costs of the drug. including those costs paid with 
+public funds. those costs reported as after-tax costs and those costs paid by 3rd 
+parties; 
+C. Marketing and advertising costs of the drug. including those costs directed to 
+consumers. those costs directed to prescribers and the total of those costs directed to 
+consumers and prescribers in the State; 
+Page 2 -128LR0994(02)-1 
+COMMITTEE AMENDMENT 
+,"-~~-~ 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 COMMITTEE AMENDMENT 'A "to S.P. 484, L.D. 1406 
+D. The retail prices of the drug charged to purchasers outside the United States in 
+countries that are members of the Organisation of Economic Co-operation and 
+Development or successor organization; and 
+E. The retail prices of the drug typically charged to purchasers in the State, including 
+but not limited to pharmacies. pharmacy wholesalers and other direct purchasers. 
+A manufacturer of a brand-name drug or a generic drug directed to provide information 
+under this section shall provide the information within 60 days after the information is 
+requested by the organization and shall certify as accurate the information provided. The 
+organization may request that a manufacturer provide additional information related to 
+the information required in this subsection. 
+3. Additional information. A manufacturer of each of the drugs listed in subsection 
+1 may voluntarily provide any other information the manufacturer determines relevant to 
+the increase in wholesale acquisition cost. including but not limited to a description of all 
+manufacturer-sponsored assistance programs for a drug identified in subsection 1 in the 
+previous year, including the terms of the programs, the total amount of financial 
+assistance provided to residents of the State and the average amount of assistance per 
+resident of the State for whom assistance was provided. Information provided by 
+manufacturers pursuant to this subsection is not confidential and may be released in a 
+manner that identifies both the individual drug to which the information pertains as well 
+as the manufacturer. 
+4. Reports to Legislature. Beginning December 1. 2018 and annually thereafter. 
+the organization shall submit a written report to the Legislature that includes the list of 
+prescription drugs compiled pursuant to subsection 1 and their wholesale acquisition cost 
+and cost increases. if any. The organization may include in the report recommendations 
+for improving the transparency of prescription drug pricing. Beginning December 1. 
+2019. the report must include a summary of the information provided by manufacturers 
+pursuant to this section. The organization shall post the report on the publicly accessible 
+website of the organization. 
+5. Confidentiality; exceptions. Information provided by manufacturers pursuant to 
+subsection 2, unless already publicly accessible or available or previously released in the 
+public domain, must, at the request of the manufacturer, be held as confidential and not 
+subject to public inspection and copying under the Freedom of Access Act. The 
+organization may release information that was previously accessible or available or 
+released in the public domain. The organization may release other information provided 
+pursuant to subsection 2 except for information that is a trade secret as defmed in Title 
+10, section 1542, subsection 4. The organization shall treat information submitted by 
+manufacturers as Level II data in accordance with 90-590 CMR. Chapter 120, Release of 
+Data to the Public. 
+6. Penalties for noncompliance. When a manufacturer violates the requirements of 
+this section. the board may impose a fme of not more than $10,000 per day after the 
+deadline for reporting required information. If the manufacturer fails to pay a fine, or if 
+an injunction is necessary. the board may refer the matter to the Attorney General. The 
+Attorney General may bring an action in Superior Court for injunctive relief, enforcement 
+of fines, costs, attorney's fees and any other appropriate remedy. 
+Page 3 -128LR0994(02)-1 
+COMMITTEE AMENDMENT 
+5' ~,,. l " i, 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 39 
+40 COMMITTEE AMENDMENT "A" to S.P. 484, L.D. 1406 
+7. Legal ability to change prices. Nothing in this section may be construed to 
+restrict the legal ability of a manufacturer to change prices to the extent permitted under 
+federal law. 
+Sec. 6. Further data collection by Maine Health Data Organization. The 
+Maine Health Data Organization shall develop a plan to collect data from manufacturers 
+related to the cost and pricing of prescription drugs in order to provide transparency in 
+and accountability for prescription drug pricing as required in the Maine Revised 
+Statutes, Title 22, section 8710-A, subsection 2. The organization shall consult with 
+other state and national agencies and organizations to determine how to institute the data 
+collection. The organization shall submit the plan, its findings and any recommendations 
+for suggested legislation to the First Regular Session of the 129th Legislature no later 
+than April 1, 2019. The joint standing committee of the Legislature having jurisdiction 
+over judiciary matters may report out legislation related to prescription drug price 
+transparency and the organization's findings and recommendations to the First or Second 
+Regular Session of the 129th Legislature. 
+Sec. 7. Appropriations and allocations. The following appropriations and 
+allocations are made. 
+HEALTH DATA ORGANIZATION, MAINE 
+Maine Health Data Organization 0848 
+Initiative: Provides a one-time allocation to the Maine Health Data Organization to 
+collect and present certain data to the Legislature and to develop a plan for further data 
+collection. 
+OTHER SPECIAL REVENUE FUNDS 
+All Other 
+OTHER SPECIAL REVENUE FUNDS TOTAL 
+SUMMARY 2017-18 
+$0 
+$0 2018-19 
+$100,000 
+$100,000 
+This amendment is the majority report of the Joint Standing Committee on Judiciary. 
+The amendment replaces the bill and amends the statutes governing the Maine Health 
+Data Organization to address the collection and reporting of information about 
+prescription drug prices. 
+This amendment directs the Maine Health Data Organization, referred to as the 
+"organization," to collect and report information with regard to the 25 prescription drugs 
+that are the most frequently prescribed in the State, the 25 costliest as determined by the 
+total amount spent on those drugs in the State and the 25 drugs that have the highest year­
+over-year cost increases in total spending in the State. The organization is required to 
+post online a list of the identified prescription drugs, along with the corresponding 
+wholesale acquisition cost and the percentage of wholesale acquisition cost increase, if 
+applicable, for each identified prescription drug. 
+Page 4 -128LR0994(02)-1 
+COMMITTEE AMENDMENT 
+~-C\~-
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 COMMITTEE AMENDMENT "A "to S.P. 484, L.D. 1406 
+This amendment directs the organization to develop a plan to collect data from 
+manufacturers that will help explain how prescription drug prices are established. The 
+organization is required to work with other state and national agencies and organizations 
+to determine how to conduct the data collection. The organization is required to submit 
+the plan as well as any recommendations for legislation to the joint standing committee of 
+the Legislature having jurisdiction over judiciary matters by April 1, 2019. That 
+committee may report out legislation to the First or Second Regular Session of the 129th 
+Legislature. 
+Using the plan developed and reported to the Legislature, starting in 2019, the 
+organization must require the manufacturer of each drug on the list to disclose drug 
+production, research and development costs, marketing and advertising costs and actual 
+costs paid by purchasers. The manufacturer must certify the accuracy of the information 
+and provide it within 60 days after the information is requested by the organization. The 
+organization is authorized to request additional information related to the required 
+information. 
+The information that the manufacturers are directed to provide to the organization, 
+unless the information is already publicly accessible or available or previously released in 
+the public domain, must be held confidential at the request of the manufacturer. The 
+organization may release information that was previously accessible or available or 
+released in the public domain. The organization may release additional information as 
+long as the information released is not a trade secret. The organization must treat the 
+information as "Level II" information as required by rules that have already been adopted 
+by the organization. 
+This amendment provides that the manufacturer may voluntarily provide any other 
+information the manufacturer determines relevant to the increase in wholesale acquisition 
+cost, including but not limited to information about all manufacturer-sponsored assistance 
+programs for that drug in the previous year, including the terms of the programs, the total 
+amount of fmancial assistance provided to residents of the State and the average amount 
+of assistance per resident of the State for whom assistance was provided. This 
+information is not considered confidential and the organization may release it, identifying 
+both the manufacturer and the individual drug. 
+The organization is required to submit an annual report to the Legislature based on 
+the list of up to 75 drugs and the wholesale acquisition cost information. The 
+organization may include in the report recommendations for increasing prescription drug 
+pricing transparency. Once the organization starts collecting information from 
+manufacturers in 2019, the report must also include at least a summary of the 
+manufacturer information. The organization is required to post the report online. 
+This amendment replaces the penalties in the bill to provide that when a manufacturer 
+violates the reporting requirements, the Board of Directors of the Maine Health Data 
+Organization may impose a fme of not more than $10,000 per day after the deadline for 
+reporting required information. If the manufacturer fails to pay a fine, or if an injunction 
+is necessary, the board may refer the matter to the Attorney General. The Attorney 
+General may bring an action in Superior Court for injunctive relief, enforcement of fines, 
+costs, attorney's fees and any other appropriate remedy. 
+Page 5 -128LR0994(02)-1 
+COMMITTEE AMENDMENT 
+~.~~l 
+1 
+2 
+3 
+4 
+5 COMMITTEE AMENDMENT "A "to S.P. 484, L.D. 1406 
+The legislation does not restrict the legal ability of a prescription drug manufacturer 
+to change prices to the extent permitted under federal law. 
+The amendment includes an appropriations and allocations section. 
+FISCAL NOTE REQUIRED 
+(See attached) 
+Page 6 -128LR0994(02)-l 
+COMMITTEE AMENDMENT 
+Approved: 04/03/18 fea~ 
+128th MAINE LEGISLATURE 
+LD 1406 LR994(02) 
+An Act To Promote Prescription Drug Price Transparency 
+Fiscal Note for Bill as Amended by Committee Amendment /J" ( S-45!) 
+Committee: Judiciary 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Minor revenue increase -General Fund 
+FY 2017-18 FY 2018-19 Projections 
+FY 2019-20 Projections 
+FY 2020-21 
+Appropriations/ Allocations 
+Other Special Revenue Funds 
+Revenue 
+Other Special Revenue Funds 
+Correctional and Judicial Impact Statements 
+Increases the number of civil suits $0 
+$0 $100,000 $0 $0 
+$100,000 $0 $0 
+The additional workload associated with the minimal number of new cases filed in the court system does not require 
+additional funding at this time. 
+The collection of additional filing fees may increase General Fund revenue by minor amounts. 
+Fiscal Detail and Notes 
+The bill includes a one-time allocation to the Maine Health Data Organization of $100,000 to collect and present 
+certain data to the legislature and to develop a plan for further data collection. The Maine Health Data Organization 
+has sufficient resources available to fund the allocation. 
+Additional costs to the Department of the Attorney General are expected to be minor and can be absorbed within 
+existing budgeted resources. 
+LR0994(02) -Fiscal Note -Page 1 of 1 

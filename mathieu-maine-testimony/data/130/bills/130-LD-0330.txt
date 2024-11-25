@@ -1,0 +1,141 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 330
+H.P. 234 House of  Representatives, February 8, 2021
+An Act  To Prevent  Accidental Overdoses by Establishing a Protocol 
+for Prescription Drug Recovery
+Received by the Clerk of the House on February 4, 2021.  Referred to the Committee  on 
+Health and Human Services  pursuant to Joint Rule 308.2 and  ordered printed pursuant  to Joint 
+Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GRAMLICH of Old Orchard Beach.
+Cosponsored by Senator CARNEY  of Cumberland and
+Representatives: CRAVEN of Lewiston,  EVANS of Dover-Foxcroft, KESSLER of South 
+Portland, McCREA of Fort Fairfield,  MEYER of Eliot, O'CONNOR of Berwick,  PERRY of 
+Calais, ZAGER of Portland.
+
+Page 1 - 130LR0939(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §7246, sub-§2, as repealed and replaced by PL 2017, c. 360, §1, 
+3 is amended to read:
+42.  Dispenser.  "Dispenser" means:
+5 A.  A pharmacist who is licensed or registered under Title 32; or
+6 B.  A veterinarian licensed under Title 32, chapter 71‑A with authority to dispense a 
+7 benzodiazepine or an opioid medication. ; or
+8 C.  An administering provider as defined in section 7351, subsection 1, paragraph A.
+9Sec. 2.  22 MRSA §7249, sub-§1, as amended by PL 2017, c. 360, §3, is further 
+10 amended to read:
+111.  Information required.  Except as provided in subsection 1‑A or , 1-B  or 1-C, each 
+12 dispenser shall submit to the department, by electronic means or other format specified in 
+13 a waiver granted by the department, specific items of information regarding dispensed 
+14 controlled substances determined by the department from the following list:
+15 A.  The dispenser identification number;
+16 B.  The date the prescription was filled;
+17 C.  The prescription number;
+18 D.  Whether the prescription is new or is a refill;
+19 E.  The National Drug Code (NDC) for the drug dispensed;
+20 F.  The quantity dispensed;
+21 G.  The dosage;
+22 H.  The patient identification number;
+23 I.  The patient name;
+24 J.  The patient address;
+25 K.  The patient date of birth;
+26 L.  The prescriber identification number;
+27 M.  The date the prescription was issued by the prescriber; and
+28 N.  The department-issued serial number if the department chooses to establish a serial 
+29 prescription system.
+30Sec. 3.  22 MRSA §7249, sub-§1-C is enacted to read:
+311-C.  Dispensing by administering providers.  If a controlled substance is dispensed 
+32 by an administering provider, as defined in section 7351, subsection 1, paragraph A, that 
+33 administering provider is required to provide only the information required by subsection 
+34 1, paragraphs B, D and F to K.
+35Sec. 4.  22 MRSA c. 1627 is enacted to read:
+36CHAPTER 1627
+Page 2 - 130LR0939(01)1MONITORING, CONTAINMENT AND DISPOSAL OF CONTROLLED 
+2SUBSTANCES
+3§7351.  Monitoring, containment and disposal of controlled substances
+4 A provider that administers a controlled substance to an adult with long-term care needs 
+5 is subject to the requirements of this section.
+61.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+7 following terms have the following meanings.
+8 A.  "Administering provider" means a provider that administers a controlled substance, 
+9 pursuant to a prescription, to a client-patient.  "Administering provider" includes an 
+10 employee or contractor of a provider but does not include a family member of the 
+11 client-patient.
+12 B.  "Client-patient" means an adult with long-term care needs to whom an 
+13 administering provider administers a controlled substance.
+14 C.  "Controlled substance" has the same meaning as in section 7246, subsection 1.
+152.  Monitoring.  An administering provider shall document the quantity and strength 
+16 of any controlled substance obtained for a client-patient.  The administering provider shall 
+17 comply with the requirements of the Controlled Substances Prescription Monitoring 
+18 Program established under Title 22, section 7248, including the reporting requirements of 
+19 section 7249, subsection 1, as limited by section 7249, subsection 1-C.
+203.  Containment.  An administering provider shall keep any controlled substances 
+21 prescribed and obtained for a client-patient in a locked container to which only the 
+22 administering provider, the client-patient and, if there is one, a designated caregiver have 
+23 access.
+244.  Retrieval and disposal of controlled substances; documentation; reporting.  
+25 Upon the death of a client-patient for whom the administering provider was providing in-
+26 home and community support services immediately prior to that client-patient's death, the 
+27 administering provider shall collect all unused controlled substances that were prescribed 
+28 and obtained for the client-patient.  The administering provider shall document the 
+29 controlled substances collected, including the National Drug Code, quantity and strength 
+30 of each controlled substance, properly dispose of the collected controlled substances and 
+31 document the manner of disposal.  Following disposal, the administering provider shall 
+32 provide all documentation performed pursuant to this subsection to the department in the 
+33 same manner as information is provided to the department pursuant to section 7249, 
+34 subsection 1.
+355.  Development of written policy; submission for review.  Each administering 
+36 provider shall develop a written policy for how that administering provider will document, 
+37 collect and dispose of controlled substances in compliance with the requirements of this 
+38 chapter.  The administering provider shall submit the policy, including any changes made 
+39 to the policy subsequent to initial submission, to the department for review.
+406.  Rulemaking.  The department shall adopt routine technical rules, pursuant to Title 
+41 5, chapter 375, subchapter 2-A, to implement the provisions of this chapter, including 
+42 providing guidance for methods of proper disposal of controlled substances collected 
+43 pursuant to subsection 4.
+Page 3 - 130LR0939(01)1SUMMARY
+2 This bill seeks to reduce accidental overdose deaths caused by access to unused 
+3 controlled substances by:
+4 1.  Requiring an entity, agency, facility or individual who offers or plans to offer any 
+5 in-home or community support services or institutionally based long-term care services and 
+6 who administers a controlled substance to an adult with long-term care needs as part of 
+7 those services, referred to in the bill as "an administering provider," to document any 
+8 controlled substance prescribed and obtained for the adult with long-term care needs, 
+9 referred to in the bill as "the client-patient," and to participate in the Controlled Substances 
+10 Prescription Monitoring Program under the Maine Revised Statutes, Title 22, chapter 1603, 
+11 with certain exceptions;
+12 2.  Requiring that all controlled substances be kept in a locked container to which only 
+13 the administering provider, the client-patient and, if there is one, a designated caregiver 
+14 have access; and
+15 3.  Requiring the administering provider, upon the death of the client-patient, to collect 
+16 any unused controlled substances that were prescribed and obtained for that client-patient 
+17 and dispose of them properly after documenting the National Drug Code, quantity and 
+18 strength.  The administering provider is required to submit this documentation, including 
+19 the manner of disposal of the controlled substances collected from the deceased client-
+20 patient, to the Department of Health and Human Services using the reporting system 
+21 established in the Controlled Substances Prescription Monitoring Program under the Maine 
+22 Revised Statutes, Title 22, chapter 1603.

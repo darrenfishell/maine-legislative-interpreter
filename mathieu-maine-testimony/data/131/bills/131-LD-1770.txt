@@ -1,0 +1,175 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1770
+H.P. 1134 House of Representatives, April 25, 2023
+An Act to Improve Pesticides Sales and Use Data Collection and 
+Accessibility by the State
+Reference to the Committee on Agriculture, Conservation and Forestry suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative OSHER of Orono.
+Cosponsored by Representatives: HOBBS of Wells, JACKSON of Oxford, JAUCH of 
+Topsham, O'NEIL of Saco, SHAW of Auburn, Senator: INGWERSEN of York.
+
+Page 1 - 131LR0182(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  7 MRSA §607, sub-§2, ¶B, as enacted by PL 1975, c. 382, §3, is repealed 
+3 and the following enacted in its place:
+4 B.  The name of the pesticide and information about the pesticide available to the 
+5 applicant at the time of registration, including, but not limited to:
+6 (1)  The pounds of active ingredients per gallon of liquid formulations of the 
+7 pesticide;
+8 (2)  The type of pesticide;
+9 (3)  The expected type of use of the pesticide described in a manner specified by 
+10 the board; and
+11 (4)  Information on the pesticide product label that describes the acute toxicity of 
+12 the formulated pesticide product or other toxicity data specified by the board;
+13Sec. 2.  22 MRSA §1471-C, sub-§4-A is enacted to read:
+144-A.  Commercial agricultural producer.  "Commercial agricultural producer" 
+15 means a person that produces an agricultural commodity primarily for sale.
+16Sec. 3.  22 MRSA §1471-G, as amended by PL 1983, c. 819, Pt. A, §50, is further 
+17 amended by amending the section headnote to read:
+18§1471-G.  Reports; confidential information
+19Sec. 4.  22 MRSA §1471-G, sub-§3 is enacted to read:
+203.  Confidential information.  Information provided to the board to fulfill reporting 
+21 requirements under this chapter is public unless designated as confidential by the board in 
+22 accordance with this subsection. A pesticide dealer, commercial applicator or commercial 
+23 agricultural producer to whom the information belongs or pertains may request that the 
+24 information it has provided be designated as confidential. The board may designate such 
+25 information as confidential if the board determines the information contains proprietary 
+26 information.  For the purposes of this subsection, "proprietary information" means 
+27 information that is a trade secret or production, commercial or financial information the 
+28 disclosure of which would impair the competitive position of the person submitting the 
+29 information and would make available information not otherwise publicly available.
+30Sec. 5.  22 MRSA §1471-CC is enacted to read:
+31§1471-CC.  Pesticide sales and use database
+321. "Pesticide product dealer" defined. As used in this section, unless the context 
+33 otherwise indicates, "pesticide product dealer" means a person licensed to sell in this State 
+34 pesticides, including, without limitation, general use pesticides, limited use pesticides and 
+35 restricted use pesticides.
+362. Pesticide sales and use database. The board, in consultation with the Department 
+37 of Administrative and Financial Services, Office of Information Technology, shall develop 
+38 and administer a comprehensive, online pesticide sales and use database for documenting 
+39 and quantifying pesticide sales, distribution and application in the State by pesticide 
+40 product dealers and certified applicators using information reported under section 1471-G.
+Page 2 - 131LR0182(01)13. Pesticide product dealers.  Beginning January 1, 2024, a pesticide product dealer 
+2 shall maintain a record of a sale or distribution of a pesticide as provided in subsection 5. 
+3 Beginning February 15, 2024 and for every month thereafter, a pesticide product dealer 
+4 shall submit to the board's online pesticide sales and use database developed pursuant to 
+5 subsection 2 a report of all sales and distribution of pesticides made by the dealer for the 
+6 preceding month.
+74. Certified applicators and commercial agricultural producers.  Beginning 
+8 January 1, 2024, a certified applicator or commercial agricultural producer shall submit to 
+9 the board's online pesticide sales and use database developed pursuant to subsection 2 a 
+10 report of all record-keeping data required by subsection 5 no later than 90 days after the 
+11 end of the calendar year in which the pesticides were applied. 
+125.  Records.  This subsection governs record keeping by pesticide products dealers, 
+13 certified applicators and commercial agricultural producers.
+14 A. A pesticide product dealer shall keep and maintain records of the sale and 
+15 distribution of pesticides for monthly reporting purposes under subsection 3.  These 
+16 records must include the names of all licensed general use pesticide dealers to which 
+17 pesticides were distributed, the names of the pesticides, the United States 
+18 Environmental Protection Agency registration number and the quantity sold.  For the 
+19 purposes of this paragraph, "distributes" means sells, ships or delivers pesticides to a 
+20 pesticide product dealer engaged in retail sales.
+21 B.  A certified applicator or commercial agricultural producer shall keep and maintain 
+22 records of the purchase and use of pesticides for reporting purposes.  These records 
+23 must include the names of all pesticide product dealers from which pesticides were 
+24 purchased, the address where the pesticides were applied, the names of the pesticides, 
+25 the quantity purchased and applied, the date the pesticides were applied and the United 
+26 States Environmental Protection Agency registration number.
+27 C.  These records must be kept for 2 years after the end of the calendar year in which 
+28 they were recorded.
+296. Rules. The board shall adopt rules to carry out the purposes of this section, including 
+30 clarifying reporting requirements pursuant to subsection 5.  Rules adopted pursuant to this 
+31 subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+32Sec. 6.  22 MRSA §1471-DD is enacted to read:
+33§1471-DD.  Reports by board
+341.  Report regarding state policy.  Beginning in 2024, by January 15th annually, the 
+35 board shall submit a report on developments and progress made to carry out the purposes 
+36 of section 1471-X to the joint standing committees of the Legislature having jurisdiction 
+37 over agriculture, conservation and forestry matters; health and human services matters; 
+38 environment and natural resources matters; and innovation, development, economic 
+39 advancement and business matters.  The joint standing committees may report out 
+40 legislation based on the report required pursuant to this subsection.
+412.  Report regarding pesticide sales and use rates.  Beginning in 2024, by January 
+42 15th annually, the board shall submit a report showing the trends in sales and uses of 
+43 pesticides in this State to the joint standing committees of the Legislature having 
+44 jurisdiction over agriculture, conservation and forestry matters; health and human services 
+Page 3 - 131LR0182(01)45 matters; environment and natural resources matters; and innovation, development, 
+46 economic advancement and business matters.  The joint standing committees may report 
+47 out legislation based on the report required pursuant to this subsection.
+4Sec. 7.  Report.  No later than December 6, 2023, the Department of Agriculture, 
+5 Conservation and Forestry, Board of Pesticides Control, with input from the Department 
+6 of Administrative and Financial Services, Office of Information Technology, shall submit 
+7 a report to the Joint Standing Committee on Agriculture, Conservation and Forestry, the 
+8 Joint Standing Committee on Health and Human Services, the Joint Standing Committee 
+9 on Environment and Natural Resources and the Joint Standing Committee on Innovation, 
+10 Development, Economic Advancement and Business on:
+11 1. Progress made in developing and administering an online pesticide sales and use 
+12 database pursuant to the Maine Revised Statutes, Title 22, section 1471-CC; and
+13 2. Recommendations for ensuring that information from pesticide product dealers, 
+14 certified applicators and commercial agricultural producers is recorded in the database if a 
+15 dealer, applicator or producer is unable to access the Internet.
+16 The joint standing committees may report out legislation based upon the report under 
+17 this section to the Second Regular Session of the 131st Legislature.
+18SUMMARY
+19 This bill directs the Department of Agriculture, Conservation and Forestry, Board of 
+20 Pesticides Control, in collaboration with the Department of Administrative and Financial 
+21 Services, Office of Information Technology, to create and administer an online database of 
+22 pesticide product dealers, certified applicators and commercial agricultural producers 
+23 reporting the type and amount of pesticides sold, distributed or applied in the State and 
+24 other information as required.  The bill establishes record-keeping requirements for 
+25 pesticide product dealers, certified applicators and commercial agricultural producers, 
+26 similar to those in place for general use pesticide dealers. The bill specifies that information 
+27 submitted to the board is public information but allows a pesticide dealer, commercial 
+28 applicator or commercial agricultural producer to request that the board designate 
+29 proprietary information as confidential. The bill also requires the board to report annually 
+30 to the joint standing committees of the Legislature having jurisdiction over  agriculture, 
+31 conservation and forestry matters; health and human services matters; environment and 
+32 natural resources matters; and innovation, development, economic advancement and 
+33 business matters on the developments and progress made in carrying out the state policy of 
+34 minimizing the use of pesticides and gives those committees authority to report out 
+35 legislation related to the report.1
+2
+3
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35

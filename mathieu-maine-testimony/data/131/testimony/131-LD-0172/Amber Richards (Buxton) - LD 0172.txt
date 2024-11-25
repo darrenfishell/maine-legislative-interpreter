@@ -1,0 +1,228 @@
+DO UNVACCINATED HEALTHCARE WORKERS POSE A  
+HEALTH/SAFETY RISK TO THEIR PATIENTS? 
+ 
+Amber Richards, RN, BSN 
+Buxton, ME 
+The mandate implemented in October 2021 was based on the assumption that unvaccinated healthcare 
+workers pose a health/safety risk to their patients. The logic is that unvaccinated healthcare workers do 
+not have protection against COVID, meaning they are at a higher risk of getting COVID, and thereby have 
+a higher risk of giving it to their patients. The mandate thereby created an untested hypothesis that 
+vaccinated healthcare workers have greater protection from COVID than those who are not vaccinated. 
+Science has proven that the mandate’s blanket statement is untrue in the current demographic of 
+COVID immunity. A large survey completed in December 2022 estimates that 80% of Americans have 
+immunity against COVID from either vaccination or prior infection. 2 Since this mandate was put into 
+effect in October 2021, multiple individual studies and comprehensive studies have been completed 
+that have found that those who have natural immunity (have had a prior COVID infection) have greater 
+protection against COVID than those who are vaccinated and have not had COVID. 1 In which case, 
+science is revealing that vaccinated healthcare workers who have not had COVID pose a greater 
+health/safety risk to their patients than unvaccinated healthcare workers who have had COVID. If the 
+heart of the mandate is to keep patients safe, it would logically follow that unvaccinated healthcare 
+workers who have not had COVID should not be allowed to work until they have contracted COVID. 
+Obviously, such a statement is absurd. But if that statement is absurd, why is it not equally absurd that 
+healthcare workers with natural immunity are not permitted to take care of patients? The following will 
+1) discuss scientific data and research that disproves the mandate’s assumption, 2) apply that data to a 
+hospital scenario, and 3) consider practical answers to keeping patients safe.  
+DATA AND RESEARCH 
+According to the meta-analysis “Durability of Vaccine-Induced and Natural Immunity Against COVID-19: 
+A Narrative Review,” the protection that vaccination provides wanes significantly in six months alone, 
+whereas protection from natural immunity has only a slight decline starting at twelve months. 1 In order 
+to comprehend the significance these findings, one must understand the nature of a meta-analysis. 
+Meta-analyses and systematic reviews are the top tier of scientific research hierarchy. To give a 
+comparison, randomized controlled studies (RCTs) have been and are still often considered the golden 
+standard of research. An RCT is an individual study where randomization and blinding, among other 
+factors, are used to prevent bias when determining cause and effect relationships, such as whether a 
+treatment is effective or not. Clinical trials are one example of RCTs. While RCTs are the golden standard 
+for conducting a single study, the strongest scientific research study is a meta-analysis or systematic 
+review. A meta-analysis evaluates multiple studies at different research levels that address the same 
+question. This meta-analysis includes 136 references to scientific literature and research studies, 
+including multiple meta-analyses, systematic reviews, RCTs, and observational studies. With that being 
+said, consider what the meta-analysis’ data compilation and comparison shows concerning vaccine 
+effectiveness versus natural immunity in real-world conditions: 
+Both the effectiveness and the efficacy of vaccines developed against SARS-CoV-2 have been 
+extensively studied. Efficacy refers to the performance of the vaccines under ideal and 
+controlled circumstances, for example clinical trials, compared with effectiveness, which 
+measures vaccine performance under real-world conditions, such as observational trials. It is 
+now well-established that the vaccine effectiveness of a primary series of SARS-CoV-2 
+vaccination wanes over time, resulting in an increased risk of breakthrough infection. 1    
+The protection provided by vaccination declines significantly and rapidly: 
+Feikin et al.[ 10] found a 23% decrease in protection over 6 months post-vaccination, while 
+Ssentongo et al.[ 11] found a decline in protection from 83 to 21% over 5 months. 1 
+In comparison, natural immunity has high effectiveness in real-world conditions that lasts:  
+Multiple systematic and pragmatic literature reviews have investigated the effectiveness of 
+natural post-infection protection [ 12, 39–43]. Published meta-analyses show consistently high 
+levels of protection (81.0–87.0%) provided by prior infection, even over 7 months post-initial 
+infection (Table (Table2)2 ) [12, 41, 43]. One meta-analysis assessed the estimated protection 
+provided by prior infection from either any reinfection or symptomatic reinfection and found 
+similar levels of protection (~ 87.0%) [ 12]. None of the three meta-analyses reported an analysis 
+by variant, which would be challenging to study, since variants of both the initial infection and 
+the reinfection must be considered [ 12, 41, 43]. 1 
+The protection provided by natural immunity remains for a significantly longer time: 
+Five studies investigating the risk of reinfection over time found no statistically significant 
+waning in protection from reinfection (Table (Table3),3 ), [28, 44–47] with the protection from 
+reinfection at the final study follow-up estimated to range from 69.0 to 93.0%. The protection 
+against reinfection at > 1 year was estimated to be 69.0% in the study with the longest follow-
+up [28]. 1  
+A single booster only provides a short burst of protection: 
+Vaccination with a primary two-dose series of ChAdOx1, followed by a booster dose of 
+ChAdOx1, provided protection against Omicron of only 46.7% (95% CI 34.3–56.7) at 5–9 weeks 
+post-booster vaccination versus 52.9% (95% CI 52.1–53.7) and 60.9% (95% CI 59.7–62.1) at the 
+same timepoint post-booster with BNT162b2 and mRNA1273, respectively [ 37]. 1 
+Two boosters provide protection but its effectiveness also is short-lived: 
+The advantages of a fourth booster dose of BNT162b2 against Omicron were investigated in a 
+recent observational study in Israel [ 59]. While a two-fold increase in protection against 
+confirmed SARS-CoV-2 infection was seen at 4 weeks post-booster vaccination, the effect had 
+waned by 8 weeks. 1 
+Let’s consider some of these statistics that the meta-analysis stated in everyday terms: 1 
+• The vaccine’s ability to prevent COVID infection went from 83% down to 21% in 5 months 
+• At best the vaccine’s ability to prevent COVID infection drops 23% over 6 months 
+• Natural immunity’s ability to prevent COVID infection remained at 81-87% even after 7 
+months 
+• According to the longest study, natural immunity’s ability to prevent COVID infection was 69% 
+at even greater than a year 
+• Boosters are effective for a short period of time, as little as 5-9 weeks 
+ 
+HOSPITAL SCENARIO  
+Consider a real world application of these statistics to a hospital setting. The nurses and patient in the 
+following examples are fictional. Consider the following cases: Nurse Allison, Nurse Charity, and Nurse 
+Bonnie are all excellent nurses that work at the same hospital in Maine. 
+Nurse Case #1 
+Nurse Allison was one of the first nurses in Maine to get her COVID-19 vaccine. She received her 
+1st Moderna vaccine in December 2020 and her 2nd Moderna vaccine in January 2021. With the 
+approaching holiday season, Nurse Allison decided to get a Pfizer booster in September 2021.  
+Nurse Case #2  
+Nurse Charity does not want to receive a COVID vaccine due to her sincerely held religious 
+beliefs. Nurse Charity is a single mom with three kids in school. She has a mortgage on her 
+house. Her mom helps her on the days she works by waiting for the kids to get off the bus and 
+making them dinner. Nurse Charity can’t afford to lose health insurance for her family or move 
+out of state in such a short time. Even if she could move, she would not have the family support 
+she needs in another state. Under great duress, Nurse Charity receives her 1st Pfizer vaccine in 
+October 2021 to support her family, keep their health insurance, and not lose her home or her 
+family’s support as she tries to take care of her kids as a single mom. Nurse Charity receives her 
+2nd vaccine in November 2021 to complete her series.  
+Nurse Case #3 
+Nurse Bonnie was working her last day of four shifts in a row and was ready to go home. One of 
+her patients received the great news that he could go to rehab tomorrow. Per rehab protocol, 
+her patient had to have a negative COVID swab completed with the results sent before they 
+could set up transport. So Nurse Bonnie completed the COVID swab and sent it downstairs to 
+the lab to process before she went home. Nurse Bonnie received the call the next morning from 
+work stating that her patient she had taken care of for the past 4 days had asymptomatic COVID. 
+Nurse Bonnie got COVID-19 in June 2021. Nurse Bonnie receives the news that vaccination 
+would be mandated for healthcare workers in October. It is against her religious beliefs to 
+receive the vaccine. Nurse Bonnie is single, has no kids, no mortgage, and has an emergency 
+fund. She decides to give her resignation in October 2021 and apply to other healthcare jobs in 
+Maine that did not fall under the mandate. But every organization she applied to stated they did 
+not accept religious exemptions. Out of curiosity and in desperation, Nurse Bonnie signed up to 
+get information about travel nursing, something she probably would have never considered 
+because she loves Maine. She loves being with her family and friends. But if she wants to stay in 
+healthcare, she would have to leave. Nurse Bonnie decides to become a travel nurse. 
+Patient Case  
+Bill had a heart attack in May 2022 and was waiting for insurance authorization to get 
+discharged to rehab. During his time at the hospital, Bill found out that the floor was 
+understaffed because COVID had been getting around. It wasn’t until today that he understood 
+why. From his bed, he can see the door across the hall with an airborne precautions sign. But he 
+doesn’t understand why he keeps seeing his nurse going in and out with a gown and face shield 
+but no N-95, just a surgical mask. Bill is not a healthcare worker but has a niece who worked on 
+a COVID floor. He knew she should be wearing an N-95 for that room. He then saw his CNA poke 
+her head into that room with a surgical mask just to check in on the patient, but evidently, the 
+patient needed something. The CNA went in with no face shield or gown and ended up being in 
+the room for more than fifteen minutes. Bill had pressed his call bell earlier to get help to the 
+bathroom and was now regretting it. The CNA came out of the room, used hand sanitizer, and 
+came to help him. Bill works up the courage and asks his CNA why she didn’t put her gown or 
+face shield on. She replies, “Oh, don’t worry. I’ve had my shots and my booster. I was only in 
+there for a little while. No worries.” Bill did not feel reassured. He also got the news that he 
+wouldn’t get discharged tomorrow. Bill tries to reassure himself thinking, “Maybe it’s Omicron 
+going around. Supposedly, that’s not as bad. At least I will have a different nurse tomorrow.” If 
+Bill had the choice of Nurse Allison, Nurse Charity, and Nurse Bonnie, which nurse would be the 
+“safest” for him to have? It is May 2022.  
+Considerations 
+Nurse Bonnie would be the “safest” nurse for Bill to have. Unfortunately, she’s in Florida on a travel 
+assignment and cannot work in Maine because of the mandate. Even though Nurse Allison got a booster 
+in September 2021, statistics show the booster’s effectiveness diminished rapidly down to 52.9% in 5-9 
+weeks. 1 The studies mentioned in this meta-analysis show the booster’s effectiveness declines quickly 
+over time. More studies need to be completed and published to determine their effectiveness over a 
+longer period of time and their effectiveness against different variants as new boosters are developed. 
+Nurse Charity’s vaccine effectiveness declined significantly during the month of April. 
+  
+PRACTICAL ANSWERS 
+I worked on a COVID floor for a year and a half in the beginning of the pandemic when it was the 
+hardest. I masked. I put my N-95 on. I put my gown on. And I put my gloves on. Hand sanitizer. More 
+hand sanitizer. Wiped everything down. Donning and doffing became a meticulous ritual for me. I was 
+afraid of getting COVID at work and giving it to my family or getting it unknowingly and giving it to one 
+of my patients. For about a year I was gripped by fear. Fear can be beneficial in certain instances, but 
+fear can also be detrimental when it gets out of proportion. Fear can control people. If one lets it, fear 
+will direct every decision that person makes. Money can also control people, and in some hospitals, 
+money directs every decision they make, even to their patients’ detriment. Bias can control people’s 
+thinking and direct their every decision as well. Pushing fear aside, money aside, and bias aside, what is 
+truly the best for our patients? Research shows us that unvaccinated healthcare individuals who have 
+had COVID are better protected than those with vaccination who have not had COVID. Boosters are 
+effective for what seems to be a short time of 9 weeks, but more research is needed to be able to state 
+that as fact. 1 Even if boosters became annual and even if they lasted 5 months, a vaccinated person 
+could get COVID that very year. When that vaccinated person does get COVID, they then obtain hybrid 
+immunity, which shows a little more effectiveness than natural immunity by itself. 1 One may then 
+conclude that healthcare workers with natural immunity should get vaccinated because instead of 81-
+87% immunity, they could have >90%. 1 But one may also suggest with the same logic that those who are 
+vaccinated should get COVID so they have better immunity. But that’s absurd. What is a common sense 
+answer to all of this? It seems that everyone is at risk for getting COVID annually with or without 
+vaccinations. So how is any patient more or less safe with someone who is vaccinated or unvaccinated? 
+Asymptomatic COVID infections can make a good percentage of COVID infections, which begs the 
+question whether there are any unvaccinated individuals who have not had COVID. 3 Perhaps practical 
+answers require simple practical questions. If one still after all of this data believes that the 
+unvaccinated pose a health/safety risk to patients, one must ask the simple question: How do we keep 
+our patients safe? The answer is easy. Unvaccinated workers with or without natural immunity can be 
+even safer for their patients than those who are vaccinated by completing mandatory testing. Self-tests 
+are cheap, fast, in abundant supply, and can be monitored and recorded by a staff member in a very 
+short period of time. Healthcare has done this process before with PCR tests. It can do it again and 
+cheaper. During the Omicron wave, asymptomatic infections made up 32.4% of all infections. 3 
+Vaccinated individuals had a higher rate of asymptomatic infection than the unvaccinated, 3 meaning 
+there were more vaccinated nurses exposing their patients to COVID without even knowing than those 
+who were unvaccinated. That is a fact that makes patients feel “safe.” Doing mandatory testing would 
+make the unvaccinated all across the board even more safe for patients than those who are vaccinated. 
+If safety is the true concern, mandatory testing should be applied to all staff members that work with 
+patients directly. 
+ 
+CONCLUSION 
+In the healthcare setting, a doctor often discusses the risks and benefits of a procedure or treatment. 
+The patient gets to decide what risks he is willing to take and what benefits are worth taking the risk for. 
+The mandate that was issued in October 2021 has lots of risks and few benefits. It is a multi-faceted 
+mandate that affects many different people and potentially many generations to come. What are we 
+willing to sacrifice or risk for the mild, if any, benefit of having a vaccinated nurse, EMT, paramedic, 
+doctor, respiratory therapist, physical therapist, paramedic, radiologist, and other medical personnel? 
+Are we willing to commit religious discrimination? Are we willing to have areas of Maine without enough 
+manned ambulances? Are we willing to have understaffed hospitals? Understaffed nursing homes? 
+Understaffed rehabs? Which would hurt the patient more: unvaccinated staff or all of these other 
+issues? Are we willing to drive people from their homes? Are we willing to drive people from the job 
+they dedicated two, four, eight, twelve years of education to? Are we willing to lose experienced 
+healthcare workers who are waiting and praying for this mandate to be reversed? Everyone knows that 
+vaccination does not prevent infection. It has become common knowledge. The meta-analysis of 
+multiple RCTs, meta-analyses, systematic reviews, and observational studies has shown us with actual 
+data how ineffective the vaccine is at preventing reinfection. If it cannot prevent infection, it cannot 
+prevent people from giving COVID to others. The significant protective value that vaccination has is not 
+protecting others but protecting oneself from severe symptomatic COVID infection, hospitalization, and 
+death. In such case, how do unvaccinated healthcare workers pose a greater health/safety risk to 
+patients than vaccinated healthcare workers? I became a nurse because I wanted to help people and 
+make a difference in their lives. I want to be an advocate for my patients. I want to make my patients 
+smile. I want my patients to feel safe and cared for. I want them to be safe. I imagine that you likewise 
+went into your profession because you want to make a difference. You want to help people. I have 
+discussed some of the risks and benefits of letting this mandate remain. What are you willing to risk? 
+What are you willing to sacrifice? Is the benefit worth taking those risks and making those sacrifices? In 
+my assessment, the risks outweigh the benefits and the sacrifices are far too high. But it is not my 
+decision to make. The decision is in your hands to decide. As a Mainer, I would ask that you pass the bills 
+to lift this mandate.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES 
+1. Pooley, Nick et al. “Durability of Vaccine-Induced and Natural Immunity Against COVID-19: A 
+Narrative Review.” Infectious Diseases and Therapy, 12, no. 2 (Jan 9, 2023): 367-387. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9828372/  
+2. Schulman, Jonathan et al. “A 50-State COVID-19 Survey Report #96: State of the COVID-19 
+Pandemic.” The COVID States Project, report 96 (December 2022). https://osf.io/tz3a4/  
+3. Shang, Weijing. “Percentage of Asymptomatic Infections among SARS-CoV-2 Omicron Variant-
+Positive Individuals: A Systematic Review and Meta-Analysis.” Vaccines (Basel), 10, no. 7 (June 
+30, 2022): 1049. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9321237/  
+ 
+ 

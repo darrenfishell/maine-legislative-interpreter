@@ -1,0 +1,102 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1395
+S.P. 562 In Senate, March 28, 2023
+An Act to Increase Transparency Regarding Certain Drug Pricing 
+Programs
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIPPING of Penobscot.
+Cosponsored by Senator: BAILEY of York, Representatives: MATHIESON of Kittery, 
+MORRIS of Turner, SKOLD of Portland.
+
+Page 1 - 131LR1620(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §1728 is enacted to read:
+3§1728.  Prescription drug transparency report
+4 Beginning January 1, 2024, each hospital participating in the federal drug program 
+5 under section 340b of the federal Public Health Service Act, 42 United States Code, Section 
+6 256b shall provide an annual report to the Maine Health Data Organization. The Maine 
+7 Health Data Organization shall post the report on a publicly accessible website. For the 
+8 purposes of this section, "hospital" has the same meaning as in section 1843, subsection 4. 
+9 Each hospital shall report in a standardized format specified by the Maine Health Data 
+10 Organization and include the following in the report:
+111.  Hospital data.  Hospital data separated by the hospital and each off-site clinic 
+12 facility associated with the hospital including, but not limited to:
+13 A.  Total annual revenue from drugs purchased under the 340b program less the 
+14 aggregate annual acquisition costs for these drugs;
+15 B.  Dispensing fees paid to contract pharmacies that the hospital contracts with to 
+16 provide services associated with participation in the 340b program;
+17 C.  Patient mix by payment source including, but not limited to, Medicare, the 
+18 MaineCare program, private insurance and uninsured;
+19 D.  Costs incurred for charity care; and
+20 E.  Percentage of total revenue less discounts from infusion or injection of 
+21 physician-administered drugs purchased through the 340b program, including any 
+22 associated items or services provided as part of administering these drugs;
+232.  Drug data.  Drug data for each hospital and the off-site clinic facility associated 
+24 with the hospital from each dispensing site including:
+25 A.  Name of the drug;
+26 B.  National drug code;
+27 C.  Acquisition cost;
+28 D.  Type of account through which the drug was purchased and the associated 340b 
+29 identification number, such as wholesaler, direct from the manufacturer or 
+30 consignment;
+31 E.  Quantity;
+32 F.  Payer source including, but not limited to, Medicare and the MaineCare program, 
+33 and primary, secondary or tertiary source;
+34 G.  Date of prescription;
+35 H.  Location where the 340b drug was administered or dispensed;
+36 I.  Date the drug was administered or dispensed; and
+37 J.  Compensation received from the sale of the 340b drug, including ingredient cost, 
+38 dispensing fee and other compensation; and
+Page 2 - 131LR1620(01)13.  Contracting and vendor data.  Contracting and vendor data separated by the 
+2 hospital and each off-site clinic facility associated with the hospital including, but not 
+3 limited to:
+4 A.  The names of all 3rd-party vendors, including split billing vendors and contract 
+5 pharmacies that the hospital contracts with to provide services associated with 
+6 participation in the 340b program;
+7 B.  List the self-negotiated contracts for individual entities and integrated delivery 
+8 networks, including pharmacy benefits manager costs, insurance carriers and employer 
+9 self-funded plans;
+10 C.  Split billing vendor information, if used by the hospital, and total amounts paid for 
+11 split billing services; and
+12 D.  Grantee contract information and compensation paid.
+134.  Reporting.  The Maine Health Data Organization shall produce and post on its 
+14 publicly accessible website a report that includes a summary of the aggregate information 
+15 received from hospitals and off-site clinic facilities associated with the hospital required to 
+16 report under subsections 1 and 2. The Maine Health Data Organization shall submit the 
+17 report required by this subsection to the Office of Affordable Health Care, the Maine 
+18 Prescription Drug Affordability Board and the joint standing committee of the Legislature 
+19 having jurisdiction over health data reporting and prescription drug matters.
+20SUMMARY
+21 This bill requires each hospital to provide an annual report to the Maine Health Data 
+22 Organization with hospital data, drug data and contracting and vendor data related to its 
+23 participation in the federal 340b drug pricing program. The Maine Health Data 
+24 Organization must post the report on a publicly accessible website.21
+22
+23
+24

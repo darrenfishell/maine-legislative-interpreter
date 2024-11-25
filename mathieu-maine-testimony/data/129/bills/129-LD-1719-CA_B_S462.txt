@@ -1,0 +1,207 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CB (S -462) (LD 1719 2020)  
+Date: 8/3/2020
+
+Page 1 - 129LR0736(04)-1
+COMMITTEE AMENDMENT1L.D. 1719
+2
+3AGRICULTURE, CONSERVATION AND FORESTRY
+4Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to S.P. 568, L.D. 1719, Bill, “An Act To 
+10Improve Geographic Information System Data Acquisition and Maintenance”
+11Amend the bill by striking out the title and substituting the following:
+12'Resolve, To Establish a Stakeholder Group To Study the Changes Required To 
+13Modernize the Acquisition, Maintenance, Storage and Distribution of Geographic 
+14Data in Maine' 
+15Amend the bill by striking out everything after the title and inserting the following:
+16'Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+17become effective until 90 days after adjournment unless enacted as emergencies; and
+18Whereas, the technology supporting geographic information systems has changed 
+19substantially since the Department of Administrative and Financial Services, Office of 
+20Information Technology, Office of Geographic Information Systems was established and 
+21geographic information systems are a foundational tool in studying and evaluating the 
+22effects of public policies, supporting economic development and communicating complex 
+23issues to stakeholders; and
+24Whereas, a repository for geographic information is urgently needed to store, 
+25maintain and distribute geographic information to geographic information systems users; 
+26and
+27Whereas, the amount of geographic information has grown exponentially and 
+28continues to increase dramatically and the need for professional staffing to oversee and 
+29manage the acquisition, storage and distribution of geographic information from public, 
+30private and nonprofit sources has outstripped the capacity of the Office of Geographic 
+31Information Systems as established under the Maine Revised Statutes, Title 5, chapter 
+32163, subchapter 3; and
+33Whereas, the Maine Library of Geographic Information is inadequately supported 
+34to meet its legislative mandate as established under Title 5, chapter 163, subchapter 4; 
+35andDate: (Filing No. S-          )
+COMMITTEE AMENDMENT “      ” to S.P. 568, L.D. 1719
+Page 2 - 129LR0736(04)-1
+COMMITTEE AMENDMENT1Whereas, access to parcel, engineering, zoning and other geographic information 
+2developed by Maine communities is important to the efficient operations of state 
+3agencies; and
+4Whereas, access to historical geographic information provides key context to 
+5changes in the State's resources, development and environmental patterns and informs 
+6decision making and research; and
+7Whereas, economic development, planning for climate change and many other 
+8activities require research and analysis based on access to both current and historical 
+9geographic information; and
+10Whereas, the primary focus of the Office of Information Technology and the Office 
+11of Geographic Information Systems is providing software and data protection for state 
+12agencies, not providing access for nonstate agencies; and
+13Whereas, geographic information system data is far different from ordinary data 
+14required by most Office of Information Technology users and requires different protocols 
+15for delivery and storage, and many nonstate users of data do not use the same software as 
+16geographic information system users within state agencies; and
+17Whereas, opportunities for grants and partnerships to acquire and distribute data 
+18may not coincide with the state budgeting process and may require more flexible access 
+19to required matching funds; and
+20Whereas, the importance of accurate geospatial data is recognized as fundamental 
+21to the well-being of the State's citizens and to the efficiency of both governmental and 
+22nongovernmental activities in the State; and
+23Whereas, in the judgment of the Legislature, these facts create an emergency within 
+24the meaning of the Constitution of Maine and require the following legislation as 
+25immediately necessary for the preservation of the public peace, health and safety; now, 
+26therefore, be it
+27Sec. 1.  Stakeholder group established; duties. Resolved:  That the 
+28Commissioner of Agriculture, Conservation and Forestry shall, within existing resources, 
+29form a stakeholder group to:
+301.  Review the State's legislation regarding geographic information systems and make 
+31recommendations to the Legislature for legislation regarding any suggested changes to 
+32the Maine Revised Statutes, Title 5, chapter 163, subchapters 3 and 4 and any other 
+33provisions the stakeholder group determines necessary;
+342.  Review the resources needed to effectively manage the Maine Library of 
+35Geographic Information, specifically considering the need for one full-time equivalent 
+36geographic information system information officer whose responsibilities will be to 
+37advise the Maine Library of Geographic Information Board and the commissioner 
+38regarding geographic information system data needs for acquisition, maintenance and 
+39distribution of geographic information system data and one full-time equivalent 
+40geolibrarian with knowledge of geographic information system data models, concepts, 
+41techniques and technologies and information and library science;
+COMMITTEE AMENDMENT “      ” to S.P. 568, L.D. 1719
+Page 3 - 129LR0736(04)-1
+COMMITTEE AMENDMENT13.  Consider the optimal administrative setting of the Maine Library of Geographic 
+2Information;
+34. Consider funding mechanisms for the staff of the Maine Library of Geographic 
+4Information, including support through the General Fund or through fees charged to data 
+5users;
+65.  Consider funding mechanisms, including the General Fund and other mechanisms, 
+7to support necessary acquisition of orthoimagery, LIDAR and other essential datasets; 
+8and
+96. Consider funding mechanisms for technologies such as hardware, software and 
+10data storage and services.
+11Sec. 2.  Membership. Resolved:  That the Commissioner of Agriculture, 
+12Conservation and Forestry shall invite, at a minimum, the following to participate as 
+13members of the stakeholder group under section 1:
+141.  A public member who represents a statewide association of engineers;
+152.  A public member who represents a statewide association of surveyors;
+163.  A member of the Maine Library of Geographic Information Board;
+174.  The Chief of the Penobscot Nation or the chief's designee;
+185.  A representative of the University of Maine System;
+196.  A representative of a postsecondary educational institution not associated with the 
+20University of Maine System;
+217.  A representative of the Department of Administrative and Financial Services, 
+22Office of Information Technology, Office of Geographic Information Systems users 
+23group;
+248.  The Governor or the Governor's designee;
+259.  The executive director of the Maine Library of Geographic Information;
+2610.  The Commissioner of Administrative and Financial Services or the 
+27commissioner's designee;
+2811.  The Commissioner of Environmental Protection or the commissioner's designee;
+2912.  The Commissioner of Transportation or the commissioner's designee;
+3013.  The Commissioner of Inland Fisheries and Wildlife or the commissioner's 
+31designee; and
+3214.  The Commissioner of Marine Resources or the commissioner's designee.
+33Sec. 3.  Report. Resolved:  That, no later than February 1, 2021, the Department 
+34of Agriculture, Conservation and Forestry shall submit a report that includes findings and 
+35recommendations of the stakeholder group under section 1, including suggested 
+36legislation, for presentation to the joint standing committee of the Legislature having 
+37jurisdiction over agriculture, conservation and forestry matters.  The joint standing 
+38committee of the Legislature having jurisdiction over agriculture, conservation and 
+COMMITTEE AMENDMENT “      ” to S.P. 568, L.D. 1719
+Page 4 - 129LR0736(04)-1
+COMMITTEE AMENDMENT1forestry matters may submit a bill to the First Regular Session of the 130th Legislature 
+2based on the report.
+3Emergency clause.  In view of the emergency cited in the preamble, this 
+4legislation takes effect when approved.' 
+5Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+6section number to read consecutively.
+7SUMMARY
+8This amendment replaces the bill with a resolve that directs the Commissioner of 
+9Agriculture, Conservation and Forestry, within existing resources, to form a stakeholder 
+10group to:
+111.  Review Maine's legislation regarding geographic information systems and make 
+12recommendations to the Legislature for legislation regarding any suggested changes to 
+13the Maine Revised Statutes, Title 5, chapter 163, subchapters 3 and 4 and any other 
+14provisions the stakeholder group determines necessary;
+152.  Review the resources needed to effectively manage the Maine Library of 
+16Geographic Information, specifically considering the need for one full-time equivalent 
+17geographic information system information officer whose responsibilities will be to 
+18advise the Maine Library Geographic Information Board and the commissioner regarding 
+19geographic information system data needs for acquisition, maintenance and distribution 
+20of geographic information system data and one full-time equivalent geolibrarian with 
+21knowledge of geographic information system data models, concepts, techniques and 
+22technologies and information and library science;
+233.  Consider the optimal administrative setting of the Maine Library of Geographic 
+24Information;
+254.  Consider funding mechanisms for the staff of the Maine Library of Geographic 
+26Information, including support through the General Fund or through fees charged to data 
+27users;
+285.  Consider funding mechanisms, including the General Fund and other mechanisms, 
+29to support necessary acquisition of orthoimagery, LIDAR, and other essential datasets; 
+30and
+316.  Consider funding mechanisms for technologies such as hardware, software and 
+32data storage and services.
+33The amendment also provides that, no later than February 1, 2021, the Department of 
+34Agriculture, Conservation and Forestry must submit a report that includes findings and 
+35recommendations, including suggested legislation, for presentation to the joint standing 
+36committee of the Legislature having jurisdiction over agriculture, conservation and
+COMMITTEE AMENDMENT “      ” to S.P. 568, L.D. 1719
+Page 5 - 129LR0736(04)-1
+COMMITTEE AMENDMENT1forestry matters.  The joint standing committee of the Legislature having jurisdiction over 
+2agriculture, conservation and forestry matters may submit a bill to the First Regular 
+3Session of the 130th Legislature based on the report.  The amendment also adds an 
+4emergency preamble and emergency clause.
+5FISCAL NOTE REQUIRED
+6(See attached)
+Approved: 07/13/20
+LD 1 719 LR 736 (04)
+Fiscal Detail and NotesMinor cost increase - General Fund
+Minor cost increase - Highway Fund
+Any additional costs to departments and agencies from participating in a stakeholder group to review the 
+administration, funding and t echnology needs of the state's geographic info rmation systems can be absorbed within 
+existing budgeted resources.129th MAINE LEGISLATURE
+An Act To Improve Geographic Information System Data Acquisition and Maintenance
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: A griculture, Conservation and Forestr y
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR0736(04) - Fiscal Note - Page 1 of 1

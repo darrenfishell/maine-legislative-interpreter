@@ -1,0 +1,83 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2024
+S.P. 714 In Senate,  January  14, 2020
+An Act  To Remove  from  the Calculation of the  Cost of Education  
+the Maine Public Employees Retirement System Teacher Plan  
+Unfunded Actuarial Liability
+(AFTER  DEADLINE)
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+205.
+Reference to the Committee on Education  and Cultural Affairs  suggested  and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator MILLETT of Cumberland.
+Cosponsored by Representative KORNFIELD of Bangor and
+Senators: BREEN of  Cumberland, President JACKSON of Aroostook,  Representatives:  
+BRENNAN of Portland, DODGE of  Belfast, FARNSWORTH of Portland, INGWERSEN of 
+Arundel, McCREA of Fort Fairfield.
+
+Page 1 - 129LR3126(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  20-A MRSA §5806, sub-§2, as repealed and replaced by PL 2013, c. 497, 
+3§1, is amended to read:
+42.  Maximum allowable tuition.  The maximum allowable tuition charged to a 
+5school administrative unit by a private school is the rate established under subsection 1 or 
+6the state average per public secondary student cost as adjusted, whichever is lower, plus 
+7an insured value factor.  The insured value factor is computed by dividing 5% of the 
+8insured value of school buildings and equipment by the average number of pupils 
+9enrolled in the school on October 1st and April 1st of the year immediately before the 
+10school year for which the tuition charge is computed.  From school year 2009-2010 to 
+11school year 2013-2014, a school administrative unit is not required to pay an insured 
+12value factor greater than 5% of the school's tuition rate or $500 per student, whichever is 
+13less, unless the legislative body of the school administrative unit votes to authorize its 
+14school board to pay a higher insured value factor that is no greater than 10% of the 
+15school's tuition rate per student.  For the 2014-2015 school year, a school administrative 
+16unit is not required to pay an insured value factor greater than 6% of the school's tuition 
+17rate per student, unless the legislative body of the school administrative unit votes to 
+18authorize its school board to pay a higher insured value factor that is no greater than 10% 
+19of the school's tuition rate per student.  Beginning in the 2015-2016 school year, a school 
+20administrative unit is not required to pay an insured value factor greater than the amount 
+21of the prior school year's insured value factor adjusted by a percentage equal to the 
+22percentage change in the state share percentage of the total cost of funding public 
+23education in the prior school year as determined by section 15671, subsection 7, 
+24paragraph C B as compared to the applicable percentage for the current school year.  In 
+25no case may the insured value factor be less than 6% or greater than 10% of the school's 
+26tuition rate per student, unless the legislative body of the school administrative unit votes 
+27to authorize its school board to pay an insured value factor that exceeds the amount 
+28otherwise permitted by this subsection by no more than 5% of the school's tuition rate per 
+29student.  For the 2013-2014 school year only, the maximum allowable tuition charged to 
+30a school administrative unit by a private school that participates in the Maine Public 
+31Employees Retirement System must be increased above the amount otherwise permitted 
+32under this section by an amount equal to the calculated normal cost of teacher retirement 
+33for that school divided by the number of enrolled students as of October 1, 2012.
+34Sec. 2.  20-A MRSA §15671, sub-§7, ¶C, as amended by PL 2019, c. 343, Pt. C, 
+35§2, is repealed.
+36SUMMARY
+37Current law provides a method of calculating the state share percentage of the total 
+38cost of funding public education from kindergarten to grade 12 that includes the unfunded 
+39actuarial liability of the Maine Public Employees Retirement System as it applies to 
+40teachers.  This bill repeals that provision of law.

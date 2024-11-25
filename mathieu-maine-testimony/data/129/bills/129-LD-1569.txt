@@ -1,0 +1,158 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1569
+H.P. 1131 House of  Representatives,  April 16, 2019
+An Act  To Prohibit Untraceable and Undetectable Firearms
+Reference to the Committee on Criminal  Justice and Public Safety suggested and  ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative RECKITT of  South  Portland.
+Cosponsored by Representatives:  CARNEY of  Cape Elizabeth, COLLINGS of Portland, 
+HEPLER of Woolwich, JORGENSEN of  Portland, MASTRACCIO of Sanford, MORALES of 
+South Portland, NADEAU of Winslow, SCHNECK of Bangor.
+
+Page 1 - 129LR1477(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  25 MRSA §§2015 to 2017 are enacted to read:
+3§2015.  Undetectable firearms prohibited
+41.  Undetectable firearm defined.  As used in this section, "undetectable firearm" 
+5means a firearm that can operate while in a form that is not detectable as a security 
+6exemplar, as defined in 18 United States Code, Section 922(p)(2)(C).
+72.  Penalty for manufacture, import, sale or transfer of undetectable firearm.  A 
+8person that manufactures or causes to be manufactured within this State, that imports into 
+9this State or that offers, exposes for sale, sells or transfers an undetectable firearm 
+10commits a Class C crime.
+113.  Penalty for possession of undetectable firearm.  A person who knowingly 
+12possesses an undetectable firearm commits a Class D crime.
+134.  Penalty for possession of undetectable firearm in courthouse.  A person who 
+14knowingly possesses an undetectable firearm in a courthouse or who possesses an 
+15undetectable firearm with the intent to bring that firearm into a courthouse commits a 
+16Class C crime.
+17§2016.  Untraceable firearms prohibited
+181.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+19following terms have the following meanings.
+20A.  "Additive manufacturing" means a manufacturing process in which material is 
+21added in order to produce a product, including, but not limited to, 3-dimensional 
+22printing, in which layers of material are laid down in succession.
+23B.  "Downloadable gun" means a firearm manufactured or produced using additive 
+24manufacturing.
+25C.  "Downloadable gun code" means digital instructions in the form of computer-
+26aided design files or other code or instructions stored and displayed in electronic 
+27format as a digital model that may be used to manufacture or produce a firearm, 
+28firearm receiver, magazine or firearm component using additive manufacturing.
+29D.  "Serialization" means placing a serial number on a firearm frame or receiver in 
+30accordance with the procedures for the serialization of a firearm in 18 United States 
+31Code, Section 923(i) and all regulations issued pursuant to that section, including, but 
+32not limited to, 27 Code of Federal Regulations, Section 478.92.
+33E.  "Serial number" means a unique identifying number.
+34F.  "Unfinished frame or receiver" means a frame or lower receiver blank, casting or 
+35machined body that requires further machining or molding to be used as part of a 
+36functional firearm and is designed and intended to be used in the assembly of a 
+37functional firearm.  "Unfinished frame or receiver" does not include a piece of 
+Page 2 - 129LR1477(01)-11material that has had its size or external shape altered solely to facilitate 
+2transportation or storage or has had only its chemical composition altered.
+3G.  "Untraceable firearm" means a downloadable gun without a serial number or a 
+4firearm manufactured, assembled or produced without serialization using an 
+5unfinished frame or receiver.
+62.  Penalty for manufacture, possession, assembly, import, sale or transfer of 
+7untraceable firearm.  A person who knowingly possesses, manufactures or assembles or 
+8causes to be manufactured or assembled within this State, imports into this State or offers, 
+9exposes for sale, sells or transfers an untraceable firearm commits a Class D crime.
+103.  Penalty for manufacture, import, sale or transfer of downloadable gun; 
+11exception.  A person who manufactures or causes to be manufactured within this State, 
+12imports into this State or offers, exposes for sale, sells or transfers a downloadable gun 
+13commits a Class D crime unless:
+14A.  The person has a federal license to manufacture firearms;
+15B.  The name of the manufacturer and an individual serial number is conspicuously 
+16placed on the frame or receiver; and
+17C.  The person maintains records relating to the downloadable gun in accordance 
+18with the procedures for record keeping related to firearms in 18 United States Code, 
+19Section 923(g) and all regulations issued pursuant to that section, including, but not 
+20limited to, 27 Code of Federal Regulations, Part 478, Subpart H.
+214.  Penalty for importation, sale or transfer of unfinished frame or receiver; 
+22exception.  A person who imports into this State or offers, exposes for sale, sells or 
+23transfers an unfinished frame or receiver commits a Class D crime unless:
+24A.  The person is a federally licensed firearm dealer;
+25B.  The name of the manufacturer and a serial number is conspicuously placed on the 
+26unfinished frame or receiver;
+27C.  The person applies for and receives a certification from the chief law enforcement 
+28officer in accordance with the procedures specified in section 2013 for the sale of a 
+29firearm; and
+30D.  The person maintains records relating to the unfinished frame or receiver in 
+31accordance with the procedures for record keeping related to firearms in 18 United 
+32States Code, Section 923(g) and all regulations issued pursuant to that section, 
+33including, but not limited to, 27 Code of Federal Regulations, Part 478, Subpart H.
+345.  Penalty for possession of unfinished frame or receiver that is not serialized; 
+35exception.  A person who knowingly possesses an unfinished frame or receiver that is not 
+36serialized commits a Class D crime unless:
+37A.  The person has a federal license to manufacture firearms; and
+38B.  The unfinished frame or receiver is an unfinished part within a manufacturing 
+39process that includes serialization.
+Page 3 - 129LR1477(01)-116.  Penalty for distribution of or making accessible downloadable gun code; 
+2exception.  A person who distributes downloadable gun code to another person or makes 
+3downloadable gun code available such that it can be accessed and downloaded by another  
+4person commits a Class D crime unless:
+5A.  The distribution is to a specific individual;
+6B.  The distributor requests that the chief law enforcement officer provide a 
+7certification as to the person receiving the downloadable gun code in accordance with 
+8the procedures specified in section 2013 for the transfer of a firearm and receives the 
+9certification;
+10C.  The distributor maintains records relating to the downloadable gun code in 
+11accordance with the procedures for record keeping related to firearms in 18 United 
+12States Code, Section 923(g) and all regulations issued pursuant to that section, 
+13including, but not limited to, 27 Code of Federal Regulations, Part 478, Subpart H; 
+14and
+15D.  The firearm for which the downloadable gun code provides instructions is not 
+16prohibited under state or federal law, including, but not limited to, prohibitions on 
+17undetectable firearms.
+18§2017.  Legislative intent regarding restrictions on undetectable or untraceable 
+19firearms and downloadable gun code
+20The Legislature finds that undetectable and untraceable firearms are a danger to the 
+21residents of this State.  The Legislature finds that the restrictions imposed on undetectable 
+22firearms pursuant to section 2015, on untraceable firearms pursuant to section 2016 and 
+23on the dissemination of downloadable gun code pursuant to section 2016 are necessary to 
+24ensure that undetectable and untraceable firearms, as defined in sections 2015 and 2016, 
+25respectively, are clearly prohibited in the State, except as specifically provided.  The 
+26Legislature further finds that these restrictions are necessary to discourage and prevent 
+27the dissemination of firearms that are undetectable in metal detectors and other security 
+28screening devices, that are untraceable due to the lack of a serial number or other form of 
+29required firearm identification and that can readily be possessed by those who may not be 
+30legally able to do so under existing federal and state laws.  The Legislature finds that the 
+31restrictions imposed pursuant to sections 2015 and 2016 are necessary to prevent the 
+32widespread possession of these dangerous weapons before they become a prevalent 
+33problem in this State and a threat to the health and well-being of the residents of this 
+34State.
+35SUMMARY
+36This bill regulates the manufacture, distribution and possession of so-called ghost 
+37guns and so-called 3-D printed guns or 3-D guns, which are fully functioning firearms 
+38that can be made at home by unlicensed firearm manufacturers, sellers and distributors 
+39either by purchasing the necessary parts separately, or as part of mail order gun kits, and 
+40then assembling them at home or by downloading a computer code from the Internet that 
+41allows the user to manufacture the gun using a 3-D printer.  This bill provides definitions 
+42of "undetectable firearm" and "untraceable firearm" and prohibits the manufacture, 
+Page 4 - 129LR1477(01)-11import, sale, transfer and possession of such firearms with certain exceptions.  This bill 
+2also prohibits, with certain exceptions, the dissemination of downloadable gun code from 
+3which untraceable firearms can be manufactured.

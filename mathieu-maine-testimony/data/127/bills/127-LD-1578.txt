@@ -1,0 +1,944 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled p aper  
+127th MAINE LEGISLATURE  
+ 
+SECOND REGULAR SESSION -2016  
+ 
+Legislative Document  No. 1578  
+S.P. 626  In Senate, January 28, 2016  
+ 
+ 
+An Act To Update Maine's Solid Waste Management Laws  
+ 
+(AFTER DEADLINE)  
+ 
+ 
+ 
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+205. 
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator SAVIELLO of Franklin.  
+Cosponsored by Representative CAMPBELL of Orrington and  
+Senator: BREEN of Cumberland, Representatives: DUCHESNE of Hudson, WELSH of 
+Rockport.  
+ 
+ 
+
+ 
+ Page 1 - 127LR2574(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  38 MRSA §1611 is enacted to read:  2 
+§1611.  Stewardship program for small batteries  3 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 4 
+following terms have the following meanings.  5 
+A.  "Approved product" means:  6 
+(1)  A covered battery or a covered battery -containing product for which its 7 
+producer, individually or through a covered battery stewardship organization, has 8 
+submitted a covered battery stewardshi p plan approved by the commissioner and 9 
+the plan has been implemented to collect and recycle covered batteries or covered 10 
+battery -containing products in accordance with the plan; or  11 
+(2)  A covered battery -containing product that has been listed in accordan ce with 12 
+subsection 8 as the product of a participant in a covered battery stewardship 13 
+program.  14 
+B.  "Brand" means a trademark, including both a registered and an unregistered 15 
+trademark, a logo, a name, a symbol, a word, an identifier or a traceable mark tha t 16 
+identifies a covered battery or covered battery -containing product and identifies as 17 
+the producer of the battery or product the owner or licensee of the brand.  18 
+C.  "Covered battery" means a new or unused primary battery or a small rechargeable 19 
+battery.  20 
+D.  "Covered battery -containing product" means a new or unused primary battery - 21 
+containing product or a rechargeable battery -containing product.  22 
+E.  "Covered battery stewardship organization" or "organization" means an 23 
+organization appointed by more than one  producer to design, submit a plan for, 24 
+implement and administer a covered battery stewardship program in accordance with 25 
+this section and that has accepted that appointment.  26 
+F.  "Covered battery stewardship plan" or "plan" means a plan submitted to the 27 
+commissioner in accordance with subsection 3 by a producer or a covered battery 28 
+stewardship organization.  29 
+G.  "Covered battery stewardship program" or "program" means a system 30 
+implemented for the collection, transportation, recycling and disposal of covered 31 
+batteries in accordance with a covered battery stewardship plan approved under 32 
+subsection 4.  33 
+H.  "Discarded covered battery" means a covered battery that a user discarded, 34 
+abandoned or sent for recycling or intended to discard, abandon or send for recyclin g. 35 
+I.  "Operator" means a producer or covered battery stewardship organization that 36 
+implements and administers a covered battery stewardship program.  37 
+J.  "Participant" means a producer that establishes or participates in a covered battery 38 
+stewardship progr am individually or by appointing and having that appointment 39 
+ 
+ Page 2 - 127LR2574(01) -1 
+ accepted by a covered battery stewardship organization to operate the program on the 1 
+producer's behalf.  2 
+K.  "Primary battery" means a nonrechargeable battery that weighs 2 kilograms or 3 
+less, incl uding, but not limited to, nonrechargeable alkaline, carbon -zinc and lithium 4 
+metal batteries.  5 
+L.  "Primary battery -containing product" means a product that contains or is 6 
+packaged with a primary battery.  "Primary battery -containing product" does not 7 
+inclu de: 8 
+(1)  A product from which a primary battery is not easily removed or is not 9 
+intended or designed to be removed from the product other than by the 10 
+manufacturer; or  11 
+(2)  A medical device, as described in the Federal Food, Drug and Cosmetic Act, 12 
+21 United  States Code, Section 360(c) (2012), if, when the device or battery 13 
+within the device is discarded, it must be treated as biomedical waste or if 14 
+changing the supplier of the battery contained in the medical device would 15 
+change the registration status of th e device with the United States Food and Drug 16 
+Administration pursuant to the Federal Food, Drug and Cosmetic Act, 21 United 17 
+States Code, Section 360 (2012).  18 
+M.  "Producer" means, with respect to a covered battery or covered battery - 19 
+containing product that is sold, offered for sale or distributed for sale in the State, the 20 
+following:  21 
+(1)  The person that manufactures the covered battery or covered battery - 22 
+containing product and sells or offers for sale in the State that battery or product 23 
+under the person's own brand;  24 
+(2)  If there is no person to which subparagraph (1) applies, the owner or licensee 25 
+of a brand under which the covered battery or covered battery -containing product 26 
+is sold or distributed in the State; or  27 
+(3)  If there is no person to which subp aragraph (1) or (2) applies, a person, 28 
+including, but not limited to, a wholesaler or retailer, that imports the covered 29 
+battery or covered battery -containing product into the United States for sale or 30 
+distribution in the State.  31 
+N.  "Rechargeable battery -containing product" means a product that contains or is 32 
+packaged with a small rechargeable battery.  "Rechargeable battery -containing 33 
+product" does not include:  34 
+(1)  A product from which a rechargeable battery is not easily removed or is not 35 
+intended or des igned to be removed from the product other than by the 36 
+manufacturer; or  37 
+(2)  A medical device, as described in the Federal Food, Drug and Cosmetic Act, 38 
+21 United States Code, Section 360c (2012), if, when the device or battery within 39 
+the device is discarde d, it must be treated as biomedical waste.  40 
+O.  "Recycling" means any process through which a discarded covered battery or its 41 
+components or by -products is transformed from its original identity or form into new 42 
+ 
+ Page 3 - 127LR2574(01) -1 
+ usable or marketable material.  "Recycling" d oes not include the incineration of a 1 
+discarded covered battery or its components or by -products for energy recovery.  2 
+P.  "Retailer" means a person that sells or offers a covered battery or covered battery - 3 
+containing product for retail sale, as defined in Title 36, section 1752, subsection 11, 4 
+in the State, including through a remote offering for sale, such as a sales outlet or 5 
+sales catalog or via the Internet.  6 
+Q.  "Small rechargeable battery" means a battery that contains one or more voltaic or 7 
+galvanic c ells, electrically connected to produce electric energy, that weighs less than 8 
+5 kilograms and that is designed to be recharged and to provide less than 40 volts 9 
+direct current.  "Small rechargeable battery" does not include:  10 
+(1)  A battery that is not eas ily removed or is not intended or designed to be 11 
+removed from a covered battery -containing product other than by the 12 
+manufacturer;  13 
+(2)  A battery that contains electrolyte as a free liquid; or  14 
+(3)  A battery or battery pack that employs lead -acid technolog y, unless the 15 
+battery or battery pack is sealed, contains no liquid electrolyte and is intended by 16 
+its manufacturer to power a handheld device or to provide uninterrupted backup 17 
+electrical power protection for stationary consumer covered battery -containing  18 
+products or stationary office equipment.  19 
+R.  "Wholesaler" means a person that offers for sale or sells in the State a covered 20 
+battery or covered battery -containing product in a sale that is not a retail sale, as 21 
+defined in Title 36, section 1752, subsecti on 11, with the intention that the battery or 22 
+product be resold in a subsequent retail sale.  23 
+2.  Product labeling.  By January 1, 2017, a producer that sells, offers for sale or 24 
+distributes for sale in the State a covered battery, either as a replacement b attery or 25 
+packaged with or contained in a covered battery -containing product, shall, to the extent 26 
+feasible, ensure that the covered battery is labeled in a manner identifying the chemistry 27 
+employed in storing energy in the battery to facilitate sorting of  discarded batteries by 28 
+recyclers.  29 
+3.  Submission of plan.  No later than 6 months after the effective date of this 30 
+section, except as specified in subsection 6 or 9, each producer of a covered battery or 31 
+covered battery -containing product, individually or  through a covered battery stewardship 32 
+organization that has agreed to act on the producer's behalf, shall submit a plan for the 33 
+establishment of a covered battery stewardship program to the commissioner for 34 
+approval.  The plan must include, at a minimum a nd where applicable:  35 
+A.  If the plan is submitted by an organization, a list of the producers participating in 36 
+the organization and a list of each producer's brands of covered batteries and covered 37 
+battery -containing products;  38 
+B.  A description of the outr each procedures that will be used to provide notice of the 39 
+program to businesses, local agencies, retailers, wholesalers and waste transportation 40 
+services;  41 
+ 
+ Page 4 - 127LR2574(01) -1 
+ C.  A description of the methods that will be used to responsibly manage discarded 1 
+covered batteries  to ensure that the components of the discarded batteries, to the 2 
+extent economically and technically feasible, are recycled or otherwise responsibly 3 
+managed;  4 
+D.  A description of the manner by which the program will use covered battery 5 
+collection points t hat are established through other battery collection programs;  6 
+E.  A description of educational activities planned by the producer or organization;  7 
+F.  If the plan is submitted by an organization or by a producer that does not operate 8 
+physical retail locat ions in the State, a description of how the program will provide 9 
+convenient, free statewide collection opportunities for discarded batteries; and  10 
+G.  If the plan is submitted by an organization, a description of the financing method 11 
+through which implement ation of the plan will be funded.  The financing method 12 
+must:  13 
+(1)  Allocate to producers of primary batteries and primary battery -containing 14 
+products costs that are directly attributable to the recycling of primary batteries, 15 
+such as reclamation costs;  16 
+(2)  Allocate to producers of small rechargeable batteries and rechargeable 17 
+battery -containing products costs that are directly attributable to the recycling of 18 
+rechargeable batteries, such as reclamation costs; and  19 
+(3)  Allocate all other costs on the basis of the weights of types of batteries 20 
+collected or some other nondiscriminatory basis acceptable to participating 21 
+producers of primary batteries, small rechargeable batteries, primary battery - 22 
+containing products and rechargeable battery -containing products.  23 
+4.  Approval of plan.  The commissioner shall review a plan submitted under 24 
+subsection 3 and make a determination of whether to approve the plan within 90 days of 25 
+receipt of the plan.  In conducting a review of a submitted plan, the commissioner may 26 
+consu lt with producers, associations representing producers, covered battery stewardship 27 
+organizations, retailers and recyclers.  28 
+A.  If the commissioner determines that a submitted plan fails to meet all applicable 29 
+requirements of subsection 3, the commissioner  shall provide to the producer or 30 
+organization that submitted the plan a written notice of determination describing the 31 
+reasons for rejecting the plan.  No later than 45 days after receiving a written notice 32 
+of determination from the commissioner rejecting  a submitted plan, the producer or 33 
+organization may amend the plan and resubmit the plan to the commissioner for 34 
+reconsideration.  The commissioner shall review an amended plan, make a 35 
+determination of whether to approve the amended plan and provide a writ ten notice 36 
+of determination notifying the producer or organization of the commisioner's decision 37 
+within 45 days of receipt of the amended plan.  A producer or organization whose 38 
+amended plan is rejected by the commissioner may appeal the commissioner's 39 
+decision in accordance with section 346.  40 
+B.  If the commissioner approves a submitted plan, the commissioner shall provide to 41 
+the producer or organization that submitted the plan a written notice of determination 42 
+of the plan's approval.  No later than 30 days  after receiving a written notice of 43 
+ 
+ Page 5 - 127LR2574(01) -1 
+ determination from the commissioner approving a submitted plan, the producer or 1 
+organization shall make the approved plan available on its publicly accessible 2 
+website, but is not required to make available any informati on contained in the 3 
+approved plan protected under the Uniform Trade Secrets Act.  4 
+C.  No later than 45 days after the commissioner's approval of a submitted plan, the 5 
+department shall make available on its publicly accessible website a list of 6 
+participants in and brands of covered batteries and covered battery -containing 7 
+products included under the approved plan or provide instructions on how to obtain 8 
+such information as provided by the producer or organization that submitted the 9 
+approved plan.  10 
+5.  Implemen tation of plan.  A producer or organization that submitted a plan 11 
+approved by the commissioner under subsection 4 shall implement the plan no later than 12 
+the first day of the next calendar quarter after the date the plan is approved by the 13 
+commissioner, exc ept that if the period of time between the date the plan is approved and 14 
+the first day of the next calendar quarter is less than 60 days, the producer or organization 15 
+shall implement the plan within 60 days after the date the plan is approved.  16 
+6.  Amendmen t of plan and termination of program.  This subsection governs 17 
+amendment of a plan approved under subsection 4 and termination of a program 18 
+established under an approved plan.  19 
+A.  An approved plan under subsection 4 may be amended at the discretion of the 20 
+producer or organization that submitted the plan without approval from the 21 
+commissioner if the proposed amendments do not significantly alter the likelihood 22 
+that the plan will result in the successful collection and recycling of discarded 23 
+batteries.  If pr oposed amendments to an approved plan would significantly alter the 24 
+likelihood that the plan will result in the successful collection and recycling of 25 
+discarded batteries, including, but not limited to, amendments eliminating a 26 
+substantial number of retail  collection locations, adding or deleting battery 27 
+chemistries to be collected, addressing threats to the financial viability of the 28 
+organization or addressing disruption in transportation or service affecting the ability 29 
+of the producer or organization or any service providers to collect or process covered 30 
+batteries or covered battery -containing products, the producer or organization shall 31 
+submit to the commissioner a revised plan describing the proposed amendments.  The 32 
+commissioner shall review the revise d plan and make a determination of whether to 33 
+approve the proposed amendments within 90 days of receipt of the revised plan.  If 34 
+the commissioner determines that the revised plan fails to meet all applicable 35 
+requirements of subsection 3, the commissioner s hall provide to the producer or 36 
+organization a written notice of determination describing the reasons for rejecting the 37 
+revised plan.  No later than 45 days after receiving a written notice of determination 38 
+from the commissioner rejecting a revised plan, t he producer or organization may 39 
+amend and resubmit the revised plan to the commissioner for reconsideration. The 40 
+commissioner shall review an amended revised plan, make a determination of 41 
+whether to approve the amended revised plan and provide a written no tice of 42 
+determination notifying the producer or organization of the commissioner's decision 43 
+within 45 days of receipt of the amended revised plan.  The commissioner may not 44 
+reject an amended revised plan submitted for reconsideration without providing the 45 
+ 
+ Page 6 - 127LR2574(01) -1 
+ producer or organization with notice and opportunity for a hearing.  A producer or 1 
+organization whose amended revised plan is rejected by the commissioner may 2 
+appeal the commissioner's decision in accordance with section 346.  3 
+B.  A producer or organization  that submitted a plan approved under subsection 4 4 
+may terminate the program implementing that plan no earlier than 90 days after 5 
+providing notice to the commissioner and to program participants of the program's 6 
+termination.  Prior to the termination of a program, each producer included in the 7 
+program shall, individually or through a covered battery stewardship organization 8 
+that has agreed to act on the producer's behalf, submit a plan for the establishment of 9 
+a covered battery stewardship program to the co mmissioner for approval consistent 10 
+with subsection 3 or join an existing organization.  11 
+C.  A plan approved under subsection 4 remains in effect until a revised plan is 12 
+adopted in accordance with paragraph A or the program implementing that plan is 13 
+terminat ed in accordance with paragraph B by the producer or organization that 14 
+submitted the plan.  15 
+7.  Sales prohibition.  This subsection governs the sale of covered batteries and 16 
+covered battery -containing products in the State.  17 
+A.  Beginning July 1, 2017, a man ufacturer, distributor, wholesaler or retailer may 18 
+not sell, offer for sale, distribute for sale or offer for promotional purposes in the 19 
+State a covered battery or covered battery -containing product unless the producer of 20 
+the battery or product has joined  an existing covered battery stewardship organization 21 
+or submitted a plan for the establishment of a covered battery stewardship program 22 
+that has been approved by the commissioner.  23 
+B.  Notwithstanding paragraph A, a manufacturer, distributor, wholesaler or  retailer 24 
+may continue to sell, distribute for sale, offer for sale or offer for promotional 25 
+purposes in the State a covered battery or covered battery -containing product 26 
+manufactured prior to July 1, 2017, but shall:  27 
+(1)  By October 1, 2017, sell or other wise divest or dispose of its remaining stock 28 
+of covered batteries manufactured prior to July 1, 2017 by a producer that has not 29 
+joined an existing covered battery stewardship organization or submitted a plan 30 
+for the establishment of a covered battery stew ardship program that has been 31 
+approved by the commissioner; and  32 
+(2)  By October 1, 2018, sell or otherwise divest or dispose of its remaining stock 33 
+of covered battery -containing products manufactured prior to July 1, 2017 by a 34 
+producer that has not joined an existing covered battery stewardship organization 35 
+or submitted a plan for the establishment of a covered battery stewardship 36 
+program that has been approved by the commissioner.  37 
+C.  Notwithstanding paragraphs A and B, a manufacturer, distributor, wholesa ler or 38 
+retailer of medical devices, as described in the Federal Food, Drug and Cosmetic Act, 39 
+21 United States Code, Section 360c (2012), may continue to sell its existing 40 
+inventory of medical devices containing batteries not included in a plan approved 41 
+under subsection 4 until July 1, 2027, except that new medical devices entering a 42 
+ 
+ Page 7 - 127LR2574(01) -1 
+ manufacturer's, distributor's, wholesaler's or retailer's inventory on or after July 1, 1 
+2017 must be included in an approved plan no later than July 1, 2022.  2 
+D.  Notwithstanding  paragraphs A and B, a hospital or other health care provider may 3 
+continue to sell or otherwise exhaust its existing inventory of medical devices 4 
+containing batteries not included in a plan approved under subsection 4 until July 1, 5 
+2027, except that new me dical devices entering the hospital's or health care provider's 6 
+inventory on or after July 1, 2017 must be included in an approved plan no later than 7 
+July 1, 2022.  8 
+8.  Producer exclusions.  Notwithstanding subsection 1, paragraph M, a person that 9 
+manufactu res, sells, offers for sale or imports for sale in the State a primary battery - 10 
+containing product is not considered a producer under this section if, no later than 45 days 11 
+after receiving a request from the commissioner or an operator, the person verifies to the 12 
+commissioner or the operator that the product contains only primary batteries supplied by 13 
+a producer participating in a covered battery stewardship program in the State.  An 14 
+operator of a covered battery stewardship program that includes the primary  battery 15 
+contained in the person's primary battery -containing product shall list the person as a 16 
+participant in and the product as covered under the operator's program.  17 
+9.  New producers.  A producer who seeks to sell, offer for sale or distribute for 18 
+prom otional purposes in the State a covered battery or covered battery -containing product 19 
+not sold or offered for sale in the State prior to July 1, 2017 must notify the commissioner 20 
+prior to the sale, offer for sale or distribution of the covered battery or c overed battery - 21 
+containing product in the State.  22 
+A.  Upon receiving notification under this subsection from a new producer, the 23 
+commissioner shall list the producer as a new producer on the department's publicly 24 
+accessible website.  25 
+B.  No later than 90 days  following a new producer's notification to the 26 
+commissioner, the producer shall submit a plan to the commissioner in accordance 27 
+with subsection 3 or join an existing organization operating under a plan approved 28 
+under subsection 4.  29 
+C.  If a new producer fa ils to submit a plan or join an existing organization within the 30 
+90-day period under paragraph B, the producer may not sell a covered battery or 31 
+covered battery -containing product in the State after the expiration of the 90 -day 32 
+period and a retailer may no t sell that producer's battery or product in the State after 33 
+120 days following the expiration of the 90 -day period.  34 
+D.  Notwithstanding paragraph C, if a new producer submits a plan within the 90 -day 35 
+period under paragraph B and that plan is ultimately re jected by the commissioner 36 
+under subsection 4 after the expiration of the 90 -day period, the producer may not sell 37 
+the covered battery or covered battery -containing product in the State after 45 days 38 
+following the commissioner's final determination rejecti ng the submitted plan and a 39 
+retailer may not sell the producer's battery or product in the State after 120 days 40 
+following the commissioner's final determination rejecting the submitted plan.  41 
+A new producer that fails to submit a plan that is approved by th e commissioner under 42 
+subsection 4 or to join an existing organization within the time limits described in this 43 
+ 
+ Page 8 - 127LR2574(01) -1 
+ subsection may not sell, offer for sale or distribute for promotional purposes a covered 1 
+battery or covered battery -containing product not sold o r offered for sale in the State prior 2 
+to July 1, 2017 until the producer submits a plan for approval consistent with subsection 3 3 
+that is subsequently approved by the commissioner or joins an existing organization.  4 
+10.  Return of noncompliant products.  If a plan approved under subsection 4 is 5 
+subsequently determined by the commissioner not to be in compliance with this section, a 6 
+producer who sells, offers for sale or distributes for sale in the State a covered battery or 7 
+covered battery -containing product  included in that plan shall, upon request by a retailer, 8 
+designate a location to which the retailer may ship the battery or product for further 9 
+handling and shall reimburse the retailer for costs incurred in shipping the battery or 10 
+product to the designat ed location.  11 
+11.  Safe collection.  A retailer, wholesaler, bulk collector, organization or curbside 12 
+program operator that collects covered batteries or covered battery -containing products in 13 
+the State, has a physical presence in the State and is operating  under or in cooperation 14 
+with a covered battery stewardship program shall ensure that all discarded covered 15 
+batteries and covered battery -containing products placed in its collection containers are 16 
+protected from short -circuiting in accordance with applica ble regulations of the federal 17 
+Department of Transportation, 49 Code of Federal Regulations, Subtitle B (2015) and 18 
+other applicable laws or regulations and take reasonable steps to prevent the placement of 19 
+materials other than properly protected discarded covered batteries and covered battery - 20 
+containing products into its collection containers.  21 
+12.  Costs of participation.  A retailer or wholesaler may not require a producer or 22 
+covered battery stewardship organization to reimburse the retailer or wholesaler for costs 23 
+associated with its participation in a covered battery stewardship program.  24 
+13.  Reporting.  On or before May 1st of each year, beginning 2 years after the date a 25 
+covered battery stewardship plan is approved by the commissioner, the producer or 26 
+organization administering the program implementing the approved plan shall submit to 27 
+the commissioner a report describing activities carried out by the program pursuant to the 28 
+plan during the previous calendar year.  The report must include, at a minimum, the 29 
+following information:  30 
+A.  The weight of covered batteries collected by the program in the previous calendar 31 
+year;  32 
+B.  The location of and contact information for each collection point established 33 
+under the program;  34 
+C.  A description of the manner in w hich collected covered batteries and covered 35 
+battery -containing products were sorted, consolidated and processed by the program;  36 
+D.  A description of the educational materials developed and used by the program, 37 
+including examples of such materials; and  38 
+E.  If the report is filed by a covered battery stewardship organization, a summary 39 
+financial statement documenting the financing of the program consistent with the 40 
+requirements of subsection 3, paragraph G.  If an organization operates a similar 41 
+program in a nother state, the organization may meet the requirements of this 42 
+ 
+ Page 9 - 127LR2574(01) -1 
+ paragraph by submitting a summary financial statement that consolidates information 1 
+for all states in which it operates covered battery stewardship programs without 2 
+providing financial inform ation specific to its program in this State.  3 
+14.  Administration and enforcement.  The department shall enforce this section 4 
+and may adopt rules consistent with this section as necessary for the purpose of 5 
+implementing, administering and enforcing this sec tion.  Rules adopted pursuant to this 6 
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 7 
+A.  The commissioner may not initiate an enforcement action under this section 8 
+against a manufacturer, distributor, wholesaler or retailer:  9 
+(1)  Concerning the sale of covered batteries or covered battery -containing 10 
+products that are not approved products if the sale occurred prior to October 1, 11 
+2017;  12 
+(2)  Concerning the sale of covered batteries manufactured prior to the effectiv e 13 
+date of this section if the sale occurred prior to October 1, 2017; or  14 
+(3)  Concerning the sale of covered battery -containing products manufactured 15 
+prior to the effective date of this section if the sale occurred prior to October 1, 16 
+2018.  17 
+B.  The commiss ioner may not initiate an enforcement action under this section 18 
+against a manufacturer, distributor, wholesaler or retailer:  19 
+(1)  For selling or offering for sale a covered battery or covered battery - 20 
+containing product if that entity, within 90 days of dis covering that the battery or 21 
+product is not in compliance with this section, removes the battery or product 22 
+from sale; or  23 
+(2)  For purchasing a covered battery or covered battery -containing product after 24 
+the effective date of this section that is verified to be an approved product at the 25 
+time of purchase but that is no longer an approved product at the time it is sold by 26 
+that entity.  27 
+15.  Limited private right of action by authorized organization.  An authorized 28 
+organization may maintain a civil action in S uperior Court against a noncompliant 29 
+producer to recover damages and additional sums and costs as set forth in this subsection.  30 
+A.  As used in this subsection, unless the context otherwise indicates, the following 31 
+terms have the following meanings.  32 
+(1)  "A llocated share" means:  33 
+(a)  In the case of a noncompliant producer, a plaintiff's choice of either the 34 
+percentage of batteries by weight identified in data of sufficient reliability 35 
+that are employed by a compliant producer to estimate market shares in the  36 
+normal course of business or the percentage of discarded batteries by weight 37 
+for which a defendant is identifiable as the producer, as identified through a 38 
+plaintiff's one -time sort of no less than 500 pounds of discarded covered 39 
+batteries randomly collec ted in the State by the plaintiff; or  40 
+ 
+ Page 10 - 127LR2574(01) -1 
+ (b)  In the case of an alternatively complying producer, the percentage of 1 
+discarded batteries by weight identified as the responsibility of the producer 2 
+in data generated from a set of qualifying discarded battery sor ts. 3 
+(2)  "Alternatively complying producer" means a producer participating in a 4 
+program not operated by an authorized organization during the time an 5 
+authorized organization incurred damages recoverable under this subsection.  6 
+(3)  "Authorized organization"  means a covered battery stewardship organization 7 
+established under the law of any state or territory of the United States that 8 
+authorizes establishment of nonprofit entities or recognized by the United States 9 
+Internal Revenue Service as exempt from taxati on under Section 501 of the 10 
+United States Internal Revenue Code, as amended, that, pursuant to a plan 11 
+approved under subsection 4, spent more than $250,000 collecting and recycling 12 
+covered batteries discarded in the State in the previous calendar year.  13 
+(4)  "Data generated from a set of qualifying discarded battery sorts" means the 14 
+total data collected by a plaintiff from sorting 500 pounds of covered batteries 15 
+collected at each of 3 or more collection sites in the State reasonably believed by 16 
+the plaintiff  to be representative of the population of the State.  These sorts may 17 
+be undertaken at any time after a plan is approved by the commissioner under 18 
+subsection 4, but must all be collected within a 5 -year period.  Data generated 19 
+from these sorts must includ e the brands of collected batteries, the weight of each 20 
+brand collected and the percentage shares of the total collected weight 21 
+attributable to each identifiable brand and to all batteries not identifiable by 22 
+brand.  23 
+(5)  "Estimated total weight of batterie s sold in the State" means an estimate of 24 
+the total weight of batteries sold in the State as individual units or as components 25 
+or packaged with covered battery -containing products, using methods of 26 
+sufficient reliability that are employed by a producer to estimate market shares in 27 
+the normal course of business.  28 
+(6)  "Noncompliant producer" means a producer not participating in any plan 29 
+approved by the commissioner in accordance with subsection 4 during the time 30 
+an authorized organization incurred damages re coverable under this subsection.  31 
+(7)  "Program sort goal" means the sum of discarded covered batteries by weight 32 
+identified as the responsibility of all producers participating in an authorized 33 
+organization in data generated from a set of qualifying discar ded battery sorts, 34 
+multiplied by 10% during the first 3 years this section is in effect, by 15% in the 35 
+next 3 years and by 20% in the 6th and subsequent years this section is in effect.  36 
+(8)  "Unaccounted -for amount" means the costs incurred by a plaintiff multiplied 37 
+by the percentage of batteries by weight collected through the plaintiff's one -time 38 
+sort of no less than 500 pounds of randomly collected discarded covered batteries 39 
+for which a producer cannot be identified.  40 
+B.  Except as provided in paragraph C, damages recoverable under this subsection are 41 
+an amount equal to the total sum of a defendant's allocated share multiplied by a 42 
+plaintiff's total costs of collecting and recycling discarded covered batteries in the 43 
+State during the time period of noncom pliance alleged plus a defendant's allocated 44 
+ 
+ Page 11 - 127LR2574(01) -1 
+ share of the unaccounted -for amount for the same time period.  Except as provided in 1 
+paragraph C, if a plaintiff prevails in an action brought pursuant to this subsection, 2 
+the plaintiff is entitled to an award o f reasonable attorney's fees and court costs, 3 
+including expert witness fees, as well as a punitive sum of 3 times the damages 4 
+award.  5 
+C.  An authorized organization that collected in the previous calendar year a weight 6 
+of discarded covered batteries in exce ss of its program sort goal may maintain a civil 7 
+action in Superior Court against an alternatively complying producer to recover 8 
+damages and additional sums and costs as set in this paragraph.  Damages 9 
+recoverable under this paragraph are an amount equal t o the total sum of a 10 
+defendant's allocated share of the excess multiplied by a plaintiff's total costs of 11 
+collecting and recycling covered batteries discarded in the State during the time 12 
+period alleged.  A court may, in the interests of justice, award to a plaintiff who 13 
+prevails in an action brought pursuant to this paragraph reasonable attorney's fees and 14 
+court costs, including expert witness fees.  15 
+D.  An action may not be commenced under this subsection until 60 days after a 16 
+plaintiff provides to all pot ential defendants a written notice of the claim setting forth 17 
+the amount of the claim and the basis for the calculation of that amount.  18 
+E.  An authorized organization may initiate a single civil action in Superior Court 19 
+against one or more producers.  20 
+16.  Preemption.  The State intends to occupy and preempt the entire field of 21 
+legislation concerning the regulation of the stewardship of covered batteries and covered 22 
+battery -containing products.  Any existing or future order, ordinance, rule or regulation in 23 
+this field of any political subdivision of the State is void.  24 
+17.  Antitrust exclusions.  A producer, a group of producers and a covered battery 25 
+stewardship organization, and an agent, officer, director and employee of such entities, 26 
+preparing, submitting a plan for, implementing or administering a covered battery 27 
+stewardship program in accordance with this section, and a wholesaler and retailer that 28 
+engages in conduct authorized by this section, are granted immunity, individually and 29 
+jointly, from all appl icable antitrust laws of the State for the limited purpose of 30 
+establishing, implementing and administering a covered battery stewardship program and 31 
+otherwise complying with the requirements of this section, and any activity undertaken 32 
+by these entities in  accordance with and authorized under this section is not an unlawful 33 
+restraint of trade, a conspiracy or other violation of any provision of any applicable 34 
+antitrust law of the State.  35 
+An action taken by a producer, a group of producers or an organization to increase the 36 
+recycling of covered batteries in accordance with this section that affects the types or 37 
+quantities of batteries recycled or the cost and structure of any covered battery 38 
+stewardship program is not a violation of any provision of Title 10, chapter 201, except 39 
+when such action constitutes an agreement establishing or affecting the price of covered 40 
+batteries or the output or production of covered batteries or restricting the geographic area 41 
+in which covered batteries will be sold or the custom ers to whom covered batteries will 42 
+be sold.  43 
+ 
+ Page 12 - 127LR2574(01) -1 
+ 18.  Repeal.  This section is repealed 9 years after the date on which a covered 1 
+battery stewardship plan is first approved by the commissioner under subsection 4, except 2 
+that an authorized organization, as defin ed in subsection 15, paragraph A, subparagraph 3 
+(3), may, in accordance with subsection 15, recover after the repeal of this section costs 4 
+incurred prior to the repeal of this section in collecting and recycling covered batteries 5 
+discarded in the State.  Th e commissioner shall notify the Revisor of Statutes when a 6 
+covered battery stewardship plan is first approved by the commissioner under subsection 7 
+4. 8 
+Sec. 2.  38 MRSA §2132, sub -§1, as amended by PL 2011, c. 655, Pt. GG, §32 9 
+and affected by §70, is further  amended to read:  10 
+1.  State recycling goal.   It is the goal of the State to recycle or compost, by January 11 
+1, 2014  2021 , 50% of the municipal solid waste tonnage generated each year within the 12 
+State.  13 
+Sec. 3.  38 MRSA §2145 is enacted to read:  14 
+§2145.  Comme rcial food waste composting requirement  15 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 16 
+following terms have the following meanings.  17 
+A.  "Composting facility" means a solid waste processing facility, as defined in 18 
+section 1303 -C, subsection 32 -A, where organic materials are processed using a 19 
+method of accelerated biological decomposition of organic material under controlled 20 
+aerobic or anaerobic conditions.  21 
+B.  "Food waste" means food material produced from human or ani mal food 22 
+production, preparation and consumption activities that consists of, but is not limited 23 
+to, fruits, vegetables and other vegetative material, grains and fish and animal 24 
+products and by -products.  "Food waste" does not include biomedical waste, 25 
+hazardous waste or septage, as defined in section 1303 -C, subsections 1 -A, 15 and 26 
+27, respectively.  27 
+C.  "Large quantity commercial food waste generator" means a commercial entity 28 
+that generates one ton or more of food waste per week, including, but not limite d to, a 29 
+food wholesaler or distributor, a food manufacturer or processor, a restaurant, a 30 
+hospital, a university or other educational institution, a grocery store, a resort or a 31 
+conference center.  32 
+2.  Composting requirement.  Except as provided in this se ction, beginning January 33 
+1, 2020, a large quantity commercial food waste generator that is located within 20 miles 34 
+of a composting facility with available capacity to accept the food waste produced by the 35 
+generator shall deliver all food waste produced by the generator to a composting facility 36 
+for processing.  37 
+A.  For the purposes of this section, a composting facility located outside of the State 38 
+must be considered in determining whether a large quantity commercial food waste 39 
+generator is located within 20 miles of a composting facility with available capacity.  40 
+ 
+ Page 13 - 127LR2574(01) -1 
+ B.  A large quantity commercial food waste generator subject to this section may 1 
+elect to deliver the food waste produced by the generator to a composting facility 2 
+with available capacity located more  than 20 miles from the generator.  3 
+C.  A large quantity commercial food waste generator is deemed in compliance with 4 
+this section if it performs composting of its generated food waste on site or otherwise 5 
+treats its generated food waste using an on -site or ganic treatment method approved 6 
+by the department.  7 
+3.  Waiver.  The department may provide a waiver from the requirements of this 8 
+section for a large quantity commercial food waste generator that demonstrates to the 9 
+department's satisfaction that complianc e with the requirements of this section would 10 
+result in substantial financial hardship for the generator.  11 
+A.  The department may award a grant or low -interest loan under section 2201 -B to a 12 
+large quantity commercial food waste generator to assist the gener ator in meeting the 13 
+requirements of this section through implementation of a food waste composting 14 
+program.  The department may not approve a waiver under this subsection unless the 15 
+generator seeking the waiver has applied for a grant or low -interest loan under section 16 
+2201 -B. 17 
+B.  The department shall adopt rules consistent with subsection 4 setting forth the 18 
+criteria for approval of a waiver under this subsection.  19 
+4.  Rules.  The department shall adopt rules to implement the provisions of this 20 
+section.  Ru les adopted pursuant to this subsection are routine technical rules as defined 21 
+in Title 5, chapter 375, subchapter 2 -A. 22 
+Sec. 4.  38 MRSA §2201, 3rd ¶, as amended by PL 2011, c. 655, Pt. GG, §64 and 23 
+affected by §70, is further amended to read:  24 
+Funds related  to administration may be expended only in accordance with allocations 25 
+approved by the Legislature for administrative expenses directly related to the bureau's 26 
+and the department's programs, including actions by the department necessary to abate 27 
+threats to  public health, safety and welfare posed by the disposal of solid waste.  Funds 28 
+related to fees imposed on the disposal of construction and demolition debris and residue 29 
+from the processing of construction and demolition debris may be expended only for the  30 
+state cost share to municipalities under the closure and remediation cost -sharing program 31 
+for solid waste landfills established in section 1310 -F.  Funds related to fees imposed 32 
+under section 2204 may be expended only in accordance with the Maine Composti ng and 33 
+Recycling Grant and Low -interest Loan Program established in section 2201 -B.  Funds 34 
+related to operations may be expended only in accordance with allocations approved by 35 
+the Legislature and solely for the development and operation of publicly owned facilities 36 
+owned or approved by the bureau and for the repayment of any obligations of the bureau 37 
+incurred under article 3.  These allocations must be based on estimates of the actual costs 38 
+necessary for the bureau and the department to administer their pr ograms, to provide 39 
+financial assistance to regional associations and to provide other financial assistance 40 
+necessary to accomplish the purposes of this chapter.  Beginning in the fiscal year ending 41 
+on June 30, 1991 and thereafter, the fund must annually tr ansfer to the General Fund an 42 
+amount necessary to reimburse the costs of the Bureau of Revenue Services incurred in 43 
+ 
+ Page 14 - 127LR2574(01) -1 
+ the administration of Title 36, chapter 719.   Allowable expenditures include "Personal 1 
+Services," "All Other" and "Capital Expenditures" as sociated with all bureau activities 2 
+other than those included in the operations account.  3 
+Sec. 5.  38 MRSA §2201 -B is enacted to read:  4 
+§2201 -B.  Maine Composting and Recycling Grant and Low -interest Loan Program  5 
+1.  Establishment.  The Maine Composting and Recycling Grant and Low -interest 6 
+Loan Program, referred to in this section as "the program," is established to provide 7 
+grants and low -interest loans to public and private entities to assist in the development, 8 
+implementation or improvement of programs, pro jects, initiatives and activities designed 9 
+to increase composting and recycling rates within the State.  10 
+2.  Administration.  The department shall administer the program and dispense 11 
+revenue from the Maine Solid Waste Management Fund established under secti on 2201 12 
+for the purposes of the program based on approved grant and loan requests from public 13 
+and private applicants.  The department may provide grants and loans for the documented 14 
+costs of application proposals in accordance with the priorities in subsec tion 5.  Costs 15 
+incurred by the department in the development and administration of the program may be 16 
+paid from the revenue dedicated to the program under section 2201, except that the 17 
+department may expend for administrative purposes under this subsection  no more than 18 
+25% of annual revenue dispensed to the program under section 2201 in any calendar year.  19 
+3.  Audit.  Revenue from the Maine Solid Waste Management Fund established 20 
+under section 2201 disbursed by the program is subject to audit, and the recipi ent of any 21 
+such funding must agree to be subject to audit and to cooperate with the auditor as a 22 
+condition of receiving funding.  23 
+4.  Eligibility criteria.  The department may disburse grants and loans under the 24 
+program to any public or private entity demon strating that a proposed program, project, 25 
+initiative or activity is, in the department's determination, likely to increase composting or 26 
+recycling rates within a particular community, municipality or region or the State, 27 
+including, but not limited to, mun icipal or regional composting or recycling programs, 28 
+including the establishment of such programs or the purchase of infrastructure, equipment 29 
+or other items necessary to implement such programs or improve existing programs; 30 
+programs designed to provide eq uipment for or otherwise support residential composting; 31 
+programs or business models designed to collect, transport for processing or process 32 
+compostable or recyclable materials, including the implementation of composting 33 
+programs designed to meet the requ irements of section 2145; pilot programs designed to 34 
+evaluate the feasibility of targeted composting, recycling or other waste management 35 
+programs or initiatives; and initiatives or programs designed to educate certain categories 36 
+of individuals or the gene ral public about composting or recycling or to otherwise 37 
+improve individual or community waste management practices.  38 
+5.  Priorities.  The department shall give highest priority in the awarding of funds 39 
+under this section to programs, projects, initiatives or activities proposed by municipal 40 
+applicants that otherwise meet the department's eligibility criteria.  The department shall 41 
+also give priority to applicants proposing programs, projects, initiatives or activities that 42 
+ 
+ Page 15 - 127LR2574(01) -1 
+ are likely to increase the removal  and recycling of organic materials from municipal 1 
+waste streams.  The awarding of funds under this section must be consistent with the solid 2 
+waste management hierarchy established under section 2101.  3 
+6.  Funding requests.  The department shall solicit app lications by grant -eligible and 4 
+loan-eligible stakeholders, including, but not limited to, municipalities, licensed 5 
+redemption centers and nonprofit and for -profit composters and recyclers.  The 6 
+department shall prioritize approval of funding requests unde r this section to support 7 
+areas where funding will provide the most benefit to the State in terms of increasing 8 
+composting and recycling rates within the State.  9 
+7.  Grants and loans for recycling of construction and demolition debris.  The 10 
+department may a ward funds under this section to commercial programs, projects, 11 
+initiatives or activities that propose to recycle construction and demolition debris 12 
+generated in the State consistent with the department's eligibility criteria under this 13 
+section.  For the p urposes of this subsection, the use of construction and demolition debris 14 
+as fuel in industrial boilers or waste -to-energy facilities for the generation of heat, steam 15 
+or electricity constitutes recycling.  16 
+8.  Repeal.  This section is repealed December 31,  2026.  17 
+9.  Rules.  The department may adopt rules to implement this section.  Rules adopted 18 
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 19 
+subchapter 2 -A. 20 
+Sec. 6.  38 MRSA §2202, sub -§3, as enacted by PL 1993, c . 310, Pt. C, §2, is 21 
+amended to read:  22 
+3.  Payment.   A person who delivers solid waste to a solid waste disposal facility , 23 
+solid waste processing facility, incineration facility or solid waste landfill  shall pay all 24 
+fees established under this article to th e operator of the solid waste disposal  facility or 25 
+landfill . 26 
+Sec. 7.  38 MRSA §2203 -A, sub -§1, as amended by PL 2011, c. 544, §3, is 27 
+further amended to read:  28 
+1.  Fees.  Fees are imposed in the following amounts to be levied for solid waste that 29 
+is disposed of at commercial, municipal, state -owned and regional association landfills.  30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39  Asbestos  $5 per cubic yard  
+   
+ Oil-contaminated soil, gravel, brick, 
+concrete and other aggregate  $25 per ton  
+   
+ Waste water facility sludge  $5 per ton  
+   
+ Ash, coal and  oil $5 per ton  
+ 
+ Page 16 - 127LR2574(01) -1 
+  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 
+Sec. 8.  38 MRSA §2204, first ¶, as amended by PL 1999, c. 385, §8, is further 24 
+amended to read:  25 
+The department shall impose a fee of $2 $1 per ton on a ny municipal solid waste 26 
+disposed of at a commercial, municipal or regional association landfill, except that there 27 
+is no fee on municipal solid waste generated by a municipality that owns the landfill 28 
+accepting it or that has entered into a contract with a term longer than 9 months for 29 
+disposal of municipal solid waste in that landfill facility  or received for processing, 30 
+composting or other treatment at a commercial, municipal, regional association or state - 31 
+owned solid waste disposal facility, solid waste  processing facility, incineration facility or 32 
+solid waste landfill . 33 
+Sec. 9.  38 MRSA §2205, first ¶, as amended by PL 1995, c. 465, Pt. A, §77 and 34 
+affected by Pt. C, §2, is further amended to read:  35 
+Each operator of a solid waste disposal facility , solid w aste processing facility, 36 
+incineration facility or solid waste landfill that has collected a fee under this article  shall 37 
+make the fee payment quarterly.  The fee must be paid to the department on or before the 38 
+20th day of April, July, October and January for the 3 months ending the last day of 39 
+March, June, September and December.  40 
+Sec. 10.  38 MRSA §2205, sub -§§1 and 8, as amended by PL 1995, c. 465, Pt. 41 
+A, §77 and affected by Pt. C, §2, are further amended to read:  42    
+ Paper mill sludge  $5 per ton  
+   
+ Industrial waste  $5 per ton  
+   
+ Sandblast grit  $5 per ton  
+   
+ All other special waste  $5 per ton  
+   
+ Municipal solid waste ash  $1 per ton  
+   
+ Front end process residue (FEPR)  $1 per ton  
+   
+ Beginning January 1, 2013 and ending 
+December 31, 2013, construction and 
+demolition debris and residue from the 
+processing of construction and demolition 
+debris  $1 per ton  
+   
+ Beginning January 1, 2014, construction 
+and demolition debris a nd residue from the 
+processing of construction and demolition 
+debris  $2 per ton  
+ 
+ Page 17 - 127LR2574(01) -1 
+ 1.  Quarterly reports.   Each fee payment must be accompanied by a form prepared 1 
+and furnished by the department and completed by the operator.  The form must state the 2 
+total weight or volume of solid waste disposed of or received  at the facility or landfill  3 
+during the payment period and provide a ny other aggregate information determined 4 
+necessary by the department to carry out the purposes of this chapter.  The form must be 5 
+signed by the operator.  6 
+8.  Assessment notice.   If the department determines that any operator has not made 7 
+a timely payment of the fee, the department shall send the operator a written notice of the 8 
+amount of the deficiency, within 30 days of determining the deficiency.  When the 9 
+operator has not provided a complete and accurate statement of the weight or volume of 10 
+waste receiv ed at the facility or landfill  for the payment period, the department may 11 
+estimate the weight or volume in the notice.  12 
+The operator charged with the deficiency has 30 days to pay the deficiency in full or, if 13 
+the operator wishes to contest the deficiency, forward the amount of the deficiency to the 14 
+department for placement in an escrow account with the Treasurer of State or any bank in 15 
+the State, or post an appeal bond in the amount of the deficiency.  The bond must be 16 
+executed by a surety licensed to do bu siness in the State and be satisfactory to the 17 
+department.  Failure to forward the money or appeal bond to the department within 30 18 
+days results in a waiver of all legal rights to contest the deficiency.  19 
+If, through the administrative or judicial review of  the deficiency, it is determined that the 20 
+amount of deficiency must be reduced, the department shall within 30 days remit the 21 
+appropriate amount to the operator, with any interest accumulated by the escrow deposit.  22 
+The amount determined after administrati ve hearing or after waiver of administrative 23 
+hearing is payable to the department and is collectible.  24 
+If any amount due under this subsection remains unpaid 30 days after receipt of notice of 25 
+the deficiency, the department may order the operator of the fac ility or landfill  to cease 26 
+receiving any solid waste until the amount of the deficiency is completely paid.  27 
+Sec. 11.  Department of Environmental Protection; returnable beverage 28 
+container rules.  Pursuant to the authority granted in Public Law 2015, chapt er 166, 29 
+section 15, the Department of Environmental Protection shall, as soon as practicable, 30 
+amend its existing rules or adopt new rules regarding the responsibilities of 31 
+manufacturers, distributors, dealers, initiators of deposit, contracted agents and 32 
+redemption centers under the returnable beverage container law, the Maine Revised 33 
+Statutes, Title 38, chapter 33, to require a deposit and refund value on beverage 34 
+containers containing Maine -produced apple cider and Maine -produced blueberry juice.  35 
+Sec. 12.   Department of Environmental Protection; beneficial use rules.  36 
+As soon as practicable, the Department of Environmental Protection shall amend fuel 37 
+quality standards for construction and demolition debris wood fuel under its existing Rule 38 
+Chapter 418: Ben eficial Use of Solid Wastes to increase the allowance for chromated 39 
+copper arsenate treated wood from less than 1.5% to less than 2.0% and to increase the 40 
+allowance for #4 minus fines for sources other than publicly owned sources from 10% to 41 
+15%.  42 
+ 
+ Page 18 - 127LR2574(01) -1 
+ Sec. 13.  Department of Environmental Protection; food waste 1 
+composting pilot program.  The Department of Environmental Protection shall 2 
+develop, implement and administer a food waste composting pilot program as described 3 
+in this section.  4 
+1.  The department shall i nvite municipalities to participate in the pilot program and 5 
+shall select as participants at least one municipality from each of the 3 following groups 6 
+of counties:  7 
+A.  Androscoggin, Cumberland, Lincoln, Sagadahoc and York;  8 
+B.  Franklin, Kennebec, Knox, Ox ford and Waldo; and  9 
+C.  Aroostook, Hancock, Penobscot, Piscataquis, Somerset and Washington.  10 
+2.  The department shall invite educational institutions to participate in the pilot 11 
+program and shall select as participants at least one educational institution from each of 12 
+the 3 following categories:  13 
+A.  A public or private educational institution providing kindergarten to grade 12 14 
+education with an enrollment of 500 students or less, as measured during the 2014 - 15 
+2015 school year;  16 
+B.  A public or private educatio nal institution providing kindergarten to grade 12 17 
+education with an enrollment of more than 500 students, as measured during the 18 
+2014 -2015 school year; and  19 
+C.  A public or private educational institution providing undergraduate and graduate 20 
+education.  21 
+3.  The department shall invite and shall select as additional participants in the pilot 22 
+program at least one entity from each of the 3 following categories:  23 
+A.  A correctional facility;  24 
+B.  A hospital; and  25 
+C.  A commercial restaurant that generates, on avera ge, 1/2 ton or more of food waste 26 
+per week.  27 
+4.  The department shall invite the Legislative Council to participate in the pilot 28 
+program with respect to the State House facilities.  The department shall invite the 29 
+Department of Administrative and Financial Services, Bureau of General Services to 30 
+participate in the pilot program with respect to the Burton M. Cross State Office Building 31 
+facilities.  32 
+5.  The department shall provide technical assistance, and may provide financial 33 
+assistance consistent with the M aine Composting and Recycling Grant and Low -interest 34 
+Loan Program established under the Maine Revised Statutes, Title 38, section 2201 -B, to 35 
+each participating entity to develop and implement a food waste composting program.  A 36 
+food waste composting progra m implemented under this section may involve the 37 
+establishment of a traditional aerobic composting system or an anaerobic digestion 38 
+system or implementation of another food waste processing technology approved by the 39 
+ 
+ Page 19 - 127LR2574(01) -1 
+ department.  A participating entity sha ll collect data on the amount of food waste diverted 1 
+from the waste stream by the program, the related cost savings realized by the 2 
+participating entity and any problems encountered in implementing the program.  A 3 
+participating entity shall compile this in formation into a report and transmit the report to 4 
+the department on or before a date determined by the department.  5 
+6.  The department shall analyze the reports submitted by the participating entities 6 
+and, by January 15, 2018, shall submit a report to the joint standing committee of the 7 
+Legislature having jurisdiction over environmental and natural resources matters detailing 8 
+the data collected by each participating entity and any additional findings and including 9 
+any recommendations for legislation to impl ement permanent food waste composting 10 
+programs or requirements at the state, regional, municipal or local level or to otherwise 11 
+increase recycling rates for organic materials in the State.  After receiving the report, the 12 
+joint standing committee may repor t out a bill relating to the report to the Second Regular 13 
+Session of the 128th Legislature.  14 
+SUMMARY  15 
+This bill amends the State's solid waste management laws as follows.  16 
+1.  It establishes a product stewardship program for small batteries.  17 
+2.  It updates th e State's recycling goal.  Current statute sets a goal of recycling or 18 
+composting 50% of the municipal solid waste tonnage generated each year within the 19 
+State by January 1, 2014.  This bill extends that goal deadline to January 1, 2021.  20 
+3.  It implements a commercial food waste composting requirement under which a 21 
+large quantity commercial food waste generator that is located within 20 miles of a 22 
+composting facility with available capacity to accept the food waste produced by the 23 
+generator is required to d eliver all food waste produced to a composting facility for 24 
+processing.  A large quantity commercial food waste generator is a commercial entity that 25 
+generates one ton or more of food waste per week.  This bill authorizes the Department of 26 
+Environmental Pr otection to provide a large quantity commercial food waste generator a 27 
+waiver from the composting requirement if compliance would result in substantial 28 
+financial hardship for the generator.  29 
+4.  It eliminates the current statutory waste handling fee of $1 p er ton on the disposal 30 
+at a commercial, municipal, state -owned or regional association landfill of municipal 31 
+solid waste ash and front end process residue.  32 
+5.  It expands the assessment of a statutory municipal solid waste surcharge.  Current 33 
+statute requi res the assessment of a $2 per ton surcharge on the disposal of municipal 34 
+solid waste at a commercial, municipal or regional association landfill.  This bill reduces 35 
+that surcharge to $1 per ton but assesses the surcharge on municipal solid waste disposed 36 
+of or received for processing, composting or other treatment at a commercial, municipal, 37 
+regional association or state -owned solid waste disposal facility, solid waste processing 38 
+facility, incineration facility or solid waste landfill.  39 
+ 
+ Page 20 - 127LR2574(01) -1 
+ 6.  It directs reven ues collected through the assessment of the municipal solid waste 1 
+surcharge to the Maine Composting and Recycling Grant and Low -interest Loan 2 
+Program, which is established by this bill.  This program provides grants and low -interest 3 
+loans to public and pri vate entities to assist in the development, implementation or 4 
+improvement of programs, projects, initiatives and activities designed to increase 5 
+composting and recycling rates within the State.  Under the program, priority in the 6 
+awarding of grants or loan s is given to municipal applicants and to applicants seeking to 7 
+establish programs, projects, initiatives or activities likely to increase composting rates.  8 
+7.  It directs the Department of Environmental Protection to amend existing rules or 9 
+adopt new rule s regarding the returnable beverage container law to require a deposit and 10 
+refund value on beverage containers containing Maine -produced apple cider and Maine - 11 
+produced blueberry juice.  Under the existing statutory and regulatory framework, both of 12 
+these p roducts are exempt from the returnable beverage container law.  13 
+8.  It directs the Department of Environmental Protection to amend existing rules 14 
+regarding the beneficial use of solid wastes to amend fuel quality standards for 15 
+construction and demolition de bris wood fuel to increase allowances for chromated 16 
+copper arsenate treated wood and for #4 minus fines.  17 
+9.  It directs the Department of Environmental Protection to develop, implement and 18 
+administer a food waste composting pilot program.  The department i s required to collect 19 
+data from participating entities and by January 15, 2018 submit a report to the joint 20 
+standing committee of the Legislature having jurisdiction over environmental and natural 21 
+resources matters detailing the data collected by each part icipating entity and any 22 
+additional findings and including any recommendations for legislation to implement 23 
+permanent food waste composting programs or requirements at the state, regional, 24 
+municipal or local level or to otherwise increase recycling rates f or organic materials in 25 
+the State.  After receiving the report, the committee may report out a bill relating to the 26 
+report to the Second Regular Session of the 128th Legislature.  27 
+ 

@@ -1,0 +1,250 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1711
+H.P. 1100 House of Representatives, April 18, 2023
+An Act to Provide for Safe Roadway Construction Design Criteria
+Reference to the Committee on Transportation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MALON of Biddeford.
+Cosponsored by Representatives: ANKELES of Brunswick, CRAFTS of Newcastle, KUHN of 
+Falmouth, LEE of Auburn, O'CONNELL of Brewer, SHEEHAN of Biddeford.
+
+Page 1 - 131LR0996(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  23 MRSA §73, sub-§7, as amended by PL 2021, c. 239, §1, is further 
+3 amended to read:
+47.  Priorities, service levels, asset management goals and reporting.  The 
+5 Department of Transportation shall classify the State's public highways as Priority 1 to 
+6 Priority 5 using factors such as safety metrics, crash data, the federal functional 
+7 classification system, local economic significance based on a value per acre analysis, 
+8 regional economic significance, heavy haul truck use and relative regional traffic volumes.  
+9 The department shall also establish customer service levels related to safety, condition and 
+10 serviceability appropriate to the priority of the highway, resulting in a system that grades 
+11 each highway as Good, Fair or Poor.
+12 To provide a capital transportation program that is geographically balanced and that 
+13 addresses urban and rural needs and meets customer expectations and transportation system 
+14 needs, the department shall include the following goals as part of its asset management and 
+15 work plan preparation.  The goals are to:
+16 A-1.  Maintain Priority 1 highways in accordance with the department's federally 
+17 required transportation asset management plan and the department's customer service 
+18 measures so that no more than 15% of the highways are rated as Poor;
+19 B-1.  Maintain Priority 2 and Priority 3 highways so that no more than 15% of the 
+20 highways are rated as Poor; and
+21 D.  Continue the light capital paving program on a 7-year cycle for Priority 4 highways 
+22 outside compact areas as defined in section 754.
+23 The department shall report to the joint standing committee of the Legislature having 
+24 jurisdiction over transportation matters by March 1st of each odd-numbered year 
+25 quantifying the status of each of the goals.  The department shall recommend any remedial 
+26 actions, including additional funding or revisions to the goals, that the department 
+27 determines to be necessary or appropriate.
+28Sec. 2.  23 MRSA §76 is enacted to read:
+29§76.  Transportation construction project review and design criteria
+301. Project review. As part of a permit application for a transportation construction 
+31 project or upon reaching 25% completion of the design of a transportation construction 
+32 project, the department shall review the design of the project based upon the controlling 
+33 criteria in subsection 2.
+342. Controlling criteria. The department shall apply design standards for the following 
+35 controlling criteria to a transportation construction project under subsection 1: 
+36 A. Pedestrian facilities;
+37 B. Bicycle facilities;
+38 C. Design speed;
+39 D. Shoulder width;
+40 E. Lane width;
+Page 2 - 131LR0996(01)1 F. Public transit provisions;
+2 G. Roadway ramp length;
+3 H. Design loading structural capacity;
+4 I. Horizontal curve radius;
+5 J. Superelevation rate. For purposes of this paragraph, "superelevation" means the bank 
+6 of a curved portion of a road that allows fast-moving vehicles to travel the curve safely 
+7 and with stability;
+8 K. Stopping sight distance;
+9 L. Maximum grade;
+10 M. Cross slope; and
+11 N. Vertical clearance. 
+123. Review process. Upon receipt of a design submission for a transportation 
+13 construction project, the project manager of the department shall forward a copy of the 
+14 design to the chair of the design review committee under subsection 4 and internal design 
+15 reviewers in the department for review and approval. The design may require further 
+16 approval by the Commissioner of Transportation, the chief engineer of the department and 
+17 the United States Department of Transportation, Federal Highway Administration. If the 
+18 design meets all applicable design standards for the controlling criteria under subsection 2, 
+19 department staff may review and approve the design as a normal part of the project delivery 
+20 process. If the design does not meet an applicable design standard for a controlling 
+21 criterion, the design must be approved by the chief engineer of the department.
+224. Design review committee. The design review committee with respect to a 
+23 transportation construction project design submitted under subsection 3 consists of the 
+24 department regional manager overseeing the project and the following 6 members 
+25 appointed by the Commissioner of Transportation:
+26 A. Two urban designers;
+27 B. One municipal economic development director;
+28 C. Two staff members of the department’s planning bureau; and
+29 D. One bicycle or pedestrian safety advocate representing a statewide organization that 
+30 represents or advocates for bicycle or pedestrian safety.
+31 The regional manager is the chair of the committee.  The design review committee shall 
+32 review and approve project designs submitted under subsection 3 and provide 
+33 recommendations for design standards for controlling criteria under subsection 2.
+345. Exemptions. Upon application to the department, a person that submits a 
+35 transportation construction project design under subsection 3 may receive an exemption 
+36 from a design standard under subsection 2. The exemption must be based upon a 
+37 documented need for a variance despite all reasonable efforts to design the project under 
+38 the standard. A cost related to a standard that is less than 20% of the total project cost may 
+39 not be the sole cause for an exemption under this subsection. The following projects are 
+40 exempt from the standards under this section without requiring an application for an 
+41 exemption under this subsection:
+Page 3 - 131LR0996(01)1 A. Pavement preservation activities solely to maintain the roadway surface or bridge 
+2 structure, as long as the accident history of the location does not indicate any apparent 
+3 geometric deficiency, including:
+4 (1) Crack sealing;
+5 (2) Fog sealing;
+6 (3) Chip sealing; and
+7 (4) Rubber chip sealing;
+8 B. Bridge preservation or maintenance treatments solely to maintain the roadway 
+9 surface or bridge structure, as long as the accident history of the location does not 
+10 indicate any apparent geometric deficiency, including:
+11 (1) Joint repair;
+12 (2) Deck repair;
+13 (3) Superstructure repair; and 
+14 (4) Substructure repair;
+15 C. A nonroadway maintenance action, including:
+16 (1) Mowing;
+17 (2) Catch basin cleaning; and 
+18 (3) Street sweeping;
+19 D. Vertical construction;
+20 E. A nonvehicle access permit; and
+21 F. The singular activity of the construction or maintenance of:
+22 (1) Drainage;
+23 (2) A noise barrier;
+24 (3) A guardrail;
+25 (4) Lighting;
+26 (5) Traffic signal equipment;
+27 (6) Signs; or
+28 (7) Landscaping.
+296. Rules. The department shall adopt rules to carry out the purposes of this section. 
+30 Rules adopted pursuant to this subsection are routine technical rules under Title 5, chapter 
+31 375, subchapter 2-A.
+32Sec. 3.  Department of Transportation to adopt rules to establish standards 
+33for transportation construction project review and design criteria. The 
+34 Department of Transportation shall adopt rules to establish standards for transportation 
+35 construction project review and design criteria under the Maine Revised Statutes, Title 23, 
+36 section 76, subsection 2 and otherwise carry out the purposes of Title 23, section 76.
+Page 4 - 131LR0996(01)1 1. In establishing standards under this section, the department shall consult and base 
+2 the standards on standards and guidance provided in the latest editions of the following 
+3 publications:
+4 A. The American Association of State Highway and Transportation Officials, Guide 
+5 for the Development of Bicycle Facilities;
+6 B. The American Association of State Highway and Transportation Officials, Guide 
+7 for the Planning, Design, and Operation of Pedestrian Facilities;
+8 C. The American Association of State Highway and Transportation Officials, Guide 
+9 for Geometric Design of Transit Facilities on Highways and Streets;
+10 D. The American Association of State Highway and Transportation Officials, A Guide 
+11 for Achieving Flexibility in Highway Design;
+12 E. The American Association of State Highway and Transportation Officials, A Policy 
+13 on Design Standards-Interstate System;
+14 F. The American Association of State Highway and Transportation Officials, A Policy 
+15 on Geometric Design of Highways and Streets;
+16 G. The United States Department of Transportation, Federal Highway Administration, 
+17 Guide for Achieving Multimodal Networks;
+18 H. The United States Department of Transportation, Federal Highway Administration, 
+19 Small Town and Rural Multimodal Networks Guide;
+20 I. The United States Department of Transportation, Federal Highway Administration, 
+21 Revisions to the Controlling Criteria for Design and Documentation for Design 
+22 Exceptions;
+23 J. The National Association of City Transportation Officials, Urban Street Design 
+24 Guide;
+25 K. The National Association of City Transportation Officials, Urban Bikeway Design 
+26 Guide; and
+27 L. The National Association of City Transportation Officials, Transit Street Design 
+28 Guide.
+29 2. In developing standards for pedestrian facilities under Title 23, section 76, 
+30 subsection 2, paragraph A, the department shall design standards that provide facilities that 
+31 are accessible to all users under all state and federal laws, rules and regulations. In addition 
+32 to guidance from the publications under subsection 1, in particular the publication under 
+33 subsection 1, paragraph B, the department shall develop standards for pedestrian facilities, 
+34 including sidewalks, shared-use paths and side paths, pursuant to the United States 
+35 Department of Justice 2010 ADA Standards for Accessible Design and the United States 
+36 Department of Transportation 2006 ADA Standards for Transportation Facilities.  The 
+37 standards must also provide that:
+38 A. If the roadway is in a growth area as defined in Title 30-A, section 4301, subsection 
+39 6-C, pedestrian facilities must be located on both sides of the roadway;
+40 B. For a bridge project where a pedestrian is legally allowed, including the roadway 
+41 underneath the bridge, the minimum width of a pedestrian facility must be 5 feet and 
+42 must include a physical buffer of at least one foot on any roadway with a posted speed 
+Page 5 - 131LR0996(01)43 limit of over 25 miles per hour. A minimum width under this paragraph may not include 
+44 the curb width or physical buffer width;
+3 C. A transportation construction project may include a single pedestrian facility on only 
+4 one side of the roadway if the sidewalk is a minimum of 6 feet with a one-foot buffer. 
+5 A minimum width under this paragraph may not include the curb width or physical 
+6 buffer width;
+7 D. Other than a shared-use path or side path, a pedestrian facility may not include the 
+8 width intended for bicycle travel;
+9 E. A marked crosswalk must be provided across every leg of a signalized intersection 
+10 where a sidewalk is present or proposed;
+11 F. A marked crosswalk must be provided at an existing crosswalk regardless of the 
+12 existence of a sidewalk; and
+13 G. A utility pole or other physical barrier may not be constructed in a sidewalk.
+14 3. In developing standards for bicycle facilities under Title 23, section 76, subsection 
+15 2, paragraph B, in addition to guidance from the publications under subsection 1, in 
+16 particular the publications under subsection 1, paragraphs A and K, the department shall 
+17 develop standards for bicycle facilities, including shared-use paths, side paths, physically 
+18 separated bicycle lanes and buffered bicycle lanes, pursuant to the Massachusetts Highway 
+19 Department, Project Development and Design Guide, chapters 5 and 11 and other states' 
+20 documents, policies and guidance as needed or appropriate.  The standards must also 
+21 provide that:
+22 A. Remnant pavement space, including an unprotected roadway shoulder, may not be 
+23 considered a bicycle facility or part of a bicycle facility;
+24 B. Bicycle facilities must be provided on both sides of a roadway where a bicycle is 
+25 allowed, except for a roadway classified as local;
+26 C. A bicycle facility must be provided on at least one side of a roadway if:
+27 (1) The roadway has a posted speed limit of at least 30 miles per hour;
+28 (2) The roadway has a volume of traffic of at least 10,000 vehicles per day;
+29 (3) The roadway has more than one travel lane in a single direction; or
+30 (4) The roadway has a high potential for everyday bicycling as determined by the 
+31 department;
+32 D. A bicycle facility must be provided on at least one side of a roadway at an 
+33 intersection with more than one travel lane in a single direction; and
+34 E. Bicycle facilities must meet minimum design standards, including:
+35 (1) A shared-use path must have a minimum width of 10 feet;
+36 (2) A separated 2-way bicycle lane must have a minimum width of 8 feet; and
+37 (3) A physically separated one-way bicycle lane, buffered bicycle lane and side 
+38 path must have a minimum width of 5 feet.
+39 A minimum width under this paragraph may not include a buffer zone.1
+2
+Page 6 - 131LR0996(01)1SUMMARY
+2 This bill concerns safe roadway construction design criteria and does the following.
+3 1. It adds safety metrics, crash data and local economic significance based on a value 
+4 per acre analysis as factors in the Department of Transportation classification of state 
+5 highway priority levels.
+6 2. It establishes transportation construction project design controlling criteria subject 
+7 to Department of Transportation review and establishes a review process, including a 
+8 review committee, and exemptions. The bill directs the Department of Transportation to 
+9 establish by rule standards for the controlling criteria based upon certain publications of 
+10 the American Association of State Highway and Transportation Officials, the National 
+11 Association of City Transportation Officials, the United States Department of Justice, the 
+12 United States Department of Transportation and the Massachusetts Highway Department.
+13 3. It provides specific direction to the Department of Transportation in adopting by rule 
+14 standards for pedestrian facilities, which include sidewalks, shared-use paths and side 
+15 paths, and bicycle facilities, which include shared-use paths, side paths, physically 
+16 separated bicycle lanes and buffered bicycle lanes.2

@@ -1,0 +1,155 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1570
+H.P. 1167 House of  Representatives,  April 27, 2021
+An Act  To Protect  Drinking Water for Maine Residents
+Received by the Clerk of the House on April  23, 2021.  Referred to  the Committee  on 
+Health and Human Services  pursuant to Joint Rule 308.2 and  ordered printed pursuant  to Joint 
+Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GRAMLICH of Old Orchard Beach.
+Cosponsored by Senator HICKMAN of  Kennebec  and
+Representatives: CRAVEN of Lewiston,  WARREN of Scarborough,  Senator: MAXMIN  of 
+Lincoln.
+
+Page 1 - 130LR0805(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §2602-A, sub-§2, as amended by PL 1991, c. 499, §3 and 
+3 affected by §26, is further amended to read:
+42.  Fees.  The Except as provided in subsection 3, the department shall charge the 
+5 average cost of the analysis for an examination, testing or analysis of private residential 
+6 water supplies requested under this chapter.  These fees must be recalculated and deposited 
+7 according to section 565, subsection 3 and section 568, provided except that the fee charged 
+8 for testing a private residential water supply may not exceed $150 when:
+9 A.  In the opinion of the department, initial testing or screening performed at the 
+10 expense of the owner indicates the need for additional testing at a cost in excess of 
+11 $150 to determine whether that water supply contains contaminants potentially 
+12 hazardous to human health and that additional testing is essential to the maintenance 
+13 of public health; or
+14 B.  In the opinion of the department, there is reason to suspect that a private residential 
+15 water supply may be affected by contamination potentially hazardous to human health 
+16 and that additional testing is essential to the maintenance of public health.  In making 
+17 such a determination, the department shall consider the following:
+18 (1)  The proximity of the private residential water supply to a known or suspected 
+19 source of contamination;
+20 (2)  The proximity of the private residential water supply to another private well or 
+21 water supply known to be contaminated;
+22 (3)  Information provided in writing to the department by a physician who has seen 
+23 or treated a person and who has identified contaminated drinking water as a 
+24 possible cause of the person's condition or symptoms; or
+25 (4)  Information provided by the owner or a user of the private residential water 
+26 supply voluntarily or in response to questions asked by personnel of the 
+27 department.
+28 The department may shall waive all fees incurred in connection with the testing of a private 
+29 residential water supply upon a showing of indigency.
+30Sec. 2.  22 MRSA §2602-A, sub-§3 is enacted to read:
+313.  Well water testing for low-income residents.  The department shall establish and 
+32 maintain a program through the Health and Environmental Testing Laboratory established 
+33 in section 565 to provide free testing of the private residential water supplies of low-income 
+34 residents of the State.  The department may not charge any fee or recover any cost as 
+35 otherwise permitted by this chapter for a test of a private residential water supply performed 
+36 for a low-income resident of the State under the program established by this subsection.
+37Sec. 3.  22 MRSA §2660-U, as amended by PL 2017, c. 475, Pt. C, §7, is further 
+38 amended to read:
+39§2660-U.  Fees
+40 The Except as provided in section 2602-A, subsection 3, the Health and Environmental 
+41 Testing Laboratory established in section 565 shall collect a fee not to exceed $10 from a 
+Page 2 - 130LR0805(01)42 person or entity ordering a water test for a water sample from a residential private drinking 
+43 water well.  The fees collected must be credited to the Private Well Safe Drinking Water 
+44 Fund established in section 2660‑W and used for the purpose of increasing testing of 
+45 residential private drinking water wells.  If more than one test of a water sample from the 
+46 same residential private drinking water well is conducted, the department may waive 
+47 payment of a fee established under this section for a one-year period.  A fee collected under 
+48 this section is in addition to any fee charged by the department pursuant to section 2602‑A, 
+49 subsection 2.
+9Sec. 4.  22 MRSA §2660-W, sub-§3, ¶B, as enacted by PL 2017, c. 230, §3, is 
+10 amended to read:
+11 B.  For educational outreach programs consistent with section 2660‑V; and
+12Sec. 5.  22 MRSA §2660-W, sub-§3, ¶C, as enacted by PL 2017, c. 230, §3, is 
+13 amended to read:
+14 C.  To defray the department's costs in administering this subchapter and in waiving 
+15 fees under section 2602‑A, subsection subsections 2 . and 3; and
+16Sec. 6.  22 MRSA §2660-W, sub-§3, ¶D is enacted to read:
+17 D.  To implement the program established pursuant to section 2602-A to provide free 
+18 testing of private residential water supplies to low-income residents of the State.
+19Sec. 7.  22 MRSA §2660-Y is enacted to read:
+20§2660-Y.  Landlord arsenic testing
+21 A landlord shall periodically test for arsenic each private drinking water well used to 
+22 provide water to a tenant of the landlord.  The landlord shall conduct testing under this 
+23 section through a laboratory certified or accredited pursuant to section 567 and shall 
+24 promptly provide to each of the landlord's tenants the results of any test conducted under 
+25 this section of the private drinking water well used to provide water to the tenant.  The 
+26 landlord shall promptly notify any new tenant of the most recent results of a test conducted 
+27 under this section on a private drinking water well that will be used to provide water to the 
+28 tenant.
+29Sec. 8.  Maximum contaminant level for arsenic.  The provisions of this section 
+30 apply to arsenic testing for community water systems.
+311.  Interim maximum contaminant level for arsenic; reporting.  If a test of a 
+32 community water system, as defined in Title 22, section 2660-B, subsection 2, conducted 
+33 by a laboratory approved pursuant to Title 22, section 2607 detects the presence of arsenic 
+34 at or above a concentration of 5 parts per billion, the laboratory shall report to the 
+35 department an exceedance of the maximum contaminant level for arsenic in accordance 
+36 with 10-144 C.M.R. Chapter 231, Section 6.
+372.  Treatment.  If a laboratory reports an exceedance of the maximum contaminant 
+38 level for arsenic within a community water system under this section to the department, the 
+39 department shall direct the community water system to implement treatments or other 
+40 remedies necessary to reduce the contaminant level of arsenic below 5 parts per billion.1
+2
+3
+4
+5
+6
+7
+8
+Page 3 - 130LR0805(01)13.  Enforcement.  The department may enforce the requirements of this section under 
+2 Title 22, chapter 601, subchapter 2 and a person may appeal the acts or decisions of the 
+3 department under this section in accordance with Title 22, chapter 601, subchapter 2-A.
+44.  Rulemaking.  On or before December 31, 2021, the department shall, after 
+5 consideration of recent research into the toxicity of arsenic and the acceptable levels of 
+6 arsenic consumption, adopt a rule pursuant to Title 22, section 2611, subsection 1, 
+7 paragraph B, subparagraph (1) to specify the maximum contaminant level for arsenic that 
+8 is acceptable in water for human consumption.  Rules adopted pursuant to this subsection 
+9 are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+105.  Repeal of interim maximum contaminant level for arsenic.  The interim 
+11 maximum contaminant level for arsenic, reporting, treatment and enforcement 
+12 requirements under this section are no longer in effect on the effective date of the rule 
+13 adopted pursuant to subsection 4.
+14SUMMARY
+15 This bill requires the Department of Health and Human Services to establish a program 
+16 to provide free well water testing for low-income residents of the State to be conducted by 
+17 the Health and Environmental Testing Laboratory.  The bill requires landlords to 
+18 periodically test well water used by their tenants for arsenic and to disclose the results of 
+19 those tests to their tenants.
+20 The bill provides that the maximum contaminant level of arsenic that is acceptable in 
+21 water for human consumption in a community water system is 5 parts per billion.  The bill 
+22 requires the Department of Health and Human Services to consider recent research on the 
+23 toxicity of arsenic and the acceptable level of consumption of arsenic and to adopt a rule 
+24 to specify the maximum contaminant level of arsenic that is acceptable in water for human 
+25 consumption on or before December 31, 2021.15
+16
+17
+18
+19

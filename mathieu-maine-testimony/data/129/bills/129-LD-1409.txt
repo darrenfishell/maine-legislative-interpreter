@@ -1,0 +1,233 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1409
+S.P. 437 In Senate,  March  26, 2019
+An Act  To Improve  Price Transparency of Prescription Drugs Sold 
+in Maine
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator DIAMOND of Cumberland.
+
+Page 1 - 129LR1560(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §1913, first ¶, as repealed and replaced by PL 2011, c. 443, 
+3§4, is amended to read:
+4Beginning April 1, 2011, a person may not act as a pharmacy benefits manager in this 
+5State without first paying the registration fee required under section 601, subsection 28 
+6and meeting the requirements of section 4348, subsection 1.
+7Sec. 2.  24-A MRSA c. 56-C is enacted to read:
+8CHAPTER 56-C
+9PHARMACY BENEFITS MANAGERS
+10§4347.  Definitions
+11As used in this chapter, unless the context otherwise indicates, the following terms 
+12have the following meanings.
+131.  Administrative fees.  "Administrative fees" means fees or payments from 
+14pharmaceutical manufacturers to, or otherwise retained by, a pharmacy benefits manager 
+15or its designee pursuant to a contract between a pharmacy benefits manager or affiliate 
+16and the manufacturer in connection with the pharmacy benefits manager's administering, 
+17invoicing, allocating and collecting rebates.
+182.  Aggregate retained rebate percentage.  "Aggregate retained rebate percentage" 
+19means the percentage of all rebates received from all pharmaceutical manufacturers or 
+20other entities by a pharmacy benefits manager for prescription drug purchases that are not 
+21passed on to the pharmacy benefits manager's carrier clients. Without disclosing any 
+22identifying information regarding any health plan prescription drug or therapeutic class, 
+23the percentage is calculated for each carrier for rebates in the prior calendar year as the 
+24sum total dollar amount of rebates received from all pharmaceutical manufacturers for all 
+25prescription drug purchases by enrollees of a carrier that were not passed on to the carrier 
+26divided by the sum total dollar amount of all rebates received from all pharmaceutical 
+27manufacturers for enrollees of a carrier.
+283.  Carrier.  "Carrier" has the same meaning as in section 4301-A, subsection 3.
+294.  Carrier administrative fees.  "Carrier administrative fees" means fees or 
+30payments from a carrier or designee of the carrier to, or otherwise retained by, a 
+31pharmacy benefits manager or its designee pursuant to a contract between a pharmacy 
+32benefits manager or affiliate and the carrier or designee of the carrier in connection with 
+33the pharmacy benefits manager's managing or administering the pharmacy benefit and 
+34administering, invoicing, allocating and collecting rebates.
+355.  Enrollee.  "Enrollee" has the same meaning as in section 4301-A, subsection 5.
+366.  Health plan.  "Health plan" has the same meaning as in section 4301-A, 
+37subsection 7.
+Page 2 - 129LR1560(01)-117.  Pharmacy.  "Pharmacy" means a business, either physical or electronic, that 
+2dispenses medications to the public, that is licensed as a pharmacy by the State and that 
+3has entered into a contract with a pharmacy benefits manager or carrier.
+48.  Pharmacy benefits manager.  "Pharmacy benefits manager" has the same 
+5meaning as in section 1913, subsection 1, paragraph A.
+69.  Rebates.  "Rebates" means all rebates, discounts and other price concessions, 
+7based on utilization or price of a prescription drug and paid by the manufacturer or a 
+8party other than an enrollee, directly or indirectly, to the pharmacy benefits manager after 
+9a claim has been adjudicated at a pharmacy.
+10§4348.  Required information for registered pharmacy benefits managers
+11A person may not act as a pharmacy benefits manager in this State without first 
+12registering with the superintendent as required in section 1913 and meeting the 
+13requirements of this section.
+141.  Registrant information.  Upon registration, a pharmacy benefits manager shall 
+15file with the superintendent at least the following information:
+16A.  The name of the pharmacy benefits manager;
+17B.  The address and contact telephone number for the pharmacy benefits manager;
+18C.  The name and address of the pharmacy benefits manager agent for service of 
+19process in the State;
+20D.  The name and address of each person beneficially interested in the pharmacy 
+21benefits manager;
+22E.  The name and address of each person with management or control over the 
+23pharmacy benefits manager;
+24F.  In the case of an applicant that is a partnership or other unincorporated 
+25association, limited liability company or corporation that has 5 or more partners, 
+26members or stockholders:
+27(1) The legal structure of the applicant and the total number of partners, members 
+28or stockholders;
+29(2) The name, address, usual occupation and professional qualifications of the 5 
+30partners, members or stockholders with the 5 largest ownership interests in the 
+31applicant; and
+32(3) The name, address, usual occupation and professional qualifications of the 
+33other partners, members or stockholders upon the request of the superintendent;
+34G.  A signed statement indicating that the applicant has not been convicted of a 
+35felony and has not violated any applicable requirements of this Title, or, if the 
+36applicant cannot provide such statement, a signed statement describing any relevant 
+37conviction or violation; and 
+38H.  Other relevant information as determined by the superintendent.
+Page 3 - 129LR1560(01)-112.  Annual transparency report.  Beginning June 1, 2020, and annually thereafter, 
+2each registered pharmacy benefits manager shall submit a transparency report containing 
+3information from the prior calendar year to the superintendent.  The transparency report 
+4must contain the following information:
+5A.  The aggregate amount of all rebates that the pharmacy benefits manager received 
+6from all pharmaceutical manufacturers for all carrier clients and for each carrier 
+7client;
+8B.  The aggregate administrative fees and carrier administrative fees that the 
+9pharmacy benefits manager received from all pharmaceutical manufacturers for all 
+10carrier clients and for each carrier client;
+11C.  The aggregate retained rebates that the pharmacy benefits manager received from 
+12all pharmaceutical manufacturers and did not pass on to carriers;
+13D.  The aggregate retained rebate percentage;
+14E.  The aggregate administrative fees that the pharmacy benefits manager received 
+15from all pharmaceutical manufacturers and did not pass on to carriers; and
+16F.  The highest, lowest and mean aggregate retained rebate percentage for all carrier 
+17clients and the rebate percentage identified for each carrier client.
+183.  Publication of transparency report.  The superintendent shall publish in a timely 
+19manner the information provided by a pharmacy benefits manager pursuant to subsection 
+202 on the bureau's publicly accessible website as long as the information is provided in a 
+21manner that does not disclose the identity of a specific health plan, the prices charged for 
+22specific drugs or classes of drugs or the amount of any rebates provided for specific drugs 
+23or classes of drugs. For each of a pharmacy benefits manager's contracts or other 
+24relationships with a carrier, a pharmacy benefits manager shall publish on a publicly 
+25accessible website the formulary used by that carrier and shall ensure that the formulary 
+26is updated in a timely manner to account for changes to the formulary.
+274.  Confidential or proprietary information. The superintendent and a pharmacy 
+28benefits manager may not publish or otherwise disclose any confidential, proprietary 
+29information, including, but not limited to, any information that would identify a specific 
+30health plan, the prices charged for specific drugs or classes of drugs or the amount of any 
+31rebates provided for specific drugs or classes of drugs. Any such information is 
+32designated as confidential and is not a public record under Title 1, chapter 13, subchapter 
+331.
+34§4349.  Excess payments at point of sale prohibited
+35A carrier or pharmacy benefits manager shall certify to the superintendent on an 
+36annual basis in the manner determined by the superintendent that each health plan offered 
+37in this State by the carrier passes on at least 50% of any prescription drug savings and 
+38rebates negotiated by the carrier's pharmacy benefits manager for the benefit of enrollees 
+39in the health plan.
+Page 4 - 129LR1560(01)-11§4350.  Information related to prescription drug increases
+21.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+3following terms have the following meanings.
+4A.  "Prescription drug" or "drug" means a prescription drug that a pharmaceutical 
+5manufacturer has made available in the State and:
+6(1)  That is among the prescription drugs that the State has spent the most money 
+7on in the aggregate in the prior calendar year; and 
+8(2)  For which the wholesale acquisition cost of the drug has increased by 25% or 
+9more in the prior calendar year. 
+10B.  "Research and development expenditures" means all costs that a manufacturer 
+11incurs during a calendar year that relate to the research and development of products, 
+12processes or services, including the costs of research and development of products, 
+13processes or services that the manufacturer has acquired or obtained through a 
+14license.
+15C.  "Wholesale acquisition cost" means the list price of a manufacturer of a 
+16prescription drug to a wholesaler or direct purchaser in the United States, not 
+17including prompt pay or other discounts, rebates or reductions in price, as reported in 
+18wholesale price guides or other publications of pharmaceutical pricing data or as 
+19estimated by the Maine Health Data Organization using the all-payer claims data and 
+20the ingredient cost and list price and dispensing fee information that is submitted to 
+21the Maine Health Data Organization.
+222.  Information on prescription drug costs and price increases.  Beginning March 
+231, 2020 and annually thereafter, the Maine Health Data Organization shall provide a list 
+24of prescription drugs, both brand name and generic, to the superintendent that identifies:
+25A.  The 10 costliest drugs as determined by the total amount spent on those drugs in 
+26the State in the prior calendar year; and
+27B.  The 10 drugs with the largest increases in wholesale acquisition cost as long as 
+28the increases are 25% or more in the prior calendar year.
+293.  Compilation of list.  The superintendent shall compile the list of drugs identified 
+30and reported pursuant to subsection 2 and shall make the list available to the public on the 
+31bureau's publicly accessible website.
+324.  Manufacturer information.  The superintendent shall require the manufacturer 
+33of each drug identified pursuant to subsection 2, paragraph B to provide to the 
+34superintendent, in such form and standardized format and on a schedule determined by 
+35the superintendent, the following information to provide justification of the increase in 
+36wholesale acquisition cost:
+37A.  A schedule of the drug's wholesale acquisition cost increases over the previous 5 
+38calendar years;
+Page 5 - 129LR1560(01)-11B.  The manufacturer's aggregate research and development costs for the drug, 
+2including those costs related to capital expenditures for the most recent year in which 
+3final audited financial information is available;
+4C.  A written description, suitable for public release, of the factors that contributed to 
+5the drug's reported wholesale acquisition cost increases during the previous 5 
+6calendar years; and
+7D.  Other information necessary to justify the price increase for the drug.
+85.  Information publicly available.  The superintendent shall post any information 
+9provided by prescription drug manufacturers pursuant to subsection 4 on the bureau's 
+10publicly accessible website.
+116.  Information consistent with Form 10-K filing.  Information provided by a 
+12manufacturer pursuant to this section must be generally consistent with the level and type 
+13of information and data made available in a manufacturer's most recent Form 10-K 
+14annual report filed with the United States Securities and Exchange Commission or in 
+15other publicly available data sources. The superintendent shall consult with 
+16representatives of pharmaceutical manufacturers to establish a single, standard format for 
+17reporting information under this section that minimizes the administrative burden for the 
+18bureau and manufacturers.
+197.  Information not public record.  Notwithstanding subsection 5, information 
+20provided under this section is not a public record under Title 1, chapter 13, subchapter 1 
+21and may not be released in a manner that would allow the identification of an individual 
+22prescription drug, a therapeutic class of prescription drugs or a manufacturer or in a 
+23manner that is likely to compromise the financial, competitive or proprietary nature of the 
+24information.
+258.  Municipal action.  Notwithstanding any other provision of law, a municipality or 
+26other political subdivision may not adopt an ordinance, regulation or procedure governing 
+27the disclosure of information by a pharmaceutical manufacturer or a pharmacy benefits 
+28manager related to revenues, expenses or prescription drug prices.
+29§4350-A.  Rules
+30The superintendent may adopt routine technical rules pursuant to Title 5, chapter 375, 
+31subchapter 2-A to administer and enforce the requirements of this chapter.
+32SUMMARY
+33Under current law, pharmacy benefits managers are required to register with the 
+34State.  This bill imposes additional requirements on pharmacy benefits managers.  The 
+35bill requires pharmacy benefits managers to file certain information with the State when 
+36registering and imposes an annual reporting requirement on pharmacy benefits managers 
+37related to rebates beginning June 1, 2020.  The bill also requires that a carrier or 
+38pharmacy benefits manager certify on an annual basis that each health plan offered in this 
+39State by the carrier will pass on at least 50% of any prescription drug savings and rebates 
+Page 6 - 129LR1560(01)-11negotiated by the carrier's pharmacy benefits manager for the benefit of enrollees in the 
+2health plan.
+3In addition, the bill directs the Maine Health Data Organization to annually report to 
+4the Department of Professional and Financial Regulation, Bureau of Insurance 
+5information related to prescription drug costs and prescription drug price increases.  The 
+6bill also directs the Superintendent of Insurance to require certain information related to 
+7price increases from drug manufacturers.

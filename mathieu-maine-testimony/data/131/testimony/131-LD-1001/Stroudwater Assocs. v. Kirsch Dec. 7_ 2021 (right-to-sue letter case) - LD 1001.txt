@@ -1,0 +1,1084 @@
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  1 
+  
+ 
+2021 WL 5 815910  
+Only the Westlaw citation is currently available.  
+United States District Court, D. Maine.  
+STROUDWATER ASSOCIATES, Plaintiff,  
+v. 
+Robert KIRSCH, et al., Defendants.  
+Docket No. 2:21 -cv-00086 -NT 
+| 
+Signed 12/07/2021  
+Attorneys and Law Firms  
+Shiloh D. Theberge , William J. Wahrer , Bernstein Shur, 
+Portland, ME, for Plaintiff.  
+John O’Shea Sullivan , Pro Hac Vice, Kevin R. Stone , Pro 
+Hac Vice, Burr & Forman LLP, Atlanta, GA, Erica M. 
+Johanson , Jensen Baird, Portland, ME, for Defendants.  
+ 
+ 
+ 
+ 
+ORDER ON COUNTER -CLAIMANTS’ MOTION 
+TO AMEND AND COUNTER -DEFENDANTS’ 
+MOTION TO DISMISS  
+Nancy Torresen , United States District Judge  
+*1 Before me are two related motions: a motion by the 
+Counter -Claimants to amend their counterclaims 
+(“Counter -Claimants’ Mot. to Amend ”), and a motion 
+by the Counter -Defendants to dismiss the counterclaims. 
+For the reasons stated below, th e motion to amend is 
+GRANTED , and the motion to dismiss is DENIED . 
+  
+ 
+BACKGROUND1 
+1 
+ The facts below are drawn from the allegations in the 
+Counterclaims and the Amended Counterclaims, which 
+I take as true for the purposes of deciding a motion to 
+dismiss. Alston v. Spiegel , 988 F.3d 564, 571 (1st Cir. 
+2021) . 
+  
+ 
+ 
+I. The Agreements  
+Around April 2018, Plaintiff/Counter -Defendant 
+Stroudwater Associates (“ Stroudwater ”) entered into a 
+series of Purchase Money Loan Agreements (“ Loan 
+Agreements ”) with five Stroudwater employees,2 
+Defendants/Counter -Claimants John  Behn, Laurie Daigle, 
+Douglas Johnson, Robert Kirsch, and C. Ryan Sprinkle 
+(the “ Noteholders ”). Countercls. ¶¶ 11, 13, 18 (ECF Nos. 
+12, 13, 14, 15, 16); Loan Agreements (ECF Nos. 12 -2, 
+13-2, 14 -2, 15 -2, 16 -2).3 In exchange for an agreement to 
+pay each of the Noteholders a particular sum of 
+money —which was secured b y a Purchase Money Note 
+(the “ Note ”)—the Noteholders agreed to lend 
+Stroudwater money to buy up the Noteholders’ stock (the 
+“deal”) in order to create an Employee Stock Ownership 
+Plan (“ ESOP ”). Countercls. ¶¶ 11, 13 –14. These Notes 
+were entered into simult aneously with the Loan 
+Agreements. Loan Agreements § 3(c). And the Loan 
+Agreements say that the Notes and Loan Agreements 
+“have been made under substantially similar terms as” 
+described in the Loan Agreements unless the Notes say 
+otherwise. Loan Agreements  § 3(c).  
+ 2 
+ Stroudwater Associates entered into Purchase M oney 
+Loan Agreements with other employees, too, but those 
+employees’ agreements are not germane to the 
+disposition of these motions.  
+ 
+ 
+3 
+ Because the Counter -Claimants’ counterclaims and the 
+attached exhibits are identical in most respects, for the 
+sake of convenience, I refer to the counterclaims and  
+exhibits collectively unless it is necessary to specify a 
+particular Counter -Claimant’s counterclaim or attached 
+exhibit. These counterclaim references only refer to the 
+originally filed Counterclaims, not the Amended 
+Counterclaims that two of the Counter -Claimants now 
+seek to file.  
+ 
+ 
+Stroudwater agreed to pay interest on the Notes, and the 
+Loan Agreements specify that “[p]ayments of interest 
+shall be made bi -annually”  on the first of January and on 
+the first of July each year for a period of twenty years. 
+Loan Agreements §§ 1, 2(a), (f). The Loan Agreements 
+state that Stroudwater will be in default if it “fail[s] to 
+make any payment of the principal of the ... Note wit hin 
+twenty (20) days after” it becomes due. Loan Agreements 
+§ 6. But there exists no such provision for the failure to 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  2 
+ pay interest. Rather, if Stroudwater fails to pay any 
+interest due on the Note within twenty days of its due 
+date, that “unpaid interest shall be added to” the unpaid 
+principal, causing the principal amount due under the 
+Note to be adjusted. Loan Agreements § 6.  
+  
+*2 Three other provisions of the Loan Agreements are 
+relevant here. One is a requirement that St roudwater 
+permit the Noteholders to access and copy Stroudwater’s 
+books and records upon the Noteholders’ requests. Loan 
+Agreements § 5(g). The second is that Stroudwater “shall 
+pay all Collection Costs promptly upon the [Noteholders’] 
+demand from time to time.” Loan Agreements § 5(f). The 
+Loan Agreements define “Collection Costs” as:  
+any and all costs and expenses of enforcing [the Loan 
+Agreement] including, without limitation, any and all 
+costs and expenses of collecting [on] the [Note] and 
+exercising the  [Noteholder’s] rights and remedies ... 
+and any and all other expenses incurred by the 
+[Noteholder] after the occurrence of any Default.... In 
+all such events, such costs and expenses shall include, 
+without limitation, the reasonable fees, expenses and 
+disbursements of the [Noteholder’s] legal counsel.  
+Loan Agreements § 1.  
+  
+And the third relevant provision of the Loan Agreements 
+is that the Note and any accrued interest are secured by 
+the assets of Stroudwater but are always subordinate to 
+any security int erest “by a bank lender or other creditor 
+of” Stroudwater. Loan Agreements § 2(h). This provision 
+is consistent with the Junior Security Agreements 
+(“JSAs ”) that the Noteholders entered into with 
+Stroudwater a few months before the Loan Agreements. 
+JSAs (E CF Nos. 12 -3, 13 -3, 14 -3, 15 -3, 16 -3). The JSAs 
+state that the Noteholders’ security interests are “subject 
+and subordinate to [a] Senior Security Agreement” and 
+obligate the Noteholders “to confirm such subordination 
+in writing at the request of [a] holde r of [a] Senior 
+Security Interest.” JSAs § 2. In the JSAs, Stroudwater 
+agreed to perform its obligations “in any agreement 
+creating a Senior Security Interest or a Pari Passu Security 
+Interest.” JSAs § 4(f). The JSAs define a “Pari Passu 
+Security Interest”  as “the security interest granted by” 
+Stroudwater to the Noteholders. JSAs § 1. The JSAs also 
+prohibit Stroudwater from merging with another entity, at 
+least under certain circumstances. JSAs § 6.  
+  
+In conjunction with the JSAs, the Noteholders also 
+enter ed into Intercreditor Agreements. Intercreditor 
+Agreements (ECF Nos. 12 -4, 13 -4, 14 -4, 15 -4, 16 -4). In 
+signing the Intercreditor Agreements, the Noteholders 
+agreed that their security interests were “of equal 
+priority.” Intercreditor Agreements § 2 (emphas is 
+deleted). As a result, in the event of distribution of Stroudwater’s assets, the Noteholders agreed that these 
+assets would be distributed “in proportion to [the] 
+amounts owing to the [Noteholders] on account of their 
+outstanding Loans to” Stroudwater. Intercreditor 
+Agreements § 3(a) (emphasis deleted).  
+  
+One final group of documents is relevant to the motions 
+before me. That consists of the Subordination Agreements 
+entered into by the Noteholders around the same time as 
+the Loan Agreements. Subordinatio n Agreements 1 (ECF 
+No. 23 -1). The parties to the Subordination Agreements 
+are Stroudwater, Bangor Savings Bank (“ BSB ”), and the 
+Noteholders. Subordination Agreements 1. According to 
+the Subordination Agreements, the Noteholders (the 
+“Junior Creditors”) ag reed: (1) to subordinate “all rights, 
+claims and interests created pursuant to the Loan 
+Documents” to money owed to BSB (the “Senior 
+Creditor”); (2) that their claims “at all times remain[ed] 
+fully unsecured”; (3) that they have a “right to receive 
+regular ly scheduled payments of accrued interest (but not 
+principal or any other amounts) on the remaining unpaid 
+balance of the” Note; and (4) that the Noteholders would 
+not “make demand for all or any portion of” the money 
+owed to them or “commence any action o r proceeding 
+against [Stroudwater] to recover all or any part of the” 
+money owed to them, until Stroudwater paid the money it 
+owed to BSB. Subordination Agreements §§ 1(c), 4, 5, 8.  
+  
+ 
+ 
+II. Stroudwater’s Alleged Breaches  
+*3 The Noteholders allege that beginning in late 2018, 
+Stroudwater began to struggle financially. Countercls. ¶¶ 
+32–36. And they allege that Stroudwater’ s debts exceed 
+its assets. Countercls. ¶¶ 47, 51. Among other debts, 
+Stroudwater has a multi -million dollar outstanding loan to 
+BSB and owes more than two million dollars to the 
+Noteholders. Countercls. ¶ 49.  
+  
+As Stroudwater began to founder, Counter -Defe ndant 
+Jeffrey Sommer, the managing director of Stroudwater 
+and a member of the Stroudwater Board of Directors 
+(“BOD ”), continued to receive a lucrative compensation 
+package. Countercls. ¶¶ 3, 61. The Noteholders assume 
+that this continues to be the case, a nd they allege that this 
+is improper. Countercls. ¶ 62. The Noteholders allege that 
+the members of the BOD, including Counter -Defendants 
+Eric Shell and Opal Greenway, have a duty to review Mr. 
+Sommer’s performance and compensation package and to 
+make any n ecessary adjustments to it. Countercls. ¶¶ 4 –5, 
+62. 
+  
+In 2019, Mr. Sommer took a personal bonus based on 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  3 
+ anticipated revenue from a project, but the client then 
+became insolvent, and Stroudwater was left with an 
+unsecured claim exceeding $300,000. Counterc ls. ¶ 63. 
+After Stroudwater was advised that it should expect no 
+recovery on this claim, Mr. Sommer and Mr. Shell 
+refused to remove this uncollectible receivable from 
+Stroudwater’s books in an effort “to prop up” its financial 
+statements and overstate Stro udwater’s value. Countercls. 
+¶ 64. They did so in order to protect their incentive 
+compensation. Countercls. ¶ 64.  
+  
+The Noteholders contend that, as a result of its financial 
+difficulties, Stroudwater began to shirk its obligations 
+under the Loan Agreemen ts and the other contracts 
+outlined above. For example, Stroudwater did not make 
+all of the interest payments that were due under the Loan 
+Agreements on January 1, 2020, (the “ January 
+Payments ”) including the payment owed to Mr. Kirsch. 
+Countercls. ¶ 37. H owever, Ms. Greenway received her 
+January Payment. Countercls. ¶ 37. Some individuals who 
+did not receive their January Payments but remained 
+employed by Stroudwater or sat on its BOD were 
+reimbursed in some form, but others, like Mr. Kirsch, 
+have not been . Countercls. ¶¶ 38 –39. Stroudwater also 
+failed to make any of the next two interest payments due 
+to the Noteholders under the Loan Agreements. 
+Countercls. ¶ 42.  
+  
+The Noteholders further allege that Stroudwater 
+overstated and misrepresented its financial performance in 
+2020, which benefitted Mr. Sommer, Mr. Shell, and Ms. 
+Greenway (the “ Individual Counter -Defendants ”). 
+Countercls. ¶¶ 40 –41. And Stroudwater refused to allow 
+the Noteholders to review its books and records to verify 
+this allegation despite a demand by the Noteholders. 
+Countercls. ¶¶ 43, 56, 58.  
+  
+The Noteholders allege a number of other improprieties 
+by the Individual Counter -Defendants, including that: (1) 
+as the sole ESOP trustees (and thus the sole shareholders 
+of Stroudwater), they have us ed their positions to 
+perpetually appoint themselves to the BOD; (2) they have 
+acted in their own interests rather than those to whom 
+they owe a fiduciary duty, such as by taking steps to 
+remove high -performing employees to ensure that they 
+and their favor ed employees get the highest bonuses; and 
+(3) they have authorized and approved bonuses and raises 
+in ways that benefit themselves and their supporters. 
+Countercls. ¶¶ 15, 66, 68 –70. 
+  
+*4 The Noteholders also allege that Str oudwater violated 
+the JSAs when, in November 2020, it merged with 
+another entity. Countercls. ¶ 44.  
+   
+ 
+III. Behn and Daigle Allegations of Discrimination  
+Ms. Daigle began work ing for Stroudwater in 2010. 
+Daigle Proposed Am. Countercl. (“ Daigle PAC ”) ¶ 72 
+(ECF No. 27 -5). In 2013, she was diagnosed with a 
+chronic illness. Daigle PAC ¶ 74. Stroudwater then 
+determined that Ms. Daigle’s illness made it too risky for 
+her to travel, w hich was an essential function of her job. 
+Daigle PAC ¶ 79. After Ms. Daigle underwent successful 
+treatment and was cleared to return to work by her doctor, 
+Stroudwater decided to restructure Ms. Daigle’s job to 
+eliminate travel from her job duties. Daigle  PAC ¶¶ 
+80–81. This impacted Ms. Daigle’s ability to perform her 
+job, of which travel was a significant part. Daigle PAC ¶ 
+87. Due to this, Ms. Daigle decided to resign her position 
+in April 2013. Daigle PAC ¶ 98.  
+  
+In 2014, Mr. Behn became the President o f a new 
+Stroudwater subsidiary. Daigle PAC ¶ 100. And in 
+November 2014, Stroudwater re -hired Ms. Daigle to work 
+for this new subsidiary. Daigle PAC ¶ 99. In these 
+positions, Mr. Behn and Ms. Daigle performed audits of 
+the functionality of a pricing tool th at Stroudwater had 
+developed for some of its clients. Behn Proposed Am. 
+Countercl. (“ Behn  PAC ”) ¶¶ 74, 79 (ECF No. 27 -4); 
+Daigle PAC ¶ 105. While in this new position, Ms. 
+Daigle’s performance and employment continued to be 
+evaluated through the lens of St roudwater’s unfounded 
+concerns about her health. Daigle PAC ¶¶ 118 –19. 
+  
+Beginning in 2016, Mr. Behn and Ms. Daigle repeatedly 
+notified Stroudwater management that their audits had 
+revealed problems that would create issues for 
+Stroudwater’s clients and fo r Stroudwater’s ability to 
+maintain compliance with the state and federal grants and 
+funds used to build the pricing tool. Behn PAC ¶¶ 80 –82, 
+84–85, 96 –97; Daigle PAC ¶¶ 111 –16. This compounded 
+Stroudwater’s already -disparate treatment of Ms. Daigle. 
+Daigl e PAC ¶ 130. Mr. Behn did not receive a response to 
+at least some of the concerns that he raised. Behn PAC ¶¶ 
+83, 86.  
+  
+Beginning in 2016, Mr. Behn’s stock award and pay 
+raises began to decrease over prior years despite his 
+increasing performance. Behn PAC  ¶ 98. When 
+Stroudwater transitioned to the ESOP, he was not given 
+shares of the ESOP that matched his level of contributions 
+to the company, and his Note was undervalued by at least 
+$800,000. Behn PAC ¶¶ 99 –102. Employees who were 
+less tenured and lower p roducers received more shares 
+than Mr. Behn did. Behn PAC ¶ 103. In the case of Ms. 
+Daigle, she received lower raises, less recognition, and 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  4 
+ fewer shares and stock options than other Stroudwater 
+employees who were not performing as highly as she was. 
+Daigl e PAC ¶ 117.  
+  
+On May 19, 2020, Mr. Behn and Ms. Daigle notified 
+Stroudwater that they were resigning, and all parties 
+agreed that June 30, 2020, would be their final day of 
+employment at Stroudwater. Behn PAC ¶ 109; Daigle 
+PAC ¶  131. In this interim period, Mr. Behn and Ms. 
+Daigle both had discussions with Stroudwater about an 
+ongoing contract employment relationship to help 
+transition Stroudwater clients after their departures. Behn 
+PAC ¶ 110; Daigle PAC ¶ 140.  
+  
+*5 On June 26, 2020, Mr. Behn and Ms. Daigle were 
+notified that their employment was terminated for cause, 
+effective June 29, 2020, because they had sent a proposal 
+to a current Stroudwater client for the purpose of 
+providing services with out Stroudwater’s consent and in 
+an effort to compete with Stroudwater for such services, 
+in violation of their employment agreements. Behn PAC ¶ 
+112; Daigle PAC ¶¶ 132 –33. While Mr. Behn and Ms. 
+Daigle did submit two such proposals, they were 
+submitted on  behalf of Stroudwater pursuant to the 
+transition discussions in which Mr. Behn, Ms. Daigle, and 
+Stroudwater had previously engaged. Behn PAC ¶¶ 
+117–19; Daigle PAC ¶¶ 135 –138. 
+  
+At the time of Mr. Behn’s and Ms. Daigle’s separations 
+from Stroudwater, they were each entitled to certain 
+compensation for calendar years 2019 and 2020 that 
+Stroudwater had not paid them. Behn PAC ¶¶ 122 –25, 
+128; Daigle PAC ¶¶ 146 –49, 152.  
+  
+ 
+ 
+IV. The Counterclaims  
+In March 2021, Stroudwater sued the Noteholders, for 
+alleged breaches of their employment agreements, Compl. 
+(ECF No. 1), the particulars of which are not relevant 
+here. In conjunction with their Answers, the Noteholders 
+brought various count erclaims against Stroudwater, Mr. 
+Sommer, Mr. Shell, and Ms. Greenway (the 
+“Counter -Defendants ”). Counterclaim Count I —asserted 
+by each of the Noteholders —alleges that the 
+Counter -Defendants have breached § 5(g) of the Loan 
+Agreements by denying the Noteho lders access to 
+Stroudwater’s books and records. Johnson Countercl. ¶¶ 
+71–77; Kirsch Countercl. ¶¶ 71 –77; Sprinkle Countercl. 
+¶¶ 71 –77; Behn Countercl. ¶¶ 87 –93; Daigle Countercl. 
+¶¶ 86 –92. To remedy this alleged breach, the Noteholders 
+are seeking a decre e of specific performance requiring 
+Stroudwater to provide the requested books and records and an award of attorneys’ fees. Johnson Countercl. ¶¶ 
+78–79; Kirsch Countercl. ¶¶ 78 –79; Sprinkle Countercl. 
+¶¶ 78 –79; Behn Countercl. ¶¶ 94 –95; Daigle Countercl. 
+¶¶ 93–94. 
+  
+Counterclaim Count II —also asserted by each of the 
+Noteholders —alleges that the Counter -Defendants have 
+breached their fiduciary duties, in particular their duty to 
+Stroudwater’s creditors (which include the Noteholders). 
+Johnson Countercl. ¶¶ 8 0–101; Kirsch Countercl. ¶¶ 
+80–101; Sprinkle Countercl. ¶¶ 80 –101; Behn Countercl. 
+¶¶ 96 –117; Daigle Countercl. ¶¶ 95 –116. Specifically, the 
+Noteholders allege that the Counter -Defendants have 
+breached their fiduciary duties in the following ways: (1) 
+the BOD disparately treated Stroudwater creditors in 
+violation of the various contracts signed as a part of the 
+deal; (2) the BOD engaged in self -dealing by making 
+interest payments to Ms. Greenway but not to all of other 
+creditors who were owed interest payme nts (including 
+Mr. Kirsch); (3) the BOD approved a merger in violation 
+of the JSAs, and at a time when Stroudwater was unable 
+to pay its debts; (4) the Counter -Defendants failed to 
+allow the Noteholders access to Stroudwater’s books and 
+records; (5) the Co mplaint is frivolous and was only filed 
+by Stroudwater to try to gain leverage over the 
+Noteholders; (6) Mr. Sommer and Mr. Shell overstated 
+and misrepresented the financial position and value of 
+Stroudwater, and received inflated compensation as a 
+result,  to the detriment of the ESOP participants and 
+Stroudwater’s creditors; and (7) the Individual 
+Counter -Defendants have forced out some Stroudwater 
+employees (and favored others) in order to elevate their 
+own standing at the expense of the ESOP participants  and 
+Stroudwater’s creditors. Johnson Countercl. ¶¶ 88 –100; 
+Kirsch Countercl. ¶¶ 88 –100; Sprinkle Countercl. ¶¶ 
+88–100; Behn Countercl. ¶¶ 104 –16; Daigle Countercl. ¶¶ 
+103–15. 
+  
+Mr. Kirsch’s counterclaim has another breach of contract 
+claim (“ Kirsch Count III”) that he brings against all of 
+the Counter -Defendants. Kirsch Countercl. ¶¶ 102 –08. 
+Specifically, Mr. Kirsch alleges that Stroudwater’s failure 
+to make his January Payment, while making the January 
+Payment to others, violated Stroudwater’s contractual  
+obligations to treat all of its noteholders equally. Kirsch 
+Countercl. ¶¶ 103 –07. Although he brings only a breach 
+of contract claim, Mr. Kirsch asserts that this disparate 
+payout of the January Payments also constitutes 
+conversion. Kirsch Countercl. ¶ 10 5. 
+  
+*6 Mr. Behn and Ms. Daigle bring four additional 
+counterclaims.4 Counterclaim Count III (“ Behn/Daigle 
+Count III ”) is a breach of contract claim against 
+Stroudwater, alleging that Stroudwater breached Mr. 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  5 
+ Behn’s and Ms. Daigle’ s employment agreements by 
+failing to pay all of their compensation and also because 
+of how their notice of termination occurred. Behn PAC ¶¶ 
+160–63; Daigle PAC ¶¶ 184 –87. Counterclaim Count IV 
+is a quantum meruit claim against Stroudwater alleging 
+that St roudwater failed to pay Mr. Behn and Ms. Daigle 
+for their services. Behn PAC ¶¶ 166 –69; Daigle PAC ¶¶ 
+190–93. Counterclaim Count V is an unjust enrichment 
+claim against Stroudwater alleging that Stroudwater 
+received the benefit of Mr. Behn’s and Ms. Daigle ’s 
+services without paying for their value. Behn PAC ¶¶ 
+172–74; Daigle PAC ¶¶ 196 –98. Counterclaim Count VI 
+is an employment discrimination claim against 
+Stroudwater alleging that Stroudwater mistreated, 
+under -rewarded, and terminated Mr. Behn and Ms. Daig le 
+because of the respective concerns they raised about the 
+pricing tool and, in Ms. Daigle’s case, because of her 
+medical condition. Behn PAC ¶¶ 181 –82; Daigle PAC ¶¶ 
+205–07. 
+ 4 
+ Because, as described below, I ultimately allow Mr. 
+Behn’s and Ms. Daigle’s requested amendments, for 
+purposes of convenience, I rely on  the allegations in 
+their proposed amended counterclaims.  
+ 
+ 
+ 
+DISCUSSION  
+ 
+I. Motion to Amend  
+ 
+A. Procedural History  
+As a part of their original Counterclaims, which they filed 
+on June 7, 2021, Mr. Behn and Ms. Daigle mentioned that 
+they had filed complaints of discrimination in 
+employment against Stroudwater with the Maine Human 
+Rights Commission (“ MHRC ”), that they wou ld soon be 
+eligible to request “right to sue” letters from the MHRC, 
+and that they intended to request those letters. Behn 
+Countercl. ¶¶ 71 –72; Daigle Countercl. ¶¶ 71 –72. Each 
+also stated that he/she would “seek to bring [his/her] 
+claims against Stroudwat er by adding an additional 
+counterclaim for discrimination in employment in this 
+action following receipt of a right to sue letter.” Behn 
+Countercl. ¶ 73; Daigle Countercl. ¶ 73.  
+  
+In the interim, each brought a “placeholder” count of 
+sorts. Both Countercl aims contain a “Count VI” described 
+as a claim for “Discrimination in Employment.” Behn Countercl., at 51; Daigle Countercl., at 51. But both 
+Counterclaims explicitly acknowledged that Mr. Behn 
+and Ms. Daigle were “not entitled to assert [their] claims” 
+at the time the Counterclaims were filed and declared that 
+they were “notif[ying] the Court and Stroudwater” of their 
+intent to amend their Counterclaims upon the receipt of 
+their right to sue letters. Behn Countercl. ¶ 135; Daigle 
+Countercl. ¶ 134.  
+  
+On Oct ober 12, 2021, Mr. Behn and Ms. Daigle received 
+their right to sue letters from the MHRC. 
+Counter -Claimants’ Mot. to Amend 3 (ECF No. 27). And, 
+true to their earlier stated intentions, on October 14, 2021, 
+both Counter -Claimants filed motions to amend “to add 
+claims for employment discrimination.” 
+Counter -Claimants’ Mot. to Amend 3. The Amended 
+Counterclaims introduce new and specific facts pertaining 
+to Mr. Behn’s and Ms. Daigle’s allegations of 
+employment discrimination, and they replace the earlier 
+place holder counts (what used to be labeled “Count VI”) 
+with specific allegations of employment discrimination 
+(still labeled “Count VI”). Behn PAC ¶¶ 71 –121, 176 –85; 
+Daigle PAC ¶¶ 71 –145, 200 –07. 
+  
+The Counter -Defendants argue that the motion should be 
+denied on the ground of futility. Opp’n to Counterclaim 
+Pls. John Behn and Laurie Daigle’s Mot. to Suppl. or 
+Amend Countercls. (“ Counter -Defs.’ Opp’n to Mot. to 
+Amend ”) 2 –3 (ECF No. 28). The employment  
+discrimination claims are futile, the Counter -Defendants 
+say, because Mr. Behn and Ms. Daigle filed their 
+employment discrimination claims as a part of their 
+original Counterclaims (despite their protestations to the 
+contrary), and they did so without ful ly exhausting their 
+administrative remedies. Counter -Defs.’ Opp’n to Mot. to 
+Amend 3. The Counter -Defendants then argue that Mr. 
+Behn and Ms. Daigle cannot receive the only remedies 
+they are seeking (due to this alleged failure to exhaust), 
+and so the prop osed amendments would be futile and 
+should be denied. Counter -Defs.’ Opp’n to Mot. to 
+Amend 3 –4 & n.2.  
+  
+ 
+ 
+B. Legal Standard  
+*7 “The court may p ermit a party to file a supplemental 
+pleading asserting a counterclaim that matured or was 
+acquired by the party after serving an earlier pleading.” 
+Fed. R. Civ. P. 13(e) . In addition, Rule 15(a) of the 
+Federal Rules of Civil Procedure allows for amendment to 
+a pleading with leave of court and directs the court to 
+“freely give leave when justice so requires.” Fed. R. Civ. 
+P. 15(a)(2) . Leave to amend may be denied for a 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  6 
+ multitude of reasons, including on the ground of futility. 
+Kader v. Sarepta Therapeutics, Inc. , 887 F.3d 48, 60 (1st 
+Cir. 2018) . An amendment is futile if the amended 
+claim(s) “would fail to state a claim upon which relief 
+could be granted.” Rife v. One W. Bank, F.S.B. , 873 F.3d 
+17, 21 (1st Cir. 2017)  (quoting Glassman v. 
+Computervision Corp. , 90 F.3d 617, 623 (1st Cir. 1996) ). 
+  
+ 
+ 
+C. Analysis  
+Mr. Behn and Ms. Daigle treat Rule 13(e)  and Rule 15(a)  
+as alternative bases for why their proposed amendments 
+should be allowed. Counter -Claimants’ Mo t. to Amend 5. 
+The Counter -Defendants not only do not dispute that 
+these alternative bases exist, but they ignore the 
+application of Rule 13(e)  entirely. Instead, they only 
+argue that leave  to amend should be denied on the ground 
+of futility.  
+  
+I agree with Mr. Behn and Ms. Daigle that Rule 13(e)  
+permits their amendment because, at the time they filed 
+their Counterclaims, th ey did not have right to sue letters 
+and thus were not permitted to bring their employment 
+discrimination claims. The Counter -Defendants do not 
+offer any argument or authority to support the idea that 
+Rule 13(e)  has a futility exception. Having failed to 
+address the Rule 13(e)  issue, the Counter -Defendants 
+have waived any objection to it. See United States v. 
+Zannino , 895 F.2d 1, 17 (1st Cir. 1990) .5 The Motion to 
+Amend is GRANTED . 
+ 5 
+ The Counter -Defendants make an identical version of 
+their futility argument in their motion to dismiss as a 
+basis for why they say C ount VI should be dismissed 
+from Mr. Behn’s and Ms. Daigle’s Counterclaims. 
+Mem. of Law in Supp. of Counter -Defs.’ Mot. to 
+Dismiss 15 –18 (ECF No. 23). While the analysis with 
+respect to both motions is more or less the same, 
+because of the differing standa rds of review, I address 
+the motion to dismiss argument below. And, for the 
+same reasons why I ultimately find that Count VI 
+should not be dismissed, even if I were to address the 
+Counter -Defendants’ futility argument, my analysis 
+would dictate the finding  that amendment is not futile 
+and should be permitted.  
+ 
+ 
+At oral arg ument, I noted that the proposed amended 
+counterclaims do not appear to allege that Mr. Behn and 
+Ms. Daigle have filed a claim with the MHRC and 
+received right -to-sue letters. That appears to be a 
+technical requirement required by the Maine Human 
+Rights Ac t (“MHRA ”). See 5 M.R.S. § 4622(1) . As a result, I am extending to Mr. Behn and Ms. Daigle 
+additional leave to amend to correct that omission in their 
+Amended Counterclaims should they  choose to do so.  
+  
+ 
+ 
+II. Motion to Dismiss  
+ 
+A. Legal Standard  
+When evaluating a motion to dismiss, I take “as true all 
+well-pleaded facts alleged in the complaint and draw all  
+reasonable inferences therefrom in the pleader’s favor.” 
+Alston v. Spiegel , 988 F.3d 564, 571 (1st Cir. 2 021) 
+(quoting Santiago v. Puerto Rico , 655 F.3d 61, 72 (1st 
+Cir. 2011) ). “[A] complaint will survive a motio n to 
+dismiss when it alleges ‘enough facts to state a claim to 
+relief that is plausible on its face.’ ” Id. (quoting Bell Atl. 
+Corp. v. Twombly , 550 U.S. 544, 570 (2007) ). A claim is 
+“plausible” if the facts alleged give rise to a reasonable 
+inference of liability. Id. “Plausible” means “more than 
+merely possible.” Germanowski v. Harris , 854 F.3d 68, 
+71 (1st Cir. 2017)  (quoting Schatz v. Republican State 
+Leadership Comm. , 669 F.3d 50, 55 (1st Cir. 2012) ). In 
+evaluating the  plausibility of a claim, it is helpful to 
+examine the claim against the background of the elements 
+of a prima facie case for liability. Id. at 72 . But “[i]t is not 
+necessary to plead facts sufficient to establish a prima 
+facie case at the pleading stage.” Id. (quoting 
+Rodríguez -Reyes v. Molina -Rodríguez , 711 F.3d 49, 54 
+(1st Cir. 2013) ). 
+  
+*8 On a motion to dismiss, courts “usually consider only 
+the complaint, documents attached to it, and d ocuments 
+expressly incorporated into it.” Foley v. Wells Fargo 
+Bank, N.A. , 772 F.3d 63, 72 (1st Cir. 2014) . But in some 
+circumstances, a court may consider additional evidence, 
+including documents where the authenticity is not 
+disputed, “documents central to” the plaintiff’s claim, or 
+“documents sufficiently referred to in the complaint.” Id. 
+at 74  (quoting Watterson v. Page , 987 F.2d 1, 3 (1st Cir. 
+1993) ). “When the complaint relies upon a document, 
+whose authenticity is not challenged, such a document 
+‘merges into the pleadings’ and the court may properly 
+consider it under a Rule  12(b)(6) motion to dismiss.” Alt. 
+Energy, Inc. v. St. Paul Fire & Marine Ins. Co. , 267 F.3d 
+30, 33 (1st Cir. 200 1) (quoting Beddall v. State St. Bank 
+& Tr. Co. , 137 F.3d 12, 17 (1st Cir. 1998) ). 
+  
+ 
+ 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  7 
+ B. Analysis  
+1. Count I – Breach of Contract Due to Refusal to 
+Provide Access to Books and Records  
+The Counter -Defendants initially moved to dismiss Count 
+I on the ground that the Counter -Claimants are not 
+entitled to the relief sought (specific performance and 
+attorneys’ fees). Mem. of Law in Supp. of Counter -Defs.’ 
+Mot. to Dismiss (“ Counter -Defs.’ Mot . to Dismiss ”) 5–7 
+(ECF No. 23). In addition, in reply, the 
+Counter -Defendants contend that Count I is now moot 
+because they say that they notified the Noteholders the 
+day before filing their reply that they would make the 
+2019 books and records available to the Noteholders 
+within five business days and that they would make the 
+2020 records available when completed, by the end of 
+September 2021. Reply in Supp. of Countercl. Defs.’ 
+Mot. to Dismiss Countercls. (“ Counter -Defs.’ Reply ”) 7 
+(ECF No. 25). At oral argument, counsel for the 
+Counter -Defendants claimed that Stroudwater had now 
+provided the financial records for both 2019 and 2020, but 
+the Counter -Claimants’ counsel represented that the 
+Noteholders had only received high -level financial 
+summaries and th at they had not been given the “access to 
+all of the Company’s books and records” required by the 
+Loan Agreements. Based on the representations at oral 
+argument, this claim is clearly not moot as the 
+Counter -Defendants contend it is.6 
+ 6 
+ Even if Stroudwater had provided full access to its 
+books, a “defendant cannot automatically moot a case 
+simply by ending its unlawful c onduct once sued. 
+Otherwise, a defendant could engage in unlawful 
+conduct, stop when sued to have the case declared 
+moot, then pick up where he left off, repeating this 
+cycle until he achieves all his unlawful ends.” Already, 
+LLC v. Nike, Inc. , 568 U.S. 85, 91 (2013)  (citation 
+omitted). As a result, “ a defendant claiming that its 
+voluntary compliance moots a case bears the 
+formidable burden of showing that it is absolutely clear 
+the allegedly wrongful behavior could not reasonably 
+be expected to recur.” Id. (quoting Friends of the Earth, 
+Inc. v. Laidlaw Env’t Servs. (TOC), Inc. , 528 U.S. 167, 
+190 (2000) ). The Counter -Defendants have failed to 
+meet that bur den here.  
+ 
+ 
+The Counter -Defendants also argue that the Noteholders 
+are not entitled to specific performance because they can 
+pursue a claim for monetary damages. But the 
+Counter -Defendants fail to identify a way in which 
+damages could offset the harm of t he failure to disclose 
+the company books and records. Other courts to have 
+considered the issue have found specific performance to 
+be appropriate in similar situations. See, e.g.,  JPMorgan Chase Bank, N.A. v. Winget , 510 F.3d 577, 579 –80, 585 
+(6th Cir. 2007)  (finding that there existed no “adequate 
+remedy at law to enforce” parties’  credit agreement 
+allowing for inspection of financial records); Microsoft 
+Corp. v. Weidmann Elec. Tech. Inc. , Cas e No. 
+5:15-cv-153, 2016 WL 7165949, at *10 (D. Vt. Dec. 7, 
+2016)  (“[S]pecific performance is available because there 
+is no adequate remedy at law for Weidmann’s breach of 
+its verification obligation.”).  
+  
+*9 Finally, the Counter -Defendants’ argument that the 
+Noteholders are not entitled to attorneys’ fees because 
+there is no statute or written agreement entitling them to 
+fees is undercut by § 5(f) of the Loan Agreements. This 
+section entitles the Noteholders to “Collection  Costs,” 
+which are defined to include “any and all costs and 
+expenses of enforcing” the Loan Agreements, including 
+“the reasonable fees, expenses and disbursement of [their] 
+legal counsel.” Taking all reasonable inferences in the 
+Noteholders’ favor, I must  construe this to mean that they 
+are entitled to attorneys’ fees because they are suing to 
+enforce the Loan Agreements.  
+  
+The motion to dismiss Count I is DENIED . 
+  
+ 
+2. Count I I – Breach of Trust and Fiduciary Duties  
+The Counter -Defendants levy three attacks against Count 
+II. They argue that the Subordination Agreements bar 
+Count II, that the Counter -Defendants breached no duties 
+under the Loan Agree ments, and that the Individual 
+Counter -Defendants owed no duty to the Noteholders. 
+Counter -Defs.’ Mot. to Dismiss 7 –11. I address each in 
+turn. 
+  
+Pursuant to the Subordination Agreements,7 the 
+Noteholders agreed not to sue Stroudwater “to recover all 
+or any part of the” money owed to them until Stroudwater 
+paid the  money it owed to BSB. The Counter -Claimants 
+assert that they are suing for damages caused by the 
+Counter -Defendants’ alleged breaches of fiduciary duties 
+owed to Stroudwater’s creditors; they are not suing to 
+recover the money owed to them. Mem. in Opp’n to Mot. 
+to Dismiss Countercls. (“ Counter -Claimants’ Opp’n ”) 
+13 (ECF No. 24). The Counter -Defendants dispute this by 
+tallying up the number of times Count II uses the term 
+“interest payments,” and they say that if the 
+Counter -Claimants are not suing to reco ver the money 
+owed to them through Count II, then “it is unclear” what 
+they are seeking. Counter -Defs.’ Reply 4.  
+ 7 The parties dispute whether I can properly consider the 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  8 
+  Subordination Agreements at this stage of the litigation. 
+The Counter -Claimants insist that I cannot because they 
+“are not attached to the pleadings or referred to 
+therein.” Mem. in Opp’n to Mot. to Dismiss Countercls. 
+11 n.3 (ECF No. 24). But in addition to documents 
+sufficiently referred to in a complaint, I can also 
+consider documents where authenticity is not disputed. 
+The Counter -Claimants do not challenge the 
+authenticity of the Subordination Agreements. The 
+Loan Agreements and Junior Security Agreements 
+(“JSAs ”)—all of which were attached to the 
+Counterclaims —mention the subordination of the 
+Noteholders’ interests. And t he JSAs specifically 
+obligate the Noteholders to confirm this subordination 
+in writing. This appears to be a specific reference to the 
+Subordination Agreements.  
+At oral argument, counsel for the Counter -Claimants 
+asserted that based on the limited financia l information 
+that he has received from Stroudwater, it appears that 
+the Bangor Savings Bank (“ BSB ”) loan has been paid 
+off. If that were the case, then the Subordination 
+Agreements should no longer be in effect. But at the 
+motion to dismiss stage, I am li mited to what is 
+contained in the pleadings, documents that are 
+sufficiently referred to in the pleadings, and documents 
+where authenticity is not disputed. The 
+Counter -Claimants themselves assert that Stroudwater 
+still owes BSB over $2,000,000. Countercls . ¶ 49 (ECF 
+Nos. 12, 13, 14, 15, 16). Indeed, the allegation that 
+Stroudwater owes this money to BSB is part of the 
+basis for the Counter -Claimants’ allegation that 
+Stroudwater is insolvent. Accordingly, I consider the 
+Subordination Agreements in my analys is. 
+ 
+ 
+The Counter -Defendants misunderstand the purpose of 
+Count II. Count II does not allege that the 
+Counter -Defendants are obligated to pay any of the 
+money owed to the Noteholders under the Loan 
+Agreements. Rather, it alleges that the 
+Counter -Defendant s have breached their fiduciary duties 
+to the Noteholders. What the Counter -Defendants are 
+seeking in terms of a remedy is damages for these alleged 
+breaches, not repayment of their loans. Johnson 
+Countercl. ¶ 101 (“Sommer, Shell, and Greenway are 
+liable f or their multiple breaches of fiduciary duties and 
+other duties owed....”); Kirsch Countercl. ¶ 101 (same); 
+Sprinkle Countercl. ¶ 101 (same); Behn PAC ¶ 159 
+(same); Daigle PAC ¶ 183 (same).  
+  
+*10 The Counter -Defendants nex t contend that they 
+breached no duties under the Loan Agreements, arguing 
+that Stroudwater was entitled under the Loan Agreements 
+to defer interest payments. Counter -Defs.’ Mot. to 
+Dismiss 8 –9. Even if I assume that this assertion is true, 
+this argument st ill fails due to the depth of Count II. 
+Count II alleges multiple breaches of fiduciary duties beyond the alleged failure to pay interest payments, 
+including that Mr. Sommer and Mr. Shell overstated and 
+misrepresented the financial position and value of 
+Stroudwater and that the Individual Counter -Defendants 
+forced out some Stroudwater employees (and favored 
+others) in order to elevate their own standing at the 
+expense of the ESOP participants and Stroudwater’s 
+creditors.  
+  
+Finally, the Individual Counter -Defendants argue that 
+they owed no duty to the Noteholders because, under 
+Maine law, corporate directors only owe a duty to the 
+corporation (i.e., the shareholders), not to creditors. 
+Counter -Defs.’ Mot. to Dismiss 9 –11. But in support of 
+this assertion the Counter -Defendants cite to cases that do 
+not involve creditors, cases involving solvent 
+corporations,8 and cases involving Delaware law. 
+Counter -Defs.’ Mot. to Dismiss 9 –10 (citing various 
+cases). These cases do not offer answers to the relevant 
+question of whether the directors of an insolvent 
+corporation (such as  Stroudwater, according to the 
+Counter -Claimants’ allegations) owe a duty to the 
+corporation’s creditors under Maine law. The 
+Counter -Defendants also point to the Maine Business 
+Corporation Act, which they say does not provide a cause 
+of action for credito rs against directors. Counter -Defs.’ 
+Reply 2 (citing 13-C M.R.S. § 832 ). But that statute is not 
+helpful to this inquiry, because it does not lay out when a 
+corporate director is liable, but only when a corporate 
+director is not. See  13-C M.R.S. § 832(1) . 
+ 8 
+ The Counter -Defendants lean heavily on Tiernan v. 
+Barresi , which held that “under Maine law ... a party 
+who is not  a shareholder has no standing to litigate a 
+breach of fiduciary duty claim against corporate 
+directors,” including creditors. 944 F. Supp. 35, 37 (D. 
+Me. 1996) . But it does not appear that Tiernan  involved 
+an insolvent corporation, and, in evaluating corporate 
+duties under Maine law, the court analyzed a 
+now-repealed statute, which “ expressly create[d] a duty 
+on the part of the directors and officers of a corporation 
+to act in good faith toward the corporation and the 
+shareholders” whereas no such statute created a duty 
+vis-à-vis creditors. See id.  
+ 
+ 
+I agree that “[a]t least while a corporation remains 
+solvent, Maine law has not recognized any directors’ duty 
+to creditors.” Dev. Specialists, Inc . v. Kaplan , 574 B.R. 1, 
+13 (D. Me.) , aff’d sub nom.  Irving Tanning Co. v. Kaplan , 
+876 F.3d 384 (1st Cir. 2017) . But “ [a]s a matter of 
+common law ... when a corporation becomes insolvent ... 
+the corporate directors and officers are viewed as trustees 
+of the corporate assets, and they then become engaged in 
+a fiduciary relationship with the corporation’s creditors.” 
+Paper, Allied -Indus., Chem. & Energy Workers Int’l 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  9 
+ Union v. Sherman Lumber Co. , No. CV -00-41, 2001 WL 
+1719233, at *6 (Me. S uper. Ct. June 28, 2001)  (citing 
+Mitsubishi Caterpillar Forklift Am., Inc. v. Superior Serv. 
+Assocs., Inc., 81 F. Supp. 2d 101, 115 –16 (D. Me. 1999)  
+and Symonds v. Lewis , 48 A. 121, 123 (Me. 1901) ); see 
+Fletcher Cyclopedia of the Law of Corporations § 
+1035.60 (2021)  (“In most jurisdictions, when a 
+corporation becomes insolvent, officers and directors of a 
+corporation owe a fiduciary duty to the corporation’s 
+creditors.”).  
+  
+This does not necessarily settle the issue. The 
+Counter -Defendants put forward legitimate arguments as 
+to why I should not follow Mitsubishi  or Symonds.  But at 
+the end of the day, neither the Individual 
+Counter -Defendants nor the Counter -Claimants has 
+identified a case arising under Maine law that fully 
+analyzes this fiduciary duty issue in the context of a 
+creditor suing a director of an insolvent corporation. It is 
+the Counter -Defendants’  burden to establish that the 
+Counter -Claimants have no plausible claim for a breach 
+of fiduciary duty, and they have not met this burden. The 
+motion to dismiss Count II is DENIED . 
+  
+ 
+3. Kirsch Count III – Breach of Contract Due to 
+Failure to Make January Payment to Kirsch  
+*11 Mr. Kirsch alleges in Kirsch Count III that the 
+Counter -Defendants’ failure to make Mr. Kirsch’s 
+January Payment breache d the Loan Agreements’ 
+requirement that interest payments must be made 
+biannually (§ 2(f)) and breached the JSAs’ and 
+Intercreditor Agreements’ requirements “to treat all 
+noteholders with equal priority” (§ 1 and § 3(a), 
+respectively). Counter -Claimants’ O pp’n 2, 15 –17. At 
+oral argument, counsel for the Counter -Claimants 
+clarified that it considers payments of interest to some 
+Noteholders but not to Mr. Kirsch to be a violation of the 
+Intercreditor Agreements’ provision on the use of 
+collateral. See Intercr editor Agreements § 3(a). According 
+to Counter -Claimant Kirsch, because Stroudwater’s cash 
+is an asset that should be considered collateral, 
+Stroudwater was required to make the interest payments 
+“in proportion to amounts owing to the [Noteholders] on 
+account of their outstanding Loans.” Intercreditor 
+Agreements § 3(a) (emphasis deleted). This issue may 
+ultimately depend on whether the Subordination 
+Agreement is in effect. See supra  note 7. While it is not 
+clear to me that there is any duty under the Agreem ents to 
+pay interest, it is plausible that any interest payments that 
+are made must be made to each of the Noteholders. At 
+this stage of the proceedings, I credit Counter -Claimant Kirsch’s theory, and I DENY  the Motion to Dismiss 
+Count III.  
+  
+ 
+4. Behn/Daigle Counts III (Breach of Contract Due to 
+Breach of Behn and Daigle Employment Agreements) 
+and IV (Quantum Meruit)  
+Proving a breach of contract claim requires proof of a 
+breach of a material contract term, causation, and 
+damages. Me. Energy Recovery Co. v. United Steel 
+Structures, Inc. , 1999 ME 31, ¶ 7, 724 A.2d 1248, 1250 . 
+The Counter -Defendants argue that Behn/Daigle Count III 
+fails to establish any of those elements because Mr. 
+Behn’s and Ms. Daigle’s allegations of a breach of their 
+employment agreements is too nonspecific. 
+Counter -Defs.’ Mot. to Dismiss 12 –14. In particular, the 
+Counter -Defendants complain that Mr. Behn and Ms. 
+Daigle never identify which provision(s) of their 
+employment agreements was/were breached . 
+Counter -Defs.’ Mot. to Dismiss 12 –13. 
+  
+Mr. Behn and Ms. Daigle have both alleged that they had 
+employment agreements with Stroudwater and that 
+Stroudwater breached material terms of these contracts by 
+failing to pay them all of the compensation that the y are 
+due. Behn PAC ¶¶ 122 –28, 161 –62; Daigle PAC ¶¶ 
+146–52, 185 –87. This is sufficient to support their claims. 
+Contrary to the Counter -Defendants’ assertion, Mr. Behn 
+and Ms. Daigle allege that their employment agreements 
+required compensation for 2019 a nd 2020 that they were 
+not paid. And the Counter -Defendants identify no 
+authority for the idea that Mr. Behn and Ms. Daigle must 
+identify anything more specific in their pleadings, such as 
+the specific provisions of their employment agreements at 
+issue.  
+  
+Similarly, the Counter -Defendants’ assertions that Mr. 
+Behn and Ms. Daigle have insufficiently alleged damages 
+is contradicted by the Amended Counterclaims (and, for 
+that matter, the Counterclaims). Both Mr. Behn and Ms. 
+Daigle allege that the Counter -Defe ndants failed to pay 
+them particular forms of compensation that they were 
+due, such as their base salaries for June 30, 2020; their 
+401(k) employer contribution; and unpaid incentive 
+bonuses and commissions for revenue generated in 2019 
+and 2020.  
+  
+For the  same reason, in the context of the quantum meruit 
+claim (Count IV), although the Counter -Defendants 
+contend that Mr. Behn and Ms. Daigle have not specified 
+which services were rendered and why they were entitled 
+to payment, the Amended Counterclaims belie  this claim. 
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  10 
+ Behn PAC ¶¶ 122 –28; Daigle PAC ¶¶ 146 –52. The 
+motions to dismiss Behn/Daigle Counts III and IV are 
+DENIED . 
+  
+ 
+5. Count V – Unjust Enrichment  
+The Counter -Defendants  move to dismiss Mr. Behn and 
+Ms. Daigle’s unjust enrichment claim on the ground that 
+the existence of their employment agreements (which the 
+Counter -Defendants acknowledge) precludes such a 
+claim. Counter -Defs.’ Mot. to Dismiss 15. Nevertheless, 
+the Feder al Rules of Civil Procedure specifically allow a 
+party to plead alternative, and even inconsistent, claims 
+for liability. Fed. R. Civ. P. 8(d)(2)  (“A party may set out 
+2 or more statements of a claim or defense 
+alternatively....”), (d)(3) (“A party may state as many 
+separate claims or defenses as it has, regardless of 
+consistency.”); cf. GMAC Com. Mortg. Corp. v. 
+Gleichman , 84 F. Supp. 2d 127, 136 –37 (D. Me. 1999)  
+(“While the Maine Law Court has recognized ‘that the 
+existence of a contract precludes r ecovery on a theory of 
+unjust enrichment’ ... a party, nonetheless, is not 
+precluded from pleading both theories because a 
+factfinder may find that no contract exists and may still 
+award damages on a theory of unjust enrichment.’ ”) 
+(quoting June Roberts Agency, Inc. v. Venture Props., 
+Inc., 676 A.2d 46, 49 n.1 (Me. 1996) ). The motion to 
+dismiss Count VI is DENIED . 
+  
+ 
+6. Count VI – Employment Discrimination9 
+9 
+ I recognize that the Counter -Defendants’ motion to 
+dismiss pertained to Mr. Behn’s and Ms. Daigle’s 
+original Count VI and that that count will now be 
+supplanted by the amended versions of Count VI. I also 
+recognize that the Amended Counterclaims have not 
+yet been filed. For the sake of efficiency, I treat the 
+Counter -Defendants’ motion to dismiss, in combination 
+with their opposition to the motion to amend, as a 
+motion to dismiss the new versions of Count VI for the 
+same reasons as in that motion and that opposition. 
+However, now that I have allowed the requested 
+amendments, once the Amended Counterclaims are 
+filed, the Counter -Defendants may still file a motion as 
+to the merits of the new versions of Count VI (should 
+they wish to do so) to the extent permitted by the 
+Federal Rules of Civil Procedure.  
+ 
+ 
+*12 The MHRA limits a plaintiff’s remedies if, “ prior to the filing of the civil action,” the plaintiff fails to file a 
+complaint with the MHRC and the MHRC fails to act in a 
+particular manner, such as by issuing a right -to-sue letter. 
+5 M.R.S. § 4622(1) . The Counter -Defendants allege that 
+Mr. Behn’s and Ms. Daigle’s remedies are so limited 
+because when they filed their Counterclaims (which was 
+before they received their right -to-sue letters), they 
+“fil[ed]” their “civil action.”  The Counter -Defendants put 
+forth this argument despite Mr. Behn’s and Ms. Daigle’s 
+explicit statements in their Counterclaims that they were 
+not yet bringing their employment discrimination claims. 
+Behn Countercls. ¶ 72 (noting future “eligib[ility] to 
+request a ‘right to sue’ letter”); ¶ 73 (“Behn will seek to 
+bring his claims ... following receipt of a right to sue 
+letter.”); ¶ 135 (“Because Behn is not entitled to assert his 
+claims currently pending before the [MHRC] until his 
+receipt of a right to sue letter, Behn hereby notifies the 
+Court and Stroudwater that he intends to amend these 
+Counterclaims upon his receipt of the right to sue letter 
+from the [MHRC].”); Daigle Countercls. ¶¶ 72 –73, 134.  
+  
+The Counter -Defendants offer no authority to support 
+their formalistic contention that the filing of “placeholder 
+counts” is sufficient to trigger the bar on the particular 
+remedies outlined in § 4622 . I credit Mr. Behn and Ms. 
+Daigle’s ass ertions that they were not yet bringing their 
+employment discrimination claims but were merely 
+putting Stroudwater and the Court on notice that those 
+claims were coming down the pike. I thus conclude that 
+Mr. Behn and Ms. Daigle did not “rush[ ] to assert Count 
+VI before complying with the provisions of § 4622 ,” 
+Counter -Defs.’ Mot. to Dismiss 18, as the 
+Counter -Defendants contend. The Counter -Defendants’ 
+contention is particularly ironic  since Mr. Behn and Ms. 
+Daigle were first hauled into Court by Stroudwater; they 
+did not race to assert their claims without regard to the 
+MHRA. The motion to dismiss Count VI is DENIED . 
+  
+ 
+CONCLUSION  
+For the reasons stated above, the Court GRANTS  the 
+motion to amend (ECF No. 27) and sua sponte  GRANTS  
+the Counter -Claimants further leave to amend their 
+Amended Counterclaims as stated above, within seven 
+days. The Court DENIES  the motion to dismiss (ECF No. 
+22). 
+  
+SO ORDERED.  
+All Citations  
+Stroudwater Associates v. Kirsch, Slip Copy (2021)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  11 
+ Slip Copy, 2021 WL 5815910   
+End of Document  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  
+ 
+ 
+ 
+ 

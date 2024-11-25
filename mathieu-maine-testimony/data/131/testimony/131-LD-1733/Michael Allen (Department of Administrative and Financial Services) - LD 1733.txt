@@ -1,0 +1,119 @@
+TESTIMONY OF 
+MICHAEL J. ALLEN, ASSOCIATE COMMISSIONER FOR TAX POLICY 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES 
+Before the Appropriations and Financial Affairs Committee 
+Hearing Date: May 2, 2023 
+LD l733 — “An Act to Require the Revenue Forecasting Committee to Prepare 
+Economic Impact Statements for Certain Legislation” 
+Senator Rotundo, Representative Sachs, and members of the Appropriations 
+and Financial Affairs Committee - good afternoon, my name is Michael Allen, 
+Associate Commissioner for Tax Policy in the Department of Administrative and 
+Financial Services (DAF S). I am testifying at the request of the Administration 
+and on behalf of the Revenue Forecasting Committee (RFC) members who work in 
+DAF S Against LD I 733 — “An Act to Require the Revenue Forecasting Committee 
+to Prepare Economic Impact Statements for certain Legislation.” 
+The three DAFS members of the RFC are the State Budget Ofﬁcer, the State 
+Economist, and the Associate Commissioner for Tax Policy. 
+This bill requires that, at the request of 3 or more members of a legislative 
+committee, the Revenue Forecasting Committee (RFC) must prepare an economic 
+impact statement for any legislation before that legislative committee or legislation 
+being prepared by that legislative committee that creates a new workforce program 
+or amends employment, labor, or taxation laws. The request must be made by the 
+Legislators within 7 days of the legislation's referral to the legislative committee. 
+The RFC must issue the economic impact statement within 21 days of the receipt 
+of the request and not later than the ﬁnal work session on the legislation. Any 
+amendment introduced that would affect the economic impact statement of the 
+original legislation must also include an economic impact statement.
+1
+The RFC may coordinate with relevant state agencies and departments to gather 
+data, analysis, and other information necessary to prepare the economic impact 
+statement. 
+The requirement that the RFC prepare an economic impact statement for any 
+legislation that creates a new Workforce program or amends employment, labor or 
+taxation laws is beyond the current capabilities of the committee. Compliance with 
+such a requirement during the legislative session would require a signiﬁcant 
+increase in resources to the Ofﬁce of the State Economist, the Bureau of the 
+Budget, the Ofﬁce of Tax Policy, the Department of Labor’s Center for Workforce 
+Research and Information (CWRI) and likely the Ofﬁce of Fiscal and Program 
+Review. Accordingly, we recommend that this requirement be eliminated. 
+Economic impact statements should only be required in rare cases, and only with 
+the joint approval of Legislative Leadership and the Administration. 
+Additionally, some of the reporting requirements, speciﬁcally the ﬁrst three 
+items in Part C, require the RFC to offer opinions on policy. Representatives who 
+are statutory members of the RFC should be insulated from the political aspects of 
+policymaking in order to uphold independence and maintain trust in revenue 
+forecasts and estimates. 
+Ideally high-quality evidence on the impact of similar policies could inform 
+an economic impact statement, but in many cases such evidence will not exist, or 
+the evidence may be ambiguous or conflicting. At best, these types of analyses 
+provide qualitative guidance on the merits of a policy, but not the hard numbers 
+required by this bill. See the attached explanation of the model(s) currently 
+available to the Ofﬁce of the State Economist that would be used to provide an 
+economic impact analysis.
+2
+In conclusion, the bill as currently drafted is not feasible with existing 
+resources - the committee members all have more than full-time day to day 
+commitments and our economic modeling tools are not all encompassing; puts at 
+risk the independent and apolitical structure of forecasts and impacts; and in most 
+cases will likely not allow for enough time or capacity to comprehensively meet 
+the requirements. 
+The Administration looks forward to working with the Committee on the 
+bill; representatives from the affected ofﬁces will be here for the Work Session to 
+provide additional information and respond in detail to the Committee ’s questions
+Explanation of Current Economic Modeling Capabilities 
+Ofﬁce of the State Economist 
+Economic impact models are commonly used to estimate the economic 
+effects of proposed legislation. The Ofﬁce of the State Economist maintains a 
+REMI PI+ statewide, 70 industry sector model that is a conjoined input-output and 
+econometric model that allows for the estimation of economic and ﬁscal impacts. 
+While a useful tool, there are several limitations to the model. Economic impact 
+models rely on certain assumptions and data inputs that may not accurately reﬂect 
+the real-world complexity of economic systems or fully consider the distributional 
+impacts on different demographic groups. The REMI PI+ model currently 
+maintained by the Ofﬁce is most effective for analyzing large-scale expenditures 
+with a statewide impact and does not allow for regional-speci ﬁc impacts. Neither 
+does it allow for direct analysis of proposed tax changes. For those, a separate add- 
+on model (Tax-PI) would have to be purchased and maintained. The PI+ model 
+also operates off a baseline forecast developed by REMI. While some components 
+of the forecast can be calibrated to match the forecast from the Consensus 
+Economic Forecasting Commission, the Commission does not forecast every 
+variable in the model (GDP, for example) and so the calibration is not exact. 
+The typical turnaround time to model economic impacts for proposed 
+revenue forecasting legislation can vary depending on several factors, such as the 
+complexity of the proposed legislation, the availability and quality of data, and the 
+sophistication of the economic impact model being used. In general, it can take 
+several weeks to several months to produce an economic impact analysis for 
+proposed legislation, especially if the analysis requires input from multiple
+4
+stakeholders or a review by outside experts. However, some simpler analyses may 
+be produced in a shorter time frame. It's worth noting that the speed of the analysis 
+should not come at the expense of accuracy or rigor. Accurate economic impact 
+analysis requires careful consideration of assumptions and data inputs, and 
+sufﬁcient time for review and reﬁnement. 
+Much of the Work in an economic impact analysis is done up-front in the 
+form of background research, identifying (and accessing) relevant data, and careful 
+consideration of a variety of contextual issues developing the assumptions and 
+inputs that go into the model runs. For example, the speciﬁc timing of impacts, the 
+industries and income lines that would be affected, and the exact amounts that 
+would impact these variables are just a few of the inputs needed. Despite best 
+efforts, the inputs to the model may be incomplete or inaccurate, which can lead to 
+errors and limitations in the resulting economic impact statement. Often, multiple 
+iterations are needed where inputs are developed, the model is run, inputs are 
+adjusted, the model is run again, and so on. This can be a very time-consuming 
+process depending on the scope of the proposed change. The ﬁnal results then 
+show the impact to the region as a whole in the projected time period going 
+forward for a number of measures, such as population, GDP, employment by 
+industry sector, components of personal income, earnings by sector, and 
+government spending, to name a few. 
+However, there are several items in the required statement list that are 
+outside the scope of either the REMI PI+ or the Tax-PI model. In particular, items 
+l (a determination of whether the legislation is the most cost-effective method for 
+achieving the stated purpose), 2 (a determination of whether the legislation 
+represents the most efﬁcient appropriation or allocation of public and private 
+resources to achieve the stated purpose), and 7 (a determination of the effect of the
+5
+legislation on competition within the State, with other states and with regions, on 
+the regulated community and on potential global competition) are not effects that 
+would be captured by the results of the economic impact model. While economic 
+impact analysis does provide information on jobs created, it would not identify 
+which jobs would be enhanced, retained, impaired, or devalued.

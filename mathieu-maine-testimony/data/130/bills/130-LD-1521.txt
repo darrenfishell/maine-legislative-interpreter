@@ -1,0 +1,146 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1521
+H.P. 1125 House of  Representatives,  April 19, 2021
+An Act  To Strengthen Protections against Civil Asset Forfeiture
+Received by the Clerk of the House on April  15, 2021.  Referred to  the Committee  on 
+Criminal Justice and  Public  Safety pursuant to Joint Rule 308.2 and ordered  printed pursuant to 
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative FAULKINGHAM of Winter Harbor.
+Cosponsored by Senator MIRAMANT  of Knox and
+Representatives: ANDREWS of  Paris, FECTEAU of Augusta, LIBBY of  Auburn,  TALBOT 
+ROSS of Portland, WARREN of Hallowell,  Senator:  MAXMIN  of Lincoln.
+
+Page 1 - 130LR0216(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  15 MRSA §5821, first ¶, as amended by PL 2017, c. 409, Pt. B, §1, is 
+3 further amended to read:
+4 Except as provided in section 5821‑A or 5821-B, the following are subject to forfeiture 
+5 to the State and no property right may exist in them if the owner of the following is 
+6 convicted of a crime in which the following was involved:
+7Sec. 2.  15 MRSA §5821, sub-§3-A, as repealed and replaced by PL 2013, c. 588, 
+8 Pt. A, §19, is amended to read:
+93-A.  Firearms and other weapons.  Law enforcement officers may seize all firearms 
+10 and dangerous weapons that they may find in any lawful search for scheduled drugs in 
+11 which scheduled drugs are found.  Except for those seized weapons listed in a petition filed 
+12 in the Superior Court pursuant to section 5822, all weapons seized,  for every firearm or 
+13 dangerous weapon seized, if the owner of the firearm or dangerous weapon is convicted of 
+14 a crime in which the firearm or dangerous weapon was involved, after notice and 
+15 opportunity for hearing, the firearm or dangerous weapon must be forfeited to the State by 
+16 the District Court 90 days after a list of the weapons and drugs seized is filed in the District 
+17 Court in the district in which the weapons and drugs were seized.  A weapon need may not 
+18 be forfeited if the owner appears prior to the declaration of forfeiture and unless the State 
+19 satisfies the court, by a preponderance of evidence, of all of the following:  that the owner 
+20 of the firearm or dangerous weapon was convicted of a crime in which the firearm or 
+21 dangerous weapon was involved.
+22 A.  That the owner had a possessory interest in the weapon at the time of the seizure 
+23 sufficient to exclude every person involved with the seized drugs or every person at the 
+24 site of the seizure;
+25 B.  That the owner had no knowledge of or involvement with the drugs and was not at 
+26 the site of the seizure; and
+27 C.  That the owner had not given any involved person permission to possess or use the 
+28 weapon.
+29 Post-hearing procedures are as provided in section 5822.
+30 A confiscated or forfeited firearm that was confiscated or forfeited because it was used to 
+31 commit a homicide must be destroyed by the State unless the firearm was stolen and the 
+32 rightful owner was not the person who committed the homicide, in which case the firearm 
+33 must be returned to the owner if ascertainable. ;
+34Sec. 3.  15 MRSA §5821, sub-§3-B, as amended by PL 2019, c. 113, Pt. C, §52, is 
+35 further amended to read:
+363-B.  Forfeiture of firearms used in the commission of certain acts.  In addition to 
+37 the provisions of subsection 3‑A and Title 17‑A, section 1504, this subsection controls the 
+38 forfeiture of firearms used in the commission of certain acts.
+39 A.  Except as provided in paragraph B, a firearm is subject to forfeiture to the State if 
+40 the firearm is used by a person who is the owner of the firearm to commit a criminal 
+41 act that in fact causes serious bodily injury or death to another human being and, 
+42 following that act, the person either commits suicide or attempts to commit suicide and 
+Page 2 - 130LR0216(01)43 the attempt results in the person's becoming incompetent to stand trial or the person is 
+44 killed or rendered incompetent to stand trial as the result of a justifiable use of deadly 
+45 force by a law enforcement officer.  Except as provided in paragraph B, a property 
+46 right does not exist in the firearm subject to forfeiture.
+5 B.  A firearm that is used in the commission of a criminal act described in paragraph A 
+6 is exempt from forfeiture under this subsection if the firearm belongs to another person 
+7 who is the rightful owner from whom the firearm has been stolen and the other person 
+8 is not a principal or accomplice in the criminal act.  In that case, the firearm must be 
+9 transferred to the other person unless that person is otherwise prohibited from 
+10 possessing a firearm under applicable law.
+11 A firearm subject to forfeiture pursuant to this subsection that is declared by a court to be 
+12 forfeited pursuant to section 5822 must be promptly destroyed, or caused to be promptly 
+13 destroyed, by the law enforcement agency that has custody of the firearm. ;
+14Sec. 4.  15 MRSA §5821, sub-§7-A, as amended by PL 2019, c. 97, §1, is further 
+15 amended to read:
+167-A.  Computers.  Except as provided in paragraph A, all computers  Computers, as 
+17 defined in Title 17‑A, section 431, subsection 2, and computer equipment, including, but 
+18 not limited to, printers and scanners, that are used or are attempted to be used in violation 
+19 of Title 17‑A, section 259‑A. ;
+20 A.  Property may not be forfeited under this subsection, to the extent of the interest of 
+21 an owner, by reason of an act or omission established by that owner to have been 
+22 committed or omitted without the knowledge or consent of the owner;
+23Sec. 5.  15 MRSA §5821, as amended by PL 2019, c. 97, §§1 to 3 and c. 113, Pt. C, 
+24 §52, is further amended by adding at the end a new paragraph to read:
+25 Unless seized property under this section includes United States currency in excess of 
+26 $100,000, a law enforcement agency, prosecuting authority, state agency, county or 
+27 municipality may not enter into an agreement to transfer or refer property seized under this 
+28 section to a federal agency directly, indirectly, through adoption, through an 
+29 intergovernmental joint task force or by other means that circumvent the provisions of this 
+30 section.
+31Sec. 6.  15 MRSA §5825, as amended by PL 2019, c. 651, §1, is further amended to 
+32 read:
+33§5825.  Records; reports
+341.  Records of forfeited property.  Any officer to whom or department or agency to 
+35 which property subject to forfeiture under section 5821 has been ordered forfeited shall 
+36 maintain records showing:
+37 A.  The name of the court that ordered each item of property to be forfeited to the 
+38 officer, department or agency;
+39 D.  The date on which each item of property was ordered forfeited to the officer, 
+40 department or agency; and
+41 E.  A description of each item of property forfeited to the officer, department or agency.1
+2
+3
+4
+Page 3 - 130LR0216(01)1 The records must be open to inspection.  A copy of each record must be filed with the 
+2 Department of Public Safety.
+32.  Department of Public Safety.  A report of the transfer of property previously held 
+4 by the Department of Public Safety and then ordered by a court to be forfeited to another 
+5 governmental entity must be provided upon request to the Commissioner of Administrative 
+6 and Financial Services and the Office of Fiscal and Program Review.  The report must 
+7 account for any such transfer that occurred during the 12 months preceding such a request.  
+8 The Department of Public Safety shall maintain all records filed with the department 
+9 pursuant to subsection 1.  The Department of Public Safety shall make all records under 
+10 this subsection available on a publicly accessible website.
+11SUMMARY
+12 This bill requires that, for property to be forfeited under the criminal forfeiture laws, 
+13 the owner of the property be convicted of a crime in which the property was involved, and 
+14 it prohibits a law enforcement agency or other entity from entering into an agreement to 
+15 transfer or refer the property seized to a federal agency.  This bill also requires that the 
+16 records of forfeited property be posted by the Department of Public Safety on a publicly 
+17 accessible website.12
+13
+14
+15
+16
+17

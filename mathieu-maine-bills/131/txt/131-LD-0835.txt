@@ -1,0 +1,164 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 835
+H.P. 524 House of Representatives, February 21, 2023
+An Act to Phase Out the Income Tax
+Reference to the Committee on Taxation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BOYER of Poland.
+Cosponsored by Senator BRAKEY of Androscoggin and
+Representatives: ANDREWS of Paris, ARDELL of Monticello, FAULKINGHAM of Winter 
+Harbor, HYMES of Waldo, LIBBY of Auburn, NEWMAN of Belgrade, QUINT of Hodgdon, 
+SMITH of Palermo.
+
+Page 1 - 131LR1612(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §5111, sub-§1-F, as enacted by PL 2015, c. 267, Pt. DD, §3, is 
+3 amended to read:
+41-F.  Single individuals and married persons filing separate returns; tax years 
+5beginning 2017.  For tax years beginning on or after January 1, 2017 but no later than 
+6 December 31, 2027, for single individuals and married persons filing separate returns:
+If Maine taxable income is: The tax is:
+Less than $21,050 5.8% of the Maine taxable income
+At least $21,050 but less than $50,000 $1,221 plus 6.75% of the excess over 
+$21,050
+$50,000 or more $3,175 plus 7.15% of the excess over 
+$50,000
+7Sec. 2.  36 MRSA §5111, sub-§2-F, as enacted by PL 2015, c. 267, Pt. DD, §5, is 
+8 amended to read:
+152-F.  Heads of households; tax years beginning 2017.  For tax years beginning on or 
+16 after January 1, 2017 but no later than December 31, 2027, for unmarried individuals or 
+17 legally separated individuals who qualify as heads of households:
+If Maine taxable income is: The tax is:
+Less than $31,550 5.8% of the Maine taxable income
+At least $31,550 but less than $75,000 $1,830 plus 6.75% of the excess over 
+$31,550
+$75,000 or more $4,763 plus 7.15% of the excess over 
+$75,000
+18Sec. 3.  36 MRSA §5111, sub-§3-F, as enacted by PL 2015, c. 267, Pt. DD, §7, is 
+19 amended to read:
+263-F.  Individuals filing married joint returns or surviving spouses; tax years 
+27beginning 2017.  For tax years beginning on or after January 1, 2017 but no later than 
+28 December 31, 2027, for individuals filing married joint returns or surviving spouses 
+29 permitted to file a joint return:
+If Maine taxable income is: The tax is:
+Less than $42,100 5.8% of the Maine taxable income
+At least $42,100 but less than $100,000 $2,442 plus 6.75% of the excess over 
+$42,100
+$100,000 or more $6,350 plus 7.15% of the excess over 
+$100,000
+30Sec. 4.  36 MRSA §5111, sub-§7 is enacted to read:
+377.  Phase-out.  For tax years beginning on or after January 1, 2024, for each taxpayer 
+38 filing an income tax return under this chapter, the amount of tax calculated under subsection 
+39 1-F, 2-F or 3-F, as adjusted under section 5403, is reduced as follows:
+40 A.  For tax years beginning in 2024, the amount calculated is multiplied by 80%;
+41 B.  For tax years beginning in 2025, the amount calculated is multiplied by 60%;7
+8
+9
+10
+11
+12
+13
+14
+18
+19
+20
+21
+22
+23
+24
+25
+30
+31
+32
+33
+34
+35
+36
+Page 2 - 131LR1612(01)1 C.  For tax years beginning in 2026, the amount calculated is multiplied by 40%; and
+2 D.  For tax years beginning in 2027, the amount calculated is multiplied by 20%.
+3Sec. 5.  36 MRSA §5111, sub-§8 is enacted to read:
+48.  Income tax eliminated.  Beginning January 1, 2028, no taxes are imposed under 
+5 this section.
+6Sec. 6.  36 MRSA §5200, sub-§1-A, as enacted by PL 2017, c. 474, Pt. E, §2, is 
+7 amended to read:
+81-A.  Imposition and rate of tax beginning 2018.  For tax years beginning on or after 
+9 January 1, 2018 but no later than December 31, 2027, a tax is imposed for each taxable 
+10 year at the following rates on each taxable corporation and on each group of corporations 
+11 that derives income from a unitary business carried on by 2 or more members of an 
+12 affiliated group:
+If the income is: The tax is: 
+Not over $350,000 3.5% of the income
+$350,000 but not over $1,050,000 $12,250 plus 7.93% of the excess over 
+$350,000
+$1,050,000 but not over $3,500,000 $67,760 plus 8.33% of the excess over 
+$1,050,000
+$3,500,000 or more $271,845 plus 8.93% of the excess 
+over $3,500,000
+13 In the case of an affiliated group of corporations engaged in a unitary business with activity 
+14 taxable only by Maine, the rates provided in this subsection are applied only to the first 
+15 $3,500,000 of the Maine net income of the entire group and must be apportioned equally 
+16 among the taxable corporations unless those taxable corporations jointly elect a different 
+17 apportionment. The balance of the Maine net income of the entire group is taxed at 8.93%.
+26 In the case of an affiliated group of corporations engaged in a unitary business with activity 
+27 taxable both within and without this State, the rates provided in this subsection are applied 
+28 only to the first $3,500,000 of the net income of the entire group and must be apportioned 
+29 equally among the taxable corporations unless those taxable corporations jointly elect a 
+30 different apportionment. The balance of the net income of the entire group is taxed at 
+31 8.93%.
+32Sec. 7.  36 MRSA §5200, sub-§7 is enacted to read:
+337.  Phase-out.  For tax years beginning on or after January 1, 2024, for each taxpayer 
+34 filing an income tax return under this chapter, the amount of tax calculated under subsection 
+35 1-A is reduced as follows:
+36 A.  For tax years beginning in 2024, the amount calculated is multiplied by 80%;
+37 B.  For tax years beginning in 2025, the amount calculated is multiplied by 60%;
+38 C.  For tax years beginning in 2026, the amount calculated is multiplied by 40%; and
+39 D.  For tax years beginning in 2027, the amount calculated is multiplied by 20%.
+40Sec. 8.  36 MRSA §5200, sub-§8 is enacted to read:13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Page 3 - 131LR1612(01)18.  Income tax eliminated.  Beginning January 1, 2028, no taxes are imposed under 
+2 this section.
+3Sec. 9.  Spending reductions.  Beginning with fiscal year 2024-25, the Department 
+4 of Administrative and Financial Services, Bureau of the Budget shall reduce the budget 
+5 each fiscal year for each department of State Government proportionally to achieve an 
+6 overall reduction in expenditures equal to the reduction of revenue under the Maine 
+7 Revised Statutes, Title 36, section 5111, subsections 7 and 8 and section 5200, subsections 
+8 7 and 8.
+9SUMMARY
+10 This bill phases out the income tax over 5 years beginning in 2024 and requires that 
+11 state department budgets be reduced proportionally.10
+11

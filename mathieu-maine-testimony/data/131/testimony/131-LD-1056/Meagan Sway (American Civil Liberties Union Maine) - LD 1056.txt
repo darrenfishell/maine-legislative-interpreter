@@ -1,0 +1,63 @@
+P0 Box 7860 
+Portland, ME D4112 
+www.ac|umaine org 
+AMERICAN GIVIL LIBERTIES UNION 
+Maine 
+TESTIMONY OF MEAGAN SWAY, ESQ. 
+LD 1056 — Ought to Pass 
+An Act Restricting State Assistance in Federal Collection of Personal 
+Electronic Data and Metadata 
+Joint Standing Committee on Judiciary 
+March 28, 2023 
+Senator Carney, Representative Moonen, and distinguished members of the 
+Joint Standing Committee on Judiciary, greetings. My name is Meagan Sway, andI 
+am the policy director at the ACLU of Maine, a statewide organization committed to 
+advancing and preserving civil rights and civil liberties guaranteed by the Maine 
+and U.S. Constitutions. On behalf of our members, We support LD 1056 in concept. 
+Nearly a century ago, Supreme Court Justice Louis Brandeis characterized 
+“the right to be left alone” as “the most comprehensive of rights and the right most 
+valued by civilized [people]. ” Olmstead u. United States, 2'77 U.S. 488, 478 (1928). 
+That right is guaranteed by the Fourth Amendment to the United States 
+Constitution, which protects “persons, houses, papers, and effects” from 
+“unreasonable search and seizure, ” and requires that search Warrants be supported 
+by “probable cause.” The Maine Constitution also protects against “unreasonable 
+searches and seizures ” and requires search Warrants based on probable cause. Me. 
+Const. Art. I, Sec. 5. 
+Though our constitutions continue to be vital sources of protection for 
+individual liberty and human dignity, the interpretation of these documents often 
+lags behind the needs of society. Courts do the best that the can to keep up with 
+technological developments, but it can take many years for court cases to be 
+decided, especially when they are appealed. The United States Supreme Court’s 
+decision in Carpenter v. United States is one example. Although the Court updated 
+Fourth Amendment law to apply to cellphones, it did so more than a decade after 
+cellphones had become ubiquitous. See 585 U.S. ___, 138 S. Ct. 2206 (2017) (holding 
+that government must have Warrant to obtain citizen’s cell phone location history). 
+This is Why there is an important role for legislative bodies, particularly state 
+legislatures, to play in ensuring that the protection of the right to privacy keeps 
+pace with technological developments. This is a role that the Maine legislature has 
+seized and exercised with admirable vigor, by passing legislation restricting the 
+collection of cellphone content, location information, and metadata by law
+enforcement. See l6 M.R.S.A. § 641 et seq. (Portable Electronic Device Content); 16 
+M.R.S.A. § 647 et seq. (Electronic Device Location Information). Maine was one of 
+the first states in the country to adopt protections of this kind, and these laws have 
+become a model for other state legislators and privacy advocates. Maine’s actions 
+also protected the privacy of its residents more than 4 years before the Supreme 
+Court acted in Carpenter. 
+We support the concept of LD 1056, to put strong guardrails around the 
+Fourth Amendment. However, the bill’s language may need to be amended to 
+ensure that the information covered by the bill is electronic data protected by the 
+Fourth Amendment, and does not inadvertently include information that would 
+prohibit the administrative functions of government unrelated to criminal or 
+national security investigations. 
+If amended properly, LD 1056 would help close a gap left by those privacy 
+laws by ensuring that our law enforcement officials are not able to directly or 
+indirectly violate our right to telecommunications privacy. The federal government 
+has yet to adopt meaningful protections against unreasonable intrusions into our 
+telecommunications privacy, but until they do, Maine law-enforcement officials need 
+to know that Maine taxpayers pay their paychecks and the Maine legislature and 
+courts set the rules for how and when they are allowed to intrude upon people’s 
+privacy. 
+Because this protection is necessary, and because Maine should continue to 
+lead the nation in protecting individual privacy in the digital age, we support the 
+intent of LD 1056, to ensure that Maine resources are not used to violate the 
+Constitution.

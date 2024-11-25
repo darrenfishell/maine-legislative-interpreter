@@ -1,0 +1,83 @@
+IVIAJNE ASSOCIATION 
+or 
+HEALTH PLANS 
+Testimony of Dan Demeritt — 4/24/23 
+Joint Standing Committee on Health Coverage, Insurance, and Financial Services 
+In Opposition to LD 1267 
+An Act to Provide Altemative Methods of Payment to Health Care Providers 
+Senator Bailey, Representative Perry, and Members of the Joint Standing Committee on Health 
+Coverage, Insurance, and Financial Services: 
+My name is Dan Demeritt, the Executive Director of the Maine Association of Health Plans 
+(MeAHP). Our plans include Anthem Blue Cross and Blue Shield, Cigna, CVS / Aetna, 
+Community Health Options, Harvard Pilgrim Health Care, and United Health Care. Our private 
+and non-profit insurance carriers provide or administer health insurance coverage to about 
+600,000 Maine people. Our mission as an association is to improve the health of Maine people 
+by promoting affordable, safe, and coordinated healthcare. 
+The members of the Maine Association of Health Plans oppose LD 1267 because it is duplicative 
+of federal law. Providers already have the right to receive payments that are not Virtual Credit 
+Card (V CC) payments that may be subject to transaction fees. 
+Carriers provide payment options for providers that include no fees. These payments can include 
+electronic transfers that provide providers with the full claim amount and traditional paper 
+checks. 
+The Heath Insurance Portability and Accountability Act standard payor-to-provider Automated 
+Clearing House (ACH) electronic funds transfer (EFT) is designed to reduce the cost and 
+administrative burden of the claims payment process. Health plans must conduct these 
+transactions when asked to do so under HIPAA’s administrative simplification ‘rules!’-‘-1* 
+I am including an American Medical Association fact sheet with my testimony that outlines a 
+provider's rights to make ACH and EFT payments work for their practicelll AMA suggests the 
+banking network fee of just $0.34 per ACH EFT transaction reduces provider transaction costs 
+from $250.10 to just $0.34 on a $5,000 claimlll 
+A screenshot of the savings calculation is included with my testimony. 
+Given that carriers already offer no -fee payment options, as required by federal law, there is no 
+need for a state mandate regarding transaction alternatives. We urge a vote of ought not to pass. 
+P.O. Box 193, Orono, Maine 04473 207-852-2087 -
+Virtual Credit Card vs. Federally Mandated Healthcare Standard ACH EFT 
+' 
+Processing Costs $0.34 $258419‘ 
+T0281 Payment $4,999.65 $4,’?4$9.95 
+‘ fakulalcaj using; 5% inwrvhnngr Err ¥ 50.19 iramsaﬂiun Rw- 
+iii httpsz;’;’www.cms.gaui' €i!es1d0cumentfeiecU9_mc-§unds-transfe wand-eIectronic-remittance~advice- 
+transactéonsgdf, accessed 4/21/23 
+iittns:!/www.ama~assn.Qrgisétesfama-assn ﬁoraffélesjcemfmedia-browserimsmiumfosafknow-vouwach-eift~ 
+ﬁghts O.Qdf 
+hmasz;-’/www.ama~assn.or2is§_te5/amaassn.erg; ’ﬁiesfcernfmedla-br0wser; ’;2¥em§L§:7}i' n safvirtual-cards Gpglf 
+From AMA website updated 1/20/23 
+P.O. Box 193, Orono, Maine 04473 207-852-2087
+The Automated Clearing House (ACH) electronic funds transfer (EFT) is a Health Insurance Portability 
+and Accountability Act (HIPAA) standard payer-to-provider payment method designed to reduce the 
+cost and administrative burden of the claims payment process. The standard, which utilizes the NACHA — The Electronic Payments Association Cash Concentration and Disbursement Plus Addenda (CCD+) 
+format to process payments, is available to all physicians that request its usage from health plans. lt 
+has been estimated that physicians and hospitals that use this new standard will save billions 
+of dollars over the next decade. In order to receive the greatest benefit from ACH EFT enrollment, 
+the AMA encourages physicians to make note of the following: 
+All EFT forms are not created equal 
+The term “EFT” encompasses any transfer of funds using an electronic terminal (rather than paper). 
+This includes credit cards, wire transfers, virtual credit card programs, and bank account~t0-bank 
+account payments. ln order to promote greater efficiency, HIPAA mandated that health plans offer ACH 
+EFT, a specific form of electronic payment using the ACH network. Many health plans offer various EFT 
+payment models, but only the ACH EFT method is regulated under HIPAA. Physician practices wishing 
+to receive efficient payment under the HIPAA standard should be sure to request ACH EFT in the 
+CCD+ format from their health plans. Remember, health plans must provide ACH EFT payments 
+upon request. 
+ACH EFT is not subject to percentage-based payment fees 
+ln order to achieve compliance with the HIPAA mandate requiring all health plans to offer ACH EFT 
+upon request, some health plans use payment vendors to process ACH EFT payments. Many of these 
+vendors offer ACH EFT payment options that charge physicians processing fees of up to 1.9% of the 
+claims payment. HIPAA regulations require health plans to offer physicians an ACH EFT payment 
+option that does not charge such percentage-based fees. Although vendors may be allowed to 
+charge for value-added services designed to supplement the standard ACH EFT payments, a health 
+plan must make available to physicians the ACH EFT standard payment at no additional cost beyond 
+nominal, per-transaction processing fees of the banking network (approximately $0.34). This fee is 
+usually assessed by the physician ’s bank. 
+ACH EFT enrollment does not grant health plans the authority to process unauthorized debits 
+ln order to facilitate ACH EFT payments, health plans will collect the relevant bank account information 
+from physicians. While this information will provide health plans with the ability to directly credita 
+physician's account, the ACH EFT standard does not specifically permit health plans to process debits 
+to those accounts, unless otherwise agreed to between the parties. Physicians are encouraged to 
+carefully read their EFT enrollment and registration information to determine whether it allows 
+the health insurer to debit funds from their bank account. 
+To ensure protection from unauthorized debits, practices should contact their bank. Most banks offera 
+variety of options to prevent unauthorized debits to accounts, such as identifying specific parties that 
+can only make credits to one’s account. 
+For more information on ACH EFT, please see the AMA ’s EFT Toolkit. 
+Copyright 2014 American Medical Association. All rights resen/ed.

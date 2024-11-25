@@ -1,0 +1,440 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1400  
+S.P. 521  In Senate, May 12, 2015  
+ 
+ 
+An Act To Focus Energy Laws on Energy Cost  
+ 
+ 
+ 
+ 
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.  
+ 
+ 
+  
+ HEATHER J.R. PRIEST  
+ Secretary of the Senate  
+ 
+Presented by Senator WOODSOME of York.  (GOVERNOR'S BILL)  
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR1987(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §3143, sub -§3, ¶B, as enacted by PL 2009, c. 539, §2, is 2 
+amended to read:  3 
+B.  Deployment and integration into the electric system of renewable capacity 4 
+resources, as defined i n former  section 3210 -C, subsection 1, paragraph E, that are 5 
+interconnected to the electric grid at a voltage level less than 69 kilovolts;  6 
+Sec. 2.  35-A MRSA §3207, sub -§1, ¶A, as amended by PL 2003, c. 141, §1, is 7 
+further amended to read:  8 
+A.    May sell retail generation service only within their respective service territories, 9 
+and are authorized to purchase electric power and energy at wholesale, provided that  10 
+as long as  the consumer -owned transmission and distribution utility complies with the 11 
+requireme nts of section 3203, subsection 3 and section 3210, subsection 3 , and to 12 
+purchase such transmission and related services as may be required to effect the 13 
+delivery of such power and energy to their respective service territories; and  14 
+Sec. 3.  35-A MRSA §320 7, sub -§1-A, ¶A, as enacted by PL 2009, c. 108, §1, is 15 
+amended to read:  16 
+A.  May sell retail generation service only within its service territory and is 17 
+authorized to purchase electric power and energy at wholesale, as long as the 18 
+consumer -owned transmissio n and distribution utility complies with the requirements 19 
+of section 3203, subsection 3 and section 3210, subsection 3 , and to purchase such 20 
+transmission and related services as may be required to effect the delivery of such 21 
+power and energy to its service  territory; and  22 
+Sec. 4.  35-A MRSA §3209 -A, as enacted by PL 2011, c. 262, §1, is repealed.  23 
+Sec. 5.  35-A MRSA §3210, as amended by PL 2011, c. 637, §1, is further 24 
+amended to read:  25 
+§3210.  Cost -effective renewable resources  26 
+1.  Policy.   In order to ensure an adequate  a cost -effective  and reliable supply of 27 
+electricity for Maine residents and to encourage the use of  renewable, efficient and 28 
+indigenous resources, it is the policy of this State to encourage the generation of 29 
+electricity from renewable and eff icient sources and to diversify electricity production on 30 
+which residents of this State rely in a manner consistent with this section  businesses, the 31 
+commission under this section shall seek to lower the cost of electricity and increase the 32 
+production of c lean energy . 33 
+2.  Definitions.   As used in this section, unless the context otherwise indicates, the 34 
+following terms have the following meanings.  35 
+A.  "Efficient resource" means a source of electrical generation that:  36 
+(1)  Qualifies as a qualifying cogenerat ion facility under the Federal Energy 37 
+Regulatory Commission rules, 18 Code of Federal Regulations, Part 292, Subpart 38 
+ 
+ Page 2 - 127LR1987(01) -1 
+ B, as in effect on January 1, 1997, was constructed prior to January 1, 1997 and 1 
+meets the following efficiency standard:  2 
+(a) During any ca lendar year, the sum of the useful power output and the 3 
+useful thermal energy output of the facility is no less than 60% of the total 4 
+energy input to the facility.  5 
+For purposes of this paragraph, the term "useful power output" means the electrical or 6 
+mecha nical energy made available for use, exclusive of any energy used in the power 7 
+production process.  For purposes of this paragraph, the term "useful thermal energy" 8 
+means thermal energy made available to an industrial or commercial process, net of 9 
+any heat  contained in condensate return and makeup water, used in a heating 10 
+application or used in a space cooling application.  11 
+This paragraph is repealed January 1, 2016.  12 
+A-1.  "Alternative compliance payment rate" means a certain dollar amount per 13 
+kilowatt -hour set by the commission that a competitive electricity provider may pay 14 
+to the commission to satisfy the portfolio requirements of subsection 3 -A. 15 
+This paragraph is repealed January 1, 2016.  16 
+B.  "Eligible resource" means a source of electrical generation tha t: 17 
+(1) Generates power that can physically be delivered to the control region in 18 
+which the New England Power Pool, or its successor as approved by the Federal 19 
+Energy Regulatory Commission, has authority over transmission, or to the 20 
+Maritimes Control Area; and 21 
+(2) Is either a renewable resource or an efficient resource.  22 
+B-2.  "Renewable energy credit" means a tradable instrument that represents an 23 
+amount of electricity generated from eligible resources or renewable capacity 24 
+resources.  25 
+B-3.  "Renewable capaci ty resource" means a source of electrical generation:  26 
+(1)  Whose total power production capacity does not exceed 100 megawatts and 27 
+relies on one or more of the following:  28 
+(a)  Fuel cells;  29 
+(b)  Tidal power;  30 
+(c)  Solar arrays and installations;  31 
+(d)  Geotherm al installations;  32 
+(e)  Hydroelectric generators that meet all state and federal fish passage 33 
+requirements applicable to the generator; or  34 
+(f)  Biomass generators that are fueled by wood or wood waste, landfill gas 35 
+or anaerobic digestion of agricultural pr oducts, by -products or wastes; or  36 
+(2)  That relies on wind power installations.  37 
+B-4.  "New" as applied to any renewable capacity resource means a renewable 38 
+capacity resource that:  39 
+ 
+ Page 3 - 127LR1987(01) -1 
+ (1)  Has an in -service date after September 1, 2005;  1 
+(2)  Was added to an ex isting facility after September 1, 2005;  2 
+(3)  For at least 2 years was not operated or was not recognized by the New 3 
+England independent system operator as a capacity resource and, after September 4 
+1, 2005, resumed operation or was recognized by the New Eng land independent 5 
+system operator as a capacity resource; or  6 
+(4)  Was refurbished after September 1, 2005 and is operating beyond its 7 
+previous useful life or is employing an alternate technology that significantly 8 
+increases the efficiency of the generation process.  9 
+For the purposes of this paragraph, "capacity resource" has the same meaning as in 10 
+former  section 3210 -C, subsection 1, paragraph A.  For the purposes of this 11 
+paragraph, "to refurbish" means to make an investment in equipment or facilities, 12 
+other than for routine maintenance and repair, to renovate, reequip or restore the 13 
+renewable capacity resource.  14 
+This paragraph is repealed January 1, 2016.  15 
+C.  "Renewable resource" means a source of electrical generation:  16 
+(1)  That qualifies as a small power pro duction facility under the Federal Energy 17 
+Regulatory Commission rules, 18 Code of Federal Regulations, Part 292, Subpart 18 
+B, as in effect on January 1, 1997; or  19 
+(2)  Whose total power production capacity does not exceed 100 megawatts and 20 
+that relies on one or more of the following:  21 
+(a)  Fuel cells;  22 
+(b)  Tidal power;  23 
+(c)  Solar arrays and installations;  24 
+(d)  Wind power installations;  25 
+(e)  Geothermal installations;  26 
+(f)  Hydroelectric generators;  27 
+(g)  Biomass generators that are fueled by wood or wood waste, la ndfill gas 28 
+or anaerobic digestion of agricultural products, by -products or wastes; or  29 
+(h)  Generators fueled by municipal solid waste in conjunction with 30 
+recycling.  31 
+3.  Portfolio requirements.   As a condition of licensing pursuant to section 3203, 32 
+each com petitive electricity provider in this State must demonstrate in a manner 33 
+satisfactory to the commission that no less than 30% of its portfolio of supply sources for 34 
+retail electricity sales in this State is accounted for by eligible resources.  If a compet itive 35 
+electricity provider represents to a customer that the provider is selling to the customer a 36 
+portfolio of supply sources that includes more than 30% eligible resources, the resources 37 
+necessary to supply more than 30% of that customer's load may not b e applied to meet the 38 
+ 
+ Page 4 - 127LR1987(01) -1 
+ aggregate 30% portfolio requirement.   Rules adopted under this subsection are major 1 
+substantive rules pursuant to Title 5, chapter 375, subchapter II-A 2-A. 2 
+This subsection is repealed January 1, 2016.  3 
+3-A.  Portfolio requirements; n ew renewable capacity resources.   Portfolio 4 
+requirements for new renewable capacity resources are governed by this subsection.  5 
+A.  Except as provided in paragraph B, beginning January 1, 2008, as a condition of 6 
+licensing pursuant to section 3203, each comp etitive electricity provider in this State 7 
+must demonstrate in a manner satisfactory to the commission that the percentage of 8 
+its portfolio of supply sources for retail electricity sales in this State accounted for by 9 
+new renewable capacity resources is as  follows:  10 
+(1)  One percent for the period from January 1, 2008 to December 31, 2008;  11 
+(2)  Two percent for the period from January 1, 2009 to December 31, 2009;  12 
+(3)  Three percent for the period from January 1, 2010 to December 31, 2010;  13 
+(4)  Four percent f or the period from January 1, 2011 to December 31, 2011;  14 
+(5)  Five percent for the period from January 1, 2012 to December 31, 2012;  15 
+(6)  Six percent for the period from January 1, 2013 to December 31, 2013;  16 
+(7)  Seven percent for the period from January 1 , 2014 to December 31, 2014;  17 
+(8)  Eight percent for the period from January 1, 2015 to December 31, 2015;  18 
+(9)  Nine percent for the period from January 1, 2016 to December 31, 2016; and  19 
+(10)  Ten percent for the period from January 1, 2017 to December 31, 2017.  20 
+New renewable capacity resources used to satisfy the requirements of this paragraph 21 
+may not be used to satisfy the requirements of subsection 3.  22 
+B.  Suspensions of scheduled increases in the portfolio requirements as provided in 23 
+paragraph A are gover ned by this paragraph.  24 
+(1)  If by March 31st of the years 2010, 2012, 2014 and 2016 the commission 25 
+determines that investment in new renewable capacity resources in the preceding 26 
+2 calendar years has not been sufficient for competitive electricity provider s to 27 
+meet the portfolio requirements under paragraph A and that the resulting use of 28 
+renewable energy credits pursuant to subsection 8 or the alternative compliance 29 
+payment mechanism pursuant to subsection 9, or both of these methods, has 30 
+burdened electric ity customers in the State without providing the benefits of new 31 
+renewable capacity resources, the commission may suspend all or some of the 32 
+future scheduled increases in the portfolio requirements under paragraph A.  33 
+(2)  If the commission finds that alter native compliance payments are made 34 
+pursuant to subsection 9 in 3 consecutive calendar years, the commission shall 35 
+temporarily suspend all or some of the future scheduled increases in the portfolio 36 
+requirements under paragraph A.  37 
+(3)  If the commission sus pends any scheduled increases in the portfolio 38 
+requirements under paragraph A pursuant to subparagraph (1) or (2), the 39 
+ 
+ Page 5 - 127LR1987(01) -1 
+ commission may resume increases, limited to no more than one percentage point 1 
+per year over the previous year, in the portfolio requireme nts after a minimum of 2 
+one year.  3 
+C.  No later than March 31, 2008 and annually thereafter, the commission shall 4 
+submit a report regarding the status of new renewable capacity resources in the State 5 
+and compliance with the portfolio requirements under parag raph A to the joint 6 
+standing committee of the Legislature having jurisdiction over utilities and energy 7 
+matters. The report must include, but is not limited to, a description of new renewable 8 
+capacity resources available to meet the portfolio requirements under paragraph A, 9 
+documentation of the loss of any existing renewable generation capacity in the State, 10 
+the status of implementation of the new renewable capacity resources portfolio 11 
+requirements, including any suspensions pursuant to paragraph B, and 12 
+recommendations to stimulate investment in new renewable capacity resources.  13 
+D.  Retail electricity sales pursuant to a supply contract or standard -offer service 14 
+arrangement executed by a competitive electricity provider that is in effect on the 15 
+effective dat e of this subsection is exempt from the requirements of this subsection 16 
+until the end date of the current term of the supply contract or standard -offer service 17 
+arrangement.  18 
+The commission shall adopt rules to implement this subsection. Rules adopted under this 19 
+subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 2 -A. 20 
+This subsection is repealed January 1, 2016.  21 
+4.  Report.   In view of property tax benefits, developments in other states and the 22 
+development of a market for trada ble credits for satisfying eligible resource requirements, 23 
+the commission shall review the 30% portfolio requirement and make a recommendation 24 
+for any change to the joint standing committee of the Legislature having jurisdiction over 25 
+utilities and energy m atters no later than 5 years after the beginning of retail competition.  26 
+This subsection is repealed January 1, 2016.  27 
+7.  Information.   To the extent that funding is available, the commission shall inform 28 
+electricity consumers in this State of the benefits of electricity generated in this State 29 
+using renewable resources and of the opportunities available in this State to purchase 30 
+electricity that is generated using those resources, including, but not limited to, the green 31 
+power offer and other green power su pply products and renewable energy credit products 32 
+certified under section 3212 -A.  The commission may not promote any renewable 33 
+resources over others.  The commission may apply for, receive and expend grant money 34 
+from the United States Department of Energ y and other government agencies for this 35 
+purpose.   The commission may create or cause to be created a brand or logo to identify 36 
+Maine renewable resources, including the green power offer and other green power 37 
+supply products and renewable energy credit pr oducts certified under section 3212 -A, to 38 
+consumers.  The commission shall register any mark or logo created pursuant to this 39 
+subsection with the United States Patent and Trademark Office or in accordance with 40 
+Title 10, chapter 301 -A, or both.  Any brand o r logo created pursuant to this subsection 41 
+may only be used in accordance with the purposes of this subsection as approved by the 42 
+commission.  43 
+ 
+ Page 6 - 127LR1987(01) -1 
+ 8.  Credit trading.   The commission shall allow competitive electricity providers to 1 
+satisfy the portfolio require ments of subsections 3 and 3 -A through the use of renewable 2 
+energy credits if the commission determines that a reliable system of electrical attribute 3 
+trading exists. When renewable energy credits are used to satisfy the portfolio 4 
+requirements of subsectio ns 3 and 3 -A, the value of a renewable energy credit for 5 
+electricity generated by a community -based renewable energy project, as defined in 6 
+section 3602, that is participating in the community -based renewable energy pilot 7 
+program established in section 360 3 and elects the renewable energy credit multiplier 8 
+under section 3605 is 150% of the amount of the electricity.  9 
+This subsection is repealed January 1, 2016.  10 
+9.  Alternative compliance payment; portfolio requirements for new renewable 11 
+capacity resources.   The commission shall allow competitive electricity providers to 12 
+satisfy the portfolio requirements for new renewable capacity resources under subsection 13 
+3-A through an alternative compliance payment mechanism in accordance with this 14 
+subsection.  15 
+A.  The com mission shall set the alternative compliance payment rate by rule and 16 
+shall publish the alternative compliance payment rate by January 31st of each year. In 17 
+setting the rate, the commission shall take into account prevailing market prices, 18 
+standard -offer s ervice prices for electricity, reliance on alternative compliance 19 
+payments to meet the requirements of subsection 3 -A and investment in new 20 
+renewable capacity resources in the State during the previous calendar year.  21 
+B.  The commission shall collect altern ative compliance payments made by 22 
+competitive electricity providers and shall deposit all funds collected under this 23 
+paragraph in the Energy Efficiency and Renewable Resource Fund established under 24 
+section 10121, subsection 2 to be used to fund research, d evelopment and 25 
+demonstration projects relating to renewable energy technologies and to fund rebates 26 
+for cost -effective renewable energy technologies.  27 
+The commission shall adopt rules to implement this subsection. Rules adopted under this 28 
+subsection are rou tine technical rules as defined in Title 5, chapter 375, subchapter 2 -A. 29 
+This subsection is repealed January 1, 2016.  30 
+Sec. 6.  35-A MRSA §3210 -C, as amended by PL 2013, c. 454, §1, is repealed.  31 
+Sec. 7.  35-A MRSA §3210 -F, sub -§1, ¶B, as enacted by PL 2013,  c. 454, §2, is 32 
+amended to read:  33 
+B.  "Long -term energy contract" means a contract with an investor -owned 34 
+transmission and distribution utility entered into under section 3210 -C 3218  or 35 
+section 3604.  36 
+Sec. 8.  35-A MRSA §3210 -G is enacted to read:  37 
+§3210 -G.  Aggregation of distributed generation  38 
+The commission shall select a distributed generation aggregator.  The distributed 39 
+generation aggregator shall seek to gather individual owners of distributed generation 40 
+ 
+ Page 7 - 127LR1987(01) -1 
+ assets together to maximize the energy supply ben efits of distributed generation and 1 
+compensate owners of distributed generation assets for the energy supply benefits of the 2 
+distributed generation assets, including, but not limited to, benefits related to energy 3 
+supply, energy capacity and renewable ener gy credits.  4 
+For purposes of this section, "distributed generation" means the generation of 5 
+electrical power at or near where that power is used.  6 
+Sec. 9.  35-A MRSA §3212, sub -§4-C, as enacted by PL 2005, c. 677, Pt. B, §2, 7 
+is amended to read:  8 
+4-C.  Authori ty to establish various contract lengths and terms.   For the purpose 9 
+of providing over a reasonable time period the lowest price for standard -offer service to 10 
+residential and small commercial customers, the commission, with respect to residential 11 
+and small  commercial standard -offer service, may, in addition to incorporating cost - 12 
+effective demand response and energy efficiency pursuant to subsection 4 -B and to the 13 
+extent authorized in section 3210 -C 3218 , incorporating the energy portion of any 14 
+contracts ent ered into pursuant to section 3210 -C 3218 , establish various standard -offer 15 
+service contract lengths and terms.  16 
+Sec. 10.  35-A MRSA §3218 is enacted to read:  17 
+§3218.  Capacity resource adequacy  18 
+1.  Definition.  As used in this section, unless the context ot herwise indicates, 19 
+"contract for differences" means a contractual arrangement between a buyer and a seller 20 
+in which cash payments are made based on the actual or relative difference between a 21 
+target price for energy or a capacity resource and the market va lue of the energy or 22 
+capacity resource.  Under a contract for differences, the seller pays to the buyer the 23 
+positive difference between the market value and the target price and the buyer pays to 24 
+the seller the negative difference between the market value and the target price.  25 
+"Contract for differences" does not include a contract for the physical delivery of energy 26 
+or capacity resources.  27 
+2.  Policy.  It is the policy of this State to:  28 
+A.  Reduce electricity rates and costs for the State's residential and business 29 
+customers; and  30 
+B.  Cost-effectively and to the maximum extent practicable, reduce air pollution, 31 
+including greenhouse gas emissions consistent with Title 38, section 576.  32 
+3.  Commission authority.  The commission may direct investor -owned 33 
+transmis sion and distribution utilities to enter into long -term contracts for energy, 34 
+capacity or other products with generation facilities that produce zero greenhouse gas 35 
+emissions, as long as the total amount of energy purchased from all long -term contracts 36 
+does not exceed 20% of the State's annual retail electricity load.  37 
+4.  Priority of long -term contracts.  In selecting energy, capacity or other products 38 
+for contracting pursuant to subsection 3, the commission shall prioritize long -term 39 
+ 
+ Page 8 - 127LR1987(01) -1 
+ contracts that the com mission determines will maximize financial benefits to electricity 1 
+customers.  2 
+5.  Contract term.  A contract entered into pursuant to subsection 3 may not be for a 3 
+term of more than 10 years, unless the commission finds a contract for a longer term 4 
+would p rovide significantly greater ratepayer benefits.  5 
+6.  Competitive solicitation process and contract negotiation.  The commission 6 
+shall establish a schedule for competitive solicitations for long -term contracts pursuant to 7 
+this section.  This schedule must i nclude a timeline for negotiation, commission decision 8 
+making and contract closing.  9 
+7.  Disposition of resources.  An investor -owned transmission and distribution utility 10 
+shall sell energy, capacity or other products purchased pursuant to this section or t ake 11 
+other action relative to such energy, capacity or other products as directed by the 12 
+commission.  13 
+8.  Cost recovery.  The commission shall ensure that all costs and direct financial 14 
+benefits associated with contracts entered into under this section are a llocated to 15 
+ratepayers in accordance with section 3210 -F.  A price differential existing at any time 16 
+during the term of the contract between the contract price and the prevailing market price 17 
+at which the energy, capacity or other products are sold or any gains or losses derived 18 
+from contracts for differences must be reflected in the amounts charged to ratepayers and 19 
+may not be considered imprudent.  20 
+9.  Contract payments.  Long -term contracts entered into pursuant to this section 21 
+must provide that payments will be made only after contracted amounts of energy, 22 
+capacity or other products have been provided.  23 
+10.  Customer benefits.  The commission may direct investor -owned transmission 24 
+and distribution utilities to enter into contracts under this section only a s agents for their 25 
+customers and only when such contracts are in the best interest of customers and in 26 
+accordance with this subsection. The commission shall adopt rules to ensure that:  27 
+A.  To the extent the benefits to ratepayers of a long -term contract ar e projected to 28 
+occur in the later years of the contract term, adequate financial security is in place so 29 
+that it is reasonably likely ratepayers will obtain the projected benefits of the long - 30 
+term contract; and  31 
+B.  To the extent practicable, ratepayers obt ain the benefit of any reduction in the cost 32 
+of energy, capacity or other products after the term of primary financing or 33 
+subsequent replacement financing necessary for the development and construction of 34 
+a generation project is completed.  35 
+11.  Rules.  The commission shall adopt rules to implement this section. In adopting 36 
+rules, the commission shall consider the financial implications of this section for investor - 37 
+owned transmission and distribution utilities. Rules adopted under this subsection are 38 
+major s ubstantive rules as defined in Title 5, chapter 375, subchapter 2 -A. 39 
+ 
+ Page 9 - 127LR1987(01) -1 
+ Sec. 11.  35-A MRSA §10104, sub -§4, ¶D, as amended by PL 2013, c. 369, Pt. 1 
+A, §12, is further amended to read:  2 
+D.  Prior to submission of the triennial plan to the commission, the trust s hall offer to 3 
+provide a detailed briefing on the draft plan to the joint standing committee of the 4 
+Legislature having jurisdiction over energy matters and, at the request of the 5 
+committee, shall provide such a briefing and opportunity for input from the 6 
+committee.  After providing such opportunity for input and making any changes as a 7 
+result of any input received, the board shall deliver the plan to the commission for its 8 
+review and approval.  The commission shall open an adjudicatory proceeding and 9 
+issue a n order either approving the plan and issuing the appropriate orders to 10 
+transmission and distribution utilities and gas utilities or rejecting the plan and stating 11 
+the reasons for the rejection.  The commission shall reject elements of the plan that 12 
+propos e to use funds generated pursuant to sections 3210 -C 3218 , 10110, 10111 or 13 
+10119 if the plan fails to reasonably explain how these elements of the program 14 
+would achieve the objectives and implementation requirements of the programs 15 
+established under those sections or the measures of performance under subsection 3.  16 
+Funds generated under these statutory authorities may not be used pursuant to the 17 
+triennial plan unless those elements of the plan proposing to use the funds have been 18 
+approved by the commission.   The commission shall approve all elements of the 19 
+triennial plan it determines to be cost -effective, reliable and achievable and shall 20 
+incorporate into gas utility and transmission and distribution rates sufficient revenue 21 
+to provide for the procurement o f energy efficiency resources identified within the 22 
+plan pursuant to section 10110, subsection 4 -A and section 10111, subsection 2. The 23 
+commission shall approve or reject the entire plan or elements of the plan within 120 24 
+days of its delivery to the commis sion.  The board, within 30 days of final 25 
+commission approval of its plan, shall submit the plan to the joint standing committee 26 
+of the Legislature having jurisdiction over energy matters together with any 27 
+explanatory or other supporting material as the co mmittee may request and, at the 28 
+request of the committee, shall provide a detailed briefing on the final plan.  After 29 
+receipt of the plan, the joint standing committee of the Legislature having jurisdiction 30 
+over energy matters may submit legislation relati ng to the plan.  31 
+Sec. 12.  Public Utilities Commission to open adjudicatory proceeding.  No 32 
+later than December 31, 2015, the Public Utilities Commission shall open an adjudicatory 33 
+proceeding to select a distributed generation aggregator pursuant to the Mai ne Revised 34 
+Statutes, Title 35 -A, section 3210 -G. 35 
+Sec. 13.  Effective date.  Those sections of this Act that amend the Maine Revised 36 
+Statutes, Title 35 -A, section 3207, subsections 1 and 1 -A take effect January 1, 2016.  37 
+SUMMARY  38 
+This bill directs the Public Utilities Commission to select a distributed generation 39 
+aggregator to gather individual owners of distributed generation assets together to 40 
+maximize the supply benefits of distributed generation and compensate owners of 41 
+distributed generation assets for th e energy supply benefits they provide ratepayers, 42 
+including benefits related to energy supply, energy capacity and renewable energy 43 
+ 
+ Page 10 - 127LR1987(01) -1 
+ credits.  Effective January 1, 2016, the bill repeals the renewable portfolio standard, 1 
+which requires competitive electrici ty providers to demonstrate to the Public Utilities 2 
+Commission that a certain percentage of their portfolio of supply sources for retail 3 
+electricity sales comes from renewable resources, new renewable capacity resources and 4 
+efficient resources.  The bill r epeals the provision governing net energy billing, which is a 5 
+billing and metering practice under which a customer is billed on the basis of net energy 6 
+over the billing period taking into account accumulated unused kilowatt -hour credits from 7 
+the previous b illing period.  The bill changes the long -term contracting authority of the 8 
+Public Utilities Commission and specifies that it is the policy of the State with respect to 9 
+long-term contracts to reduce electricity rates and costs for the State's residential a nd 10 
+business customers and reduce pollution.  11 
+ 

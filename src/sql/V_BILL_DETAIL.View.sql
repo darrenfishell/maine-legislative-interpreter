@@ -1,0 +1,20 @@
+-- CREATE VIEW V_BILL_DETAIL AS
+SELECT
+    url,
+    title,
+    ordering,
+    "location",
+    requestId,
+    documentId,
+    ldNumber,
+    paperNumber,
+    legislature,
+    itemNumber,
+    requestItemType,
+    summary,
+    broadSubject,
+    majorSubject,
+    minorSubject,
+    detailSubject
+FROM
+    BILL_TEXT;

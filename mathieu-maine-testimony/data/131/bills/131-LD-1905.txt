@@ -1,0 +1,154 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1905
+H.P. 1220 House of Representatives, May 9, 2023
+An Act to Create a Residential Rental Unit Registry
+Reference to the Committee on Labor and Housing suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ROEDER of Bangor.
+Cosponsored by Senator DAUGHTRY of Cumberland and
+Representatives: MASTRACCIO of Sanford, SKOLD of Portland, Senator: TIPPING of 
+Penobscot.
+
+Page 1 - 131LR1070(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  14 MRSA §6001, sub-§7 is enacted to read:
+37.  Failure to register.  A person required to register under section 6030-H may not 
+4 serve a notice to terminate under this section to a tenant for the nonpayment of rent if the 
+5 person has not registered the tenant's residential rental unit under section 6030-H. A person 
+6 may not serve a notice under this section for the nonpayment of rent sooner than 120 days 
+7 after the person has registered the unit of the tenant being served under section 6030-H. A 
+8 person who serves notice to a tenant in violation of this section commits a civil violation 
+9 for which a fine in the amount of 3 times the monthly rent of the tenant's residential rental 
+10 unit must be adjudged. 
+11Sec. 2.  14 MRSA §6004, sub-§2, ¶F, as enacted by PL 2021, c. 316, §1, is 
+12 amended to read:
+13 F.  A statement that either party may request, or the court may at any time refer the 
+14 parties to, mediation on any issue; and
+15Sec. 3.  14 MRSA §6004, sub-§2, ¶G, as enacted by PL 2021, c. 316, §1, is 
+16 amended to read:
+17 G.  A court-approved form to request mediation. ; and
+18Sec. 4.  14 MRSA §6004, sub-§2, ¶H is enacted to read:
+19 H.  If the tenant's residential rental unit is not subsidized under Title 30-A, chapter 201, 
+20 a statement that a person may not serve notice to terminate for nonpayment of rent if 
+21 the person has not registered the unit of the tenant with the state rental unit registry or 
+22 municipal rental unit registry and that a person who violates this provision commits a 
+23 civil violation for which a fine in the amount of 3 times the monthly rent of the tenant's 
+24 residential rental unit must be adjudged.
+25Sec. 5.  14 MRSA §6030-H is enacted to read:
+26§6030-H.  Residential rental unit registry
+271. Residential rental unit registry. The Department of Economic and Community 
+28 Development, referred to in this section as "the department," shall maintain a publicly 
+29 accessible residential rental unit registry in which an owner of a residential rental unit in 
+30 the State shall register annually with the department. For purposes of this section, 
+31 "residential rental unit" means a unit of housing rented for residential purposes for a period 
+32 of more than 30 days.
+332. Information required.  An owner of a residential rental unit in the State shall upon 
+34 registration under subsection 1 provide to the department the following information 
+35 existing at the time of registration:
+36 A. The name and contact information of the owner of the residential rental unit;
+37 B. The name and contact information of the manager or management company for the 
+38 residential rental unit or registered agent of the owner if the owner is not directly 
+39 involved with the administration or management of the residential rental unit;
+Page 2 - 131LR1070(01)1 C. The name and contact information of any entity registered with the Secretary of 
+2 State or with another jurisdiction that has a parental or subsidiary relationship with the 
+3 owner of the residential rental unit;
+4 D.  Emergency contact information if different than paragraph A or B;
+5 E. The physical address of the residential rental unit for enhanced 9-1-1 services as 
+6 defined in Title 25, section 2921, subsection 6 for purposes of Title 25, chapter 352;
+7 F. The mailing address of the residential rental unit if different than the physical address 
+8 under paragraph D;
+9 G. The total number of residential rental units on each property, including the number 
+10 of occupied units and vacant units; 
+11 H. The number of residential rental units on each property not available for occupancy, 
+12 whether under construction or under renovation; and 
+13 I. The monthly rent collected for the residential rental unit.
+143.  Registration fee.  For an owner of 50 or more residential rental units in the State, 
+15 including residential rental units owned by an entity that has a parental or subsidiary 
+16 relationship with the owner, if a residential rental unit is not determined to be affordable 
+17 under the fair market rent for the area as established by the United States Department of 
+18 Housing and Urban Development pursuant to 24 Code of Federal Regulations, Section 
+19 888.115, the initial registration fee is $50 per unit and the annual renewal registration fee 
+20 is $25 per unit.
+214. Department responsibilities.  The department shall:
+22 A. Provide a publicly accessible online portal or form for an owner of a residential 
+23 rental unit to submit the registration information under subsections 1 and 2;
+24 B. Provide a publicly accessible online calculator for an owner of a residential rental 
+25 unit to assess whether a residential rental unit's rent is a fair market rent under 
+26 subsection 3;
+27 C. Provide a publicly accessible searchable online database of residential rental units;
+28 D. Develop a process by which a municipality that maintains a residential rental 
+29 property registry provides registry data to the department;
+30 E. Develop a process by which a municipality can receive residential rental unit registry 
+31 data pertaining to that municipality from the department; and
+32 F. In any pamphlet, publication or publicly accessible website of the department listing 
+33 or explaining tenants' rights, provide an explanation of the rights of a tenant regarding 
+34 the registry under section 6001, subsection 2 and section 6002, subsection 5.
+355. Municipality responsibilities.  A municipality that maintains a residential rental 
+36 property registry shall provide registry data to the department in a form or manner as 
+37 determined by the department.
+386. Housing authority responsibilities. A housing authority under Title 30-A, chapter 
+39 201 shall provide residential rental unit and tenant data on housing provided or subsidized 
+40 by the authority to the department in a form and manner as determined by the department.
+Page 3 - 131LR1070(01)17. Exemptions.  An owner of a residential rental unit is not required to register the unit 
+2 under this section if:
+3 A. The owner provides the residential rental unit as subsidized housing under Title 
+4 30-A, chapter 201; or
+5 B. The owner has registered the residential rental unit under a municipal residential 
+6 rental property registry. 
+78. Rules. The department shall adopt rules to carry out the purposes of this section.  
+8 Rules adopted pursuant to this subsection are routine technical rules under Title 5, chapter 
+9 375, subchapter 2-A.
+10SUMMARY
+11 This bill creates a residential rental unit registry administered by the Department of 
+12 Economic and Community Development in which all residential property owners must 
+13 register all residential rental units except for units provided as subsidized housing or 
+14 registered on a municipal registry.  A municipality may receive data from the registry 
+15 regarding residential rental units in that municipality and, if the municipality maintains a 
+16 residential rental property registry, is required to provide registry data to the department. A 
+17 residential landlord may not serve notice to terminate a tenant for nonpayment of rent if the 
+18 tenant's residential rental unit is not registered as required and may not serve the tenant 
+19 with a notice to terminate for nonpayment of rent less than 120 days after registering; in 
+20 either case the owner commits a civil violation for which a fine in the amount of 3 times 
+21 the monthly rent of the unit must be adjudged. A housing authority is required to provide 
+22 residential rental unit and tenant data on housing provided or subsidized by the authority 
+23 to the department. The department is also required to list the rights of tenants regarding the 
+24 registry in any pamphlet, publication or publicly accessible website of the department 
+25 listing or explaining tenants' rights.11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

@@ -1,0 +1,98 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1118
+S.P. 381 In Senate,  March  22, 2021
+An Act  To Promote Reliable Rural High-speed  Internet
+Received by the Secretary of the Senate on March 18, 2021.  Referred to the Committee  on 
+Taxation pursuant to Joint  Rule 308.2 and ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator LAWRENCE  of York.
+
+Page 1 - 130LR0910(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA §5219-YY is enacted to read:
+3§5219-YY.  High-speed Internet investment tax credit
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Commissioner" means the Commissioner of Economic and Community 
+7 Development.
+8 B.  "Department" means the Department of Economic and Community Development.
+9 C.  "Eligible high-speed Internet provider" means a high-speed Internet service 
+10 provider that has completed a qualified project.
+11 D.  "Qualified customer" means an end user receiving high-speed Internet service at 
+12 qualifying speeds from a qualified project.
+13 E.  "Qualified project" means a project qualified by the commissioner under subsection 
+14 4.
+15 F.  "Qualifying speed" means high-speed Internet service with speeds at a minimum of 
+16 20 megabits per second downstream and a minimum of 20 megabits per second 
+17 upstream.
+182.  Credit allowed.  An eligible high-speed Internet provider is eligible for:
+19 A.  A $1,000 tax credit for each qualified customer; and
+20 B.  A tax credit:
+21 (1)  In the amount of $7,500 for each mile of fiber-optic cable installed as part of 
+22 a qualified project where there is an average of 11 or more homes; and
+23 (2)  In the amount of $10,000 for each mile of fiber-optic cable installed as part of 
+24 a qualified project where there is an average of 10 or fewer homes.
+253.  Limitations.  A person entitled to a credit under this section for any taxable year 
+26 may carry over and apply the portion of any unused credits to the tax liability on income 
+27 derived from the qualified project for any one or more of the next succeeding 10 taxable 
+28 years. The credit allowed, including carryovers, may not reduce the tax otherwise due under 
+29 this Part to less than zero and may not exceed the actual costs to the eligible high-speed 
+30 Internet provider to complete the qualified project for which the credit is claimed under this 
+31 section.
+324.  Project qualification.  A high-speed Internet service provider may apply for 
+33 qualification by the commissioner of a project that provides high-speed Internet service at 
+34 qualifying speeds to customers in areas of service where the average number of potential 
+35 customers per mile does not exceed 20.  Such an application must include the proposed 
+36 location and speeds of the high-speed Internet service to be developed and must certify that 
+37 qualified customers served by the project will be able to purchase internet service at 
+38 qualifying speeds for not more than the Consumer Price Index price for high-speed Internet 
+39 service in a metropolitan area.
+Page 2 - 130LR0910(01)15.  Certification.  A person claiming a tax credit under subsection 2 for a qualified 
+2 project shall provide to the commissioner, in a manner determined by the commissioner, 
+3 information that verifies the number of qualified customers served by the qualified project 
+4 and that each qualified customer may access the Internet at qualifying speeds as a result of 
+5 the qualified project and specifies the miles of fiber-optic cable installed and the customers 
+6 per mile served by the qualified project.  Upon approval of the information, the 
+7 commissioner shall provide the high-speed Internet provider with a letter of certification 
+8 stating that the high-speed Internet service investments made are eligible for a tax credit 
+9 under this section and stating the number of miles of fiber-optic cable and the number of 
+10 qualified customers that gained access to high-speed Internet service at qualifying speeds 
+11 during the taxable year.
+126.  Application.  This section applies to tax years beginning on or after January 1, 
+13 2022.
+14SUMMARY
+15 This bill provides an income tax credit for high-speed Internet service providers who 
+16 engage in a project approved by the Commissioner of Economic and Community 
+17 Development that provides high-speed Internet service where the average number of 
+18 potential customers per mile does not exceed 20 and the cost to the customers does not 
+19 exceed the Consumer Price Index cost for high-speed Internet service in a metropolitan 
+20 area.15
+16
+17
+18
+19
+20

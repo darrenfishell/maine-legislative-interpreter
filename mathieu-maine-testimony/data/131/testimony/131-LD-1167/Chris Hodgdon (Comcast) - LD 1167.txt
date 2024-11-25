@@ -1,0 +1,72 @@
+CO/\/\CAST 
+Comcast Testimony on LD1167 
+An Act to Require Communications Service Providers to Prorate Customer Bills for 
+Cancellation and Allow a Reduction in Service for a Customer with an Outstanding 
+' 
+Balance 
+Chair Lawrence, Chair Ziegler, and members of the Energy, Utilities and Technology Committee, thank 
+you for the opportunity to offer the following testimony opposed to LD 1167. My name is Chris Hodgdon 
+I am Comcast’s Vice President of Government Affairs here in Maine. Comcast serves 16 Maine 
+communities, in the Mid Coast region from Freeport to Woolwich and along the New Hampshire border 
+from Kittery to Sanford. We currently offer our broadband, video, voice and mobile services to more 
+than 69,000 Maine homes, businesses and institutions. We also offer a streaming video service through 
+NBCUniversal ’s Peacock which has more than 20 million subscribers nationally including many 
+thousands in Maine. 
+As a preliminary matter customers may terminate Comcast’ s Xﬁnity services, including our Video, Internet Access, 
+Wireless and Wired Voice and Home Security, at any time for any reason. Customer ’s must notify us that they 
+want to terminate in one of the following ways: (a) mail a written notice to our local business office; 
+(b) send an electronic notice to the email address speciﬁed on www.xfmity.com; (c) provide notice in 
+person at a service center; or (d) call our customer service number during normal business hours. 
+Service termination is subject to the return of any Comcast owned equipment and the applicability of any 
+minimum term agreement or hardware ﬁnancing. Since Comcast’s Xﬁnity Service is paid in advance this often 
+results in a pro rata credit due to the customer once the service is terminated. This policy of offering pro rata credits 
+for our services has been Comcast’s policy for many years and did not change with the 2020 enactment of LD 203 1. 
+NBCUniversal ’s Peacock streaming service which is available at two service tiers of $4.99 per month and $9.99 
+per month, is offered on a Whole billing period basis which means that if a consumer cancels Peacock the service 
+continues to be available until the end of the billing period. 
+Comcast believes LD 1167 would be preempted by federal law. Voice over Internet Protocol has been held to be 
+an “information service” under the Telecommunications Act of 1996 in Charter (MAD v. Lange in 2018. Mass 
+market Broadband lntemet Access Services is also preempted from state-level regulation as an interstate 
+information service and has repeatedly and consistently been held as such in federal courts. 
+Despite it being Comcast’s policy to offer a pro rata credit, if due, upon service termination we express the 
+following concerns about LD 1167. Putting aside the substantial questions about whether federal law preempts 
+the application of this Bill to Broadband Internet Access Services, Wireless Services or Voice Over Internet 
+Protocol services it is inappropriate to enact this language in MRSA 35-A. Consumer protection issues suchas
+those addressed in LD 1167 would more properly be situated in MRSA 10 under the authority of the Attorney 
+General. This is particularly true because many of the services described in the Bill are not common carrier 
+services nor are they provided by utilities under the jurisdiction of the Maine Public Utilities Commission. For 
+example MRSA 35-A’s deﬁnition of “public utility” expressly excludes many “mobile 
+telecommunications services, ” including Comcast’s Xﬁnity Mobile and federal law expressly preempts 
+the imposition of “utility” and/or “common carrier” regulation of certain “video” services, including 
+cable service and many “data” services are classiﬁed as non-common carrier “private carriage ” services 
+under federal law and thus carmot be subject to common carrier/public utility regulation. 
+In addition to being more properly situated in MRSA 10, the “Commerce and Trade” Title and under 
+Attorney General jurisdiction the deﬁnition of “Communications Service” uses terms that are vague and 
+ambiguous. The terms “wireline voice” , “satellite ” , “data” , “fixed wireless data” or “video retail” lack 
+any context or deﬁnition and seemed to not be inclusive of many common mass market services. 
+Should the legislature choose to advance LD 1167 it is important that these terms be clearly deﬁned and 
+inclusive of the many competing services offered in the marketplace to avoid confusion and dispute. 
+Ln addition to jurisdictional and deﬁnitional issues, LD 1167 needs clariﬁcation to avoid being 
+needlessly and unfairly disruptive for providers like Comcast which allow service termination at any 
+time and provides pro rata credits when due. For example Section 2 of the Bill which requires service 
+cancelation, does not account for legitimate business policies which require customers to retum provider 
+owned equipment such as modems before service cancellation. Additionally, many services include a 
+term contract or the ﬁnancing of hardware such as wireless handsets through the provider. Customers 
+should not be allowed to cancel service until equipment is returned in good working order or the terms 
+of ﬁnanced hardware have been met. Furthermore, customers in the phase immediately before they have 
+their services terminated within the next month and requiring us to downgrade them would create 
+signiﬁcant challenges because it would be occurring mid-billing cycle. 
+Similarly, Section 3 of the Bill which addresses with reduction of service should be clariﬁed to make it 
+clear that a customer ’s right to request a reduction of service is limited to a service offering that is 
+currently available to the provider ’s other customers. It is important that this provision not be 
+interpreted to allow customers to choose any level of service or combination of services they prefer but 
+rather choose a different level of service from among the providers current offerings. Section 3 also 
+creates uncertainty about whether a customer can request a reduction in services when a customer has 
+been disconnected for nonpayment and is no longer accruing new charges. In this instance the customer 
+is still considered a customer and has not been completely discomected for nonpayment, rather their 
+service offers limited functionality and new charges don’t accrue. Customers in this situation should not 
+be allowed to use the rights included in Section 3 to receive a reduction of service and accrue additional 
+charges on their account. 
+Thank you for your consideration of our comments regarding LD 1167. Comcast looks forward to 
+working with the sponsor and other stakeholders to address these concerns and improve this legislation. I 
+would be happy to answer any questions that you may have.

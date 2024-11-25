@@ -1,0 +1,245 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1463
+H.P. 1079 House of  Representatives,  April 12, 2021
+An Act  To Make  Health Care Coverage More Affordable for 
+Working Families and Small Businesses
+Received by the Clerk of the House on April  8, 2021.  Referred to  the Committee  on Health 
+Coverage, Insurance  and Financial Services  pursuant to  Joint Rule 308.2 and ordered  printed 
+pursuant to Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative TEPLER of Topsham.
+Cosponsored by Senator MOORE  of Washington  and
+Representatives: ARFORD of Brunswick, BROOKS of Lewiston, DUNPHY of Old Town, MATHIESON of Kittery,  WHITE of Waterville, Senators: BRENNER of Cumberland, 
+VITELLI of Sagadahoc.
+
+Page 1 - 130LR1238(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA c. 56-A, sub-c. 2-B is enacted to read:
+3SUBCHAPTER 2-B
+4MAINE HEALTH CARE AFFORDABILITY FUND AND ASSESSMENT
+5§4329.  Definitions
+6 As used in this subchapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Advisory group.  "Advisory group" means the Affordable Health Care Advisory 
+9 Group established in section 4330-B, subsection 1.
+102.  Assessment.  "Assessment" means the health care affordability assessment 
+11 described in section 4330-A, subsection 1.
+123.  Commissioner.  "Commissioner" means the Commissioner of Health and Human 
+13 Services.
+144. Covered entity.  "Covered entity" means an entity that would be subject to Section 
+15 9010 of the federal Affordable Care Act if that section were in effect and that is subject to 
+16 an assessment, including an insurance company, health service corporation, hospital 
+17 service corporation, medical service corporation, health maintenance organization, dental 
+18 service corporation or dental plan organization authorized to issue health benefit or dental 
+19 benefit plans in the State.
+205.  Exchange. "Exchange" has the same meaning as in section 2188, subsection 1, 
+21 paragraph A.
+226.  Family glitch. "Family glitch" means the situation in which an individual is 
+23 ineligible for premium assistance tax credits under 26 United States Code, Section 36B 
+24 because a relationship to another individual allows the individual to enroll in an eligible 
+25 employer-sponsored plan, as defined in 26 United States Code, Section 5000A(f)(2), that 
+26 is considered affordable for the related individual under 26 Code of Federal Regulations, 
+27 Section 1.36B-2(c)(3)(v)(A)(2) but for which the portion of the annual premium that the 
+28 related individual must pay for family coverage exceeds the required contribution 
+29 percentage, as defined in 26 Code of Federal Regulations, Section 1.36B-2(c)(3)(v)(C), of 
+30 the individual's household income for the taxable year.
+317.  Federal poverty level.  "Federal poverty level" has the same meaning as in Title 
+32 22, section 3762, subsection 1, paragraph C.
+338.  Fund.  "Fund" means the Maine Health Care Affordability Fund established in 
+34 section 4330 to provide funding for activities or initiatives to reduce the cost of health 
+35 insurance coverage for residents of the State.
+369.  Health insurance.  "Health insurance" means a hospital and medical expense-
+37 incurred policy, nonprofit hospital and medical service plan, health maintenance 
+38 organization subscriber contract or other health care plan or arrangement that pays for or 
+39 furnishes medical or health care service, whether sold as an individual or group policy. For 
+Page 2 - 130LR1238(01)40 the purposes of this section, "health insurance" includes limited-scope dental and vision 
+41 benefits.  "Health insurance" does not include accidental injury, specified disease, hospital 
+42 indemnity, disability income, Medicare supplement, long-term care or other limited-benefit 
+43 health insurance or credit insurance; coverage issued as a supplement to liability insurance; 
+44 insurance arising out of workers' compensation or similar law; automobile medical 
+45 payment insurance; or insurance under which benefits are payable with or without regard 
+46 to fault and that is statutorily required to be contained in any liability insurance policy or 
+47 equivalent self-insurance.
+910.  Net written premium.  "Net written premium" means the total premiums of health 
+10 insurance policies issued or delivered in the State by a covered entity, less return premiums 
+11 on those policies and dividends paid or credited to policy or contract holders on the health 
+12 benefit plan business.
+13§4330.  Maine Health Care Affordability Fund
+141.  Fund established.  The Maine Health Care Affordability Fund is established within 
+15 the Department of Health and Human Services as a separate and distinct fund for 
+16 accounting and budgetary reporting purposes.  Funds in the fund may not lapse but must 
+17 be carried forward to carry out the purposes of this subchapter.
+182.  Administration.  The commissioner shall administer the fund in accordance with 
+19 this section.
+203.  Sources of funding.  The commissioner shall deposit to the fund:
+21 A.  Funds received from the assessment;
+22 B.  Funds from any other source, whether public or private, designated for deposit into 
+23 or credited to the fund; and 
+24 C.  Interest earned or other investment income on balances in the fund.
+254.  Deposit and use of funds. The use of funds deposited into the fund is subject to the 
+26 following restrictions.
+27 A.  Funds deposited into the fund must be expended by the commissioner solely for the 
+28 following permissible uses:
+29 (1)  Providing financial assistance to lower premiums or reduce out-of-pocket cost-
+30 sharing for qualified health plans, as defined in 42 United States Code, Section 
+31 18021, offered on the exchange to residents of the State who are subject to the 
+32 family glitch or whose household income, as defined in 26 Code of Federal 
+33 Regulations, Section 1.36B-1(e), is at or below 200% of the federal poverty level; 
+34 and
+35 (2)  Other initiatives that increase affordability of health coverage for individual 
+36 policy holders or small businesses, provide greater access to health insurance to 
+37 the uninsured or reduce disparities in health coverage, including through financial 
+38 assistance, and outreach and enrollment activities.
+39 B.  At least 85% of funds deposited into the fund due to the assessment must be used 
+40 for the purposes described in paragraph A, subparagraph (1), except that:1
+2
+3
+4
+5
+6
+7
+8
+Page 3 - 130LR1238(01)1 (1)  If federal financial assistance provided under the federal Affordable Care Act 
+2 is repealed or eliminated, 100% of funds deposited into the fund must be used to 
+3 replace the assistance; and
+4 (2)  If residents of the State who are subject to the family glitch become eligible 
+5 for a premium assistance tax credit under 26 United States Code, Section 36B, 85% 
+6 of funds deposited into the fund must be used to provide premium or cost-sharing 
+7 subsidies to residents of the State who purchase qualified health plans, as defined 
+8 in 42 United States Code, Section 18021, offered on the exchange in the following 
+9 order of priority on the basis of household income, as defined in 26 Code of Federal 
+10 Regulations, Section 1.36B-1(e):
+11 (a)  First, to those residents whose household income is at or below 200% of 
+12 the federal poverty level;
+13 (b)  Second, to those residents whose household income is at or below 250% 
+14 of the federal poverty level;
+15 (c)  Third, to those residents whose household income is at or below 300% of 
+16 the federal poverty level; and
+17 (d)  Fourth, to those residents whose household income is at or below 400% of 
+18 the federal poverty level.
+19 If the amount of the federal premium assistance tax credit available to residents of 
+20 the State is less than the amount that would be provided under Section 9661 of the 
+21 American Rescue Plan Act of 2021, any funds allocated under this subparagraph 
+22 must first be used to increase the amount of the available tax credit to equal the 
+23 amount that would be provided under Section 9661 of the American Rescue Plan 
+24 Act of 2021 in the order of priority specified in divisions (a) to (d).
+25 C.  Funds in the fund may not be used to pay for state contributions toward the medical 
+26 assistance program established pursuant to 42 United States Code, Chapter 7, 
+27 Subchapters 19 and 21.
+28 D.  The commissioner shall monitor expenditures of the fund and, in consultation with 
+29 the superintendent, take measures necessary to ensure solvency of the fund. 
+305.  Rulemaking.  The commissioner shall adopt rules for the proper administration of 
+31 the fund.  By December 31, 2021, the commissioner shall adopt rules to implement 
+32 subsection 4, paragraph A.  Rules adopted pursuant to this subsection are routine technical 
+33 rules as defined in Title 5, chapter 375, subchapter 2-A.
+34§4330-A.  Health care affordability assessment
+351.  Assessment.  A covered entity shall file with the superintendent a report of its net 
+36 written premiums for the preceding year by no later than April 1st of each year.  The 
+37 superintendent shall calculate and issue to the covered entity a certified assessment, which 
+38 must be equal to 2.85% of the covered entity's net written premiums but may not exceed 
+39 the amount the covered entity would have paid under Section 9010 of the federal 
+40 Affordable Care Act if that section were in effect during that year, and the covered entity 
+41 shall pay the assessment.
+422.  Deposit to the fund.  The superintendent shall deposit all proceeds of the 
+43 assessment to the fund.
+Page 4 - 130LR1238(01)13.  Rulemaking.  The superintendent shall adopt rules as necessary for the proper 
+2 administration and enforcement of this section.  Rules adopted pursuant to this subsection 
+3 are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+44.  Technical assistance from other state agencies.  Upon the request of the 
+5 superintendent or commissioner, state agencies, including the bureau, the Department of 
+6 Administrative and Financial Services, Bureau of Revenue Services and the Maine Health 
+7 Data Organization, shall provide technical assistance and expertise for the administration 
+8 of the fund or assessment.
+9§4330-B.  Affordable Health Care Advisory Group
+101.  Established.  The Affordable Health Care Advisory Group is established for 
+11 consultation with the superintendent and the commissioner on the development of rules to 
+12 implement this subchapter and on the activities and initiatives funded through the fund.  
+13 The superintendent and commissioner shall convene the advisory group no later than 
+14 October 1, 2021.
+152.  Membership.  The advisory group consists of 13 voting members, including the 
+16 superintendent, the commissioner and 11 members appointed as follows.
+17 A. The President of the Senate and the Speaker of the House of Representatives shall 
+18 each appoint 4 members and the Governor shall appoint 3 members, including:
+19 (1)  A representative of nonprofit insurers;
+20 (2)  A representative of for-profit insurers who provide insurance on the exchange;
+21 (3)  A representative of small businesses and self-employed individuals; 
+22 (4)  A representative of consumers with low incomes; 
+23 (5)  A representative of the Health Insurance Consumer Assistance Program under 
+24 section 4326; 
+25 (6)  A representative of navigators, as defined in section 2188, subsection 1, 
+26 paragraph B; 
+27 (7)  A representative of a certified application counselor designated organization 
+28 that has been designated by the Department of Health and Human Services; 
+29 (8)  A person with experience in analyzing health data and the economic impact of 
+30 health coverage on the economy; 
+31 (9)  A representative of workers in the State or organized labor; 
+32 (10)  An academic research professor with expertise in health care coverage; and
+33 (11)  A representative from a hospital.
+343.  Duties.  The advisory group shall: 
+35 A.  Identify barriers to accessing affordable health insurance coverage for residents of 
+36 the State, including those with household incomes at or below 200% of the federal 
+37 poverty level;
+38 B.  Determine the most efficient and effective mechanisms to deliver assistance under 
+39 section 4330, subsection 4, paragraph A;
+Page 5 - 130LR1238(01)1 C.  Determine the level of assistance under section 4330, subsection 4, paragraph A 
+2 needed to make health insurance coverage affordable; and
+3 D.  Establish outcome measures to evaluate the success of the activities and initiatives 
+4 under this subchapter.
+54.  Reporting.  The commissioner shall submit a report annually by February 1st to the 
+6 Governor and the joint standing committee of the Legislature having jurisdiction over 
+7 health insurance matters that describes the activities and initiatives funded by the fund to 
+8 increase the affordability of health insurance for residents of the State and summarizes the 
+9 advisory group's findings and recommendations related to barriers to affordable health 
+10 coverage for residents of the State and how to improve the affordability of coverage options 
+11 available on the exchange.  This commissioner shall publish the report on the publicly 
+12 accessible website of the Department of Health and Human Services.
+13SUMMARY
+14 This bill:
+15 1.  Establishes the Maine Health Care Affordability Fund to fund activities and 
+16 initiatives to reduce the cost of health insurance coverage for Maine residents;
+17 2.  Requires the Commissioner of Health and Human Services to adopt rules for 
+18 the administration of the Maine Health Care Affordability Fund and for the disbursement 
+19 of funds from the fund to assist Maine residents with the cost of health care coverage;
+20 3.  Establishes the health care affordability assessment to provide funding to the 
+21 Maine Health Care Affordability Fund and requires the Superintendent of Insurance within 
+22 the Department of Professional and Financial Regulation to adopt rules for the 
+23 administration and enforcement of the health care affordability assessment;
+24 4.  Requires state agencies to provide technical assistance to the commissioner and 
+25 the superintendent for the administration of the Maine Health Care Affordability Fund or 
+26 the health care affordability assessment upon request;
+27 5.  Establishes the Affordable Health Care Advisory Group, which consists of the 
+28 commissioner, the superintendent and 11 additional members appointed by the President 
+29 of the Senate, the Speaker of the House of Representatives and the Governor, to consult on 
+30 the development of rules to implement and administer the Maine Health Care Affordability 
+31 Fund and the health care affordability assessment; and
+32 6.  Requires the commissioner to submit an annual report to the Governor and the 
+33 joint standing committee of the Legislature having jurisdiction over health insurance 
+34 matters describing activities and initiatives funded by the Maine Health Care Affordability 
+35 Fund to increase the affordability of health insurance for Maine residents and summarizing 
+36 the findings and recommendations of the Affordable Health Care Advisory Group by 
+37 February 1st.  The commissioner is also required to make the report publicly available 
+38 online.14

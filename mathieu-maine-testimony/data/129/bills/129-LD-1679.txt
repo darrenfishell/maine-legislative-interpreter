@@ -1,0 +1,492 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1679
+S.P. 550 In Senate,  May 2, 2019
+An Act  To Establish the Maine Climate Change  Council  To Assist 
+Maine To Mitigate, Prepare for  and Adapt to Climate Change
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator WOODSOME of York.  (GOVERNOR'S BILL)
+Cosponsored by Representative TUCKER of Brunswick and
+Senators: BLACK of  Franklin,  BREEN of Cumberland, President  JACKSON  of Aroostook, 
+LAWRENCE of York, MIRAMANT of Knox, POULIOT of Kennebec, SANBORN, L. of Cumberland, Representatives: BERRY of Bowdoinham,  BLUME of  York,  BRENNAN  of 
+Portland, COREY of Windham, FAY  of Raymond, Speaker GIDEON  of Freeport,  HUBBELL 
+of Bar Harbor, KESCHL of Belgrade, MARTIN of Eagle Lake, MAXMIN  of Nobleboro,  
+McLEAN of Gorham, MOONEN of Portland.
+
+Page 1 - 129LR2478(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §12004-I, sub-§24-G is enacted to read:
+324-G.  
+4
+5
+6
+7
+8
+9Sec. 2.  35-A MRSA §3210, sub-§§1-A and 1-B are enacted to read:
+101-A.  Percentage from renewable resources; 2030.  By January 1, 2030, 80% of 
+11electricity consumed in the State must come from renewable resources.
+121-B.  Percentage from renewable resources; 2050.  By January 1, 2050, 100% of 
+13electricity consumed in the State must come from renewable resources.
+14Sec. 3.  35-A MRSA §3210-C, sub-§3, as amended by PL 2017, c. 134, §2, is 
+15further amended to read:
+163.  Commission authority.  The commission may direct investor-owned 
+17transmission and distribution utilities to enter into long-term contracts for:
+18A.  Capacity resources;
+19B.  Any available energy associated with capacity resources contracted under 
+20paragraph A:
+21(1)  To the extent necessary to fulfill the policy of subsection 2, paragraph A; or
+22(2)  If the commission determines appropriate for purposes of supplying or 
+23lowering the cost of standard-offer service or otherwise lowering the cost of 
+24electricity for the ratepayers in the State.  Available energy contracted pursuant to 
+25this subparagraph may be sold into the wholesale electricity market in 
+26conjunction with solicitations for standard-offer supply bids; 
+27C.  Any available renewable energy credits associated with capacity resources 
+28contracted under paragraph A.  The price paid by the investor-owned transmission 
+29and distribution utility for the renewable energy credits must be lower than the price 
+30received for those renewable energy credits at the time they are sold by the 
+31investor-owned transmission and distribution utility; and
+32D.  Transmission capacity, capacity resources, energy or renewable energy credits 
+33pursuant to a regional procurement process in conjunction with other states.
+34The commission may permit, but may not require, investor-owned transmission and 
+35distribution utilities to enter into contracts for differences that are designed and intended 
+36to buffer ratepayers in the State from potential negative impacts from transmission 
+37development.  To the greatest extent possible, the commission shall develop procedures Environment: 
+Natural ResourcesMaine Climate 
+Change Council and 
+Working GroupsLegislative Per Diem 
+and Expenses for 
+Legislators/Expenses 
+Only for Other 
+Members38 MRSA §577-A
+Page 2 - 129LR2478(01)-11for long-term contracts for investor-owned transmission and distribution utilities under 
+2this subsection having the same legal and financial effect as the procedures used for 
+3standard-offer service pursuant to section 3212 for investor-owned transmission and 
+4distribution utilities.
+5The commission may enter into contracts for interruptible, demand response or energy 
+6efficiency capacity resources.  These contracts are not subject to the rules of the State 
+7Purchasing Agent.  In a competitive solicitation conducted pursuant to subsection 6, the 
+8commission shall allow transmission and distribution utilities to submit bids for 
+9interruptible or demand response capacity resources.
+10Capacity resources contracted under this subsection may not exceed the amount 
+11necessary to ensure the reliability of the electric grid of this State, to meet the energy 
+12efficiency program budget allocations articulated in the triennial plan as approved by the 
+13commission pursuant to section 10104, subsection 4 or any annual update plan approved 
+14by the commission pursuant to section 10104, subsection 6 or to lower customer costs as 
+15determined by the commission pursuant to rules adopted under subsection 10.
+16Unless the commission determines the public interest requires otherwise, a capacity 
+17resource may not be contracted under this subsection unless the commission determines 
+18that the capacity resource is recognized as a capacity resource for purposes of any 
+19regional or federal capacity requirements.
+20The commission shall ensure that any long-term contract authorized under this subsection 
+21is consistent with the State's goals for greenhouse gas reduction under Title 38, section 
+22576 576-A and the regional greenhouse gas initiative as described in the state climate 
+23action plan required in Title 38, section 577.
+24By January 1st of each year, the commission shall submit a report to the joint standing 
+25committee of the Legislature having jurisdiction over energy and utilities matters on the 
+26procurement of transmission capacity, capacity resources, energy and renewable energy 
+27credits in the preceding 12 months under this subsection, the Community-based 
+28Renewable Energy Act and deep-water offshore wind energy pilot projects under Public 
+29Law 2009, chapter 615, Part A, section 6, as amended by Public Law 2013, chapter 369, 
+30Part H, sections 1 and 2 and chapter 378, sections 4 to 6. The report must contain 
+31information including, but not limited to, the number of requests for proposals by the 
+32commission for long-term contracts, the number of responses to requests for proposals 
+33pursuant to which a contract has been finalized, the number of executed term sheets or 
+34contracts resulting from the requests for proposals, the commission's initial estimates of 
+35ratepayer costs or savings associated with any approved term sheet, actual ratepayer costs 
+36or savings for the previous year associated with any procurement, the total ratepayer costs 
+37or savings at the time of the report and the megawatt-hours, renewable energy credits or 
+38capacity produced or procured through contracts. The report must also include a plan for 
+39the succeeding 12 months pertaining to the procurement of capacity resources, energy 
+40and renewable energy credits, including dates for requests for proposals, and types of 
+41resources to be procured.
+42Sec. 4.  35-A MRSA §3402, sub-§1, ¶A, as amended by PL 2009, c. 615, Pt. A, 
+43§2, is further amended to read:
+Page 3 - 129LR2478(01)-11A.  Wind energy is an economically feasible, large-scale energy resource that does 
+2not rely on fossil fuel combustion or nuclear fission, thereby displacing electrical 
+3energy provided by these other sources and avoiding air pollution, waste disposal 
+4problems and hazards to human health from emissions, waste and by-products; 
+5consequently, wind energy development may address energy needs while making a 
+6significant contribution to achievement of the State's renewable energy and 
+7greenhouse gas reduction objectives, including those in Title 38, section 576 576-A; 
+8Sec. 5.  35-A MRSA §10104, sub-§4, ¶F, as repealed and replaced by PL 2013, 
+9c. 369, Pt. A, §13, is amended to read:
+10F.  It is an objective of the triennial plan to design, coordinate and integrate sustained 
+11energy efficiency and weatherization programs that are available to all energy 
+12consumers in the State and to users of all fuel types. The plan must set forth the costs 
+13and benefits of energy efficiency programs that advance the following goals, and 
+14funding necessary to meet those goals:
+15(1)  Reducing energy costs, including residential heating costs;
+16(2) Weatherizing substantially all homes whose owners or occupants are willing 
+17to participate in and share the costs of cost-effective home weatherization to a 
+18minimum standard of weatherization, as defined by the trust, by 2030;
+19(3) Reducing peak-load demand for electricity through trust programs by 300 
+20megawatts by 2020;
+21(4) By 2020, achieving electricity and natural gas program savings of at least 
+2220% and heating fuel savings of at least 20%, as defined in and determined 
+23pursuant to the measures of performance approved by the commission under 
+24section 10120;
+25(5) Creating stable private sector jobs providing alternative energy and energy 
+26efficiency products and services in the State by 2020; and
+27(6) Reducing greenhouse gas emissions from the heating and cooling of buildings 
+28in the State by amounts consistent with the State's goals established in Title 38, 
+29section 576 576-A.
+30The trust shall preserve when possible and appropriate the opportunity for carbon 
+31emission reductions to be monetized and sold into a voluntary carbon market. Any 
+32program of the trust that supports weatherization of buildings must be voluntary and 
+33may not constitute a mandate that would prevent the sale of emission reductions 
+34generated through weatherization measures into a voluntary carbon market.
+35Except when specifically provided in the individual goals under this paragraph, the 
+36trust may consider expected savings from market effects not attributable to the trust 
+37as well as efforts by other organizations, including but not limited to federally funded 
+38low-income weatherization programs.
+39As used in this paragraph, "heating fuel" means liquefied petroleum gas, kerosene or 
+40#2 heating oil, but does not include fuels when used for industrial or manufacturing 
+41processes.
+Page 4 - 129LR2478(01)-11Sec. 6.  38 MRSA §574, sub-§§1-A to 1-C are enacted to read:
+21-A.  Climate action plan.  "Climate action plan" means the state plan adopted under 
+3this chapter.
+41-B.  Gross annual greenhouse gas emissions.  "Gross annual greenhouse gas 
+5emissions" means the total amount of greenhouse gases emitted by all sources within the 
+6State each year.
+71-C.  Net annual greenhouse gas emissions.  "Net annual greenhouse gas 
+8emissions" means gross annual greenhouse gas emissions less the total amount of 
+9greenhouse gases absorbed each year by plants and natural ecosystems, including, but not 
+10limited to, trees, crops, soil and wetlands within the State.
+11Sec. 7.  38 MRSA §576, as enacted by PL 2003, c. 237, §1, is repealed.
+12Sec. 8.  38 MRSA §576-A is enacted to read:
+13§576-A.  Greenhouse gas emissions reductions
+141.  Interim emissions levels.  By January 1, 2030, the State shall reduce gross annual 
+15greenhouse gas emissions to at least 45% below the 1990 gross annual greenhouse gas 
+16emissions level.
+172.  2050 annual emissions level.  By January 1, 2050, the State shall reduce gross 
+18annual greenhouse gas emissions to at least 80% below the 1990 gross annual greenhouse 
+19gas emissions level.
+203.  Monitoring and reporting rules.  By July 1, 2021, the department shall adopt 
+21rules to track and report to the Legislature on gross and net annual greenhouse gas 
+22emissions. As recommended by the Maine Climate Change Council, as established in 
+23Title 5, section 12004-I, subsection 24-G, or as determined necessary by the 
+24commissioner, the department shall adopt rules to ensure compliance with the levels 
+25established by and pursuant to subsections 1 and 2. These rules may establish a 
+26mechanism for crediting voluntary measures that quantifiably and reliably sequester 
+27additional carbon in forests, farms and coastal lands in the State or by the use of materials 
+28that sequester additional carbon. Rules adopted pursuant to this subsection are routine 
+29technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+30Sec. 9.  38 MRSA §577, as enacted by PL 2003, c. 237, §1, is amended to read:
+31§577.  Climate action plan; update
+32By July 1, 2004, the department, with input from stakeholders, shall adopt a state 
+33climate action plan to meet the reduction goals specified in section 576 for greenhouse 
+34gas emissions.  The action plan must address reduction in each sector in cost-effective 
+35ways and must allow sustainably managed forestry, agricultural and other natural 
+36resource activities to be used to sequester greenhouse gas emissions.  The department 
+37shall submit the action plan to the joint standing committee of the Legislature having 
+38jurisdiction over natural resources matters.
+Page 5 - 129LR2478(01)-111.  Update plan.  By December 1, 2020, and every 4 years thereafter, the Maine 
+2Climate Change Council, as established in Title 5, section 12004-I, subsection 24-G and 
+3referred to in this section as "the council," with input from stakeholders, shall update the 
+4state climate action plan under this section and shall include in the plan strategies to meet 
+5the reduction levels specified in section 576-A.
+62.  Evaluation of strategies.  In updating the climate action plan, the council shall 
+7evaluate strategies to reduce gross and net annual greenhouse gas emissions consistent 
+8with the reduction levels in section 576-A. The council shall quantitatively analyze and 
+9report on the technical feasibility and cost-effectiveness of each strategy.  To fund the 
+10analysis and work of the council, the council may solicit and receive financial support 
+11from the public and from private and nonprofit organizations. 
+123.  Mitigation strategies. The updated climate action plan must address climate 
+13change mitigation strategies. The council shall update mitigation strategies for reducing 
+14the emission of greenhouse gases in the State, including updating the strategies for 
+15greenhouse gas mitigation included in the plan and identifying new strategies by applying 
+16the latest scientific and technological information available related to climate change.
+174.  Adaptation and resilience strategies.  The updated climate action plan must 
+18address the impacts of climate change upon the State and provide strategies and actions 
+19for climate adaptation and resiliency. These strategies must include implementation 
+20guidelines that:
+21A.  Prioritize the welfare of the State's citizens and visitors and recognize and foster 
+22the value of the State's natural resources;
+23B.  Encourage diversity, inclusion and equity;
+24C.  Provide education and training opportunities when appropriate;
+25D.  Build upon existing global, national and state plans and partnerships for 
+26addressing climate adaptation, emergency preparedness and disaster risk reduction;
+27E.  Encourage investments that prevent and proactively mitigate risk;
+28F.  Encourage, foster and utilize the most recent scientific and technical information 
+29available; and
+30G.  Incorporate means for measuring progress.
+315.  Effects of climate change.  The updated climate action plan must provide the 
+32latest information on climate change effects in the State as well as the sectors, ecosystems 
+33and communities most at risk.
+346.  Submission of plan.  The council shall submit the climate action plan and any 
+35recommended legislation to the joint standing committee of the Legislature having 
+36jurisdiction over natural resources matters.  Upon receipt and review of the plan, the joint 
+37standing committee may report out a bill to the Legislature.
+387.  Objectives.  In identifying the preferred strategies to include in the updated 
+39climate action plan, the council shall give consideration to the following objectives:
+Page 6 - 129LR2478(01)-11A.  Pursuing cost-effective, technologically feasible and equitable greenhouse gas 
+2emissions reduction pathways and adaptation and preparedness strategies, informed 
+3by scientific and technical expertise; 
+4B.  Pursuing actions that minimize deleterious effects, including those on low-income 
+5and moderate-income persons, to public health and the environment and that support 
+6economic sectors that face the biggest barriers to emissions reductions and creating, 
+7when feasible, additional employment and economic growth in the State;
+8C.  Ensuring equity for all sectors and regions of the State and that the broadest group 
+9of residents benefit from the achievement of the levels in section 576-A and the long-
+10term goal in section 576-A, subsection 2, with consideration of economic, quality-of-
+11life and public health benefits; 
+12D.  Encouraging the use of natural solutions to reduce net annual greenhouse gas 
+13emissions and increase resiliency, such as solutions related to forests, farms and 
+14coastal lands in the State and materials that sequester carbon;
+15E.  Maximizing involvement in interstate and regional initiatives and programs 
+16designed to reduce regional greenhouse gas emissions;
+17F.  Supporting industries, technology and training that will allow workers and 
+18companies in the State to benefit from carbon reduction solutions through jobs and 
+19economic activity; and
+20G.  Planning for adaptation and resilience strategies that will prepare the State's 
+21communities, infrastructure and industries for current and anticipated effects of 
+22climate change.
+238.  Use of existing data.  In updating the climate action plan, the council shall draw 
+24upon existing state data and studies, including, but not limited to, analyses and data from 
+25the 2004 climate action plan and the 2010 adaptation plan developed by the department 
+26and the evaluations of the State's progress toward meeting greenhouse gas emissions 
+27levels under section 578, the comprehensive state energy plan pursuant to Title 2, section 
+289, subsection 3, paragraph C and the Efficiency Maine Trust's triennial plan pursuant to 
+29Title 35-A, section 10104, subsection 4.
+309.  Funding.  The council may solicit and receive financial support, including 
+31funding from government agencies and private and nonprofit organizations and 
+32foundations.
+33Sec. 10.  38 MRSA §577-A is enacted to read:
+34§577-A.  Maine Climate Change Council
+35The Maine Climate Change Council, referred to in this section as "the council," is 
+36created to advise the Governor and Legislature on ways to mitigate the causes of, prepare 
+37for and adapt to the consequences of climate change.
+381.  Membership.  The council's membership consists of the following members:
+Page 7 - 129LR2478(01)-11A.  Two members of the Senate, appointed by the President of the Senate, including 
+2one member of each of the 2 parties holding the most seats in the Senate;
+3B.  Two members of the House, appointed by the Speaker of the House, including 
+4one member of each of the 2 parties holding the most seats in the House;
+5C.  The Director of the Governor's Office of Policy and Management, or the director's 
+6designee;
+7D.  The Commissioner of Administrative and Financial Services, or the 
+8commissioner's designee;
+9E.  The Commissioner of Agriculture, Conservation and Forestry, or the 
+10commissioner's designee;
+11F.  The Commissioner of Economic and Community Development, or the 
+12commissioner's designee;
+13G.  The Commissioner of Environmental Protection, or the commissioner's designee;
+14H.  The Commissioner of Inland Fisheries and Wildlife, or the commissioner's 
+15designee;
+16I.  The Commissioner of Marine Resources, or the commissioner's designee;
+17J.  The Commissioner of Transportation, or the commissioner's designee;
+18K.  The Commissioner of Defense, Veterans and Emergency Management, or the 
+19commissioner's designee;
+20L.  The Commissioner of Education, or the commissioner's designee;
+21M.  The Commissioner of Health and Human Services, or the commissioner's 
+22designee;
+23N.  The Director of the Governor's Energy Office, or the director's designee;
+24O.  The director of the Efficiency Maine Trust, or the director's designee; 
+25P.  The director of the Maine State Housing Authority, or the director's designee; and
+26Q.  Other members appointed by the Governor representing state interests affected by 
+27climate change or with expertise in climate change issues, including:
+28(1)  One member to represent marine fisheries;
+29(2)  One member to represent agriculture;
+30(3)  One member to represent municipal governments;
+31(4)  One member to represent the forestry industry;
+32(5)  One member to represent expertise in Maine's energy sector;
+33(6)  One member to represent Maine's tribes; 
+34(7)  One member to represent building or construction trades; 
+35(8)  One member to represent the manufacturing industry;
+36(9)  One member to represent organized labor;
+Page 8 - 129LR2478(01)-11(10)  Two members to represent business, including one member to represent 
+2small business;
+3(11)  Two members to represent environmental nonprofit organizations or private 
+4foundations, or both, with a focus on environmental issues;
+5(12)  Two members with expertise in climate change science, including a 
+6representative of the University of Maine System;
+7(13)  Two members with expertise in resilience, climate change adaptation, 
+8emergency management or disaster risk reduction;
+9(14)  One member to represent Maine's youth; and
+10(15)  Up to 2 other government or public members.
+112.  Terms.  The term of a member appointed pursuant to subsection 1, paragraph Q is 
+122 years.  At the end of a term, a member continues to serve until a successor is appointed.
+133.  Chair.  The Governor shall appoint 2 cochairs from among the members serving 
+14pursuant to subsection 1, paragraphs C to M.
+154.  Removal.  The Governor may remove an appointed member for incompetence, 
+16misconduct or failure to perform the duties of the position.
+175.  Steering committee.  The council shall establish a steering committee composed 
+18of a subset of the council, including, but not limited to, the cochairs and working group 
+19chairs.
+206.  Scientific and Technical Subcommittee.  The Scientific and Technical 
+21Subcommittee, referred to in this subsection as "the subcommittee," is established to 
+22identify, monitor, study and report out relevant data related to climate change in the State 
+23and its effects on the State's climate, species, marine and coastal environments and 
+24natural landscape and on the oceans and other bodies of water.
+25The members of the subcommittee must include at least one member of the Senate and 
+26one member of the House of Representatives appointed by the presiding officer of the 
+27respective chamber of the Legislature and the legislative members must include members 
+28of both of the 2 political parties holding the most seats in the Legislature. The cochairs of 
+29the council shall appoint as members representatives of scientific and academic 
+30institutions, affected and involved businesses and industries, nonprofit organizations and 
+31foundations and federal, state and local governments and agencies.
+32In carrying out its duties, the subcommittee:
+33A.  Shall meet at least every 6 months beginning no later than October 1, 2019 and 
+34establish an annual work plan;
+35B.  May seek the advice of experts in fields related to its duties; 
+36C.  May create subgroups to provide data and recommendations on specific subtopics 
+37related to the subcommittee's duties;
+Page 9 - 129LR2478(01)-11D.  Shall review the direct and indirect effects of climate change, including, but not 
+2limited to, air temperature changes, sea level rise, ocean and coastal acidification, 
+3warming ocean temperatures, increased precipitation and changes in salinity and 
+4dissolved oxygen concentrations;
+5E.  Shall review, study and analyze existing scientific literature and data on the direct 
+6and indirect effects of climate change and how those effects have directly or 
+7indirectly affected communities and public health, marine environments and species, 
+8agriculture and forestry and ecosystems and species in the State;
+9F.  Shall identify critical scientific data and knowledge gaps pertaining to the data and 
+10monitoring of state-based climate changes and impacts and recommend methods for 
+11monitoring;
+12G.  Shall identify and monitor the factors contributing to the effects of climate 
+13change, including, but not limited to, the effects caused by coastal and ocean 
+14acidification, rising ocean temperatures and changes in salinity and dissolved oxygen 
+15concentrations;
+16H.  Shall identify methods and protocols to mitigate direct and indirect effects of 
+17climate change on the State's species;
+18I.  Shall establish science-based sea level rise projections for the State's coastal areas 
+19by December 1, 2020 and update them at least every 4 years;
+20J.  Shall create maps that indicate the areas of the State that may be most affected by 
+21storm surges, ocean and river flooding and extreme weather events and make these 
+22maps publicly available on a website maintained by the Department of Agriculture, 
+23Conservation and Forestry, Maine Geological Survey; and
+24K.  Shall analyze and identify options for quantifying carbon sequestration and 
+25emissions associated with biomass growth, management and utilization in upland and 
+26marine environments.
+277.  Working groups.  The council shall establish the following working groups:
+28A.  A transportation working group;
+29B.  A coastal and marine working group;
+30C.  A buildings, infrastructure and housing working group;
+31D.  A working lands and ecosystems working group;
+32E.  An energy working group; and
+33F.  Other working groups as needed.
+34Each working group must include at least one member of the Senate and one member of 
+35the House of Representatives appointed by the presiding officer of the respective chamber 
+36of the Legislature and the legislative members must include members of both of the 2 
+37political parties holding the most seats in the Legislature.  The cochairs of the council 
+38shall appoint as members representatives of scientific and academic institutions, affected 
+39and involved businesses and industries, nonprofit organizations and foundations and 
+40federal, state and local governments and agencies.
+Page 10 - 129LR2478(01)-11Each working group shall meet at least every 6 months, beginning no later than October 
+21, 2019 and shall establish an annual work plan.
+38.  Consideration of subcommittee and working group actions by council.  The 
+4council shall consider and prioritize actions of the Scientific and Technical Subcommittee 
+5established in subsection 6 and the working groups established in subsection 7, including:
+6A.  Developing the State's climate action plan in accordance with section 577;
+7B.  Developing recommendations for legislation; 
+8C.  Soliciting input from members of the public when developing the State's climate 
+9action plan and communicating with the public on progress and actions;
+10D.  Developing broad public and private partnerships with local, state and federal 
+11agencies;
+12E.  Addressing any disproportionate impacts of climate change on low-income and 
+13vulnerable communities;
+14F.  Assessing the impacts that climate change may have on the State's economy, 
+15revenues and investment decisions;
+16G.  Assessing the need for utilities and other public and private service providers 
+17throughout the State to adjust their operating practices and investment strategies to 
+18increase their resiliency to climate change impacts;
+19H.  Maximizing infrastructure, energy and new technologies for mitigation and 
+20adaptation options that come from state sources or create jobs in the State, or both;
+21I.  Assessing the impacts that climate change may have on agriculture, fishing, 
+22forestry and other natural resource-based industries in the State and how those 
+23industries might best adapt to preserve those industries and the communities they 
+24support;
+25J.  Recommending short-term and long-term strategies to mitigate the causes of and 
+26prepare for and adapt to the consequences of climate change;
+27K.  Developing a plan to encourage and prepare for transitions in transportation, 
+28including both low-carbon and no-carbon technologies, and the changes in 
+29infrastructure required to accommodate those technologies, as well as infrastructure 
+30changes required as the result of climate disruption;
+31L.  Developing and recommending strategies to address and prepare for coastal and 
+32coastal watershed hazards, including, but not limited to, ocean and coastal 
+33acidification, increased storm surges, extreme precipitation and other extreme 
+34weather events, projected sea level rise and increased river flooding and storm water 
+35runoff and the risks such hazards pose to municipalities, the coastal economy and 
+36state assets;
+37M.  Developing and supporting new and existing programs, codes and incentives that 
+38encourage increased energy efficiency and lower carbon emissions from the State's 
+39public and private buildings and businesses;
+Page 11 - 129LR2478(01)-11N.  Assisting local governments and other constituents in supporting regional and 
+2community-scale climate vulnerability assessments and the development of specific 
+3strategies and integration of specific strategies into local plans and ordinances;
+4O.  Encouraging programming in State Government and in municipal governments 
+5that allows the State to lead the way in demonstrating initiatives that reduce carbon 
+6emissions;
+7P.  Establishing comprehensive and accountable annual working group work plans 
+8that set annual goals and performance benchmarks and prioritize new and existing 
+9climate change mitigation, preparedness actions and initiatives and report these out to 
+10stakeholders and the public;
+11Q.  Convening regular steering committee, working group and full council meetings 
+12to ensure that sufficient progress is being made across all sectors and communities in 
+13the State; and
+14R.  Considering other related matters as the council determines to be necessary.
+159.  Funds.  The council and the Scientific and Technical Subcommittee established in 
+16subsection 6 and its working groups established in subsection 7 may solicit and receive 
+17financial support, including funding from government agencies, nonprofit organizations 
+18and foundations and other entities, to fulfill their responsibilities under this section.
+19Sec. 11.  38 MRSA §578, as amended by PL 2013, c. 415, §5, is further amended 
+20to read:
+21§578.  Progress evaluation
+22By January 1, 2006 and by that date every 2 years thereafter, the The Maine Climate 
+23Change Council, established under section 577-A, or the department, shall evaluate the 
+24State's progress toward meeting the reduction goals specified in section 576, review the 
+25cost-effectiveness of the actions taken toward meeting the reduction goals and shall 
+26amend the action plan as necessary to ensure that the State can meet the reduction goals 
+27576-A and progress toward implementing the climate action plan in section 577.  The 
+28department shall submit a report of its evaluation to the joint standing committee of the 
+29Legislature having jurisdiction over natural resources matters and the joint standing 
+30committee of the Legislature having jurisdiction over utilities and energy matters by 
+31January 1, 2016 December 1, 2022 and by that date every 2 years thereafter.  The council, 
+32or the department, may recommend other metrics to share the progress on climate 
+33mitigation and adaptation strategies with the Legislature and public.  The joint standing 
+34committee of the Legislature having jurisdiction over natural resources matters is 
+35authorized to report out legislation relating to the evaluation to the second regular session 
+36of any Legislature. The joint standing committee of the Legislature having jurisdiction 
+37over utilities and energy matters may make recommendations to the joint standing 
+38committee of the Legislature having jurisdiction over natural resources matters regarding 
+39that legislation.  Starting no earlier than January 1, 2008, the department may recommend 
+40to the joint standing committee of the Legislature having jurisdiction over natural 
+41resources matters that the reduction goals specified in section 576 be increased or 
+42decreased.
+Page 12 - 129LR2478(01)-11Sec. 12.  Meetings of Scientific and Technical Subcommittee.  
+2Notwithstanding the Maine Revised Statutes, Title 10, section 577-A, subsection 6, 
+3paragraph A, the Scientific and Technical Subcommittee of the Maine Climate Change 
+4Council shall meet at least 4 times before July 1, 2020.
+5SUMMARY
+6This bill:
+71.  Establishes the Maine Climate Change Council to assist Maine to mitigate, 
+8prepare for and adapt to climate change;
+92.  Provides that by January 1, 2030 80% of electricity consumed in the State must 
+10come from renewable resources and by January 1, 2050 100% of electricity consumed in 
+11the State must come from renewable resources;
+123.  Updates the greenhouse gas emissions reductions required in statute; and
+134.  Requires that the state climate action plan be updated by December 1, 2020 and 
+14every 4 years thereafter.

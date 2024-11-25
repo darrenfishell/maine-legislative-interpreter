@@ -1,0 +1,181 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 1977
+S.P. 679 In Senate,  January  8, 2020
+An Act  To Ensure a Consumer's Right To  Repair  Certain Electronic 
+Products
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+203.
+Reference to the Committee on Innovation,  Development, Economic Advancement and 
+Business suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator CARPENTER  of Aroostook.
+Cosponsored by Representative HUBBELL of Bar Harbor and
+Senators: BELLOWS of Kennebec, President JACKSON of  Aroostook,  Representative: 
+ZEIGLER of  Montville.
+
+Page 1 - 129LR2712(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA c. 233 is enacted to read:
+3CHAPTER 233
+4RIGHT TO REPAIR ELECTRONIC EQUIPMENT
+5§1500-O.  Definitions
+6As used in this chapter, unless the context otherwise indicates, the following terms 
+7have the following meanings.
+81.  Authorized repair provider.  "Authorized repair provider" means a business that 
+9has an arrangement with an original equipment manufacturer that grants the business 
+10license to use a trade name, service mark or related characteristic for the purposes of 
+11offering repair services under the name of the original equipment manufacturer.
+122.  Department.  "Department" means the Department of Economic and Community 
+13Development.
+143.  Digital electronic equipment.  "Digital electronic equipment" means any product 
+15that depends for its functioning, in whole or in part, on digital electronics embedded in or 
+16attached to the product but does not include a motor vehicle, as defined in Title 29-A, 
+17section 101, subsection 42, or any part of a motor vehicle.
+184.  Embedded software.  "Embedded software" means any programmable 
+19instructions provided on firmware included with digital electronic equipment for the 
+20purpose of equipment operation, including all patches and fixes to that software that are 
+21offered or included by the original equipment manufacturer for this purpose.
+225.  Fair and reasonable terms.  "Fair and reasonable terms" means a price for digital 
+23electronic equipment, information or tools that is fair and reasonable based on the 
+24following factors:
+25A.  The net cost to the authorized repair provider for similar digital electronic 
+26equipment, information or tools obtained from an original equipment manufacturer, 
+27less any discounts, rebates or other incentive programs;
+28B.  The cost to the original equipment manufacturer of preparing and distributing the 
+29digital electronic equipment, information or tools, excluding any research and 
+30development costs incurred in designing and implementing, upgrading or altering the 
+31product, but including amortized capital costs for the preparation and distribution of 
+32the digital electronic equipment, information or tools;
+33C.  The price charged by other original equipment manufacturers for similar digital 
+34electronic equipment, information or tools;
+35D.  The price charged by other original equipment manufacturers for similar digital 
+36electronic equipment, information or tools prior to the launch of original equipment 
+37manufacturer websites;
+Page 2 - 129LR2712(01)-11E.  The ability of aftermarket technicians or shops to afford the digital electronic 
+2equipment, information or tools;
+3F.  The means by which the digital electronic equipment, information or tools are 
+4distributed;
+5G.  The extent to which the digital electronic equipment, information or tools are 
+6used, including the number of users and frequency, duration and volume of use; and
+7H.  Inflation.
+86.  Independent repair provider.  "Independent repair provider" means a business 
+9operating in this State that is not affiliated with the original equipment manufacturer of 
+10digital electronic equipment or that original equipment manufacturer's authorized repair 
+11provider and is engaged in the diagnosis, service, maintenance or repair of that digital 
+12electronic equipment.
+137.  Original equipment manufacturer.  "Original equipment manufacturer" means a 
+14business that, in the ordinary course of its business, is engaged in selling or leasing new 
+15digital electronic equipment or parts of equipment to an individual or business in this 
+16State and is engaged in the diagnosis, service, maintenance or repair of that equipment.
+178.  Owner.  "Owner" means an individual or business that owns or leases a digital 
+18electronic product purchased or used in this State.
+199.  Service parts.  "Service parts" means any replacement parts for digital electronic 
+20equipment, either new or used, made available by the original equipment manufacturer to 
+21an authorized repair provider for repairing the digital electronic equipment.
+2210.  Trade secret.  "Trade secret" means anything tangible or intangible or 
+23electronically stored or kept that constitutes, represents, evidences or records intellectual 
+24property, including secret or confidentially held designs, processes, procedures, formulas, 
+25inventions or improvements or secret or confidentially held scientific, technical, 
+26merchandising, production, financial, business or management information, or anything 
+27within the definition of "trade secret" under 18 United States Code, Section 1839(3), as in 
+28effect on January 1, 2019.
+29§1500-P.  Right to repair
+301.  Requirement for original equipment manufacturers to make diagnostic and 
+31repair information and parts available.  An original equipment manufacturer of digital 
+32electronic equipment sold or used in this State shall:
+33A.  Make available diagnostic and repair information, including technical updates for 
+34repairs and updates and corrections to embedded software, to an independent repair 
+35provider or an owner at no charge or in the same manner as the original equipment 
+36manufacturer makes such information available to its authorized repair provider; and
+37B.  Make service parts, including updates to the embedded software of the service 
+38parts, available for purchase upon fair and reasonable terms by an owner, the owner's 
+39authorized agent or an independent repair provider working on the digital electronic 
+40equipment.
+Page 3 - 129LR2712(01)-112.  Requirement for original equipment manufacturers to make diagnostic and 
+2repair tools available for purchase.  An original equipment manufacturer of equipment 
+3sold or used in this State shall make available for purchase by owners and independent 
+4repair providers all diagnostic repair tools incorporating the same diagnostic, repair and 
+5remote communications capabilities that the original equipment manufacturer makes 
+6available to its own repair or engineering staff or any authorized repair provider.  An 
+7original equipment manufacturer shall offer the tools for sale to owners and to 
+8independent repair providers upon fair and reasonable terms.  An original equipment 
+9manufacturer that provides diagnostic repair information to aftermarket tool, diagnostics 
+10or 3rd-party service information publications and systems is not responsible for the 
+11content and functionality of aftermarket tool, diagnostics or 3rd-party service information 
+12publications not provided by the original equipment manufacturer.
+133.  Sale of equipment used for security-related functions.  Original equipment 
+14manufacturer equipment or parts sold or used in this State for the purpose of providing 
+15security-related functions must include diagnostic, service and repair information 
+16necessary to reset a security-related electronic function with information provided to 
+17owners and independent repair facilities, or the original equipment manufacturer shall 
+18make that information obtainable by owners and independent repair facilities through the 
+19appropriate secure data release systems.
+204.  Nonapplicability to trade secrets.  This section may not be construed to require 
+21an original equipment manufacturer to divulge a trade secret.
+225.  Effect on original equipment manufacturer agreements.  This section may not 
+23be interpreted to abrogate, interfere with, contradict or alter the terms of an agreement 
+24executed and in force between an authorized repair provider and an original equipment 
+25manufacturer, including, but not limited to, the performance or provision of warranty or 
+26recall repair work by an authorized repair provider on behalf of an original equipment 
+27manufacturer pursuant to an authorized repair agreement, except that any provision in the 
+28agreement that purports to waive, avoid, restrict or limit an original equipment 
+29manufacturer's compliance with this section is void and unenforceable.
+306.  Nonapplicability to nondiagnostic and repair information.  This section may 
+31not be construed to require an original equipment manufacturer or authorized repair 
+32provider to provide an owner or an independent repair provider access to nondiagnostic 
+33and repair information provided by an original equipment manufacturer to an authorized 
+34repair provider pursuant to the terms of an authorizing agreement.
+357.  Notification to owners.  An independent repair provider that purchases or 
+36acquires embedded software or service parts shall, prior to performing any services on 
+37digital electronic equipment, notify the owner of the equipment in writing that:
+38A.  The independent repair provider is not an authorized repair provider for the digital 
+39electronic equipment;
+40B.  The owner should review the terms and conditions of the warranty for the digital 
+41electronic equipment and that repairs not performed by an authorized repair provider 
+42could affect the terms and conditions of the warranty;
+Page 4 - 129LR2712(01)-11C.  A warrantor cannot require that only parts manufactured by the original 
+2equipment manufacturer be used with the product in order to retain the warranty;
+3D.  A warrantor is required to demonstrate that a defect or damage was caused by the 
+4independent repair provider in order to affect the warranty; and
+5E.  A warrantor is governed by the federal Magnuson-Moss Warranty - Federal Trade 
+6Commission Improvement Act.
+7§1500-Q.  Duties of the department
+8The department shall develop, establish and implement a public outreach campaign 
+9directed at independent repair providers, owners and original equipment manufacturers to 
+10inform them of their rights and responsibilities under this chapter.
+11§1500-R.  Violations
+12A violation of this chapter constitutes an unfair or deceptive act or practice in 
+13violation of Title 5, chapter 10.
+14SUMMARY
+15This bill establishes a consumer's right to repair electronic devices, excluding motor 
+16vehicles.  It requires manufacturers of electronic equipment to make available the 
+17information and equipment necessary for diagnosis and repair of electronic equipment 
+18problems.  It prohibits original equipment manufacturers from limiting access to 
+19diagnostic equipment and tools to authorized repair providers and requires manufacturers 
+20to make this information and equipment available to independent repair providers under 
+21fair and reasonable terms.  The bill provides that a violation constitutes an unfair trade 
+22practice.

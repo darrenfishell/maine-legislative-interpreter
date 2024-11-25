@@ -1,0 +1,273 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1126
+H.P. 804 House of  Representatives, March 22, 2021
+An Act  To Update the Voter Registration  Process
+Received by the Clerk of the House on March 18, 2021.  Referred to the Committee  on 
+Veterans and Legal Affairs  pursuant to Joint Rule 308.2  and ordered printed  pursuant to  Joint 
+Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative PIERCE of Falmouth.
+Cosponsored by Senator BREEN of  Cumberland  and
+Representatives: CAIAZZO of Scarborough,  Speaker FECTEAU of Biddeford, MARTIN of 
+Eagle Lake, MORIARTY of Cumberland, WOOD of Portland, Senators: HICKMAN of Kennebec, LUCHINI of Hancock.
+
+Page 1 - 130LR0013(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  21-A MRSA §1, sub-§27-D is enacted to read:
+427-D.  Online voter registration application.  "Online voter registration application" 
+5 means the electronic voter registration application form created by the Secretary of State 
+6 pursuant to section 152 and available on the Secretary of State's publicly accessible website 
+7 and through which, in accordance with the rules adopted under section 152, subsection 6, 
+8 an individual may register to vote and enroll in a party or a registered voter may enroll in 
+9 a party, change the voter's party enrollment, withdraw from a party or notify the appropriate 
+10 registrar of voters of a change in the voter's name or address when the voter's name is 
+11 changed due to marriage or other process of law or when the voter has moved within a 
+12 municipality.
+13Sec. A-2.  21-A MRSA §121, sub-§1-A, as amended by PL 2011, c. 534, §4, is 
+14 further amended to read:
+151-A.  Identification and proof.  Registration applications taken by outside agencies 
+16 must be transferred to the Secretary of State within 5 days of receipt.  An applicant who 
+17 attempts to register within 30 days of an election must be advised that the registrar might 
+18 not receive the application before the deadline for online, mail or 3rd-person registration 
+19 set forth in section 121‑A, but that the applicant may register in person no later than the 
+20 deadline for in-person registration set forth in section 121‑A.
+21 Registration applications received by the Secretary of State from outside agencies 30 days 
+22 or more before an election must be transferred to the appropriate registrar's office within 7 
+23 business days of receipt.  Registration applications received by the Secretary of State from 
+24 outside agencies less than 30 days before an election must be transferred to the appropriate 
+25 registrar's office within 5 business days of receipt.  Registration applications submitted 
+26 online must be received by the Secretary of State by midnight on the 21st day before 
+27 election day and must be transmitted to the appropriate registrar's office daily.  Registration 
+28 applications by mail or by a 3rd person must be received in the registrar's office by the 
+29 close of business on the 21st day before election day in order for persons' names to appear 
+30 on the incoming voting list for that election.  The 20-day period before the election is the 
+31 closed period for outside registrations.  The registrar shall send the notice required by 
+32 section 122 no later than the 18th day before election day to all voters whose applications 
+33 were received submitted online, submitted by mail or  submitted by a 3rd person  as long as 
+34 the registrar received the application by the 21st day before election day  no later than the 
+35 18th day before election day.
+36 A person who registers in person shall show proof of identity and residency.  If satisfactory 
+37 proof of identity and residency can not be provided to the registrar or deputy, the person's 
+38 name is entered into the central voter registration system and placed on the incoming voting 
+39 list and the person casts a challenged ballot.  If the person shows satisfactory proof of 
+40 identity and residency prior to voting on election day, the person's ballot is not challenged.
+41Sec. A-3.  21-A MRSA §121-A, as enacted by PL 2011, c. 534, §5, is amended to 
+42 read:
+43§121-A.  Deadline for registration
+Page 2 - 130LR0013(01)1 The deadline for receipt of voter registration applications submitted by mail or by a 3rd 
+2 person is the close of business on the 21st day before election day.  The deadline for receipt 
+3 of voter registration applications submitted online is midnight on the 21st day before 
+4 election day.  The deadline for in-person registration is the close of the polls on election 
+5 day.
+6Sec. A-4.  21-A MRSA §129, sub-§1, as corrected by RR 2019, c. 2, Pt. B, §37, is 
+7 amended to read:
+81.  Notice.  The voter must give written notice to the registrar of the voter's new and 
+9 former names or addresses before the close of registrations prior to election day or provide 
+10 notice through the online voter registration application available on the Secretary of State's 
+11 publicly accessible website.
+12Sec. A-5.  21-A MRSA §130, as amended by PL 2011, c. 534, §9, is further amended 
+13 to read:
+14§130.  Applications for voter registration
+15 A person who completes a written or online voter registration application, as provided 
+16 in section 152, may submit the application online, mail the application or have the 
+17 application delivered to the registrar in the person's municipality of residence before the 
+18 deadline for online, mail or 3rd-person registrations in section 121‑A, to be entered into the 
+19 central voter registration system and placed on the incoming voting list prior to the next 
+20 election; except that applications completed under section 122, subsection 5 may be 
+21 delivered during the closed period for immediate placement on the incoming voting list.
+22Sec. A-6.  21-A MRSA §142, first ¶, as amended by PL 1989, c. 313, §3, is further 
+23 amended to read:
+24 A voter who had initially chosen not to enroll in a particular party may later enroll in a 
+25 party by filing an application with the registrar personally,  or by mail or  otherwise  by 
+26 submitting an online voter registration application through the Secretary of State's publicly 
+27 accessible website, at any time, except that on election day a voter must enroll in person.
+28Sec. A-7.  21-A MRSA §144, first ¶, as amended by PL 2017, c. 248, §1, is further 
+29 amended to read:
+30 A voter may change the voter's enrollment after 3 months from the date on which the 
+31 voter enrolled by filing an application with the registrar personally, by mail or otherwise  
+32 by submitting an online voter registration application through the Secretary of State's 
+33 publicly accessible website. When a voter files an application to change enrollment on the 
+34 day of a primary election, the application is deemed received the following business day.
+35Sec. A-8.  21-A MRSA §144, sub-§1, as amended by PL 2017, c. 248, §2, is further 
+36 amended to read:
+371.  Content of application.  The application must contain the following information:  
+38 Name of applicant, the date of birth, residence address, name of party in which enrollment 
+39 is requested, signature of the applicant and the date of application.  If the voter submits an 
+40 online voter registration application through the Secretary of State's publicly accessible 
+41 website, the applicant must meet the requirements of section 152, subsection 1, paragraph 
+42 K to satisfy the signature requirement of this subsection.
+Page 3 - 130LR0013(01)1Sec. A-9.  21-A MRSA §145, first ¶, as amended by PL 2017, c. 248, §3, is further 
+2 amended to read:
+3 A voter may withdraw the voter's enrollment after 3 months from the date on which 
+4 the voter enrolled through an online voter registration application on the Secretary of State's 
+5 publicly accessible website or by filing a written request with the registrar. When a voter 
+6 files an application to withdraw enrollment on the day of a primary election, the application 
+7 is deemed received the following business day.
+8Sec. A-10.  21-A MRSA §152, sub-§1, as amended by PL 2019, c. 409, §3 and 
+9 affected by §9, is further amended to read:
+101.  Application.  In addition to the procedures provided by section 122 and subchapter 
+11 9, a person may register to vote or enroll in a political party, or both, by completing an a 
+12 written application that is designed by the Secretary of State  or by submitting an online 
+13 voter registration application through the Secretary of State's publicly accessible website.  
+14 The application must include, but is not limited to:
+15 A.  The legal name of the voter, in one of the following combinations:
+16 (1)  First name and last name;
+17 (2)  First initial, middle name and last name; or
+18 (3)  First name, middle name or middle initial and last name;
+19 B.  Residence address, including street, street number, apartment number, town and zip 
+20 code;
+21 C.  Mailing address;
+22 D.  Date of birth;
+23 F.  Most recent prior residence where registered to vote, including the municipality, 
+24 county and state, and the name under which previously registered, if changed;
+25 H.  Notification that failure to complete the entire application may prevent registration;
+26 J.  Date of application;
+27 K.  Signature of applicant collected in a way that ensures the quality and integrity of 
+28 the signature. If the applicant submits an online voter registration application through 
+29 the Secretary of State's publicly accessible website, the applicant satisfies the signature 
+30 requirement of this paragraph by submitting a current, valid Maine driver's license 
+31 number or nondriver identification card number or, if the applicant does not have a 
+32 current, valid Maine driver's license or nondriver identification card, by submitting an 
+33 electronic image of the applicant's signature;
+34 L.  Choice of political party if the applicant desires to enroll in a political party or an 
+35 indication that the applicant chose not to enroll in a party;
+36 M.  A place for the person's applicant's current, valid Maine driver's license number or 
+37 nondriver identification card number, if applicable; or, if the applicant has no  Maine 
+38 driver's license number or nondriver identification card, the last 4 digits of the person's 
+39 applicant's social security number, if applicable; or, if the  application is submitted in 
+40 writing and the applicant has neither number, a place to put "none" or "not applicable"; 
+41 and
+Page 4 - 130LR0013(01)1 N.  A place for the applicant to respond to the questions concerning the voter's 
+2 qualifications as required by the federal Help America Vote Act of 2002, Public Law 
+3 107-252. ; and
+4 O.  A place for the applicant to attest to the truth of the information provided in the 
+5 application.
+6Sec. A-11.  21-A MRSA §152, sub-§5, as amended by PL 2003, c. 407, §9, is 
+7 further amended to read:
+85.  Design of written application.  The Secretary of State shall design the written 
+9 application that meets the requirements of subsection 1.  The Secretary of State may design 
+10 an application that can be completed electronically and that substantially meets the 
+11 requirements of this section.
+12Sec. A-12.  21-A MRSA §152, sub-§6 is enacted to read:
+136.  Design of online voter registration application; rulemaking.  The Secretary of 
+14 State shall design the online voter registration application that meets the requirements of 
+15 subsection 1 and that can be submitted online through the Secretary of State's publicly 
+16 accessible website.  The Secretary of State shall adopt rules governing the online voter 
+17 registration process, which must, at a minimum, include the following:
+18 A.  A requirement that an applicant may not register to vote using the online voter 
+19 registration application unless the applicant discloses a current, valid Maine driver's 
+20 license number or nondriver identification card number or discloses the last 4 digits of 
+21 the applicant's social security number;
+22 B.  A process for informing an applicant who discloses a current, valid Maine driver's 
+23 license number or nondriver identification card number that disclosure of that number 
+24 constitutes consent to the use of the applicant's signature on the driver's license or 
+25 nondriver identification card for all purposes for which a signature on a written 
+26 application for voter registration is used under this Title;
+27 C.  A process for an applicant who discloses the last 4 digits of the applicant's social 
+28 security number to include with the online voter registration application an electronic 
+29 image of the applicant's signature and for the applicant to consent to the use of that 
+30 electronic image of the applicant's signature for all purposes for which a signature on 
+31 a written application for voter registration is used under this Title;
+32 D.  A process for transmitting any driver's license number or nondriver identification 
+33 card number from an online voter registration application along with the applicant's 
+34 name and date of birth to the central voter registration system; for determining whether 
+35 the information entered in the central voter registration system matches the information  
+36 in the driver's license or nondriver identification card records maintained by the 
+37 Department of the Secretary of State, Bureau of Motor Vehicles and, if a match is 
+38 found, for transmitting an electronic image of the applicant's signature on that driver's 
+39 license or nondriver identification card from the bureau to the central voter registration 
+40 system;
+41 E.  A process for matching the last 4 digits of a social security number provided in an 
+42 online voter registration application and the applicant's name and date of birth with the 
+43 information available from the United States Social Security Administration;
+Page 5 - 130LR0013(01)1 F.  A process for transmitting the contents of each online voter registration application 
+2 and the electronic image of the signature of that applicant to the appropriate registrar 
+3 of voters;
+4 G.  Minimum procedures and security measures for ensuring the accuracy and security 
+5 of online voter registration applications;
+6 H.  A process and form for a registered voter whose name is changed by marriage or 
+7 other process of law or who has moved within a municipality to notify the appropriate 
+8 registrar of voters pursuant to section 129 of the registered voter's new name or address 
+9 through the Secretary of State's publicly accessible website; and
+10 I.  A process and form for a registered voter to enroll in a party pursuant to section 142, 
+11 to change the voter's party enrollment pursuant to section 144 or to withdraw from a 
+12 party pursuant to section 145 through the Secretary of State's publicly accessible 
+13 website.
+14 The Secretary of State may also adopt rules establishing standards and a process for the 
+15 approval of one or more 3rd-party organizations to submit to the Secretary of State 
+16 electronic voter registration applications that meet all of the requirements of this section, 
+17 except the requirement that an applicant submit an online voter registration application 
+18 through the Secretary of State's publicly accessible website.
+19 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+20 chapter 375, subchapter 2‑A.
+21Sec. A-13.  Effective date.  This Part takes effect January 1, 2023.
+22PART B
+23Sec. B-1.  Report.  By June 30, 2022, the Secretary of State shall submit a report, 
+24 which may include recommended legislation, to the Joint Standing Committee on Veterans 
+25 and Legal Affairs on the feasibility of and progress made toward implementing a system 
+26 for 3rd-party organizations to collect and to submit to the Secretary of State electronic voter 
+27 registration applications.  The Joint Standing Committee on Veterans and Legal Affairs 
+28 may report out legislation to the Second Regular Session of the 130th Legislature based on 
+29 the report.
+30SUMMARY
+31 This bill requires the Department of the Secretary of State to create a process for 
+32 accepting online voter registration applications through the Secretary of State's publicly 
+33 accessible website beginning January 1, 2023. The deadline for receipt of voter registration 
+34 applications submitted online is midnight on the 21st day before election day.
+35 Under the bill, an individual submitting an online voter registration application must 
+36 submit a current, valid Maine driver's license or nondriver identification card number or 
+37 the last 4 digits of the applicant's social security number.  The Secretary of State must 
+38 establish a process for verifying the identity of each online voter registration applicant 
+39 using the applicant's name, date of birth and the applicant's driver's license number or 
+40 nondriver identification number or the last 4 digits of the applicant's social security number.  
+41 In addition, an applicant who submits a driver's license or nondriver identification card 
+42 number with the applicant's online voter registration must consent to use of an electronic 31
+32
+33
+34
+Page 6 - 130LR0013(01)43 image of the signature on the applicant's driver's license or nondriver identification card as 
+44 the applicant's voter registration signature.  An applicant who submits the last 4 digits of 
+45 the applicant's social security number instead of a driver's license or nondriver 
+46 identification card number must include an electronic image of the applicant's signature 
+47 with the applicant's online voter registration application.  
+6 The bill further directs the Secretary of State to create a process for a previously 
+7 registered voter whose name is changed by marriage or other process of law or who has 
+8 moved within a municipality to notify the appropriate registrar of voters of the voter's new 
+9 name or address through the online voter registration application on the Secretary of State's 
+10 publicly accessible website beginning January 1, 2023 as well as processes for a registered 
+11 but unenrolled voter to enroll in a party and for a registered and enrolled voter to change 
+12 the voter's party enrollment or to withdraw from a party through the online voter 
+13 registration application beginning January 1, 2023.
+14 Finally, the bill directs the Secretary of State to submit a report by June 30, 2022 to the 
+15 Joint Standing Committee on Veterans and Legal Affairs on the feasibility of and progress 
+16 made toward implementing a system for 3rd-party organizations to collect and to submit 
+17 electronic voter registration applications to the Secretary of State.1
+2
+3
+4
+5

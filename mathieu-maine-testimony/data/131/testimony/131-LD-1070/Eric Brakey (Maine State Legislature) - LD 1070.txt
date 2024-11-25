@@ -1,0 +1,57 @@
+‘ 
+Eric Brakey 131“ MAINE SENATE 3 State House Station 
+Senator, District 20 Augusta, ME 04333 
+Senator Eric Brakey 
+L.D. 1070, An Act to Increase Ballot Transparency 
+with Blockchain Technology 
+Before the Joint Standing Committee on 
+Veterans and Legal Affairs 
+Wednesday, April 5, 2023 
+Senator Hickman, Representative Supica, and members of the Veterans and Legal 
+Affairs Committee. l am Senator Eric Brakey, representing the people of Auburn, New 
+Gloucester, Poland, and Durham. Today, I appreciate your time and consideration asl 
+present L.D. 1070, An Act to Increase Ballot Transparency with Blockchain Technology 
+In 2017, I brought before this committee legislation to study the potential use of 
+blockchain technology to increase transparency in our elections. Ultimately, the 
+committee did not move forward with the bill, but it represented the first time in any state 
+legislature that the topic was proposed for consideration. 
+In the five years since, the applications of blockchain technology for secure and 
+transparent elections have received increased attention. West Virginia is currently 
+experimenting with a blockchain~based voting system for submitting absentee ballots 
+from overseas. There are many potential applications for blockchain in voting systems. 
+This legislation, however, proposes adopting only a very modest one. 
+Before jumping into the details of this proposal, it helps to know a little about the nature 
+of the technology proposed for utilization, so let us begin there. Blockchain is a shared, 
+immutable ledger, decentralized and distributed across many devices in a network, 
+which enables the secure sharing of information. The lack of a single point of failure 
+makes the ledger unhackable with existing technology. Blockchain is used today to 
+secure trillions of dollars in value (most commonly associated with cryptocurrencies like 
+Bitcoin), but is increasingly seeing use anywhere people benefit from immediate, shared 
+and "completely transparentinformation on an immutable ledger.' 
+This legislation would simply require that digital images of the paper ballots are 
+uploaded to a publicly viewable blockchain. For the voter, nothing would change. The 
+voter would still cast a paper ballot in any of the ways they currently can. The machines 
+that process those ballots already create digital images of those ballots when they are 
+scanned for counting. All l am proposing is that municipal clerks, in addition to reporting 
+total counts, upload the digital images to the blockchain. (This would only apply to 
+municipalities that process the paper ballots by machine, not those that hand count.)
+By making those paper ballots available for public viewing on an immutable digital 
+ledger, we can improve public confidence in election results by adding a little radical 
+transparency to our already secure system of paper ballots. This would empower any 
+member of the public to count and verify the votes for themselves. Imagine that. 
+Further, this should result in some cost savings to the taxpayers. By making it possible 
+for the public to conduct unofficial recounts, this should reduce the demand for official 
+recounts when it is clear there are not enough identifiable ballot anomalies to affect the 
+election outcome. Alternatively, it should also mean that in rare circumstances when 
+campaigns do identify enough anomalies on the ballots, they can request an official 
+recount with a degree of confidence that they are not waiting time and taxpayer 
+resources. 
+There are several policy experts who have agreed to testify on this legislation. ln the 
+spirit of digital blockchain, they are primarily here digitally over Zoom. l would 
+encourage the committee to take advantage of their expertise with questions. That said 
+l appreciate your consideration and would be happy to answer any questions you have 
+to the best of my ability.
+ 
+ 
+ATTACHMENTS 
+ON FILE 

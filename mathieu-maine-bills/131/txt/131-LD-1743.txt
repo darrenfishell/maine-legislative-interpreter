@@ -1,0 +1,423 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1743
+H.P. 1122 House of Representatives, April 20, 2023
+An Act to Eliminate the Personal Property Tax
+Reference to the Committee on Taxation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ANDREWS of Paris.
+
+Page 1 - 131LR1009(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA §1050, as enacted by PL 1981, c. 476, §2, is amended to read:
+3§1050.  Leasehold or other interests of lessee taxable
+4 The interest of the user of any project is subject to taxation in the manner provided for 
+5 similar interest in Title 36, section 551, subject to Title 36, sections 655 and section 656.
+6Sec. 2.  10 MRSA §1070, as amended by PL 1983, c. 480, Pt. B, §14, is further 
+7 amended to read:
+8§1070.  Leasehold or other interests of lessee taxable
+9 The interest of the lessee of any project is subject to taxation in the manner provided 
+10 for fee interests in real estate and personal property in Title 36, sections section 551  and 
+11 602, subject to the provisions of Title 36, sections 655 and section 656.
+12Sec. 3.  29-A MRSA §409, sub-§5, as amended by PL 2017, c. 67, §2, is further 
+13 amended to read:
+145.  Other taxes.  A motor vehicle, mobile home or camp trailer may not be registered 
+15 until the excise tax or personal property tax or real estate tax has been paid in accordance 
+16 with Title 36, sections 551, 602, 1482 and 1484.  The Secretary of State may provide 
+17 municipal excise tax collectors with a standard vehicle registration form for the collection 
+18 of excise tax.
+19Sec. 4.  30-A MRSA §5721-A, sub-§1, ¶C, as amended by PL 2009, c. 545, §1, is 
+20 further amended to read:
+21 C.  "Property growth factor" means the percentage equivalent to a fraction established 
+22 by a municipality, whose denominator is the total valuation of the municipality, and 
+23 whose numerator is the amount of increase in the assessed valuation of any real or 
+24 personal property in the municipality that became subject to taxation for the first time, 
+25 or taxed as a separate parcel for the first time for the most recent property tax year for 
+26 which information is available, or that has had an increase in its assessed valuation over 
+27 the prior year's valuation as a result of improvements to or expansion of the property.  
+28 A municipality identified as having a personal property factor that exceeds 5%, as 
+29 determined pursuant to Title 36, section 694, subsection 2, paragraph B, may calculate 
+30 its property growth factor by including in the numerator and the denominator the value 
+31 of personal and otherwise qualifying property introduced into the municipality 
+32 notwithstanding the exempt status of that property pursuant to Title 36, chapter 105, 
+33 subchapter 4‑C.
+34Sec. 5.  36 MRSA §191, sub-§2, ¶AA, as amended by PL 2013, c. 67, §1, is further 
+35 amended to read:
+36 AA.  The disclosure by employees of the bureau to designated representatives of the 
+37 Finance Authority of Maine necessary for the administration of section 6656, 
+38 subsection 3 and section 6758, subsection 4 and of information required to ensure that 
+39 recipients of certain benefits under Title 20‑A, chapter 417‑E are eligible to receive 
+40 such benefits;
+Page 2 - 131LR1009(01)1Sec. 6.  36 MRSA §199-B, sub-§1, ¶D, as amended by PL 2017, c. 211, Pt. E, §4, 
+2 is further amended to read:
+3 D.  Any issues regarding tax expenditures that need to be considered by the Legislature; 
+4 and
+5Sec. 7.  36 MRSA §199-B, sub-§1, ¶E, as amended by PL 2017, c. 211, Pt. E, §4, 
+6 is further amended to read:
+7 E.  Any recommendation regarding the amendment, repeal or replacement of the tax 
+8 expenditure; and .
+9Sec. 8.  36 MRSA §199-B, sub-§1, ¶F, as enacted by PL 2017, c. 211, Pt. E, §4, is 
+10 repealed.
+11Sec. 9.  36 MRSA §305, sub-§1, as amended by PL 2017, c. 170, Pt. B, §1, is further 
+12 amended to read:
+131.  Just value.  Certify to the Secretary of State before the first day of February each 
+14 year the equalized just value of all real and personal property in each municipality and 
+15 unorganized place that is subject to taxation under the laws of this State.  The equalized 
+16 just value excludes the following:
+17 A.  That percentage of captured assessed value located within a tax increment financing 
+18 district that is used to finance that district's development plan;
+19 B.  The captured assessed value located within a municipal affordable housing 
+20 development district; and
+21 C.  The amount by which the current assessed value of commercial and industrial 
+22 property within a municipal incentive development zone exceeds the assessed value of 
+23 that property as of the date the development zone is approved by the Commissioner of 
+24 Economic and Community Development.  This excess value as determined under Title 
+25 30‑A, chapter 208‑A and referred to in this subsection as the "sheltered value" is limited 
+26 to the amount invested by a municipality in infrastructure improvements pursuant to 
+27 the infrastructure improvement plan adopted under Title 30‑A, chapter 208‑A.
+28 The equalized just value must be uniformly assessed in each municipality and unorganized 
+29 place and be based on 100% of the current market value. The bureau's valuation documents 
+30 must separately show for each municipality and unorganized place the actual or estimated 
+31 value of all real estate that is exempt from property taxation by law or is the captured value 
+32 within a tax increment financing district that is used to finance that district's development 
+33 plan, as reported on the municipal valuation return filed pursuant to section 383, or that is 
+34 the sheltered value of a municipal incentive development zone;
+35Sec. 10.  36 MRSA §328, sub-§7, as enacted by PL 1975, c. 545, §13, is amended 
+36 to read:
+377.  Physical inspection and inventory.  Physical inspection and inventory of each real 
+38 property parcel and personal property account will take place at least every 4 years rather 
+39 than every 3 years;
+40Sec. 11.  36 MRSA §384, as amended by PL 2019, c. 501, §17, is further amended 
+41 to read:
+Page 3 - 131LR1009(01)1§384.  Investigation of valuation; actions and prosecutions; reassessment orders; 
+2appeals
+3 The State Tax Assessor shall, at the State Tax Assessor's own instance or on complaint 
+4 from another person, diligently investigate all cases of concealment of property from 
+5 taxation, of undervaluation, of overvaluation, and of failure to assess property liable to 
+6 taxation. The State Tax Assessor shall bring to the attention of assessors all such cases in 
+7 their respective jurisdictions. The State Tax Assessor shall direct proceedings, actions and 
+8 prosecutions to be instituted to enforce all laws relating to the assessment and taxation of 
+9 property and to the liability of individuals, public officers and officers and agents of 
+10 corporations for failure or negligence to comply with the laws governing the assessment or 
+11 taxation of property, and the Attorney General and district attorneys, upon the written 
+12 request of the State Tax Assessor, shall institute such legal proceedings as may be necessary 
+13 to carry out this Title. The State Tax Assessor may order the reassessment of any or all real 
+14 and personal property , or either, in any jurisdiction where in the State Tax Assessor's 
+15 judgment such reassessment is advisable or necessary to the end that all classes of property 
+16 in such jurisdiction are assessed in compliance with the law. Neglect or failure to comply 
+17 with such orders on the part of any assessor or other official is deemed willful neglect of 
+18 duty and the assessor or other official is subject to the penalties provided by law in such 
+19 cases. If a satisfactory reassessment is not made by the assessors, then the State Tax 
+20 Assessor may employ assistance from within or without the jurisdiction where such 
+21 reassessment is to be made, and said that jurisdiction bears all necessary expense incurred. 
+22 Any person aggrieved because of such reassessment has the same right of petition and 
+23 appeal as from the original assessment. The State may intervene in any action resulting 
+24 from an order of the State Tax Assessor pursuant to this section.
+25Sec. 12.  36 MRSA §457, sub-§7, as amended by PL 2011, c. 430, §1, is further 
+26 amended to read:
+277.  Collection.  Taxes assessed under this section by the State Tax Assessor must be 
+28 enforced as generally provided by this Title.  Taxes assessed under this section by 
+29 municipal assessors must be enforced in the same way as locally assessed personal property 
+30 taxes.
+31Sec. 13.  36 MRSA §501, sub-§1 is amended to read:
+321.  Estates.  "Estates" shall be construed to mean both  means real estate  and personal 
+33 property.
+34Sec. 14.  36 MRSA §501, sub-§7 is amended to read:
+357.  Property.  "Property" shall be construed to mean both  means real estate  and 
+36 personal property.
+37Sec. 15.  36 MRSA §502, as amended by PL 1997, c. 216, §1, is further amended to 
+38 read:
+39§502.  Property taxable; tax year
+40 All real estate within the State, all personal property of residents of the State and all 
+41 personal property within the State of persons not residents of the State is subject to taxation 
+42 on the first day of each April as provided; and the status of all taxpayers and of such taxable 
+43 property must be fixed as of that date.  Upon receipt of a declaration of value under section 
+Page 4 - 131LR1009(01)44 4641‑D reflecting a change of ownership in real property, the assessor may change the 
+45 records of the municipality to reflect the identity of the new owner, if notice of tax liabilities 
+46 is sent both to the new owner and to the owner of record as of the April 1st when the liability 
+47 accrued.  The taxable year is from April 1st to April 1st. Notwithstanding this section, 
+48 proration of taxes must be over the period specified in section 558.
+6Sec. 16.  36 MRSA §578, sub-§1, ¶C, as amended by PL 2021, c. 630, Pt. C, §3, 
+7 is further amended by amending subparagraph (1) to read:
+8 (1)  "Property tax burden" means the total real and personal property taxes assessed 
+9 in the most recently completed municipal fiscal year, except the taxes assessed on 
+10 captured value within a tax increment financing district, divided by the latest state 
+11 valuation certified to the Secretary of State.
+12Sec. 17.  36 MRSA c. 105, sub-c. 3, as amended, is repealed.
+13Sec. 18.  36 MRSA §652, sub-§1, ¶A, as amended by PL 2021, c. 630, Pt. B, §2, 
+14 is further amended to read:
+15 A.  The real estate and personal property owned and occupied or used solely for their 
+16 own purposes by incorporated benevolent and charitable institutions are is exempt from 
+17 taxation.  Such an institution may not be deprived of the right of exemption by reason 
+18 of the source from which its funds are derived or by reason of limitation in the classes 
+19 of persons for whose benefit the funds are applied.
+20 For the purposes of this paragraph, "benevolent and charitable institutions" includes, 
+21 but is not limited to, nonprofit nursing homes licensed by the Department of Health 
+22 and Human Services pursuant to Title 22, chapter 405, nonprofit residential care 
+23 facilities licensed by the Department of Health and Human Services pursuant to Title 
+24 22, chapter 1663, nonprofit community mental health service facilities licensed by the 
+25 Commissioner of Health and Human Services in accordance with rules adopted 
+26 pursuant to Title 34‑B, chapter 3 and nonprofit child care centers.  For the purposes of 
+27 this paragraph, "nonprofit" refers to an institution that has been determined by the 
+28 United States Internal Revenue Service to be exempt from taxation under Section 
+29 501(c)(3) of the Code.
+30Sec. 19.  36 MRSA §652, sub-§1, ¶B, as amended by PL 2007, c. 627, §20, is 
+31 further amended to read:
+32 B.  The real estate and personal property owned and occupied or used solely for their 
+33 own purposes by literary and scientific institutions are is exempt from taxation. If any 
+34 building or part of a building is used primarily for employee housing, that building, or 
+35 that part of the building used for employee housing, is not exempt from taxation.
+36Sec. 20.  36 MRSA §652, sub-§1, ¶C, as amended by PL 2019, c. 501, §19, is 
+37 further amended by amending subparagraph (6) to read:
+38 (6)  An exemption allowed under paragraph A or B for real or personal property 
+39 owned and occupied or used to provide federally subsidized residential rental 
+40 housing is limited as follows:  Federally subsidized residential rental housing 
+41 placed in service prior to September 1, 1993 by other than a nonprofit housing 
+42 corporation that is acquired on or after September 1, 1993 by a nonprofit housing 
+43 corporation and the operation of which is not an unrelated trade or business to that 1
+2
+3
+4
+5
+Page 5 - 131LR1009(01)44 nonprofit housing corporation is eligible for an exemption limited to 50% of the 
+45 municipal assessed value of that property.
+3 An exemption granted under this subparagraph must be revoked for any year in 
+4 which the owner of the property is no longer a nonprofit housing corporation or 
+5 the operation of the residential rental housing is an unrelated trade or business to 
+6 that nonprofit housing corporation.
+7 (a)  For the purposes of this subparagraph, the following terms have the 
+8 following meanings.
+9 (i)  "Federally subsidized residential rental housing"  means residential 
+10 rental housing that is subsidized through project-based rental assistance, 
+11 operating assistance or interest rate subsidies paid or provided by or on 
+12 behalf of an agency or department of the Federal Government.
+13 (ii)  "Nonprofit housing corporation" means a nonprofit corporation 
+14 organized in the State that is exempt from tax under Section 501(c)(3) of 
+15 the Code and has among its corporate purposes the provision of services 
+16 to people of low income or the construction, rehabilitation, ownership or 
+17 operation of housing.
+18 (iii)  "Residential rental housing" means one or more buildings, together 
+19 with any facilities functionally related and subordinate to the building or 
+20 buildings, located on one parcel of land and held in common ownership 
+21 prior to the conversion to nonprofit status and containing 9 or more 
+22 similarly constructed residential units offered for rental to the general 
+23 public for use on other than a transient basis, each of which contains 
+24 separate and complete facilities for living, sleeping, eating, cooking and 
+25 sanitation.
+26 (iv)  "Unrelated trade or business" means any trade or business whose 
+27 conduct is not substantially related to the exercise or performance by a 
+28 nonprofit corporation of the purposes or functions constituting the basis 
+29 for exemption under Section 501(c)(3) of the Code.
+30 (b)  Eligibility of the following property for exemption is not affected by the 
+31 provisions of this subparagraph:
+32 (i)  Property used as a nonprofit nursing home, residential care facility 
+33 licensed by the Department of Health and Human Services pursuant to 
+34 Title 22, chapter 1663 or a community living arrangement as defined in 
+35 Title 30‑A, section 4357‑A or any property owned by a nonprofit 
+36 organization licensed or funded by the Department of Health and Human 
+37 Services to provide services to or for the benefit of persons with mental 
+38 illness or intellectual disabilities;
+39 (ii)  Property used for student housing;
+40 (iii)  Property used for parsonages;
+41 (iv)  Property that was owned and occupied or used to provide residential 
+42 rental housing that qualified for exemption under paragraph A or B prior 
+43 to September 1, 1993; or1
+2
+Page 6 - 131LR1009(01)1 (v)  Property exempt from taxation under other provisions of law; and
+2Sec. 21.  36 MRSA §652, sub-§1, ¶C, as amended by PL 2019, c. 501, §19, is 
+3 further amended by amending subparagraph (7) to read:
+4 (7)  In addition to the requirements of subparagraphs (1) to (4), an exemption is not 
+5 allowed under paragraph A or B for real or personal property owned and occupied 
+6 or used to provide residential rental housing that is transferred or placed in service 
+7 on or after September 1, 1993, unless the property is owned by a nonprofit housing 
+8 corporation and the operation of the residential rental housing is not an unrelated 
+9 trade or business to the nonprofit housing corporation.
+10 For the purposes of this subparagraph, the following terms have the following 
+11 meanings.
+12 (a)  "Nonprofit housing corporation" means a nonprofit corporation organized 
+13 in the State that is exempt from tax under Section 501(c)(3) of the Code and 
+14 has among its corporate purposes the provision of services to people of low 
+15 income or the construction, rehabilitation, ownership or operation of housing.
+16 (b)  "Residential rental housing" means one or more buildings, together with 
+17 any facilities functionally related and subordinate to the building or buildings, 
+18 containing one or more similarly constructed residential units offered for rental 
+19 to the general public for use on other than a transient basis, each of which 
+20 contains separate and complete facilities for living, sleeping, eating, cooking 
+21 and sanitation.
+22 (c)  "Unrelated trade or business" means any trade or business whose conduct 
+23 is not substantially related to the exercise or performance by a nonprofit 
+24 organization of the purposes constituting the basis for exemption under Section 
+25 501(c)(3) of the Code.
+26Sec. 22.  36 MRSA §652, sub-§1, ¶E, as amended by PL 2007, c. 627, §20, is 
+27 further amended to read:
+28 E.  The real estate and personal property owned, occupied and used for their own 
+29 purposes by posts of the American Legion, Veterans of Foreign Wars, American 
+30 Veterans, Sons of Union Veterans of the Civil War, Disabled American Veterans and 
+31 Navy Clubs of the U.S.A. that are is used solely by those organizations for meetings, 
+32 ceremonials or instruction or to further the charitable activities of the organization, 
+33 including all facilities that are appurtenant to that property and used in connection with 
+34 those purposes, are is exempt from taxation.  If an organization is not the sole occupant 
+35 of the property, the exemption granted under this paragraph applies only to that portion 
+36 of the property owned, occupied and used by the organization for its purposes.
+37 Further conditions to the right of exemption are that:
+38 (1)  A director, trustee, officer or employee of any organization claiming exemption 
+39 may not receive directly or indirectly any pecuniary profit from the operation of 
+40 that organization, except as reasonable compensation for services in effecting its 
+41 purposes or as a proper beneficiary of its purposes;
+Page 7 - 131LR1009(01)1 (2)  All profits derived from the operation of the organization and the proceeds 
+2 from the sale of its property must be devoted exclusively to the purposes for which 
+3 it is organized; and
+4 (3)  The institution, organization or corporation claiming exemption under this 
+5 paragraph must file with the assessors upon their request a report for its preceding 
+6 fiscal year in such detail as the assessors may reasonably require.
+7Sec. 23.  36 MRSA §652, sub-§1, ¶F, as amended by PL 2021, c. 410, §1, is further 
+8 amended to read:
+9 F.  The real estate and personal property owned and occupied or used solely for their 
+10 own purposes by central labor councils, chambers of commerce or boards of trade in 
+11 this State are is exempt from taxation.  For the purposes of this paragraph, "central 
+12 labor council" means an association or network of labor unions designed to promote 
+13 and protect the interests of their members.
+14 Further conditions to the right of exemption are that:
+15 (1)  A director, trustee, officer or employee of any organization claiming exemption 
+16 may not receive directly or indirectly any pecuniary profit from the operation of 
+17 that organization, except as reasonable compensation for services in effecting its 
+18 purposes or as a proper beneficiary of its purposes;
+19 (2)  All profits derived from the operation of the organization and the proceeds 
+20 from the sale of its property must be devoted exclusively to the purposes for which 
+21 it is organized; and
+22 (3)  The institution, organization or corporation claiming exemption under this 
+23 paragraph must file with the assessors upon their request a report for its preceding 
+24 fiscal year in such detail as the assessors may reasonably require.
+25Sec. 24.  36 MRSA §652, sub-§1, ¶G, as amended by PL 2007, c. 627, §20, is 
+26 further amended to read:
+27 G.  Houses of religious worship, including vestries, and the pews and furniture within 
+28 them; tombs and rights of burial; and property owned and used by a religious society 
+29 as a parsonage up to the value of $20,000, and personal property not exceeding $6,000 
+30 in value are exempt from taxation, except that any portion of a parsonage that is rented 
+31 is subject to taxation. For purposes of this paragraph, "parsonage" means the principal 
+32 residence provided by a religious society for its cleric whether or not the principal 
+33 residence is located within the same municipality as the house of religious worship 
+34 where the cleric regularly conducts religious services.
+35Sec. 25.  36 MRSA §652, sub-§1, ¶H, as amended by PL 2007, c. 627, §20, is 
+36 further amended to read:
+37 H.  Real estate and personal property owned by or held in trust for fraternal 
+38 organizations, except college fraternities, operating under the lodge system that are is 
+39 used solely by those fraternal organizations for meetings, ceremonials or religious or 
+40 moral instruction, including all facilities that are appurtenant to that property and used 
+41 in connection with those purposes are , is exempt from taxation. If a building is used in 
+42 part for those purposes and in part for any other purpose, only the part used for those 
+43 purposes is exempt.
+Page 8 - 131LR1009(01)1 Further conditions to the right of exemption under this paragraph are that:
+2 (1)  A director, trustee, officer or employee of any organization claiming exemption 
+3 may not receive directly or indirectly any pecuniary profit from the operation of 
+4 that organization, except as reasonable compensation for services in effecting its 
+5 purposes or as a proper beneficiary of its purposes;
+6 (2)  All profits derived from the operation of the organization and the proceeds 
+7 from the sale of its property must be devoted exclusively to the purposes for which 
+8 it is organized; and
+9 (3)  The institution, organization or corporation claiming exemption under this 
+10 paragraph must file with the assessors upon their request a report for its preceding 
+11 fiscal year in such detail as the assessors may reasonably require.
+12Sec. 26.  36 MRSA §652, sub-§1, ¶J, as amended by PL 2007, c. 627, §20, is 
+13 further amended to read:
+14 J.  The real and personal property owned by one or more of the organizations in 
+15 paragraphs A and B and E to H and occupied or used solely for their own purposes by 
+16 one or more other such organizations are is exempt from taxation.
+17Sec. 27.  36 MRSA §652, sub-§1, ¶K, as amended by PL 2009, c. 425, §1, is further 
+18 amended to read:
+19 K.  Except as otherwise provided in this subsection, the real and personal property 
+20 leased by and occupied or used solely for its own purposes by an incorporated 
+21 benevolent and charitable organization that is exempt from taxation under section 501 
+22 of the Code and the primary purpose of which is the operation of a hospital licensed by 
+23 the Department of Health and Human Services, a health maintenance organization or 
+24 a blood bank are is exempt from taxation. For property tax years beginning on or after 
+25 April 1, 2012, the exemption provided by this paragraph does not include real property.
+26Sec. 28.  36 MRSA §655, as amended by PL 2021, c. 181, Pt. C, §2, is repealed.
+27Sec. 29.  36 MRSA c. 105, sub-c. 4-C, as amended, is repealed.
+28Sec. 30.  36 MRSA §708, as amended by PL 1973, c. 620, §17, is further amended 
+29 to read:
+30§708.  Assessors to value real estate and personal property
+31 The assessors and the chief assessor of a primary assessing area shall ascertain as nearly 
+32 as may be the nature, amount and value as of the first day of each April of the real estate 
+33 and personal property subject to be taxed , and shall estimate and record separately the land 
+34 value, exclusive of buildings, of each parcel of real estate.
+35Sec. 31.  36 MRSA §760-A, as enacted by PL 1991, c. 231, is repealed.
+36Sec. 32.  36 MRSA §841, sub-§3, as repealed and replaced by PL 1979, c. 73, is 
+37 amended to read:
+383.  Inability to pay after 2 years.  If after 2 years from the date of assessment a 
+39 collector is satisfied that a tax upon real or personal property committed to him the collector 
+40 for collection cannot be collected by reason of the death, absence, poverty, insolvency, 
+41 bankruptcy or other inability of the person assessed to pay, he the collector shall notify the 
+Page 9 - 131LR1009(01)42 municipal officers thereof in writing, under oath, stating the reason why that tax cannot be 
+43 collected. The municipal officers, after due inquiry, may abate that tax or any part thereof.
+3Sec. 33.  36 MRSA c. 107, sub-c. 3, as amended, is repealed.
+4Sec. 34.  36 MRSA §1485 is repealed.
+5Sec. 35.  36 MRSA §1486, as amended by PL 2011, c. 610, Pt. A, §9, is further 
+6 amended to read:
+7§1486.  Tax paid before registration
+8 No A vehicle may not be registered under Title 29‑A until the excise tax or personal 
+9 property tax or real estate tax has been paid in accordance with sections 1482 and 1484.
+101.  Exempt status.  Where When a personal property or real estate tax is to be paid as 
+11 a prerequisite to registration, the exempt status of the vehicle shall must be determined by 
+12 section 1483.
+13Sec. 36.  36 MRSA §1602, sub-§1, as enacted by PL 1977, c. 698, §8, is amended 
+14 to read:
+151.  Annual levy of tax.  A tax, to be known as the Unorganized Territory Educational 
+16 and Services Tax, shall must be levied each year upon all nonexempt real and personal 
+17 property located in the Unorganized Territory Tax District on April 1st of each year. The 
+18 State Tax Assessor shall fix the status of all taxpayers and of all such property as of that 
+19 date.
+20Sec. 37.  36 MRSA §1606, sub-§1, as enacted by PL 2007, c. 627, §35, is amended 
+21 to read:
+221.  Credit and appropriation of special funds or taxes for political subdivisions.  
+23 Notwithstanding any other statute to the contrary, the gross amount of property taxes 
+24 assessed upon real and personal property in the unorganized territory through the State Tax 
+25 Assessor for the benefit of any special fund or political subdivision of the State may be 
+26 credited on the books of the State to the special fund or to the proper fiscal officer of the 
+27 political subdivision.  The Treasurer of State shall pay to that fiscal officer the amount of 
+28 the tax so assessed, in equal quarterly amounts for unorganized territory services, on or 
+29 before the last day of July, October, January and April and an annual installment for county 
+30 taxes on or before October 15th following the date of the assessment.  The amount of the 
+31 assessment is appropriated for the purposes of this subsection.
+32Sec. 38.  36 MRSA c. 915, as amended, is repealed.
+33Sec. 39.  38 MRSA §2219, as enacted by PL 1989, c. 585, Pt. A, §7, is amended to 
+34 read:
+35§2219.  Leasehold or other interests of lessee taxable
+36 The interest of the user of any project is subject to taxation in the manner provided for 
+37 similar interests in Title 36, section 551, subject to Title 36, sections 655 and section 656.
+38Sec. 40.  Application. This Act applies to the status of personal property for property 
+39 tax years beginning on or after April 1, 2024.1
+2
+Page 10 - 131LR1009(01)1SUMMARY
+2 This bill eliminates the imposition of taxes on personal property, except for excise taxes 
+3 and sales and use taxes.  Due to the elimination of personal property taxation, this bill also 
+4 eliminates the business equipment tax exemption and the Business Equipment Tax 
+5 Reimbursement program.  The legislation applies to property tax years beginning on or 
+6 after April 1, 2024.2
+3
+4
+5
+6

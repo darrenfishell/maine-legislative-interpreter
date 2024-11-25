@@ -1,0 +1,197 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1371
+S.P. 426 In Senate,  March  21, 2019
+An Act  To Ensure Nondiscriminatory Treatment of Public, 
+Educational and Governmental Access  Channels by Cable System 
+Operators
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator WOODSOME of York.
+Cosponsored by Representatives:  BERRY of Bowdoinham, PIERCE of Falmouth, 
+Representative O'CONNOR  of Berwick  and
+Senators: CHENETTE  of York, DIAMOND of Cumberland, GUERIN of Penobscot,  HERBIG  
+of Waldo,  LIBBY  of Androscoggin, Representative: ORDWAY  of Standish.
+
+Page 1 - 129LR0130(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  30-A MRSA §3008, sub-§5, ¶¶B and C, as enacted by PL 1987, c. 737, 
+3Pt. A, §2 and Pt. C, §106 and amended by PL 1989, c. 6; c. 9, §2; and c. 104, Pt. C, §§8 
+4and 10, are further amended to read:
+5B.  A line extension policy, which must specify a minimum density requirement of no 
+6more than 15 residences per linear strand mile of aerial cable for areas in which the 
+7cable system operator will make cable television service available to every residence;
+8C.  A provision for renewal, the term of which may not exceed 15 years.  A provision 
+9for automatic renewal or other provision for extending the initial term is prohibited.  
+10Franchise renewal is governed by section 3010, subsection 5-C;
+11Sec. 2.  30-A MRSA §3008, sub-§5, ¶D, as amended by PL 2007, c. 548, §1, is 
+12further amended to read:
+13D.  Procedures for the investigation and resolution of complaints by the cable system 
+14operator; and
+15Sec. 3.  30-A MRSA §3008, sub-§5, ¶D-1 is enacted to read:
+16D-1.  A provision for the use and support of public, educational and governmental 
+17access channels, which must be carried in the same manner and numerical location 
+18sequence as are the local broadcast channels originating from the State and carried on 
+19the cable television system pursuant to section 3010, subsection 5-A; and
+20Sec. 4.  30-A MRSA §3008, sub-§7, as enacted by PL 2007, c. 548, §1, is 
+21amended to read:
+227.  Model franchise agreement.  The Department of Administrative and Financial 
+23Services, Office of Information Technology, or a successor state agency, referred to in 
+24this subsection as "the office," shall develop and may update and amend a model 
+25franchise agreement for use by any municipality and any cable system operator that 
+26mutually choose to adopt the model franchise agreement or any of its provisions.  A cable 
+27system operator may not modify or amend the model franchise agreement without the 
+28consent of the municipality.  The office shall make the model franchise agreement 
+29available on its publicly accessible website.  In the development of the model franchise 
+30agreement, the office shall, at a minimum, consider the following issues:
+31A.  Franchise fees;
+32B.  Build-out requirements;
+33C.  Public, educational and governmental access channels and reasonable facility 
+34support for such channels;
+35D.  Customer service standards;
+36E.  The disparate needs of the diverse municipalities in this State; and
+37F.  The policy goal of promoting competition in the delivery of cable television 
+38service.
+Page 2 - 129LR0130(01)-11This subsection does not allow the office to establish prices for any cable television 
+2service or to regulate the content of cable television service.
+3Sec. 5.  30-A MRSA §3010, first ¶, as amended by PL 2007, c. 548, §2, is further 
+4amended to read:
+5This section applies to every franchisee. For purposes of this section, "franchisee" 
+6means a cable system operator that is granted a franchise by a municipality in accordance 
+7with section 3008.  For purposes of this section, "cable system operator" and "cable 
+8television service" have the same meanings as in section 3008, except that "cable system 
+9operator" includes a multichannel video programming distributor as defined in 47 United 
+10States Code, Section 522(13).  For purposes of this section, "originator" means a local 
+11unit of government or the entity to which a local unit of government has assigned 
+12responsibility for managing public, educational and governmental access channels.
+13Sec. 6.  30-A MRSA §3010, sub-§§5-A, 5-B and 5-C are enacted to read:
+145-A.  Public, educational and governmental access channels.  A cable system 
+15operator shall carry public, educational and governmental access channels on the cable 
+16system operator's basic cable or video service offerings or tiers.  A cable system operator 
+17may not separate public, educational and governmental access channels numerically from 
+18other local broadcast channels carried on the cable system operator's basic cable or video 
+19service offerings or tiers and, in the event of a franchise license transfer, shall use the 
+20same channel numbers for the public, educational and governmental access channels as 
+21used for those channels by the incumbent cable system operator, unless prohibited by 
+22federal law.  After the initial designation of public, educational and governmental access 
+23channel numbers, a cable system operator may not change the channel numbers without 
+24the agreement of the originator, unless the change is required by federal law.
+25A cable system operator shall restore a public, educational or governmental access 
+26channel that has been moved without the consent of the originator within the 24 months 
+27preceding the effective date of this subsection to its original location and channel number 
+28within 60 days after the effective date of this subsection.
+295-B.  Transmission.  A cable system operator shall retransmit public, educational 
+30and governmental access channel signals in the format in which they are received from 
+31the originator and at the same signal quality as that provided to all subscribers of the 
+32cable television service for local broadcast channels.  A cable system operator may not 
+33diminish, down convert or otherwise tamper with the signal quality or format provided by 
+34the originator.  A cable system operator shall deliver a public, educational or 
+35governmental access channel signal to the subscriber in a quality and format equivalent to 
+36the quality and format of local broadcast channel signals carried on the cable television 
+37service if provided as such by the originator.  A cable system operator shall carry each 
+38public, educational or governmental access channel in both a high definition format and a 
+39standard digital format in the same manner as that in which local broadcast channels are 
+40provided, unless prohibited by federal law.
+41A cable system operator, when requested, shall assist in providing the originator with 
+42access to the entity that controls the cable television service's electronic program guide so 
+Page 3 - 129LR0130(01)-11that subscribers may view, select and record public, educational and governmental access 
+2channels in the same manner as that in which they view, select and record local broadcast 
+3channels.  In addition, a cable system operator shall identify public, educational and 
+4governmental access channels on the electronic program guide in the same manner as that 
+5in which local broadcast channels are identified.  This subsection does not obligate a 
+6cable system operator to list public, educational and governmental access channel content 
+7on channel cards and channel listings.  If channels are selected by a viewer through a 
+8menu system, the cable system operator shall display the public, educational and 
+9governmental access channels' designations in a similar manner as that in which local 
+10broadcast channel designations are displayed.
+11A cable system operator shall make available to the originator a toll-free telephone 
+12number with a direct line to a service technician who is familiar with the signal path and 
+13equipment associated with public, educational and governmental access channels on the 
+14cable television system for resolution of a signal quality problem.
+155-C.  Franchise renewals.  The franchise renewal process must be conducted in 
+16compliance with 47 United States Code, Section 546 and this subsection.
+17A.  A cable system operator shall maintain adequate personnel and resources to 
+18respond to municipal requests for renewal information in a timely manner.  Failure to 
+19respond in a timely manner is a violation of the Maine Unfair Trade Practices Act.
+20B.  If an automatic renewal provision exists in a franchise agreement on the effective 
+21date of this subsection, the automatic renewal provision remains in effect until that 
+22franchise agreement expires.  The cable system operator shall notify the franchising 
+23authority of the automatic renewal no later than 36 months in advance of the 
+24expiration of the franchise.
+25C.  A municipality may require maps, diagrams, annual reports and franchise fee 
+26statements at renewal, which the cable system operator shall make available upon 
+27reasonable notice.  If information is proprietary, the municipality may execute a 
+28nondisclosure agreement with the cable system operator.
+29Sec. 7.  Automatic renewal.  Notwithstanding the Maine Revised Statutes, Title 
+3030-A, section 3010, subsection 5-C, paragraph B, an automatic renewal provision in a 
+31franchise agreement in effect between a municipality and a cable system operator on the 
+32effective date of this Act remains in effect if the renewal date is less than 36 months after 
+33the effective date of this Act. 
+34SUMMARY
+35This bill extends cable television service to rural areas by requiring all cable 
+36television franchises to provide line extensions with a minimum homes-per-mile 
+37requirement not to exceed 15 homes per mile.
+38The bill prohibits automatic franchise renewals beyond the initial term of the 
+39franchise renewal period, except for automatic franchise renewals in effect on the 
+40effective date of this legislation, which require advance notification of expiration from 
+Page 4 - 129LR0130(01)-11the cable system operator to the municipality.  A cable system operator may not refuse to 
+2provide the municipality with required information to complete the renewal process.
+3The bill prohibits a cable system operator from modifying or amending the State's 
+4model franchise agreement without the consent of the municipality as arrived at during 
+5negotiations.
+6The bill includes provisions for the use and support of public, educational and 
+7governmental access channels and requires that these channels be placed in the same 
+8numerical sequence location as the local commercial network broadcast channels.  The 
+9bill also requires all cable system operators in the State to carry public, educational and 
+10governmental access channels on the basic cable or video service offerings or tiers and 
+11specifies that the channels may not be separated or moved numerically from other 
+12channels carried on the basic cable or video service offerings or tiers without the 
+13agreement of the local unit of government or the entity to which the local unit of 
+14government has assigned responsibility for managing public, educational and 
+15governmental access channels, unless the change is required by federal law.  In the event 
+16of transfer of the franchise license, the same channel numbers used by the incumbent 
+17cable system operator must be retained.  The bill provides that any public, educational or 
+18governmental access channel that has been moved within the 24 months preceding the 
+19effective date of this legislation and without the consent of the originator must be restored 
+20within 60 days to its original location and number.
+21The bill requires all cable system operators in the State to work with the local unit of 
+22government or the entity to which the local unit of government has assigned 
+23responsibility for managing public, educational and governmental access channels to 
+24ensure that the signal sent from the point of origination to the cable system operator and 
+25delivered to the cable subscriber is of the same quality and format as originally created.  
+26A cable system operator is required to set up a toll-free telephone number for requests to 
+27resolve a signal quality problem.
+28The bill requires all cable system operators in the State to provide the local unit of 
+29government or the entity to which the local unit of government has assigned 
+30responsibility for managing public, educational and governmental access channels access 
+31to the entity that controls the electronic program guides in the same manner as the local 
+32broadcast channels if requested by the local unit of government or the entity to which the 
+33local unit of government has assigned responsibility for managing public, educational and 
+34governmental access channels.  In addition, if channels are selected through a menu 
+35system, public, educational and governmental access channel designations must be 
+36displayed in a similar manner as local broadcast channel designations on the electronic 
+37program guide are displayed.

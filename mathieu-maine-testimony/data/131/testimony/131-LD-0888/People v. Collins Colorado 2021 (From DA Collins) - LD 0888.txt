@@ -1,0 +1,1053 @@
+People v. Collins
+Court of Appeals of Colorado, Division Five
+February 18, 2021, Decided
+Court of Appeals No. 16CA2170
+Reporter
+2021 COA 18 *; 491 P.3d 438 **; 2021 Colo. App. LEXIS 266 ***
+The People of the State of Colorado, Plaintiff-Appellee, v. Cory 
+Rex Collins, Defendant-Appellant.
+Subsequent History: Writ of certiorari denied Collins v. 
+People, 2021 Colo. LEXIS 1062 (Colo., Nov. 22, 2021)
+Prior History:  [***1] Mesa District Court No. 15CR524. 
+Honorable Valerie J. Robison, Judge.
+Disposition: JUDGMENT AFFIRMED AND CASE 
+REMANDED WITH INSTRUCTIONS.
+Case Summary
+Overview
+HOLDINGS: [1]-The recordings of interviews of the child 
+from 2013 and 2014 were evidence that went directly to the crux 
+of the issue, whether the child could describe events about 
+which she was being questioned in age-appropriate language, 
+and the trial court could use this evidence in assessing her 
+competence to testify at trial; [2]-The child's testimony at the 
+hearing established that she was competent, and she was also 
+able to distinguish the truth from a lie and promised to tell the 
+truth; [3]-The trial court found that the comfort dog's presence 
+would assist the witness, would not interfere with the 
+proceedings, and the dog would remain out of view of the jury 
+and wouldn't have a prejudicial impact on the jury; [4]-The trial 
+court erred by allowing the State's witness to answer the 
+improper question, because the answer wasn't improper, the 
+error was harmless.
+Outcome
+Judgment affirmed in part and remanded in part.
+LexisNexis® Headnotes
+Evidence > ... > Competency > Disability > ChildrenHN1 [ ]  Disability, Children
+Subject to certain exceptions, all persons are competent to be 
+witnesses, Colo. Rev. Stat. § 13-90-101 (2020), Colo. R. Evid. 
+601. But children under ten years of age who appear incapable 
+of receiving just impressions or of relating them truthfully aren't 
+legally competent and may not be called as witnesses, Colo. Rev. 
+Stat. § 13-90-106(1)(a), (b)(I) (2020). A child under ten years of 
+age may testify, however, if the child is able to describe or relate 
+in language appropriate for a child of that age the events or facts 
+respecting which the child is examined, § 13-90-106(1)(b)(II).
+Criminal Law & Procedure > Preliminary 
+Proceedings > Pretrial Motions & 
+Procedures > Competency to Stand Trial
+Criminal Law & Procedure > Trials > Judicial Discretion
+HN2 [ ]  Pretrial Motions & Procedures, Competency to 
+Stand Trial
+A trial court has broad discretion in determining how a 
+competency hearing will be held.
+Criminal Law & Procedure > Appeals > Standards of 
+Review > Abuse of Discretion
+Evidence > ... > Competency > Disability > Children
+Criminal Law & Procedure > ... > Standards of 
+Review > Abuse of Discretion > Witnesses
+HN3 [ ]  Standards of Review, Abuse of Discretion
+The appellate court reviews a preserved statutory claim 
+regarding competence of a child witness for an abuse of 
+discretion. A court abuses its discretion when its decision is 
+manifestly arbitrary, unreasonable, or unfair, or is based on a 
+misapplication of the law.
+
+Page 2 of 13
+Criminal Law & Procedure > ... > Standards of 
+Review > Plain Error > Definition of Plain Error
+HN4 [ ]  Plain Error, Definition of Plain Error
+Plain error is error that is obvious and that so undermined the 
+fundamental fairness of the trial itself as to cast serious doubt 
+on the reliability of the judgment of conviction.
+Criminal Law & Procedure > Trials > Examination of 
+Witnesses > Child Witnesses
+Evidence > ... > Competency > Disability > Children
+HN5 [ ]  Examination of Witnesses, Child Witnesses
+A child witness isn't required to describe the assailant or the 
+underlying abuse for the trial court to make a determination that 
+the child-witness is competent to testify.
+Criminal Law & Procedure > Trials > Direct Examinations
+Evidence > Burdens of Proof > Preponderance of 
+Evidence
+Governments > Agriculture & Food > Pets & Service 
+Animals
+HN6 [ ]  Trials, Direct Examinations
+Colo. Rev. Stat. § 16-10-404 (2019) provides that a trial court 
+may, upon motion of a party or upon its own motion, order that 
+a witness's testimony be offered while a court facility dog is in 
+the courtroom during the testimony of the witness in a criminal 
+proceeding if the court makes certain findings by a 
+preponderance of the evidence.
+Constitutional Law > ... > Fundamental Rights > Criminal 
+Process > Right to Confrontation
+Criminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Confrontation
+HN7 [ ]  Criminal Process, Right to Confrontation
+The United States Constitution provides, in part, that in all 
+criminal prosecutions, the accused shall enjoy the right to be confronted with the witnesses against him, U.S. Const. amend. 
+VI. Similarly, the Colorado Constitution provides that in 
+criminal prosecutions the accused shall have the right to meet 
+the witnesses against him face to face, Colo. Const. art. II, § 16. 
+The Colorado Constitution secures identical rights as the federal 
+right to confrontation. The purpose of the confrontation clause 
+is to prevent conviction by ex parte affidavits, to sift the 
+conscience of the witness, and to test his recollection to see if 
+his story is worthy of belief.
+Constitutional Law > ... > Fundamental Rights > Criminal 
+Process > Right to Confrontation
+Criminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Confrontation
+HN8 [ ]  Criminal Process, Right to Confrontation
+The appellate court reviews a preserved Confrontation Clause 
+issue de novo.
+Constitutional Law > ... > Fundamental Rights > Criminal 
+Process > Right to Confrontation
+Criminal Law & Procedure > Trials > Defendant's 
+Rights > Right to Confrontation
+Evidence > ... > Testimony > Competency > Affirmations 
+& Oaths
+Evidence > ... > Examination > Cross-
+Examinations > Scope
+HN9 [ ]  Criminal Process, Right to Confrontation
+The right of confrontation generally requires that a witness 
+testify under oath, in open court, and face-to-face with the 
+defendant. It also requires that a witness be subject to cross-
+examination by defense counsel and that the jury have the ability 
+to observe the witness's demeanor while testifying.
+Constitutional Law > ... > Fundamental Rights > Criminal 
+Process > Right to Confrontation
+HN10 [ ]  Criminal Process, Right to Confrontation
+While satisfying a defendant's right to confront his or her 
+accuser may impose an unavoidable level of discomfort for the 
+accusing witness, the right doesn't carry with it a prohibition on 
+2021 COA 18, *18 ; 491 P.3d 438, **438 ; 2021 Colo. App. LEXIS 266, ***1
+Page 3 of 13
+mitigating discomfort nor a right to impose discomfort. Put 
+simply, easing a testifying witness's discomfort doesn't violate a 
+defendant's confrontation rights.
+Criminal Law & Procedure > ... > Standards of 
+Review > De Novo Review > Conclusions of Law
+HN11 [ ]  De Novo Review, Conclusions of Law
+Whether the trial court applied the correct legal standard is a 
+question of law that the appellate court reviews de novo.
+Evidence > Admissibility > Expert 
+Witnesses > Helpfulness
+HN12 [ ]  Expert Witnesses, Helpfulness
+Requiring a lesser showing is consistent with the Victims' Rights 
+Act, as well as the considerable latitude that appellate courts 
+afford trial judges in controlling courtroom decorum. An expert 
+witness may provide opinion testimony so long as the expert's 
+specialized knowledge will assist the jury in understanding the 
+evidence or in determining a fact in issue.
+Evidence > ... > Testimony > Expert Witnesses > Criminal 
+Proceedings
+Evidence > Admissibility > Expert Witnesses > Ultimate 
+Issue
+HN13 [ ]  Expert Witnesses, Criminal Proceedings
+An expert may not opine on a witness's credibility or that a 
+witness was telling the truth on a specific occasion. Thus, 
+experts may not offer their direct opinion on a child victim's 
+truthfulness or their opinion on whether children tend to 
+fabricate sexual abuse allegations.
+Evidence > ... > Testimony > Expert Witnesses > Criminal 
+Proceedings
+HN14 [ ]  Expert Witnesses, Criminal Proceedings
+Although expert testimony isn't permitted to bolster a victim's 
+credibility, an expert may testify concerning whether a sexual 
+assault victim's behavior or demeanor was consistent with the 
+typical behavior of victims of abuse. This type of testimony is admissible because it assists the jury in understanding a child 
+victim's behavior after the incident and explains why the victim 
+acted the way he or she did. Testimony that provides relevant 
+insight into the puzzling aspects of a child's behavior is helpful 
+and appropriate in cases of sexual abuse of children.
+Criminal Law & Procedure > Appeals > Standards of 
+Review > Abuse of Discretion
+Evidence > Admissibility > Procedural Matters > Rulings 
+on Evidence
+Criminal Law & Procedure > ... > Standards of 
+Review > Abuse of Discretion > Evidence
+HN15 [ ]  Standards of Review, Abuse of Discretion
+The appellate court reviews a trial court's ruling on the 
+admissibility of expert testimony for an abuse of discretion. A 
+trial court abuses its discretion when its decision is manifestly 
+arbitrary, unreasonable, or unfair, or based on a 
+misapprehension of the law.
+Criminal Law & Procedure > ... > Standards of 
+Review > Plain Error > Definition of Plain Error
+HN16 [ ]  Plain Error, Definition of Plain Error
+The appellate court will reverse only if the error affects the 
+substantial rights of the parties — that is, the error substantially 
+influenced the verdict or affected the fairness of the trial 
+proceedings.
+Evidence > ... > Competency > Disability > Children
+HN17 [ ]  Disability, Children
+When a hypothetical is so closely tailored to the distinctive facts 
+of the case at hand, as it was here, the question ceases to be 
+about any child and, instead, becomes a question about the 
+particular child. And when the question is, as a practical matter, 
+about the child in this case, it risks calling for an opinion of the 
+credibility of that particular child.
+Evidence > ... > Testimony > Expert Witnesses > Criminal 
+Proceedings
+2021 COA 18, *18 ; 491 P.3d 438, **438 ; 2021 Colo. App. LEXIS 266, ***1
+Page 4 of 13
+HN18 [ ]  Expert Witnesses, Criminal Proceedings
+Experts may not offer their direct opinion on a child victim's 
+truthfulness or their opinion on whether children tend to 
+fabricate sexual abuse allegations.
+Criminal Law & Procedure > Criminal 
+Offenses > Classification of Offenses > Felonies
+Criminal Law & Procedure > ... > Sexual Assault > Abuse 
+of Children > Penalties
+Criminal Law & Procedure > ... > Children & 
+Minors > Child Abuse > Penalties
+HN19 [ ]  Classification of Offenses, Felonies
+Without the pattern language, sexual assault on a child is a class 
+4 felony, Colo. Rev. Stat. § 18-3-405(1), (2) (2020).
+Headnotes/Summary
+Headnotes
+Crimes — Sexual Assault on a Child; Criminal Law — 
+Trial Proceedings — Use of a Court Facility Dog; 
+Constitutional Law — Sixth Amendment — Confrontation 
+Clause
+Syllabus
+In this criminal appeal from a conviction for sexual assault on a 
+child, a division of the court of appeals addresses an issue of 
+first impression: whether the trial court violated defendant's 
+confrontation rights when it allowed a child victim to have a 
+court facility dog at her feet while she testified during trial. On 
+appeal, defendant argues that the presence of the court facility 
+dog violated his confrontation rights because the dog's presence 
+mitigated this child victim's discomfort about naming defendant 
+as her abuser in court, lessening the reliability of her testimony.
+Because the division concludes that defendant's right to 
+confrontation doesn't carry with it right to impose discomfort 
+on an accusing witness, and because the trial court's findings 
+that all confrontation requirements were met have record 
+support, the division rejects defendant's confrontation claim. 
+Because the division also concludes that the other evidentiary 
+issues [***2]  that defendant raises on appeal don't warrant 
+reversal, the division affirms the convictions. But, because of a clerical error in the mittimus, the division remands the case for 
+the limited purpose of correcting the mittimus.
+Counsel: Philip J. Weiser, Attorney General, Grant R. Fevurly, 
+Assistant Attorney General, Denver, Colorado, for Plaintiff-
+Appellee.
+Megan A. Ring, Colorado State Public Defender, Tracy C. 
+Renner, Deputy State Public Defender, Denver, Colorado, for 
+Defendant-Appellant.
+Judges: Opinion by JUDGE WELLING. J. Jones and Gomez, 
+JJ., concur.
+Opinion by: WELLING
+Opinion
+ [**441]  [*P1]   We must determine whether the trial court 
+violated defendant Cory Collins's confrontation rights when it 
+allowed the child victim to have a court facility dog at her feet 
+while she testified during trial.
+ [*P2]  At the time of the prosecution's motion requesting a 
+court facility dog, there was no statutory guidance. But in 2019, 
+the General Assembly enacted a statute authorizing the use of 
+court facility dogs. We know of no Colorado case, however, that 
+has analyzed the defendant's argument here — that the presence 
+of the court facility dog violated his confrontation rights.
+ [*P3]  Because we conclude that Collins's right to 
+confrontation doesn't carry with [***3]  it right to impose 
+discomfort on an accusing witness, and because the trial court's 
+findings that all confrontation requirements were met have 
+record support, we reject Collins's confrontation claim. Because 
+we also conclude that the other evidentiary issues that Collins 
+raises on appeal don't warrant reversal, we affirm the 
+convictions. But, because of a clerical error in the mittimus, we 
+remand the  [**442]  case for the limited purpose of correcting 
+the mittimus.
+I. Background
+ [*P4]  Between January 2013 and November 2014, Collins 
+sexually abused T.M.1 At the time of the assaults, Collins was in 
+a romantic relationship with T.M.'s mother and lived with her 
+and T.M. T.M. was between the ages of three and five years old 
+at the time of the abuse. At the time, T.M.'s mother had 
+unstable housing and was using drugs.
+1 During the pre-trial investigation, T.M.'s name changed from T.M. to 
+E.W. She is referenced by both names in the record. For the sake of 
+consistency and simplicity, we refer to her as T.M. in this opinion.
+2021 COA 18, *18 ; 491 P.3d 438, **438 ; 2021 Colo. App. LEXIS 266, ***1
+Page 5 of 13
+ [*P5]  In September 2013, the Department of Human Services 
+(the Department) contacted T.M.'s biological father, expressing 
+concern about T.M.'s living situation with her mother. T.M.'s 
+father sought an emergency protective order to take temporary 
+custody of her. Shortly thereafter, she began living with her 
+father, his wife (T.M.'s step-mother), and their three children. 
+Eventually, T.M.'s mother's [***4]  parental rights were 
+terminated and T.M. remained in her father's custody.
+ [*P6]  Soon after T.M. moved into her father's house, her 
+father and step-mother began to suspect that she'd been sexually 
+abused when she lived with her mother. T.M. had problems 
+urinating and didn't understand the concept of privacy between 
+family members. T.M. told her father that she'd "played the S 
+game"2 (or "sex game") with someone named "Andy."
+ [*P7]  Her father reported T.M.'s disclosure of playing the "S 
+game" to police. A forensic interviewer questioned T.M. about 
+this in October 2013. T.M. didn't repeat the disclosure regarding 
+the "S game" to the interviewer. Because T.M. didn't disclose 
+any abuse, police didn't conduct an additional investigation at 
+that time.
+ [*P8]  In the spring of 2014, T.M. took off her clothes and got 
+into bed with her step-brother, who was also a child. Her father 
+and step-mother questioned T.M. about this behavior and she 
+referred to it as the "S game." T.M. went on to say that she had 
+"played the S game" with Collins. When questioned further by 
+her father and step-mother, T.M. disclosed that Collins had 
+touched her inappropriately. T.M. also told them that she didn't 
+like Collins, describing [***5]  him as "gross" and "not safe." 
+Her father and step-mother reported these disclosures to the 
+Department. But after an initial investigation, the Department 
+concluded that the allegations against Collins were unfounded.
+ [*P9]  Soon after, T.M. started seeing a counselor. T.M. told 
+her counselor that Collins had "touched her privates." Her 
+counselor, in turn, reported this to the Department.
+ [*P10]  In November 2014, a police detective interviewed T.M. 
+T.M. told the detective that Collins had touched her 
+inappropriately and was able to draw a picture of his genitals. 
+When asked if she had been touched by anyone other than 
+Collins, she said no. Based on this information, police arrested 
+Collins.
+ [*P11]  Collins was charged with two counts of sexual assault 
+on a child under age fifteen by one in a position of trust and as a 
+pattern of abuse; one count of sexual assault on a child as a 
+pattern of abuse; and one count of sexual assault on a child as a 
+pattern of abuse.
+2 T.M.'s stepmother testified that T.M. explained to her that the "S 
+game" is where "[y]ou get naked and you get under the covers." [*P12]  There were two jury trials. The first ended in a mistrial. 
+T.M. testified at both trials. Collins didn't testify. His theory of 
+defense was that although he never touched T.M. 
+inappropriately, T.M. had been sexually abused by "Andy," a 
+friend of [***6]  T.M.'s mother who, Collins argued, was a 
+known sex offender. Collins contended that T.M. was coerced 
+by her mother to accuse him — and not Andy — of touching 
+her inappropriately because her mother was angry with him. 
+Collins also argued that T.M.'s parents' and therapist's repeated 
+questioning about Collins subtly influenced T.M. to name him, 
+instead of Andy, as the person who had touched her 
+inappropriately.
+ [*P13]  The jury found Collins guilty of sexual assault on a 
+child and sexual assault on a child by one in a position of trust 
+(with an  [**443]  additional finding that T.M. was a protected 
+person because of her age).3 Collins was sentenced to an 
+indeterminate concurrent sentence of four years to life in the 
+custody of the Department of Corrections.
+II. Analysis
+ [*P14]  On appeal, Collins raises four issues. First, Collins 
+contends that the trial court abused its discretion by allowing 
+T.M. to testify, arguing that she was incompetent due to her age. 
+Second, Collins contends that the trial court deprived him of his 
+federal and state constitutional right to confrontation by 
+allowing a court facility dog (also commonly referred to as a 
+comfort or support dog) to sit at T.M.'s feet while she testified. 
+Third, [***7]  Collins contends that the trial court erred by 
+permitting the prosecutor to ask its expert witness certain 
+questions that called for the witness to improperly bolster T.M.'s 
+testimony. And fourth, Collins contends that the mittimus must 
+be amended to reflect that the pattern of abuse sentence 
+enhancer was dismissed.
+ [*P15]  We address each issue below and conclude that (1) the 
+court didn't abuse its discretion by allowing T.M. to testify; (2) 
+the court didn't violate Collins's confrontation rights by allowing 
+a court facility dog to sit at T.M.'s feet while she testified; (3) 
+although the trial court erred by permitting a prosecution expert 
+to answer certain questions, the error was harmless; and (4) the 
+case must be remanded to correct the mittimus.
+A. T.M.'s Competency to Testify
+ [*P16]  First, Collins argues that the trial court abused its 
+discretion in two regards when it found T.M. competent to 
+testify. First, he contends that the trial court erred when it 
+considered previously recorded forensic interviews of T.M. 
+while assessing T.M.'s competence to testify. And second, 
+3 Before closing argument during the second trial, the prosecution 
+moved to dismiss the pattern charges.2021 COA 18, *18 ; 491 P.3d 438, **442 ; 2021 Colo. App. LEXIS 266, ***3
+Page 6 of 13
+Collins contends that the trial court's factual findings regarding 
+T.M.'s competence aren't supported by the record and 
+its [***8]  legal conclusion isn't based on the correct legal 
+standard. We aren't persuaded.
+1. Legal Principles
+ [*P17]  HN1 [ ] Subject to certain exceptions, all persons are 
+competent to be witnesses. See § 13-90-101, C.R.S. 2020; CRE 
+601. But children under ten years of age who appear incapable 
+of "receiving just impressions" or of relating them truthfully 
+aren't legally competent and may not be called as witnesses. § 
+13-90-106(1)(a), (b)(I), C.R.S. 2020. A child under ten years of 
+age may testify, however, if "the child is able to describe or 
+relate in language appropriate for a child of that age the events 
+or facts respecting which the child is examined." § 13-90-
+106(1)(b)(II).
+ [*P18]  HN2 [ ] A trial court "has broad discretion in 
+determining how a competency hearing will be held." People v. 
+Dist. Ct., 776 P.2d 1083, 1087 n.4 (Colo. 1989) (citation omitted) 
+(indicating that a competency hearing may be held in the judge's 
+chambers if it eases the child's anxiety); see also People v. Trujillo, 
+923 P.2d 277, 281 (Colo. App. 1996) ("the manner and scope of 
+examination should be left to the sound discretion of the trial 
+court").
+ [*P19]  HN3 [ ] We review a preserved statutory claim 
+regarding competence of a child witness for an abuse of 
+discretion. People v. Wittrein, 221 P.3d 1076, 1079 (Colo. 2009); 
+People v. Dist. Ct., 791 P.2d 682, 684 (Colo. 1990). A court abuses 
+its discretion when its decision is manifestly arbitrary, 
+unreasonable, or unfair, or is based on a misapplication of the 
+law. People v. Lindsey, 2018 COA 96M, ¶ 5, 461 P.3d 553.
+2. Additional Factual Background [***9] 
+ [*P20]  Two months before the first trial, the court conducted 
+a competency hearing for T.M., then six years old. During the 
+hearing, T.M. answered questions posed by the court, the 
+prosecutor, and defense counsel. She accurately stated her age 
+and who she lives with. She told the court the names of two of 
+her teachers and her best friend. She also corrected defense 
+counsel when he misstated  [**444]  the term she uses to refer 
+to her grandfather. She explained the difference between the 
+truth and a lie and described telling the truth as "right." She said 
+that, in her house, "[y]ou get in trouble" for lying.
+ [*P21]  During the hearing, the trial court admitted recordings 
+of two forensic interviews of T.M.; one conducted in 2013, the 
+other in 2014. The prosecution introduced T.M.'s interview 
+from 2014, and Collins didn't object. Collins then introduced, 
+over the prosecution's objection, a copy of T.M.'s interview 
+from 2013. [*P22]  After watching the 2013 interview, the trial court found 
+that T.M. was able to identify her favorite colors, knew the 
+difference between a "real" bear and a toy bear, and was able to 
+identify body parts.
+ [*P23]  After watching the 2014 interview, the trial court found 
+that T.M. "was able to spell [***10]  her name, able to identify 
+other people in her house, and whether the other kids in the 
+home were older or younger." The court also found that "when 
+asked to explain why she was talking to [police], T.M. stated that 
+she was there because [Collins] touched T.M.'s privates and 
+T.M. touched [Collins's] privates." Finally, the court found that 
+during the 2014 interview, T.M. was able to relate that Collins 
+had hair around his genitals. She also demonstrated the way 
+Collins's hand moved when he touched her and how her hand 
+moved when she touched him.
+ [*P24]  In January 2016, the trial court issued a written order, 
+concluding that T.M. was competent to testify. In so ruling, the 
+court found that T.M. was "sufficiently able to relate events or 
+facts in language appropriate for a child her age." The court 
+based its ruling on its observations during the competency 
+hearing, as well as its review of the recorded forensic interviews 
+from 2013 and 2014.
+3. Analysis
+ [*P25]  First, we consider whether the trial court erred by 
+reviewing and considering the two recorded forensic interviews 
+when making its competency determination.4
+ [*P26]  Collins didn't object to the court's consideration of the 
+recorded interviews, [***11]  so we review for plain error.5 
+Hagos v. People, 288 P.3d 116, 2012 CO 63, ¶ 14. HN4 [ ] Plain 
+error is error that is obvious and that "so undermined the 
+fundamental fairness of the trial itself . . . as to cast serious 
+doubt on the reliability of the judgment of conviction." Id. 
+Collins contends that, while the trial court is granted broad 
+discretion to conduct a competency hearing, its discretion 
+4 Collins contends that the trial court violated his statutory and 
+constitutional confrontation rights but he doesn't explain any further. 
+This constitutional argument isn't adequately developed so we won't 
+address it. See C.A.R. 28(a)(7)(B); see also People v. Simpson, 93 P.3d 551, 
+555 (Colo. App. 2003) (declining to address a "bald legal proposition" 
+that isn't developed with supporting argument).
+5 As noted above, after the 2014 interview was admitted without 
+objection at the prosecutor's request, the 2013 interview was admitted 
+at Collins's request. The Attorney General contends that by requesting 
+that the court admit the 2013 interview, Collins invited or waived the 
+error that he advances on appeal. Collins disagrees. Because we 
+conclude that the trial court didn't err (much less plainly err) by 
+admitting and considering the forensic interviews, we don't need to 
+resolve the issue of whether the alleged error was invited or waived.
+2021 COA 18, *18 ; 491 P.3d 438, **443 ; 2021 Colo. App. LEXIS 266, ***7
+Page 7 of 13
+applies only to the hearing itself, not to recordings taken earlier. 
+He also contends, relying on People v. Dist. Ct., 776 P.2d at 1087, 
+that the trial court shouldn't have considered the recordings 
+because competence at the time of the recordings isn't relevant 
+to competency at the time of trial. We aren't persuaded.
+ [*P27]  While it's certainly true that competence is evaluated at 
+the time of trial, when a challenge to competence is based on a 
+witness's youth or immaturity, a demonstration of competence 
+earlier is certainly relevant. Thus, the recordings of interviews of 
+T.M. from 2013 and 2014 are evidence that go directly to the 
+crux of the issue — whether T.M. could describe events about 
+which she was being questioned in age-appropriate language. See 
+People v. Vialpando, 804 P.2d 219, 224 (Colo. App. 1990). 
+Accordingly, the trial court didn't err, much less plainly err, by 
+considering T.M.'s two recorded forensic interviews — in 
+addition [***12]  to the evidence  [**445]  presented at the 
+competency hearing itself — in assessing her competence to 
+testify at trial.
+ [*P28]  Next, we turn to Collins's contention that trial court 
+erred in its application of the competency statute. For the first 
+time on appeal, Collins contends that the trial court erred 
+because (1) T.M. didn't identify Collins or describe the 
+inappropriate touching during the competency hearing and (2) 
+the record doesn't support a finding of competence. We reject 
+both contentions.
+ [*P29]  HN5 [ ] First, a child witness isn't required to 
+describe the assailant or the underlying abuse for the trial court 
+to make a determination that the child-witness is competent to 
+testify. See Trujillo, 923 P.2d at 281; cf. Kentucky v. Stincer, 482 U.S. 
+730, 741, 107 S. Ct. 2658, 96 L. Ed. 2d 631 (1987) ("[Q]uestions 
+at a competency hearing usually are limited to matters that are 
+unrelated to the basic issues of the trial." (citations omitted)). 
+T.M. didn't describe the details of the sexual abuse nor did she 
+name Collins as her abuser during the competency hearing. But 
+this was for good reason — T.M. was never asked about the 
+details of the sexual abuse because these types of questions 
+aren't required during a competency hearing. See Stincer, 482 U.S. 
+at 741. And while it's not required for a finding of competence, 
+we note that during the [***13]  recorded interviews, T.M. 
+named Collins as the person who had touched her 
+inappropriately.
+ [*P30]  Second, the record supports the trial court's finding 
+that T.M. was competent to testify. T.M.'s testimony at the 
+hearing established that she was able to correctly relate her 
+name, her age, the name of her best friend, and the names of 
+her family members. See Vialpando, 804 P.2d at 223 (the trial 
+court didn't abuse its discretion by finding a child competent to 
+testify where the child correctly related her grade in school, the 
+defendant's first name, and the date of the sexual assault, and 
+could distinguish between truth and a lie). T.M. was also able to distinguish the truth from a lie and promised to tell the truth. See 
+id.; see also Stackhouse v. People, 2015 CO 48 ¶¶ 17-18, 386 P.3d 
+440; Trujillo, 923 P.2d at 281 (child was competent after she was 
+able adequately to relate events or facts, knew the difference 
+between the truth and a lie, knew the importance of telling the 
+truth, and was able to relate sequences of events).
+ [*P31]  Thus, the record demonstrates that T.M. could 
+properly answer questions about various facets of her life and 
+that she did so in age-appropriate language. Accordingly, the 
+trial court didn't abuse its discretion by finding her competent to 
+testify at trial.
+B. Court Facility [***14]  Dog
+ [*P32]  Next, Collins contends that the trial court violated his 
+confrontation rights when it allowed a court facility dog to sit at 
+T.M.'s feet while she testified. Specifically, Collins contends that 
+the dog's presence mitigated T.M.'s discomfort about naming 
+Collins as her abuser in court, lessening the reliability of her 
+testimony and violating his state and federal confrontation 
+rights. Collins also contends that the prosecution failed to 
+demonstrate a compelling need for the presence of a court 
+facility dog that outweighed his confrontation rights. We aren't 
+persuaded.
+1. Additional Factual Background
+ [*P33]  Before the second trial, the prosecution requested that 
+a court facility dog be allowed to sit at T.M.'s feet while she 
+testified because she was anxious about testifying.6 Collins filed 
+a written objection, arguing, in part, that the use of a court 
+facility dog violated his right to confrontation because "the 
+process of confrontation necessarily requires a certain level of 
+subtle emotional  [**446]  and psychological tension between 
+the accused and the witness."
+ [*P34]  The trial court conducted a hearing at the prosecution's 
+request. The trial court found that the presence of a court 
+facility dog [***15]  didn't violate Collins's confrontation rights 
+because "confrontation is with the witness" and the court 
+facility dog didn't constitute "evidence in the case." The trial 
+court additionally found that the dog's presence would be useful 
+6 At the time of the prosecution's motion, no statutory provision 
+expressly either allowed or prohibited the use of a court facility dog. 
+Later, however, the Colorado General Assembly enacted a statute 
+authorizing the use of court facility dogs. See § 16-10-404, C.R.S. 2020; 
+Ch. 138, sec. 1, § 16-10-404, 2019 Colo. Sess. Laws 1739-40. HN6 [ ] 
+That statute provides that a trial court "may, upon motion of a party or 
+upon its own motion, order that a witness's testimony be offered while 
+a court facility dog is in the courtroom during the testimony of the 
+witness" in a criminal proceeding if the court makes certain findings by 
+a preponderance of the evidence. § 16-10-404(2)(a).
+2021 COA 18, *18 ; 491 P.3d 438, **444 ; 2021 Colo. App. LEXIS 266, ***11
+Page 8 of 13
+to the efficiency of the trial, as the court observed during the 
+first trial that T.M. "somewhat freezes and [had] a hard time 
+testifying."7 The trial court also considered the Victims' Rights 
+Act, noting that "it is the intent of the Legislature to assure that 
+all victims of and witnesses to crimes are honored and protected 
+by law enforcement agencies, prosecutors, and judges." The trial 
+court allowed T.M. to have a court facility dog — a golden 
+retriever named Tillie — sit at her feet while she testified. The 
+trial court found,
+With everything that I have I am going to allow Tillie to be 
+present. I do find that it is appropriate. I do find that there has 
+been showing that it would assist the child, in this case T.M., aka 
+E.W. for testimony. I have viewed Tillie in the courtroom in 
+other cases. She has not been a distraction. In one recent case 
+she was present with a child victim and quite frankly I 
+think she was sleeping. I didn't see nor hear her.
+(Emphasis [***16]  added.)
+ [*P35]  The court concluded,
+In this case I'm going to have Tillie come in early. She will 
+be, as much as possible, outside of the view of the jury. There will 
+be an instruction that will be given, that the jury is not to 
+make any inferences for or against either side due to Tillie's 
+presence. I do find that she is professionally trained based 
+on a curriculum — at least the documentation that shows 
+what her certification is for. She will be leashed.
+(Emphasis added.)
+ [*P36]  In order to avoid any unfair prejudice towards Collins, 
+the trial court arranged for Tillie to sit at T.M.'s feet, outside of 
+the jurors' view, while she testified.8
+2. Analysis
+a. Confrontation
+ [*P37]  HN7 [ ] The United States Constitution provides, in 
+relevant part, that "[i]n all criminal prosecutions, the accused 
+shall enjoy the right . . . to be confronted with the witnesses 
+7 The prosecution's motion noted that the court facility dog was not 
+present during T.M.'s previous testimony because no dogs were 
+available.
+8 The court proposed a jury instruction related to Tillie's presence, but 
+it was not given to the jury. The court suggested the instruction was 
+unnecessary because Tillie was out of the jurors' view. Both defense 
+counsel and the prosecutor agreed that it wasn't needed. The 
+prosecutor indicated that the instruction may "draw attention to 
+something [the jury is] likely unaware of at this time." Collins doesn't 
+challenge on appeal the court's decision not to give the instruction, nor 
+does he challenge the procedure that was employed that led to the jury 
+being unaware of the dog's presence.against him." U.S. Const. amend. VI. Similarly, the Colorado 
+Constitution provides that "[i]n criminal prosecutions the 
+accused shall have the right . . . to meet the witnesses against 
+him face to face." Colo. Const. art. II, § 16. The Colorado 
+Constitution secures identical rights as the federal right to 
+confrontation. People v. Phillips, 2012 COA 176, ¶ 56, 315 P.3d 
+136. The purpose of the confrontation clause is "to prevent 
+conviction by [e]x parte affidavits, to sift the 
+conscience [***17]  of the witness, and to test his recollection 
+to see if his story is worthy of belief." Id. at ¶ 79 (quoting People 
+v. Bastardo, 191 Colo. 521, 524, 554 P.2d 297, 300 (1976)).
+ [*P38]  Collins preserved this issue by filing a written 
+objection, arguing that the prosecution hadn't established the 
+need for a court facility dog and that the dog's presence would 
+violate his confrontation rights. HN8 [ ] We review a 
+preserved Confrontation Clause issue de novo. People v. McFee, 
+412 P.3d 848, 2016 COA 97, ¶ 28.
+ [*P39]  HN9 [ ] The right of confrontation generally requires 
+that a witness testify under oath, in open court, and face-to-face 
+with the defendant. Maryland v. Craig, 497 U.S. 836, 845-46, 110 
+S. Ct. 3157, 111 L. Ed. 2d 666  [**447]  (1990). It also requires 
+that a witness be subject to cross-examination by defense 
+counsel and that the jury have the ability to observe the 
+witness's demeanor while testifying. Id.
+ [*P40]  Every requirement of confrontation was met here. 
+T.M. testified in open court and face-to-face with Collins, she 
+took an oath prior to her testimony, she was subject to cross-
+examination by defense counsel, and the jury was able to 
+observe her demeanor while testifying. Collins doesn't dispute 
+this; rather, he focuses on T.M.'s emotional state during her 
+testimony.
+ [*P41]  Citing Coy v. Iowa, 487 U.S. 1012, 1020, 108 S. Ct. 2798, 
+101 L. Ed. 2d 857 (1988), Collins argues that Tillie's presence 
+lessened T.M.'s anxiety about testifying and violated his right to 
+confrontation because, he contends, she didn't feel [***18]  the 
+"degree of discomfort" a testifying accuser should be subject to. 
+See id. ("[C]onstitutional protections have costs."). This 
+argument fails.
+ [*P42]  We aren't persuaded that Coy informs our analysis. In 
+Coy, the Supreme Court analyzed the trial court's decision to 
+allow two child sexual assault victims to testify behind a large 
+screen that enabled the defendant "dimly to perceive the 
+witnesses, but the witnesses to see him not at all." Id. at 1014-15. 
+The Court held that the defendant's right to confrontation was 
+violated because the screen enabled the witnesses to avoid 
+viewing the defendant as they testified. Id. at 1012. In so ruling, 
+the Court reasoned that the defendant's presence "may, 
+unfortunately, upset the truthful rape victim or abused child; but 
+by the same token it may confound and undo the false accuser, 
+2021 COA 18, *18 ; 491 P.3d 438, **446 ; 2021 Colo. App. LEXIS 266, ***15
+Page 9 of 13
+or reveal the child coached by a malevolent adult." Id. at 1019.
+ [*P43]  Collins's reliance on Coy is misplaced. Coy doesn't stand 
+for the proposition that crime victims must endure stress while 
+testifying to satisfy the right to confrontation. HN10 [ ] While 
+satisfying a defendant's right to confront his or her accuser may 
+impose an unavoidable level of discomfort for the accusing 
+witness, the right doesn't carry with it a [***19]  prohibition on 
+mitigating discomfort nor a right to impose discomfort. Put 
+simply, easing a testifying witness's discomfort doesn't violate a 
+defendant's confrontation rights.
+ [*P44]  Additionally, T.M. could still physically see Collins 
+while she testified. This is unlike the child victims in Coy who 
+were entirely shielded from seeing the defendant's face. Here, 
+the trial court exercised its special care to assist a young victim 
+during her testimony, while still maintaining Collins's right to 
+confront T.M. face-to-face.
+ [*P45]  And, while no Colorado appellate court has addressed 
+whether the presence of a court facility dog violates a 
+defendant's confrontation rights, other states' courts have 
+rejected this notion. See, e.g., State v. Millis, 241 Ariz. 802, 391 
+P.3d 1225, 1233 (Ariz. Ct. App. 2017) ("In keeping with the trial 
+court's 'broad discretion' in managing trial conduct, this court 
+will not disturb a trial court's ruling regarding the use of a facility 
+dog absent an abuse of discretion." (citation omitted)); People v. 
+Spence, 212 Cal. App. 4th 478, 151 Cal. Rptr. 3d 374, 405 (Cal. 
+Ct. App. 2012) (trial court "appropriately exercised its 
+discretion" by providing a therapy dog in this exercise of 'special 
+care to protect [the witness] from undue harassment or 
+embarrassment'"); People v. Tohom, 109 A.D.3d 253, 271-73, 969 
+N.Y.S.2d 123 (N.Y. App. Div. 2013) (a dog's presence didn't 
+violate the defendant's right to confront witnesses, [***20]  
+citing the trial court's discretion to "fashion[ ] an appropriate 
+measure to address a testifying child witness's emotional or 
+psychological stress, based upon the particular needs of that 
+child"); State v. Dye, 178 Wn.2d 541, 309 P.3d 1192, 1194 (Wash. 
+Ct. App. 2013) (rejecting confrontation challenge, concluding 
+that the "trial court acted within its broad discretion when it 
+determined that . . . the facility dog provided by the prosecutor's 
+office to the victim . . . was needed in light of [the victim]'s 
+severe developmental disabilities in order for [the victim] to 
+testify adequately"). We agree with these decisions and conclude 
+that permitting a witness to testify in the presence of a comfort 
+animal doesn't violate a defendant's confrontation rights.
+ [**448]  b. Necessity
+ [*P46]  Next, Collins argues that the trial court erred by 
+allowing Tillie to accompany T.M. without first requiring a 
+showing of necessity by the prosecution. HN11 [ ] Whether 
+the trial court applied the correct legal standard is a question of law that we review de novo. People v. Triplett, 411 P.3d 1054, 
+2016 COA 87, ¶ 28.
+ [*P47]  At the time of trial, Colorado didn't have a statute 
+governing a party's request for a court facility dog. And there 
+isn't any Colorado case law addressing whether a showing of 
+necessity is required before a court authorizes the use 
+of [***21]  a court facility animal over a party's objection. 
+Courts in other jurisdictions, however, have addressed this issue.
+ [*P48]  There is a split of outside authority on whether the 
+prosecution must prove that a witness needs a specific support 
+or comfort item before the court can allow its use or presence 
+over the defense's objection. Compare State v. Dickson, 337 
+S.W.3d 733, 743 (Mo. Ct. App. 2011) (no showing of necessity 
+was required where the witness was testifying about traumatic 
+events and no reference was made to the comfort items in the 
+jury's presence), and Sperling v. State, 924 S.W.2d 722, 726 (Tex. 
+Ct. App. 1996) (no showing of necessity was required, as the 
+appellate court couldn't conclude that a comfort item 
+"constituted demonstrative evidence which engendered 
+sympathy in the minds and hearts of the jury, validated the 
+child-victim's unimpeached credibility, or deprived appellant of 
+his constitutional right of confrontation"), with Gomez v. State, 25 
+A.3d 786, 798-99 (Del. 2011) (adopting "substantial need" 
+standard, requiring the prosecution to show that the item is 
+necessary to facilitate the witness's testimony), and State v. 
+Palabay, 9 Haw. App. 414, 844 P.2d 1, 2 (Haw. Ct. App. 1992) 
+(adopting "compelling necessity" standard, requiring the 
+prosecution to show that the item is necessary to facilitate the 
+witness's testimony).
+ [*P49]  The majority of courts in other jurisdictions, however, 
+have concluded that [***22]  a finding of necessity isn't 
+required. See, e.g., People v. Chenault, 227 Cal. App. 4th 1503, 175 
+Cal. Rptr. 3d 1, 11 (Cal. Ct. App. 2014); State v. Devon D., 321 
+Conn. 656, 138 A.3d 849, 864 (Conn. 2016); Dickson, 337 
+S.W.3d at 743; Tohom, 109 A.D.3d at 266; Sperling, 924 S.W.2d at 
+726; Dye, 309 P.3d at 1199; contra Gomez, 25 A.3d at 798-99; 
+Palabay, 844 P.2d at 2; State v. Cliff, 116 Idaho 921, 782 P.2d 44, 
+45 (Idaho Ct. App. 1989); State v. Hakimi, 124 Wn. App. 15, 98 
+P.3d 809, 811 (Wash. Ct. App. 2004) (concluding that the court 
+didn't abuse its discretion where the child victim was allowed to 
+hold a doll while testifying, due to a "peculiar need find some 
+security in an otherwise insecure setting").
+ [*P50]  We are persuaded by those cases that have rejected 
+requiring the proponent of the use or presence of a comfort 
+item or animal to show necessity. HN12 [ ] Requiring a lesser 
+showing is consistent with the Victims' Rights Act, as well as the 
+considerable latitude that appellate courts afford trial judges in 
+controlling courtroom decorum. See, e.g., People v. Marquantte, 923 
+P.2d 180, 183 (Colo. App. 1995) ("A court has broad discretion 
+to determine what actions are necessary to regulate the 
+2021 COA 18, *18 ; 491 P.3d 438, **447 ; 2021 Colo. App. LEXIS 266, ***18
+Page 10 of 13
+courtroom."); People v. Angel, 790 P.2d 844, 846 (Colo. App. 
+1989) ("[A] trial court does have broad discretion to regulate its 
+courtroom and has inherent powers to preserve order and to 
+prevent interference with or obstruction of justice."). Cf. People v. 
+Whitman, 205 P.3d 371, 379 (Colo. App. 2007) ("Providing a 
+young, distracted, and emotional witness with an environment 
+designed to promote the witness's complete testimony satisfies 
+either the overriding or substantial interest standards.").
+ [*P51]  Here, the trial court found that (1) Tillie's presence 
+would assist the witness; (2) based on prior [***23]  
+interactions, Tillie wouldn't interfere with the proceedings; and 
+(3) Tillie would remain out of view of the jury and wouldn't 
+have a prejudicial impact on the jury. These findings are 
+supported by the record, and we conclude that, in the absence 
+of a statute imposing a requirement of necessity, no greater 
+showing was required.
+ [*P52]  Accordingly, the trial court didn't abuse its discretion 
+by allowing T.M. to testify with Tillie at her feet. See Tohom, 109 
+A.D.3d at 267 (a "judge conducting a public trial is empowered 
+to  [**449]  control the proceedings in whatever manner may 
+be consistent with the demands of decorum and due process").
+C. Expert Testimony
+ [*P53]  Collins next contends that the trial court erred by 
+admitting portions of an expert's testimony that, he argues, 
+improperly bolstered T.M.'s testimony.
+1. Additional Factual Background
+ [*P54]  During the trial, the prosecution presented testimony 
+by Cheryl Young, a therapist. Without objection, the court 
+accepted Young as an expert in
+￿ child sexual assault and abuse;
+￿ reactions of child victims during a sexual assault;
+￿ patterns of disclosure in outcry statements of child 
+sexual assault and abuse victims;
+￿ the forensic protocol of child sexual abuse interviews;
+￿ victim/offender [***24]  relationship dynamics;
+￿ the process of memory; and
+￿ suggestibility and factual situations where false 
+allegations and fabrications are common.
+Young didn't talk to any of the witnesses or read any of the 
+reports from this case.
+ [*P55]  Collins contends that portions of Young's testimony 
+were inadmissible in two regards. First, he contends that 
+Young's opinion that a particular pattern of disclosure isn't 
+unusual for a child was impermissible. Second, he contends that 
+Young's opinion that it would be uncommon for a child to lie 
+about having experienced a sexual assault was impermissible 
+bolstering. [*P56]  We agree that in both instances, the prosecutor's line 
+of questioning was improper, but we conclude that the trial 
+court's decision to allow Young to answer the prosecutor's 
+questions was harmless.
+2. Applicable Legal Principles
+ [*P57]  An expert witness may provide opinion testimony so 
+long as "the expert's specialized knowledge will assist the jury in 
+understanding the evidence or in determining a fact in issue." 
+People v. Mintz, 165 P.3d 829, 831 (Colo. App. 2007).
+ [*P58]  HN13 [ ] An expert may not opine on a witness's 
+credibility or that a witness was telling the truth on a specific 
+occasion. Wittrein, 221 P.3d at 1081 (citing People v. Eppens, 979 
+P.2d 14, 17 (Colo. 1999)). Thus, "experts may not offer their 
+direct opinion on a child victim's [***25]  truthfulness or their 
+opinion on whether children tend to fabricate sexual abuse 
+allegations." Id.
+ [*P59]  HN14 [ ] Although expert testimony isn't permitted 
+to bolster a victim's credibility, an expert may testify concerning 
+whether a sexual assault victim's behavior or demeanor was 
+consistent with the typical behavior of victims of abuse. People v. 
+Glasser, 293 P.3d 68, 78 (Colo. App. 2011). This type of 
+testimony is admissible because it assists the jury in 
+understanding a child victim's behavior after the incident and 
+explains why the victim acted the way he or she did. People v. 
+Relaford, 409 P.3d 490, 2016 COA 99, ¶ 28. Testimony that 
+provides relevant insight into the "puzzling" aspects of a child's 
+behavior "is helpful and appropriate in cases of sexual abuse of 
+children." Id. (quoting Whitman, 205 P.3d at 383).
+3. Standard of Review
+ [*P60]  HN15 [ ] We review a trial court's ruling on the 
+admissibility of expert testimony for an abuse of discretion. 
+Kutzly v. People, 2019 CO 55, ¶ 8, 442 P.3d 838. A trial court 
+abuses its discretion when its decision is manifestly arbitrary, 
+unreasonable, or unfair, or based on a misapprehension of the 
+law. People v. Salas, 405 P.3d 446, 2017 COA 63, ¶ 30.
+ [*P61]  Because Collins's counsel objected to Young's 
+testimony at trial, this issue is preserved, and we apply harmless 
+error review. See Hagos, ¶ 12. HN16 [ ] We will reverse only if 
+the error "affects the substantial rights of the parties" — that is, 
+the [***26]  error "substantially influenced the verdict or 
+affected the fairness of the trial proceedings." Id. (quoting Tevlin 
+v. People, 715 P.2d 338, 342 (Colo. 1986)).
+ [**450]  [*P62]   We now turn to the portions of Young's 
+testimony that Collins challenges.
+4. Pattern of Disclosure Expert Testimony
+ [*P63]  Collins contends that the trial court abused its 
+2021 COA 18, *18 ; 491 P.3d 438, **448 ; 2021 Colo. App. LEXIS 266, ***22
+Page 11 of 13
+discretion by allowing Young's opinion that a specific pattern of 
+disclosure by a child wasn't unusual. The prosecutor questioned 
+Young and elicited the following testimony:
+[Prosecutor]: Following a situation where there is [sic] 
+potentially multiple outcries leading to a forensic interview 
+where there's no disclosure, that [sic] then followed by 
+subsequent multiple outcries to a number of people, that 
+then followed by a forensic interview where there is a 
+disclosure, does that in your opinion indicate anything with respect 
+to that child's experience?
+[Defense counsel]: Objection Your Honor based on my 
+previous record.9
+THE COURT: At this time the objection is overruled, 
+again based on the record made at the bench and the 
+question that has been specifically asked.
+[Young]: So if I were thinking of a preschool or younger 
+child that there is a series of outcries or certain behaviors, a 
+formal interview where there may [***27]  not be any kind 
+of an outcry to that interviewer, followed by more outcries 
+or behaviors, I would not find that process or history unusual in 
+that age of a child where there are allegations of sexual abuse.
+(Emphasis added.)
+ [*P64]  Collins contends that the hypothetical was so closely 
+tailored to the facts of the case that Young's answer constituted 
+an improper opinion on the veracity of T.M.'s allegations. We 
+agree with Collins that the prosecutor's question was improper.
+ [*P65]  The facts at issue in the case closely match the 
+hypothetical given to Young. T.M. disclosed several times to her 
+father and step-mother, but didn't disclose when she was 
+interviewed by a police detective. But then T.M. later disclosed 
+in an interview with a different police detective.
+ [*P66]  The hypothetical therefore invited an improper 
+opinion about whether T.M.'s accusations should be believed 
+notwithstanding her disclosure pattern. It was calculated to elicit 
+an opinion that T.M.'s allegations of abuse were still reliable (i.e., 
+that she was telling the truth on a particular occasion). That isn't 
+a proper subject for expert testimony. See CRE 608(a)(1); see also 
+Venalonzo, ¶ 32 (CRE 608(a) "applies to both direct and indirect 
+implications of a child's [***28]  truthfulness"); cf. People v. 
+Cernazanu, 410 P.3d 603, 2015 COA 122, ¶ 21 (The "general 
+characteristics" of credibility that the witness testified to "were 
+not those of a class of victims who had experienced child incest, 
+sex assault, rape trauma, or the like. They were, instead, 
+9 Defense counsel had previously objected to a similar question from 
+the prosecutor, asking Young to opine on a situation in which a 
+"preschool aged child . . . crawl[ed] into bed naked with a sibling . . . ." 
+The trial court overruled the objection.'characteristics' peculiar to [the victim], which were directly 
+indicative of [the victim's] credibility, and which were relevant only 
+to ascertaining whether [the victim] was telling the truth on a 
+specific occasion." (emphasis in original)).
+ [*P67]  HN17 [ ] When a hypothetical is so closely tailored to 
+the distinctive facts of the case at hand, as it was here, the 
+question ceases to be about any child and, instead, becomes a 
+question about the particular child. Cernazanu, ¶ 21. And when 
+the question is, as a practical matter, about the child in this case, 
+it risks calling for an opinion of the credibility of that particular 
+child. Id. Indeed, the prosecutor asked Young to opine on a 
+specific child — "does that in your opinion indicate anything 
+with respect to that child's experience?" — not just any child. See 
+Venalonzo, ¶ 33; People v. Snook, 745 P.2d 647, 649 (Colo. 1987) 
+(testimony that another witness is credible on a particular 
+occasion is especially problematic where the outcome of the 
+case turns on which version [***29]  of that witness's 
+conflicting telling of events is worthy of belief).
+ [*P68]  While the question on its face was improper, Young's 
+answer rendered the court's erroneous decision to permit her to 
+ [**451]  answer harmless. Young didn't opine on which 
+disclosure was more accurate or should be believed, but simply 
+testified that it wasn't unusual for a child to engage in that 
+particular disclosure pattern. Young's testimony didn't amount 
+to an opinion that T.M. was telling the truth on a particular 
+occasion. See Venalonzo, ¶ 33; Snook 745 P.2d at 649. While the 
+prosecutor's question ran the considerable risk that it may have 
+elicited an improper answer, the answer didn't run afoul of rules 
+guiding expert opinion testimony. Thus, even though the trial 
+court erred by allowing Young to answer the improper question, 
+because the answer wasn't improper, the error was harmless.
+5. Sophistication to Lie Expert Testimony
+ [*P69]  Next, Collins contends that the court erred when it 
+allowed Young to answer the prosecutor's questions regarding a 
+child's sophistication to lie about having been sexually assaulted.
+ [*P70]  Young testified that "children lie about did they do 
+their homework, did they clean their room, did they eat the last 
+Pop-Tart that their [***30]  brother was supposed to have. Yes, 
+those are common behaviors and they are intended to avoid our 
+disappointment and avoid our disapproval." She further 
+testified, children are "not sophisticated cognitively" enough to 
+plan and calculate a lie against another person. The prosecutor 
+then elicited the following testimony:
+[Prosecutor]: Based upon your prior answer you had in 
+some ways distinguished preschool aged children from 
+other groups of children, and so my question to you was 
+that if in your opinion do children generally have the 
+sophistication to lie about having experienced sexual assault?
+2021 COA 18, *18 ; 491 P.3d 438, **450 ; 2021 Colo. App. LEXIS 266, ***26
+Page 12 of 13
+[Young]: It's kind of on their own volition independent of 
+anybody else, do they in a calculated, intentional way make 
+up a lie about — in an intentional type of way to get an 
+adult into trouble, it's a pretty sophisticated act and the vast 
+majority of preschoolers independently or on their own that would be 
+uncommon. To say that children can't be influenced or coerced into 
+making statements, that's a different set of circumstances. If we're 
+talking independently on their own they don't have that 
+cognitive sophistication and planning then I would stand 
+by that.
+(Emphasis added.)
+ [*P71]  The prosecutor's [***31]  question to Young is similar 
+to the line of questioning that was found to be improper in 
+Snook. In Snook, an expert testified that "children tend not to 
+fabricate stories of sexual abuse . . . ." Snook, 745 P.2d at 648. 
+The court concluded that the question elicited an answer from 
+the expert that amounted to improper bolstering of the victim's 
+credibility. Id. at 648-49. The court reasoned that the "jury's only 
+conceivable use of such testimony would be as support for the 
+complainant's truthful character." Id. at 649.
+ [*P72]  Similar to Snook, the prosecutor asked Young to 
+comment on whether a child was likely to fabricate sexual 
+assault. Id. HN18 [ ] Experts "may not offer their direct 
+opinion on a child victim's truthfulness or their opinion on 
+whether children tend to fabricate sexual abuse allegations." 
+Wittrein, 221 P.3d at 1081. And Young's testimony in response 
+— that lying about sexual assault to get "an adult into trouble" is 
+a "sophisticated act" that would be "uncommon" behavior for a 
+child to engage in — amounted to support for T.M.'s credibility. 
+Id. Thus, we conclude that the court erred by allowing Young to 
+answer the question posed by the prosecutor.
+ [*P73]  But the error was ultimately harmless, for three 
+reasons.
+ [*P74]  First, Young's testimony didn't directly refute [***32]  
+Collins's theory of defense. See People v. Kubuugu, 433 P.3d 1214, 
+2019 CO 9, ¶ 16 (holding that improperly admitted expert 
+testimony wasn't harmless because the expert's testimony "was 
+the only evidence that specifically refuted" the defendant's 
+exculpatory testimony). The central issue in the case was which 
+of T.M.'s disclosures the jury should believe — that she was 
+touched inappropriately by "Andy" or by Collins. Collins's 
+theory of defense was that T.M. had (1) been abused by Andy 
+and (2) then subtly coerced by the adults in her life into naming 
+Collins as her abuser. But Young's expert opinion centered on 
+whether children have the sophistication to lie about having 
+been sexually  [**452]  abused in the first place, not whether 
+they lie about the identity of the perpetrator. Indeed, during 
+cross-examination, Young made it clear she wasn't opining on 
+whether a child could be influenced but whether children can 
+craft a lie of their own volition. Simply put, Young's testimony in this regard didn't refute Collins's theory of defense.
+ [*P75]  Second, Young's testimony didn't directly refute 
+evidence from Collins's own expert. See People v. Casias, 2012 
+COA 117, ¶¶ 73-75, 312 P.3d 208 (where experts didn't directly 
+dispute one another's testimony, the case was not "sharply 
+disputed" and therefore, error [***33]  in admitting expert 
+testimony was harmless). Collins called Dr. Esplin to testify how 
+children can be influenced to wrongfully name someone as their 
+abuser. Dr. Esplin's expert opinion was not refuted by Young's 
+expert opinion.
+ [*P76]  Third, Young's testimony was brief. The trial lasted 
+four days and included the testimony of several experts. 
+Additionally, the prosecutor didn't even mention Young's 
+testimony related to children's sophistication to lie in his closing 
+argument. See Marsh v. People, 389 P.3d 100, 2017 CO 10M, ¶ 42 
+(expert testimony didn't contribute to the verdict when the 
+prosecutor didn't rely on the testimony during closing 
+argument).
+ [*P77]  Therefore, we conclude that the testimony didn't 
+"substantially influence the verdict or affected the fairness of the 
+trial proceedings." Hagos, ¶ 12. Accordingly, its admission 
+doesn't warrant reversal.
+D. Sentencing
+ [*P78]  Finally, Collins contends, for the first time on appeal, 
+that the mittimus must be amended. We agree that the case 
+must be remanded to correct the mittimus.
+ [*P79]  Prior to closing arguments in the case, the prosecution 
+moved to dismiss the pattern charges. The trial court struck the 
+pattern language from count 2 — sexual assault on a child. 
+HN19 [ ] Without the pattern language, sexual assault [***34]  
+on a child is a class 4 felony. See § 18-3-405(1), (2), C.R.S., 2020. 
+But the mittimus still includes the pattern language on count 2. 
+The mittimus must be corrected to reflect the "true nature of 
+the crime of which defendant was convicted." People v. Malloy, 
+178 P.3d 1283, 1289 (Colo. App. 2008).
+ [*P80]  Accordingly, we remand the matter to the trial court 
+with directions to correct count 2 of the mittimus to reflect a 
+conviction for sexual assault on a child under section 18-3-
+405(1), (2), a class 4 felony. See Crim. P. 36 (clerical mistakes in 
+judgments may be corrected by the court at any time).
+III. Conclusion
+ [*P81]  For the reasons set forth above, the judgment and 
+sentence are affirmed. The case is remanded for correction of 
+the mittimus.
+JUDGE J. JONES and JUDGE GOMEZ concur.
+2021 COA 18, *18 ; 491 P.3d 438, **451 ; 2021 Colo. App. LEXIS 266, ***30
+Page 13 of 13
+End of Document2021 COA 18, *18 ; 491 P.3d 438, **452 ; 2021 Colo. App. LEXIS 266, ***34

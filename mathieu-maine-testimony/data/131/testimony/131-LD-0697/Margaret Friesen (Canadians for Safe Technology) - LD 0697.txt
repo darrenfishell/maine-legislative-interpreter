@@ -1,0 +1,724 @@
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 1 of 19 
+   
+
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 2 of 19 
+  
+  
+This updated white paper  includes a proposed amendment to the Canadian Environmental Protection Act, 
+1999, and clarifies that this proposal  specifically addressed  radiofrequency electromagnetic radiation (RF -
+EMR) in Bill S -5. It is an update of the February 2022 version  of “Protect Birds, Bees and Trees: Include 
+Electromagnetic Radiation * in Canadian Environmental Protection Act  Amendments.  * Anthropogenic Non -
+ionizing Electromagnetic Radiation .”  
+The proposed range of radiofrequencies is consistent with “ Limits of Human Exposure to Radiofrequency 
+Electromagnetic Energy in the Frequency Range from 3 kHz to 300 GHz. Safety Code 6 (2015). ” Consumer and Clinical 
+Radiation Protection Bureau. Environmental and Radiation Health Services Directorate. Healthy Environments and 
+Consumer Safety Branch. Health Canada.  https://www.canada.ca/content/dam/hc -sc/migration/hc -sc/ewh -
+semt/alt_formats/pdf/consult/_2014/safety_code_6 -code_securite_6/final -finale -eng.pdf  
+The authors gratefully  acknowledge the advice and drafting o f the proposed amendments by Joseph  Castrilli , 
+Counsel, Canadian Environmental Law Association, and comments and feedback provided by David McRobert, 
+Barrister and Solicitor, Peterborough, Ontario.  
+This white paper  is a collaborative effort of Prevent Cancer Now  and Canadians for Safe Technology.   
+www.preventcancernow.ca    and  www.c4st.org   
+CORRESPONDENCE : 
+M. Sears PhD, Chairperson, Prevent Cancer Now  
+Info@PreventCancerNow.ca   
+Photo/Image credits:  
+Circles: Satellite, Smart Meter, Fibre To The Premises (PCN/C4ST) , WIRE Through The Premises (PCN/C4ST), 
+Cell Antennas (R. Freeman), Cell Towers (M. Friesen).  
+Squares: Birds (D. Desender), Bee (M. van den Berg), Trees (J. Cornell), Bear, Turtles (T. Hitch), Frog (J. 
+Cornell).  Proposed amendments to  include in  Bill S -5 
+6.1 Section 43 of the Act is amended by adding the following after the last definition in the section:  
+“radiofrequency electromagnetic radiation” means:  
+radiated  energy arising from accelerating electrical charges, having the form of electromagnetic 
+waves and a s tream of photons, and in a vacuum  travels  at the speed of light. The rate of 
+oscillation of the waves is in the range between 3 kilohertz (kHz) to 300 gig ahertz (GHz), which 
+corresponds to the frequency of the non -sinusoidal radio waves typically used in radio 
+communications.  
+7 Section 44 of the Act is amended by adding the following after subsection (4):  
+Radiofrequency electromagnetic radiation  
+(5) The Ministers shall conduct research or studies relating to radiofrequency electromagnetic radiation, 
+methods related to its detection, methods to determine its actual or likely short -term or long -term effect 
+on the environment and human health, and preventive , control and abatement measures to deal with it, 
+and alternatives to it s use , to protect the environment and human health.  
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 3 of 19 
+ Modernizing  the Canadian Environmental Protection Act and  
+Ensuring the “Right to a Healthy Environment ” Must Address  
+Anthropogenic† Radiofrequency  Electromagnetic Radiation‡ (RF-EMR)  
+(“wireless radiation ”) 
+Highlights  
+• Flora and fauna, including insects and birds, can be affected  adversely by  radiofrequency  electromagnetic 
+radiation (RF -EMR) used for wireless telecommunications  (“wireless radiation”) . Species ’ collapse lends 
+urgency  to assess ment  and environmental protect ion from anthropogenic † RF-EMR . Canadian assessment 
+and regulation focuses solely on human health.   
+• Unlike toxic substances, RF-EMR from modern technologies is not addressed as a  risk to the environment 
+under the Canadian Environmenta l Protection Act (CEPA ), or other national  laws.  
+• Health Canada ’s Safety Code 6  “Limits  for human exposu re to radiofrequency  electromagnetic energy ” 
+guideline s are implemented by Innovation, Science a nd Economic Development (ISED) to protect humans 
+from  “established ,” adverse effects, specifically nerve stimulation  at lower frequencies  and over -heating  
+of tissue  at frequencies for telecommunications . 
+• In other species, b iological effects of wireless  radiation  have been identified  in all tax a that were 
+adequately studied. Effects have been  observed  at ambient and low-intensity levels  of exposure , such as  
+from  Wi-Fi and cell towers (base stations)  at a distance .  
+• The dramatic worldwide decline of populations of birds, insects and other biota  makes this an urgent 
+issue . According to scientists who specialize in this field, exposure to wireless radiation at ambient levels 
+may well be a co-factor , along with pesticides , habitat loss  and climate change . 
+• The rollout of novel technologies is increasing wireless radiation levels, as well as introducing frequencies 
+and modulations  not previously  used .  
+• Increasing numbers of  structures with multiple cellular network antennas (specifically designed to emit 
+RF-EMR) are being installed across Canada, in urban , rural and wilderness areas. These antennas will 
+support the operation of hundreds of thousands additional  small er antennas (e.g., 4G, 5G) being mounted 
+on non-tower structures (e.g., street furniture, buildings, lamp -posts and other utility poles). At the same 
+time, tens of thousands more telecommunications satellites are being launched  to emit RF -EMR .  
+• Wireless radiation is clearly an environmental agent that is potentially  harmful, as a pollutant . Exposure to 
+wireless radiation has serious implications for  biodiversity and ecosystem health . 
+• Cumulative  and synergistic effects may occur with wireless radiation plus chemical substances.  
+• We believe that the solution is for the federal government to begin  to systematically regulate 
+anthropogenic  RF-EMR under provisions in an amended Canadian Environmental Protection Act . Such 
+an approach will both modernize the Act and further support the key goal to establish a  “Right to a 
+Healthy Environment” in CEPA.  
+Protect fauna and flora, as well as human health,  by amending the Canadian Environmental 
+Protection Act, 1999  to address  current gaps in the regulatory regime,  by making  
+anthropogenic radiofrequency  electromagnetic radiation  (RF-EMR or “wireless radiation”) subject 
+to research and  regulation  (see page 2) . 
+† Anthropogenic : originating from  human activity .  
+‡ Radiofrequency Electromagnetic Radiation : see facing page (page 2) for definitions.  
+ 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 4 of 19 
+ Contents  
+Highlights  ................................ ................................ ................................ ................................ .........................  3 
+1 Background  ................................ ................................ ................................ ................................ ...............  5 
+2 The Canadian Environmental Protection Act (CEPA) is the Logical Law for Regulating Anthropogenic 
+Radiofrequency Electromagnetic Radiation (RF -EMR)  ................................ ................................ ....................  6 
+2.1 Environment and Climate Change Canada is Not Engaged; Health Canada is Not Required to Consult
+  ................................ ................................ ................................ ................................ ...........................  6 
+2.2 History of Engagement regarding the Canadian Environmental Protection Act, 1999  .....................  7 
+2.3 Increasing Levels of Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR) Emissions 
+Have Been Accelerating Over Recent Decades  ................................ ................................ ...........................  8 
+2.4 Anthropogenic Non -ionizing Electromagnetic Radiation Can Cause Adverse Biological Effects at Low 
+Intensity Levels  ................................ ................................ ................................ ................................ ..........  10 
+3 Current Concerns  ................................ ................................ ................................ ................................ .... 10 
+3.1 A Tipping Point?  ................................ ................................ ................................ ...............................  10 
+3.2 Electromagnet ic Radiofrequency Radiation (RF -EMR) as a Factor in the Decline of Bird and Insect 
+Populations  ................................ ................................ ................................ ................................ ................  11 
+3.3 Non -ionizing Electromagnetic Radiation and Chemical Substances Can Act Additively or Synergistically    
+  ................................ ................................ ................................ ................................ .........................  12 
+3.4 Unlike Toxic Substances and Ultraviolet Light, Radiofrequency Electromagnetic Radiation (RF -EMR) 
+from M odern Technologies is not Addressed as a Potential Risk to Environmental Health in Canada  .... 13 
+3.5 Climate Change and Broader Environmental Implications  ................................ ..............................  14 
+3.6 Safer Alternatives for Telecommunications: Fibre Optic and Wired Connections  ..........................  14 
+4 The Solution – Regulate Anthropogenic Electromagnetic Radiofrequency Radiation (RF -EMR) under 
+provisions in an amended Canadian Environmental Protection Act  ................................ .............................  15 
+4.1 A Protective Law to Address Effects on Environmental and Human Health  ................................ ... 15 
+4.2 Radiofrequency Electromagnetic Radiation (RF -EMF) as a Pollutant, and Closing the Gap  ............  15 
+Appen dix. Reference list, with extracts, for Figure 2.  ................................ ................................ ...................  16 
+ 
+  
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 5 of 19 
+ 1 Background  
+Canadian society relies heavily on wireless communications . This requires extensive infrastructure  of large cell 
+towers (base stations) and smaller antennas  (on buildings , utility poles  and other structures ) to enable 
+communications with wireless devices  used by individuals, businesses and a diverse range of organi zations . In 
+addition to the existing infrastructure, more and more new cellular antennas, big and small,  are being 
+installed and are emitting  increasing levels of radiofrequency  electromagnetic  (“wireless”) radiation into the 
+environment.  
+Radiofrequency  is a non-ionizing range of electromagnetic radiation.  Unlike the well -recognized direct 
+molecular damage  from  high -energy photons of ionizing radiation  (e.g. , x-rays) , the lower -energy photons of 
+non-ionizing radiation have  been portrayed as  harmless at doses that do not cause excessive heating of tissue.  
+There is convincing evidence , however,  that ongoing, lower intensities of wireless radiation can cause 
+biological effects  via other mechanisms , with serious implications  for biodiversity and  ecosystem health.   
+Health Canada  guidance (Safety Code 6) addresses  human exposure to radiofrequency  electromagnetic 
+radiation  (RF-EMR) , and compliance with Safety Code 6 is  enforced by the Ministry of Innovation, Science and 
+Economic Development (ISED) via Administrative Monetary Penalties.1 No Canadian policy or law is intended 
+to protect  non-human species  from radiofrequency radiation . As described in Section 3.4  below, ISED 
+regulations and criteria for devices, e quipment and antenna -siting for cell tower s all reference S afety Code 6 , 
+intending to protect people  but not other  biota. ISED references the Canadian Environmental Protection Act, 
+1999  (CEPA), whereas CEPA is silent on this topic.  
+It is well documented in peer -reviewed scientific literature , however,  that wireless radiation used in 
+telecommunications can cause  harmful biological effects , at ambient levels . An extensive, authoritative 
+review published in 2021  stated :2 
+Biological effects have been seen broadly across all taxa and frequencies at vanishingly low intensities 
+comparable to today's ambient exposures. Broad wildlife effects have been seen on orientation and 
+migration, food fin ding, reproduction, mating, nest and den building, territorial maintenance and 
+defense, and longevity and survivorship. Cyto - and geno -toxic effects have been observed .  
+Wireless radiation  on its own, or acting additively or synergistically  with chemical substances, can damage 
+living tissues and genetic material, and cause inflammation, dysfunction, cancers and other effects.3,4,5  
+ 
+1 Government of Canada. (2018) Compliance and Enforcement. https://www.ic.gc.ca/eic/site/smt -gst.nsf/eng/h_sf10951.html . 
+2 Levitt, B. B., Lai, H.C. & Manville, A.M. (2021). Effects  of Non -Ionizing Electromagnetic Fields on Flora and Fauna, Part 1. 
+Rising Ambient EMF Levels in the Environment . Reviews on Environmental Health . https://doi.org/10.1515/reveh -2021 -
+0026 . 
+Levitt, B. B ., Lai, H.C. & Manville, A.M. (2021). Effects of Non -Ionizing Electromagnetic Fields on Flora and Fauna. Part 2 
+Impacts: How Species Interact with Natural and Man -Made EMF . Reviews on Environmental Health . 
+https://doi.org/10.1515/reveh -2021 -0050 . 
+Levitt, B. B., Lai, H.C. & Manville, A.M. (2021). Effects of Non -Ionizing Electromagnetic Fields on Flora and Fauna, Part 3. 
+Exposure Standards, Public Policy, L aws, and Future Directions.  Reviews on Environmental Health . 
+https://doi.org/10.1515/reveh -2021 -0083 . 
+3 Lai, H. (2021). Genetic Effects of Non -Ionizing Electromagnetic Fields.  Electromagnetic Biology and Medicine  40, no. 2: 264 –
+73. https://doi.org/10.1080/15368378.2021.1881866 .  
+4 Miller, A.B., Sears, M .E., Morgan L.L., Davis D.L., Hardell, L., Oremus M. & Soskolne C.L. (2019). Risks to Heal th and Well -Being 
+From Radio -Frequency Radiation Emitted by Cell Phones and Other Wireless Devices. Frontiers in Public Health  7. 
+https://doi.org/10.3389/fpubh.2019.00223 . 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 6 of 19 
+ 2 The Canadian Environmental Protection Act  (CEPA ) is the Logical  Law for Regulating  
+Anthropogenic Radiofrequency Electromagnetic Radiation  (RF-EMR)  
+In our view, t he Canadian Environmental Protection Act  (CEPA )6 is the most  logical, effective statute for 
+assess ment  and regulation of  this rapidly increasing  environmental agent . Bill S -5 Strengthening 
+Environmental Protection for a Healthier Canada Act ,7 introduced in the Senate on February 9th, 2022 , is an 
+opportunity to enact  specific legislative provisions and enabling legislation to promulgate regulations that can 
+be used to assess and regulate  the increasing amounts of anthropogenic RF-EMR emitted  by wireless 
+telecommunications  devices and infrastructure . Of relevance , safer non -wireless alternative 
+telecommunication technologies  using  fibre and wired connections are also faster, and more secure, reliable, 
+resilient and energy efficient ,8 making these technologies the climate -wise options.  
+2.1 Environmen t and Climate Change Canada is N ot Engaged ; Health Canada is N ot Required to 
+Consult  
+The mandate of Environment and Climate Change Canada ( ECCC ) is to be  “the lead department for a wide 
+range of environmental issues” and includes “minimizing threats to Canadians and the ir environment from 
+pollution.”9 That said, ECCC has no  responsibility or  program  to monitor, assess and protect the biosphere 
+from anthropogenic RF-EMR  generated and used in telecommunications. In October 2021, ECCC  confirmed in 
+a response to a n Environm ental Petition to the Auditor General10 that,  
+“Environment and Climate Change Canada is not conducting research and monitoring activities on 
+the potential impact of radiofrequency/microwave radiation exposure to biota to inform Health 
+Canada or other regu latory organizations.”  Furthermore, ECCC  “is not examining energy and 
+resources implications to sustainability and climate change from the use of vario us alternative 
+technologies for telecommunications.”  
+In response to the same petition, in reference to doubled exposure limits for frequencies to be used for 5G, 
+Health Canada stated  that there is no legislative requirement for public notice and it  is not required to consult 
+Canadians regarding “interpretati on” of radiation exposure limits  from wire less devices and infrastructure. 
+New interpretations are expected  with the burgeoning “ Internet of Things ” and dense deployment of 4G/5G 
+antennas in close proximity to living spaces . The petition response also stat ed that ISED (not the scientific 
+authority) invited comment to improve  the new standard , following publication in the Gazette.  
+ 
+5 Falcioni, L., Bua, L., Tibaldi, E., Lauriola, M., De Angelis, L., Gnudi, F., Mandrioli D., et al. (2018). Report of Final Results 
+Regarding Brain and Heart Tumors in Sprague -Dawley Rats Exposed from Prenatal Life  until Natural Death to Mobile Phone 
+Radiofrequency Field Representative of a 1.8 GHz GSM Base Station Environmental Emission . Environmental Research . 
+https://doi.org/10.1016/j.envr es.2018.01.037 .   
+6 Government of Canada. Canadian Environmental Protection Act, 1999 . https://laws -lois.justice.gc.ca/eng/acts/c -15.31/   
+7 Government of Canada. (February 9, 2022). Bill S -5, Strengthening Environmental Protection for a Healthier Canada  Act. 
+https://www.canada.ca/en/services/environment/pollution -waste -management/strengthening -canadian -environmental -
+protection -act-1999/bill -c-28-strengthenin g-environmental -protection -healthier -canada -act-summary -amendments.html   
+8 Schoechle, T. (2018 ). Re -Inventing Wires: The Future of  Landlines and Networks.  National Institute for Science, Law & Public 
+Policy Washington, DC , 2018, 156. http://electromagnetichealth.org/wp -content/uploads/2018/05/Wires.pdf . 
+9 Environment and Climate Change Canada’s Mandate . https://www.canada.ca/en/environment -climate -
+change/corporate/mandate.html   
+10 Petition 456. (2021). The Government of Canada’s rigour and transparency in evaluating the science regarding localized 
+exposures to 5G technologies in its up date of Safety Code 6 . https://www.oag -
+bvg.gc.ca/internet/English/pet_456_e_43873.html ; Petition and government responses available at: 
+https://preventcancernow.ca/wp -content/uploads/2022/02/5G -Petition -and-Government -Response.pdf   
+ 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 7 of 19 
+ 2.2 History of Engagement re garding  the Canadian Environmental Protection Act , 1999  
+In March 2016, the new federal Liberal government led by Prime Minister Justin Trudeau fulfilled an election 
+commitment to modernize CEPA by delegating to the Standing Committee on Environment and Sustainable 
+Development (ENVI) the task of undertaking a 15 -month comprehensive review of CEPA.  
+Five briefs submitted to the Standing Committee addressed biological harms associated with non-ionizing 
+electromagnetic radiation  used for wireless connectivity , and recommended inclusion in CEPA . 
+1. Prevent Cancer Now, C hemical Sensitivities Manitoba, National Network on Environments and 
+Women’s Health. https://preventcancernow.ca/submiss ions/canadian -environmental -protection -act-
+cepa -review -controlling -toxic -substances/   
+2. Canadians for Safe Technology . https://c4st.org/wp -
+cont ent/uploads/docs/GovRelations/Fed/CEPA/C4ST_CEPA_Brief_9_December_2016.pdf  
+3. Environmental Health Association of Manitoba . https://c4st.org/wp -
+conten t/uploads/docs/GovRelations/Fed/CEPA/EHAMB_CEPA_brief_Dec_2016.pdf  
+4. Magda Havas, PhD, Professor and Research Scientist, Trent University . 
+https://www.ourcommons.ca/content/Committee/421/ENVI/Brief/BR8708953/br -
+external/HavasMagda -e.pdf   
+5. Margaret Friesen , MSc . 
+https://www.ourcommons.ca/content/Committee/421/ENVI/Brief/BR8708951/br -
+external/FriesenMargaret -e.pdf  
+ 
+In June 2017, the Standing Committee submitted its fina l report, Healthy Environment, Healthy Canadians, 
+Healthy Economy: Strengthening the Canadian Environmental Protection Act, 1999  11 to the House of 
+Commons . The report included 87 recommendations such as: recognizing a right to a healthy environment, 
+enhancing considerations of vulnerable populations, addressing cumulative impacts of substances, banning 
+carcinogens and endocrine -disrupting chemicals (EDCs), strengthening transparency and public participation, 
+improving the National Polluta nt Release Inventory, establishing a more transparent assessment process for 
+new living modified organisms, adopting a reverse -onus  approach for substances of very high concern, adding 
+a definition of “vulnerable populatio ns,” and requiring investigations into effects  of substances  on vulnerable 
+populations as well as cumulative and synergistic effects  of multiple toxicants .   
+Recommendation 62  addr essed electromagnetic radiation:  
+The Committee recommends that … Environment and Climate Change Canada conduct  studies on the 
+effects of electromagnetic radiation on biota … and report their findings back to the Committee.   
+A complete response to the Standing Committee was published in June 2018,12 with the Minister of the 
+Environment and Climate Change committing  to “work towards legislative amendments as soon as possible in 
+future Parliamentary sessions. ” Included in the report was the following commitment:   
+Environment and Climate Change Canada  is reviewing the scientific evidence provided to the 
+Committee on the effects of electromagnetic radiation on biota.13 
+ 
+11 http://www.ourcommons.ca/Content/Committee/421/ENVI/Reports/RP9037962/envirp08/envirp08 -e.pdf   
+12 ECCC, Follow -Up Report to the House of Commons Standing Committee on Environment and Sustainable Development on 
+the Canadian Environmental Protection Act, 1999 , June 28, 2018.  
+13 https://www.canada.ca/en/environment -climate -change/ser vices/canadian -environmental -protection -act-
+registry/review/standing -committee -report -cepa -2018/chapter -1.html   
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 8 of 19 
+ No review by ECCC  has been made public , and with the response to Petition 456, we now know that there is 
+no plan to do so .  
+As detailed below, scientific evidence since the 2016  Standing Committee submissions  clearly demonstrates  
+that anthropogenic RF-EMR  can be harmful to biota, and that this can have consequential cascading effects 
+on biodiversity and ecosystem health . Flora and fauna  should be protected;  there is currently a gap in the 
+Canadian  risk assessment and  regulatory regime  with regards to this  environmental toxicant . Inclusion of  
+anthropogenic  RF-EMR  in CEPA c ould rectify this serious gap.  
+Mandate letters  from Canadian Prime Minister Justin Trudeau to both the Minister of Health and the Minister 
+of Environment and Climate Change tabled in Decemb er 201914 included the expectation “to better protect 
+people and the environment from toxins and other pollution, including by strengthening the  Canadian 
+Environmental Protection Act, 1999 .”  
+The 2019 mandate letters did not , however,  include express requirements for the Ministers to address the 
+effects of anthropogenic RF -EMR  on biota as part of their work.  Similarly,  the 2021 mandate letters15 failed to 
+acknowledge the importance of addressing this key issue.  
+2.3 Increasing Levels of Anthropo genic Radiofrequency  Electromagnetic Radiation (RF-EMR) 
+Emissions  Have Been  Accel erating  Over Recent Decades  
+Ambient levels of wireless radiation continue to increase. There are currently tens of thousands of cell 
+tower s16 across Canada. The number  of cellular network antennas is increasing rapidly , as they are  installed 
+on new and existing structures in urban, r ural and wilderness areas.  These can support the operation of 
+hundreds of thousands more small 4G/5G antennas being mounted on non -tower structures (e.g., street 
+furniture, buildings, lamp -posts and other utility poles). Of additional concern is the introd uction of novel 
+technologies that use frequencies and modulations not previously widely used outdoors. At the same time, 
+tens of thousands more telecommunications satellites are being launched  to transmit RF -EMR .17 
+The medical journal The Lancet  published a concise summary of increases in radiation for wireless 
+communications, mounting to many -fold greater levels than the natural background.18 Figure 1, reproduced 
+with permission, illustrates how instantaneous exposures have mounted from the 1950s, through the 1980s 
+and during the 2010s.  
+Note that the scales are logarithmic – each increment is a 1,000 -fold increase. At 1 GHz, within a commonly 
+used frequency range for cell tower antenna emissions, the levels in some areas had increased up to a 
+quintillion t imes natural background levels (a quintillion is 1 with 18 zeros).  
+  
+ 
+14 Prime Minister of Canada. Archived Mandate Letters. https://pm.gc.ca/en/all -archived -mandate -letters   
+15 Prime Minister of Canada. Mandate Letters 2021 . https://pm.gc.ca/en/mandate -letters   
+16 SCADACORE. Canadian Cell Tower Map . (2022) https://www.scadacore.com/tools/rf -path/cell -tower -map -canada/   
+17 Hecht, J. (2021). Will Satellites Cripple Ground -Based Astronomy? Optics & Photonics News , May 2021 . https://www.optica -
+opn.org/home/articles/volume_32/may_2021/features/will_satellites_cripple_ground -based_astronomy/   
+18 Bandara, P & Carpenter,  D.O.  (2018). Planetary Electromagnetic Pollution: It Is Time to Assess Its Impact. The Lancet 
+Planetary Health  2, no. 12: e512 –14. https://doi.org/10.1016/S2542 -5196(18)30221 -3. 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 9 of 19 
+ Figure 1.  Typical maximum daily exposure to radiofrequency electromagnetic radiation (RF-EMF) from man -
+made and natural power flux densities in comparison with International Commission on Non -Ionizing 
+Radiation Protection  (ICNIRP)  safety guidelines . Reproduced , with permission , from Bandara, P & 
+Carpenter,  D.O.  (2018). The Lancet Planetary Health 2, no. 12: e512 –14. https://doi.org/10.1016/S2542 -
+5196(18)30221 -3. 
+ 
+[Canada’s guidance is marginally lower for some frequencies .] 
+ 
+  
+
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 10 of 19 
+ 2.4 Anthropogenic Non -ionizing Electromagnetic Radiation  Can Cause Adverse Biological Effects  
+at Low Intensity Levels  
+Non -ionizing electromagnetic radiation , which includes RF -EMR,  is lower energy than ionizing radiation (e.g., 
+x-rays) and by definition does not carry sufficient energy to remove an electron from an atom. Early  animal 
+and human experimentation  led to the hypothesis (favoured by industry, a nd implemented by Health Canada)  
+that only excessive heating may cause biological harms (“thermal effects”). Evidence, presented here and in 
+hundreds of peer -reviewed publications, demonstrates that RF-EMR  can cause harm at exceedingly  low 
+exposure levels. A few of the mechanisms and harmful effects that have been demonstrated in the laboratory 
+and measured in various organisms include oxidative stress, cellular and DNA damage  (including in 
+insects) ,19,20,21 and effects on receptor proteins22 and channels  through cellular membranes23 with exposure to 
+purportedly safe intensities of c ommon frequencies.  These effects may impact function and viability of 
+organisms, and lead to cancers.3,4,5 
+Non -ionizing radiation is a broad swath of the electromagnetic spectrum, from extremely low-frequency 
+Schumann resonance  of the earth,  through anthropogenic radiation associated with a wide range of 
+technologies, and also  that received from the sun , such as naturally occurring infrared, visible and ultraviolet 
+light (on the nominal borderline of ionizing radiation). Global protection from ultraviolet light is implemented 
+via CEPA , with restriction of atmospheric ozone -depleting substances  (ozone absorbs  solar  ultraviolet light) .  
+All b iota evolved in an environment with much  lower intensity natural RF-EMR , because the Earth’ s 
+atmosphere blocks much of this type of radiation. With  the addition of anthropogenic RF-EMR , peak levels 
+today can be more than trillions of times higher than historically (Figure 1).  
+3 Current Concerns  
+3.1 A Tipping Point?  
+Whether or not we sense electromagnetic radiation , electromagnetic interactions are intrinsic in  living 
+tissues . Effects may be central to life processes , occurring at the level of cellular membranes,24 impacting 
+nerves and diverse chemical reactions  within cells . As well, t he ce lls of all  life form s normally  communicate 
+within and  among themselves  with  exquisitely low-intensity  electromagnetic  and chemical signaling . Ambient 
+ 
+19 Blank, M., & Goodman, R.M. (2012). Electromagnetic Fields and Health: DNA -Based Dosimetry.  Electromagnetic Biology and 
+Medicine  31, no. 4: 243 –49. https://doi.org/10.3109/15368378.2011.624662 . 
+20 Yakymenko, I., Tsybulin O., Sidorik  E., Diane Henshel, Kyrylenko  O., and Kyrylenko  S. (2016). Oxidative Mechanisms of 
+Biological Activity of Low -Intensity Radiofrequency Radiation . Electromagnetic Biology and Medicine  35, no. 2:186 –202. 
+https://doi.org/10.3109/15368378.2015.1043557 . 
+21 Panagopoulos, D.J. Comparing DNA Damage Induced by Mobile Telephony and Other Types of Man -Made Electromagnetic 
+Fields . (2019) . Mutation Research/Reviews in Mutatio n Research  781:53 –62. https://doi.org/10.1016/j.mrrev.2019.03.003 . 
+22 Ertilav, K., Uslusoy, F., Ataizi S., & Nazıroğlu, M. (2018). Long Term Exposure to Cell Phone Frequencies (900 and 1800  MHz) 
+Induces Apoptosis, Mitochondrial Oxidative Stress and TRPV1 Channel Activation in the Hippocampus and Dorsal Root 
+Ganglion of Rats.  Metabolic Brain Disease  33, no. 3: 753 –63. https://doi.o rg/10.1007/s11011 -017-0180 -4. 
+Çiğ, B., & Nazıroğlu, M. (2015).  Investigation of the Effects of Distance from Sources on Apoptosis, Oxidative Stress and 
+Cytosolic Calcium Accumulation via TRPV1 Channels Induced by Mobile Phones and Wi -Fi in Breast Cancer Ce lls. 
+Biochimica et Biophysica Acta (BBA) - Biomembranes , Membrane Channels and Transporters in Cancers , 1848, no. 10, Part 
+B: 2756 –65. https://doi.org/10.1016/j.bbamem.2015.02.013 . 
+23 Romanenko, S ., R. Begley, A.R. Harvey, L. Hool, and V.P. Wallace. The Interaction between Electromagnetic Fields at 
+Megahertz, Gigahertz and Terahertz Frequencies with Cells, Tissues and Organisms: Risks and Potential.  (2017) Journal 
+of The Royal Society Interface  14, no. 137. 20170585. https://doi.org/10.1098/rsif.2017.0585 . 
+24 Hughes, M. P., Kruchek E.J., Beale A.D., et al. (2021). Vm-Related Extracellular Potentials Observed in Red Blood Cells.  
+Scientific Rep orts 11, no. 1: 19446. https://doi.org/10.1038/s41598 -021-98102 -9. 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 11 of 19 
+ levels of anthropogenic RF-EMR  in some areas now exceed historical natural levels by more than trillions -fold 
+and have reached a level where it interfer es with natural signaling. I t appears that some biota (e.g., insects) 
+may have reached a “tipping point” for population -wide effects .  
+3.2 Electromagnetic Radiofrequency Radiation (RF-EMR) as a F actor in  the Decline of Bird and 
+Insect Populations  
+Many bird and insect species  are in decline worldwide. Interference with  magnetoreception for navigation 
+may be a contributing factor , as comprehensively reviewed  by Levitt et al. in three recent publications .2  
+The scientific  literature  was also systematically  reviewed at the request of the European Parliamen t.25 An 
+extract from the report  states  (emphasis added) :  
+Dielectric heating due to RF -EMF  [radiofrequency  electromagnetic fields]  exposure of biological 
+tissue is shown in all categories. … which in turn has biological effects such as a thermoregulatory 
+response. This implies that there is al ways a level of RF -EMF power density that will cause 
+biological effects,  referred to as thermal effects. Decoupling effects caused by elevated 
+temperatures and the presence of RF -EMFs within biological tissue are major issues in this field of 
+study.   
+Conce rns that anthropogenic electromagnetic radiation  may be  a factor i n the decline of insect populations 
+were  detailed  in 2021 .26 Due to insects’ size , resonance may result in greater heating, and insects have little 
+capacity to thermo -regulate. Insect declines are widely recognized to present serious ecological as well as 
+economic issues, because insects form the base of food chains, and pollination is essential for biodiversity and 
+agriculture.  
+Serious adverse effects  observed in animals and plants  in field and laboratory studies  are depicted in Figure  2, 
+at exposure levels 50 to more than 2,000 times below Health Canada’s non -occupational human exposur e 
+guideline  for radiofrequency radiation  power density  (Safety  Code 6) .27 The guideline levels range  from 2,000 
+to 10,000 mW/m2 (2 to 10 W/m2) depending upon the frequency  (off the scale of Figure 2 ). 
+ 
+25 Thielens, A. (2021). Environmental Impacts of 5G. A literature review of effects of radio -frequency electromagnetic field 
+exposu re of non -human vertebrates, invertebrates and plants . Prepared at the Request of the Panel for the Future of 
+Science and Technology (STOA) and Managed by the Scientific Foresight Unit, within the Directorate -General for 
+Parliamentary Research Services (EP RS) of the Secretariat of the European Parliament , 149. 
+https://doi.org/10.2861/318352  
+26 Balmori, A. (2021). Electromagnetic radiation as an emerging driver factor for the decline of insects . Science of The Total 
+Environment , 767, 144913. https://doi.org/10.1016/j.scitotenv.2020.144913 . 
+Friesen, M., & Havas, M. (2020). Effects of Non -ionizing Electromagnetic Pollution on Invertebrates, Including Pollinators 
+such as Honey Bees: What We Know, What We don’t Know, and What We Need to Know . In Working Landscapes. 
+Proceedings of the 12th Prairie Conservation and Endangered Species Conference, Danyluk (ed.). February 2019, Winnip eg, 
+Manitoba.  (pp. 127 –138). Critical Wildlife Habitat Program, Winnipeg, Manitoba. Retrieved from 
+http://pcesc.ca/media/45404/final -2019 -pcesc -proceedings.pdf . 
+Kumar, S., Singh, V. K., Nath, P., & Joshi, P. C. (2020). An overview of anthropogenic electromagnetic radiations as risk to 
+pollinators and pollination . Journal of Applied and Natural Science , 12(4), 675 –681. 
+https:/ /doi.org/10.31018/jans.v12i4.2420 . 
+27 Limits of Human Exposure to Radiofrequency Electromagnetic Energy in the Frequency Range from 3 kHz to 300 GHz: 
+Safety Code 6  [Health Canada, 2015] https://www.canada.ca/en/health -canada/services/publications/health -risks -
+safety/limits -human -exposure -radiofrequency -electromagnetic -energy -range -3-300. html  
+ 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 12 of 19 
+ Figure  2. Examples of b iological effects on b iota exposed to  anthropogenic radiofrequency electroma gnetic 
+radiation (RF -EMR or  “wireless radiation ) levels , 50 to more than 2,000 times  below Safety Code 6  limits 
+(2,000 - 10,000 mW/m2 depending upon the frequency ).  
+(Data from Supplemental Materials Part 2, Levitt et al. 2021,2 and primary literature , listed in the Appendix.)   
+ 
+3.3 Non -ionizing Electromagnetic Radiation  and Chemical Substances Can Act Additively or 
+Synergistically  
+Non -ionizing electromagnetic  radiation  from communications and other infrast ructure  can be  biologically 
+active and harmful , and can interact with  toxic substances  with magnification of  harmful effects .28,29 For 
+ 
+28 Lupi, D., Palamara Mesiano, M., Adani, A., et al . (2021). Combined Effects of Pesticides and Electromagnetic -Fields on 
+Honeybees: Multi -Stress Exposure . Insects , 12(8), 716. https://doi.org/10.3390/insects12080716 .  
+
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 13 of 19 
+ example, a large 2013 review , further expanded in 2017 , summarized synergistic effects with toxicants on 
+carcinogenesis, teratogenesis, mutagenesis, inflammation and other outcomes ; amelioration of  harmful 
+effects using agents such as antioxidants (e.g. , vitamin C); and use of radiofrequency radiation  to enhance 
+therapeutic effectiveness.30  
+3.4 Unlike Toxic S ubstances  and Ultraviolet Light , Radiofrequency Electromagnetic Radiation 
+(RF-EMR) from Modern T echnologies is  not A ddressed  as a Potential Risk to Environmental  
+Health in Canada  
+Guidance published by Health Canada, Limits of Human Exposure to Radiofrequency Electromagnetic Energy 
+in the Frequency Range from 3 kHz to 300 GHz: Safety Code 627 is referenced consistently  by the Government 
+of Canada ( Health Canada , and ISED ) in regulations addressing  devices or infrastructure for  
+telecommunications over the air . The Radiation Emittin g Devices Act31 and regulations32 do not mention 
+radiofrequency radiation  or telecommunications devices , although  a 2020 consultation33 undertaken by 
+Health Canada  did. Cell tower siting  Client Procedures Circular CPC -2-0-0334 stipulates that in addition to 
+requirements of the Canadian Environmental Assessment Act35 (now repealed; the Interpretation Act  would 
+require  application of the Impact Assessment Act, 201936), proponents are responsible to ensure that antenna 
+systems are installed and operated in a manner that respects the local environment and that complies with 
+other statutory requirements, such as those under the Canadi an Environmental Protection Act , 1999 , the 
+Species at Risk Act , 200237 and the Migratory Birds Convent ion Act , 1994 ,38 as applicable . None of these Acts 
+address effects  of RF-EMR  used in telecommunications .  
+RF-EMR  levels are regulated in areas that the public may access  (per Safety Code 6), but not  other locations 
+accessible  only  to flora and non-human fauna , including  airspace  where animals fly .  
+ 
+Extract : “The overall results clearly indicate that the multi -stress conditions were able to induce biochemical, physiological 
+and behavioral alterations which severely threatened bee colony survival.”  
+29 Boga, A, Emre M., Sertdemir,Y., Akillioglu K., Binokay,S., & Demirhan, O. (2015). The Effect of 900 and 1800  MHz GSM -like 
+Radiofrequency Irradiation and Nicotine Sulfate Administration on the Embryonic Development  of Xenopus Laevis.  
+Ecotoxicology and Environmental Safety  113: 378 –90. https://doi.org/10.1016/j.ecoenv.2014.12.020 . 
+30 Kostoff, R.N., & Lau C.G.Y.(2013)  Combined biological and health effects of electromagnetic fields and other agents in the 
+published literature . Technol ogical  Forecast ing and  Social Change ;80(7):1331 –49. 
+Kostoff, R. N. & Lau, C.G.Y. (2017). Modified Health Effects of Non -Ionizing Electrom agnetic Radiation Combined with Other 
+Agents Reported in the Biomedical Literature.  In Microwave Effects on DNA and Proteins , edited by Chris D. Geddes, 97 –
+157. Cham: Springer International Publishing, https://doi.org/10.1007/978 -3-319-50289 -2_4. 
+31 Government of Canada. Radiation Emitting Devices Ac t: https://lois -laws.justice.gc.ca/eng/acts/R -1/ and Radiation Emitting 
+Devices Regulations  https://lois -laws.justice.gc.ca/eng/regulations/C.R.C.,_c._1370/FullText. html   
+32 Government of Canada. Radiocommunication Regulations . https://laws -lois.justice.gc.ca/eng/regulations/sor -96-
+484/index.html   
+33 Health Canada. Consultation: Propos ed modernization of the Radiation Emitting Devices Act . 2020. 
+https://www.canada.ca/en/health -canada/programs/consultation -propos ed-modernization -radiation -devices -act.html   
+34 Industry Canada [ISED]. (2014) CPC-2-0-03 – Radiocommunication and Broadcasting Antenna Systems.  
+https://www.ic.gc.ca/eic/site/smt -gst.nsf/eng/sf08777.html   
+35 Government of Canada. Canadian Environmental Assessment Act , 2012  (repealed 2019). https://laws -
+lois.justice.gc.ca/eng/acts/C -15.21/index.html    
+36 Government of Canada. Impact Assessment Act, 2019 . https://laws -lois.justice.gc.ca/eng/acts/I -2.75/index.htm  l 
+37 Government of Canada. (2022) Species at Risk Act, 2002 . https://laws -lois.justice.gc.ca/eng/acts/S -15.3   
+38 Government of Ca nada. Migratory Birds Convention Act, 1994 . https://laws -lois.justice.gc.ca/eng/acts/M -7.01/   and 
+Regulations  https://laws -lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1035/   
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 14 of 19 
+ Interference with normal function of equipment is addressed in EMCAB -2 — Criteria for Resolution of 
+Immunity Complaints Involving Fundamental Emissions of Radiocommunications Transmitter s,39 yet 
+interference with normal functions of biota is not addressed in Canad a, to the best of our knowledge.  
+The Canadi an federal policy  gap, omitting  consideration of effects on non -human species of radiation for 
+wireless communications, parallels a similar gap in the USA. In August 2021 , the District of Columbia  Court of 
+Appeals ruled that the Federal Communications Commi ssion (FCC) — the USA regulator for  cell tower a nd 
+other wireless device radiofrequency emissions , to which Health Canada looks for guidance in setting its 
+guidelines — had ignored a substantial body of knowledge  that had been  presented in submissions:40 “The 
+Commission failed to provide a reasoned expl anation for its determination that its guidelines adequately 
+protect against the harmful effects of exposure to radiofrequency radiation unrelated to cancer.” This is not to 
+say that the C ourt agreed with FCC conclusions; merely that the FCC had acknowledg ed the issue of cancer  
+while it did not consider numerous other effects, including  effects on fauna and flora . 
+3.5 Climate Change and Broader Environmental Implications  
+Energy consumption for wireless communications is a climate issue. Overall , greenhouse gas emissions 
+related to information and communication technologies are estimated to be about 3% of global totals 
+(aviation is 2%) .41 These estimates are uncertain as they are based on yet -to-be-attained industry 
+commitments and shifts to “gree n” energy (that could divert potential capacity from other uses). 
+Nevertheless, estimates reflect a significant contribution to climate  change of digital technologies, while fibre 
+and wire connections offer many advantages, including energy efficiency.8  
+Dense deployment of additional hundreds of thousands of cell network antennas across Canada for new 
+technologies  (e.g., 5G), and the myriad other devices that manufacturers hope to sell  to Canadian consumers, 
+means that much more hardware will be manufactured . Planned obsolescence of technologies ensures 
+ongoing turnover of old for new ; devices that are no longer supported  are discarded and replaced.  As new 
+tech nology is deployed , sun-setting of  3G disproportionately affects elderly and low -income individu als,42 and 
+may affect home alarms and  medical devices, as well as navigation and aviation . Beyond risks of halting 
+support of important, functional devices, and of associated e -waste , replacement entails  petrochemical and 
+mineral resources , and associated mining and pollution.  
+3.6 Safer Alternatives  for Telecommunications : Fibre Optic and Wired C onnections  
+An assessment of telecommunications alternatives, considering “substitution” and “e ssentiality ,” would 
+reveal that use of hard (fibre and wire) connections to transmit data requires less electricity than use of 
+wireless infrastructure.  Fibre optic to the premises (FTTP) and wired  connections  through the premises 
+(WTTP) would substantially reduce RF-EMR  used for wireless technologies . Networks with  the hard  
+connections emit minimal  radiation and have the added, not insigni ficant benefits that fibre optic  connections 
+ 
+39 Government of Canada. (updated 2010). EMCAB -2 — Criteria for Resolution of Immunity Complaints Involving 
+Fund amental Emissions of Radiocommunications Transmitters. https://www.ic.gc.ca/eic/site/smt -
+gst.nsf/eng/sf01005.html   
+40 Environmental Health Trust , et al. , v. Federal Communications Co mmission and U nited States of America . (2021) Decision of 
+the Court of Appeal s, District of Columbia. 
+https://www.cadc.uscourts.g ov/internet/opinions.nsf/FB976465BF00F8BD85258730004EFDF7/$file/20 -1025 -1910111.pdf   
+41 Coma, M. (2021). Energy Policies in the Hyperconnected Era.  Wall Street International , September 29, 2021. 
+https://wsimag.com/science -and-technology/67085 -energy -policies -in-the-hyperconnected -era. 
+42 Ashworth, B. (2021). 3G service is going away next year. He re’s what that means.  https://www.wired.com/story/3g -service -
+sunset -what -it-means/ .  
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 15 of 19 
+ will always  be faster, higher bandwidth, and more secure, reliable, resilient and sustainable  than wireless 
+connections .8  
+4 The Solution – Regulate Anthropogenic Electromagnetic Radiofrequency Radiation (RF-EMR) 
+under provisions in an amended Canadian Environmental Protection Act  
+4.1 A Protective Law to Address  Effects on  Environmental and Human Health  
+Canada needs a law governing environmental hazards, exposures, risks, climate impli cations, and impacts for 
+the protection of wildlife , indeed,  all organisms , from excessive exposures to anthropogenic RF-EMR . 
+Determination of exposure limits must be transparent, based on  research,  high -quality scientific methodology 
+including systematic scientific review , and public consultation . Once established, standards for ambient levels, 
+emissions and exposures must be monitored, assessed and reported transparent ly, with en forcement of 
+emission and cumulative exposure limits .  
+4.2 Radiofrequency Electromagnetic Radiation (RF-EMF) as a Pollutant , and Closing the Gap  
+CEPA  is an Act “ respecting  pollution prevention and protection of the environment and human health in order 
+to contribute to sustainable development.”  Exposures to RF-EMR  are in open air  and indoors, as the radiation 
+may travel through  solids  such as walls and windows .  
+CEPA defines air pollution  as: “a condition of the air, arising wholly or partly from the presence in the air of any 
+substance, that directly or indirectly  endangers the health, safety or welfare of humans;  interferes with the 
+normal enjoyment of life or property;  endangers the health of animal life;  causes damage to plant life or to 
+property; or degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an 
+extent that is detrimental to its use by humans, animals or plants.”  
+Anthropogenic RF-EMR  meets all of these criteria. We propose that to close this gap in CEPA , to protect  the 
+flora and fauna in all taxa – the foundation of natural ecosystems and agriculture , as well as human health  – 
+that CEPA Section 44 be amended  to incorporate  anthropogenic RF-EMR  as a pollutant to be rigorously and 
+transparently assessed, restricted  and monitored,  with enforcement  and r emedies . Decision -making should 
+place priority on pollution prevention,  implement the principles of precaution , substitution  and essentiality , 
+consider cumulative effects, and be informed by independent scientific  evaluation  and public consultation. It 
+is expected that this would result in some frequency ranges being regulated with scientifically based  limits , 
+and regulatory processes  to protect environmental  and human  health and to ensure Canadians’ “Right to a 
+Healthy Environme nt.”  
+We have a once -in-a-generation opportunity to  
+include modern,  escalating, bioactive  radiofrequency electromagnetic radiation  (RF-EMR) in  
+Canada’s flagship legislation protecting the environment and human health.  
+ 
+Protect fauna and flora, as well as human health,  by amending the Canadian Environmental 
+Protection Act, 1999  to address current gaps in the regulatory regime,  by making  
+anthropogenic radiofrequency  electromagnetic radiation  (RF-EMR or “wireless radiation”) subject 
+to research and r egulation (see page 2).  
+  
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 16 of 19 
+ Appendix . Reference list, with extracts, for Figure  2. 
+1. Alimohammadi, I., Ashtarinezhad, A., Asl, B. M., Masruri, B., & Moghadasi, N. (2018). The effects of radiofrequency 
+radiation on mice fetus weight, length and tissues . Data in Brief , 19, 2189 –2194.  
+EXTRACT : Our results showed significant increase in fetus weight and C -R [crown -rump] length and also enlarged 
+liver, tail deformation in mice fetus in exposure group. … The outcome of this study confirms the effects of 
+radiofrequency radiation on growth parameters such as body weight, length and some tissues in mice fetuses …  
+https://doi.org/10.1016/j.dib.2018.06.107  
+ 
+2. Balmori, A. (2005). Possible Effects of Electromagnetic Fields from Phone Masts on a Population of White Stork 
+(Ciconia ciconia ). Electromagnetic Biology and Medicine , 24(2), 109 –119.  
+EXTRACT : Twelve nests (40%) located within 200  m of antennae never had chicks, while only one (3.3%) located 
+further than 300  m had no chicks. The electric field intensity was higher on nests within 200  m (2.36  ± 0.82  V/m) than 
+on nests further than 300  m (0.53  ± 0.82  V/m). Interesting behavioral observations of the white stork nesting sites 
+located within 100  m of  one or several cell site antennae were carried out. These results are compatible with the 
+possibility that microwaves are interfering with the reproduction of white storks and would corroborate the results of 
+laboratory research by other authors.  
+https://doi.org/10.1080/15368370500205472  
+ 
+3. Balmori, A. (2010 ). Mobile phone mast effects on common frog (Rana temporaria) tadpoles: the city turned into a 
+laboratory.  Electromagnetic Biology and Medicine , 29(1–2), 31 –35.  
+EXTRACT : In the exposed group (n = 70), low coordination of movements, an asynchronous growth, resulting in both 
+big and small tadpoles, and a high mortality (90%) was observed…This research may have huge implications for the 
+natural world, which is now exposed to high microwave radiation levels from a multitude of phone masts.  
+https://doi.org/10.3109/15368371003685363  
+ 
+4. Burlaka, A., Tsybulin, O., Sidorik, E., Lukin, S.,  Polishuk, V., Tsehmistrenko, S., & Yakymenko, I. (2013). Overproduction 
+of free radical species in embryonal cells exposed to low intensity radiofrequency radiation. Experimental 
+Oncology , 35(3), 219 –225.  
+EXTRACT : Conclusion: Exposure of developing quail  embryos to extremely low intensity RF -EMR of GSM 900 MHz 
+during at least one hundred and fifty -eight hours leads to a significant overproduction of free radicals/reactive 
+oxygen species and oxidative damage of DNA in embryo cells. These oxidative changes may lead to pathologies up to 
+oncogenic transformation of cells.  
+http://dspace.nuft.edu.ua/bitstream/123456789/15543/1/Burlaka%202013.pdf   
+ 
+5. Cammaerts, M. -C., Rachidi, Z., Bellens, F., & De Doncker, P. (2013). Food collection and response to pheromones in 
+an ant species exposed to electromagnetic radiation. Electromagnetic Biology and Medicine , 32(3), 315 –332.  
+EXTRACT : Under such an influence,  ants followed trails for only short distances, no longer arrived at marked areas 
+and no longer orientated themselves to a source of alarm pheromone. Also when exposed to electromagnetic waves, 
+ants became unable to return to their nest and recruit congene rs; therefore, the number of ants collecting food 
+increases only slightly and slowly. After 180 h of exposure, their colonies deteriorated. Electromagnetic radiation 
+obviously affects social insects’ behavior and physiology.  
+https://doi.org/10.3109/15368378.2012.712877  
+ 
+6. Cammaerts, M. -C., Vandenbosch, G. A. E., & Volski, V. (2014). Effect of Short -Term GSM Radiation at Representative 
+Levels in Society on a Biological Model: The Ant Myrmica sabulet i. Journal of Insect Behavior , 27(4), 514 –526.  
+EXTRACT : The ants’ orientation towards their attractive alarm pheromone statistically became of lower quality. The 
+ants still presented their trail following behavior but less efficiently. In this controversia l issue, ants could be 
+considered as possible bioindicators.  
+https://doi.org/10.1007/s10905 -014-9446 -4 
+ 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 17 of 19 
+ 7. Cammaerts, M. -C., & Johansson, O. O. (2015). Effect of man -made electromagnetic fields on common Brassicaceae 
+Lepidium sativum  (cress d’Alinois) seed germination: a preliminary replication study . Phyton , (84).  
+EXTRACT : [Exposed} seeds of Brassicaceae Lepidium sativum  (cress d’Alinois) never germinat ed…. When removed 
+from the electromagnetic field, seeds germinated normally.  
+http://hdl.handle.net/2013/ULB -DIPOT:oai:dipot.ulb.ac.be:2013/219257  
+ 
+8. Fesenko, E. E., Maka r, V. R., Novoselova, E. G., & Sadovnikov, V. B. (1999). Microwaves and cellular immunity. I. 
+Effect of whole body microwave irradiation on tumor necrosis factor production in mouse cells . Bioelectrochemistry 
+and Bioenergetics (Lausanne, Switzerland) , 49(1), 29 –35. 
+EXTRACT : Chronic irradiation of mice for 7 days produced the decreasing of TNF production in peritoneal 
+macrophages. The exposure of mice for 24 h increased the TNF production and immune proliferative response…  
+https://www.sciencedirect.com/science/article/abs/pii/S0302459899000586   
+ 
+9. Frątczak, M., Vargová, B., Tryjanowski, P., Majláth, I., Jerzak, L., Kurimský, J., … Majláthová, V. (2020). Infected Ixodes 
+ricinus ticks are attracted by electromagnetic radiation of 900 MHz.  Ticks and Tick -Borne Diseases , 11(4), 101416.  
+EXTRACT : Ticks were attracted to the irradiated area. This effect was significantly stronger for ticks infected with 
+Rickettsia spp., suggesti ng that pathogens can alter the ticks’ response to environmental stimuli. These results lead to 
+the question of whether man -made EMF may have an impact on I. ricinus  activity and, as such, be a contributing 
+factor to the ongoing changes in the distribution  of the tick and its pathogens currently observed in Europe and 
+elsewhere.  
+https://doi.org/10.1016/j.ttbdis.2020.101416  
+ 
+10. Gandhi, G., Kaur, G., & Nisar, U. (2015). A cross -sectional case control study on genetic damage in individuals 
+residing in the vicinity of a mobile phone base station . Electromagnetic Biology and Medicine , 34(4), 344 –354.  
+EXTRACT : Genetic damage parameters of DNA migration length, damage frequency (DF) and damage index were 
+significantly (p = 0.000) elevated in the sample group compared to respective values in healthy controls . 
+https://d oi.org/10.3109/15368378.2014.933349  
+ 
+11. Gulati, S., Yadav, A., Kumar, N., Kanupriya, -, Aggarwal, N. K., Kumar, R., & Gupta, R. (2016 ). Effect of GSTM1 and 
+GSTT1 Polymorphisms on Genetic Damage in Humans Populations Exposed to Radiation From Mobile Towers . 
+Archives of Environmental Contamination and Toxicology , 70(3), 615 –625.  
+EXTRACT : There was a significant increase in BMN frequency and TM value in exposed subjects (3.65 ± 2.44 and 6.63 
+± 2.32) compared with control subjects (1.23 ± 0.97 and 0.26 ± 0.27 ).  
+https://doi.org/10.1007/s00244 -015-0195 -y 
+ 
+12. Gürler, H. Ş., Bilgici, B., Akar, A. K., Tomak, L., & Bedir, A. (2014). Increased DNA oxidation (8 -OHdG) and protein 
+oxidation (AOPP) by low level electromagnetic field (2.45 GHz) in rat brain and protective effect of garlic.  
+International Journal of Radiation Biology , 90(10), 892 –896.  
+EXTRACT : Conclusions: It may be concluded that low level EMF at 2.45 GHz MWR increases the DNA damage in both 
+brain  tissues and plasma of the rats whereas it increases protein oxidation only in plasma. It may also be argued that 
+the use of garlic decreases these effects.  
+https://doi.org/10.3109/09553002.2014 .922717  
+ 
+13. Lazaro, A., Chroni, A., Tscheulin, T., Devalez, J., Matsoukas, C., & Petanidou, T. (2016). Electromagnetic radiation of 
+mobile telecommunication antennas affects the abundance and composition of wild pollinators . Journal of Insect 
+Conservation , 20(2), 315 –324.  
+EXTRACT : All pollinator groups except butterflies were affected by EMR... As EMR [electromagnetic radiation] 
+affected the abundance of several insect guilds negatively, and changed the composition of wild pollinators in natural 
+habitats, it might also have additional ecological and economic impacts on the maintenance of wild plant diversity, 
+crop production and human welfare.  
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 18 of 19 
+ https://doi.org/10.1007/s10841 -016-9868 -8 
+ 
+14. Magras, I. N., & Xenos, T. D. (1997). RF radiation -induced changes in the prenatal development of mice.  
+Bioelectromagnetics , 18(6), 455 –461.  
+EXTRACT : A progressive decrease in the number of newborns per dam was observed, which ended in irreversible 
+infert ility.  
+http://emfawareness.org/uploads/8/0/9/7/80976394/exhibit_r -62_magras_mice_study.pdf  
+ 
+15. Monselise, E. B. -I., Levkovitz, A., Gottlieb, H. E., & Kost, D. (2011). Bioassay for assessing cell stress in the vicinity of 
+radio -frequency irradiating antennas.  Journal of Environmental Monitoring , 13(7), 1890.  
+EXTRACT : The 24 h exposure … resulted in alanine accumulation in the plant cells, a  phenomenon we have previously 
+shown to be a universal stress signal… A unique biological connection has thus been made between exposure to RF -
+EMF and cell stress, in the vicinity of RF transmitting antennas.  
+https://doi.org/10.1039/c1em10031a  
+ 
+16. Novoselova, E G, Fesenko, E. E., Makar, V. R., & Sadovnikov, V. B. (1999). Microwaves and cellular immunity. II. 
+Immunostimulating effects of microwaves and naturally occ urring antioxidant nutrients . Bioelectrochemistry and 
+Bioenergetics (Lausanne, Switzerland) , 49(1), 37 –41. 
+EXTRACT : The mitogenic response in T lymphocytes increased after microwave exposure …These results demonstrate 
+that irradiation with low -power densit y microwaves stimulates the immune potential of macrophages and T cells …  
+https://doi.org/10.1016/s0302 -4598(99)00059 -8 
+ 
+17. Özsobacı, N. P., Ergün, D. D., Tunçdemir, M., & Özçelik, D. (2020). Protective Effects of Zinc on 2.45  GHz 
+Electromagnetic Radiation -Induced Oxidative Stress and Apoptosis in HEK293 Cells.  Biological Trace Element 
+Research , 194(2), 368 –378.  
+EXTRACT : Our f indings show that EMR caused oxidative stress and apoptotic activation in HEK293 cells. Zn seems to 
+have protective effects on the EMR by increasing SOD activity and bcl -2 immunopositivity, decreasing lipid 
+peroxidation and caspas -3 immunopositivity.  
+https://doi.org/10.1007/s12011 -019-01811 -6 
+ 
+18. Pesnya, D. S., & Romanovsky, A. V. (2013). Comparison of cytotoxic and genotoxic effects of plutonium -239 alpha 
+particles and mobile phone GSM 900 radiat ion in the Allium cepa  test. Mutation Research , 750(1–2), 27 –33. 
+EXTRACT : Importantly, GSM 900 mobile phone radiation increased the mitotic index, the frequency of mitotic and 
+chromosome abnormalities, and the micronucleus frequency in a time -dependent man ner. 
+https://doi.org/10.1016/j.mrgentox.2012.08.010  
+ 
+19. Tsybulin, O., Sidorik, E., Brieieva, O., Buchynska, L., Kyrylenko, S., Henshel, D., & Yakymenko, I. (2013). GSM 900 MHz 
+cellular phone r adiation can either stimulate or depress early embryogenesis in Japanese quails depending on the 
+duration of exposure.  International Journal of Radiation Biology , 89(9), 756 –763.  
+EXTRACT : The lower duration of exposure led to a significant (p < 0.001) dec rease in a level of DNA strand breaks in 
+cells of 38 -h embryos, while the higher duration of exposure resulted in a significant (p < 0.001) increase in DNA 
+damage as compared to the control. CONCLUSION: Effects of GSM 900 MHz cellular phone radiation on ea rly 
+embryogenesis can be either stimulating or deleterious depending on the duration of exposure . 
+https://doi.org/10.3109/09553002.2013.791408  
+ 
+20. Vargová, B., Kurimský, J., Cimbala, R., Kosterec, M., Majláth, I., Pipová, N., … Majlathova, V. (2017). Ticks and radio -
+frequency signals: behavioural response of ticks ( Dermacentor reticulatus ) in a 900 MHz electromagnetic field.  
+Systematic and Applied Ac arology , 22(5), 683.  
+EXTRACT : We found that exposure induces an immediate tick locomotor response manifested either in a previously 
+unreported jerking movement of the whole body or in jerking of the first pair of legs. Overall, ticks exhibited 
+Including Anthropogenic Radiofrequency Electromagnetic Radiation (RF -EMR)  in CEPA Amendments  Page 19 of 19 
+ significant ly greater movement in the presence of the RF -EMF. Significant sex differences relative to RF -EMF 
+exposure were observed in both response variables. In the presence of RF -EMF, body jerking by females was greater 
+than in males and vice versa for leg jerks.  
+https://doi.org/10.11158/saa.22.5.7  
+ 
+21. Vargová, B., Majláth, I., Kurimský, J., Cimbala, R., Kosterec, M., Tryjanowski, P., … Majláthová, V. (2018). 
+Electromagnetic radiation and behavioural response of ticks: an experimental test . Experimental and Applied 
+Acarology , 75(1), 85 –95.  
+EXTRACT : The RF -EMF exposure to 900 MHz induced a higher concentration of ticks on irradiated arm of RST 
+[radiation -shielded tube] as opposed to the RF -EMF at 5000 MHz, which c aused an escape of ticks to the shielded 
+arm… The projection of obtained results to the natural environment could help assess the risk of tick borne diseases 
+and could be a tool of preventive medicine.  
+https://doi.org/10.1007/s10493 -018-0253 -z 
+ 
+22. Waldmann -Selsam, C., Balmori -de la Puente, A., Breunig, H., & Balmori, A. (2016). Radiofrequency radiation injures 
+trees around mobile phone base stations.  The Science of the Total Environment , 572, 554 –569.  
+EXTRACT : Statistical analysis demonstrated that electromagnetic radiation from mobile phone masts is harmful for 
+trees. These results are consistent with the fact that damage afflicted on trees by mobile phone towers usually start 
+on one side, extending to the wh ole tree over time.  
+https://doi.org/10.1016/j.scitotenv.2016.08.045  
+ 
+23. Yakymenko, I., Burlaka, A., Tsybulin, I., Brieieva, I., Buchynska, L., Tsehmistrenko, I., & Chekhun, F. (2018). Oxidat ive 
+and mutagenic effects of low intensity GSM 1800  MHz microwave radiation . Experimental Oncology , 40(4), 282 –
+287.  
+EXTRACT : RESULTS: The exposure of quail embryos before and during the incubation period to low intensity GSM 
+1800  MHz has resulted in expre ssive statistically significant oxidative effects in embryonic cells, including damages of 
+DNA … Finally, the exposure resulted in a significant, almost twice, increase of embryo mortality. CONCLUSION: The 
+exposure of model biological system to low intensi ty GSM 1800  MHz MWR resulted in significant oxidative and 
+mutagenic effects in exposed cells, and thus should be recognized as a significant risk factor for living cells.  
+https://exp -oncology.com.ua/wp/wp -content/uploads/2018/12/2458.pdf  
+ 

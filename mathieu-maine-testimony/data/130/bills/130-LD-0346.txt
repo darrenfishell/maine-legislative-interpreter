@@ -1,0 +1,120 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 346
+H.P. 244 House of  Representatives, February 8, 2021
+An Act  Requiring the Use of Propane and Natural Gas Detectors
+Received by the Clerk of the House on February 4, 2021.  Referred to the Committee  on 
+Criminal Justice and  Public  Safety pursuant to Joint Rule 308.2 and ordered  printed pursuant to 
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative RECKITT of  South  Portland.
+
+Page 1 - 130LR0594(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  25 MRSA §2469 is enacted to read:
+3§2469.  Fuel gas detectors
+41.  Fuel gas detector.  As used in this section, unless the context otherwise indicates, 
+5 "fuel gas detector" means a device:
+6 A.  With an assembly that incorporates a sensor control component and an alarm 
+7 notification that detects elevations in propane, natural gas or any liquified petroleum 
+8 gas;
+9 B.  That sounds a warning alarm; and
+10 C.  That is approved or listed for the purpose specified in paragraph B by a nationally 
+11 recognized independent testing laboratory.
+12 A fuel gas detector may be battery-operated, plugged into an electrical outlet or hardwired.
+132.  Fuel gas detector required.  The building owner shall install, or cause to be 
+14 installed, in accordance with the manufacturer's requirements at least one approved fuel 
+15 gas detector in every room containing an appliance fueled by propane, natural gas or any 
+16 liquified petroleum gas in:
+17 A.  Each unit in any building of multifamily occupancy;
+18 B.  A fraternity house, sorority house or dormitory that is affiliated with an educational 
+19 facility;
+20 C.  A children's home, emergency children's shelter, children's residential care facility, 
+21 shelter for homeless children or specialized children's home as defined in Title 22, 
+22 section 8101, subsections 1, 2, 4, 4-A and 5, respectively; or 
+23 D.  A hotel, motel or inn.
+243.  Residential rental units.  In a residential rental unit occupied under the terms of a 
+25 rental agreement or under a month-to-month tenancy:
+26 A.  At the time of each occupancy, the landlord shall provide fuel gas detectors in 
+27 accordance with subsection 2 if fuel gas detectors are not already present.  Each fuel 
+28 gas detector must be in working condition.  After notification, in writing, by the tenant 
+29 of any deficiencies in a fuel gas detector, the landlord shall repair or replace the fuel 
+30 gas detector.  If the landlord did not know and had not been notified of the need to 
+31 repair or replace a fuel gas detector, the landlord's failure to repair or replace the fuel 
+32 gas detector may not be considered evidence of negligence in a subsequent civil action 
+33 arising from death, property loss or personal injury; and
+34 B.  The tenant shall keep the fuel gas detectors in working condition by keeping the 
+35 fuel gas detectors connected to the electrical service in the building or keeping charged 
+36 batteries in battery operated fuel gas detectors, by testing the fuel gas detectors 
+37 periodically and by refraining from disabling the fuel gas detectors.
+384.  Transfer of building.  A person who, after January 1, 2022, acquires by sale or 
+39 exchange a building listed in subsection 2, paragraph A shall install fuel gas detectors in 
+40 accordance with subsection 2 in the acquired building within 30 days of acquisition or 
+41 occupancy of the building, whichever is later, if fuel gas detectors in accordance with 
+Page 2 - 130LR0594(01)42 subsection 2 are not already present, and shall certify at the closing of the transaction that 
+43 fuel gas detectors will be installed.  This certification must be signed and dated by the 
+44 person acquiring the building.  A fuel gas detector must be installed in accordance with the 
+45 manufacturer's requirements at the time of installation in each area containing an appliance 
+46 fueled by propane, natural gas or liquified petroleum gas.  A person may not have a claim 
+47 for relief against a property owner, a property purchaser, an authorized agent of a property 
+48 owner or purchaser, a person in possession of real property, a closing agent or a lender for 
+49 any damages resulting from the operation, maintenance or effectiveness of a fuel gas 
+50 detector.  Violation of this subsection does not create a defect in title.
+105.  Penalties.  A person who violates this section commits a civil violation for which a 
+11 fine of not more than $500 for each violation may be adjudged.  The court may waive any 
+12 penalty or cost against a violator upon satisfactory proof that the violation was corrected 
+13 within 10 days of the issuance of a complaint.
+146.  Liability.  Nothing in this section gives rise to any action against an owner required 
+15 to comply with subsection 2 or 3 if the owner has conducted an inspection of the required 
+16 fuel gas detectors immediately after installation and has reinspected the fuel gas detectors 
+17 prior to occupancy by each new tenant, unless the owner has been given at least 24 hours' 
+18 actual notice of a defect or failure of the fuel gas detector to operate properly and has failed 
+19 to take action to correct the defect or failure.
+207.  Noninterference.  A person may not knowingly interfere with or make inoperative 
+21 any fuel gas detector required by this section, except that the owner or the agent of an owner 
+22 of a building may temporarily disconnect a fuel gas detector in a dwelling unit or common 
+23 area only for construction or rehabilitation activities when such activities are likely to 
+24 activate the fuel gas detector or make it inactive.  The fuel gas detector must be immediately 
+25 reconnected at the cessation of construction or rehabilitation activities each day, regardless 
+26 of the intent to return to construction or rehabilitation activities on succeeding days.
+27Sec. 2.  Effective date.  This Act takes effect January 1, 2022.
+28SUMMARY
+29 This bill requires the installation of fuel gas detectors to detect propane, natural gas and 
+30 liquified petroleum gas.  The requirement applies to owners of: multifamily occupancy 
+31 buildings; fraternity houses, sorority houses and dormitories that are affiliated with 
+32 educational facilities; children's homes, emergency children's shelters, children's 
+33 residential care facilities, shelters for homeless children and specialized children's homes; 
+34 and hotels, motels and inns.  The bill is modeled on the laws applicable to those same 
+35 buildings or facilities with regard to smoke detectors and carbon monoxide detectors.  The 
+36 bill provides an effective date of January 1, 2022.1
+2
+3
+4
+5
+6
+7
+8
+9

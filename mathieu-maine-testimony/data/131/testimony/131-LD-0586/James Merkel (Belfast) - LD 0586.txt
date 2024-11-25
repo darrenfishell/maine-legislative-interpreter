@@ -1,0 +1,1259 @@
+STATE OF MAINE 
+SUPREME JUDICIAL COURT 
+SITTING AS THE LAW COURT 
+Law Court Docket No. BCD-2022-48 
+UPSTREAM WATCH, et al., 
+Appellants 
+V. 
+BOARD OF ENVIRONM ENTAL PROTECTION, 
+Appellee 
+On Appeal from the Business and Consumer Court 
+Docket No. BCD-APP-2021-00009 
+BRIEF OF APPELLANT 
+UPSTREAM WATCH 
+David B. Losee, Esq., Bar No. 6500 
+DAVID B. LOSEE, LLC 
+7 Highland Avenue 
+Camden, ME 04843 
+david@loseelaw.com 
+Attorney for Upstream Watch David J. Perkins, Bar No. 3232 
+David P. Silk, Bar No. 3136 
+CURTIS THAXTER LLC 
+One Canal Plaza, Suite 1000 
+P.O. Box 7320 
+Portland, ME 04112-7320 
+dperkins@curtisthaxter.com 
+dsilk@curtisthaxter.com 
+Attorneys for Upstream Watch 
+i 
+ TABLE OF CONTENTS 
+ 
+ 
+ Page  No(s).  
+ 
+Table  of Contents  ........................................................................................................ i 
+ Table  of Authorities .................................................................................................  iii 
+ I.  STATEMENT OF THE CASE  ............................................................................. 1 
+ II.  PROCEDURAL HISTORY  ................................................................................. 2 
+ III.  STATEMENT OF FACTS
+ .............................................................................. 2 
+ 
+IV.  STATEMENT  OF ISSUES  ........................................................................... 3 
+ 
+V.  STANDARD OF REVIEW ................................................................................. 5 
+ 
+VI.  SUMMARY  OF THE ARGUMENT  .................................................................  5 
+ VII.  ARGUMENT
+ ................................................................................................. 7 
+ 
+A.  The  Board  failed  to enforce  38 M.R.S. § 590(2)(C) and 06-096 C.M.R.  
+Chapter  115, § 7(A),  which require that an applicant for an air permit  
+demonstrate  that its proposed  emissions in conjunction  with all other  
+sources , will not violate  applicable  ambient air quality  standards  ....................... 7 
+ 
+B.  Nordic’s  Air License  Application should  have  addressed  all the  
+emissions  sources  at its site ................................................................................ 10 
+ 
+C.  The  Board  failed  to fulfill  its obligation to protect water  quality   
+under  38 M.R.S. §§ 414-A(1)(A) -(C),  464(4)(F)  and the Site Law ................... 13 
+ 
+ 1. Maine’s  program  for permitting water  discharges is required  to  
+ meet  the standards  of the federal  Clean  Water  Act which include   
+ provisions  to prevent  degradation of water  quality  ....................................... 13 
+ 
+  
+ii 
+  Page  No(s).  
+ 
+ 2. The Board  failed  to comply  with 38 M.R.S. § 414– A(1)(D)  by  
+ not considering and utilizing  pollutant discharge  technology 
+ identified by Upstream  in testimony  and comments submitted to  
+ the Board  ........................................................................................................ 15 
+ D.  The  Board’s  failure  to address  the alternative  treatment  technologies 
+identified by Upstream  was both unlawful procedure  and an abuse   
+of discretion ........................................................................................................ 20 
+ 
+E.  Maine’s  clean  water  laws and regulations must be interpreted   
+in light of both the requirements and the goals  of the federal  Clean  
+Water  Act (“CWA”)  ........................................................................................... 21 
+ F.  The  Board’s  failure  to respond  to Upstream’s  comments  violated   
+06-096 C.M.R.  c. 522 § 12, an EPA requirement  for responses  to  
+Comments ........................................................................................................... 26 
+ 
+G.  The  Board  did not fulfill its obligation  under  Maine’s  statutes to  
+assure  that Nordic’s  discharge  will not harm  the water  quality  of  
+Penobscot Bay in Belfast  .................................................................................... 28 
+ 
+H.  Nordic’s project  fails to comply  with the Site Location  of  
+Development  (“SLODA”)  requirements  ............................................................ 35 
+ 
+VIII.   CONCLUSION .............................................................................................. 38 
+ 
+Certificate  of Service ............................................................................................... 40
+  
+  
+iii 
+ TABLE OF AUTHORITIES  
+ 
+ Page  No(s).  
+CASES  
+ 
+Atlantic  Salmon Federation  v. Bd. of Envtl.  Prot. ,  
+ 662 A.2d  206 (Me.  1995) .................................................................................... 33 
+ 
+Central  Maine  Power Co. v. Devereux  Marine,  Inc.,  
+ 2013  ME 37, 68 A.3d 1262  .......................................................................... 17, 21 
+ 
+Chemical  Manufacturers  Association  v. E.P.A.,   
+ 870 F.2d 177 (5th Cir. 1989)  ............................................................................... 25 
+ Citizens  Coal  Council  v. U.S. E.P.A.,   
+ 447 F.3d 879 (6
+th Cir. 2006)  ............................................................................... 25 
+ 
+City of Old Town  v. Expera Old Town,  LLC,  
+ 2021  ME 23, 249 A.3d  141 .................................................................................. 5 
+ 
+Coeur Alaska,  Inc. v. Southeast Alaska  Conservation Council ,  
+ 557 U.S. 261 (2009)  ............................................................................................ 25 
+ 
+Friends of Maine ’s Mountains  v. Bd. of Envtl . Prot. ,  
+ 2013  ME 25, 61 A.3d 689................................................................................... 20 
+ 
+Kennecott  v. U.S. E.P.A.,  
+ 780 F.2d 445 (4th Cir. 1985)  ............................................................................... 25 
+ 
+In re Maine  Motor Rate Bureau,   
+ 357 A.2d  518, 527 (Me.  1976)  ....................................................................... 5, 16 
+ 
+Mallinckrodt  US LLC v. Dept. Envtl.  Prot. ,  
+ 2014  ME 52, 90 A.3d 428................................................................................... 17 
+ Osprey  Family  Trust  v. Town  of Owls  Head ,  
+ 2016  ME 89, 141 A.3d  1114 ................................................................................ 5 
+ PUD No. 1 of Jefferson County  v. Washington  Dept.  of Ecology,   
+ 511 U.S. 700 (1994)  ............................................................................................ 24 
+iv 
+  Page  No(s).  
+ 
+Securities & Exchange  Commission  v. Chenery  Corp .,  
+ 332 U.S. 194 (1947)  ........................................................................................ 5, 16 
+ 
+United  Sav. Ass’n  of Texas  v. Timbers of Inwood Forest  Assocs.,  Ltd.,  
+ 484 U.S. 365 (1988 ) ...................................................................................... 17, 21 
+ 
+Weyerhauser  Co. v. Costle,   
+ 590 F.2d 1011  (D.C.  Cir. 1978 ) .......................................................................... 25 
+ 
+STATUTES  
+ 1 M.R.S. § 407 ......................................................................................................... 19 
+ 
+5 M.R.S. §§ 8001 -11008 ............................................................................................ 2 
+ 
+5 M.R.S. §§ 11001 –11007 ......................................................................................... 1 
+ 
+38 M.R.S. § 346 ......................................................................................................... 1 
+ 38 M.R.S. § 414-A .................................................................  1, 13-14, 17, 18, 28, 29 
+ 
+38 M.R.S. § 464 ....................................................................................... 1, 14, 23, 29 
+ 
+38 M.R.S . § 465-B ............................................................................................... 7, 21 
+ 38 M.R.S. §§ 480-A-480-JJ ....................................................................................... 1 
+ 
+38 M.R.S. §§ 481– 489-E ........................................................................................... 1 
+ 
+38 M.R.S. § 584-A. .................................................................................................... 9 
+ 
+38 M.R.S. § 590  ........................................................................................................ 1 
+ 38 M.R.S. § 591 ................................................................................................... 9, 12 
+ 
+Clean  Water  Act,  
+also known  as Federal  Water  Pollution  Control  Act of 1972,   
+ 33 U.S.C. §§ 1251,  et seq. ......................................................1,  13, 14, 19, 22, 24 
+v 
+  Page  No(s).  
+ 
+Clean  Air Act, 
+ 42 U.S.C. §§ 7401,  et. seq. ............................................................................. 7, 24 
+ 42 U.S.C. § 7475(a)(3)  .................................................................................... 9, 12 
+ 40 C.F.R. § 70.2 (Definitions)  ................................................................................. 12 
+ 40 C.F.R. § 401.12(e)  ............................................................................................... 19 
+ 
+RULES  
+ 06-096 C.M.R.  c. 2 ................................................................................................... 14 
+ 06-096 C.M.R.  c. 3 ..................................................................................................... 2 
+ 06-096 C.M.R.  c. 110 ............................................................................................... 12 
+ 
+06-096 C.M.R.  c. 115 ......................................................................................... 1, 7, 8 
+ 
+06-096 C.M.R.  c. 375 ................................................................................... 35, 36, 37 
+ 06-096 C.M.R.  c. 522 ......................................................................................... 26-27 
+ 06-096 C.M.R.  chs. 520-525 ................................................................................ 1, 14 
+ 
+06-096 C.M.R.  c. 579 ........................................................................................... 1, 14 
+ 
+06-096 C.M.R.  c. 581 ........................................................................................... 1, 14 
+ 06-096 C.M.R.  c. 582 ............................................................................................... 34 
+ 06-096 C.M.R.  c. 587 ........................................................................................... 1, 14 
+ 
+OTHER  AUTHORITIES  
+ 
+In Reading  Law:  The Interpretation  of Legal  Texts  (with  Brian  A. Garner),  
+Thompson/West (2012) ................................................................................ 17-18, 24 
+ 
+ 
+vi 
+  Page  No(s).  
+ 
+USEPA,  Technical  Development Document for the Final  Effluent   
+Limitations Guidelines  and New Source  Performance Standards for the 
+Concentrated Aquatic  Animal Production  Point Source  Category   
+(Revised  August  2004) ............................................................................................. 20 
+ 
+1 
+ I.  STATEMENT OF THE CASE  
+Appellant  Upstream  Watch  (“Upstream”)1 is appealing  three  environmental  
+permits issued by the Board  of Environmental  Protection  (the “Board”  or “BEP”) to 
+Nordic  Aquafarms  Inc. (“Nordic”)  on November  19, 2020.  Nordic,  a Norwegian  
+corporation,  proposes  to construct and operate  a land-based  recirculating  aquaculture 
+system  (RAS) salmon production facility  on the shore  of Penobscot  Bay in the City 
+of Belfast,  Maine.  The permits issued  to Nordic  include  an Air Emissions License  
+for 8 generators (the “Air Emissio n License”),  a permit for a wastewater  discharge  
+of 7.7 million gallons per day into Penobscot  Bay (the “Water  Permit ”), and a permit  
+under  the Site Location  of Development Act (“SLODA” or the “Site  Law”).  
+Upstream  was accepted  as an intervenor  in the Boar d’s Nordic  permit application  
+proceeding  and has standing  to seek review  by this Court.  Upstream  is appealing 
+under  Maine’s  Administrative  Procedure  Act (APA),  Rule  80C of the Maine  Rules  
+of Civil  Procedure  and the applicable  environmental statutes. 2 
+  
+                                                 
+1  Upstream  is a Maine  not-for-profit  corporation with a place  of business  at 67 Perkins  Road, Belfast,  
+Maine.  
+ 
+2  5 M.R.S. §§ 11001–11007;  38 M.R.S.  § 346(1).  DEP  issued  the Water  Permit  pursuant  to Maine’s  
+Pollution  Control  Law,  38 M.R.S. §§ 414-A(1)(A) –(D)  and § 464(4)(F),  and Department  of Environmental  
+Protection (“DEP”)  regulations, 06-096 C.M.R.  chs. 2, 520-525, 579, 581 and 587. These  permits  are part 
+of the “Maine Pollutant  Discharge Elimination  System”  (“MEPDES”)  established  to comply  with the 
+federal  Clean  Water  Act, 33 U.S.C. §§ 1251, et. seq. DEP  issued  the Air License  pursuant  to 38 M.R.S. § 
+590 and DEP’ s regulations,  06-096 C.M.R.  c. 115. “SLODA”  is 38 M.R.S. §§ 481–489- E. Together  with 
+the SLODA permit,  the Board  also issued  a permit  under  the Natural  Resources Protection Act (“NRPA”),  
+38 M.R.S. §§ 480-A-480-JJ.  Upstream  is not appealing the  NRPA permi t. 
+2 
+ II.  PROCEDURAL  HISTORY  
+ 
+On October  19, 2018,  Nordic  filed its application  with DEP  for an MEPDES  
+permit.  (Appendix (“A”))  at A1025  (Agency  Record  (“DI”) 0021).  On May 17, 
+2019,  Nordic  filed its Site Law permit,  and Air Emissions  License  applications.  
+A1034,  1037 (DI 0148,  0174) . On June 20, 2019,  the Board  voted to assume  original  
+jurisdiction  over Nordic’s  consolidated applications  and to hold a public  hearing.  
+A0245,  A0370,  A0413 -A0414.  The Board  effectively  acted  as the equivalent  of a 
+hearing  officer in accordance  with the APA.  5 M.R.S. §§ 8001-11008,  and 06-096 
+C.M.R.  c. 3. A0572 -A0594.  
+The Board  issued all the permits in Final  Decisions  on the same  date,  
+November  19, 2020.  Upstream  appealed all three  to the Superior  Court  on December  
+17, 2020.  A0001,  A0050 -A0110.   The Superior  Court  affirmed  the BEP’s  issuance  
+of the permits on February  23, 2022.  A0027-A0049.  Upstream  appealed  the Superior  
+Court’s  February  23, 2022,  decision on March  3, 2022.  A0017.  
+III.  STATEMENT OF FACTS  
+Nordic’s  facility  would  be powered  entirely  by electricity  provided  by Central  
+Maine  Power  and would  consist  of a back -up power  plant  comprised of 8 two-
+megawatt  generators  and smokestacks to provide  up to 14 MW of emergency  
+electrical  power,  a 20,000  sq. ft. wastewater  treatment plant,  two 336,000  sq. ft. 
+salmon grow –out tanks,  one 107,000 sq. ft. tank for smolt salmon,  a 50,000  sq. ft. 
+3 
+ fish processing  facility  and office  space  (all numbers approximate).  At close  to 
+900,000  sq. ft. total,  the facility  will be one of the largest industrial  facilities in the 
+history  of the State  of Maine.  It is projected to produce  33,000 tons of farmed  salmon 
+per year.  It would  consume  both fresh  water  at the rate of approximately  1,200  
+gallons  per minute  from  3 on-site wells, the Belfast  Water  District  and from  a local  
+reservoir,  and ocean  water  from  two 30” water  intake  pipes from  Penobscot Bay. It 
+would  discharge  7.7 million gallons  per day of wastewater  from  the fish tanks and 
+slaughterhouse  via a 36” pipe into Penobscot  Bay. A0028 -29, A0244,  A0287,  
+A0291-A0292,  A0295,  A0373,  A0375 -376, A0409 -412, A0456.    
+IV.  STATEMENT OF THE ISSUES  
+1. Did the Board  fail to comply  with the EPA’s  and DEP’s  air emissions  
+requirements by not requiring Nordic’s Air License  application  to addres s the 
+cumulative  effect  of all air emissions units from  all industrial units  proposed 
+for Nordic’s  facility  in combination with nearby  offsite  existing  emission  
+units?   
+ 
+2. Did the Board  fail to comply  with Maine’s  requirements for the prevention of 
+water  quality degradation,  38 M.R.S. §§ 414– A(1)(A) –(D), and § 464(4)(F),  
+by not setting  an effluent  limit for dissolved  nitrogen sufficient to protect  
+water  quality,  based  on valid,  current  data,  and without  requiring that Nordic  
+show  that it is capable  of meeting  that limit?  
+ 
+3. Did the Board  fail to comply  with 38 M.R.S. § 414– A(1)(D),  and abuse  its 
+discretion,  by not considering  the companies identified  by Upstream  and 
+finding  that their technology  is the best practicable  treatment,  as defined in 38 
+M.R.S. § 414– A(1)(D),  and setting an effluent  limit for nitrogen based  on that 
+technology?  
+  
+4 
+ 4.  Was the Board’s  decision to issue  the water  permit based  on unlawful  
+procedure,  because  the Board  failed  to:  
+ 
+a) Consider  the zero-discharge  technology  of the companie s identified by 
+Upstream ;  
+ 
+b)  Respond  to Upstream’s  comments,  as required  by 06-096 C.M.R. c. 522 § 
+12; 
+ 
+c)  Consult  with Upstream,  as required  by the third sentence  of 38 M.R.S. § 
+414– A(1)(D) ;  
+ 
+d) Reopen  the hearing  before  allowing Nordic  to submit revised dilution 
+modelling results;    
+ 
+e)  Require  completion of a study  to produce  data to validate  Nordic’s 
+pollutant dispersion  model before  Nordic  can commence  discharging ; 
+ f)  Require  Nordic  to demonstrate  it had adequate  power  to run its systems in 
+the event  of a power  loss; 
+ g) Consider  the normal  fluctuations  in performance  and awarded  a permit  
+based  solely  on Nordic’s  projected “best day” data; 
+ 
+h) Refrain  from  adding  to the awarded  permits conditions  requiring  hearings 
+when  no provision  exists  in Maine  law for the conduct  of such hearings;  
+and/or  
+ 
+i) Require  that Nordic’s  proposed discharge  of water  into Penobscot  Bay 
+conform  to Maine’s  law against  thermal  pollution? 
+ 
+5.   Did the Board  fail to comply  with 38 M.R.S.  §§ 481-489-E, Section 401 (33 
+U.S.C. § 1341)  of the Clean  Water  Act (“CWA ”) and 06-096 C.M.R.  chs. 
+520-525, 579, 581 and 587 (“SLODA”)  by improperly  certifying  that there 
+would  be no adverse  impacts on water  and air quality?  
+  
+5 
+ V.  STANDARD OF REVIEW  
+ 
+Where,  as here,  the Superior  Court  acted  as the intermediate  appellate  court,  
+this Court  “reviews  directly  the Board’s  decision for abuse  of discretion,  error  of 
+law, or findings  unsupported  by substantial evidence  in the record.”  City of Old 
+Town  v. Exper a Old Town,  LLC, 2021  ME 23, ¶ 13, 249 A.3d 141 (alteration and 
+quotation marks  omitted).  “Substantial evidence  exists  when a reasonable  mind  
+would  rely on that evidence  as sufficient support for a conclusion.”  Osprey  Family  
+Trust  v. Town  of Owls  Head , 2016 ME 89, ¶ 9, 141 A.3d  1114.  “[I]n  dealing  with a 
+determination or judgment  [that]  an administrative  agency  alone  is authorized  to 
+make,  a court must judge  the propriety  of such action  solely  by the grounds invoked  
+by the agency.  If those  grounds  are inade quate  or improper,  the court  is powerless  
+to affirm  the administrative  action  by substituting what  is considers to be a more  
+adequate  or proper  basis.”  In re Maine  Motor  Rate Bureau , 357 A.2d  518, 527 (Me.  
+1976)(alteration  omitted)(quoting Securities  & Exchange  Commission v. Chenery  
+Corp. , 332 U.S. 194 (1947)).  
+VI.  SUMMARY  OF THE ARGUMENT  
+The Clean  Air Act and the State  of Maine’s  implementation thereof  require 
+Nordic  to disclose  to the Board  all its proposed  on-site air pollution  emission  
+sources,  and to demonstrate  that the emission for which a permit  is sought,  in 
+conjunction  with all other  sources  at the site, will not cause  the site to exceed  the 
+6 
+ relevant ambient air quality  standards.  Nordic  disclosed only its eight  (8) generators  
+serving  its plant  and refused  to disclose  information  about  emissions from  all its 
+other  sources.  Thus,  the Board  failed  to assess properly  the project  air emissions.   
+The Board  failed  to protect water quality  as required  by 38 M.R.S. §§ 414-
+A(1)(A)-(D)  and 464(4)(F) by failing  to establish  a discharge  limit that will prevent  
+the degradation of water  quality  and by not setting  a discharge  limit based  on 
+admissible  evidence.  The Board  violated the APA,  its own procedural rules , and due 
+process  by allowing Nordic  to revise  its water  pollution  impact  analysis model which  
+demonstrated  non-compliance  with discharge  limits  after  the close  of the hearing,  
+without  allowing cross -examination or discovery,  and by setting  a discharge  limit in 
+the permit based  on that improperly  revised model.   
+The Board  was obligated to consider  and base its permit on the best 
+practicable  technology,  to consider  the minimal and zero discharge  technologies  
+introduced into the record by Upstream’s  experts,  and to respond  in writing  to 
+Upstream’s  evidence.  The Board  failed  or refused  to do so.  
+By not considering  the technologies  recommended  by Upstream’s  experts,  not 
+consulting  with Upstream,  and not responding  to Upstream’s  comment s, the Board  
+violated  Section  414– A(1)(D) and 06–096 C.M.R.  c. 522, § 12 and failed  to develop 
+permit limits that meet  statutory  requirements.  
+The Board’s  decision  violated the Site Law,  by failing to include  an 
+7 
+ affirmative finding  that Nordic’s  project  will not cause  adverse  impact  to estuarine  
+and marine  life in the receiving  waters,  38 M.R.S  § 465-B(2)(C);  A0294 -0295 
+(MEPDES  Permit,  Final  Fact Sheet  at 10-11). 
+VII.  ARGUMENT  
+ 
+A.  The Board  failed  to enforce  38 M.R.S.  § 590(2)(C)  and 06-096 C.M.R.  
+Chapt er 115, § 7(A),  which  require  that an applicant  for an air permit  
+demonstrate  that its proposed  emissions in conjunction  with all other  
+sources,  will not violate  applicable  ambient  air quality  standards.  
+ 
+Nordic  failed  to demonstrate  that the combined air emissions from  all 
+activities  on its project  site will comply  with the Clean  Air Act. 
+The federal  Clean  Air Act, 42 U.S.C.  §§ 7401,  et seq. (the “CAA”),  
+encourages  states  to gain and operate  a permitting program  under  authority  delegated  
+by EPA.  To qualify  for delegation of permitting  authority,  a state must prepare  and 
+submit for approval  a “State  Implementation Plan”  (“SIP”)  which,  if appro ved by 
+EPA,  allows the delegation of permitting authority  under  the Clean  Air Act, to the 
+qualifying state.   
+Maine  completed that process  and received  approval  of its current  SIP on 
+September  30, 2016.  The SIP is codified  at 06-096 C.M.R.  c. 115.3  Section  7(A)  of 
+Chapter  115 provides,  in pertinent  part: 
+                                                 
+3  Section  110(a)(2) of the CAA provides  that states must  include  in their SIP programs  preconstruction  
+review  of minor  sources  as necessary  to ensure  attainment  and maintenance of the ambient  air quality  
+standards.  Maine  did this through  Chapter  115 of the SLODA regulations.  
+8 
+ General  Requirement : It shall be the burden  of any applicant  to 
+provide  an affirmative  demonstration that its emissions,  in conjunction 
+with all other sources,  will not violate  applicable  ambient  air qualit y 
+standards,…   
+ 
+06-096 C.M.R.  c. 115, § 7(A)(emphasis added ). 
+ 
+Maine  elected  to adopt  the federal  ambient  air quality  standards,  so Nordic  
+had to demonstrate  that the emissions  from  its proposed  power  plant,  in combination 
+with other  sources , would  not violate  those  standards.  Nordic  did not even  attempt  
+to do so. 
+The CAA requires  that a SIP must meet  the requirements  of part C of title I of 
+the CAA requiring  preconstruction  review  and approval  of major  new stationary  
+sources of air pollution.4  
+To obtain  a license  for a major  source,  Nordic  would  have  to disclose  and 
+analyze  all its on-site emissions sources.  Nordic  asserted  that it was not a major  
+source,  rather,  it qualified  as a minor  source  regulated  not by the federal  Clean  Air 
+Act but only by the state SIP’s  minor  new source  review  program.  Therefore,  Nordic  
+argued  that it need  not disclose  and evaluate  all air pollution  emission sources  on 
+site, but only the ignition  source  to be permitted,  for industrial  emissions (“IE”) from  
+the smokestacks attac hed to the eight  generators.  Nordic’s  argument,  which  the 
+Board  accepted,  is a misreading of Chapter  115, as quoted  above.  
+                                                 
+4  CAA Section  110(a)(2)(I) (a  major  source  is one that has a potential  to emit at least 250 tons  per year  of 
+a regulated  pollutant ). 
+9 
+ Nordic  claimed  its emissions to be a minor  source  because,  although  its 
+generators have  the potential  to generate  over 250 tons of pollution  per year,  Nordic  
+agreed  to restrict  the amount  of fuel it would  purchase  for use in its generators  
+thereby  reducing  the amount  of pollution  its generators  could  emit.   This is 
+customarily  referred  to as a “synthetic  minor.”   
+The federal  Clean  Air Act5 and Maine  law6 require any new facility,  Major  or 
+Minor,  that triggers permitting apply  for a permit before  emitting any regulated  
+substance  into the air AND demonstrate  that emissions from  the facility  do not 
+exceed  the Ambient Air Quality  Standards7 facility  wide . The state can exempt  
+certain  emissions from  permit review  based  on their size or character.  Nordic  
+claimed  all its non-generator  air pollution  emitting components  were  exempt.  Since  
+Nordic  never  supplied  information on the chemical  constitu ents discharged in those  
+other  sources  or revealed  whether  the quantity  of pollutants  emitted  would  be greater 
+                                                 
+5  42 U.S.C. § 7475 (a)(3) ([T]he owner  or operator  of such facility  demonstrates,  as required pursuant to 
+section  7410(j)  of this title, that emissions from  construction or operation of such facility  will not cause,  or 
+contribute  to, air pollution  in excess of any (A) maximum allowable  increase  or maximum allowable  
+concentration  for any pollutant  in any area to which  this part applies  more  than one time per year,  (B) 
+national  ambient  air quality  standard  in any air quality  control  region, or (C) any other  applicable  emission  
+standard  or standard  of performance  under  this chapter).  
+ 
+6  Section  591 prohibits  a person  from  discharging  contaminants  into ambient  air within  a region  that will 
+violate  ambient  air quality  standards.  See 38 M.R.S.  § 591. 
+ 
+7  Maine adopted the National Ambient  Air Quality  Standard (NAAQS)  established  under  the federal  Clean  
+Air Act as its maximum air  quality  standard requirement  for ambient  air quality.  See 38 M.R.S. § 584 -A. 
+10 
+ than the exemption  limit,  there  is nothing  in the record  to support  Nordic’s  
+exemption claim.  
+B.  Nordic’s  Air License  Application  should  have  addressed  all the emissions  
+sources  at its site. 
+ 
+Nordic  applied  for an emissions license  for its proposed eight  (8) on-site 
+stationary  source  diesel operated  electric  generators,  Nordic’s  “power  plant.”  
+Nordic’s  power  plant is not the intended use for the site. It is only one of many,  many  
+integrated processes proposed  as part of this large,  cradle  to grave  fish rearing  and 
+processing  facility.  The Nordic  facility  will include:  
+• A wastewater  treatment  plant  that planned  to treat  an average  
+flow of 7.7 million  gallon  per day.  Nordic  claimed  that: the plant  
+would  be air-tight,  even  though  code  will require  minimum  
+ventilation  in areas.  Nordic  further  claimed  there  would  be no 
+exhaust  from  the chemicals,  sludges,  odor control systems,  
+biological  breakdown of wastewater,  aerated  processes,  storage,  or 
+discharge; and that there  would  be no other  stationary  or mobile  
+emissions or exhaust.  A1035  (May  17, 2019,  Nordic  SLODA  
+Application  at Section  22, Odors).  
+ 
+• A Water Treatment Plant  that must  be flexible  enough  to treat 
+any combination  of 2.2 million  gallons  per day from  surface  
+water,  city water,  and groundwater.   Nordic  claimed  that there  
+would  be no exhaust  from  the water  treatment  processes,  and 
+ancillary  facility  needs,  and all shipping  requirements,  and the entire 
+process  would  be “air-tight”;  again,  in direct  conflict  with code  
+requirements.  Nordic  claimed  that there  would  be no other  
+stationary  or mobile  emissions or exhaust.  A0469  (DI 0469,  Tab 10, 
+Test.  Cathal  Dinneen);  A1074  (DI 0653  & 0654,  Hearing  Transcrip t 
+of Cathal  Dinneen).  
+ 
+11 
+ • A slaughterhouse  that will harvest,  slaughter,  fillet,  store,  and 
+ship 200,000 pounds  of salmon  fillet  a day. Again,  Nordic  claimed  
+that the slaughterhouse  operations  would  be air-tight,  with no air 
+movement proposed to remove  the air contaminated with nitrogen  
+and sulfur -based  odorants.   The  Board  heard  no evidence  on how 
+fish and or product enters  or is removed from  an air-tight  facility,  
+and again there  was no discussion of code  ventilation  requirements.   
+Nordic  claimed  there  would  be no stationary  or mobile  emissions  or 
+exhaust  impacts emitted from  the packaging  and shipping of 
+refrigerated  trucks  that may idle continuously.  A1074  (DI 0653  & 
+0654,  Hearing  Transcript  of Steven  Whipple).  
+ 
+Nordic  never  identified  the “exempt certain  sources,”  so the Board  had no way 
+to evaluate  if those  sources were  exempt or not, and if those  sources,  in concert  with 
+the generators,  would  exceed  the ambient  air quality  standards and under  what  
+circumstances they would  do so, which  is the point  and goal of Chapter  115, Section  
+7(A).  
+Following  the staff’s  guidance,  the Board  determined  that, because  the eight   
+generators will qualify as a “synthetic  minor  source”  and because  a Chapter  115 
+permit could  exempt certain  sources  from  obtaining a permit demonstrating regional  
+ambient air quality  standard (“AAQS”)  compliance  (see EPA approved State  
+Implementation Plan (SIP) ); any AAQS  demonstration should  only focus  on the 
+eight  generator  sources  that triggered the need  for the Chapter  115 permit.  But 
+exempting  the sources  from  permitting requirements is not the same  as excluding  
+them from  the cumulative  evaluation  required  by Chapter  115, Section  7(A).   
+12 
+ The federal  Clean  Air Act8 and Maine  law9 require  any new facility  that 
+triggers  permitting BOTH apply  for a permit before  emitting any regulated substance  
+into the air and demonstrate that the facility will not exceed  the Ambient Air Quality  
+Standards10 facility  wide. EPA’s  definition  of a source  is not just a single  source  that 
+may trigger  a permit requirement  like the power  plant.  It is for a site-wide  permit for 
+the entire  facility  if under  common control  and all working  together  for a common 
+purpose.  In this case the site-wide  common purpose  is fish hatching,  rearing,  and 
+slaughter.11 
+Therefore,  the whole  facility  is subject to the Ambient  Air Quality  Standards  
+in 38 M.R.S. § 584-A. The whole  facility  is also prohibited from  exceeding  these  
+standards.  See 38 M.R.S.  § 591 and 06-096 C.M.R.  Chapter  110. Since  Nordic  did 
+not provide  any exhaust or other  air emission information,  the statements made  in 
+the recent  briefs  filed by the Board  and Nordic  in the Superior  Court,  repeated  in the 
+Board’s  finding,  that “Substantial Evidence  Supports the Board’s  Decisions 
+Granting  the Air Emission License”  cannot  be correct.  There  is no evidence  in the 
+record  to support  Nordic’s  assertion that all other  on-site sources will be 
+                                                 
+8  42 U.S.C. § 7475 (a)(3); see supra note  5.  
+ 
+9  See  supra note  6. 
+ 
+10  See  supra note  7. 
+ 
+11  40 C.F.R.  § 70.2  (Definitions).  
+13 
+ “insignificant” and thus exempt from  permittin g even  if they must always  be counted 
+toward the NAAQS.  The record  contains  only Nordic’s  unsupported  assertion s. 
+C. The Board  failed  to fulfill its obligation  to protect  water  quality  under  38 
+M.R.S.  §§ 414-A(1)(A) -(C),  464(4)(F)  and the Site Law.  
+ 
+1.  Maine’s  program  for permitting  water  discharges is required  
+to meet  the standards of the federal  Clean  Water  Act which  
+include  provisions  to prevent  degradation  of water  quality.  
+ 
+The federal  Clean  Water  Act, 33 U.S.C. §§ 1251,  et seq. (the “Act”),  was 
+enact ed in 1972,  with the goal of zero discharges of pollutants  to the waters  of the 
+United  States  after 1985.   As that goal proved  elusive,  Congress also enacted  a Clean  
+Water  Act permit program,  named  the “National  Pollutant  Discharge  Elimination  
+System ” program (the “NPDES ” program).  Under  that program,  any new discharge  
+is to be constrained by the best available  technology  and permits  issued thereunder  
+were  short in duration.  Each  new permit and each renewal  require  a new 
+demonstration that the applicant is employing the best available  technology  as of the 
+date the applicant  applies.12 Moreover,  the permits must include  discharge  limits  
+                                                 
+12  Section  414-A(1)(D) provides:  
+The discharge  will be subject  to effluent  limitations  that require  application of  the best practicable  
+treatment.  "Effluent  limitations" means any restriction  or prohibition including, but not limited  to, 
+effluent  limitations,  standar ds of performance for new sources,  toxic  effluent  standards  and other  
+discharge  criteria  regulating  rates,  quantities  and concentrations  of physical, chemical,  biological  
+and other  constituents  that are discharged  directly  or indirectly  into waters  of the State.  "Best  
+practicable treatment"  means the methods  of reduction, treatment,  control  and handling  of 
+pollutants,  including  process methods,  and the application of best conventional  pollutant  control  
+technology  or best available technology  economically  achievable,  for a category  or class of 
+discharge sources that the department  determines  are best calculated  to protect  and improve  the 
+quality  of the receiving  water  and that are consistent  with the requirements of the Federal  Water  
+ 
+14 
+ calculated  to prevent the degradation  of existing  water  quality.  38 M.R.S. §§ 414-A, 
+464(4)(F) . In that manner,  EPA presides  over a relentless  march  toward  zero 
+discharge,  the original goal of the Act.13  
+Permitting authority  under  the Act may be delegated  to any qualifying state.  
+A state qualifies by creating  a body  of statutory  and regulatory  law that implements  
+the federal  Act in a way that is no less strict than the federal  Act. Maine  received  a 
+delegation  of permitting authority  from  the EPA under  the Act on January  12, 2001.  
+Maine’s  program  is the Pollution  Control  Law,  38 M.R.S. §§ 414-A(1)(A) –(D), and 
+the antidegradation policy  in 38 M.R.S. § 464(4)(F).14 
+  
+                                                 
+Pollution  Control  Act, as amended, and published in 40 Code  of Federal  Regulations.  If no 
+applicable standards  exist  for a specific  activity  or discharge,  the department  must  establish  limits  
+on a case- by-case basis using  best professional  judgment,  after  consultation with  the applicant  and 
+other  interested  parties  of record.  In determining  best practicable treatment  for each category  or 
+class,  the department  shall consider  the existing  state of technology,  the effectiveness of the 
+available alternatives  for control  of the type of discharge and the economic  feasibility  of such 
+alternatives;…  
+ 
+38 M.R.S. § 414 -A(1)(D).  
+13  Section  1251(a)(1)  of the Clean  Water  Act provides:  
+(a) Restoration  and maintenance  of chemical,  physical  and biological integrity  of Nation’s  waters;  
+national  goals  for achievement  of objective  
+The objective  of this chapter  is to restore  and maintain  the chemical,  physical, and biological  
+integrity  of the Nation’s  waters.  In order  to achieve this objective  it is hereby  declared  that, 
+consistent  with  the provisions  of this chapter — 
+(1) it is the national  goal that the discharge  of pollutants  into the navigable  waters  be eliminated  by 
+1985; … 
+ 
+33 U.S.C. § 1251(a)(1) . 
+ 
+14  The  program  is also set forth  in DEP  regulations . 06-096 C.M.R.  chs. 2, 520-525, 579, 581 and 587.  
+ 
+15 
+ 2. The Board  failed  to comply with  38 M.R.S.  § 414–A(1)(D)  by not 
+considering and utilizing  pollutant  discharge  technolog y identified  
+by Upstream  in testimony  and comments  submitted  to the Board.  
+ 
+In December  2019,  Upstream  submitted pre-filed  hearing  testimony  
+identifying aquaculture  companies that are successfully  eliminating  the discharge of 
+pollutants.15 This was the best practicable  treatment  and represented  20 years  of 
+improvement  over Nordic’s  proposed  technology.  In subsequent  proceedings,  Upstream  
+repeatedly  drew  the Board’s  attention  to these  technologies,  which have  achieved  
+results  of 100%  pollutant  removal,  or of removal  to minimal levels that allow  the 
+wastewater  to be re-used,  with zero discharge  to surface  water.16 Nothing  in the 
+record  shows  that the Board  considered  these  technologies  in any way.  
+                                                 
+15  The December  2019 pre-filed testimony  of Upstream’s John A. Krueger  and Gary  V. Gulezian,  identified  
+better  treatment  systems for  the Board’s  consideration:  
+While  NAF  [Nordic  Aquafarms]  should  be applauded  for its use of proven 
+technologies  such as Movi ng Bed Biofilm  Reactor  (MBBR)  designs,…Newer  technologies  
+exist and are being tested  around the planet. Aquamaof, Superior  Fresh,  and Sustainable  
+Blue are examples . 
+Some  use vertical  hydroponics/aquaponics  that run hydraulically  (a water  driven  
+system  rather than a pumped vertical  effluent,  with low energy  use).  There  are others  which  
+use electric  driven  pumps  to pump water  up and believe  that numerous  small  tanks  are the 
+way to go. Another  option is airlift fixed  media  recirculating  systems to provide  a minimal  
+liquid  discharge  to zero liquid discharge  with the use of micro -algae as the primary  
+denitrification  reactor.  These  micro -algae systems allow  the production of algae  to produce  
+a food source for fish or generate a  bio-fuel. Ozone  is also used for pathogen control.  
+ 
+A1060, A1170- 1171 (DI 0478;  Pre-filed Test.  John A. Krueger  and Gary  V. Gulezian  (Dec.  13, 2019)  at 
+13-14)(emphasis  added). 
+ 
+16  Upstream’s testimony  showed  that these  technologies  are not merely  in development, but are in  use by 
+successful  companies, and could  be used by Nordic.  The following  pre-filed testimony  from  Mr. William  
+Bryden  (Dec.  2019),  stated:  
+“In Canada,  Sustainable  Blue  has commercialized  a licensable  methodology  for zero 
+effluent  discharge for Atlantic  Salmon  in saltwater  as well as other  species.  They recycle 
+100%  of all water  they utilize,  both fresh  and salt except  for that water  that resides  in the 
+ 
+16 
+ In its Final  Decision  issuing  the permit,  the Board  approved  Nordic’s  
+proposed  treatment system,  although  the Board  set a water -quality  based limit for 
+dissolved  nitrogen  at a lower  concentration  than Nordic  claimed  it could  meet.  
+A0305-A312  (MEPDES,  Final Fact Sheet,  at 20-27). Nordic  claims  that its 
+technology  can remove  85% of dissolved  nitrogen,  discharging  nitrogen at a 
+concentration of 23 mg/l.  Nothing  in the record  demonstrates that either  85% 
+removal,  or 21 mg/l,  could  be deemed  better  results than 100% removal  and a zero 
+discharge.  The Board  should  have  considered  the treatment identified  by Upstream,  
+and based  effluent  limits  on that technology,  leaving no need  for water -quality  based  
+limits.  The Board’s  failure  to do so was a violation  of Section  § 414–A(1)(D).   
+Although  it responded  in writing  to many  different  comments from  the various 
+Intervenors,  as it is required  to do, the Board  never  issued any response  concerning  
+evidence  on these  technologies.  The Court “must judge  the propriety  of [the Board’s] 
+action  solely  by the grounds  invoked by the agency.”  In re Maine  Motor  Rate 
+Bureau , 357 A.2d  at 527 (alteration  omitted)  (quoting  Securities  & Exchange  
+Commission  v. Chenery  Corp. , 332 U.S. 194 (1947)).  Here , as the Board  conceded  
+                                                 
+fish when  slaughtered. This is accomplished  by utilizing  a combination  of ozone  and 
+advanced  filtration  methodologies. Their  fish is marketed  and distributed  throughout  
+eastern  Canada. Sustainable  Blue’s  CEO  and Chief Technology  Officer  has reviewed  the 
+public  documents  describing  Nordic’s proposed  facility  in Maine  and have  confirmed  their  
+methodology  can scale to accommodate  Nordic [’s] proposed volumes  of fish.” 
+ 
+A1060, A1203- 1204 ( DI 0481, Pre -filed Test.  Bill Bryden  (Dec.  13, 2019)  at 2-3)(emphasis added).  
+17 
+ below,  the Board  never stated  the basis for rejecting  these  technologies.  The Board’s  
+suggestion  that a reviewing  court  can infer  that the Board  did consider  and had a 
+basis for rejection  (not articulated)  is clear  error.  This Court  cannot  review  the 
+Board’s  actions  without  a record  on the Board’s  consideration of the recommended  
+technologies.  Under  Section  414–A(1)(D),  consideration  of these  alternatives and a 
+response  to these  comments was required  for setting technology -based  limits.    
+For Nordic’s permit,  the Board  found  in its Final  Decision  that it was required 
+to act under  the following  third sentence  of Section  414–A(1)(D):  
+If no applicable  standards  exist  for a specific  activity  or discharge,  the 
+department must establish  limits on a case-by-case  basis using  best 
+professional  judgment,  after consultation  with the applicant  and other  
+interested parties  of record.    
+ 
+A0304.  
+ 
+The Court should  interpret  this sentence  considering  Section  414– A(1)(D)  as 
+a whole.  Central  Maine  Power  Co. v. Devereux  Marine,  Inc., 2013  ME 37, ¶ 8, 68 
+A.3d  1262  (‘“All  words in a statute  are to be given meaning,’  and no words  are to 
+be treated  as ‘surplusage  if they can be reasonably  construed’” ); Mallinckrodt  US 
+LLC v. Dept.  Envtl.  Prot.,  2014  ME 52, ¶ 20, 90 A.3d  428. See also United Sav. 
+Ass’n of Texas  v. Timbers  of Inwood  Forest  Assocs.,  Ltd., 484 U.S. 365, 371 
+(1988)(per  Scalia,  J.)(statutory  interpretation  is a “holistic  endeavor”).17 
+                                                 
+17  The late Justice  Scalia  also emphasized  “holistic  interpretation”  in his scholarly  writing.  In Reading  
+ 
+18 
+ Here,  the limits to be adopted  on a case-by-case  basis must be based  on best 
+practical treatment as defined  in the previous  sentence.  Maine’s  definition  of best 
+practical  treatment incorporates  the technology —based  goals  and standards of the 
+federal  Clean  Water  Act (“CWA”) —but does not use the same  terms  as the CWA.  
+The CWA  created  a time interval in which  dischargers could  adopt  technology  which 
+met a lesser  standard than the ultimate  goal of Best Available  Technology  (“BAT”).  
+CWA  § 304(b)(2).  But while  Maine’s  statute  uses “best practical  treatment” —terms  
+similar  to “best practical technology” —it defines  them  so that they require  the 
+discharge r to use whichever  of the federal  standards  is currently  applicable,  i.e., the 
+most stringent standard is always  in effect.  38 M.R.S. § 414-A(1)(D).  Maine’s  use 
+of these  terms  was in no way intended to enshrine  lesser  standards than the federal  
+requirement s; on the contrary,  it was intended to simplify  the standard  by using terms  
+that would  always  incorporate  the most stringent  standard.   In circumstances such as 
+the present  case which  require  the Department  to “establish  limits  on case-by-case  
+basis,”  the statute  is not inviting  a lowering  of the standard  by use of the term “best  
+professional  judgment.”  Id. 
+                                                 
+Law:  The Interpretation  of Legal  Texts (with  Brian  A. Garner),  Thompson/West  (2012)), pp. 217 –220  and 
+326–330.  Justice  Scalia  argued  persuasively  that interpretation  should  begin with the original  meaning  of 
+the words  of the statute,  as opposed  to the search  for “original  intent.”     
+ 
+19 
+ The evidence  submitted by Upstream  made  a prima facie  case for identifying 
+the zero discharge  technologies as the best practical  treatment.  The testimony  of 
+William  Bryden  concerning  Sustainable  Blue,  Inc. confirms  the potential to scale  up 
+its treatment system  to the size of Nordic’s  proposed facility.18 The Board  should 
+have  followed  up on this information to establish  a record,  open to public  scrutiny,  
+showing  whether  these  technologies  could  in fact be the basis for Nordic’ s permit,  
+and explained a basis for its decision.  While  the Board  suggests  this Court  can infer 
+the Board  did comply  with the statute,  and infer  findings,  the Court  has no basis to 
+so conclude  given the absence  in the record  of actual  findings.  1 M.R.S. § 407(1)  
+(“The  agency  shall set forth  in the record  the reason  or reasons  for its decision and 
+make  finding of the fact, in writing,  sufficient to appraise  the applicant  and any 
+interes ted member  of the public  of the basis for the decision.”).   
+Maine  developed its Water  Pollution  Control  Act and the Department’s 
+regulations  to be consistent with,  and no less stringent  than,  the requirements  of the 
+Clean  Water  Act, and regulations adopted  by the Environmental  Protection Agency  
+(“EPA”).19 To achieve  this goal,  the Board  should  have  considered  the alternatives  
+                                                 
+18  A1061, A1203- 1204 (DI  0481 Pre -filed Test.  Bill Bryden  (Dec.  13, 2019)  at 2-3).   
+ 
+19  CWA  § 303 provides  for water -quality -based  effluent  limits  and anti-degradation  policies;  and Section 
+304 provides  for the development  by EPA  of technology- based  BPT and BATEA standards,  for categories  
+of industry,  to be incorporated  into individual  permits.  Section  306(a)(1) further  calls for New Source  
+Performance Standards  (“NSPS”),  “which  reflect  the greatest  degree of effluent  reduction which  the 
+Administrator  determines  to be achievable through  application  of the best available demonstrated  control  
+ 
+20 
+ identified by Upstream.  By disregarding the alternatives and failing  to create  any 
+record  on the alternative  technologies,  the Board  violated its statutory  obligations 
+and abused  its discretion.    
+D. The Board’s  failure  to address  the alternative  treatment  technologies 
+identified  by Upstream  was both  unlawful  procedure  and an abuse  of 
+discretion.  
+ 
+The Court  has established  that a failure  by the Board  to consider  an available  
+alternative  to its decision  is an abuse  of discretion.  Friends  of Maine’s Mountains  v. 
+Bd. of Envtl.  Prot.,  2013 ME 25, ¶ 11, 61 A.3d  689 (“An abuse  of discretion  may be 
+found  where…the  decisionmaker  exceeded  the boun ds of the reasonable  choices 
+available  to it, considering  the facts  and circumstances of the particular  case and the 
+governing  law.”).  By the same  reasoning,  the Board  abused  its discretion  here.   
+The Board  stated in its Final  Fact Sheet  that the permits’  effluent limits for 
+Biological  Oxygen Demand  and Total  Suspended Solids,  were  based  on limits  
+proposed  by EPA for land-based  aquaculture  twenty  years  ago, in 2002,  which EPA 
+never  adopted.20   
+If the Board  had properly  considered Upstream’s  comments,  it would  have 
+                                                 
+technology  … including, where practicabl e, a standard permitting  no discharge of  pollutants.”  40 C.F.R.  
+§ 401.12( e); CWA  § 306(a)(1)(B) (emphasis added).  The CWA  also required  compliance  with federal  
+requirements by state programs  authorized to operate  in lieu of EPA:  CWA  §§ 402(b)(1)(A)(compliance  
+with all applicable  federal  requirements),  402(b)(3)(public  participation),  402(d)(1)(notification to EPA)  
+and 402(d)(4)(EPA’s  authority to  object  to and overrule  state permits).  
+20  A0294, A302, A0327 (MEPDES,  Final  Fact Sheet,  Main e Board  of Environmental  Protection  (BEP  or 
+Board)  Order  at p. 19); see also USEPA,  Technical  Development  Document  for the Final  Effluent  
+Limitations  Guidelines  and New Source  Performance  Standards  for the Concentrated  Aquatic  Animal  
+Production Point  Sourc e Category (Revised  August  2004) . 
+21 
+ found  that zero discharge  is the “best practicable  treatment.”  Although  Section  414–
+A(1)(D) calls for “best professional judgment”  in establishing permit  limits,  “best  
+practicable  treatment”  necessarily  requires  that the judgment be based  on current  
+technology.  This,  the Board  failed  to do.  
+Based  on the foregoing,  the Court  should  find that the Maine  Pollutant  
+Discharge  Elimination System  Permit  and Water  Discharge  License  (“Water  
+Discharge  Permit”)  were  issued in violation  of statute, was based  on unlawful  
+procedures,  and was as abuse  of discretion.  The Court should  require that the Board  
+give zero discharge  treatment,  including  its most recent  developments,  the 
+consideration and response  required  by both Section  414– A(1)(D)  and the “no 
+adverse  impact  on water  quality”  required  by the Site Law.  38 M.R.S § 465-B(2)(C);  
+A0294-0295  (MEPDES  Permit,  Final  Fact Sheet  at 10-11).  
+E. Maine ’s clean  water  laws and regulations must  be interpreted  in light  of 
+both  the requirements  and the goals  of the federal  Clean  Water  Act 
+(“CWA”).  
+ 
+In these  proceedings,  the Board  failed  to set zero discharge  as the required 
+goal,  as required  by Maine  law and the Clean  Water  Act. 
+The Court  should  base its interpretation  of Section  414–A(1)(D)  on the 
+principle  that statutory  interpretation requires  an understanding  of a provision  within  
+its statutory  context  as a whole.   Central  Maine  Power  Co. v. Devereux  Marine,  Inc., 
+2013  ME 37, 68 A.3d 1262;  United  Sav. Ass’n of Texas  v. Timbers  of Inwood  Forest  
+22 
+ Assocs.,  Ltd., 484 U.S. 365. Here,  the statutory  context includes not only Maine’s  
+statutes and regulations,  but the federal  CWA  which Maine’s  program  is intended to 
+implement.  
+The Court  should  therefore  interpret  the third sentence  of Section  414–
+A(1)(D),  under  which the Board  set the permit ’s conditions,  in the context  of both 
+the entire  section  and of the statutory  and regulatory  schemes  of the federal  CWA,21 
+and Maine’s  delegated authority.22 The CWA’s  state-federal  statutory  schem e is 
+intended to achieve  its goals to "restore and maintain  the chemical,  physical,  and 
+biological  integrity  of the Nation's  waters,”  (CWA  § 101(a)),23 to “eliminate  the 
+discharge  of pollutants  into the navigable  waters”  (CWA  § 101(a)(1)),  and to restore 
+“water quality  which provides  for the protection  and propagation of fish, shellfish,  
+and wildlife”  CWA  § 101(a)(2).24 The CWA  also provides,  in Section  402(c),  for 
+                                                 
+21  33 U.S.C. §§ 1251, et  seq. (also known  as the Federal  Water  Pollution  Control  Act of 1972).  
+ 
+22  DEP’s  Water  Rules  06-096 C.M.R.  chs. 263- 596, are  available online  at 
+https://www.maine.gov/dep/water/rules/index.html. Chapters  310, 315, 335, 371, 372, 373, 375, 376, 500, 
+520, 521, 522, 523, 524, 525,  579, 581, 582, 587  are set forth  at A0656- A0987 in  their  entirety. 
+  
+23  The sections  of 1972 CWA  had three -digit numbers, which  were  incorporated into the U.S. Code  with 
+4-digit numbers.  33 U.S.C.  § 1251, is thus Section  101 of the CWA.  The relevant  sections  are hereafter  
+cited  as CWA  §§ 101  and 301– 402, in lieu of 33 U.S.C.  §§ 1251–1342.  
+  
+24  To achieve these  goals,  the CWA  provides  for effluent  limits  to be established  by EPA  and enforced by 
+federal  and state  permits.  Section  301(1)(A)  calls  for effluent  limits,  based  on the “best  practicable  control  
+technology”  (“BPT”), originally to be achieved  by July,  1977, and Section  301(1)(B),  for standards  based  
+on the “best  available technology  economically  achievable” (“BATEA”)  “which  will result  in reasonable  
+further  progress  toward  the national  goal of eliminating  the discharge  of all pollutants,”  originally  to be 
+achieved  no later than March  31, 1989. The CWA  also includes  an “antidegradation ” provision,  Section  
+303, which  is incorporated  into 38 M.R.S. §§ 414–A(1)(A),  (B) and (C),  which  require  the state  to impose  
+ 
+23 
+ implementation of the federal  program  by the states,  creating  a co-operative  state-
+federal  scheme  which  “establishes distinct roles  for the Federal  and State  
+Governments.”25  
+Maine  has adopted  comparable  goals in 38 M.R.S. § 464(1):  
+Findings;  objectives; purpose.   The Legislature  finds that the proper  
+management  of the State's  water  resources  is of great public  interest and 
+concern  to the State in promoting  the general  welfare;  in preventing  disease;  
+in promoting  health;  in providing habitat for fish, shellfish  and wildlife; as a 
+source  of recreational  opportunity;  and as a resource  for commerce and 
+industry.   The Legislature  declares  that it is the State's  objective  to restore  
+and maintain the chemical,  physical  and biological integrity  of the State's 
+waters  and to preserve certain pristine  state waters.  The Legislature  further 
+declares  that in order to achieve  this objective  the State's  goals  are:   
+ 
+A. That the discharge  of pollutants  into the waters  of the State be 
+eliminated  where  appropriate ; . . .  
+ 
+38 M.R.S. § 464(1)(A)  (emphasis  added).  
+ 
+Section  414– (A)(1)(D) must be read to require  that the Board  use its “best  
+professional  judgment”  to determine  the “best  practicable  treatment,”  which  must  
+mean  the best of “existing  technology.”  This reading  puts the section  in accord  with 
+the whole  history  of the federal  CWA.  But nothing  in the record  shows that the Board  
+made  such a determination.  
+                                                 
+limits  more  stringent  than those  based  on treatment  technology,  if necessary  to prevent  degradation of water  
+quality.  
+ 
+25  The Department’s  regulations,  06-096 C.M.R.  chs. 514–526, issued  in November,  1999, cite parallel  
+EPA  regulations  in 40 C.F.R.  Part 120,  Subpart  A. EPA  approved Main e’s program  on February  28, 2001.  
+Both  the Maine  and federal  programs  require  the DEP  to comply  with  EPA  requirements.  
+24 
+ In implementing Section 414-A(1)(D),  Maine  is exercising the permitting  
+authority  delegated to the state by the EPA.  Compliance  with federal  requirements  
+is the Board’s  necessary  obligation.  Permitting authority  under the federal  CWA,  as 
+well as the federal  Clean  Air Act (42 U.S.C. §§ 7401,  et seq.),  once  delegated  to a 
+state,  requires  the delegate  state to comply  with the acts under  which permitting  
+authority  is delegated.  PUD No. 1 of Jefferson County  v. Washington  Dept.  of 
+Ecology,  511 U.S. 700 (1994).  Therefore,  the definition  of “best practical  treatment”  
+in Section  414-A(1)(D)  requires  compliance  with federal  discharge  standards.   
+The interpretation of the CWA  as a whole  must begin with its Section  101. 
+Althoug h the CWA’s  goal of elimination of the discharge  of pollutants by 1985 was 
+not met, and was frequently  postponed,  we cannot  treat it as “implicitly  repealed”  
+(an approach  to interpretation  that Justice  Scalia  has rejected  in his writing  on 
+statutory  interp retation).26 The zero-discharge  goal is incorporated into Sections 
+301, 304 and 306 of the CWA,  which in turn are incorporated into the requirements  
+for state programs  by CWA.  CWA  § 402(b)(1)(A).  These  sections  define  the 
+requirements for the setting  of discharge  standards— by EPA and the states —for the 
+                                                 
+26  Reading Law:  The Interpretation  of Legal  Texts  at 327-330. Justice  Scalia  and his co-author  Bryan  
+Garner  identified  several  “Canons  of Interpretation”  that are relevant  to the interpretation  of the zero-
+discharge goal of the Clean  Water  Act. including  the “Prefatory -Materials”  Canon  (“A preamble,  purpose  
+clause,  or recital  is a permissible  indicator  of meaning.”), at 217–  220; the “Presumption Against  Implied  
+Repeal,” at  327–330;  and “the  Desuetude  Canon”  (“A statute  is not repealed  by nonuse  or desuetude.”),  at 
+326– 339. These Canons, as applied to the Clean Water  Act, tell us that the original  words  of the Act still 
+mean  what  they say. 
+ 
+25 
+ NPDES  (“National  Pollution  Discharge  Elimination  System.”).  The same  
+requirements for effluent  standards  were  adopted  by the Department  in Chapter  525 
+of its regulations.   
+The zero-discharge  goal has been  cited with approval  in federal  Circuit  Court  
+decisions.  A 2006  decision by the Sixth  Circuit refers  to the goal of restoring  the 
+nation’s waters  as the “guiding star”  of the Clean  Water  Act. Citizens Coal  Council  
+v. U.S. E.P.A.,  447 F.3d 879, 907 (6th Cir. 2006).27  See also Kennecott  v. U.S. E.P.A. , 
+780 F.2d 445, 448 (4th Cir. 1985)  (The  Act’s Best Available  Technology  standards 
+are intended to “push[]  industries toward the goal of zero discharge  as quickly  as 
+possible. ”)(emphasis  added);  Weyerhauser  Co. v. Costle, 590 F.2d 1011,  1061  (D.C.  
+Cir. 1978)($50,000  a year is not an unreasonable  expense  to eliminate  600,000 
+gallons  of wastewater  discharge  a year).   See also the late Justice  Ginsburg’ s dissent  
+in Coeur  Alaska,  Inc. v. Southeast Alaska  Conservation  Council,  557 U.S. 261 
+(2009),  citing  EPA regulations under  CWA § 306 (in a case where  EPA had found 
+that zero discharge  technology  was being profitably  used by the class of industries  
+at issue,  and EPA had therefore adopted  zero discharge  as a New Source 
+Performance Standard  under  § 306 of the Act),  Justice  Ginsburg  in her dissent  wrote  
+that “adhering  to § 306 … honors  the overriding  statutory  goal of eliminating water 
+pollution,  and Congress’  particular  rejection  of the use of navigable  waters  as waste  
+                                                 
+27  See  also  Chemical  Manufacturers  Association  v. E.P.A., 870 F.2d 177 (5th Cir. 1989).  
+26 
+ disposal  sites….”  Coeur  Alaska,  557 U.S. at 296. The Court  should  apply  Justice  
+Ginsburg’s wisdom  to this case.  
+The Court  should  find that Section  414– A(1)(D)  requires DEP  to use its “best  
+professional  judgm ent” to identify  the “best  practicable  treatment,”  and in doing  so 
+the Board  should  have  consulted with and considered  the technology  identified by 
+Upstream.  The Court  should reverse  the Board’s  acceptance  of Nordic’s  proposed  
+design for treatment  at this facility  without  considering  any of the factors  that 
+establish  the best practicable  treatment,  without  consulting  with Upstream,  and 
+without  responding  to Upstream  in any way.   
+In summary,  because  of the Board’s  failure  to set technology –based  discharge  
+limits based on the evidence  presented to it, its failure to consult  with Upstream  as 
+required  by Section  414– A(1)(D),  its failure  to properly  set water -quality  based  
+limits,  the Court  should  reverse  the MEPDES  permit and remand  it to Board  for 
+further  proce edings.  
+F. The Board’s  failure  to respond  to Upstream’s  comments  violated  06-096 
+C.M.R.  c. 522, § 12, an EPA requirement  for responses  to comments.  
+ 
+DEP’s  regulation incorporates EPA’s  requirement in 40 C.F.R.  § 124.17,  
+which requires  a response  to signifi cant public  comments,  including  comments  
+27 
+ received  in a hearing.28 The Board  violated this requirement  by failing  to respond  
+the Upstream’s  comments  on technologies  available  to achieve zero discharge.  
+In its December  2019  pre-filed testimony  (A1158- 1193),  Upstream  
+recommended  that the Board  fully consider  companies  that were  successfully  and 
+profitably  operating  zero-discharge  wastewater  treatment systems,  but the record  
+does not show  that the Board  ever did so. Upstream  subsequently  restated the 
+comment,  as recently  as September  2020,  in its comments on the Site Law permit,  
+but the Board  never  addressed  Upstream’s  comments.  In fact, in its response  to 
+comments in the Site Law permit,  the Board  did nothing more  than refer  to its 
+issuance  of the MEPDES  permit as evidence  that there  would  be no adverse  impact  
+on water  quality,  a finding  with absolutely  no support.   A0427 -428 (SLODA Permit  
+(Nov.  19, 2020)  at 20). 
+As the Board  acknowledged  in its Final  Decision,  excessive  dissolved  
+nitrogen threatens  to damage  ecosystems and water  quality,  A0299,  A0342-A0343 
+                                                 
+28  Section  12. Response to comments .  
+(a) At the time that any final permit  decision  is issued, the Department  shall  issue  a 
+response to comments.  States  are only required to issue a response  to comments  when  a 
+final permit  is issued. This response shall:  
+ 
+(1) Specify  which  provisions, if any, of the draft  permit  have been  changed  in the final 
+permit  decision, and the reasons  for the change;  and 
+ (2) Briefly  describe and respond to all significant  comments  on the draft  permit  raised  
+during the  public  comment  period, or  during any  hearing. 
+ 
+A0889;  06-096 C.M.R.  c. 522, §§ 12(a)(1)  & (2) (emphasis added).  
+28 
+ (MEPDES,  Final Fact Sheet,  at 14, 57-58), a risk which  would  be eliminated by the 
+technology  recommended  by Upstream.  A1167,  A1171,  A1183 (DI 0478 , Pre-filed 
+Test.  John  A. Krueger  and Gary  V. Gulezian  (Dec.  13, 2019)  at 110, 14, 26). Because  
+the Board  failed  to respond  to Upstream’s  comments,  the public  and this Court will 
+never  know whether  the Board  considered the alternative  technologies  to achieve  
+zero discharge.   
+G. The Board  did not fulfill  its obligation  under  Maine’s  statutes  to assure  
+that Nordic’s  discharge  will not harm  the water  quality of Penobscot  Bay 
+in Belfast.  
+ 
+In this case,  the water  pollutant  of greatest  concern  is dissolved  nitrogen.29 
+Nordic’s  proposed  treatment technology  is designed  to remove  85% of the nitrogen 
+in 7.7 million gallons of wastewater  discharged daily.  That results in Nordic’s  
+project discharging  over 1,300 pounds  of dissolved  nitrogen  daily  into Penobscot  
+Bay, assuming Nordic  operates  under  ideal  conditions.  The Board’s  staff found 
+initially  that Nordic’s project would  violate  state discharge  standards for nitrogen.   
+Rather  than enforce  the standards,  the Board  allowed Nordic  to submit revised  
+                                                 
+29  In its Final  Decision,  the Board  described  the effects of excess  nitrogen:  
+ 
+Nitrogen  is generally  the limiting  nutrient  for primary  productivity  in marine  waters.  Discharges of 
+excess quantities  of immediately  bioavaila ble nitrogen can cause algal  blooms  in the receiving  
+waters,  which  can lead to negative  impacts to dissolved  oxygen  levels.  A0306 (MEPDES,  Final  
+Fact Sheet,  at 21). 
+ 
+The permit  would allow  the daily  discharge  of over 1,300 pounds  of dissolved  nitrogen into 
+Penobscot  Bay,  year -round.  A0345 (MEPDES,  Final  Fact  Sheet,  Comment  #30 (NVC)  at 60).   
+29 
+ findings.  Even  with a second opportunity  at meeting  standards,  Nordic  failed  to 
+demonstrate  that it could  meet  discharge  standards  for nitrogen.  
+Both  the federal  Clean  Water  Act and Maine’ s statute,  38 M.R.S. § 414–
+A(1)(A)– (D), call for a two-step process  for setting  effluent  limit s for water  permits  
+(i.e., limits on the pollutants  in discharged wastewater).  The first step is the setting 
+of “technology -based”  limits,  under  the terms  of Section  414– A(1)(D).  DEP  must 
+base effluent  limits on the “best practical  treatment,”  as those  terms are defined  in 
+that section.  Secondly,  DEP  must consider  the potential  impacts  of the discharge  on 
+water  quality  in the receiving  water,  in this case Penobscot  Bay, as required  by 38 
+M.R.S. §§ 414-A(1)(A) –(C) and § 464(4)(F)  (the “antidegradation ” polic y). If 
+necessary  to protect  water  quality,  DEP  must set limits lower  than the technology -
+based  limits.  38 M.R.S.  § 414-A(1)(D).  
+The Board  found  that Nordic’s  proposed effluent  limit for dissolved  nitrogen 
+of 23 mg/l would  endanger  water quality.  A0310 -A0311  (MEPDES,  Final Fact 
+Sheet,  at 26-27)30. The Board  therefore imposed a dissolved  nitrogen  limit of 21 
+mg/l,  a lower  limit than the limit sought  by Nordic.  A0311 . 
+Upstream  challenges  this decision for the following reasons.   
+                                                 
+30 See also  A1258- A1305 (DEP  Staff  Memorandum  (for May  20 &  21, 2020  Board  Meeting) ; DEP  Staff  
+Corrected  Memorandum  (July  27, 2020)).  
+30 
+ First,  the Board  could  have  required  better  treatment technology,  that would 
+have  eliminated all the dissolved  nitrogen,  rendering  moot the whole  problem  of 
+setting  a water –quality -based  limit.   
+Second,  the Board  improperly  admitted a revision  of Nordic’s  dilution  model  
+after the close  of the hearing.  The Board  conducted  a public  hearing from  February  
+11 to 14, 2020.  A1074.  More  than two months  later,  on May 20, 2020,  the Board  
+held a “deliberative  session ” via Zoom  to discuss the permits.   A1088,  A1091,  
+A1141  (DI 0821,  May 6, 2020 notice;  DI 0858,  Seventeenth Procedural  Order  (May  
+28, 2020)).  On May 15, 2020,  DEP staff submitted  Memoranda  and 
+recommendations  to the Board  with those  same  dates.  A1091,  A1258-A1284  (DI 
+0858,  Seventeenth  Procedural  Order  (May  28, 2020)).  The Memoran dum for the 
+Water  Permit  discussed proposed  permit  limits,  with detailed calculations,  
+discussions between  staff and Nordic  and recommendations.   
+Of particular  significance  is the Water  Memorandum’s discussion of nitrogen  
+in its Attachment E.  A1278 -A1284.  This includes an exhaustive  analysis of the 
+water  quality  impacts  of Nordic’s  proposed  discharge  at Nordic’s proposed nitrogen  
+limit of 23 mg/l.  The staff concluded  that Nordic’s  discharge  would  have  to be 
+limited to only 12 mg/l.   A0311 . The staff found  that at Nordic’s  proposed  discharge  
+value  of 23 mg/L,  the discharge  would  consume  38% of the remaining  assimilative  
+capacity  of the receiving  water.  A1283.  “According  to…the  staff’s  historical  
+31 
+ practice  and best professional experience  and judgment,  this would  be considered  a 
+lowering of water  quality.  . . .” A1283.31 
+Rather  than accept  the staff’s  recommendations,  the Board,  over Upstream’s  
+Objections,32 allowed Nordic  to submit revised  findings  on May 20, 2020,  two 
+months after the closure  of the hearing  record. A1141 -A1144  (DI 0858,  Seventeenth  
+Procedural  Order  (May  28, 2020)).  The revisions  changed  the dilution  factor  to be 
+used in calculating  the impact  of Nordic’s  discharge.  Immediately  that day, 
+Upstream  requested a copy  of the staff’s  revised computatio ns on which the revised  
+recommendation  was made.  To date,  Upstream  has never  been  able to obtain the 
+underlying calculations  on which  this change  was based,  nor was a witness  to these  
+revisions  ever presented for cross -examination.  The result  was a Water  Permit  that 
+was a product  of unlawful  procedure,  and an indefensible  failure to protect Maine’s  
+water  quality.   
+However,  even  with the revised  model,  the Board  was compelled to find that 
+a discharge  at the concentration  sought  by Nordic,  23 mg/l,  would  have  an 
+unacceptable  impact  on water  quality  under  DEP’s  antidegradation policy,  because  
+it would  consume  more  than 20% of the receiving  water’s  assimilative  capacity  for 
+                                                 
+31  Id. (Attachment  E) at 6. 
+ 
+32  Upstream’s Motion  To BEP/DEP to  Strike  Testimony  of Gregg Wood Relating  to Total  Nitrogen  at 
+Deliberative  Hearing  (May  26, 2020).  A1091 (DI 0856).  
+ 
+ 
+32 
+ nitrogen.33 A0311,  A0312  (MEPDES  permit at 26-27);  A1291  (Staff Report  
+(Corrected  copy  July 27, 2020)  at 4)); A1304 -A1305  (Staff report  (Corrected  copy  
+July 27, 2020),  Attachment E (Total Nitrogen)  at 6-7). The Board  therefore  set the 
+limit at 21 mg/l.  Nordic  had claimed  that it could  not meet  a limit of less than 23 
+mg/l,  but the Board  did not require that Nordic  revise  its treatment plans.  Nordic’s 
+best-case  discharge  will result in lowering  the water  quality  in Penobscot  Bay from  
+SB to a lower  designation.  There  is no guarantee  or evidence  that Nordic  can 
+always  sustain its optimum  level  of efficiency.   
+Third,  the Board  improperly  accepted  Nordic’s pollutant  dispersion  model  
+that was developed with insufficient  field data by requiring  a “Dye  Study”  after 
+Nordic  commences  its final discharge.  Upstream  objected  to the lack of field data,  
+i.e., real measurements  of tides  and currents,  to support  Nordic’s model of pollutant  
+dispersion in the Bay.34 It is important  to know where  Nordic’s pollution  would go. 
+The Board  purported to address  this concern  by creating  a Special  Condition  of the 
+                                                 
+33  A0311, A0312, 0001 (MEPDES,  Final  Fact Sheet  (Nov.  19, 2020)  at 26) (“Based  on the Department  
+staff’s  review  and analysis and the record  information  as described  in this Fact Sheet,  the Board  finds  that 
+Nordic’s  proposed  discharge concentration of 23 mg/L  would not meet  the default  antidegradation  licensing  
+criteria  threshold of 21 mg/L  at full flow.  This is because,  in the Department  staff’s  view  based  on its review  
+and analysis,  the proposed discharge value  of 23 mg/L  would consume  22% of the remaining  assimilative  
+capacity  of the receiving  water.  According  to the State’s  antidegradation policy,  and the staff’s historical  
+practice and best professional  experience and judgment, this would  be considered  a lowering  of water  
+quality  and the applicant  would only be able to meet  the standard if it established  and the Department  made  
+the findings  required  by 38 M.R.S. § 464(4)(F)(5).  This permit  therefore  limits  Nordic’s  discharge  to the 
+default  antidegradation  licensing  criteria  threshold on 21 mg/L  as explained below.”). 
+ 
+34  A1060, A1088 (DI 0480, Pre-filed Test.  Neal  Pettigrew/Upstream;  DI 0479, Pre-filed Test.  Aveni -
+Deforge/Upstream;  DI 0652, Hearing  Test.  Neal  Pettigrew  (Feb.  12, 2020);  DI 0813, Upstream  post-hearing  
+brief  (May  4, 2020)).  
+33 
+ Permit  requiring Nordic  to perform  a Dye Study,  to be commenced  no sooner  than 
+the time Nordic  achieves  its full production and discharge  volume . A0245 -A0364 
+(generally  MEPDES  Final  Board  Order).  It is indisputable  that this study  will be 
+conducted,  if at all, after it is too late to prevent harm.   
+In Atlantic  Salmon  Federation  v. Bd. of Envtl.  Prot. , 662 A.2d 206, 210 
+(Me.  1995),  the Court ruled  that Board  may issue  a permit  contingent  on studies 
+to be conducted  and future actions  to be taken.  Howe ver, in Atlantic  Salmon  
+Federation , the permit required  the study  to be completed before  the permittee  
+could  begin  work  and reserved  the right  to amend  the permit if warranted  by the 
+results  of the study.  Here,  Nordic’s  permit calls for a dye study that will not be 
+begun until the facility has commenced  full operations.  A0245  (MEPDES  Final  
+Board  Order  at 2 ¶ 4). Atlantic  Salmon  Federation  does not support the Board’s  
+approval  of Nordic’s  permit considering the lack of data on the conditions  in 
+Penobscot  Bay. On the contrary,  it stands  for the principle  that the Board  should 
+require  a study  of the consequences of a discharge  before  allowing  the discharge  
+to commence.  Atlantic  Salmon  Federation , 662 A.2d  at 210. 
+34 
+ Fourth,  Nordic’s  witnesses  testified that Nordic  could  not achieve  the 21 mg/l 
+thereby  assuring a degradation  of the water  quality  in Penobscot Bay. A0311 -
+A0312.35  
+Fifth,  both the regulations  and the permit itself  require  Nordic  to demonstrate  
+it has sufficient power  to run its facility  in the event  of a power  outage.  There  is a 
+concern  that if there  is an outage  the wastewater  treatment will fail causing  untreated  
+water  to be discharged into the Bay or a huge  fish kill will result.  Nordic  refused  to 
+provide  that information or plan.   As a result,  the Board had no basis to conclude  
+that Nordic  had sufficient power.  
+Sixth,  rules for the DEP, Chapter  582, § 5, requires  any discharge  to maintain 
+a temperature  within 4 degrees  Fahrenheit  (“1.5-degree  Fahrenheit  from  June 1 to 
+September  1”) in the receiving  water body.   06-096  C.M.R.  c. 582, § 5; A0977.  
+Nordic  asserts  that its discharge  water  temperature  is .01 degrees  within  the 
+(summer) limit.  Nordic  assumed the accuracy  of a record  temperature  reading  that 
+was taken  at the top ½ inch of water  in June.  Nordic ’s discharge  will occur  34 feet 
+below  the surface.  The Court  can take judicial notice  that water  in the ocean  is colder  
+below  the surface  than it is at the surface.  Nordic  failed  to demonstrate  that it will 
+discharge  within  the state mandated  thermal  limits  in the summer  months and 
+                                                 
+35  A0311- A0312 (MEPDES,  Final  Fact  Sheet,  at 26-27); A1194- A1201 (Pre -Filed  Test.  Nathan  Dill 
+(Dec.  13, 2019), Memo  Nathan  Dill to Nordic  Aquafarms,  “Far  Field  Dilution  of Proposed Discharge – 
+Supplemental  Information,”  (Nov.  3, 2019)  at 3-5).   
+35 
+ ignored  the other  9 months  of the year entirely.  Use of the permit should  be stayed  
+until actual  thermal  measurements  are taken  at appropriate  times  of the year and at 
+appropriate  depth.  
+Considering  this record,  the Court  should  reverse  the permit as failing  to meet  
+the requirements of the antidegradation policy,  and the requirement  in Section  414–
+A(1)(D) for limits based on “best practicable  treatment.”  
+H. Nordic’s  project  fails to comply with  the Site Location  of Development  
+(“SLODA”)  requirements.   
+ 
+SLODA requires that Nordic’s  development occur  with “no adverse  effect  
+on the natural  environment”.36  
+Nordic  claims the license  for its generators  acts as a bar to further  inquiry  
+regarding  other  emissions at the Nordic  site. SLODA,  however,  requires  analysis  of 
+all air emission impacts  from  the Nordic  project.37 Without evidence  on all air 
+                                                 
+36  SLODA’s  preamble  states:  
+SUMMARY:  These  regulations  describe  the scope of  review  of the Department  in determining  a 
+developer's  com pliance  with  the "no adverse effect  on the natural  environment"  standard of  the 
+Site Location  Law  (38 M.R.S.A. Section  484(3));  the information which  shall  be submitted, when  
+appropriate, within  an application  for approval;  and, the  terms  and conditions  which the 
+Department  may  impose  on the  approval  of an application  to ensure  compliance with  the 
+standard.  
+ 
+ 06-096 C.M.R.  c. 375 (Summary);  A0711.  
+ 
+37  For  air pollution, SLODA provides:  
+1. No Unreasonable  Adverse  Effect On Air Quality  
+ A. Preamble . The Department  recognizes that point  source  emissions from  certain  types  of 
+commercial  and industrial  developments  and solid  waste  disposal  facilities  and non -point  
+source  emissions  deriving from  industrial, commercial,  and governmental  developments  can 
+have  an unreasonable adverse effect  on air quality.  
+ 
+36 
+ emissions  from  the Nordic  site, it was impossible  for the Board  to ascertain  whether  
+or not the requirement of “no unreasonable  adverse  effect” was met.   
+Nordic’s  project also fails to meet  SLODA’s  requirements  on climate  
+alteration.  SLODA requires:  
+2. No Unreasonable  Alteration  of Climate  
+ A. Preamble . The Department recognizes  the potential of large -scale,  
+heavy  industrial  facilities,  such as power  generating plants,  to affect  the 
+climate  in the vicinity of their location  by causing  changes  in climatic  
+characteristics such as rainfall,  fog, and relative  humidity  patterns.  
+ B. Scope  of Review . In determining whether  the proposed  development 
+will cause  an unreasonable  alteration  of climate,  the Department shall 
+consider  all relevant  evidence  to that effect.  
+ C. Submissions.  Applications  for approval  of large -scale,  heavy  
+industrial  developments,  such as power  generating plants, shall include  
+evidence  that affirmatively  demonstrates that there  will be no unreasonable  
+alteration of climate,  including information  such as the following,  when  
+appropriate:  
+  (1) Evidence  that the proposed development will not unreasonably  
+alter the existing  cloud  cover,  fog, or rainfall  characteristics  of the area.  
+ 
+06-096 C.M.R.  c. 375, § 2(A) -(C);  A0712.  
+ 
+                                                 
+B. Scope  of Review . In determining  whether  the proposed  development  will have  an 
+unreasonable  adverse effect  on ambient  air quality, through  point  or non- point  sources of  
+chemical  pollutants  or particulate  matt er, the Department  shall  consider  all relevant  evidence 
+to that effect,  such  as evidence  that: 
+ (1) The best practicable treatment  of point  sources of  air pollution  will be utilized  and that 
+point  source emissions meet  state  ambient  air quality  standards  and state  emissions  standards.  
+ (2) The amount  of air pollution  produced from  either  point  or non- point  sources  of air 
+emissions will  be consistent  with  the Board's  "Policy  on Air  Quality  Use,"  adopted March  28, 
+1979.  
+C. Submissions . Applications  for approval  of proposed  industrial,  commercial  and 
+governmental  developments  and solid  waste  disposal  facilities  shall  include  evidence  that 
+affirmatively  demonstrates that there  will be no unreasonable  adverse effect  on air  quality, 
+including  information  such as the  following,  when  appropriate:  
+(1) Evidence  that an Air Emission  License has  been  or will be obtained.  
+ 
+06-096 C.M.R.  c. 375, § 1 (A)-(C); A0711.  
+37 
+ Despite  these  requirements  of addressing  climate  impacts,  the Board  did not 
+allow  anyone  to speak  on climate  impacts  at the hearing.  Upstream  requested that 
+climate  be a hearing  topic  based  on an offer  of proof  that the Governor’s newly -
+minted climate  goals  would  be set back  a decade  by the Nordic  project  alone,  but the 
+Hearing  Officer  denied Upstream’ s request.  A0426  (Air Emission License  at 18); 
+A1050  (DI 0335,  Email  from  Ms. Colson to Ms. Burke transmitting Upstream’s  
+preliminary  issues list and suggests  for site visit (Sept.  30, 2019));  A1053 , A1126 -
+A1127  (DI 0389,  Third  Procedural  Order  (Nov.  1, 2019)).  The record  contains no 
+basis  for the Board make  any finding regarding  climate  under  SLODA.   
+SLODA also requires  a finding  of no unreasonable  adverse  impact  on 
+surface  water  quality.  SLODA requires:   
+6. No Unreasonable  Adverse  Effect on Surface  Water  Quality 
+ A. Preamble . The Department recogniz es that developments have  the 
+potential to cause  the pollution  of surface waters  through  both point  and 
+non-point  sources of pollution.  
+ B. Scope  of Review . In determining whether  the proposed development 
+will have  an unreasonable  adverse  effect  on surface  water  quality,  the 
+Department  shall  consider  all relevant  evidence  to that effect,  such as 
+evidence  that: 
+(1) The development or reasonably  foreseeable  consequences of the 
+development will not discharge  any water  pollutants  which  affect  the 
+state classificati on of a surface  water  body  (38 M.R.S.A. Section 363 
+et seq.). 
+(2) The best practicable  treatment  of point  sources  of water  pollutants  will 
+be utilized.  
+(3) Any effect  on surface  water  temperature  will be in compliance  with 
+all appropriate  standards established in Department Regulations 582.1 
+- 582.8.  
+38 
+  C. Submissions.  Applications  for approval  of proposed developments  
+shall include  evidence  that affirmatively  demonstrates that there  will be 
+no unreasonable  adverse  effect  on surface water  quality,  including 
+information such as the following,  when  appropriate:…  
+ 
+06-096 C.M.R.  c. 375, § 6(A) -(C);  A0716.  
+ 
+The Nordic  proposal admits it cannot  reduce  nitrogen to a level  established  
+by DEP  as enough  to preserve  the SC water  quality  designation in Penobscot  Bay. 
+Nordic’s  own data about  its discharge  demonstrates  the discharge  water  will be too 
+warm  to meet  the statutory  requirement  of remaining within  1.5 degrees  Fahrenheit  
+of the temperature  of the receiving  water  during  summer  month s, as required  by 
+Chapter  582, § 5. This would  exacerbate  the warming problem  in an Ocean  region  
+reported  to be already  warming faster  than any water  body  on earth.  
+Clearly  subsections  1 and 4 of SLODA were  violated by Nordic’ s application.  
+The water  quali ty in Penobscot Bay will be lowered  because  of Nordic’ s nitrogen  
+discharge . The temperature  restriction  of section  4 will be violated.   The  water  permit  
+should  not have  been  awarded.  
+Nordic  failed  to demonstrate  compliance  with Sections  1, 2, and 6 of SLODA.  
+The record  either  lacks  any attempt to comply  with SLODA at all, or, where  SLODA  
+is addressed  at all, even  indirectly,  the evidence  is that Nordic’s  application  fails to 
+comply.  
+Nordic  failed  or refused  to provide  to the Board  any demonstration that its 
+Water  and Air discharges would  not present an unreasonable  adverse  effect” on the 
+39 
+ air, water  and other  natural  resources  of the State of Maine  without  which  the award  
+of any permit is unlawful.  
+VIII.   CONCLUSION 
+ 
+ For these  reasons,  Upstream  requests that the Court  find that all the permits  
+were  improperly  issued  and remand  this matter  to the DEP  for further  proceedings.  
+ 
+ 
+  
+
+
+James Merkel
+Belfast
+LD 586
+Please see the appellants brief before the Maine Supreme Court regarding: 
+The Board failed to enforce 38 M.R.S. § 590(2)(C) and 06-096 C.M.R. Chapter 115, § 7(A), 
+which require that an applicant for an air permit demonstrate that its proposed emissions in 
+conjunction with all other
+sources, will not violate applicable ambient air quality standards
+Nordic’s Air License Application should have addressed all the
+emissions sources at its site
+The Board failed to fulfill its obligation to protect water quality under 38 M.R.S. §§ 
+414-A(1)(A)-(C), 464(4)(F) and the Site Law

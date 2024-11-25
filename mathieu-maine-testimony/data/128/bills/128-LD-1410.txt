@@ -1,0 +1,789 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1410
+S.P. 488 In Senate, April 11, 2017
+An Act  To Adopt  the Nurse Licensure Compact
+Reference to the Committee on Labor, Commerce, Research and Economic  Development 
+suggested and ordered printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator VOLK of Cumberland.
+Cosponsored by Representative FECTEAU of Biddeford and
+Senators: BELLOWS of Kennebec, LANGLEY  of Hancock, Representatives: HEAD of 
+Bethel, LOCKMAN  of Amherst, MASTRACCIO  of Sanford, PERRY of Calais, VACHON of 
+Scarborough.
+
+ 
+ Page 1 - 128LR1234(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+PART A  2 
+Sec. A -1.  32 MRSA c. 31, sub -c. 2-A is enacted to read:  3 
+SUBCHAPTER 2 -A 4 
+NURSE LICENSURE COMP ACT  5 
+§2171.  Short title; findings and declaration of purpose -- Article 1  6 
+1.  Short title.  This chapter may be known and cited as "the Nurse Licensure 7 
+Compact," or "the compact."  8 
+2.  Legislative intent.  This compact is the Maine enactment of the Nurse Licensure 9 
+Compact as revised by the National Council of State Boards of Nursing.  The form, 10 
+forma t and text of the compact have been changed minimally so as to conform to Maine 11 
+statutory conventions.  The changes are technical in nature, and it is the intent of the 12 
+Legislature that this Act be interpreted as substantively the same as the Nurse Licensu re 13 
+Compact that is enacted by other party states.  14 
+3.  Findings.  The party states find that:  15 
+A.  The health and safety of the public are affected by the degree of compliance with 16 
+and the effectiveness of enforcement activities related to state nurse licens ure laws;  17 
+B.  Violations of nurse licensure and other laws regulating the practice of nursing 18 
+may result in injury or harm to the public;  19 
+C.  The expanded mobility of nurses and the use of advanced communication 20 
+technologies as part of our nation's health care delivery system require greater 21 
+coordination and cooperation among states in the areas of nurse licensure and 22 
+regulation;  23 
+D.  New practice modalities and technology make compliance with individual state 24 
+nurse licensure laws difficult and complex;  25 
+E.  The system of duplicative licensure for nurses practicing in multiple states is 26 
+cumbersome and redundant for both nurses and states; and  27 
+F.  Uniformity of nurse licensure requirements throughout the states promotes public 28 
+safety and public health benefits.  29 
+4.  Purpose.  The general purposes of this compact are to:  30 
+A.  Facilitate the states' responsibility to protect the public's health and safety;  31 
+B.  Ensure and encourage the cooperation of party states in the areas of nurse 32 
+licensure and regulation;  33 
+ 
+ Page 2 - 128LR1234(01) -1 
+ C.  Facilitate the exchange of information between party states in the areas of nurse 1 
+regulation, investigation and adverse actions;  2 
+D.  Promote compliance with the laws governing the practice of nursing in each 3 
+jurisdiction;  4 
+E.  Invest all party states with the  authority to hold a nurse accountable for meeting 5 
+all state practice laws in the state in which the patient is located at the time care is 6 
+rendered through the mutual recognition of party state licenses;  7 
+F.  Decrease redundancies in the consideration and issuance of nurse licenses; and  8 
+G.  Provide opportunities for interstate practice by nurses who meet uniform licensure 9 
+requirements.  10 
+§2172.  Definitions -- Article 2  11 
+As used in this compact, unless the context otherwise indicates, the following terms 12 
+have the following meanings.  13 
+1.  Adverse action.  "Adverse action" means an administrative, civil, equitable or 14 
+criminal action permitted by a state's laws that is imposed by a licensing board or other 15 
+authority against a nurse, including actions against an ind ividual's license or multistate 16 
+licensure privilege such as revocation, suspension, probation, monitoring of the licensee, 17 
+limitation on the licensee's practice or any other encumbrance on licensure affecting a 18 
+nurse's authorization to practice, including issuance of a cease and desist action.  19 
+2.  Alternative program.  "Alternative program" means a nondisciplinary 20 
+monitoring program approved by a licensing board.  21 
+3.  Commission.  "Commission" means the Interstate Commission of Nurse 22 
+Licensure Compact Admini strators established in this compact.  23 
+4.  Coordinated licensure information system.  "Coordinated licensure information 24 
+system" means an integrated system for collecting, storing and sharing information on 25 
+nurse licensure and enforcement activities related  to nurse licensure laws that is 26 
+administered by a nonprofit organization composed of and controlled by licensing boards.  27 
+5.  Current significant investigative information.  "Current significant 28 
+investigative information" means:  29 
+A.  Investigative informati on that a licensing board, after a preliminary inquiry that 30 
+includes notification and an opportunity for a nurse to respond, if required by state 31 
+law, has reason to believe is not groundless and, if proved true, indicates more than a 32 
+minor infraction; or  33 
+B.  Investigative information that indicates that a nurse represents an immediate 34 
+threat to public health and safety regardless of whether the nurse has been notified 35 
+and had an opportunity to respond.  36 
+6.  Encumbrance.  "Encumbrance" means a revocation or s uspension of, or any 37 
+limitation on, the full and unrestricted practice of nursing imposed by a licensing board.  38 
+ 
+ Page 3 - 128LR1234(01) -1 
+ 7.  Head of the state licensing board.  "Head of the state licensing board" means the 1 
+executive director of the State Board of Nursing.  2 
+8.  Home  state.  "Home state" means the party state that is a nurse's primary state of 3 
+residence.  4 
+9.  Licensing board.  "Licensing board" means a party state's regulatory body 5 
+responsible for issuing nurse licenses.  6 
+10.  Multistate license.  "Multistate license" m eans a license to practice as a 7 
+registered or a licensed practical or vocational nurse issued by a home state licensing 8 
+board that authorizes the licensed nurse to practice in all party states under a multistate 9 
+licensure privilege.  10 
+11.  Multistate licensu re privilege.  "Multistate licensure privilege" means a legal 11 
+authorization associated with a multistate license permitting the practice of nursing as 12 
+either a registered nurse or licensed practical or vocational nurse in a remote state.  13 
+12.  Nurse.  "Nurs e" means a registered nurse or licensed practical or vocational 14 
+nurse, as those terms are defined by each party state's practice laws.  15 
+13.  Party state.  "Party state" means a state that has adopted this compact.  16 
+14.  Prior compact.  "Prior compact" means the prior nurse licensure compact that is 17 
+superseded by this compact.  18 
+15.  Remote state.  "Remote state" means a party state other than the home state.  19 
+16.  Single -state license.  "Single -state license" means a nurse license issued by a 20 
+party state that au thorizes practice only within the issuing state and does not include a 21 
+multistate licensure privilege to practice in any other party state.  22 
+17.  State.  "State" means a state, territory or possession of the United States and the 23 
+District of Columbia.  24 
+18.  State practice laws.  "State practice laws" means a party state's laws, rules and 25 
+regulations that govern the practice of nursing, define the scope of nursing practice and 26 
+create the methods and grounds for imposing discipline.  "State practice laws" does not 27 
+include requirements necessary to obtain and retain a license, except for qualifications or 28 
+requirements of the home state.  29 
+§2173.  General provisions and jurisdiction -- Article 3  30 
+1.  Multistate license.  A multistate license to practice registered or  licensed practical 31 
+or vocational nursing issued by a home state to a resident in that state is recognized by 32 
+each party state as authorizing a nurse to practice as a registered nurse or as a licensed 33 
+practical or vocational nurse, under a multistate licen sure privilege, in each party state.  34 
+2.  Criminal history records.  A party state shall implement procedures for 35 
+considering the criminal history records of an applicant for an initial multistate license or 36 
+licensure by endorsement.  Such procedures must i nclude the submission of fingerprints 37 
+ 
+ Page 4 - 128LR1234(01) -1 
+ or other biometric -based information by an applicant for the purpose of obtaining an 1 
+applicant's criminal history record information from the Federal Bureau of Investigation 2 
+and the agency responsible for retaining tha t state's criminal records.  3 
+3.  Requirements.  Each party state shall require that an applicant to obtain or retain 4 
+a multistate license in the home state:  5 
+A.  Meet the home state's qualifications for licensure or renewal of licensure, as well 6 
+as all other  applicable laws;  7 
+B.  Have graduated or be eligible to graduate from a registered nurse or licensed 8 
+practical or vocational nurse prelicensure education program approved by a licensing 9 
+board or have graduated in a country other than the United States from a registered 10 
+nurse or licensed practical or vocational nurse prelicensure education program that 11 
+has been approved by an authorized accrediting body in the applicable country and 12 
+has been verified by an independent credentials review agency to be comparabl e to a 13 
+prelicensure education program approved by a licensing board;  14 
+C.  Have, if a graduate of a prelicensure education program not taught in English or if 15 
+English is not the applicant's native language, successfully passed an English 16 
+proficiency examinat ion that includes the components of reading, speaking, writing 17 
+and listening;  18 
+D.  Have successfully passed a National Council Licensure Examination for 19 
+registered nurses or a National Council Licensure Examination for practical or 20 
+vocational nurses given b y the National Council of State Boards of Nursing or an 21 
+exam given by a predecessor or successor organization, as applicable;  22 
+E.  Be eligible for or hold an active, unencumbered nurse license;  23 
+F.  Have submitted, in connection with an application for initi al licensure or licensure 24 
+by endorsement, fingerprints or other biometric -based information for the purpose of 25 
+obtaining criminal history record information from the Federal Bureau of 26 
+Investigation and the agency responsible for retaining that state's crim inal records;  27 
+G.  Have not been convicted or found guilty, or have entered into an agreed 28 
+disposition, of a felony offense under applicable state or federal criminal law;  29 
+H.  Have not been convicted or found guilty, or have entered into an agreed 30 
+dispositi on, of a misdemeanor offense related to the practice of nursing as determined 31 
+on a case -by-case basis;  32 
+I.  Be not currently enrolled in an alternative program;  33 
+J.  Be subject to self -disclosure requirements regarding current participation in an 34 
+alternative  program; and  35 
+K.  Have a valid social security number.  36 
+4.  Adverse action.  A party state is authorized, in accordance with existing state due 37 
+process law, to take adverse action against a nurse's multistate licensure privilege such as 38 
+revocation, suspensi on, probation or any other action that affects a nurse's authorization 39 
+to practice under a multistate licensure privilege, including cease and desist actions.  If a 40 
+party state takes an action under this subsection, it shall promptly notify the administrat or 41 
+ 
+ Page 5 - 128LR1234(01) -1 
+ of the coordinated licensure information system.  The administrator of the coordinated 1 
+licensure information system shall promptly notify the home state of any action under this 2 
+subsection by a remote state.  3 
+5.  Practice of nursing.  A nurse practicing in a party state shall comply with the 4 
+state practice laws of the state in which the client is located at the time service is 5 
+provided.  The practice of nursing is not limited to patient care, but includes all nursing 6 
+practice as defined by the state pract ice laws of the party state in which the client is 7 
+located.  The practice of nursing in a party state under a multistate licensure privilege 8 
+subjects a nurse to the jurisdiction of the licensing board, the courts and the laws of the 9 
+party state in which th e client is located at the time service is provided.  10 
+6.  Single -state license.  A person not residing in a party state may apply for a party 11 
+state's single -state license as provided under the laws of each party state; however, a 12 
+single -state license grante d under this subsection is not recognized as granting the 13 
+privilege to practice nursing in any other party state. Nothing in this compact affects the 14 
+requirements established by a party state for the issuance of a single -state license.  15 
+7.  Licenses active on the effective date of compact.  A nurse holding a home state 16 
+multistate license on the effective date of this compact may retain and renew the 17 
+multistate license issued by the nurse's then -current home state, except that:  18 
+A.  A nurse who changes primary  state of residence after the effective date of this 19 
+compact must meet all applicable requirements under subsection 3 to obtain a 20 
+multistate license from a new home state; and  21 
+B.  A nurse who fails to satisfy the multistate licensure requirements in subsec tion 3 22 
+due to a disqualifying event occurring after the effective date of this compact is 23 
+ineligible to retain or renew a multistate license, and the nurse's multistate license 24 
+must be revoked or deactivated in accordance with applicable rules adopted by t he 25 
+commission.  26 
+§2174.  Applications for licensure in a party state -- Article 4  27 
+1.  Other licenses.  Upon receiving an application for a multistate license, the 28 
+licensing board in the issuing party state shall ascertain, through the coordinated licensure 29 
+information system, whether the applicant has ever held, or is the holder of, a license 30 
+issued by any other state, whether there are any encumbrances on a license or multistate 31 
+licensure privilege held by the applicant, whether an adverse action has been ta ken 32 
+against a license or multistate licensure privilege held by the applicant and whether the 33 
+applicant is currently participating in an alternative program.  34 
+2.  Multistate license.  A nurse may hold a multistate license issued by the home 35 
+state in only on e party state at a time.  36 
+3.  Change of residence.  If a nurse changes primary state of residence by moving 37 
+between 2 party states, the nurse shall apply for licensure in the new home state, and the 38 
+multistate license issued by the prior home state must be deactivated in accordance with 39 
+applicable rules adopted by the commission.  40 
+ 
+ Page 6 - 128LR1234(01) -1 
+ A.  A nurse may apply for licensure under this compact in advance of a change in 1 
+primary state of residence.  2 
+B.  A multistate license may not be issued by the new home state under t his 3 
+subsection until the nurse provides satisfactory evidence of a change in primary state 4 
+of residence to the new home state and satisfies all applicable requirements to obtain 5 
+a multistate license from the new home state.  6 
+4.  Change of residence to nonpa rty state.  If a nurse changes primary state of 7 
+residence by moving from a party state to a nonparty state, the multistate license issued 8 
+by the prior home state converts to a single -state license, valid only in the former home 9 
+state.  10 
+§2175.  Additional au thorities invested in party state licensing boards -- Article 5  11 
+1.  Authority.  In addition to other powers conferred by state law, a licensing board 12 
+has the authority to:  13 
+A.  Take adverse action against a nurse's multistate licensure privilege to practice  14 
+within that party state.  15 
+(1)  Only the home state has the power to take adverse action against a nurse's 16 
+license issued by the home state.  17 
+(2)  For purposes of taking adverse action, the home state licensing board shall 18 
+give the same priority and effect t o a report of conduct received from a remote 19 
+state as it would if such conduct had occurred within the home state.  In so doing, 20 
+the home state licensing board shall apply its own state laws to determine 21 
+appropriate action;  22 
+B.  Issue cease and desist order s or impose an encumbrance on a nurse's authority to 23 
+practice within that party state;  24 
+C.  Complete any pending investigation of a nurse who changes primary state of 25 
+residence during the course of such investigation.  The licensing board also has the 26 
+autho rity to take appropriate action and shall promptly report the conclusions of an 27 
+investigation to the administrator of the coordinated licensure information system.  28 
+The administrator of the coordinated licensure information system shall promptly 29 
+notify the  new home state of any action under this paragraph;  30 
+D.  Issue subpoenas for both hearings and investigations that require the attendance 31 
+and testimony of witnesses as well as the production of evidence.  A subpoena issued 32 
+by a licensing board in a party st ate for the attendance and testimony of witnesses or 33 
+the production of evidence from another party state may be enforced in the latter state 34 
+by any court of competent jurisdiction, according to the practice and procedure of 35 
+that court applicable to subpoen as issued in proceedings pending before it.  The 36 
+issuing authority shall pay any witness fees, travel expenses, mileage and other fees 37 
+required by the service statutes of the state in which the witnesses or evidence is 38 
+located;  39 
+E.  Obtain and submit, for e ach nurse licensure applicant, fingerprints or other 40 
+biometric -based information to the Federal Bureau of Investigation for criminal 41 
+ 
+ Page 7 - 128LR1234(01) -1 
+ background checks, receive the results of the Federal Bureau of Investigation record 1 
+search on criminal background checks a nd use the results in making licensure 2 
+decisions;  3 
+F.  If otherwise permitted by state law, recover from the affected nurse the costs of 4 
+investigations and disposition of cases resulting from any adverse action taken 5 
+against that nurse; and  6 
+G.  Take adverse  action based on the factual findings of the remote state, as long as 7 
+the licensing board follows its own procedures for taking such adverse action.  8 
+2.  Adverse action.  If adverse action is taken by the home state against a nurse's 9 
+multistate license, the  nurse's multistate licensure privilege to practice in all other party 10 
+states is deactivated until all encumbrances have been removed from the multistate 11 
+license.  A home state disciplinary order that imposes adverse action against a nurse's 12 
+multistate lic ense must include a statement that the nurse's multistate licensure privilege 13 
+is deactivated in all party states during the pendency of the order.  14 
+3.  Alternative program.  Nothing in this compact overrides a decision by a 15 
+licensing board of a party state that participation in an alternative program may be used in 16 
+lieu of adverse action. The home state licensing board shall deactivate the multistate 17 
+licensure privilege under the multistate license of a nurse for the duration of the nurse's 18 
+participation in an alternative program.  19 
+§2176.  Coordinated licensure information system and exchange of information -- 20 
+Article 6  21 
+1.  Participation.  A party state shall participate in the coordinated licensure 22 
+information system for all licensed registered nurses and lic ensed practical or vocational 23 
+nurses.  The coordinated licensure information system includes information on the 24 
+licensure and disciplinary history of each nurse, as submitted by party states, to assist in 25 
+the coordination of nurse licensure and enforcement  efforts.  26 
+2.  Procedures.  The commission, in consultation with the administrator of the 27 
+coordinated licensure information system, shall formulate necessary and proper 28 
+procedures for the identification, collection and exchange of information under this 29 
+compact.  30 
+3.  Reports.  A licensing board shall promptly report to the coordinated licensure 31 
+information system any adverse action, any current significant investigative information, 32 
+denials of applications, including the reasons for such denials, and nurse pa rticipation in 33 
+alternative programs known to the licensing board regardless of whether such 34 
+participation is considered nonpublic or confidential under state law.  35 
+4.  Information restrictions.  Current significant investigative information and 36 
+participatio n in nonpublic or confidential alternative programs may be transmitted 37 
+through the coordinated licensure information system only to party state licensing boards.  38 
+5.  Confidentiality.  Notwithstanding any other provision of law, a party state 39 
+licensing boar d contributing information to the coordinated licensure information system 40 
+ 
+ Page 8 - 128LR1234(01) -1 
+ may designate information that may not be shared with nonparty states or disclosed to 1 
+other entities or individuals without the express permission of the contributing state 2 
+licensin g board.  3 
+6.  Personally identifiable information.  Personally identifiable information 4 
+obtained from the coordinated licensure information system by a party state licensing 5 
+board may not be shared with nonparty states or disclosed to other entities or indi viduals 6 
+except to the extent permitted by the laws of the party state contributing the information.  7 
+7.  Expungement.  Information contributed to the coordinated licensure information 8 
+system that is subsequently required to be expunged by the laws of the pa rty state 9 
+contributing that information must also be expunged from the coordinated licensure 10 
+information system.  11 
+8.  Uniform data set.  The compact administrator of each party state shall furnish a 12 
+uniform data set to the compact administrator of each othe r party state, which must 13 
+include, at a minimum:  14 
+A.  Identifying information;  15 
+B.  Licensure data;  16 
+C.  Information related to alternative program participation; and  17 
+D.  Other information that may facilitate the administration of this compact, as 18 
+determined by commission rules.  19 
+9.  Investigative documents.  The compact administrator of a party state shall 20 
+provide all investigative documents and information requested by another party state.  21 
+§2177.  Establishment of the Interstate Commission of Nurse Licensure Compact 22 
+Administrators -- Article 7  23 
+1.  Commission established.  The party states hereby create and establish a joint 24 
+public entity known as the Interstate Commission of Nurse Licensure Compact 25 
+Administrators.  26 
+A.  The commission is an instrumentality of th e party states.  27 
+B.  Venue is proper, and judicial proceedings by or against the commission must be 28 
+brought solely and exclusively in a court of competent jurisdiction where the 29 
+principal office of the commission is located.  The commission may waive venue and 30 
+jurisdictional defenses to the extent it adopts or consents to participate in alternative 31 
+dispute resolution proceedings.  32 
+C.  Nothing in this compact may be construed to be a waiver of sovereign immunity.  33 
+2.  Membership, voting and meetings.  This subs ection governs the membership, 34 
+voting and meetings of the commission.  35 
+A.  Each party state has and is limited to one administrator. The head of the state 36 
+licensing board or the head of the state licensing board's designee is the administrator 37 
+of this compa ct for each party state.  An administrator may be removed or suspended 38 
+ 
+ Page 9 - 128LR1234(01) -1 
+ from office as provided by the law of the state from which the administrator is 1 
+appointed.  Any vacancy occurring in the commission must be filled in accordance 2 
+with the laws of the par ty state in which the vacancy exists.  3 
+B.  Each administrator is entitled to one vote with regard to the promulgation of rules 4 
+and creation of bylaws and must otherwise have an opportunity to participate in the 5 
+business and affairs of the commission.  An ad ministrator shall vote in person or by 6 
+such other means as provided in the bylaws. The bylaws may provide for an 7 
+administrator's participation in meetings by telephone or other means of 8 
+communication.  9 
+C.  The commission shall meet at least once during each  calendar year. Additional 10 
+meetings must be held as set forth in the bylaws or rules of the commission.  11 
+D.  All meetings must be open to the public, and public notice of meetings must be 12 
+given in the same manner as required under the rule -making provisions  in section 13 
+2178.  14 
+E.  The commission may convene in a closed, nonpublic meeting if the commission 15 
+must discuss:  16 
+(1)  Noncompliance of a party state with its obligations under this compact;  17 
+(2)  The employment, compensation, discipline or other personnel ma tters, 18 
+practices or procedures related to specific employees or other matters related to 19 
+the commission's internal personnel practices and procedures;  20 
+(3)  Current, threatened or reasonably anticipated litigation;  21 
+(4)  Negotiation of contracts for the purc hase or sale of goods, services or real 22 
+estate;  23 
+(5)  Accusing a person of a crime or formally censuring a person;  24 
+(6)  Disclosure of trade secrets or commercial or financial information that is 25 
+privileged or confidential;  26 
+(7)  Disclosure of information of a personal nature where disclosure would 27 
+constitute a clearly unwarranted invasion of personal privacy;  28 
+(8)  Disclosure of investigatory records compiled for law enforcement purposes;  29 
+(9)  Disclosure of information related to any reports prepared by or on behalf of 30 
+the commission for the purpose of investigation of compliance with this compact; 31 
+or 32 
+(10)  Matters specifically exempted from disclosure by federal or state statute.  33 
+F.  If a meeting, or portion of a meeting, is closed pursuant to paragraph E, the  34 
+commission's legal counsel or designee shall certify that the meeting may be closed 35 
+and shall reference each relevant exempting provision.  The commission shall keep 36 
+minutes that fully and clearly describe all matters discussed in a meeting and shall 37 
+provide a full and accurate summary of actions taken and the reasons for those 38 
+actions, including a description of the views expressed.  All documents considered in 39 
+connection with an action must be identified in the minutes.  All minutes and 40 
+ 
+ Page 10 - 128LR1234(01) -1 
+ documents of a cl osed meeting must remain under seal, subject to release by a 1 
+majority vote of the commission or order of a court of competent jurisdiction.  2 
+3.  Bylaws and rules.  The commission shall, by a majority vote of the 3 
+administrators, prescribe bylaws or rules to govern its conduct as may be necessary or 4 
+appropriate to carry out the purposes and exercise the powers of this compact, including 5 
+but not limited to:  6 
+A.  Establishing the fiscal year of the commission;  7 
+B.  Providing reasonable standards and procedures:  8 
+(1)  For the establishment and meetings of other committees; and  9 
+(2)  Governing any general or specific delegation of any authority or function of 10 
+the commission;  11 
+C.  Providing reasonable procedures for calling and conducting meetings of the 12 
+commission, ensu ring reasonable advance notice of all meetings and providing an 13 
+opportunity for attendance of such meetings by interested parties, with enumerated 14 
+exceptions designed to protect the public's interest, the privacy of individuals and 15 
+proprietary information,  including trade secrets.  The commission may meet in closed 16 
+session only after a majority of the administrators vote to close a meeting in whole or 17 
+in part.  As soon as practicable, the commission shall make public a copy of the vote 18 
+to close the meeting revealing the vote of each administrator, with no proxy votes 19 
+allowed;  20 
+D.  Establishing the titles, duties and authority and reasonable procedures for the 21 
+election of the officers of the commission;  22 
+E.  Providing reasonable standards and procedures for the  establishment of the 23 
+personnel policies and programs of the commission.  Notwithstanding any civil 24 
+service or other similar laws of any party state, the bylaws exclusively govern the 25 
+personnel policies and programs of the commission; and  26 
+F.  Providing a m echanism for winding up the operations of the commission and the 27 
+equitable disposition of any surplus funds that may exist after the termination of this 28 
+compact after the payment or reserving of all of its debts and obligations.  29 
+4.  Publishing.  The commis sion shall publish its bylaws and rules, and any 30 
+amendments thereto, in a convenient form on the publicly accessible website of the 31 
+commission.  32 
+5.  Financial records.  The commission shall maintain its financial records in 33 
+accordance with the bylaws.  34 
+6.  Meetings.  The commission shall meet and take such actions as are consistent 35 
+with the provisions of this compact and the bylaws.  36 
+7.  Powers.  The commission has the following powers:  37 
+ 
+ Page 11 - 128LR1234(01) -1 
+ A.  To promulgate uniform rules to facilitate and coordinate implementatio n and 1 
+administration of this compact.  The rules have the force and effect of law and are 2 
+binding in all party states;  3 
+B.  To bring and prosecute legal proceedings or actions in the name of the 4 
+commission; however, the standing of any licensing board to su e or be sued under 5 
+applicable law is not affected;  6 
+C.  To purchase and maintain insurance and bonds;  7 
+D.  To borrow, accept or contract for services of personnel, including, but not limited 8 
+to, employees of a party state or nonprofit organizations;  9 
+E.  To cooperate with other organizations that administer state compacts related to the 10 
+regulation of nursing, including, but not limited to, sharing administrative or staff 11 
+expenses, office space or other resources;  12 
+F.  To hire employees, elect or appoint officer s, fix compensation, define duties, grant 13 
+appropriate authority to carry out the purposes of this compact and establish the 14 
+commission's personnel policies and programs relating to conflicts of interest, 15 
+qualifications of personnel and other related person nel matters;  16 
+G.  To accept all appropriate donations, grants and gifts of money, equipment, 17 
+supplies, materials and services and to receive, use and dispose of the same, as long 18 
+as at all times the commission avoids any appearance of impropriety or conflic t of 19 
+interest;  20 
+H.  To lease, purchase, accept appropriate gifts or donations of, or otherwise to own, 21 
+hold, improve or use, any property, whether real, personal or mixed, as long as at all 22 
+times the commission avoids any appearance of impropriety;  23 
+I.  To sell, convey, mortgage, pledge, lease, exchange, abandon or otherwise dispose 24 
+of any property, whether real, personal or mixed;  25 
+J.  To establish a budget and make expenditures;  26 
+K.  To borrow money;  27 
+L.  To appoint committees, including advisory committees co mposed of 28 
+administrators, state nursing regulators, state legislators or their representatives, 29 
+consumer representatives and other interested persons;  30 
+M.  To provide and receive information from, and to cooperate with, law enforcement 31 
+agencies;  32 
+N.  To adop t and use an official seal; and  33 
+O.  To perform such other functions as may be necessary or appropriate to achieve 34 
+the purposes of this compact consistent with the state regulation of nurse licensure 35 
+and practice.  36 
+8.  Financing of commission.  This subsecti on governs the financial operations of 37 
+the commission.  38 
+A.  The commission shall pay, or provide for the payment of, the reasonable expenses 39 
+of its establishment, organization and ongoing activities.  40 
+ 
+ Page 12 - 128LR1234(01) -1 
+ B.  The commission may levy on and collect an annual asse ssment from each party 1 
+state to cover the cost of its operations, activities and staff in its annual budget as 2 
+approved each year.  The aggregate annual assessment amount, if any, must be 3 
+allocated based upon a formula to be determined by the commission, w hich shall 4 
+promulgate a rule that is binding upon all party states.  5 
+C.  The commission may not incur obligations of any kind prior to securing the funds 6 
+adequate to those obligations; nor may the commission pledge the credit of any of the 7 
+party states exce pt by and with the authority of that party state.  8 
+D.  The commission shall keep accurate accounts of all receipts and disbursements.  9 
+The receipts and disbursements of the commission are subject to the audit and 10 
+accounting procedures established under its bylaws.  However, all receipts and 11 
+disbursements of funds handled by the commission must be audited yearly by a 12 
+certified or licensed public accountant, and the report of the audit must be included in 13 
+and become part of the annual report of the commission.  14 
+9.  Qualified immunity; defense and indemnification.  This subsection governs 15 
+immunity provisions and defense and indemnification requirements of the commission.  16 
+A.  An administrator, officer, executive director, employee or representative of the 17 
+commissi on is immune from suit and liability, either personally or in that person's 18 
+official capacity, for any claim for damage to or loss of property or personal injury or 19 
+other civil liability caused by or arising out of any actual or alleged act, error or 20 
+omiss ion that occurred or that the person against whom the claim is made had a 21 
+reasonable basis for believing occurred within the scope of commission employment, 22 
+duties or responsibilities, except that nothing in this paragraph may be construed to 23 
+protect any p erson from suit or liability for any damage, loss, injury or liability 24 
+caused by the intentional, willful or wanton misconduct of that person.  25 
+B.  The commission shall defend an administrator, officer, executive director, 26 
+employee or representative of the commission in any civil action seeking to impose 27 
+liability arising out of any actual or alleged act, error or omission that occurred within 28 
+the scope of commission employment, duties or responsibilities, or that the person 29 
+against whom the claim is made ha d a reasonable basis for believing occurred within 30 
+the scope of commission employment, duties or responsibilities, as long as the actual 31 
+or alleged act, error or omission did not result from that person's intentional, willful 32 
+or wanton misconduct.  Nothing  in this paragraph may be construed to prohibit that 33 
+person from retaining counsel.  34 
+C.  The commission shall indemnify and hold harmless an administrator, officer, 35 
+executive director, employee or representative of the commission for the amount of 36 
+any settl ement or judgment obtained against that person arising out of any actual or 37 
+alleged act, error or omission that occurred within the scope of commission 38 
+employment, duties or responsibilities, or that the person had a reasonable basis for 39 
+believing occurred  within the scope of commission employment, duties or 40 
+responsibilities, as long as the actual or alleged act, error or omission did not result 41 
+from the intentional, willful or wanton misconduct of that person.  42 
+ 
+ Page 13 - 128LR1234(01) -1 
+ §2178.  Rulemaking -- Article 8  1 
+1.  Rule -makin g powers.  The commission shall exercise its rule -making powers 2 
+pursuant to the criteria set forth in this section and the rules adopted under this section.  3 
+Rules and amendments to rules become binding as of the date specified in each rule or 4 
+amendment an d have the same force and effect as provisions of this compact.  5 
+2.  Adoption.  Rules or amendments to rules must be adopted at a regular or special 6 
+meeting of the commission.  7 
+3.  Notice publication.  Prior to promulgation and adoption of a final rule or ru les by 8 
+the commission, and at least 60 days in advance of the meeting at which the rule will be 9 
+considered and voted upon, the commission shall file a notice of proposed rulemaking:  10 
+A.  On the publicly accessible website of the commission; and  11 
+B.  On the p ublicly accessible website of each licensing board or in the publication in 12 
+which each party state would otherwise publish proposed rules.  13 
+4.  Notice contents.  The notice of proposed rulemaking under subsection 3 must 14 
+include:  15 
+A.  The proposed time, date and location of the meeting in which the rule will be 16 
+considered and voted upon;  17 
+B.  The text of the proposed rule or amendment and the reason for the proposed rule 18 
+or amendment;  19 
+C.  A request for comments on the proposed rule from any interested person; a nd 20 
+D.  The manner in which an interested person may submit notice to the commission 21 
+of the intention to attend the public hearing and any written comments.  22 
+5.  Materials submission.  Prior to adoption of a proposed rule, the commission shall 23 
+allow any inte rested person to submit written data, facts, opinions and arguments, which 24 
+must be made available to the public.  25 
+6.  Public hearing opportunity.  The commission shall grant an opportunity for a 26 
+public hearing before it adopts a rule or amendment.  27 
+7.  Publi c hearing procedure.  The commission shall publish the place, time and 28 
+date of the scheduled public hearing.  29 
+A.  A public hearing must be conducted in a manner providing each person who 30 
+wishes to comment a fair and reasonable opportunity to comment orally or in writing.  31 
+All public hearings must be recorded, and a copy must be made available upon 32 
+request.  33 
+B.  Nothing in this section may be construed as requiring a separate public hearing on 34 
+each rule.  Rules may be grouped for the convenience of the commiss ion at public 35 
+hearings required by this section.  36 
+ 
+ Page 14 - 128LR1234(01) -1 
+ 8.  Attendance.  If no one appears at the public hearing, the commission may 1 
+proceed with promulgation of the proposed rule.  2 
+9.  Consideration of comments.  Following the scheduled public hearing date, or by  3 
+the close of business on a scheduled hearing date if the hearing was not held, the 4 
+commission shall consider all written and oral comments received.  5 
+10.  Final action.  The commission shall, by majority vote of all administrators, take 6 
+final action on a p roposed rule and determine the effective date of the rule, if any, based 7 
+on the rule -making record and the full text of the rule.  8 
+11.  Emergency rulemaking.  Upon determination that an emergency exists, the 9 
+commission may consider and adopt an emergency ru le without prior notice, opportunity 10 
+for comment or public hearing, in which case the usual rule -making procedures provided 11 
+in this compact and in this section must be retroactively applied to the rule as soon as 12 
+reasonably possible and in no event later t han 90 days after the effective date of the rule.  13 
+For the purposes of this subsection, an emergency rule is one that must be adopted 14 
+immediately in order to:  15 
+A.  Meet an imminent threat to public health, safety or welfare;  16 
+B.  Prevent a loss of commission  or party state funds; or  17 
+C.  Meet a deadline for the promulgation of an administrative rule that is required by 18 
+federal law or rule.  19 
+12.  Revisions.  The commission may direct revisions to a previously adopted rule or 20 
+amendment for purposes of correcting typographical errors, errors in format, errors in 21 
+consistency or grammatical errors.  Public notice of any revisions must be posted on the 22 
+publicly accessible website of the commission.  The revision is subject to challenge by 23 
+any person for a period of 30  days after posting.  The revision may be challenged only on 24 
+grounds that the revision results in a material change to a rule.  A challenge must be made 25 
+in writing and delivered to the commission prior to the end of the notice period.  If no 26 
+challenge is m ade, the revision takes effect without further action. If the revision is 27 
+challenged, the revision may not take effect without the approval of the commission.  28 
+§2179.  Oversight, dispute resolution and enforcement -- Article 9  29 
+1.  Oversight.  This subsectio n governs enforcement and proceedings under the 30 
+compact.  31 
+A.  Each party state shall enforce this compact and take all actions necessary and 32 
+appropriate to effectuate this compact's purposes and intent.  33 
+B.  The commission is entitled to receive service of p rocess in any proceeding that 34 
+may affect the powers, responsibilities or actions of the commission and has standing 35 
+to intervene in such a proceeding for all purposes.  Failure to provide service of 36 
+process in a proceeding to the commission renders a judgm ent or order void as to the 37 
+commission, this compact or promulgated rules.  38 
+2.  Default, technical assistance and termination.  This subsection governs default, 39 
+technical assistance and termination under the compact.  40 
+ 
+ Page 15 - 128LR1234(01) -1 
+ A.  If the commission determines that a party state has defaulted in the performance 1 
+of its obligations or responsibilities under this compact or the promulgated rules, the 2 
+commission shall:  3 
+(1)  Provide written notice to the defaulting state and other party states of the 4 
+nature of the default, the proposed means of curing the default or any other action 5 
+to be taken by the commission; and  6 
+(2)  Provide remedial training and specific technical assistance regarding the 7 
+default.  8 
+B.  If a party state in default fails to cure the default, the defaultin g state's 9 
+membership in this compact may be terminated upon an affirmative vote of a 10 
+majority of the administrators, and all rights, privileges and benefits conferred by this 11 
+compact may be terminated on the effective date of termination.  A cure of the 12 
+default does not relieve the offending state of obligations or liabilities incurred during 13 
+the period of default.  14 
+C.  Termination of membership in this compact may be imposed only after all other 15 
+means of securing compliance have been exhausted.  Notice of i ntent to suspend or 16 
+terminate must be given by the commission to the governor of the defaulting state 17 
+and to the executive officer of the defaulting state's licensing board and each of the 18 
+party states.  19 
+D.  A party state whose membership in this compact ha s been terminated is 20 
+responsible for all assessments, obligations and liabilities incurred through the 21 
+effective date of termination, including obligations that extend beyond the effective 22 
+date of termination.  23 
+E.  The commission may not bear any costs rela ted to a party state that is found to be 24 
+in default or whose membership in this compact has been terminated unless agreed 25 
+upon in writing between the commission and the defaulting state.  26 
+F.  The defaulting state may appeal the action of the commission by p etitioning the 27 
+United States District Court for the District of Columbia or the federal district in 28 
+which the commission has its principal offices.  The prevailing party must be 29 
+awarded all costs of such litigation, including reasonable attorney's fees.  30 
+3.  Dispute resolution.  This subsection governs dispute resolution under the 31 
+compact.  32 
+A.  Upon request by a party state, the commission shall attempt to resolve disputes 33 
+related to the compact that arise among party states and between party and nonparty 34 
+states. 35 
+B.  The commission shall promulgate a rule providing for both mediation and binding 36 
+dispute resolution for disputes, as appropriate.  37 
+C.  In the event the commission cannot resolve disputes among party states arising 38 
+under this compact:  39 
+(1)  The party states may submit the issues in dispute to an arbitration panel 40 
+composed of individuals appointed by the compact administrator in each of the 41 
+ 
+ Page 16 - 128LR1234(01) -1 
+ affected party states and an individual mutually agreed upon by the compact 1 
+administrators of all the party states  involved in the dispute; and  2 
+(2)  The decision of a majority of the arbitrators under this paragraph is final and 3 
+binding.  4 
+4.  Enforcement.  This subsection governs enforcement under the compact.  5 
+A.  The commission, in the reasonable exercise of its discr etion, shall enforce the 6 
+provisions and rules of this compact.  7 
+B.  By majority vote, the commission may initiate legal action in the United States 8 
+District Court for the District of Columbia or the federal district in which the 9 
+commission has its principal  offices against a party state that is in default to enforce 10 
+compliance with the provisions of this compact and its promulgated rules and bylaws.  11 
+The relief sought may include both injunctive relief and damages.  In the event 12 
+judicial enforcement is neces sary, the prevailing party must be awarded all costs of 13 
+such litigation, including reasonable attorney's fees.  14 
+C.  The remedies provided in this section are not the exclusive remedies of the 15 
+commission.  The commission may pursue any other remedies availab le under federal 16 
+or state law.  17 
+§2180.  Effective date, withdrawal and amendment -- Article 10  18 
+1.  Effective date.  This compact becomes effective and binding on the earlier of the 19 
+date of legislative enactment of this compact into law by no fewer than 26 s tates or 20 
+December 31, 2018.  All party states to this compact that were parties to the prior 21 
+compact are deemed to have withdrawn from the prior compact within 6 months after the 22 
+effective date of this compact.  23 
+2.  Prior compact.  Each party state shall co ntinue to recognize a multistate licensure 24 
+privilege of a nurse to practice in that party state issued under the prior compact until that 25 
+party state has withdrawn from the prior compact.  26 
+3.  Withdrawal.  A party state may withdraw from this compact by ena cting a statute 27 
+repealing the same.  A party state's withdrawal does not take effect until 6 months after 28 
+enactment of the repealing statute.  29 
+4.  Continuing requirements.  A party state's withdrawal or termination does not 30 
+affect the continuing requirement  of the withdrawing or terminated state's licensing board 31 
+to report adverse actions and significant investigations occurring prior to the effective 32 
+date of the withdrawal or termination.  33 
+5.  Agreements with nonparty states.  Nothing contained in this compa ct may be 34 
+construed to invalidate or prevent any nurse licensure agreement or other cooperative 35 
+arrangement between a party state and a nonparty state that is made in accordance with 36 
+the other provisions of this compact.  37 
+6.  Amendments to compact.  This co mpact may be amended by a party state.  An 38 
+amendment to this compact does not become effective and binding upon the party states 39 
+until it is enacted into the laws of all party states.  40 
+ 
+ Page 17 - 128LR1234(01) -1 
+ 7.  Representative participation.  Representatives of nonparty states to  this compact 1 
+must be invited to participate in the activities of the commission, on a nonvoting basis, 2 
+prior to the adoption of this compact by all states.  3 
+§2181.  Construction and severability -- Article 11  4 
+This compact may be liberally construed so as t o effectuate its purposes.  The 5 
+provisions of this compact are severable, and if any phrase, clause, sentence or provision 6 
+of this compact is declared to be contrary to the constitution of any party state or of the 7 
+United States or if its applicability to any government, agency, person or circumstance is 8 
+held invalid, the validity of the remainder of this compact and its applicability to any 9 
+government, agency, person or circumstance are not affected.  If this compact is held to 10 
+be contrary to the constitut ion of any party state, this compact remains in full force and 11 
+effect as to the remaining party states and in full force and effect as to the party state 12 
+affected as to all severable matters.  13 
+PART B  14 
+Sec. B -1.  25 MRSA §1542 -A, sub -§1, ¶¶K and L, as enacted  by PL 2015, c. 15 
+300, Pt. B, §3, are amended to read:  16 
+K.  Who has applied for employment with the Department of Administrative and 17 
+Financial Services, Bureau of Revenue Services, Office of Tax Policy and whose 18 
+fingerprints have been required by the Associat e Commissioner for Tax Policy 19 
+pursuant to Title 36, section 194 -B; or 20 
+L.  Who is assigned to provide services to the Department of Administrative and 21 
+Financial Services, Bureau of Revenue Services pursuant to a contract or subcontract 22 
+for services to the b ureau and whose fingerprints have been required by the State Tax 23 
+Assessor pursuant to Title 36, section 194 -C.; or 24 
+Sec. B -2.  25 MRSA §1542 -A, sub -§1, ¶M is enacted to read:  25 
+M.  Who is an applicant for licensure with the State Board of Nursing as required 26 
+under Title 32, section 2111, subsection 1.  27 
+Sec. B -3.  25 MRSA §1542 -A, sub -§3, ¶L is enacted to read:  28 
+L.  A law enforcement officer shall take or cause to be taken the fingerprints of the 29 
+person named in subsection 1, paragraph M at the request of that pe rson and upon 30 
+payment by the person of the fee established in Title 32, section 2111, subsection 1.  31 
+Sec. B -4.  32 MRSA §2111 is enacted to read:  32 
+§2111.  Criminal history record information; fees  33 
+1.  Criminal history record information; fees.  The board sha ll obtain criminal 34 
+history record information from the Federal Bureau of Investigation for any person 35 
+applying for licensure under this chapter.  The board shall collect a fee to be paid by the 36 
+applicant of no more than $60 for an initial criminal history record check required by this 37 
+section.  Except for the portion of the payment, if any, that constitutes the processing fee 38 
+ 
+ Page 18 - 128LR1234(01) -1 
+ charged by the Federal Bureau of Investigation, all money received by the board for 1 
+purposes of this subsection must be used in accor dance with subsection 6.  2 
+2.  Fingerprints.  An applicant for licensure under this chapter shall submit to having 3 
+fingerprints taken.  A law enforcement officer, upon proof of payment by the applicant of 4 
+the fee under subsection 1, shall take or cause to be  taken the applicant's fingerprints and 5 
+shall forward the fingerprints to the Department of Public Safety, State Bureau of 6 
+Identification so that the bureau can conduct state and national criminal history record 7 
+checks.  8 
+3.  Confidentiality.  Information ob tained pursuant to this section is confidential.  9 
+The results of criminal history record checks received by the board pursuant to this 10 
+section are for official use only in order to determine eligibility for licensure under this 11 
+chapter and may not be disse minated outside the board.  12 
+4.  Hearing.  A board action against an applicant for licensure under this chapter 13 
+based upon the criminal history record information under subsection 1 is subject to the 14 
+provisions of Title 5, section 5302.  15 
+5.  Rules.  The board  may adopt rules to carry out the purposes of this section.  Rules 16 
+adopted pursuant to this subsection are routine technical rules under Title 5, chapter 375, 17 
+subchapter 2 -A. 18 
+6.  Criminal History Record Check Fund.  The Criminal History Record Check 19 
+Fund i s created as a dedicated fund within the Department of Professional and Financial 20 
+Regulation, State Board of Nursing for the deposit of any fees collected pursuant to 21 
+subsection 1.  The purpose of the fund is to reimburse the Department of Public Safety 22 
+for the cost of conducting the fingerprinting and state and national criminal history record 23 
+checks pursuant to this section.  The fund may not lapse, but must be carried forward to 24 
+carry out the purposes of this section.  25 
+7.  Applicant's access to criminal h istory record check.   An applicant who is the 26 
+subject of a Federal Bureau of Investigation criminal history record check under this 27 
+section may obtain a copy of a criminal history record check by following the procedures 28 
+outlined in 28 Code of Federal Regu lations, Sections 16.32 and 16.33.  29 
+Sec. B -5.  Appropriations and allocations.  The following appropriations and 30 
+allocations are made.  31 
+PROFESSIONAL AND FINANCIAL REGULATION, DEPARTMENT OF  32 
+Criminal History Record Check Fund - State Board of Nursing N125  33 
+Initiative:  Allocates funds to reimburse the Department of Public Safety for the cost of 34 
+conducting fingerprinting and state and federal criminal history record checks.  35 
+ 
+ 36 
+ 37 
+ 38 
+ 39 OTHER SPECIAL REVENUE FUNDS  2017 -18 2018 -19 
+All Other  $17,250  $23,000  
+ 
+  
+  
+OTHER SPECI AL REVENUE FUNDS TOTAL  $17,250  $23,000  
+ 
+ Page 19 - 128LR1234(01) -1 
+  
+SUMMARY  1 
+This bill adopts the model act for the multistate nurse licensure compact endorsed by 2 
+the National Council of State Boards of Nursing and adds a federal fingerprint 3 
+background check for new licensees as required by the compact.  4 
+ 

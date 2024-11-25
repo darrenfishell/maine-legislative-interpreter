@@ -1,0 +1,122 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1363
+H.P. 985 House of  Representatives, March 21, 2019
+An Act  Regarding Energy Transmission  Corridors
+(EMERGENCY)
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BERRY of Bowdoinham.
+Cosponsored by Senator FARRIN of Somerset and
+Representatives: GRIGNON of Athens, GROHOSKI of Ellsworth, KESCHL of Belgrade,  
+KESSLER of South  Portland, RILEY of Jay, Senators: MIRAMANT of Knox, WOODSOME 
+of York.
+
+Page 1 - 129LR0968(01)-11Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+2become effective until 90 days after adjournment unless enacted as emergencies; and
+3Whereas, a proposal for a high-impact electric transmission line is currently 
+4pending and appropriate standards for review and approval must be in place to ensure the 
+5public convenience for the line; and
+6Whereas, in the judgment of the Legislature, these facts create an emergency within 
+7the meaning of the Constitution of Maine and require the following legislation as 
+8immediately necessary for the preservation of the public peace, health and safety; now, 
+9therefore,
+10Be it enacted by the People of the State of Maine as follows:
+11Sec. 1.  35-A MRSA §3131, sub-§4-A, as enacted by PL 2009, c. 655, Pt. A, §3, 
+12is amended to read:
+134-A.  High-impact electric transmission line.  "High-impact electric transmission 
+14line" means a transmission line greater than 50 miles in length that is not located in a 
+15statutory corridor, as defined in section 122, subsection 1, paragraph F-4, or a petitioned 
+16corridor, as defined in section 122, subsection 1, paragraph D-1, and that is:
+17A.  Constructed to transmit direct current electricity; or
+18B.  Capable of operating at 345 kilovolts or more and:
+19(1)  Is not a generator interconnection transmission facility as defined in section 
+203132, subsection 1-B; and
+21(2)  Is not constructed primarily to provide electric reliability, as determined by 
+22the commission.
+23Sec. 2.  35-A MRSA §3132, sub-§6-A, as enacted by PL 2009, c. 655, Pt. A, §5, 
+24is amended to read:
+256-A.  High-impact electric transmission line; certificate of public convenience 
+26and necessity.  The commission shall evaluate and render a decision on any petition for a 
+27certificate of public convenience and necessity for a high-impact electric transmission 
+28line in accordance with section 122, subsection 1-D this subsection.  Before issuing a 
+29certificate, the commission must find that:
+30A.  Significant tangible public benefits will result from the construction and use of 
+31the line and that the State and at least 2 municipalities through which the high-impact 
+32electric transmission line will pass will receive some portion of those significant 
+33tangible public benefits; and
+34B.  All municipalities through which the high-impact electric transmission line will 
+35pass have held a local referendum, conducted in accordance with the law relating to 
+36municipal elections, and certified to the commission that a majority of the voters 
+37voting at the election voted in favor of a question that conforms to the following 
+38form: "Do you favor the construction of the (insert name or description of the high-
+Page 2 - 129LR0968(01)-11impact electric transmission line) in this municipality?"  The commission shall by 
+2rule establish any necessary procedures to implement this requirement in a manner 
+3that ensures an orderly process.
+4For purposes of this subsection, "significant tangible public benefits" means public 
+5benefits, as defined by the commission by rule, but not including property tax payments 
+6or temporary line construction jobs directly relating to the line, generated in this State 
+7over a period of 20 years in an amount that the commission finds to be appropriately 
+8commensurate with, but in no case less than 2% of, the total benefits expected to result 
+9from the line to the entity submitting the petition under this subsection and to any other 
+10entities that will be involved in the construction or operation of the line and to any entities 
+11expected to provide generation service, as defined in section 3201, through the line.  
+12Rules adopted by the commission under this section are major substantive rules as 
+13defined in Title 5, chapter 375, subchapter 2-A.
+14Sec. 3.  Moratorium.  No permit, certificate or other approval may be issued by 
+15the Public Utilities Commission or the Department of Environmental Protection for a 
+16high-impact electric transmission line, as defined in the Maine Revised Statutes, Title 
+1735-A, section 3131, subsection 4-A, after the effective date of this Act until 90 days after 
+18the adjournment of the Second Regular Session of the 129th Legislature.  The Public 
+19Utilities Commission, in consultation with the Department of Environmental Protection, 
+20shall provisionally adopt a rule in accordance with Title 35-A, section 3132, subsection 
+216-A defining the significant tangible benefits that the State and affected municipalities 
+22must receive from the construction or use of a high-impact electric transmission line and 
+23establishing an orderly process for municipalities to hold referendum votes on a proposal 
+24to construct a high-impact electric transmission line.  The commission shall submit its 
+25provisionally adopted rule to the Legislature for review no later than December 31, 2019.
+26Sec. 4.  Rulemaking.  In adopting rules to define "significant tangible public 
+27benefits" under the Maine Revised Statutes, Title 35-A, section 3132, subsection 6-A, the 
+28Public Utilities Commission shall consult with the Department of Environmental 
+29Protection and the Maine Land Use Planning Commission.
+30Emergency clause.  In view of the emergency cited in the preamble, this 
+31legislation takes effect when approved.
+32SUMMARY
+33This bill prohibits the Public Utilities Commission from issuing a certificate of public 
+34convenience and necessity for a high-impact electric transmission line unless the 
+35commission finds significant tangible public benefits will result from the construction and 
+36use of the line, and all municipalities through which the high-impact electric transmission 
+37line will pass have held a local referendum and certified to the commission that a 
+38majority of the voters voting at the election voted in favor of the construction of the line 
+39through that municipality.
+40This bill also establishes a moratorium on the issuance of any permit, certificate or 
+41other approval by the Public Utilities Commission or the Department of Environmental 
+42Protection for a high-impact electric transmission line until 90 days after the adjournment 
+Page 3 - 129LR0968(01)-11of the Second Regular Session of the 129th Legislature to allow time for the commission, 
+2in consultation with the Department of Environmental Protection, to adopt rules 
+3necessary to implement the requirements of the legislation.

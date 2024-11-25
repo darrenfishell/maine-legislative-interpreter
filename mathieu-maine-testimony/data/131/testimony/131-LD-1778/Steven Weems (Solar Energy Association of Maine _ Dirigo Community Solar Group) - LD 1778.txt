@@ -1,0 +1,296 @@
+ 
+ 
+ 
+ 
+Testimony  in Opposition to LD 1778 
+An Act to Ensure a Sustainable Electric Grid   
+Steven L. Weems, Board Member , Solar Energy Association of Maine  
+President, Dirigo  Community Solar Group  
+To the Joint Standing Committee on Energy, Utilities, and Technology  
+May 18, 2023  
+ 
+ Senator Lawrence,  Representative Zeigler, and other distinguished 
+members of the Joint Standing Committee on Energy, Utilities, and Technology: 
+my name is Steve Weems, Board Member of the Solar Energy Association of 
+Maine  (SEAM) ; also founder and P resident of Dirigo Community Solar Group  
+(Dirigo CSG) , a nonprofit associa tion of 14 small, member -owned  community solar 
+farms.   SEAM and Dirigo CSG are opposed to all aspects of LD 1778, for similar 
+reasons we testified in opposition to LD 442, LD 683, LD 1347, and LD 1531.  
+Eliminating net energy billing and curtailing energy efficiency and beneficial 
+electrification programs of the Efficiency Maine Trust (EMT) are not in the best 
+interests of Maine people and businesses.  
+ We are advocates of reforming the existing distributed generation (DG) 
+program, which includes net energy billing (NEB), so it is beneficial to all Maine 
+people and electricity ratepayers.  We are on record about this.  NEB is an 
+essential component of Maine’s drive to decarbonize  its many uses of energy .  
+Eliminating it would be disastrous in many ways .  Simi larly, it would be unwise in 
+the extreme to further limit the energy efficiency activities of Efficient Maine 
+Trust.  Reducing our use of energy wherever possible is the best approach to a 
+sustainable future.  And the trust is eminently successful in its w ork. 
+ 
+2 
+  Our further comments are focused primarily on net energy billing: first a 
+few overview observations, then more detailed explanatory information, some of 
+which we have provided previously.  
+ The criticism being voiced about NEB is a one -dimensional, exaggerated 
+story rather than good .  As an antidote, we advocate , forward -looking solutions 
+based on rigorous full economic analysis.   If there is a crisis, it is the inability of 
+the grid to accommodate distributed energy resources and take advantage of 
+two-way energy flow s.  To arrive at a good place, it is necessary to consider all the 
+things that determine the health and well -being of “the public.”   In short:  
+1. The problem of a rate shift is real but wildly exaggerated ( check the actual  rate 
+filings of the utilities  – for example, see the CMP explanation at Appendix A ). 
+2. A moratorium, ban, elimination, or retroactive adjustments of NEB would 
+show bad faith , and hurt about 25,000 existing customers.  
+3. The 130th Legislature established an ord erly process (including performance 
+deadlines and a tariff reduction) to curtail and improve the distributed energy 
+program (Including NEB) , with an timetable for analysis and restructuring.  
+4. Great progress is being made in accordance with this process  – the                 
+DG Stakeholder Group work produced a recommendation that would take 
+over 90% of future distributed generation out of the NEB program and make it 
+beneficial to all ratepayers  (see chart s at Appendix B  and Appendix C ). 
+5. The key is evaluating all the benefits and costs of any energy program, large or 
+small, including NEB, and structuring the  program so that it provide s net 
+benefits to all Maine people , including electricity ratepayers.  
+6. Regarding NEB  itself, since CMP and Versant are not in the energy production 
+business and do not pay the generators for any of the NEB energy put on their 
+grids, these generators should be viewed as another type of competitive 
+energy supplier , selected by the customer.  This indicates a dual focus on (i ) all 
+the cost-benefit factors , and (ii) a subset of th ese affecting the utilities and 
+therefore ratepayers, in accordance with # 5 above, is necessary to reform the 
+NEB program for the benefit of all.     
+SEAM LD 1778 EUT Committee Testimony  5-18-23 
+ 
+3 
+ Appendix A  
+ 
+Actual Numbers Instead of Scary Numbers                                                                 
+April 18, 2023  
+ 
+ The Office of the Public Advocate (OPA) keeps talking about an NEB 
+ratepayer impact of $220 million per year. This is a fict ion.  It is a scary , 
+hypothetical, worst -imaginable -case scenario.  For a more accurate context, 
+consider the actual rate case filed by Central Maine Power (CMP) with the Public 
+Utilities Commission (PUC).  Ironically this is the same rate case the OPA may  be 
+able to negotiate down!  In this rate case, CMP is asking for about a $50 million 
+increase spread over three year, purportedly for NEB costs.  This is significant, and 
+is cause for distributed generation program reform, but it is not a crisis.  
+Accordi ng to CMP, the company is seeking a total rate increase of                 
+$ 94.9 million over 3 years, for both  (i) investment in a stronger, smarter, more 
+resilient grid  (an ongoing CMP responsibility) , and (ii) to support Maine energy 
+policy objectives (including NEB).  Allocating half of this amount to each purpose, 
+this means $ 47.5 million for distributed generation and other clean energy 
+incentives  (including NEB) .  The average CMP residential bill is $  153.84/month.  
+Per CMP, this would result in an increase of $ 4.90 (only 3.2 % of the current total 
+bill) over three years.  If the energy part of the bill decreases even one cent it 
+would wipe out the impact of this clean energy cost.  
+Math Proof  
+Typical residential customer energy usage: 550 kWh/month                                                  
+Standard Offer Energy Rate: $ 0.176310/kWh                                                                                       
+Delivery Charge: $ 13.66 (fix ed for first 50 kWh) + $ 0.086420/kWh (variable 
+charge for remaining kWh used)  
+ 
+4 
+ Current bill charge:  $ 13.66 + ($ 0.086420 x 500 kWh) + ($ 0.176310 x 550 kWh) = 
+$ 153.84   
+CMP Rate Filing Data (per CMP Customer Notification, March 2023) * 
+Year         Revenu e Increase         CMP Estimate Ratepayer Impact     
+2023          $ 43.5 million                         $ 4.65 per month                                            
+2024          $ 27.7 million                         $ 2.78 per month                                          
+2025          $23.7 million                          $ 2.37 per month  
+* Note this is the total CMP request for both regular , routine on -going investment 
+and clean energy purposes.   
+Customer Bill Impact Related to NEB + Other State Clean Energy Policies * 
+Year         Clean Energy Portion (1/2  of the above)        % of Baseline Total Bill     
+2023                     $ 2.32 per month                                          1.51 %                                                 
+2024                     $ 1.39 per month                                          0.90 %                                                 
+2025                     $ 1.19 per month                                           0.77 %                                                  
+Total                     $ 4.90 per month                                          3.18 %  
+$ 4.90 per month (the cumulative total over three years is 0.9 cents/kWh  
+* Note this is one -half the total rate increase for both regular, routine on -going 
+investment and clean energy purposes.  
+This is an incomplete story because it does not include additional p rojects that 
+may come on line.  Nevertheless, it shows the limited impact of State energy 
+policy initiatives in the current CMP rate filing.  The impact o f these policies on 
+the typical residential customer is less than one cent per kWh.  A decrease  in the 
+energy charge of one cent of more (considered probable), or any other charge 
+category, would compensate for this negative impact in full.  A copy of the CMP 
+customer notice on which the foregoing analysis is based is attached.   
+ 
+
+ 
+5 
+ Appendix B                                            
+ 
+Accounting for the Benefits and Costs of Distributed Energy Resources (DER)    
+April 14, 2023  
+ 
+There are two basic, distinct types of economic analysis  typically 
+une=dertaken .  Both are important to consider for a full and accurate 
+understanding of the impact of distributed energy resources (DER), which is a 
+category that includes but is not limited  to net energy billing (NEB).  
+1. Benefit -Cost Analysis .  This is a comprehensive analysis that looks at all the 
+benefits and costs of a distributed energy resource (DER), including utility 
+system and societal (general population) benefits and costs .  The resu lts 
+typically are expressed in a Benefit/Cost Ratio (BCR).  Benefits considered in 
+the “Maine Test” by the economic consultants to the Governor’s Energy Office 
+(GEO) for the DG Stakeholder Group work include: (1) avoided capacity costs;  
+(2) avoided enviro nmental and RPS compliance costs; (3) avoided transmission 
+costs, (4) avoided distribution costs; and (5) avoided greenhouse gas (GHG) 
+and NOx emissions  (Source: Distributed Generation Successor Program in 
+Maine , An Economic Assessment , January 5, 2023, pa ges 14 -19.)  
+2. Rate Impact Analysis .  The rate, bill, and participation analyses encompass only 
+the benefits and costs  of DER that affect the utility bills  of both participant and 
+nonparticipant ratepayers.  This is a subset of the factors considered in an 
+overall benefit -cost analysis, which exclude societal benefits, because these 
+are not reflected in utility bills, even though they benefit participant and 
+nonparticipant ratepayers equally. (Source: same as above, pages 22 -23.) 
+The foregoing was taken from the work of the economic consultants Synapse 
+Energy Economics (Synapse) and Sustainable Energy Advantage (SEA) included in 
+the Final Report of the Distributed Generation Stakeholder Group, dated January 
+6, 2023, as submitted to the EUT Committee. This is t he latest and most 
+ 
+6 
+ comprehensive analysis of the net benefits and costs, and ratepayer impact, of 
+distributed energy resources.  A few important statements that can be made as a 
+result are:  
+ This work was oriented toward the charge of the GEO and the DG Sta keholder 
+Group to come up with a successor DER program, so virtually all the analysis 
+relates to future program options.  This corroborates the practicality and 
+importance of such analysis.  
+ The limited analysis included about the existing NEB program (curr ently the 
+only active DG program) did not take into account the limitation on the C&I 
+Tariff enacted last year.  
+ Calculations about lost or foregone projected utility revenues are misleading, 
+particularly if they are represented as negative ratepayer impac t, because 
+typically they are based on what might happen (undoubtedly an 
+overstatement to some degree, for multiple reasons), and do not take into 
+account the benefits  of DER, including both avoided costs of the utilities 
+(which reduce ratepayer impact) an d benefits to all Maine people, including all 
+ratepayers, which are not reflected in utility bills.  
+ It definitely is possible to quantify benefits, costs, and ratepayer impacts, 
+despite the difficulty assigning a value to things like clean air and reduced 
+climate change, especially when comparing the merits of future options.  
+ It appears eminently possible to structure a successor program that benefits all 
+Maine people, and which  reduces  the rates paid by all investor -owned utility 
+ratepayers.  (See attached chart of the potential beneficial impact on 
+ratepayers of the recommendation of the DG Stakeholder Group, as well as 
+the net benefits available to all Maine people.)   A second chart (attached to 
+Appendix C) shows the existing total pipeline, and that less than 10% of this 
+volume would qualify for the NEB program.   
+ 
+ 
+ 
+
+ 
+7 
+ Appendix C  
+ 
+Limited Total Capacity of Small Distributed Generation Projects ( 1 MW  max )   
+April 13, 2023  
+ 
+ Net energy billing (NEB) gives all Maine people the ability to take direc t 
+action to help mitigate the worsening climate disaster.  Some form of NEB is 
+essential to allow individuals, businesses, and other entities of conscience to 
+install clean energy equipment, or participate in projects doing this for them, and 
+be charged on  their utility bills only for any additional energy they need.  The 
+smallest distributed generation (DG) projects, structured according to NEB 
+principles, are the foundation on which the dynamic, two -way grid of the future 
+will operate.  Good policy entail s analyzing the benefits and costs of these 
+projects rigorously and implementing refinements that will increase benefits and 
+reduce costs.   
+ In any case, data from Central Maine Power (CMP) and Versant    
+(November 2022) shows that whatever positive or negative impact the smallest  
+DG projects  may have on nonparticipating ratepayers will be nominal, just 
+because these projects account for such a small fraction of all DG projects.  For 
+example, the data shows that a mere 7% of the total projects in the pip eline are   
+1 MW in scale or less.  Please note the attached chart to see this graphically.    
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+8 
+ Appendix D  
+ 
+The Maine Distributed Generation Manifesto – Statement of Principles  
+May 12, 2023  
+ 
+1. Decarbonize Maine  life.   
+ 
+2. Install distributed energy resources . 
+ 
+3. Provide net benefits and reduce electricity rates . 
+ 
+4. Empower people to take direct action to reduce climate disruption . 
+ 
+5. Help lower income people participate . 
+ 
+6. Analyze the economic impact of all factors , on everyone  
+ 
+7. Maximize the economic values  of distributed energy resources . 
+ 
+8. Simplify the net energy billing (NEB) program . 
+ 
+9. Honor prior legislative , regulatory , and contractual commitments . 
+ 
+10. Maximize energy reliability and grid resiliency .  
+  
+ 
+Brief explanations follow.  
+ 
+1. Decarbonize Maine life as  required by Maine statute, or ahead of schedule, via 
+conversion to electricity for all purposes requiring power, generated from 
+renewable energy resources.  
+ 
+2. Create a network of distributed energy resources (defined as renewable 
+energy projects up to 5 MW in scale) as the backbone of local micro grids and 
+ 
+9 
+ an essential ingredient in the dynamic, two -way Maine grid system of the 
+future.  
+3. Support a tier of distributed energy resources (DER) programs that as group 
+provide more benefits than costs to Maine people , and reduce electricity rates 
+for all utility ratepayers.  
+ 
+4. Empower individuals, businesses, schools, municipalities, and other 
+institutions to take direct action to acquire their electricity from solar and 
+other renewable distributed energy resources, up to a certain maximum 
+project size (either 1 or 2 MW), through a successor net energy billing (NEB) 
+program.  Larger DER projects (up to 5 MW) would not be in the NEB program.  
+ 
+5. Look for ways to provide electricity produced from solar resources to people 
+with low or moderate incomes, via maximization of the use of Federal funds 
+or otherwise.  
+ 
+6. Ensure that all actions are based on an evaluation of (i ) the full range of 
+benefits (included avoided costs) and costs affecting Maine people, and (ii) the 
+subset of these that affect electricity rates.  Make these analyses explicit.    
+ 
+7. Maximum the value of distributed energy resources by incorporating 
+techno logies with synergy (e.g., battery storage, grid improvements) while 
+relying on proven technology and known, predictable project costs.  
+ 
+8. Simplify the NEB program to create as much value as possible at the utility 
+level and make it more understandable to ev eryone.  
+ 
+9. Fulfill the obligations made to Maine electricity customers (residential, 
+commercial, and institutional) in existing statutes, regulations and 
+agreements, by making changes that apply in the future in an orderly fashion . 
+ 
+10. Support efficient electrical system operation by utilizing an overall mix of 
+electricity resources to provide system reliability in all seasons, under all 
+weather conditions, at any time of day; and otherwise support the reliability 
+and resiliency of the e lectrical system when stressed, for whatever reason.  
+ 
+Steven Weems
+Solar Energy Association of Maine & Dirigo Community Solar Group
+LD 1778
+The Solar Energy Association of Maine thought this public hearing had been shifted 
+to a later date. Therefore we were not present to testify in person and are submitting 
+written testimony after the fact. We apologize for any inconvenience this may cause, 
+and appreciate Committee consideration of this submission. 

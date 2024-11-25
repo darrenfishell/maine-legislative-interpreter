@@ -1,0 +1,519 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1639
+S.P. 656 In Senate, April 12, 2023
+An Act to Address Unsafe Staffing of Nurses and Improve Patient 
+Care
+Reference to the Committee on Labor and Housing suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRENNER of Cumberland.
+Cosponsored by Speaker TALBOT ROSS of Portland and
+Senators: HICKMAN of Kennebec, President JACKSON of Aroostook, TIPPING of 
+Penobscot, Representatives: GEIGER of Rockland, GRAHAM of North Yarmouth, 
+MADIGAN of Waterville, ROEDER of Bangor, STOVER of Boothbay.
+
+Page 1 - 131LR0765(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA c. 404-A is enacted to read:
+3CHAPTER 404-A
+4HEALTH CARE FACILITY STAFFING
+5§1791.  Short title
+6 This chapter may be known and cited as "the Maine Quality Care Act."
+7§1792. Application and construction
+81. Application.  All health care facilities are subject to the requirements of this chapter.
+92. Construction.  This chapter may not be construed to:
+10 A. Change the scope of practice of registered nurses licensed under Title 32, chapter 
+11 31, subchapter 3; or
+12 B. Provide an exemption from the minimum staffing requirements of direct-care 
+13 registered nurses if the patient condition or patient care unit name is different from the 
+14 term used in this chapter but the services provided are substantially similar.
+15§1793. Definitions
+16 As used in this chapter, unless the context otherwise indicates, the following terms 
+17 have the following meanings.
+181. Ancillary staff person.  "Ancillary staff person" means any person who supports 
+19 patient care services in a health care facility through regular, delegated tasks performed 
+20 under the coordination of a direct-care registered nurse for the delivery of safe, therapeutic 
+21 and effective patient care.
+222. Competency.  "Competency" means the ability of a direct-care registered nurse to 
+23 integrate and act on the nurse's knowledge, skills, professional judgment and experience to 
+24 ensure safe, therapeutic and effective care to a specific patient population and for the 
+25 severity of illness in each patient care unit.
+263. Declared state of emergency.  "Declared state of emergency" means an emergency 
+27 declared by an authorized person within federal, state or local government relating to 
+28 circumstances that are unpredictable and unavoidable, affect the delivery of medical care 
+29 and require an immediate or exceptional level of emergency or other medical services at a 
+30 particular health care facility.  "Declared state of emergency" does not include an 
+31 emergency relating to a labor dispute in the health care industry or consistent understaffing 
+32 in a health care facility.
+334. Direct-care registered nurse.  "Direct-care registered nurse" means a registered 
+34 nurse licensed under Title 32, chapter 31, subchapter 3 who is primarily responsible for 
+35 providing direct, in-person, hands-on patient care in a health care facility by engaging in 
+36 the nursing process within the nurse's scope of practice while exercising professional 
+37 judgment in the best interests of the patient at all times.
+Page 2 - 131LR0765(01)15. Health care facility.  "Health care facility" means a hospital licensed under chapter 
+2 405, a freestanding emergency department or an ambulatory surgical facility licensed under 
+3 chapter 405.
+46. Patient care unit.  "Patient care unit" means any area of a health care facility in 
+5 which a patient receives care.
+67. Professional judgment.  "Professional judgment" means the application of a direct-
+7 care registered nurse's knowledge, expertise and experience and the nurse's assessment of 
+8 a patient, data, information and scientific evidence to understand the problems, issues or 
+9 concerns of a patient, to ensure safe, therapeutic and effective patient care and to make 
+10 independent decisions about a patient's care, including whether the assignment of ancillary 
+11 staff persons is appropriate.
+12§1794. Minimum staffing requirements of direct-care registered nurses
+13 Except as provided in section 1795, a health care facility shall assign at least the 
+14 number of direct-care registered nurses at all times during every shift consistent with the 
+15 minimum requirements established in this section and at no time may a health care facility 
+16 assign fewer than 2 direct-care registered nurses in a patient care unit.
+171. Requirements.  A health care facility shall assign a direct-care registered nurse to 
+18 no more than:
+19 A. One patient when:
+20 (1)  The patient is receiving critical care or intensive care; or
+21 (2)  The nurse is assigned to a patient care unit, other than a unit providing 
+22 emergency services, that receives patients requiring critical care or intensive care, 
+23 including, but not limited to, a critical care unit, an intensive care unit or a patient 
+24 care unit with neonatal intensive care or pediatric intensive care patients;
+25 B. One patient when:
+26 (1)  The patient is in an operating room; or
+27 (2)  The nurse is assigned to an operating room.
+28 The health care facility shall assign a minimum of one scrub assistant for each patient 
+29 in an operating room in addition to the assigned direct-care registered nurse;
+30 C. One patient when the patient is receiving conscious sedation;
+31 D. One patient when:
+32 (1)  The patient is receiving postanesthesia care; or
+33 (2)  The nurse is assigned to a patient care unit that receives patients who require 
+34 postanesthesia care, including, but not limited to, a pediatric postanesthesia care 
+35 unit;
+36 E. Three patients when:
+37 (1)  The patients are receiving step-down or intermediate care; or
+38 (2)  The nurse is assigned to a patient care unit that receives patients requiring step-
+39 down or intermediate care, including, but not limited to, a step-down or 
+40 intermediate care unit;
+Page 3 - 131LR0765(01)1 F. Three patients when:
+2 (1)  The patients are receiving emergency medical services and do not require 
+3 critical care or trauma services; or
+4 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+5 emergency medical services, including, but not limited to, an emergency 
+6 department or emergency room;
+7 G. One patient when the patient is receiving emergency services and requires critical 
+8 care;
+9 H. One patient when the patient is receiving emergency services and requires trauma 
+10 services;
+11 I. Three patients when the patients are antepartum and not in active labor;
+12 J. Two patients when the patients are antepartum and require continuous fetal 
+13 monitoring;
+14 K. One patient when the nurse is assigned to initiate the patient for epidural anesthesia 
+15 or the nurse is assigned as the circulating nurse for a cesarean delivery;
+16 L. One patient when the patient is in active labor;
+17 M. One patient who is giving birth when the nurse has been assigned only to that patient 
+18 and one newborn patient when the nurse has been assigned only to that newborn 
+19 patient;
+20 N. One newborn patient when the patient is unstable, as determined by the nurse;
+21 O. One patient couplet of one parent and one newborn when the parent has given birth 
+22 within the previous 2 hours.  In the case of multiple births, one direct-care registered 
+23 nurse must be assigned for each additional newborn when the direct-care registered 
+24 nurse has been assigned only to that newborn;
+25 P. Two patient couplets of one parent and one newborn when the patients are 
+26 postpartum;
+27 Q. Four patients when the patients are receiving postpartum or postoperative 
+28 gynecological care and when the nurse has been assigned only to patients receiving 
+29 postpartum or postoperative gynecological care;
+30 R. Two newborn patients when:
+31 (1)  The patients are receiving intermediate care; or
+32 (2)  The nurse has been assigned to a patient care unit that receives newborn 
+33 patients requiring intermediate care, including, but not limited to, an intermediate 
+34 care nursery;
+35 S. Three patients when:
+36 (1)  The patients have not attained 18 years of age; or
+37 (2)  The nurse is assigned to a patient care unit that receives patients who have not 
+38 attained 18 years of age, including, but not limited to, a pediatric unit;
+39 T. Two patients who have not attained 18 years of age when: 
+Page 4 - 131LR0765(01)1 (1)  The patients are receiving bone marrow transplant services; or
+2 (2)  The nurse is assigned to a patient care unit that receives bone marrow transplant 
+3 patients who have not attained 18 years of age;
+4 U. One patient when:
+5 (1)  The patient is receiving coronary care services; or
+6 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+7 coronary care services;
+8 V. One patient when:
+9 (1)  The patient requires burn care services; or
+10 (2)  The nurse is assigned to a patient care unit that receives patients requiring burn 
+11 care services;
+12 W. One patient when: 
+13 (1)  The patient is receiving acute respiratory care services; or
+14 (2)  The nurse is assigned to a patient care unit that receives patients requiring acute 
+15 respiratory care services;
+16 X. Three patients when: 
+17 (1)  The patients are receiving telemetry services; or
+18 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+19 telemetry services;
+20 Y. Four patients when:
+21 (1)  The patients are receiving medical surgical care services; or
+22 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+23 medical surgical care services;
+24 Z. Three patients when:
+25 (1)  The patients are receiving observational care services; or
+26 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+27 observational care services;
+28 AA. Four patients when:
+29 (1)  The patients are receiving acute rehabilitation services; or
+30 (2)  The nurse is assigned to a patient care unit that receives patients requiring acute 
+31 rehabilitation services;
+32 BB. Four patients when:
+33 (1)  The patients are receiving specialty care services; or
+34 (2)  The nurse is assigned to a patient care unit receiving patients requiring 
+35 specialty care services, including, but not limited to, a specialty care unit, 
+36 neurological care unit, gastrointestinal unit, orthopedic unit or any other unit that 
+37 is organized, operated and maintained to provide care for a specific medical 
+38 condition or a specific patient population;
+Page 5 - 131LR0765(01)1 CC. Four patients when:
+2 (1)  The patients are receiving presurgical admissions services; or
+3 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+4 presurgical admissions services;
+5 DD. Four patients when:
+6 (1)  The patients are receiving ambulatory surgical care services or procedures; or
+7 (2)  The nurse is assigned to a patient care unit that provides ambulatory surgical 
+8 care services or procedures;
+9 EE. Four patients when:
+10 (1)  The patients are receiving psychiatric treatment or services; or
+11 (2)  The nurse is assigned to a patient care unit that receives patients requiring 
+12 psychiatric treatment or services; and
+13 FF. Four patients in any other patient care unit or for any other patient condition.
+14 A health care facility may assign a direct-care registered nurse to patients receiving triage 
+15 services as long as the nurse is performing only triage functions and is able to be 
+16 immediately available to patients requiring triage services arriving in a patient care unit 
+17 that receives patients requiring emergency medical services, including, but not limited to, 
+18 an emergency department or emergency room.
+192. Intensity of care.  A health care facility shall assign direct-care registered nurses in 
+20 a patient care unit in accordance with subsection 1 in order to meet the highest level of 
+21 intensity and type of care provided in the patient care unit.  If more than one requirement 
+22 in subsection 1 applies to a patient, a health care facility shall assign a direct-care registered 
+23 nurse in accordance with the lowest numerical patient assignment applicable to the patient.
+243. Patient need.  If, in the professional judgment of a direct-care registered nurse, a 
+25 patient requires the assignment of more than the number of direct-care registered nurses 
+26 required in accordance with this section, a health care facility shall assign additional direct-
+27 care registered nurses to the patient consistent with the direct-care registered nurse's 
+28 professional judgment.
+29§1795. Exception to staffing requirements
+30 The direct-care registered nurse staffing assignments required pursuant to section 1794 
+31 do not apply when there is a declared state of emergency.  It is a defense to a complaint 
+32 alleging a violation of section 1794 filed against a health care facility under chapter 405 if 
+33 the facility demonstrates that it undertook prompt and diligent efforts to maintain the 
+34 staffing assignments required pursuant to section 1794, despite the declared state of 
+35 emergency.
+36§1796. Staffing calculation requirements
+37 The following provisions apply to the calculation of the direct-care registered nurse 
+38 staffing assignments required pursuant to section 1794.  
+391.  Assignment.  A patient must be assigned to a direct-care registered nurse.  A patient 
+40 is considered to be assigned to a direct-care registered nurse if the nurse accepts 
+41 responsibility for the patient's care and meets the requirements under section 1797.
+Page 6 - 131LR0765(01)12. Averaging prohibited.  A health care facility may not average the number of 
+2 patients or number of direct-care registered nurses in a patient care unit during any one 
+3 shift or over any period of time.
+43. Direct care required.  A health care facility may not include in the calculation an 
+5 ancillary staff person or a nurse who does not provide direct, in-person, hands-on care to a 
+6 patient, including, but not limited to, a nurse administrator, nurse supervisor, nurse 
+7 manager, charge nurse or case manager.  A registered nurse who is also a nurse 
+8 administrator, nurse supervisor, nurse manager, charge nurse, case manager or any other 
+9 health care facility administrator or supervisor may be included in the calculation of the 
+10 direct-care registered nurse staffing assignments required pursuant to section 1794 if the 
+11 registered nurse:
+12 A.  Has a current and active direct patient care assignment;
+13 B.  Provides direct patient care in compliance with the requirements of this chapter;
+14 C.  Has demonstrated current competency in providing care in the assigned patient care 
+15 unit and has received orientation to the unit sufficient to provide competent, safe, 
+16 therapeutic and effective care to patients in the unit;
+17 D.  Has the principal responsibility of providing direct patient care and has no 
+18 additional job duties during the time period during which the nurse has a patient 
+19 assignment; and
+20 E.  Is providing relief for a direct-care registered nurse during breaks, meals and other 
+21 routine or expected absences from the unit.
+224. Prohibited assignments.  A health care facility may not assign an ancillary staff 
+23 person to perform tasks that involve professional judgment or the skill of a direct-care 
+24 registered nurse, including, but not limited to, patient assessment, evaluation and 
+25 implementation of a nursing care plan and administration of medications, even if the 
+26 provision of care is under the supervision of a direct-care registered nurse.
+275. Additional duties.  A health care facility may not include a direct-care registered 
+28 nurse in the calculation unless the nurse has the principal responsibility of providing direct 
+29 patient care to the assigned patient and has no additional job duties other than direct patient 
+30 care, such as a nurse with triage, external communications or emergency transport duties.
+316. Mandatory overtime prohibited.  A health care facility may not impose a 
+32 mandatory overtime requirement on a direct-care registered nurse.
+337. Layoffs prohibited.  A health care facility may not lay off or otherwise reduce the 
+34 availability of ancillary staff persons in order to meet the direct-care registered nurse 
+35 staffing assignments required pursuant to section 1794.
+368. Electronic monitoring prohibited.  A health care facility may not use any form of 
+37 electronic monitoring, including, but not limited to, video monitoring or other remote 
+38 monitoring, to fulfill the staffing requirements.
+399. Planning required.  A health care facility shall plan for routine fluctuations in the 
+40 number of patients being treated in the facility resulting from circumstances such as 
+41 admissions, discharges and transfers of patients in order to maintain staffing ratios pursuant 
+42 to section 1794.
+Page 7 - 131LR0765(01)1§1797. Assignment of direct-care registered nurses
+2 A health care facility shall, no less frequently than each shift, assign to a patient a 
+3 direct-care registered nurse responsible for the provision of care to the patient in accordance 
+4 with this section.
+51. Assignment of direct-care registered nurses generally.  A health care facility may 
+6 not assign a direct-care registered nurse to a patient unless the nurse has demonstrated 
+7 current competency in providing care to patients in the patient care unit and has also 
+8 received orientation to the unit sufficient to provide care to patients.
+92. Anticipated absences of direct-care registered nurses.  A health care facility may 
+10 assign a direct-care registered nurse to relieve the originally assigned direct-care registered 
+11 nurse for breaks, meals or other routine, expected absences only if the relieving nurse has 
+12 demonstrated to the facility competency in providing care to patients in the patient care 
+13 unit and received orientation to the unit sufficient to provide care to patients.
+143. Criteria.  A health care facility shall include its criteria for making a staffing 
+15 assignment under this section in its policies and procedures.
+16§1798. Use of technology
+171. Electronic monitoring prohibited for patient protection.  A health care facility 
+18 may not use any form of electronic monitoring, including, but not limited to, video 
+19 monitoring or other remote monitoring to substitute for the direct observation by a direct-
+20 care registered nurse or an ancillary staff person that is required for patient protection.
+212. Technology prohibited for nursing process.  A health care facility may not adopt 
+22 policies or practices that:
+23 A.  Employ health information technology, algorithms used to achieve a medical or 
+24 nursing care objective, systems based on artificial intelligence or clinical practice 
+25 guidelines that limit or substitute for the direct care provided by an assigned direct-care 
+26 registered nurse in the performance of functions that are part of the nursing process, 
+27 including the full exercise of independent professional judgment, or that limit a direct-
+28 care registered nurse from acting as a patient advocate in the exclusive interests of the 
+29 patient; or
+30 B.  Penalize a direct-care registered nurse for overriding technology or guidelines 
+31 prohibited in paragraph A if in the direct-care registered nurse's professional judgment 
+32 and in accordance with the direct-care registered nurse's scope of practice in 
+33 accordance with Title 32, chapter 31 it is in the best interest of the patient to do so.
+34§1799. Patient advocacy
+351. Patient advocacy.  A direct-care registered nurse has a duty and right to act based 
+36 on the nurse's professional judgment and provide care in the exclusive interests of the 
+37 patient and to act as the patient's advocate.
+382. Professional judgment.  A direct-care registered nurse shall exercise professional 
+39 judgment in the performance of the nurse's duties within the nurse's scope of practice in 
+40 accordance with Title 32, chapter 31 in the exclusive interests of the patient.  A direct-care 
+41 registered nurse's actions under this subsection may not, for any purpose, be considered, 
+42 relied upon or represented as a job function, authority, responsibility or activity undertaken 
+Page 8 - 131LR0765(01)43 for the purpose of serving the business, commercial, operational or other institutional 
+44 interests of the employer.
+33. Nursing care.  A direct-care registered nurse shall provide competent, safe, 
+4 therapeutic and effective nursing care to an assigned patient.
+5 A.  Before accepting a patient assignment, a direct-care registered nurse shall:
+6 (1)  Have the necessary knowledge, judgment, skills and ability to provide the 
+7 required care;
+8 (2)  Determine using the nurse's professional judgment whether the nurse is 
+9 competent to perform the nursing care needed by a patient who is in a particular 
+10 patient care unit or who has a particular diagnosis, condition, prognosis or other 
+11 determinative characteristic affecting nursing care; and
+12 (3)  Determine using the nurse's professional judgment whether acceptance of a 
+13 patient assignment would expose the patient or direct-care registered nurse to the 
+14 risk of harm.
+154.  Objections.  As part of a direct-care registered nurse's patient advocacy, a direct-
+16 care registered nurse may object to or refuse to accept or participate in any activity, policy, 
+17 practice, assignment or task in a health care facility if the direct-care registered nurse:
+18 A.  Believes, based on the nurse's professional judgment, that the activity, policy, 
+19 practice, assignment or task would violate Title 32, chapter 31 or rules adopted 
+20 pursuant to that chapter or be outside the nurse's scope of practice;
+21 B.  Believes, based on the nurse's professional judgment, that the activity, policy, 
+22 practice, assignment or task would violate the staffing requirements under section 1794 
+23 or would violate any other provision of this chapter; or
+24 C.  Believes, based on the nurse's professional judgment, that the nurse is not prepared 
+25 by education, training or experience to fulfill the assignment without compromising 
+26 the safety of a patient or jeopardizing the license of the direct-care registered nurse.
+275. Interference and retaliation prohibited.  A health care facility, an employee of a 
+28 health care facility who is primarily responsible for managing the facility or an employee 
+29 of the facility who is primarily responsible for providing patient care services may not:
+30 A.  Interfere with or prevent a direct-care registered nurse from exercising professional 
+31 judgment under this section;
+32 B.  Limit a direct-care registered nurse in performing duties that are a part of the nursing 
+33 process, including full exercise of professional judgment in assessment, planning, 
+34 implementation and evaluation of care;
+35 C.  Limit a direct-care registered nurse in acting as a patient advocate in the exclusive 
+36 interests of the patient; or
+37 D.  Discharge from duty, threaten or otherwise retaliate against a direct-care registered 
+38 nurse who reports an unsafe practice or violation of policy, federal or state law, federal 
+39 regulation or state rule.
+406. Application of Whistleblowers' Protection Act.  A violation of subsection 5 is a 
+41 violation of Title 26, chapter 7, subchapter 5-B.1
+2
+Page 9 - 131LR0765(01)1§1800. Record and notice requirements
+2 A health care facility shall maintain and disclose records relating to actual staffing 
+3 assignments and any method used to meet the requirements of this chapter in accordance 
+4 with this section and rules adopted by the department.
+51.  Record contents.  Records maintained and disclosed under this section must 
+6 include:
+7 A. The number of patients in each patient care unit during each shift;
+8 B. The identity and duty hours of each direct-care registered nurse assigned to each 
+9 patient in each patient care unit during each shift;
+10 C. The identity and duty hours of each ancillary staff person for each patient care unit 
+11 during each shift;
+12 D. Certification that each direct-care registered nurse received rest and meal breaks and 
+13 the identity and duty hours of each direct-care registered nurse who provided relief 
+14 during the breaks; and
+15 E. A copy of each notice required under subsection 4.
+162.  Required duration of records maintenance.  Records under this section must be 
+17 maintained for at least 3 years.
+183.  Records submitted to department. A health care facility shall submit all records 
+19 under this section to the department as a condition of licensure under chapter 405.  The 
+20 chief nursing officer shall certify that records submitted to the department pursuant to this 
+21 subsection completely and accurately reflect staffing assignments in each patient care unit.  
+22 The certification must be executed under penalty of perjury and must contain an express 
+23 acknowledgment that any false statement constitutes fraud and is subject to criminal 
+24 prosecution or civil penalties.
+254.  Notice requirements.  A health care facility shall post in each patient care unit a 
+26 notice in a form specified by department rule that:
+27 A.  Explains the requirements of record maintenance under this section;
+28 B.  Includes actual direct-care registered nurse staffing assignments in each patient care 
+29 unit during each shift;
+30 C.  Includes the actual number of ancillary staff persons and the skill mix of the 
+31 ancillary staff persons in each patient care unit during each shift;
+32 D.  Identifies the variance between the required and actual staffing assignments in each 
+33 patient care unit during each shift; and
+34 E.  Is visible, conspicuous and accessible to health care facility staff, patients and the 
+35 public.
+365.  Records publicly accessible.  Records maintained under this section must be made 
+37 available to the department, direct-care registered nurses, a nurse's collective bargaining 
+38 representative and the public.
+39§1801. Audits
+Page 10 - 131LR0765(01)1 The department shall conduct periodic audits to ensure that a health care facility has 
+2 implemented the direct-care registered nurse staffing requirement pursuant to this chapter.
+3§1802. Administrative sanctions; investigation
+4 In addition to the penalties available under section 1804 and licensure requirements 
+5 under section 1817, the department may impose a sanction under this section in conformity 
+6 with Title 5, chapter 375, subchapter 4.
+71. Notice. The department may direct by written notice a health care facility to correct 
+8 any violations under this chapter and any rules adopted under this chapter in a manner and 
+9 within a time frame that the department determines appropriate to ensure compliance or 
+10 protect the public health.  The health care facility shall correct any violations within the 
+11 time frame determined by the department.
+122. Investigation.  The department may investigate complaints against a health care 
+13 facility in order to ensure compliance with this chapter and any rules adopted under this 
+14 chapter.
+153. Sanctions. The department may impose the following administrative penalties on a 
+16 health care facility.
+17 A. For violations of subsection 1 or sections 1794, 1796, 1797, 1798 and 1800 a rule 
+18 adopted to implement this section or those sections, the department may assess a fine 
+19 of not more than $10,000 per nursing shift in violation.  Each day a health care facility 
+20 violates subsection 1 or section 1794, 1796, 1797, 1798 or 1800 is a separate offense.
+21 B. For violations of section 1799, subsection 5 or a rule adopted to implement that 
+22 subsection, the department may assess a fine of not more than $25,000 per nursing 
+23 shift.
+24§1803.  Civil violations
+25 This section governs violations under this chapter.
+261.  Violation of health care facility staffing requirements.  This subsection applies 
+27 to violations of sections 1794, 1796, 1797, 1798 and 1800 and section 1803, subsection 1.
+28 A.  A health care facility may not violate section 1794, 1796, 1797, 1798 or 1800 or 
+29 section 1803, subsection 1 or a rule adopted to implement those sections.
+30 B.  A health care facility that violates paragraph A commits a civil violation for which 
+31 a fine of not more than $10,000 per nursing shift in violation may be adjudged.  Each 
+32 day a health care facility violates paragraph A is a separate offense.
+332.  Violation for interfering or retaliating for a nurse's objection or refusal; 
+34violation.  This subsection applies to violations of section 1799, subsection 5.
+35 A.  A health care facility, an employee of a health care facility who is primarily 
+36 responsible for managing the health care facility or an employee of a health care facility 
+37 who is primarily responsible for providing patient care services may not violate section 
+38 1799, subsection 5 or a rule adopted to implement that subsection.
+39 B.  A health care facility, an employee of a health care facility who is primarily 
+40 responsible for managing the health care facility or an employee of a health care facility 
+41 who is primarily responsible for providing patient care services who violates paragraph 
+Page 11 - 131LR0765(01)42 A commits a civil violation for which a fine of not more than $25,000 per nursing shift 
+43 in violation may be adjudged.
+3§1804.  Enforcement
+4 The Attorney General may file a complaint with the District Court seeking civil 
+5 penalties or injunctive relief or both for violations of this chapter.
+6§1805. Complaints
+7 A person may file a complaint with the department against a facility for violations of 
+8 this chapter.  The department shall refer any complaint alleging a violation of section 1799, 
+9 subsection 5 to the Maine Human Rights Commission.
+10§1806. Rulemaking
+11 The department may adopt rules to implement this chapter.  The department shall rely 
+12 on and incorporate principles of the nursing profession in rules adopted pursuant to this 
+13 section.  Rules adopted pursuant to this section are routine technical rules as defined in 
+14 Title 5, chapter 375, subchapter 2-A.
+15Sec. 2.  22 MRSA §1817, as repealed and replaced by PL 2007, c. 324, §4, is 
+16 amended to read:
+17§1817.  Issuance of licenses
+18 The department is authorized to issue licenses to operate hospitals, sanatoriums, 
+19 convalescent homes, rest homes, nursing homes, ambulatory surgical facilities and other 
+20 related institutions that, after inspection, are found to comply with this chapter, chapter 
+21 404-A and any rules adopted by the department.  An initial license may be issued for up to 
+22 12 months. A license may be renewed for up to 24 months.  The fee for this temporary or 
+23 conditional license is $15 and is payable at the time of issuance of the license regardless of 
+24 the term.  When an institution, upon inspection by the department, is found not to meet all 
+25 requirements of this chapter or department rules, the department is authorized to issue 
+26 either:
+271.  Temporary license.  A temporary license for a specified period not to exceed 90 
+28 days, during which time corrections specified by the department must be made by the 
+29 institution for compliance with this chapter, chapter 404-A and departmental rules, if in the 
+30 judgment of the commissioner the best interests of the public will be so served; or
+312.  Conditional license.  A conditional license setting forth conditions that must be 
+32 met by the institution to the satisfaction of the department.
+33 Failure of the institution to meet any of the department's conditions immediately voids 
+34 the temporary or conditional license by written notice by the department to the licensee or, 
+35 if the licensee cannot be reached for personal service, by notice left at the licensed premises. 
+36 A new application for a regular license may be considered by the department if, when and 
+37 after the conditions set forth by the department at the time of the issuance of this temporary 
+38 or conditional license have been met and satisfactory evidence of this fact has been 
+39 furnished to the department. The department may amend, modify or refuse to renew a 
+40 license in conformity with the Maine Administrative Procedure Act, or file a complaint 
+41 with the District Court requesting suspension or revocation of any license on any of the 
+42 following grounds: violation of this chapter or the rules issued adopted pursuant to this 
+43 chapter; violation of chapter 404-A or the rules adopted by the department pursuant to 1
+2
+Page 12 - 131LR0765(01)44 chapter 404-A; permitting, aiding or abetting the commission of any illegal act in that 
+45 institution; or conduct of practices detrimental to the welfare of a patient. Whenever, on 
+46 inspection by the department, conditions are found to exist that violate this chapter or 
+47 department rules issued adopted pursuant to this chapter  or violate chapter 404-A or the 
+48 rules adopted by the department pursuant to chapter 404-A that, in the opinion of the 
+49 commissioner, immediately endanger the health or safety of patients in an institution or 
+50 create an emergency, the department by its duly authorized agents may, under the 
+51 emergency provisions of Title 4, section 184, subsection 6, request that the District Court 
+52 suspend or revoke the license.  Rules adopted pursuant to this section are routine technical 
+53 rules as defined in Title 5, chapter 375, subchapter 2-A.
+11SUMMARY
+12 This bill establishes the Maine Quality Care Act in order to ensure adequate direct-care 
+13 registered nurse staffing assignments in health care facilities, including hospitals, 
+14 freestanding emergency departments and ambulatory surgical facilities, to provide safe and 
+15 effective patient care.  It establishes minimum direct-care registered nurse staffing 
+16 requirements based on patient care unit and patient needs, specifies the method to calculate 
+17 a health care facility's compliance with the staffing requirements, protects direct-care 
+18 registered nurses from retaliation and includes notice, record-keeping and enforcement 
+19 requirements.1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19

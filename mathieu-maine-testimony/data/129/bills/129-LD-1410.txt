@@ -1,0 +1,553 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1410
+H.P. 1023 House of  Representatives, March 26, 2019
+An Act  To Create Paid Family and  Medical  Leave Benefits
+Reference to the Committee on Labor and Housing suggested and  ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.
+Cosponsored by Senator SANBORN, H. of Cumberland and
+Representatives: CARNEY of Cape  Elizabeth, CUDDY of Winterport, DOORE of Augusta, 
+FECTEAU of Biddeford, McDONALD of Stonington, MORALES of South Portland, SYLVESTER of Portland, Senator: CARSON  of Cumberland.
+
+Page 1 - 129LR0033(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  26 MRSA c. 7, sub-c. 6-C is enacted to read:
+3SUBCHAPTER 6-C
+4PAID FAMILY AND MEDICAL LEAVE
+5§850-A.  Definitions
+6As used in this subchapter, unless the context otherwise indicates, the following 
+7terms have the following meanings.
+81.  Application year.  "Application year" means the 12-month period beginning on 
+9the first day of the calendar year in which an individual files an application for family 
+10leave or medical leave benefits.
+112.  Average weekly wage.  "Average weekly wage," as used to establish the 
+12maximum weekly benefit amount for purposes of this subchapter, means 1/52 of 
+13aggregate total wages paid in the State for covered employment, as reported on employer 
+14contribution reports for the calendar year, divided by the arithmetic mean of midmonth 
+15weekly covered employment reported on employer contribution reports for the calendar 
+16year.
+173.  Commissioner.  "Commissioner" means the Commissioner of Labor.
+184.  Contributions.  "Contributions" means the payments made by an employee or 
+19self-employed individual to the fund, as required by this subchapter.
+205.  Covered individual.  "Covered individual" means a person who: 
+21A.  Worked for 26 or more weeks for any employer during the 12-month period prior 
+22to submitting an application for family leave or medical leave or is a self-employed 
+23individual who elects coverage under this subchapter; and
+24B.  Meets the administrative requirements outlined in this subchapter and any rules 
+25adopted pursuant to this subchapter and submits an application for leave.
+266.  Covered service member.  "Covered service member" means: 
+27A.  A member of the United States Armed Forces, including the National Guard and 
+28the Reserves of the United States Armed Forces, who is:
+29(1)  Undergoing medical treatment, recuperation or therapy or otherwise 
+30receiving outpatient treatment; or
+31(2)  Otherwise on the United States Armed Forces' temporary disability retired 
+32list for a serious injury or illness that was incurred by the member in the line of 
+33duty in the United States Armed Forces or a serious injury or illness that existed 
+34before the beginning of the member's active duty and was aggravated by service 
+35in the line of duty on active duty in the United States Armed Forces; or
+Page 2 - 129LR0033(01)-11B.  A former member of the United States Armed Forces, including the National 
+2Guard and the Reserves of the United States Armed Forces, who is undergoing 
+3medical treatment, recuperation or therapy for a serious injury or illness that was 
+4incurred by the member in the line of duty in the United States Armed Forces or a 
+5serious injury or illness that existed before the beginning of the member's active duty 
+6and was aggravated by service in the line of duty on active duty in the United States 
+7Armed Forces and manifested before or after the member was discharged or released 
+8from service.
+97.  Department.  "Department" means the Department of Labor.
+108.  Director.  "Director" means the director of the fund.
+119.  Domestic partner.  "Domestic partner" has the same meaning as in section 843, 
+12subsection 7.
+1310.  Employee.  "Employee" means a person who may be permitted, required or 
+14directed by an employer in consideration of direct or indirect gain or profit to engage in 
+15any employment but does not include an independent contractor.
+1611.  Employer. "Employer" means:
+17A.  Any person, sole proprietorship, partnership, corporation, association or other 
+18business entity that employs employees at one location in this State;
+19B.  The State, including the executive, legislative and judicial branches, and a state 
+20department or agency; 
+21C.  A county, city, town or municipal agency; and
+22D.  An agent of an employer, the State or a political subdivision of the State. 
+2312.  Employment.  "Employment" means a service performed for wages. 
+2413.  Employment benefits.  "Employment benefits" means all benefits provided or 
+25made available to employees by an employer, including, but not limited to, group life 
+26insurance, health insurance, disability insurance, sick leave, annual or vacation leave, 
+27educational benefits and pensions.
+2814.  Family leave.  "Family leave" means leave taken pursuant to section 850-B, 
+29subsection 1.
+3015.  Family leave benefits.  "Family leave benefits" means wage replacement paid 
+31pursuant to sections 850-B and 850-C to a covered individual while the covered 
+32individual is on family leave.
+3316.  Family member.  "Family member" means, with respect to a covered individual 
+34or spouse or domestic partner of a covered individual:
+35A.  A child, including a child whose parentage has been determined under the Maine 
+36Parentage Act or any other biological child, adopted child, foster child or stepchild, 
+37or a child to whom the covered individual or spouse or domestic partner of the 
+Page 3 - 129LR0033(01)-11covered individual stands in loco parentis or a child the covered individual or spouse 
+2or domestic partner of the covered individual has under legal guardianship or any 
+3individual to whom the covered individual or spouse or domestic partner of the 
+4covered individual stood in any of these relationships when the individual was a 
+5minor child;
+6B.  A parent, including a legal parent, biological parent, adoptive parent, foster 
+7parent, stepparent, de facto parent or legal guardian or a person who stood in loco 
+8parentis when the covered individual or spouse or domestic partner of the covered 
+9individual was a minor child;
+10C.  A grandparent, including a legal grandparent, biological grandparent, adoptive 
+11grandparent, foster grandparent, stepgrandparent or de facto grandparent;
+12D.  A sibling, including a legal sibling, biological sibling, adoptive sibling, foster 
+13sibling, stepsibling or de facto sibling; and
+14E.  A spouse or domestic partner of a covered individual.
+1517.  Fund.  "Fund" means the Family and Medical Leave Insurance Fund established 
+16under section 850-E.
+1718.  Health care provider.  "Health care provider" means an individual licensed to 
+18practice medicine, surgery, dentistry, chiropractic, podiatry, midwifery or osteopathy or 
+19any other individual determined by the department to be capable of providing health care 
+20services.
+2119.  Medical leave. "Medical leave" means leave taken pursuant to section 850-B, 
+22subsection 2. 
+2320.  Medical leave benefits.  "Medical leave benefits" means wage replacement paid 
+24pursuant to sections 850-B and 850-C to a covered individual while the covered 
+25individual is on medical leave.
+2621.  Program.  "Program" means the family and medical leave benefits program 
+27established in section 850-B.
+2822.  Qualifying exigency.  "Qualifying exigency" means a need arising out of a 
+29covered individual's family member's active duty service or notice of an impending call 
+30or order to active duty in the United States Armed Forces, including, but not limited to, 
+31providing for the care or other needs of the military member's child or other family 
+32member, making financial or legal arrangements for the military member, attending 
+33counseling, attending military events or ceremonies, spending time with the military 
+34member during rest and recuperation leave or following return from deployment or 
+35making arrangements following the death of the military member.
+3623.  Self-employed individual.  "Self-employed individual" means a sole proprietor, 
+37a member of a limited liability company or limited liability partnership or an individual 
+38whose net profit or loss from a business must be reported to the Department of 
+39Administrative and Financial Services, Bureau of Revenue Services and resides in the 
+40State.
+Page 4 - 129LR0033(01)-1124.  Serious health condition.  "Serious health condition" means an illness, injury, 
+2impairment, pregnancy, recovery from childbirth or physical, mental or psychological 
+3condition that involves inpatient care in a hospital, hospice or residential medical care 
+4center or continuing treatment by a health care provider.
+525.  Spouse.  "Spouse" has the same meaning as in Title 18-C, section 1-201, 
+6subsection 54.
+726.  State average weekly wage.  "State average weekly wage" means the average 
+8weekly wage as published by the department for the State as a whole for the 12 most 
+9recently reported months.
+1027.  Wages. "Wages" means actual compensation paid to an employee for the 
+11performance of services.
+1228.  Weekly benefit amount.  "Weekly benefit amount" means the amount of wage 
+13replacement paid to a covered individual on a weekly basis while the covered individual 
+14is on family or medical leave as provided in section 850-C.
+15§850-B.  Family and medical leave benefits program established
+16The family and medical leave benefits program is established effective October 1, 
+172020.  The program is administered by the department.
+181.   Family leave eligibility.  Family leave is available to a covered individual for 
+19any of the following reasons:
+20A.  To bond with the covered individual's child during the first 12 months after the 
+21child's birth or the first 12 months after the placement of the child for adoption or 
+22foster care with the covered individual for a child born, adopted or placed on or after 
+23October 1, 2020;
+24B.  If the covered individual is caring for a family member with a serious health 
+25condition;
+26C.  Because of any qualifying exigency arising out of the fact that a family member 
+27of the covered individual is on active duty or has been notified of an impending call 
+28or order to active duty in the United States Armed Forces; 
+29D.  In order to care for a family member of the covered individual who is a covered 
+30service member; or
+31E.  Any other reason set forth in section 843, subsection 4.
+322.  Medical leave.  Medical leave is available to a covered individual with a serious 
+33health condition that makes the covered individual unable to perform the job functions for 
+34the position held by that covered individual. 
+353.  Leave requirements. The following requirements must be met.
+36A.  A covered individual is not eligible for more than 12 weeks of family leave in an 
+37application year, except that a covered individual taking family leave in order to care 
+Page 5 - 129LR0033(01)-11for a covered service member is eligible for up to 20 weeks of family leave in an 
+2application year.
+3B.  A covered individual is not eligible for medical leave for more than 20 weeks in 
+4an application year.
+5C.  A covered individual may not take more than 20 weeks, in the aggregate, of 
+6family leave and medical leave under this subchapter in the same application year.
+7This subsection does not prevent a covered individual from taking medical leave during 
+8pregnancy or recovery from childbirth if supported by documentation from a health care 
+9provider that is immediately followed by family leave, in which case the 5-day waiting 
+10period for family leave under section 850-C, subsection 1 is not required.
+114.  Intermittent leave requirements.  Leave permitted by this section may not be 
+12taken by an employee intermittently or on a reduced leave schedule unless the employee 
+13and the employer agree otherwise.  An employee may take leave intermittently or on a 
+14reduced leave schedule when medically necessary if the employee is caring for a covered 
+15service member under subsection 1, paragraph D, has a serious health condition under 
+16subsection 2 or is caring for a family member with a serious health condition under 
+17subsection 1, paragraph B.  The taking of leave intermittently or on a reduced leave 
+18schedule pursuant to this subsection may not result in a reduction in the total amount of 
+19leave to which the covered individual is entitled under this subchapter.
+205.  Weekly benefit. While on family leave or medical leave pursuant to this 
+21subchapter, a covered individual receives a weekly benefit amount as provided in section 
+22850-C.
+236.  Restoration to previous position.  An employee who has taken family leave or 
+24medical leave must be restored to the position the employee held when the leave 
+25commenced or to an equivalent position, with the same status, pay, employment benefits, 
+26length of service credit and seniority.  An employee is not entitled to restoration under 
+27this subsection if the employee cannot be restored to the same position or an equivalent 
+28position because of conditions unrelated to the employee's exercise of rights under this 
+29subchapter.
+307.  Right to benefits; accrual.  The taking of family leave or medical leave may not 
+31affect an employee's right to accrue vacation time, sick time, bonuses, advancement, 
+32seniority, length of service credit or other employment benefits, plans or programs. 
+33During the duration of an employee's family or medical leave, the employer shall 
+34continue to provide for and contribute to the employee's employment-related health 
+35insurance benefits, if any, at the level and under the conditions coverage would have been 
+36provided if the employee had continued working continuously for the duration of leave.
+378.  Treatment of self-employed individuals. Subsections 6 and 7 do not apply to a 
+38self-employed individual taking family leave or medical leave under this subchapter or to 
+39a person who was a former employee when that person began taking family or medical 
+40leave under this subchapter.
+419.  Collective bargaining.  This subchapter does not:
+Page 6 - 129LR0033(01)-11A.  Obviate an employer's obligations to comply with any employer policy, law or 
+2collective bargaining agreement that provides for greater or additional rights to leave 
+3than those provided by this subchapter;
+4B.  In any way curtail the rights, privileges or remedies of any employee under any 
+5collective bargaining agreement or employment contract; or
+6C.  Allow an employer to compel an employee to exhaust rights to any sick, vacation 
+7or personal time prior to or while taking leave under this subchapter.
+810.  Concurrent with leave under state and federal law.  Leave taken under this 
+9subchapter runs concurrently with leave taken under the federal Family and Medical 
+10Leave Act of 1993, 29 United States Code, Section 2611, et seq., and under subchapter 
+116-A.  Employees may take leave under this subchapter while ineligible for leave under 
+12the Family and Medical Leave Act of 1993 in the same application year.
+1311.  Election of coverage by self-employed individual.  A self-employed individual 
+14may elect coverage under this subchapter and become a covered individual for an initial 
+15period of not less than 3 years by filing a notice of election in writing with the department 
+16and making contributions as required in section 850-E, subsection 6 to the fund.  A self-
+17employed individual who elects coverage under this subsection is not eligible for benefits 
+18until that individual has made the required contributions for at least 2 calendar quarters of 
+19the individual's last 4 completed calendar quarters. The election becomes effective on the 
+20date of filing of the notice. The department shall establish a process by which self-
+21employed individuals elect coverage under this subchapter.
+22§850-C.  Payment of benefits
+231.  Waiting period.  No family leave or medical leave benefits are payable during the 
+24first 5 calendar days of the leave, except that an employee may use accrued sick or 
+25vacation pay or other paid leave provided under a collective bargaining agreement or 
+26employer policy during the first 5 calendar days of the leave.
+272.  Payment for waiting period.  If a covered individual uses 10 or more days of 
+28family leave or medical leave benefits in an application year, the covered individual must 
+29be paid for the waiting period described in subsection 1.  The department may impose a 
+30waiting period on a covered individual only once every application year.
+313.  Determination of weekly benefit amount. The weekly benefit amount for 
+32employees and self-employed individuals on family leave or medical leave is determined 
+33as follows: 
+34A.  The portion of an employee's or self-employed individual's average weekly wage 
+35that is equal to or less than 50% of the state average weekly wage must be replaced at 
+36a rate of 90%; and
+37B.  The portion of an employee's or self-employed individual's average weekly wage 
+38that is more than 50% of the state average weekly wage must be replaced at a rate of 
+3967%.
+Page 7 - 129LR0033(01)-114.  Maximum benefit amount adjustment.  The maximum weekly benefit amount 
+2calculated under subsection 3 is 100% of the state average weekly wage.  By October 1, 
+32021 and annually thereafter, the commissioner shall adjust the maximum weekly benefit 
+4amount as necessary, and the adjusted maximum weekly benefit amount takes effect on 
+5January 1st of the year following the adjustment.
+65.  Prorated benefit. If a covered individual takes family leave or medical leave on 
+7an intermittent or reduced leave schedule, the weekly benefit amount must be prorated as 
+8determined by the department.
+96.  Reduction of benefit.  The weekly benefit amount must be reduced by the amount 
+10of wages or wage replacement that a covered individual receives for that period under any 
+11of the following while on family leave or medical leave:
+12A.  A government program or law, including, but not limited to, workers' 
+13compensation under Title 39-A, other than for permanent partial disability incurred 
+14prior to the family leave or medical leave claim, or under other state or federal 
+15temporary or permanent disability benefits law; or
+16B.  A permanent disability policy or program of an employer.
+177.  Temporary disability or employer paid leave benefit.  The weekly benefit 
+18amount may not be reduced by the amount of wage replacement that an employee 
+19receives while on family leave or medical leave under the following conditions:
+20A.  A temporary disability policy or program of an employer; or
+21B.  A paid family leave or medical leave policy of an employer.
+22§850-D.  Filing for benefits
+231.  Claim.  A covered individual shall file a benefit claim pursuant to any rules 
+24adopted by the department. If a claim is filed more than 90 calendar days after the start of 
+25leave, the covered individual may receive reduced benefits. All claims must include a 
+26certification submitted in accordance with this section supporting a request for leave 
+27under this subchapter. The department shall establish good-cause exemptions from the 
+28certification requirement deadline in the event that a serious health condition of the 
+29covered individual prevents the covered individual from providing the required 
+30certification within the 90 calendar days.
+312.  Certification for medical leave of covered individual. The certification for a 
+32covered individual taking medical leave is sufficient if it states the date on which the 
+33serious health condition commenced, the probable duration of the condition and the 
+34appropriate medical facts within the knowledge of the health care provider as required by 
+35the department.
+363.  Certification for family leave; serious health condition of family member.  
+37The certification for a covered individual taking family leave because of a serious health 
+38condition of a family member is sufficient if it states the date on which the serious health 
+39condition commenced, the probable duration of the condition, the appropriate medical 
+40facts within the knowledge of the health care provider as required by the department, a 
+Page 8 - 129LR0033(01)-11statement that the covered individual is needed to care for the family member and an 
+2estimate of the amount of time that the covered individual is needed to care for the family 
+3member.
+44.  Certification for family leave; birth of child. The certification for a covered 
+5individual taking family leave because of the birth of a child of the covered individual is 
+6sufficient if the covered individual provides either the birth certificate or a document 
+7issued by the health care provider of the child or of the person who gave birth stating the 
+8child's birth date.
+95.  Certification for family leave; adoption or foster care.  The certification for a 
+10covered individual taking family leave because of the placement of a child with the 
+11covered individual for adoption or foster care is sufficient if the covered individual 
+12provides a document that confirms the placement and date of placement issued by the 
+13health care provider of the child, by an adoption or foster care agency involved in the 
+14placement or by other persons as determined by the department.  If the status of a covered 
+15individual as an adoptive or foster parent changes while an application for benefits is 
+16pending or while the covered individual is receiving benefits, the covered individual shall 
+17notify the department of the change in writing. The Department of Health and Human 
+18Services may confirm in writing the status of the covered individual as an adoptive or 
+19foster parent while an application for benefits is pending or while a covered individual is 
+20receiving benefits.
+216.  Certification for family leave; qualifying exigency.  The certification for a 
+22covered individual taking family leave because of a qualifying exigency is sufficient if it 
+23includes a copy of the family member's active duty orders, other documentation issued by 
+24the United States Armed Forces or other documentation permitted by the department.
+257.  Certification for family leave; covered service member. The certification for a 
+26covered individual taking family leave to care for a family member who is a covered 
+27service member is sufficient if it includes: 
+28A.  The date on which the serious health condition commenced;
+29B.  The probable duration of the serious health condition;
+30C.  The appropriate medical facts within the knowledge of the covered service 
+31member's health care provider as required by the department;
+32D.  A statement that the covered individual is needed to care for the family member;
+33E.  An estimate of the amount of time that the covered individual is needed to care for 
+34the family member; and
+35F.  An attestation by the covered individual that the serious health condition is 
+36connected to the covered service member's military service as required by this 
+37subchapter.
+388.  Certification for leave for other reason.  The certification for a covered 
+39individual taking family leave based on a reason set forth in section 843, subsection 4 is 
+40sufficient if it states the reason for the leave, the probable duration of the amount of time 
+41needed for leave and any other documentation required by the department.
+Page 9 - 129LR0033(01)-119.  Confidentiality.  Any medical or health information required under this section 
+2must be treated as confidential and may not be disclosed except with permission from the 
+3covered individual who provided it unless disclosure is otherwise required by law. 
+4Nothing in this section may be construed to require a covered individual to provide as 
+5certification any information from a health care provider that would be in violation of 
+6Section 1177 of the federal Social Security Act, 42 United States Code, Section 1320d-6.
+710.  Ineligibility.  A covered individual is not eligible to receive family leave or 
+8medical leave benefits if the department finds, through a process established by rule, that 
+9the covered individual, for the purpose of obtaining these benefits, has willfully made a 
+10false statement or misrepresentation regarding a material fact or has willfully withheld a 
+11material fact concerning the facts required to be certified pursuant to this section.  The 
+12department shall establish a process by rule for the determination of eligibility under this 
+13section, including a grievance process for a covered individual determined to be 
+14ineligible.
+15§850-E.  Family and Medical Leave Insurance Fund 
+161.  Fund established.  The Family and Medical Leave Insurance Fund is established 
+17to carry out the purposes of this subchapter. The fund is administered by the Treasurer of 
+18State. Any sums received under this section are not considered revenue of the State, but 
+19must be held in trust for the exclusive benefit of covered individuals eligible for benefits 
+20under this subchapter and for the administration of this subchapter by the department. 
+21Funds may not be expended, released, appropriated or otherwise disposed of for any other 
+22purpose and must be expended by the director as required by this subchapter to pay 
+23family leave and medical leave benefits to covered individuals eligible to receive benefits 
+24and to pay the administrative costs of the department.
+252.  Deposits in fund.  The fund consists of:
+26A.  Contributions collected pursuant to subsection 6 together with any interest earned 
+27thereon;
+28B.  Property or securities acquired through the use of money belonging to the fund 
+29together with any earnings of such property or securities;
+30C.  Fines and penalties collected under this subchapter; and
+31D.  Any other money received from any source, including grants, gifts, bequests or 
+32money specifically designated to be credited to the fund.
+333.  Annualized amount.  The fund must maintain an annualized amount of not less 
+34than 140% of the previous fiscal year's expenditures for benefits paid and for the 
+35administration of the program by the department.
+364.  Administrative costs.  The costs of administering the program by the department 
+37may not exceed 5% of the amount deposited under subsection 2 for each fiscal year 
+38following the initial year benefits are paid. Money may not be commingled with other 
+39state funds and must be maintained in a separate account.
+Page 10 - 129LR0033(01)-115.  Payment of benefits.  The director shall expend money from the fund to provide 
+2weekly benefits under section 850-C. Family leave and medical leave benefits must be 
+3paid from the fund to covered individuals eligible for benefits. An employer's bankruptcy 
+4or noncompliance with this subchapter does not interfere with an employee's ability to 
+5collect family and medical leave benefits under this subchapter. Family or medical leave 
+6benefits paid from the fund to such an employee may be recovered through bankruptcy 
+7proceedings or from the noncomplying employer. The director shall institute 
+8administrative and legal action to recover family and medical leave benefits paid through 
+9the fund.
+106.  Contributions.  To accumulate funds for the payment of family leave and medical 
+11leave benefits and administrative costs, payroll contributions must be paid by employees 
+12in an amount determined by 0.55% of wages except that wages below $12,000 in a 12-
+13month period are not subject to the contribution required by this subsection. In no case 
+14may payroll contributions exceed 0.55% of wages in any 12-month period. The 
+15department is responsible for evaluating and determining on an annual basis the amount 
+16of payroll contributions and maximum employee contribution necessary to finance the 
+17program.  This subsection does not prohibit an employer from making a contribution on 
+18behalf of an employee through a collective bargaining agreement or as part of an 
+19employer's employment benefits.
+207.  Report.  Annually, by October 1st, the director shall publish a report providing 
+21the following information concerning the program for the previous fiscal year: 
+22A.  The total eligible claims;
+23B.  The percentage of such claims attributable to medical leave;
+24C.  The percentage of such claims attributable to family leave for the serious health 
+25condition of a family member;
+26D.  The percentage of such claims attributable to family leave other than for the birth, 
+27adoption or fostering of a child;
+28E.  The percentage of such claims attributable to family leave for the birth, adoption 
+29or fostering of a child;
+30F.  The percentage of such claims attributable to family leave for a qualifying 
+31exigency;
+32G.  The percentage of such claims attributable to family leave for a covered service 
+33member;
+34H.  The claimant demographics by age, gender identification, average weekly wage, 
+35occupation and the type of leave taken;
+36I.  The percentage of claims denied and the reasons for the denials;
+37J.  The average weekly benefit amount paid for all claims and by category of leave; 
+38and 
+39K.  Any changes in gross benefits paid compared to previous fiscal years.
+Page 11 - 129LR0033(01)-11§850-F.  Notice
+21.  Posted notice.  An employer shall post in a conspicuous place on each of its 
+3premises a workplace notice provided or approved by the department providing notice of 
+4benefits available under this subchapter. The department shall issue the workplace notice 
+5in English, Spanish, French, Somali, Portuguese and any other language that is the 
+6primary language of at least 2,000 residents of the State. The employer shall post the 
+7workplace notice in English and each language other than English that is the primary 
+8language of 3 or more employees of that workplace, if such notice is available from the 
+9department.
+102.  Written notice.  An employer shall issue to each employee not more than 30 days 
+11from the beginning date of the employee's employment the following written information 
+12provided or approved by the department in the employee's primary language:
+13A.  An explanation of the availability of family leave and medical leave benefits 
+14provided under this subchapter, including rights to reinstatement and continuation of 
+15health insurance;
+16B.  The employee's contribution amount and obligations under this subchapter;
+17C.  The name and mailing address of the employer;
+18D.  The identification number assigned to the employer by the department;
+19E.  Instructions on how to file a claim for family leave or medical leave benefits;
+20F.  The mailing address, e-mail address and telephone number of the department; and
+21G.  Any other information deemed necessary by the department.
+22The employee shall provide written acknowledgment of receipt of information or sign a 
+23statement indicating the employee's refusal to sign the acknowledgement.
+243.  Failure to comply.  An employer that fails to comply with this section must be 
+25assessed, for a first violation, a civil penalty of $50 per employee and $150 per employee 
+26for each subsequent violation. The employer has the burden of demonstrating compliance 
+27with this section.
+284.  Notice to employer.  An employee shall give at least 30 days' notice to the 
+29employer of the anticipated starting date of leave, the anticipated length of leave and the 
+30expected date of return or shall provide notice as soon as practicable if the delay is due to 
+31exigent circumstances or for reasons beyond the employee's control. If an employer fails 
+32to provide notice as required under this section, the employee's obligation to provide 
+33notice under this subsection is waived.
+34§850-G.  Prohibited practices
+351.  Retaliation prohibited.  It is unlawful for an employer to retaliate by discharging, 
+36firing, suspending, expelling or disciplining, through the application of attendance 
+37policies or otherwise, or threatening or in any manner discriminating against an employee 
+38for exercising any right to which the employee is entitled under this subchapter or with 
+Page 12 - 129LR0033(01)-11the purpose of interfering with the exercise of any right to which the employee is entitled 
+2under this chapter.
+32.  Change in status.  An employer may not make any negative change in the 
+4seniority, status, employment benefits, pay or other terms or conditions of employment of 
+5an employee who applies and qualifies for family leave or medical leave benefits under 
+6this subchapter.
+73.  Enforcement; violation.  The department shall take enforcement action against 
+8an employer for a violation of this section.
+9§850-H.  Appeals
+101.  Process for appeals.  The director shall establish a system for appeals in the case 
+11of a denial of family leave or medical leave benefits. In establishing the system, the 
+12director may use any procedures or appeals mechanisms established under chapter 13.
+132.  Judicial review.  Judicial review of any decision with respect to family leave or 
+14medical leave benefits must be permitted in a court of competent jurisdiction after a party 
+15aggrieved by the decision has exhausted all administrative remedies established by the 
+16director.
+173.  Information related to appeals; confidentiality.  The director shall implement 
+18procedures to ensure confidentiality, to the maximum extent permitted by applicable 
+19laws, of all information related to any claims filed or appeals taken under this subchapter.
+20§850-I.  Disqualification of covered individual
+211.  False statement; misrepresentation.  A covered individual is disqualified from 
+22family leave and medical leave benefits for one year if the individual is determined by the 
+23director to have willfully made a false statement or misrepresentation regarding a material 
+24fact, or willfully failed to report a material fact, to obtain benefits under this subchapter.
+252.  Erroneous payment.  If family leave or medical leave benefits are paid 
+26erroneously or as the result of willful misrepresentation or a claim for family or medical 
+27leave benefits is rejected after benefits are paid, the department may seek repayment of 
+28benefits from the recipient. The director shall exercise discretion to waive, in whole or in 
+29part, the amount of any such payments if the recovery would be against equity and good 
+30conscience.
+31§850-J.  Tax treatment
+321.  Federal tax.  If the federal Internal Revenue Service determines that family leave 
+33or medical leave benefits under this subchapter are subject to federal income tax, the 
+34department must advise an individual filing a new claim for family or medical leave 
+35benefits, at the time the individual files the claim, that:
+36A.  The federal Internal Revenue Service has determined that benefits are subject to 
+37federal income tax;
+38B.  Requirements exist pertaining to estimated tax payments;
+Page 13 - 129LR0033(01)-11C.  The individual may elect to have federal income tax deducted and withheld from 
+2the individual's payment of benefits in the amount specified in the United States 
+3Internal Revenue Code of 1986; and
+4D.  The individual is permitted to change a previously elected withholding status.
+52.  Withholding of federal income tax payments.  If an individual elects to have 
+6federal income tax payments withheld from the individual's family leave or medical leave 
+7benefits payments, the department shall deduct and withhold the amount specified in the 
+8United States Internal Revenue Code of 1986 in a manner consistent with the 
+9requirements in Title 36.  Amounts deducted and withheld from benefits must remain in 
+10the fund until transferred to the federal taxing authority as a payment of income tax.
+113.  Conformity to Internal Revenue Service procedures.  The department shall 
+12follow all procedures specified by the federal Internal Revenue Service pertaining to the 
+13deducting and withholding of income tax.
+14§850-K.  Data collection and technology
+15The department shall use state data collection procedures and technology to the 
+16extent possible to integrate the program with existing state policies.
+17§850-L.  Implementation
+18Contributions begin January 1, 2021 to provide funds for the fund. The department 
+19shall begin processing claims beginning January 1, 2022.
+20The department shall establish reasonable procedures and forms for filing claims for 
+21benefits under this subchapter and shall specify what supporting documentation is 
+22necessary to support a claim for benefits, including documentation required from a health 
+23care provider for proof of a serious health condition.
+24§850-M.  Rulemaking
+25The department may adopt rules as necessary to implement this subchapter.  Rules 
+26adopted pursuant to this subchapter are routine technical rules as defined in Title 5, 
+27chapter 375, subchapter 2-A.
+28§850-N.  Effect of existing employer benefits for family and medical leave
+29This subchapter may not be construed to prohibit an employee entitled to receive 
+30benefits for family or medical leave under a collective bargaining agreement or employer 
+31policy from also receiving benefits under this subchapter as long as the employee is 
+32otherwise eligible for benefits under this subchapter.
+33SUMMARY
+34This bill establishes a paid family and medical leave benefits program administered 
+35by the Department of Labor.  The program provides up to 12 weeks of family leave and 
+36up to 20 weeks of medical leave to eligible covered individuals.  No more than 20 weeks 
+Page 14 - 129LR0033(01)-11of family leave and medical leave in the aggregate may be taken in a 12-month period.  
+2An individual is eligible for leave under the program after working 26 weeks or more for 
+3any employer in the 12 months prior to submitting an application or if the individual is 
+4self-employed and has elected to be part of the program.
+5The maximum weekly benefit amount is capped at 100% of the state average weekly 
+6wage.  The weekly benefit amount is 90% of the portion of the covered individual's 
+7average weekly wage that is equal to or less than 50% of the state average weekly wage 
+8and 67% of the portion of the covered individual's average weekly wage that is more than 
+950% of the state average weekly wage.
+10Covered individuals are required to file claims for benefits in accordance with rules 
+11adopted by the department and to provide certification that they qualify for family leave 
+12or medical leave.
+13This bill establishes the Family and Medical Leave Insurance Fund to support the 
+14program.  The funds for administrative costs and payment of benefits will come from 
+15payroll contributions by employees.
+16The bill requires payroll contributions to begin January 1, 2021, and benefits will be 
+17paid out beginning January 1, 2022.

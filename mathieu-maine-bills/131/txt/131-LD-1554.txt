@@ -1,0 +1,361 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1554
+S.P. 618 In Senate, April 10, 2023
+An Act to Repeal Certificate of Need Requirements for Health Care 
+Providers
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRAKEY of Androscoggin.
+Cosponsored by Representative LIBBY of Auburn and
+Senators: KEIM of Oxford, MOORE of Washington, Representatives: ARATA of New 
+Gloucester, HYMES of Waldo, JAVNER of Chester, MORRIS of Turner, PERKINS of Dover-
+Foxcroft, WHITE of Guilford.
+
+Page 1 - 131LR0678(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA c. 103-A, as amended, is repealed.
+3Sec. 2.  22 MRSA §1708, sub-§3, ¶D, as amended by PL 2013, c. 594, §1, is further 
+4 amended to read:
+5 D.  Ensure that any calculation of an occupancy percentage or other basis for adjusting 
+6 the rate of reimbursement for nursing facility services to reduce the amount paid in 
+7 response to a decrease in the number of residents in the facility or the percentage of the 
+8 facility's occupied beds excludes all beds that the facility has removed from service for 
+9 all or part of the relevant fiscal period in accordance with section 333. If the excluded 
+10 beds are converted to residential care beds or another program for which the department 
+11 provides reimbursement, nothing in this paragraph precludes the department from 
+12 including those beds for purposes of any occupancy standard applicable to the 
+13 residential care or other program pursuant to duly adopted rules of the department;
+14Sec. 3.  22 MRSA §1714-A, sub-§4, ¶C, as amended by PL 2011, c. 687, §8, is 
+15 further amended to read:
+16 C.  The department shall provide in a letter written notice of the requirements of this 
+17 section to the transferee in a letter acknowledging receipt of a request for a certificate 
+18 of need or waiver of the certificate of need for  the case of a nursing home or hospital 
+19 transfer or in response to a request for an application for a license to operate a boarding 
+20 home or to provide other health care services.
+21Sec. 4.  22 MRSA §1715, sub-§1, ¶A, as amended by PL 2017, c. 475, Pt. A, §29, 
+22 is further amended to read:
+23 A.  Is either a direct provider of major ambulatory service, as defined in former section 
+24 382, subsection 8‑A, or is or has been required to obtain a certificate of need under 
+25 section 329 or former section 304 or 304-A;
+26Sec. 5.  22 MRSA §1831, sub-§1, as amended by PL 2013, c. 214, §1, is further 
+27 amended to read:
+281.  Provision of information.  In order to provide for informed patient or resident 
+29 decisions, a hospital or nursing facility shall provide a standardized list of licensed 
+30 providers of care and services and available physicians for all patients or residents prior to 
+31 discharge for whom home health care, hospice care, acute rehabilitation care, a hospital 
+32 swing bed as defined in section 328, subsection 15 or nursing care is needed. The list must 
+33 include a clear and conspicuous notice of the rights of the patient or resident regarding 
+34 choice of providers.
+35 A.  For all patients or residents requiring home health care or hospice care, the list must 
+36 include all licensed home health care and hospice providers that request to be listed 
+37 and any branch offices, including addresses and phone numbers, that serve the area in 
+38 which the patient or resident resides.
+39 B.  For all patients or residents requiring nursing facility care or a hospital swing bed, 
+40 the list must include all appropriate facilities that request to be listed that serve the area 
+41 in which the patient or resident resides or wishes to reside and the physicians available 
+42 within those facilities that request to be listed.
+Page 2 - 131LR0678(01)1 C.  The hospital or nursing facility shall disclose to the patient or resident any direct or 
+2 indirect financial interest the hospital or nursing facility has in the nursing facility or 
+3 home health care provider.
+4Sec. 6.  22 MRSA §2061, sub-§2, as amended by PL 2011, c. 90, Pt. J, §19, is 
+5 further amended to read:
+62.  Review.  Each project for a health care facility has been reviewed and approved to 
+7 the extent required by the agency of the State that serves as the designated planning agency 
+8 of the State or by the Department of Health and Human Services in accordance with the 
+9 provisions of the Maine Certificate of Need Act of 2002, as amended;
+10Sec. 7.  24-A MRSA §4203, sub-§1, as amended by PL 2003, c. 510, Pt. A, §19, is 
+11 further amended to read:
+121.   Subject to the Maine Certificate of Need Act of 2002, a  A person may apply to the 
+13 superintendent for and obtain a certificate of authority to establish, maintain, own, merge 
+14 with, organize or operate a health maintenance organization in compliance with this 
+15 chapter. A person may not establish, maintain, own, merge with, organize or operate a 
+16 health maintenance organization in this State either directly as a division or a line of 
+17 business or indirectly through a subsidiary or affiliate, nor sell or offer to sell, or solicit 
+18 offers to purchase or receive advance or periodic consideration in conjunction with, a health 
+19 maintenance organization without obtaining a certificate of authority under this chapter.
+20Sec. 8.  24-A MRSA §4204, sub-§1, as corrected by RR 2021, c. 1, Pt. B, §342, is 
+21 repealed.
+22Sec. 9.  24-A MRSA §4204, sub-§2-A, as amended by PL 2013, c. 588, Pt. A, §29, 
+23 is further amended to read:
+242-A.   The superintendent shall issue or deny a certificate of authority to any person 
+25 filing an application pursuant to section 4203 within 50 business days of receipt of the 
+26 notice from the Department of Health and Human Services that the applicant has been 
+27 granted a certificate of need or, if a certificate of need is not required, within 50 business 
+28 days of receipt of notice from the Department of Health and Human Services that the 
+29 applicant is in compliance with the requirements of paragraph B. Issuance of a certificate 
+30 of authority shall  must be granted upon payment of the application fee prescribed in section 
+31 4220 if the superintendent is satisfied that the following conditions are met. :
+32 A.  The Commissioner of Health and Human Services certifies that the health 
+33 maintenance organization has received a certificate of need or that a certificate of need 
+34 is not required pursuant to Title 22, chapter 103‑A.
+35 B.  If the  The Commissioner of Health and Human Services  has determined that a 
+36 certificate of need is not required, the commissioner makes a determination and 
+37 provides a certification to the superintendent that the following requirements have been 
+38 met. :
+39 (4)  The health maintenance organization must establish and maintain procedures 
+40 to ensure that the health care services provided to enrollees are rendered under 
+41 reasonable standards of quality of care consistent with prevailing professionally 
+42 recognized standards of medical practice. These procedures must include 
+43 mechanisms to ensure availability, accessibility and continuity of care. ;
+Page 3 - 131LR0678(01)1 (5)  The health maintenance organization must have an ongoing internal quality 
+2 assurance program to monitor and evaluate its health care services including 
+3 primary and specialist physician services, ancillary and preventive health care 
+4 services across all institutional and noninstitutional settings. The program must 
+5 include, at a minimum, the following:
+6 (a)  A written statement of goals and objectives that emphasizes improved 
+7 health outcomes in evaluating the quality of care rendered to enrollees;
+8 (b)  A written quality assurance plan that describes the following:
+9 (i)  The health maintenance organization's scope and purpose in quality 
+10 assurance;
+11 (ii)  The organizational structure responsible for quality assurance 
+12 activities;
+13 (iii)  Contractual arrangements, in appropriate instances, for delegation of 
+14 quality assurance activities;
+15 (iv)  Confidentiality policies and procedures;
+16 (v)  A system of ongoing evaluation activities;
+17 (vi)  A system of focused evaluation activities;
+18 (vii)  A system for reviewing and evaluating provider credentials for 
+19 acceptance and performing peer review activities; and
+20 (viii)  Duties and responsibilities of the designated physician supervising 
+21 the quality assurance activities;
+22 (c)  A written statement describing the system of ongoing quality assurance 
+23 activities including:
+24 (i)  Problem assessment, identification, selection and study;
+25 (ii)  Corrective action, monitoring evaluation and reassessment; and
+26 (iii)  Interpretation and analysis of patterns of care rendered to individual 
+27 patients by individual providers;
+28 (d)  A written statement describing the system of focused quality assurance 
+29 activities based on representative samples of the enrolled population that 
+30 identifies the method of topic selection, study, data collection, analysis, 
+31 interpretation and report format; and
+32 (e)  Written plans for taking appropriate corrective action whenever, as 
+33 determined by the quality assurance program, inappropriate or substandard 
+34 services have been provided or services that should have been furnished have 
+35 not been provided. ;
+36 (6)  The health maintenance organization shall  must record proceedings of formal 
+37 quality assurance program activities and maintain documentation in a confidential 
+38 manner.  Quality assurance program minutes must be available to the 
+39 Commissioner of Health and Human Services. ;
+Page 4 - 131LR0678(01)1 (7)  The health maintenance organization shall  must ensure the use and 
+2 maintenance of an adequate patient record system that facilitates documentation 
+3 and retrieval of clinical information to permit evaluation by the health maintenance 
+4 organization of the continuity and coordination of patient care and the assessment 
+5 of the quality of health and medical care provided to enrollees. ;
+6 (8)  Enrollee clinical records must be available to the Commissioner of Health and 
+7 Human Services or an authorized designee for examination and review to ascertain 
+8 compliance with this section, or as considered necessary by the Commissioner of 
+9 Health and Human Services. ; and
+10 (9)  The organization must establish a mechanism for periodic reporting of quality 
+11 assurance program activities to the governing body, providers and appropriate 
+12 organization staff.
+13 The Commissioner of Health and Human Services shall make the certification required 
+14 by this paragraph within 60 days of the date of the written decision that a certificate of 
+15 need was not required. If the  commissioner  Commissioner of Health and Human 
+16 Services certifies that the health maintenance organization does not meet all of the 
+17 requirements of this paragraph, the commissioner shall specify in what respects the 
+18 health maintenance organization is deficient. ;
+19 C.  The health maintenance organization conforms to the definition under section 
+20 4202‑A, subsection 10. ;
+21 D.  The health maintenance organization is financially responsible, complies with the 
+22 minimum surplus requirements of section 4204‑A and, among other factors, can 
+23 reasonably be expected to meet its obligations to enrollees and prospective enrollees.
+24 (1)  In a determination of minimum surplus requirements, the following terms have 
+25 the following meanings.
+26 (a)  "Admitted assets" means assets recognized by the superintendent pursuant 
+27 to section 901‑A.  For purposes of this chapter, the asset value is that contained 
+28 in the annual statement of the corporation as of December 31st of the year 
+29 preceding the making of the investment or contained in any audited financial 
+30 report, as defined in section 221‑A, of more current origin.
+31 (b)  "Reserves" means those reserves held by corporations subject to this 
+32 chapter for the protection of subscribers.  For purposes of this chapter, the 
+33 reserve value is that contained in the annual statement of the corporation as of 
+34 December 31st of the preceding year or any audited financial report, as defined 
+35 in section 221‑A, of more current origin.
+36 (2)  In making the determination whether the health maintenance organization is 
+37 financially responsible, the superintendent may also consider:
+38 (a)  The financial soundness of the health maintenance organization's 
+39 arrangements for health care services and the schedule of charges used;
+40 (b)  The adequacy of working capital;
+41 (c)  Any agreement with an insurer, a nonprofit hospital or medical service 
+42 corporation, a government or any other organization for insuring or providing 
+43 the payment of the cost of health care services or the provision for automatic 
+Page 5 - 131LR0678(01)44 applicability of an alternative coverage in the event of discontinuance of the 
+45 plan;
+3 (d)  Any agreement with providers for the provision of health care services that 
+4 contains a covenant consistent with subsection 6; and
+5 (e)  Any arrangements for insurance coverage or an adequate plan for self-
+6 insurance to respond to claims for injuries arising out of the furnishing of 
+7 health care services. ;
+8 E.  The enrollees are afforded an opportunity to participate in matters of policy and 
+9 operation pursuant to section 4206. ;
+10 F.  Nothing in the proposed method of operation, as shown by the information 
+11 submitted pursuant to section 4203 or by independent investigation, is contrary to the 
+12 public interest. ;
+13 G.  Any director, officer, employee or partner of a health maintenance organization 
+14 who receives, collects, disburses or invests funds in connection with the activities of 
+15 that organization shall be  is responsible for those funds in a fiduciary relationship to 
+16 the organization. ;
+17 H.  The health maintenance organization shall maintain  maintains in force a fidelity 
+18 bond or fidelity insurance on those employees and officers of the health maintenance 
+19 organization who have duties as described in paragraph G, in an amount not less than 
+20 $250,000 for each health maintenance organization or a maximum of $5,000,000 in 
+21 aggregate maintained on behalf of health maintenance organizations owned by a 
+22 common parent corporation, or such sum as may be prescribed by the superintendent. ;
+23 I.  If any agreement, as set forth in paragraph D, subparagraph (2), division (c), is made 
+24 by the health maintenance organization, the entity executing the agreement with the 
+25 health maintenance organization must demonstrate  demonstrates to the 
+26 superintendent's satisfaction that the entity has sufficient unencumbered surplus funds 
+27 to cover the assured payments under the agreement, otherwise the superintendent shall 
+28 disallow the agreement.  In considering approval of such an agreement, the 
+29 superintendent shall consider the entity's record of earnings for the most recent 3 years, 
+30 the risk characteristics of its investments and whether its investments and other assets 
+31 are reasonably liquid and available to make payments for health services. ;
+32 K.  The health maintenance organization provides a spectrum of providers and services 
+33 that meet patient demand. ;
+34 L.  The health maintenance organization meets the requirements of section 4303, 
+35 subsection 1. ;
+36 M.  The health maintenance organization demonstrates a plan for providing services 
+37 for rural and underserved populations and for developing relationships with essential 
+38 community providers within the area of the proposed certificate.  The health 
+39 maintenance organization must make an annual report to the superintendent regarding 
+40 the plan. ; and
+41 O.  Each  The health maintenance organization  shall provide  provides basic health care 
+42 services.1
+2
+Page 6 - 131LR0678(01)1 The applicant shall furnish, upon request of the superintendent, any information necessary 
+2 to make any determination required pursuant to this subsection.
+3Sec. 10.  24-A MRSA §4225, as corrected by RR 2021, c. 2, Pt. A, §79, is amended 
+4 to read:
+5§4225.  Commissioner of Health and Human Services' authority to contract
+6 The Commissioner of Health and Human Services, in carrying out the commissioner's 
+7 obligations under section 4204, subsection 1, paragraph B; section 4215; and section 4216, 
+8 subsection 1, may contract with qualified persons to make recommendations concerning 
+9 the determinations required to be made by the commissioner. Such recommendations may 
+10 be accepted in full or in part by the commissioner.
+11Sec. 11.  24-A MRSA §6203, sub-§1, ¶A, as amended by PL 2003, c. 510, Pt. A, 
+12 §22, is further amended to read:
+13 A.  The provider has submitted to the department an application for a certificate of 
+14 need, if required under Title 22, section 329, and the department has submitted a 
+15 preliminary report of a recommendation for approval of a certificate of need and the 
+16 provider has applied for any  other licenses or permits required prior to operation.
+17Sec. 12.  24-A MRSA §6203, sub-§1, ¶G, as enacted by PL 1995, c. 452, §11, is 
+18 amended to read:
+19 G.  The department has approved the adequacy of all services proposed under the 
+20 continuing care agreement not otherwise reviewed under the certificate of need 
+21 process.
+22Sec. 13.  24-A MRSA §6203, sub-§2, as amended by PL 1995, c. 452, §§12 to 16, 
+23 is further amended to read:
+242.  Final certificate of authority.  The superintendent shall issue a final certificate of 
+25 authority, subject to annual renewal, when:
+26 A.  The provider has obtained any required certificate of need or other permits or 
+27 licenses required prior to construction of the facility;
+28 C.  The superintendent is satisfied that the provider has demonstrated that it is 
+29 financially responsible and shall  may reasonably be expected to meet its obligations to 
+30 subscribers or prospective subscribers;
+31 D.  The superintendent has determined that the provider's continuing care agreement 
+32 meets the requirements of section 6206, subsection 3, and the rules  promulgated in  
+33 adopted under this chapter; and
+34 G.  The provider certifies to the superintendent either:
+35 (1)  That preliminary continuing care agreements have been entered and deposits 
+36 of not less than 10% of the entrance fee have been received either:
+37 (a)  From subscribers with respect to 70% of the residential units, including 
+38 names and addresses of the subscribers, for which entrance fees will be 
+39 charged; or
+40 (b)  From subscribers with respect to 70% of the total entrance fees due or 
+41 expected at full occupancy of the community; or
+Page 7 - 131LR0678(01)1 (2)  That preliminary continuing care agreements have been entered and deposits 
+2 of not less than 25% of the entrance fee received from either:
+3 (a)  Subscribers with respect to 60% of the residential units, including names 
+4 and addresses of the subscribers, for which entrance fees will be charged; or
+5 (b)  Subscribers with respect to 60% of the total entrance fees due or expected 
+6 at full occupancy of the community.
+7 Within 120 days after determining that the application to the superintendent and the 
+8 department is complete, the superintendent shall issue or deny a final certificate of authority 
+9 to the provider, unless a certificate of need is required, in which case the final certificate of 
+10 authority shall be issued or denied in accordance with the certificate of need schedule.
+11Sec. 14.  24-A MRSA §6203, sub-§6, as amended by PL 2003, c. 155, §1, is further 
+12 amended to read:
+136.  Provision of services to nonresidents.  The final certificate of authority must state 
+14 whether any skilled nursing facility that is part of a life-care community or a continuing 
+15 care retirement community may provide services to persons who have not been bona fide 
+16 residents of the community prior to admission to the skilled nursing facility.  If the life-
+17 care community or the continuing care retirement community admits to its skilled nursing 
+18 facility only persons who have been bona fide residents of the community prior to 
+19 admission to the skilled nursing facility, then the community is exempt from the provisions 
+20 of Title 22, chapter 103‑A, but is subject to the licensing provisions of Title 22, chapter 
+21 405, and is entitled to only one skilled nursing facility bed for every 4 residential units in 
+22 the community.  Any community exempted under Title 22, chapter 103‑A  rules adopted by 
+23 the department may admit nonresidents of the community to its skilled nursing facility only 
+24 during the first 3 years of operation.  For purposes of this subsection, a "bona fide resident" 
+25 means a person who has been a resident of the community for a period of not less than 180 
+26 consecutive days immediately preceding admission to the nursing facility or has been a 
+27 resident of the community for less than 180 consecutive days but who has been medically 
+28 admitted to the nursing facility resulting from an illness or accident that occurred 
+29 subsequent to residence in the community.  Any community exempted under Title 22, 
+30 chapter 103‑A  rules adopted by the department is not entitled to and may not seek any 
+31 reimbursement or financial assistance under the MaineCare program from any state or 
+32 federal agency and, as a consequence, that community must continue to provide nursing 
+33 facility services to any person who has been admitted to the facility.
+34 Notwithstanding this subsection, a life-care community that holds a final certificate of 
+35 authority from the superintendent and that was operational on November 18, 2002 and that 
+36 is barred from seeking reimbursement or financial assistance under the MaineCare program 
+37 from a state or federal agency may continue to admit nonresidents of the community to its 
+38 skilled nursing facility after its first 3 years of operation with the approval of the 
+39 superintendent.  A life-care community that admits nonresidents to its skilled nursing 
+40 facility as permitted under this subsection may continue to admit nonresidents after its first 
+41 3 years of operation only for such period as approved by the superintendent after the 
+42 superintendent's consideration of the financial impact on the life-care community and the 
+43 impact on the contractual rights of subscribers of the community.
+44Sec. 15.  24-A MRSA §6226, as amended by PL 2003, c. 510, Pt. A, §23 is repealed.
+Page 8 - 131LR0678(01)1Sec. 16.  24-A MRSA §6951, sub-§6, as enacted by PL 2003, c. 469, Pt. A, §8, is 
+2 amended to read:
+36.  Technology assessment.  The forum shall conduct technology assessment reviews 
+4 to guide the use and distribution of new technologies in this State. The forum shall make 
+5 recommendations to the certificate of need program under Title 22, chapter 103‑A.
+6Sec. 17.  35-A MRSA §10122, as enacted by PL 2011, c. 424, Pt. A, §6 and affected 
+7 by Pt. E, §1, is amended to read:
+8§10122.  Health care facility program
+9 The trust shall develop and implement a process to review projects undertaken by 
+10 health care facilities that are directed solely at reducing energy costs through energy 
+11 efficiency, renewable energy technology or smart grid technology and to certify those 
+12 projects that are likely to be cost-effective.  If a project is certified as likely to be cost-
+13 effective by the trust, the review process serves as an alternative to the certificate of need 
+14 process established pursuant to Title 22, section 329, subsection 3.
+15Sec. 18.  38 MRSA §1310-X, sub-§4, ¶A, as amended by PL 2003, c. 551, §17, is 
+16 further amended to read:
+17 A.  A commercial biomedical waste disposal or treatment facility, if at least 51% of the 
+18 facility is owned by a licensed hospital or hospitals as defined in Title 22, section 328, 
+19 subsection 14 or a group of hospitals that are licensed under Title 22 acting through a 
+20 statewide association of Maine hospitals or a wholly owned affiliate of the association; 
+21 and
+22SUMMARY
+23 Under current law, before introducing additional health care services and procedures 
+24 in a market area, a person must apply for and receive a certificate of need from the 
+25 Department of Health and Human Services. This bill eliminates that requirement.23
+24
+25

@@ -1,0 +1,122 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 1207
+H.P. 767 House of Representatives, March 16, 2023
+An Act to Implement the Recommendations of the Right To Know 
+Advisory Committee Concerning Public Records Exceptions
+Reported by Representative MOONEN of Portland for the Joint Standing Committee on 
+Judiciary pursuant to the Maine Revised Statutes, Title 1, section 411, subsection 6, paragraph 
+G.
+Reference to the Committee on Judiciary suggested and ordered printed pursuant to Joint 
+Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 131LR2475(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24 MRSA §2302-A, sub-§3, as enacted by PL 1987, c. 168, §1, is amended 
+3 to read:
+43.  Confidentiality.  Any information provided pursuant to this section shall may not 
+5 identify the names of patients.  If patient names are identified in information provided 
+6 pursuant to this section, the patient names are confidential.
+7Sec. 2.  24 MRSA §2510, sub-§1, as amended by PL 2011, c. 524, §§9 and 10, is 
+8 further amended to read:
+91.  Confidentiality; exceptions.  Any reports, information or records received and 
+10 maintained by the board pursuant to this chapter, including any material received or 
+11 developed by the board during an investigation shall be is confidential, except for 
+12 information and data that is developed or maintained by the board from reports or records 
+13 received and maintained pursuant to this chapter or by the board during an investigation 
+14 and that does not identify or permit identification of any patient or physician; provided that 
+15 the board may disclose any confidential information only:
+16 A.  In a disciplinary hearing before the board or in any subsequent trial or appeal of a 
+17 board action or order relating to such disciplinary hearing;
+18 B.  To governmental licensing or disciplinary authorities of any jurisdiction or to any 
+19 health care providers or health care entities located within or outside this State that are 
+20 concerned with granting, limiting or denying a physician's privileges, but only if the 
+21 board includes along with the transfer an indication as to whether or not the information 
+22 has been substantiated by the board;
+23 C.  As required by section 2509, subsection 5;
+24 D.  Pursuant to an order of a court of competent jurisdiction;
+25 E.  To qualified personnel for bona fide research or educational purposes, if personally 
+26 identifiable information relating to any patient or physician is first deleted; or
+27 F.  To other state or federal agencies when the information contains evidence of 
+28 possible violations of laws enforced by those agencies.
+29Sec. 3.  24 MRSA §2510, sub-§2, as enacted by PL 1977, c. 492, §3, is amended to 
+30 read:
+312.  Confidentiality of orders in disciplinary proceedings.  Orders of the board 
+32 relating to disciplinary action against a physician, including orders or other actions of the 
+33 board referring or scheduling matters for hearing, shall not be  are not confidential.
+34Sec. 4.  24 MRSA §2604, as corrected by RR 2015, c. 1, §25, is amended to read:
+35§2604.  Records of superintendent
+36 For the purpose of evaluation of policy provisions, rate structures and the arbitration 
+37 process and for recommendations of further legislation, the Superintendent of Insurance 
+38 shall retain the information and maintain the files in the form and for such period as the 
+39 superintendent determines necessary. The superintendent shall maintain the reports filed in 
+40 accordance with this section, and all data or information derived therefrom that identifies 
+41 or permits identification of the insured or insureds or the incident or occurrences for which 
+Page 2 - 131LR2475(01)42 a claim was made, as strictly confidential records. Data and information derived from 
+43 reports filed in accordance with this section that do not identify or permit identification of 
+44 the insured or insureds or the incident or occurrence for which a claim was made may be 
+45 released by the superintendent or otherwise made available to the public. Reports made to 
+46 the superintendent and records thereof kept by the superintendent are not subject to 
+47 discovery and are not admissible in any trial, civil or criminal, other than proceedings 
+48 brought before or by the board.
+8Sec. 5.  24-A MRSA §6907, sub-§1, as enacted by PL 2003, c. 469, Pt. A, §8, is 
+9 amended to read:
+101.  Financial information.  Any personally identifiable financial information, 
+11 supporting data or tax return of any person obtained by Dirigo Health under this chapter is 
+12 confidential and not open to public inspection.
+13Sec. 6.  24-A MRSA §6907, sub-§2, as enacted by PL 2003, c. 469, Pt. A, §8, is 
+14 amended to read:
+152.  Health information.  Health information obtained by Dirigo Health under this 
+16 chapter that is covered by the federal Health Insurance Portability and Accountability Act 
+17 of 1996, Public Law 104-191, 110 Stat. 1936 or information covered by chapter 24 or Title 
+18 22, section 1711‑C is confidential and not open to public inspection.
+19SUMMARY
+20 This bill implements statutory changes recommended by the Right To Know Advisory 
+21 Committee after reviewing certain existing public records exceptions in Titles 23, 24 and 
+22 24-A.
+23 The bill clarifies that patient names contained in utilization review data reports filed by 
+24 nonprofit hospitals and medical service organizations with the Superintendent of Insurance 
+25 must be kept confidential. 
+26 The bill makes grammatical corrections to the confidentiality provisions of the Maine 
+27 Health Security Act related to professional competence reports. 
+28 The bill removes the word "strictly" from the section of the Maine Health Security Act 
+29 requiring confidentiality for all data or information that identifies or permits identification 
+30 of the insured or insureds or the incident or occurrences for which a claim was made 
+31 contained in records of the Superintendent of Insurance retained for the purpose of 
+32 evaluation of policy provisions, rate structures, the arbitration process and for 
+33 recommendations of further legislation. 
+34 The bill removes unnecessary language from the statute governing the confidentiality 
+35 of information within records maintained by Dirigo Health.1
+2
+3
+4
+5
+6
+7
+20
+21
+22

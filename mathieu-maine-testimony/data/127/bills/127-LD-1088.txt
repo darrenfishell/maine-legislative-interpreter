@@ -1,0 +1,367 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper   
+127th MAINE LEGISLATURE  
+ 
+FIRST REGULAR SESSION -2015  
+ 
+Legislative Document  No. 1088  
+H.P. 749  House of Representatives, March 25, 2015  
+ 
+ 
+An Act To Implement Recommendations of the Right To Know 
+Advisory Committee  
+ 
+ 
+ 
+ 
+Reported by Representative HOBBINS of Saco for the Joint Standing Committee on Judiciary 
+pursuant to the Maine Revised Statutes, Title 1, section 411, subsection 6, paragraph G.  
+Reference to the Committee on Judiciary suggested and ordered printed pursuan t to Joint 
+Rule 218.  
+ 
+ 
+  
+ ROBERT B. HUNT  
+ Clerk  
+ 
+ 
+ 
+ 
+
+ 
+ Page 1 - 127LR1905(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+PART A  2 
+Sec. A -1.  1 MRSA §411, sub -§2, ¶¶L and M, as enacted by PL 2005, c. 631, 3 
+§1, are amended to read:  4 
+L.  Two representatives of the public, one appointed by the President of the Senate 5 
+and one appointed by the Speaker of the House; and 6 
+M.  The Attorney General or the Attorney General's designee .; and  7 
+Sec. A -2.  1 MRSA §411, sub -§2, ¶N is enacted to read:  8 
+N.  One member with broad experience in and understanding of issues and costs in  9 
+multip le areas of information technology, including practical applications concerning 10 
+creation, storage, retrieval and accessibility of electronic records; use of 11 
+communication technologies to support meetings, including teleconferencing and 12 
+Internet -based confe rencing; databases for records management and reporting; and 13 
+information technology system development and support, appointed by the Governor.  14 
+PART B  15 
+Sec. B -1.  5 MRSA §200 -I, sub -§5, as enacted by PL 2007, c. 603, §1, is 16 
+amended to read:  17 
+5.  Report.   The ombudsman shall submit a report not later than March  January  15th 18 
+of each year to the Legislature and the Right To Know Advisory Committee established 19 
+in Title 1, section 411 concerning the activities of the ombudsman for the previous year.  20 
+The report mus t include:  21 
+A.  The total number of inquiries and complaints received;  22 
+B.  The number of inquiries and complaints received respectively from the public, the 23 
+media and public agencies or officials;  24 
+C.  The number of complaints received concerning respectivel y public records and 25 
+public meetings;  26 
+D.  The number of complaints received concerning respectively:  27 
+(1)  State agencies;  28 
+(2)  County agencies;  29 
+(3)  Regional agencies;  30 
+(4)  Municipal agencies;  31 
+(5)  School administrative units; and  32 
+(6)  Other public entitie s;  33 
+E.  The number of inquiries and complaints that were resolved;  34 
+F.  The total number of written advisory opinions issued and pending; and  35 
+ 
+ Page 2 - 127LR1905(01) -1 
+ G.  Recommendations concerning ways to improve public access to public records 1 
+and proceedings.  2 
+PART C  3 
+Sec. C -1.  22 MRSA c. 271, sub -c. 2, as amended,  is repealed.  4 
+Sec. C -2.  26 MRSA §3, as amended by PL 2011, c. 655, Pt. DD, §10 and affected 5 
+by §24, is repealed and the following enacted in its place:  6 
+§3.  Confidentiality of records  7 
+1.  Confidential records.   Except a s provided in subsections 2 and 3, all information 8 
+and reports received by the director or the director's authorized agents under this Title are 9 
+confidential for the purposes of Title 1, section 402, subsection 3, paragraph A.  10 
+2.  Exceptions.   Reports of f inal bureau action taken under the authority of this Title 11 
+are public records for the purposes of Title 1, chapter 13, subchapter 1.  12 
+3.  Authorized disclosure.   The director shall make or authorize any disclosure of 13 
+information of the following types or un der the following circumstances with the 14 
+understanding that the confidentiality of the information will be maintained:  15 
+A.  Information and reports to other government agencies if the director believes that 16 
+the information will serve to further the protecti on of the public or assist in the 17 
+enforcement of local, state and federal laws; and  18 
+B.  Information and records pertaining to the workforce, employment patterns, wage 19 
+rates, poverty and low -income patterns, economically distressed communities and 20 
+regions a nd other similar information and data to the Department of Economic and 21 
+Community Development and to the Governor’s Office of Policy and Management 22 
+for the purposes of analysis and evaluation, measuring and monitoring poverty and 23 
+economic and social condit ions throughout the State, and promoting economic 24 
+development.  25 
+Sec. C -3.  26 MRSA §934, 4th ¶, as enacted by PL 1985, c. 294, §§2 and 3, is 26 
+amended to read:  27 
+The board shall hear all interested persons who come before it, advise the respective 28 
+parties what ought to be done by either or both to adjust the controversy, and shall make a 29 
+confidential written report to the Governor and the Executive Director of the Maine 30 
+Labor Relations Board.  The Governor or executive director may shall  make the report 31 
+public i f, after 15 days from the date of its receipt, the parties have not resolved the 32 
+controversy and the public interest would be served by publication.  In addition, either the 33 
+Governor or the executive director may refer the report and recommendations of the  34 
+board to the Attorney General or other department for appropriate action when it appears 35 
+that any of the laws of this State may have been violated.  36 
+Sec. C -4.  29-A MRSA §152, sub -§3, as enacted by PL 1993, c. 683, Pt. A, §2 37 
+and affected by Pt. B, §5, is amended to read:  38 
+ 
+ Page 3 - 127LR1905(01) -1 
+ 3.  Central computer system.   Notwithstanding any other provisions of law, 1 
+purchase and maintain a central computer system for purposes of administering this Title 2 
+and conducting departmental operations.  All other uses must be approved by the 3 
+Secretary of State .  The Secretary of State shall adopt rules regarding the maintenance 4 
+and use of data processing information files required to be kept confidential and shall 5 
+distinguish those files from files available to the public ; 6 
+Sec. C -5.  29-A MRSA §257, as enacted by PL 2003, c. 434, §6 and affected by 7 
+§37, is repealed.  8 
+Sec. C -6.  29-A MRSA §517, sub -§4, as enacted by PL 1993, c. 683, Pt. A, §2 9 
+and affected by Pt. B, §5, is amended to read:  10 
+4.  Unmarked law enforcement vehicles.   An unmarked mo tor vehicle used 11 
+primarily for law enforcement purposes, when authorized by the Secretary of State and 12 
+upon approval from the appropriate requesting authority, is exempt from displaying a 13 
+special registration plate.  Records for all unmarked vehicle regist rations are confidential.  14 
+Upon receipt of a written request by an appropriate criminal justice official showing 15 
+cause that it is in the best interest of public safety, the Secretary of State may determine 16 
+that records of a nongovernment vehicle may be held  confidential for a specific period of 17 
+time, which may not exceed the expiration of the current registration.  18 
+Sec. C -7.  35-A MRSA §8703, sub -§5, as enacted by PL 1989, c. 851, §7, is 19 
+amended to read:  20 
+5.  Confidentiality.  Relay  The providers of telecommun ications relay services shall 21 
+keep relay  service communications must be  confidential.  22 
+Sec. C -8.  38 MRSA §414, sub -§6, as amended by PL 1997, c. 794, Pt. A, §20, is 23 
+further amended to read:  24 
+6.  Confidentiality of records.   Any records, reports or informati on obtained under 25 
+this subchapter is available to the public, except that upon a showing satisfactory to the 26 
+department by any person that any records, reports or information, or particular part of 27 
+any record, report or information, other than the names an d addresses of applicants, 28 
+license applications, licenses and effluent data, to which the department has access under 29 
+this subchapter would, if made public, divulge methods or processes that are entitled to 30 
+protection as trade secrets as defined in Title 1 0, section 1542, subsection 4 , these 31 
+records, reports or information must be confidential and not available for public 32 
+inspection or examination. Any records, reports or information may be disclosed to 33 
+employees or authorized representatives of the State o r the United States concerned with 34 
+carrying out this subchapter or any applicable federal law, and to any party to a hearing 35 
+held under this section on terms the commissioner may prescribe in order to protect these 36 
+confidential records, reports and informa tion, as long as this disclosure is material and 37 
+relevant to any issue under consideration by the department.  38 
+Sec. C -9.  38 MRSA §585 -B, sub -§6, as amended by PL 2009, c. 535, §2, is 39 
+further amended to read:  40 
+ 
+ Page 4 - 127LR1905(01) -1 
+ 6.  Mercury reduction plans.   An air emission so urce emitting mercury in excess of 1 
+10 pounds per year after January 1, 2007 must develop a mercury reduction plan.  Except 2 
+as provided in subsection 7, the mercury reduction plan must be submitted to the 3 
+department no later than September 1, 2008.  The mer cury reduction plan must contain:  4 
+A.  Identification, characterization and accounting of the mercury used or released at 5 
+the emission source; and  6 
+B.  Identification, analysis and evaluation of any appropriate technologies, 7 
+procedures, processes, equipment or production changes that may be utilized by the 8 
+emission source to reduce the amount of mercury used or released by that emission 9 
+source, including a financial analysis of the costs and benefits of reducing the amount 10 
+of mercury used or released.  11 
+The dep artment may keep information submitted to the department under this subsection 12 
+confidential as provided under section 1310 -B. 13 
+The department shall submit a report to the joint standing committee of the Legislature 14 
+having jurisdiction over natural resources  matters no later than March 1, 2009 15 
+summarizing the mercury emissions and mercury reduction potential from those emission 16 
+sources subject to this subsection.  In addition, the department shall include an evaluation 17 
+of the appropriateness of the 25 -pound m ercury standard established in subsection 5.   18 
+The evaluation must address, but is not limited to, the technological feasibility, cost and 19 
+schedule of achieving the standards established in subsection 5. The department shall 20 
+submit an updated report to the  committee by March 1, 2013. The joint standing 21 
+committee of the Legislature having jurisdiction over natural resources matters is 22 
+authorized to report out to the 126th Legislature a bill relating to the evaluation and the 23 
+updated report.  24 
+Sec. C -10.  38 MR SA §585 -C, sub -§2, ¶D, as affected by PL 1989, c. 890, Pt. 25 
+A, §40 and amended by Pt. B, §160, is repealed.  26 
+Sec. C -11.  38 MRSA §1310 -B, sub -§2, as repealed and replaced by PL 2011, c. 27 
+420, Pt. A, §35 and amended by c. 657, Pt. W, §5, is amended to read:  28 
+2.  Hazardous waste information and information on mercury -added products 29 
+and electronic devices; chemicals.   Information relating to hazardous waste submitted to 30 
+the department under this subchapter, information relating to mercury -added products 31 
+submitted to the department under chapter 16 -B, information relating to electronic 32 
+devices submitted to the department under section 1610, subsection 6 -A, information 33 
+relating to mercury reduction plans submitted to the department under section 585 -B, 34 
+subsection 6,  information related to priority toxic chemicals submitted to the department 35 
+under chapter 27 or information related to products that contain the "deca" mixture of 36 
+polybrominated diphenyl ethers submitted to the department under section 1609 may be 37 
+designat ed by the person submitting it as being only for the confidential use of the 38 
+department, its agents and employees, the Department of Agriculture, Conservation and 39 
+Forestry and the Department of Health and Human Services and their agents and 40 
+employees, othe r agencies of State Government, as authorized by the Governor, 41 
+employees of the United States Environmental Protection Agency and the Attorney 42 
+General and, for waste information, employees of the municipality in which the waste is 43 
+ 
+ Page 5 - 127LR1905(01) -1 
+ located.  The designation  must be clearly indicated on each page or other portion of 1 
+information.  The commissioner shall establish procedures to ensure that information so 2 
+designated is segregated from public records of the department.  The department's public 3 
+records must includ e the indication that information so designated has been submitted to 4 
+the department, giving the name of the person submitting the information and the general 5 
+nature of the information.  Upon a request for information, the scope of which includes 6 
+informati on so designated, the commissioner shall notify the submittor.  Within 15 days 7 
+after receipt of the notice, the submittor shall demonstrate to the satisfaction of the 8 
+department that the designated information should not be disclosed because the 9 
+informatio n is a trade secret or production, commercial or financial information, the 10 
+disclosure of which would impair the competitive position of the submittor and would 11 
+make available information not otherwise publicly available.  Unless such a 12 
+demonstration is ma de, the information must be disclosed and becomes a public record.  13 
+The department may grant or deny disclosure for the whole or any part of the designated 14 
+information requested and within 15 days shall give written notice of the decision to the 15 
+submittor and the person requesting the designated information.  A person aggrieved by a 16 
+decision of the department may appeal only to the Superior Court in accordance with the 17 
+provisions of section 346.  All information provided by the department to the 18 
+municipalit y under this subsection is confidential and not a public record under Title 1, 19 
+chapter 13.  In the event a request for such information is submitted to the municipality, 20 
+the municipality shall submit that request to the commissioner to be processed by the 21 
+department as provided in this subsection.  22 
+PART D  23 
+Sec. D -1.  1 MRSA §433, sub -§2, as enacted by PL 2005, c. 631, §5, is repealed.  24 
+Sec. D -2.  1 MRSA §433, sub -§2-A is enacted to read:  25 
+2-A.  Scheduling guidelines.   The advisory committee shall use the follow ing list as 26 
+a guideline for scheduling reviews of public records exceptions and reporting its 27 
+recommendations to the review committee:  28 
+A.  Exceptions enacted after 2004 and before 2013 are scheduled to be reviewed by 29 
+the review committee no later than 2017 ; 30 
+B.  Exceptions codified in the following Titles are scheduled to be reviewed by the 31 
+review committee no later than 2019:  32 
+(1)  Title 1;  33 
+(2)  Title 2;  34 
+(3)  Title 3;  35 
+(4)  Title 4;  36 
+(5)  Title 5;  37 
+(6)  Title 6;  38 
+(7)  Title 7; and  39 
+ 
+ Page 6 - 127LR1905(01) -1 
+ (8)  Title 7 -A; 1 
+C.  Exceptions codified in the following Titles are scheduled to be reviewed by the 2 
+review committee no later than 2021:  3 
+(1)  Title 8;  4 
+(2)  Title 9 -A; 5 
+(3)  Title 9 -B; 6 
+(4)  Title 10;  7 
+(5)  Title 11; and  8 
+(6)  Title 12;  9 
+D.  Exceptions codified in the following Titles are sch eduled to be reviewed by the 10 
+review committee no later than 2023:  11 
+(1)  Title 13;  12 
+(2)  Title 13 -B; 13 
+(3)  Title 13 -C; 14 
+(4)  Title 14;  15 
+(5)  Title 15;  16 
+(6)  Title 16;  17 
+(7)  Title 17;  18 
+(8)  Title 17 -A; 19 
+(9)  Title 18 -A; 20 
+(10)  Title 18 -B; 21 
+(11)  Title 19 -A; 22 
+(12)  Title  20-A; and  23 
+(13)  Title 21 -A; 24 
+E.  Exceptions codified in the following Titles are scheduled to be reviewed by the 25 
+review committee no later than 2025:  26 
+(1)  Title 22;  27 
+(2)  Title 22 -A; 28 
+(3)  Title 23;  29 
+(4)  Title 24; and  30 
+(5)  Title 24 -A; 31 
+F.  Exceptions codified  in the following Titles are scheduled to be reviewed by the 32 
+review committee no later than 2027:  33 
+(1)  Title 25;  34 
+ 
+ Page 7 - 127LR1905(01) -1 
+ (2)  Title 26;  1 
+(3)  Title 27;  2 
+(4)  Title 28 -A; 3 
+(5)  Title 29 -A; 4 
+(6)  Title 30;  5 
+(7)  Title 30 -A; 6 
+(8)  Title 31; and  7 
+(9)  Title 32; and  8 
+G.  Excep tions codified in the following Titles are scheduled to be reviewed by the 9 
+review committee no later than 2029:  10 
+(1)  Title 33;  11 
+(2)  Title 34 -A; 12 
+(3)  Title 34 -B; 13 
+(4)  Title 35 -A; 14 
+(5)  Title 36;  15 
+(6)  Title 37 -B; 16 
+(7)  Title 38; and  17 
+(8)  Title 39 -A. 18 
+Sec. D -3.  1 MRSA §433, sub -§3, as enacted by PL 2005, c. 631, §5, is amended 19 
+to read:  20 
+3.  Scheduling changes.   The advisory committee may make adjustments to the 21 
+scheduling guidelines provided in subsection 2 2-A as it determines appropriate and shall 22 
+notify the re view committee of such adjustments.  23 
+SUMMARY  24 
+This bill contains recommendations of the Right To Know Advisory Committee 25 
+included in its ninth annual report.  26 
+Part A adds one additional member to the Right To Know Advisory Committee, to be 27 
+appointed by the Go vernor.  The new position will bring information technology 28 
+expertise to the advisory committee.  29 
+Current law requires the Public Access Ombudsman within the Department of the 30 
+Attorney General to submit an annual report to the Right To Know Advisory Committ ee 31 
+and the Legislature by March 15th of each year.  Part B changes the reporting date to 32 
+January 15th of each year, which is the same date by which the Right To Know Advisory 33 
+Committee is required to submit its annual report.  34 
+ 
+ Page 8 - 127LR1905(01) -1 
+ Part C implements the recommen dations of the Right To Know Advisory Committee 1 
+relating to existing public records exceptions in the Maine Revised Statutes, Title 22 and 2 
+Titles 26 to 39 -A. 3 
+Section 1 repeals the Community Right -to-Know Act, a program within the 4 
+Department of Health and H uman Services intended to provide disclosure of information 5 
+about hazardous substances in the community that has never been implemented.  6 
+Section 2 makes clear that reports of final bureau action are public records, removing 7 
+the language in current law that  gives the Director of the Bureau of Labor Standards the 8 
+discretion to release reports.  9 
+Section 3 clarifies that a report of the State Board of Arbitration and Conciliation in a 10 
+labor dispute must be released 15 days after its receipt by the Governor and E xecutive 11 
+Director of the Maine Labor Relations Board if the conciliation process is not successful.  12 
+Section 4 removes language authorizing the Secretary of State to adopt rules relating 13 
+to maintenance and use of data processing files concerning motor vehic les as the 14 
+confidentiality of personal information is already protected under federal law.  15 
+Section 5 repeals a provision of law relating to the Secretary of State's motor vehicle 16 
+information technology system because the confidentiality of the system is al ready 17 
+addressed in another provision of law.  18 
+Section 6 removes language that is addressed in another section of law.  19 
+Section 7 clarifies that it is the responsibility of the providers of telecommunications 20 
+relay services to keep relay service communication s confidential.  21 
+Section 8 adds a cross -reference to the definition of "trade secret."  22 
+Section 9 removes language making mercury reduction plans for air emission sources 23 
+emitting mercury confidential.  24 
+Section 10 repeals a provision of law making hazardous a ir pollutant emissions 25 
+inventory information confidential, and section 11 corrects a cross -reference to that 26 
+provision.  27 
+Part D repeals the public records exceptions review schedule that was completed in 28 
+2014 and replaces it with a new review schedule.  The  Right To Know Advisory 29 
+Committee will review public records exceptions enacted after 2004 but before 2013 and 30 
+report its recommendations to the joint standing committee of the Legislature having 31 
+jurisdiction over judiciary matters over the course of 2 yea rs, with the final review by the 32 
+joint standing committee completed no later than 2017.  The advisory committee will 33 
+then begin to review all the public records exceptions codified in the statutes over a 12 - 34 
+year period.  35 
+ 

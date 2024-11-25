@@ -1,0 +1,576 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1980
+S.P. 809 In Senate, May 22, 2023
+An Act to Improve Election Laws and Notarial Laws
+Submitted by the Secretary of State pursuant to Joint Rule 204.
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator HICKMAN of Kennebec.
+
+Page 1 - 131LR0452(01)1Be it enacted by the People of the State of Maine as follows:
+2PART A
+3Sec. A-1.  21-A MRSA §122-A, as amended by PL 2019, c. 409, §1 and affected 
+4 by §9, is further amended to read:
+5§122-A.  Alternative registration procedure for participants in Address 
+6Confidentiality Program
+7 Notwithstanding sections 122 and 152 and subchapter 9, a person who is certified by 
+8 the Secretary of State as a program participant in the Address Confidentiality Program 
+9 pursuant to Title 5, section 90‑B may register to vote using the designated address and voter 
+10 code assigned to that person pursuant to rules adopted to implement the program.  To 
+11 register to vote, a voter must present the registrar with that voter's authorization card 
+12 assigned to the voter pursuant to rules adopted by the Secretary of State showing that voter's 
+13 name, voter code, designated address and certification expiration date  submit a completed 
+14 registration application to the elections division of the Secretary of State's office, using the 
+15 assigned voter code instead of the voter's name and the designated program address instead 
+16 of the voter's actual residence street address, and provide the certification expiration date.  
+17 The registrar may contact the Address Confidentiality Program administrator in the 
+18 Secretary of State's office to  shall determine the voter's eligibility to register in the 
+19 municipality listed on the Address Confidentiality Program application and  to shall verify 
+20 the electoral district  districts in which the voter is  voting for purposes of issuing an absentee 
+21 ballot  eligible to vote so that the elections division may register the voter and issue absentee 
+22 ballots for state elections to the voter pursuant to section 753‑C.  All registration records 
+23 for such voters must be designated as confidential and kept sealed in the registrar's office  
+24 elections division offices.  The name of any voter certified as a program participant in the 
+25 Address Confidentiality Program may not be placed on any voter list that is available for 
+26 public inspection or copying.
+27Sec. A-2.  21-A MRSA §152, sub-§6, as enacted by PL 2021, c. 439, §13 and 
+28 affected by §15, is amended to read:
+296.  Design of online voter registration application; rulemaking.  The No later than 
+30 February 1, 2024, the Secretary of State shall design the online voter registration 
+31 application that meets the requirements of subsection 1 and that can be submitted online 
+32 through the Secretary of State's publicly accessible website.  The online registration 
+33 application must be designed to prevent an applicant from registering to vote unless the 
+34 applicant discloses a current, valid Maine driver's license number or nondriver 
+35 identification number or the last 4 digits of the applicant's social security number.
+36 The No later than February 1, 2024, the Secretary of State shall adopt rules governing the 
+37 online voter registration process, which must, at a minimum, include the following:
+38 A.  A process for informing an applicant who discloses a current, valid Maine driver's 
+39 license number or nondriver identification card number that disclosure of that number 
+40 constitutes consent to the use of the applicant's signature on the driver's license or 
+41 nondriver identification card for all purposes for which a signature on a written 
+42 application for voter registration is used under this Title;
+Page 2 - 131LR0452(01)1 B.  A process for an applicant who discloses the last 4 digits of the applicant's social 
+2 security number to include with the online voter registration application an electronic 
+3 image of the applicant's signature and for the applicant to consent to the use of that 
+4 electronic image of the applicant's signature for all purposes for which a signature on 
+5 a written application for voter registration is used under this Title;
+6 C.  A process for transmitting any driver's license number or nondriver identification 
+7 card number from an online voter registration application along with the applicant's 
+8 name and date of birth to the central voter registration system and for determining 
+9 whether the information entered in the central voter registration system matches the 
+10 information in the driver's license or nondriver identification card records maintained 
+11 by the Department of the Secretary of State, Bureau of Motor Vehicles and, if a match 
+12 is found, for transmitting an electronic image of the applicant's signature on that driver's 
+13 license or nondriver identification card from the bureau to the central voter registration 
+14 system;
+15 D.  A process for matching the last 4 digits of a social security number provided in an 
+16 online voter registration application and the applicant's name and date of birth with the 
+17 information available from the United States Social Security Administration;
+18 E.  A process for transmitting the contents of each online voter registration application 
+19 and the electronic image of the signature of that applicant to the appropriate registrar 
+20 of voters;
+21 F.  Minimum procedures and security measures for ensuring the accuracy and security 
+22 of online voter registration applications;
+23 G.  A process and form for a registered voter whose name is changed by marriage or 
+24 other process of law or who has moved within a municipality to notify the appropriate 
+25 registrar of voters pursuant to section 129 of the registered voter's new name or address 
+26 through the online voter registration application; and
+27 H.  A process and form for a registered voter to enroll in a party pursuant to section 
+28 142, to change the voter's party enrollment pursuant to section 144 or to withdraw from 
+29 a party pursuant to section 145 through the online voter registration application.
+30 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+31 chapter 375, subchapter 2‑A.
+32Sec. A-3.  21-A MRSA §158, as amended by PL 2009, c. 253, §14, is repealed.
+33Sec. A-4.  21-A MRSA §311, sub-§1, as amended by PL 2017, c. 248, §4, is further 
+34 amended to read:
+351.  Call and location of caucus.  The caucus may be called by the chair or a majority 
+36 of the members of the municipal committee of a political party.  If the municipal committee 
+37 fails to call a caucus, the county committee may call the caucus.  At the request of that the 
+38 municipal committee , municipal officers shall provide available space in a public building 
+39 for a caucus.  The municipality may charge a rental fee or janitorial service fee for the 
+40 available space.  A municipal committee may hold its caucus remotely using a conference 
+41 system that may include telephonic or video technology allowing simultaneous reception 
+42 of information and may include other means.  A municipality municipal committee may 
+43 hold its caucus outside the municipality if several municipalities elect to meet on a 
+Page 3 - 131LR0452(01)44 consolidated basis or if the committee calling the caucus determines that a facility outside 
+45 the municipality is more suitable.
+3Sec. A-5.  21-A MRSA §336, first ¶, as corrected by RR 2019, c. 2, Pt. B, §43, is 
+4 amended to read:
+5 The written consent of each candidate must be filed either with that candidate's primary 
+6 petition or at any earlier time during which signatures may be collected under section 335 
+7 or, if applicable, subchapter 8.
+8Sec. A-6.  21-A MRSA §355, first ¶, as corrected by RR 2019, c. 2, Pt. B, §47, is 
+9 amended to read:
+10 The written consent of each candidate must be filed either with that candidate's 
+11 nomination petition or at any earlier time during which signatures may be collected under 
+12 section 354 or, if applicable, subchapter 8.
+13Sec. A-7.  21-A MRSA §363, sub-§2, as corrected by RR 2019, c. 2, Pt. B, §49, is 
+14 amended to read:
+152.  Duties of committee.  The committee shall choose a qualified person to fill the 
+16 vacancy.  The secretary of the committee shall immediately deliver a certificate to the 
+17 Secretary of State containing the name of the person chosen, that person's residence and 
+18 political party, the title of the office sought and the method by which that person was 
+19 chosen.  The certificate must be signed by the chair of the committee and attested to by the 
+20 secretary and may be submitted by facsimile or scanned image.
+21 A.  In an electoral division consisting of more than one municipality, the municipal 
+22 committee of each municipality shall meet jointly, elect a secretary and a chair for the 
+23 meeting and then fill the vacancy.
+24Sec. A-8.  21-A MRSA §367, as amended by PL 2019, c. 636, §5, is further amended 
+25 to read:
+26§367.  Candidate withdrawal
+27 A candidate who wishes to withdraw from an elective race shall notify the Secretary 
+28 of State in writing of the candidate's intent to withdraw.  This notice must be signed by the 
+29 candidate and submitted to the Secretary of State by the deadline.   The notice may be 
+30 submitted by facsimile or scanned image.
+31Sec. A-9.  21-A MRSA §681, sub-§4, as amended by PL 2015, c. 422, §1, is further 
+32 amended to read:
+334.  Outside the guardrail enclosure.  If sufficient space exists, party workers and 
+34 others, in addition to the pollwatchers allowed pursuant to section 627, may remain in the 
+35 voting place outside the guardrail enclosure as long as they do not attempt to influence 
+36 voters or interfere with their free passage.  If a person attempts to influence voters or 
+37 interfere with their free passage, the warden shall have the person removed from the voting 
+38 place.  A person video recording or engaging in still photography in the voting place must 
+39 remain outside the guardrail and may not conduct video recording or still photography 
+40 closer than 15 feet from a voter being recorded or photographed, including when a voter is 
+41 where a person is collecting voters' signatures, except that a person may take a still 
+42 photograph that depicts only the person taking the photograph.  A person who video records 1
+2
+Page 4 - 131LR0452(01)43 or photographs a voter in violation of this subsection may be removed from the voting place 
+44 by the municipal clerk at the recommendation of the warden as provided in section 662, 
+45 subsection 2.
+4Sec. A-10.  21-A MRSA §691, sub-§2, as amended by PL 2009, c. 253, §29, is 
+5 further amended to read:
+62.  Write-in vote.  If the voter wishes to vote for a write-in candidate, the voter must 
+7 write the name of the candidate in the blank space provided at the end of the list of 
+8 candidates for nomination to the office in question  next to the write-in indicator.  The voter 
+9 must then mark the ballot write-in indicator as instructed in the directions on the ballot to 
+10 indicate a vote for the write-in candidate.  A sticker may not be used to vote for a write-in 
+11 candidate.
+12Sec. A-11.  21-A MRSA §722-A, as amended by PL 2015, c. 447, §26, is further 
+13 amended to read:
+14§722-A.  Determination of declared write-in candidate
+15 To be considered a declared write-in candidate, a person must file a declaration of 
+16 write-in candidacy with the Secretary of State, on a form approved by the Secretary of 
+17 State, on or before 5 p.m. on the 60th 70th day prior to the election.  The candidate must 
+18 meet all the other qualifications for that office.
+19Sec. A-12.  21-A MRSA §723-A, sub-§1, ¶A, as enacted by IB 2015, c. 3, §5, is 
+20 repealed.
+21Sec. A-13.  21-A MRSA §723-A, sub-§1, ¶G, as amended by PL 2019, c. 320, 
+22 §9, is repealed.
+23Sec. A-14.  21-A MRSA §723-A, sub-§4, ¶B, as amended by PL 2019, c. 320, 
+24 §14, is repealed.
+25Sec. A-15.  21-A MRSA §723-A, sub-§5-B, as amended by PL 2021, c. 273, §11, 
+26 is further amended to read:
+275-B.  Presidential primary elections; selection of delegates.  Notwithstanding any 
+28 provision of this section to the contrary, for presidential primary elections, batch 
+29 elimination may not be used for any candidates with more than 100 votes, tabulation must 
+30 continue until only 2 continuing candidates remain, separate tabulations must be conducted 
+31 statewide and for each congressional district and selection and allocation of delegates to a 
+32 party's national presidential nominating convention must be in accordance with any 
+33 reasonable procedures established at the state party convention.
+34Sec. A-16.  21-A MRSA §723-A, sub-§5-B, as amended by PL 2021, c. 750, §11 
+35 and affected by §14, is further amended to read:
+365-B.  Presidential primary elections; selection of delegates.  Notwithstanding any 
+37 provision of this section to the contrary, for presidential primary elections, batch 
+38 elimination may not be used for any candidates with more than 100 votes, tabulation must 
+39 continue until only 2 continuing candidates remain, separate tabulations must be conducted 
+40 statewide and for each congressional district and selection and allocation of delegates to a 
+41 party's national presidential nominating convention must be in accordance with any 
+42 reasonable procedures established at the state party convention, except that unenrolled 1
+2
+3
+Page 5 - 131LR0452(01)43 voters who participate in the party's primary election must be considered members of the 
+44 party for purposes of allocating delegates.
+3Sec. A-17.  21-A MRSA §723-A, sub-§5-C is enacted to read:
+45-C.  Cast vote record posted.  The Secretary of State shall post the complete cast 
+5 vote record on its publicly accessible website as soon as the certified results are reported.
+6Sec. A-18.  21-A MRSA §737-A, first ¶, as amended by PL 2021, c. 536, §3, is 
+7 repealed and the following enacted in its place:
+8 Once a recount is requested for any federal, state or county office, the Secretary of 
+9 State shall request that the State Police, sworn law enforcement officers employed by the 
+10 Department of the Secretary of State or other sworn law enforcement officers take physical 
+11 control of the ballots and other related materials needed for the recount as soon as possible 
+12 and deliver them to the recount facility.  If no sworn law enforcement officers are available 
+13 to conduct the retrieval, the Secretary of State may use a contracted courier to provide these 
+14 services.  When the recount involves an office that encompasses more than one county, the 
+15 Secretary of State may organize retrieval of ballots from certain jurisdictions so that the 
+16 recount may be conducted in stages until the requesting candidate or lead applicant for a 
+17 referendum recount concedes or until all the ballots are recounted.
+18Sec. A-19.  21-A MRSA §737-A, 2nd ¶, as amended by PL 2019, c. 371, §29, is 
+19 further amended to read:
+20 The Secretary of State shall store and maintain exclusive control over the ballots and 
+21 other materials pending and during the recount and until the sworn law enforcement 
+22 officers or contracted courier , or the State Police if requested, retrieves the materials for 
+23 return to the municipalities.
+24Sec. A-20.  21-A MRSA §737-A, sub-§1, as amended by PL 2019, c. 371, §30, is 
+25 further amended to read:
+261.  Deposit for legislative or single county office recount.  This subsection applies to 
+27 a recount for an election for the office of State Senator or State Representative or for a 
+28 county office that does not encompass more than one county.  All deposits required by this 
+29 section must be made with the Secretary of State when a recount is requested by a losing 
+30 candidate or an undeclared write-in candidate.  Once the sworn law enforcement officers 
+31 or contracted courier , or the State Police if requested, has taken custody of the ballots and 
+32 other election materials from the municipalities, the deposit made by the candidate 
+33 requesting the recount is forfeited to the State if the resulting count fails to change the 
+34 outcome of the election.  If the recount reverses the election, the deposit must be returned 
+35 to the candidate requesting the recount.  The amount of the deposit is calculated as follows.
+36 A.  If the percentage difference shown by the official tabulation between the leading 
+37 candidate and the requesting candidate is 1.5% or less of the total votes cast for that 
+38 office, a deposit is not required.
+39 B.  If the percentage difference shown by the official tabulation between the leading 
+40 candidate and the requesting candidate is more than 1.5% and less than or equal to 4% 
+41 of the total votes cast for that office, the deposit is $500.1
+2
+Page 6 - 131LR0452(01)1 C.  If the percentage difference shown by the official tabulation between the leading 
+2 candidate and the requesting candidate is more than 4% and less than or equal to 6% 
+3 of the total votes cast for that office, the deposit is $1,000.
+4 D.  If the percentage difference shown by the official tabulation between the leading 
+5 candidate and the requesting candidate is more than 6% and less than or equal to 8% 
+6 of the total votes cast for that office, the deposit is $2,500.
+7 E.  If the percentage difference shown by the official tabulation between the leading 
+8 candidate and the requesting candidate is more than 8% and less than or equal to 10% 
+9 of the total votes cast for that office, the deposit is $5,000.
+10 F.  If the percentage difference shown by the official tabulation between the leading 
+11 candidate and the requesting candidate is more than 10% of the total votes cast for that 
+12 office, the deposit is $10,000.
+13Sec. A-21.  21-A MRSA §737-A, sub-§1-A, ¶B, as amended by PL 2019, c. 371, 
+14 §31, is further amended to read:
+15 B.  If the difference shown by the official tabulation between the leading candidate and 
+16 the requesting candidate is more than 1% of the total votes cast for that office or more 
+17 than 1,000 votes, whichever is less, the deposit is $5,000 or 10% of the reasonable 
+18 estimate of the cost to the State of performing the first stage of the recount, whichever 
+19 is greater.  After completion of the recount, if the recount has not changed the result of 
+20 the election, the Secretary of State shall calculate the actual cost of the procedure, 
+21 which must be paid by the requesting candidate.  If the deposit is greater than the actual 
+22 cost, the overpayment must be refunded to the candidate.  If the actual cost is greater 
+23 than the deposit, the candidate shall pay the remainder of the actual cost to the State.  
+24 Once the sworn law enforcement officers or contracted courier , or the State Police if 
+25 requested, has taken custody of the ballots and other election materials for the first 
+26 stage of the recount, the deposit made by the candidate requesting the recount is 
+27 forfeited to the State even if the candidate withdraws from the recount before the 
+28 recount begins.  If a recount reverses the election, the deposit must be returned to the 
+29 candidate requesting the recount.
+30Sec. A-22.  21-A MRSA §753-A, sub-§8, as enacted by PL 2021, c. 398, Pt. 
+31 UUUU, §3 and affected by §7, is amended to read:
+328.  Application for ongoing absentee voter status.  A No later than February 1, 2024, 
+33 the Secretary of State shall design the ongoing absentee ballot application that allows a 
+34 voter who will be at least 65 years of age by the next election or who self-identifies as 
+35 having a disability may  to apply for status as an ongoing absentee voter.  Each qualified 
+36 applicant must automatically receive an absentee ballot for each ensuing statewide election, 
+37 municipal election and any other election for which the voter is entitled to vote and need 
+38 not submit a separate request for each election.
+39 A.  An application for status as an ongoing absentee voter must be made by a voter 
+40 using procedures designed by the Secretary of State.  These procedures must include a 
+41 process for notifying the voter that if the voter moves out of the municipality, that 
+42 voter's status as an ongoing absentee voter in that municipality terminates.  A voter 
+43 may obtain assistance in completing an application for ongoing absentee voter status 
+44 pursuant to subsection 5.
+Page 7 - 131LR0452(01)1 B.  The clerk or Secretary of State shall terminate a voter's ongoing absentee voter 
+2 status only upon:
+3 (1)  The written request of the voter;
+4 (2)  The death or disqualification of the voter;
+5 (3)  The cancellation of the voter's registration record in the central voter 
+6 registration system;
+7 (4)  The return of an absentee ballot as undeliverable;
+8 (5)  The failure of the voter to vote by absentee ballot for a general election; or
+9 (6)  The designation of the voter's status as inactive in the central voter registration 
+10 system.
+11 This subsection does not apply to uniformed service voters or overseas voters who are 
+12 covered by the federal Uniformed and Overseas Citizens Absentee Voting Act, 52 United 
+13 States Code, Section 20302 (2019).
+14Sec. A-23.  21-A MRSA §753-B, sub-§6, ¶A, as amended by PL 2021, c. 273, 
+15 §20, is further amended to read:
+16 A.  The list of absentee voters must include each voter's name, residence address, 
+17 voting district and party affiliation; the date and manner by which the voter's ballot was 
+18 requested, issued and received; and a notation of whether the application and the ballot  
+19 were  was accepted or rejected.  If the clerk determines that there is a defect on the 
+20 return envelope of an absentee ballot under section 756, subsection 2 and that defect is 
+21 cured pursuant to section 756‑A, the clerk shall note whether the ballot was accepted 
+22 or accepted but challenged and shall list the date that the defect was cured as the date 
+23 that the ballot was received.  The clerk must also indicate on the list when the absentee 
+24 voter is a uniformed service voter, overseas voter or township voter.  By the time that 
+25 all absentee ballots have been processed on election day, the clerk must update the 
+26 central voter registration system or annotate the printed list of absentee voters to reflect 
+27 all ballots that were received by the close of the polls on election day, including a 
+28 notation of whether the ballots were accepted, accepted but challenged or rejected and 
+29 the reasons for such rejections.  This list, reflecting all absentee ballots received by the 
+30 close of the polls, must be made available for public inspection.  Any absentee voter 
+31 certified as a participant in the Address Confidentiality Program pursuant to Title 5, 
+32 section 90‑B must be listed by the voter code assigned to that individual under the 
+33 program instead of by the voter's name and reflect the Address Confidentiality Program 
+34 address assigned to the voter.  The list of absentee voters must be sorted so that the 
+35 program participants appear at the end of the list and must be printed on a separate page 
+36 of the list.  The portion of the list of absentee voters relating to Address Confidentiality 
+37 Program participants must be kept under seal and excluded from public inspection.
+38Sec. A-24.  21-A MRSA §753-B, sub-§6, ¶A, as amended by PL 2021, c. 750, 
+39 §12 and affected by §14, is further amended to read:
+40 A.  The list of absentee voters must include each voter's name, residence address, 
+41 voting district and party affiliation; the date and manner by which the voter's ballot was 
+42 requested, issued and received; if the voter is unenrolled, which party's ballot the voter 
+43 requested for the primary election, if applicable; and a notation of whether the 
+Page 8 - 131LR0452(01)44 application and the ballot  were  was accepted or rejected.  If the clerk determines that 
+45 there is a defect on the return envelope of an absentee ballot under section 756, 
+46 subsection 2 and that defect is cured pursuant to section 756‑A, the clerk shall note 
+47 whether the ballot was accepted or accepted but challenged and shall list the date that 
+48 the defect was cured as the date that the ballot was received.  The clerk must also 
+49 indicate on the list when the absentee voter is a uniformed service voter, overseas voter 
+50 or township voter.  By the time that all absentee ballots have been processed on election 
+51 day, the clerk must update the central voter registration system or annotate the printed 
+52 list of absentee voters to reflect all ballots that were received by the close of the polls 
+53 on election day, including a notation of whether the ballots were accepted, accepted 
+54 but challenged or rejected and the reasons for such rejections.  This list, reflecting all 
+55 absentee ballots received by the close of the polls, must be made available for public 
+56 inspection.  Any absentee voter certified as a participant in the Address Confidentiality 
+57 Program pursuant to Title 5, section 90‑B must be listed by the voter code assigned to 
+58 that individual under the program instead of by the voter's name and reflect the Address 
+59 Confidentiality Program address assigned to the voter.  The list of absentee voters must 
+60 be sorted so that the program participants appear at the end of the list and must be 
+61 printed on a separate page of the list.  The portion of the list of absentee voters relating 
+62 to Address Confidentiality Program participants must be kept under seal and excluded 
+63 from public inspection.
+21Sec. A-25.  21-A MRSA §753-B, sub-§7, as enacted by PL 1999, c. 645, §6, is 
+22 amended to read:
+237.  Registration verified.  If the applicant is registered and enrolled when necessary, 
+24 the ballot must be sent to the applicant.  If the applicant has registered and enrolled when 
+25 necessary under section 155 and will attain 18 years of age on or before the date of the 
+26 election, the registrar or clerk shall so certify on the application.  If  accept the application 
+27 in the central voter registration system and issue a ballot to the applicant; if not, the registrar 
+28 or clerk shall write "not registered" or "not enrolled" on the face of  reject the application  
+29 and sign the registrar's or clerk's name  in the central voter registration system.  Whenever 
+30 an application for an absentee ballot is denied  rejected, the municipal clerk shall 
+31 immediately notify the applicant in writing or by e-mail of the reason for the  denial  
+32 rejection.
+33Sec. A-26.  21-A MRSA §753-C, as enacted by PL 2005, c. 364, §8, is amended to 
+34 read:
+35§753-C.  Absentee ballots for program participants in Address Confidentiality 
+36Program
+37 Any registered voter who is certified by the Secretary of State as a program participant 
+38 in the Address Confidentiality Program pursuant to Title 5, section 90‑B is entitled to 
+39 receive an absentee ballot for every election during the period of the voter's participation 
+40 in the program.  The Secretary of State shall mail the absentee ballot for the statewide 
+41 elections and the clerk shall mail the absentee ballot for the local elections to the voter at 
+42 the voter's designated address as soon as possible after the regular ballots are available in 
+43 the municipality.  The voter shall mark the absentee ballot in accordance with the 
+44 procedures set forth in section 754‑A and shall return the statewide ballot to the Secretary 
+45 of State and the local ballot to the registrar in the manner provided in section 754‑A, except 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Page 9 - 131LR0452(01)46 that the voter may sign the voter's voter code under the Address Confidentiality Program 
+47 on the absentee ballot envelope  envelopes instead of the voter's name.
+3Sec. A-27.  21-A MRSA §760-B, sub-§1, as amended by PL 2015, c. 406, §1, is 
+4 further amended to read:
+51.  Time for processing.  In a municipality that has opted to process absentee ballots 
+6 on one or more of the days prior to election day authorized by this section, the municipal 
+7 clerk or the clerk's designees may process absentee ballots at the times designated by the 
+8 clerk, between the hours of 9:00 7:00 a.m. and 9:00 p.m., except that if an inspection is 
+9 requested pursuant to subsection 3, processing may not begin until after the inspection 
+10 period has concluded.
+11Sec. A-28.  21-A MRSA §760-B, sub-§2, as amended by PL 2021, c. 11, §2, is 
+12 further amended to read:
+132.  Notice of early processing.  The clerk must give notice of the municipality's intent 
+14 to process absentee ballots prior to election day using a notice of early processing form 
+15 provided by the Secretary of State, stating the days and times that the clerk intends to begin 
+16 processing absentee ballots and the inspection period provided in subsection 3.  At least 30 
+17 days before election day, the clerk shall provide a copy of the notice of early processing to 
+18 the Secretary of State and the chairs of each political party of the municipality indicating 
+19 that early processing of absentee ballots will occur.  The notice to the political parties must 
+20 be considered sufficient as long as it is mailed to the last address of each municipal chair 
+21 that is known to the clerk.  The notice to the Secretary of State may be delivered by mail 
+22 or facsimile or as a scanned attachment to an e-mail address established by the Secretary 
+23 of State.  If the notice is not received by the Secretary of State by 5:00 p.m. on the 30th day 
+24 before election day, the municipality may not process absentee ballots prior to election day. 
+25 The clerk shall post a copy of the notice of early processing with the notice of election as 
+26 provided in section 621‑A  Secretary of State shall post the list of municipalities that will 
+27 process absentee ballots prior to election day on its publicly accessible website at least one 
+28 week prior to the start of early processing.
+29Sec. A-29.  21-A MRSA §760-B, sub-§3, as amended by PL 2019, c. 371, §38, is 
+30 further amended to read:
+313.  Inspection of absentee envelopes before processing.  A member of the public may 
+32 make a written request of the clerk to inspect absentee ballot applications and envelopes 
+33 before they are processed if the request is made by 9:00 a.m. 4:00 p.m. on the day prior to 
+34 each day that the clerk will process absentee ballots as specified on the notice of early 
+35 processing under subsection 2.  The clerk shall make the absentee ballot applications and 
+36 envelopes received by that time available for public inspection for one hour before the 
+37 starting time specified in the notice of early processing for processing the absentee ballots.  
+38 The clerk may immediately proceed to process the ballots after the one-hour inspection 
+39 time has elapsed.
+40Sec. A-30.  21-A MRSA §766 is enacted to read:
+41§766.  Rules
+42 The Secretary of State may adopt rules necessary for the implementation of this article. 
+43 Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+44 chapter 375, subchapter 2-A.1
+2
+Page 10 - 131LR0452(01)1Sec. A-31.  21-A MRSA §777-A, as amended by PL 2019, c. 636, §17, is further 
+2 amended to read:
+3§777-A.  Registration and enrollment
+4 Notwithstanding the registration deadline in section 121‑A, uniformed service voters 
+5 or overseas voters may register or enroll at any time prior to 5 p.m. noon on the day before 
+6 election day by completing a federal or state voter registration application form and filing 
+7 it with the registrar or the Secretary of State in person, by mail or by electronic means 
+8 authorized by the Secretary of State.
+9Sec. A-32.  21-A MRSA §781-A, as amended by PL 2019, c. 636, §18, is further 
+10 amended to read:
+11§781-A.  Absentee ballot application; procedure on receipt
+12 Notwithstanding the absentee ballot application deadline in section 753‑B, subsection 
+13 2, paragraph D, upon receipt of an application or written request for an absentee ballot prior 
+14 to 5 p.m. noon on the day before election day from a uniformed service voter or overseas 
+15 voter that is accepted pursuant to section 753‑A or section 783, the clerk or the Secretary 
+16 of State shall immediately issue an absentee ballot and return envelope by the authorized 
+17 means designated by the voter in the application.  If the ballot is to be transmitted to the 
+18 voter by mail, the clerk or the Secretary of State shall type or write in ink the name and the 
+19 residence address of the voter in the designated section of the return envelope.  The 
+20 Secretary of State shall provide a return envelope that moves free of postage under federal 
+21 law.
+22Sec. A-33.  21-A MRSA §903-A, first ¶, as amended by PL 2015, c. 99, §1, is 
+23 further amended to read:
+24 Petitions issued under this chapter may be circulated by any Maine resident who is a 
+25 registered voter acting as a circulator of a petition.  A circulator of a petition solicits 
+26 signatures for the petition by presenting the petition to the voter, asking the voter to sign 
+27 the petition and personally witnessing the voter affixing the voter's signature to the petition.  
+28 The circulator of the petition must comply with the provisions of section 902.
+29Sec. A-34.  PL 2021, c. 398, Pt. UUUU, §7 is amended to read:
+30Sec. UUUU-7.  Effective date.  That section of this Part that enacts the Maine 
+31 Revised Statutes, Title 21-A, section 161, subsection 2-B takes effect January 1, 2023.  
+32 Those sections of this Part that enact Title 21-A, section 753-A, subsections 8 and 9 and 
+33 those sections of this Part that amend Title 21-A, section 752, subsection 3 and section 
+34 753-B, subsection 1 take effect November October 1, 2023.
+35Sec. A-35.  PL 2021, c. 439, §15 is amended to read:
+36Sec. 15.  Effective date.  This Act takes effect November 1, 2023, except that that 
+37 section of this Act that enacts the Maine Revised Statutes, Title 21-A, section 152, 
+38 subsection 6 takes effect October 1, 2023.
+39Sec. A-36.  Effective date. That section of this Part that amends the Maine Revised 
+40 Statutes, Title 21-A, section 152, subsection 6 and that section of this Part that amends Title 
+41 21-A, section 753-A, subsection 8 take effect October 1, 2023, and that section of this Part 
+42 that amends Title 21-A, section 723-A, subsection 5 as amended by Public Law 2021, 
+Page 11 - 131LR0452(01)43 chapter 750, section 11 and that section of this Part that amends Title 21-A, section 753-B, 
+44 subsection 6, paragraph A as amended by Public Law 2021, chapter 750, section 12 take 
+45 effect January 1, 2024.
+4PART B
+5Sec. B-1.  4 MRSA §1916, sub-§2, as enacted by PL 2021, c. 651, Pt. A, §4 and 
+6 affected by §8, is amended to read:
+72.  Stamp required  requirements.  If a notarial act regarding a tangible record is 
+8 performed by a notary public  notarial officer, an official stamp must may be affixed to or 
+9 embossed on the certificate.  If a notarial act is performed regarding a tangible record by a 
+10 notarial officer other than a notary public and the certificate contains the information 
+11 specified in subsection 1, paragraphs B, C and D, an official stamp may be affixed to or 
+12 embossed on the certificate.  If a notarial act regarding an electronic record is performed 
+13 by a notarial officer  notary public and the certificate contains the information specified in 
+14 subsection 1, paragraphs B, C and D, an official stamp may  must be attached to or logically 
+15 associated with the certificate.
+16PART C
+17Sec. C-1.  30-A MRSA §7005, as amended by PL 1989, c. 6; c. 9, §2; and c. 104, 
+18 Pt. C, §§8 and 10, is repealed.
+19SUMMARY
+20 This bill makes the following changes to the laws governing elections and notarial acts.
+21 Part A does the following:
+22 1.  It provides that the elections division of the Secretary of State's office is responsible 
+23 for processing voter registration applications for voters enrolled in the Address 
+24 Confidentiality Program and for creating the voter records in the central voter registration 
+25 system. It also provides that the elections division is responsible for mailing the absentee 
+26 ballots for statewide elections to the voters in the Address Confidentiality Program, while 
+27 the municipal clerk must mail the absentee ballots for local elections to these voters.
+28 2.  It changes the effective date and implementation date of the laws governing online 
+29 voter registration.
+30 3.  It removes the requirement for municipal clerks to attend the biennial party caucuses 
+31 in the even-numbered years.
+32 4.  It allows political parties to hold virtual biennial municipal caucuses rather than in-
+33 person caucuses.
+34 5.  It provides that primary candidates may file their candidate consent either with their 
+35 primary petitions or prior to filing their primary petitions with the Secretary of State.  
+36 6.  It provides that nonparty candidates may file their candidate consent either with 
+37 their nomination petitions or prior to filing their nomination petitions with the Secretary of 
+38 State.  
+39 7.  It allows for the candidate consent and certificate of nomination for a replacement 
+40 candidate to be submitted to the Secretary of State via scanned image or facsimile.1
+2
+3
+20
+Page 12 - 131LR0452(01)1 8.  It allows for candidates to submit a withdrawal notice to the Secretary of State via 
+2 scanned image or facsimile.
+3 9.  It prohibits a person from taking a photograph of another person in the voting place 
+4 if the person taking the photograph is closer than 15 feet from the person being 
+5 photographed.
+6 10.  It clarifies how a voter must mark a ballot to cast a write-in vote.
+7 11.  It changes the deadline for a write-in candidate to file that candidate's written 
+8 declaration of write-in candidacy.
+9 12.  It removes batch elimination from the ranked-choice voting process and requires 
+10 the Secretary of State to post the complete cast vote record on its publicly accessible 
+11 website as soon as the certified results are reported.
+12 13.  It requires the Secretary of State to use sworn law enforcement officers for the 
+13 secure retrieval of ballots prior to a recount.  If sworn law enforcement officers are not 
+14 available to conduct the retrieval, the Secretary of State may use a contracted courier to 
+15 provide these services.  It clarifies that ballot retrieval may be conducted in stages for a 
+16 recount that involves multiple counties.
+17 14.  It changes the effective date and implementation date of the laws governing 
+18 ongoing absentee ballots.
+19 15.  It removes the requirement that the list of absentee voters created for each election 
+20 must contain a notation of whether the application was accepted or rejected.
+21 16.  It changes the reference from denial of an absentee ballot application to rejection 
+22 of an application and provides that the voter may be notified of the rejection in writing or 
+23 by e-mail.
+24 17.  It provides that a municipal clerk may begin processing absentee ballots starting 
+25 at 7 a.m. on any day that the clerk processes ballots prior to election day.
+26 18.  It requires the Secretary of State to post the list of municipalities that have opted 
+27 to process absentee ballots prior to election day on the Secretary of State's publicly 
+28 accessible website at least one week prior to the date on which early processing of absentee 
+29 ballots may begin.
+30 19.  It changes the deadline by which a member of the public must submit that member's 
+31 request to a municipal clerk to inspect absentee ballots and envelopes before they are 
+32 processed.
+33 20.  It allows the Secretary of State to adopt rules related to the conduct of regular 
+34 absentee voting. 
+35 21.  It changes the deadline by which uniformed service voters or overseas voters may 
+36 register to vote.
+37 22.  It changes the deadline by which uniformed service voters or overseas voters may 
+38 request an absentee ballot.
+39 23.  It removes the requirement that a circulator for a citizen's initiative or people's veto 
+40 petition be a Maine resident and registered Maine voter.
+Page 13 - 131LR0452(01)1 Part B provides that if a notarial act regarding a tangible record is performed by a 
+2 notarial officer, an official stamp may be affixed to or embossed on the certificate and that 
+3 if a notarial act regarding an electronic record is performed by a notary public and the 
+4 certificate contains certain information, an official stamp must be attached to or logically 
+5 associated with the certificate.
+6 Part C removes the provision of law requiring plantations to submit the names of the 
+7 elected assessors and clerks to the Secretary of State.

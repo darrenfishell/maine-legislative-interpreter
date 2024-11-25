@@ -1,0 +1,373 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1504
+S.P. 529 In Senate, April 25, 2017
+An Act  Regarding Solar Power for Farms  and Businesses
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator SAVIELLO of Franklin.
+Cosponsored by Representative GROHMAN  of Biddeford and
+Senators: DILL of  Penobscot, WOODSOME of York, Representatives: BLACK of Wilton, 
+FOLEY of  Wells, HARVELL of Farmington, HIGGINS  of Dover-Foxcroft, POULIOT of 
+Augusta, SANBORN  of Portland.
+
+ 
+ Page 1 - 128LR1367(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  35-A MRSA §3209 -A, as enacted by PL 2011, c. 262, §1, is repealed and 2 
+the following enacted in its place:  3 
+§3209 -A.  Net energy billing  4 
+1.  Shared ownership or community net energy billi ng projects.  The commission 5 
+may not limit the number of customers that may participate in any shared ownership or 6 
+community net energy billing project.  7 
+2.  Rules.  The commission may adopt or amend rules governing net energy billing.  8 
+Rules adopted or ame nded pursuant to this subsection are major substantive rules as 9 
+defined in Title 5, chapter 375, subchapter 2 -A. 10 
+For the purposes of this section, "net energy billing" means a billing and metering 11 
+practice under which a customer is billed on the basis of n et energy over the billing 12 
+period taking into account accumulated bill credits for unused kilowatt -hours from the 13 
+previous billing period.  14 
+Sec. 2.  35-A MRSA §3471 -A is enacted to read:  15 
+§3471 -A.  Definitions  16 
+As used in this chapter, unless the context othe rwise indicates, the following terms 17 
+have the following meanings.  18 
+1.  Affordable multifamily housing.  "Affordable multifamily housing" means any 19 
+building with at least 5 residential units that meet the standards for housing that is 20 
+affordable to persons o f low income as determined by the Maine State Housing Authority 21 
+under Title 30 -A, chapter 201.  22 
+2.  Agricultural or forest products business.  "Agricultural or forest products 23 
+business" means a person or business located in this State and engaged in the com mercial 24 
+growing or harvesting of plants; raising of animals; growing or obtaining plant or animal 25 
+by-products; aquaculture, as defined in Title 12, section 6001, subsection 1; or 26 
+processing, storing, packaging or marketing of a raw product derived from pla nts, 27 
+animals, plant or animal by -products or aquaculture, with the intent that the product be 28 
+sold or otherwise disposed of to generate income.  "Agricultural or forest products 29 
+business" includes a business or activity that attracts visitors to a farm for  the purpose of 30 
+supplementing income from the primary crop or livestock operation.  31 
+3.  Distributed generation resource.  "Distributed generation resource" means an 32 
+electric generating facility that begins operation after January 1, 2018 and is located in 33 
+the service territory of a transmission and distribution utility and that uses fuel cells; tidal 34 
+power; solar arrays and installations; geothermal installations; hydroelectric generators 35 
+that meet all state and federal fish passage requirements applicable t o the generator; 36 
+biomass generators that are fueled by wood, wood waste or landfill gas; anaerobic 37 
+ 
+ Page 2 - 128LR1367(01) -1 
+ digestion of by -products of waste from animals or agricultural crops, food or vegetative 1 
+material, algae or organic refuse; or that relies on wind power inst allations.  2 
+4.  Eligible small business.  "Eligible small business" means a business that meets 3 
+the requirements of section 3477, subsection 1.  4 
+5.  Kilowatt.  "Kilowatt" means 1,000 watts, measured in alternating current.  5 
+6.  Large -scale commercial solar di stributed generation resource.  "Large -scale 6 
+commercial solar distributed generation resource" or "solar project" means a solar 7 
+distributed generation resource with a nameplate capacity of up to 2 megawatts, or other 8 
+nameplate capacity limit determined by the commission by rule under section 3476, 9 
+subsection 9, that is selected in a procurement in accordance with section 3476 and that 10 
+relies on solar photovoltaic technology for which compensating bill credits pursuant to 11 
+section 3476, subsection 7 are provi ded to a nonresidential customer, including but not 12 
+limited to commercial, industrial or municipal account holders.  13 
+7.  Megawatt.  "Megawatt" means 1,000,000 watts, measured in alternating current.  14 
+8.  Output.  "Output" means energy, capacity, renewable en ergy certificates and all 15 
+other environmental attributes and market products that are available or may become 16 
+available from a distributed generation resource.  17 
+9.  Small business credit rate.  "Small business credit rate" means the per kilowatt - 18 
+hour rate u sed to calculate the monetary value to be credited to the customer bill pursuant 19 
+to section 3477.  20 
+Sec. 3.  35-A MRSA §§3475 to 3478 are enacted to read:  21 
+§3475.  Standard buyer  22 
+The standard buyer designated pursuant to this section must aggregate the output  of 23 
+the portfolio of distributed generation resources procured pursuant to this chapter and sell 24 
+or use the output of these resources in a manner that maximizes the value of the portfolio 25 
+of resources to all ratepayers.  26 
+1.  Designation of standard buyer.  Each investor -owned transmission and 27 
+distribution utility serves as the standard buyer in its service territory, except that the 28 
+commission may designate another entity to serve as standard buyer if the commission 29 
+determines that such a designation is in t he best interest of ratepayers.  The standard 30 
+buyer is subject to the jurisdiction of the commission.  31 
+2.  Obligations of the standard buyer.  The standard buyer designated pursuant to 32 
+subsection 1 shall:  33 
+A.  Serve as counterparty to and enforce long -term c ontracts with customers pursuant 34 
+to section 3476;  35 
+B.  Reimburse, when the standard buyer is not an investor -owned transmission and 36 
+distribution utility, the investor -owned transmission and distribution utility for any 37 
+bill credit or payment to a subscriber  or project sponsor pursuant to section 3476;  38 
+ 
+ Page 3 - 128LR1367(01) -1 
+ C.  Establish reasonable metering and measurement and verification requirements for 1 
+distributed generation resources;  2 
+D.  Provide information needed to allocate eligible costs and benefits pursuant to 3 
+subsectio n 3; and  4 
+E.  Provide to the commission aggregate data regarding the output of distributed 5 
+generation resources.  6 
+3.  Standard buyer cost allocation.  The commission and each standard buyer 7 
+designated pursuant to subsection 1 shall implement a transparent me chanism to track and 8 
+recover or distribute the eligible costs and benefits from procuring the output of 9 
+distributed generation resources pursuant to this chapter.  These eligible costs and 10 
+benefits must be reviewed by the commission annually and allocated to and recovered 11 
+from customers through a process established by the commission by rule.  The process 12 
+developed by the commission must be similar to the allocation of costs and benefits of 13 
+long-term energy contracts in section 3210 -F.  Eligible costs and b enefits include:  14 
+A.  Incremental costs of serving as the standard buyer;  15 
+B.  All payments to customers, subscribers and project sponsors under each 16 
+procurement pursuant to section 3476; and  17 
+C.  All revenue from sale of the output of distributed generation resources procured 18 
+pursuant to this chapter.  19 
+4.  Rules.   The commission shall adopt rules to implement this section.  The 20 
+commission shall ensure that the rules provide opportunities for entities other than the 21 
+standard buyer to aggregate and sell the out put of distributed generation resources in the 22 
+applicable markets.  Rules adopted pursuant to this subsection are routine technical rules 23 
+as defined in Title 5, chapter 375, subchapter 2 -A. 24 
+§3476.  Large -scale commercial, municipal, industrial solar procur ement  25 
+1.  Procurement.  The commission shall conduct competitive solicitations twice per 26 
+year for long -term contracts for the output of a total of 50 megawatts of large -scale 27 
+commercial solar distributed generation resources by December 31, 2022, referred to in 28 
+this section as the "procurement target."  In each calendar year, the commission shall seek 29 
+to procure approximately 10 megawatts of output through 2 separate solicitations, except 30 
+that the commission may modify this annual procurement if it conclude s that doing so 31 
+would be in the best interests of all ratepayers.  Prior to a solicitation, the commission 32 
+shall develop, in consultation with the standard buyer, a standard contract that commits 33 
+all parties to commercially reasonable behavior and includes  provisions to ensure that 34 
+projects proceed to commercial operation on a reasonable timeline.  35 
+2.  Bidder eligibility.  The commission may establish minimum requirements for 36 
+bidders in a solicitation under subsection 1, including but not limited to site con trol, 37 
+development experience, completion of an interconnection application and provision of 38 
+system details.  The commission may by rule require bidders to pay an application fee to 39 
+defray administrative costs.  40 
+ 
+ Page 4 - 128LR1367(01) -1 
+ 3.  Ensuring competition.  Prior to each solic itation under subsection 1, the 1 
+commission shall establish standards to determine whether the solicitation has a sufficient 2 
+number of unique bidders and quantity of offered capacity to be competitive.  If the 3 
+commission concludes based on the standards tha t a solicitation is not competitive, no 4 
+bidders may be selected and the capacity available in that solicitation must be deferred to 5 
+a subsequent solicitation.  The commission may by rule adjust the maximum size of a 6 
+large -scale commercial solar distributed  generation resource eligible for a solicitation to 7 
+ensure that there is more than one bid selected.  8 
+4.  Bid enhancement.  In reviewing bids, the commission shall give preference to 9 
+solar projects associated with affordable multifamily housing.  Bids for a  solar project 10 
+associated with affordable multifamily housing must be reviewed by the commission at a 11 
+rate that is 1¢ per kilowatt -hour less than the actual bid submitted.  For the purpose of 12 
+calculating that contract rate, a solar project associated with affordable multifamily 13 
+housing that is awarded a contract must be paid at the actual bid rate and not the bid rate 14 
+used for review.  15 
+5.  Bid selection.  Following review of bids in a solicitation under subsection 1, if the 16 
+commission determines that the sol icitation is competitive, the commission shall select 17 
+one or more winning bidders and direct the standard buyer to negotiate and enter into a 18 
+contract with the winning bidder or bidders for a term of 20 years at a specified contract 19 
+rate.  The commission s hall select bids that maximize benefits or minimize costs to all 20 
+ratepayers.  21 
+6.  Agricultural or forest products business target.  The commission shall seek to 22 
+procure 8 megawatts of the 50 -megawatt procurement target under subsection 1 from 23 
+solar projects  associated with an agricultural or forest products business.  The 24 
+commission shall monitor winning bids to determine progress toward this target.  If, by 25 
+December 31, 2019, the commission determines that the solicitations under this section 26 
+are not likely  to result in the procurement of 8 megawatts of solar projects associated with 27 
+an agricultural or forest products business by 2022, the commission shall review bids for 28 
+a solar project associated with an agricultural or forest products business at a rate t hat is 29 
+1¢ per kilowatt -hour less than the actual bid submitted.  For the purpose of calculating 30 
+that contract rate, a solar project associated with an agricultural or forest products 31 
+business that is awarded a contract must be paid at the actual bid rate a nd not the bid rate 32 
+used for review.  33 
+7.  Determination of bill credit.  The bill credit to be allocated to a customer must 34 
+be based on the total kilowatt -hours of energy production of the solar distributed 35 
+generation resource for the previous month.  Each billing month, the value of the credits 36 
+must be calculated by multiplying the number of kilowatt -hours by the contract rate.  37 
+Payments to subscribers must be credited against the subscriber's monthly electricity bill 38 
+in accordance with section 3478.  39 
+The mo nthly production must be determined by a revenue -grade meter installed and paid 40 
+for by the participating large -scale commercial solar distributed generation resource 41 
+customer account holder.  42 
+ 
+ Page 5 - 128LR1367(01) -1 
+ 8.  Exemption.  A customer is not considered a public utility or competitive 1 
+electricity supplier solely as a result of entering into a contract with the standard buyer 2 
+under this section.  3 
+9.  Rules.  The commission shall adopt rules to implement this section.  Rules 4 
+adopted pursuant to this subsection are routine techn ical rules as defined in Title 5, 5 
+chapter 375, subchapter 2 -A. 6 
+§3477.  Small business distributed generation credit rate program  7 
+The small business distributed generation credit rate program, referred to in this 8 
+section as "the program," is established as an alternative to net energy billing.  9 
+1.  Eligibility.  Nonresidential customers are eligible for a small business distributed 10 
+generation credit rate as an alternative to net energy billing pursuant to section 3209 -A. 11 
+2.  Long -term contracts.  The standard  buyer shall enter into a contract with eligible 12 
+small business customers for the energy and capacity of a distributed generation resource 13 
+with a capacity of between 25 and 250 kilowatts for a term of 20 years.  The rate paid for 14 
+the energy and capacity mu st be set by the commission in accordance with subsection 3.  15 
+Payments to customers under a contract under this section must be credited against the 16 
+customer's monthly electricity bill in accordance with section 3478.  17 
+3.  Rates.  The commission shall estab lish a small business credit rate to be paid for 18 
+the energy and capacity of a distributed generation resource.  By December 1st of each 19 
+year the program is in effect, the commission shall set the small business credit rate for 20 
+new program participants in t he following calendar year equal to the average over the 21 
+past 12 months of total volumetric rates, including, but not limited to, the rate for 22 
+standard offer service paid by the nonresidential rate class with the lowest annual peak 23 
+demand.  The commission shall establish a separate small business credit rate for each 24 
+investor -owned transmission and distribution utility service territory in the State.  New 25 
+program participants receive the fixed small business credit rate in effect at the time they 26 
+begin part icipation in the program for the term of the contract in subsection 2.  27 
+4.  Self-consumption.  Notwithstanding subsection 2, an eligible small business 28 
+customer may offset that customer's own consumption using that customer's distributed 29 
+generation resource . 30 
+5.  Net energy billing option. After the effective date of rules adopted under 31 
+subsection 7, an eligible customer may elect to either participate in net energy billing 32 
+pursuant to section 3209 -A or enter into a contract under subsection 2.  If a customer  33 
+elects to enter into a contract, that customer may not subsequently participate in net 34 
+energy billing during the time period covered by the contract.  If a customer elects to 35 
+participate in net energy billing, the customer may change the customer's bill c redit to a 36 
+contract under subsection 2 within 12 months of the execution of a net energy billing 37 
+agreement with a transmission and distribution utility.  38 
+6.  Consumer -owned utility exemption.  This section does not apply to a consumer - 39 
+owned transmission an d distribution utility or its customers.  40 
+ 
+ Page 6 - 128LR1367(01) -1 
+ 7.  Rules.  The commission shall adopt rules to implement this section.  Rules 1 
+adopted pursuant to this subsection are routine technical rules as defined in Title 5, 2 
+chapter 375, subchapter 2 -A. 3 
+8.  Program review.  The commission shall evaluate how effective the program is at 4 
+increasing installations of distributed generation resources and the program's expected 5 
+short -term and long -term effect on ratepayers.  After completing its final evaluation, the 6 
+commission sha ll determine whether or not to continue the program for new participants 7 
+until such time it determines the program is no longer effective or it does not result in 8 
+benefits to ratepayers.  The commission shall submit a report by December 31, 2020 or 9 
+when co ntracts under the program total 20 megawatts, whichever comes first, and by 10 
+December 31, 2021 or when contracts under the program total 30 megawatts, whichever 11 
+comes first, to the joint standing committee of the Legislature having jurisdiction over 12 
+utiliti es and energy matters.  The report must include the commission's findings along 13 
+with any recommendations for program modification.  The joint standing committee of 14 
+the Legislature having jurisdiction over utilities and energy matters may report out a bill 15 
+relating to the program to the First Regular Session of the 130th Legislature and may also 16 
+report out a bill relating to the program to the Second Regular Session of the 130th 17 
+Legislature.  18 
+§3478.  Bill credits  19 
+This section applies to any credits assigned t o a customer's bill under this chapter.  20 
+If the value of the credit to be applied to a customer's bill is less than the amount 21 
+owed by the customer at the end of the applicable billing period, the customer must be 22 
+billed for the difference between the amoun t shown on the bill and the value of the 23 
+available credits.  24 
+If the value of the credits to be applied to a customer's bill is greater than the amount 25 
+owed by the customer at the end of the applicable billing period, the remaining value of 26 
+the credit must c arry over from month to month until a specified date each year.  The 27 
+commission shall establish a minimum of 2 standard credit expiration dates that provide 28 
+customers the opportunity to use bill credits to the maximum extent practicable in a given 29 
+12-month  period.  Any remaining credits as of that date must be credited to the standard 30 
+buyer and may not be applied against any future customer bill.  31 
+Sec. 4.  Rules.  The Public Utilities Commission shall adopt rules by January 1, 32 
+2018 to implement the Maine Rev ised Statutes, Title 35 -A, sections 3475 to 3478.  33 
+Sec. 5.  Net energy billing rules.  The commission shall amend its net energy 34 
+billing rules adopted pursuant to the Maine Revised Statutes, Title 35 -A, section 3209 -A 35 
+to be substantively equivalent to the r ules in effect on January 1, 2017, except the rules 36 
+must be consistent with Title 35 -A, section 3209 -A, subsection 1.  Notwithstanding Title 37 
+35-A, section 3209 -A, subsection 2, rules adopted for this purpose are routine technical 38 
+rules, as defined in Title  5, chapter 375, subchapter 2 -A. 39 
+Sec. 6.  Net energy billing analysis.  The Public Utilities Commission shall 40 
+conduct an analysis of the costs and benefits to ratepayers from net energy billing.  The 41 
+ 
+ Page 7 - 128LR1367(01) -1 
+ analysis must include all identifiable costs and benefit s for net energy billing participants 1 
+and nonparticipants, including but not limited to the costs and benefits described in Public 2 
+Law 2013, chapter 562, section 2.  The analysis must at a minimum look at costs and 3 
+benefits over a 10 -year period and a 25 -year period.  Where uncertainty exists with regard 4 
+to a future cost or benefit, the commission shall use assumptions for what it considers the 5 
+most likely higher and lower value scenarios.  The commission shall submit a report by 6 
+December 31, 2019 and anoth er report by December 31, 2020 to the joint standing 7 
+committee of the Legislature having jurisdiction over utilities and energy matters.  The 8 
+commission shall submit with the December 31, 2019 report information regarding any 9 
+programs the commission is con ducting and recommendations regarding alternatives to 10 
+net energy billing that would encourage distributed energy resource projects.  The 11 
+commission shall submit with the December 31, 2020 report recommendations regarding 12 
+net energy billing based on the cos ts and benefits analysis including methods for 13 
+encouraging and integrating distributed energy resources to increase efficiency of the 14 
+electric grid while reducing costs.  Methods may include, but are not limited to, rate 15 
+design and time of use rates, direc t deployment of aggregated solar and storage systems, 16 
+distributed energy rates or changes to transmission and distribution system planning.  In 17 
+developing these reports, the commission shall consult with stakeholders that include, but 18 
+are not limited to, t ransmission and distribution utilities, consumer advocates, distributed 19 
+energy installers or suppliers, conservation organizations and experts in rate design.  At 20 
+least 60 days before submitting the December 31, 2019 report and the December 31, 2020 21 
+report  to the joint standing committee of the Legislature having jurisdiction over utilities 22 
+and energy matters, the commission shall post the reports on its publicly accessible 23 
+website.  Within that period of time, a member of the public may submit to the 24 
+commi ssion written comments regarding the report.  The commission shall submit all 25 
+comments received to the committee with the report.  The joint standing committee of the 26 
+Legislature having jurisdiction over utilities and energy matters may report out a bill 27 
+relating to the December 31, 2020 report.  28 
+SUMMARY  29 
+This bill amends the law regarding net energy billing and makes the adoption of net 30 
+energy billing rules major substantive instead of routine technical, except that rules 31 
+adopted to be consistent with the ch anges in the Maine Revised Statutes, Title 35 -A, 32 
+section 3209 -A, subsection 1, substantively equivalent to the rules in effect prior to 33 
+March 29, 2017 and that must be completed by December 1, 2017, are routine technical 34 
+rules.  35 
+The bill directs the Public Utilities Commission to enter into long -term contracts with 36 
+a duration of 20 years for the procurement of 50 megawatts of large -scale commercial 37 
+solar distributed generation resources by 2022.  The bill requires that 8 megawatts of the 38 
+50-megawatt procurem ent target be from large commercial solar distributed generation 39 
+resources for projects associated with an agricultural or forest products business.  40 
+The bill creates a standard buyer, which the bill specifies is the investor -owned 41 
+transmission and distribu tion utility in its service territory.  The bill allows the 42 
+commission to designate another entity as the standard buyer if it determines it is in the 43 
+best interest of ratepayers to do so.  The purpose of the standard buyer is to purchase the 44 
+ 
+ Page 8 - 128LR1367(01) -1 
+ output of eac h category of distributed generation resource, aggregate the portfolio of 1 
+distributed generation resources procured and sell or use the output of these resources in a 2 
+manner that maximizes the value of this portfolio of resources to all ratepayers.  3 
+The bil l directs the commission to conduct competitive solicitations for 20% of the 5 - 4 
+year target procurement for long -term contracts for the output of large -scale commercial 5 
+solar distributed generation resources twice per year.  The bill directs the commission and 6 
+standard buyer to develop a contract prior to a solicitation that will ensure that projects 7 
+proceed to commercial operation on a reasonable timeline and commits all parties to 8 
+commercially reasonable behavior.  9 
+The bill gives the commission authority to  establish requirements for bidder 10 
+eligibility and standards to ensure competition in the bidding process.  The bill also 11 
+specifies that if the solicitation is fully competitive, the commission must select one or 12 
+more winning bids and direct the standard b uyer to negotiate and enter into a contract 13 
+with the winning bidder or bidders.  If the commission concludes the solicitation is not 14 
+competitive, no bidders may be selected and the capacity available in that solicitation 15 
+must be deferred to a subsequent so licitation.  The bill requires the commission to select 16 
+bids that maximize the benefits or minimize the costs to all ratepayers.  17 
+The bill directs the commission to give preference to projects associated with 18 
+affordable multifamily housing.  The bill requir es the commission to review bids for 19 
+projects associated with affordable multifamily housing at 1¢ less per kilowatt -hour than 20 
+the actual bid, but if such a project is awarded a contract, it is paid at the actual bid rate 21 
+and not the rate used for review.  This same process is allowed in the bill after December 22 
+31, 2019 for projects associated with an agricultural or forest products business if the 23 
+commission determines that solicitations are not likely to result in the procurement of 8 24 
+megawatts of solar p rojects associated with an agricultural or forest products business by 25 
+2022.  26 
+The bill also includes a small business distributed generation credit rate program as 27 
+an alternative to net energy billing for nonresidential customers.  28 
+The bill includes language  on how bill credits are to be determined for a customer.  29 
+The bill requires the Public Utilities Commission to adopt routine technical rules 30 
+regarding the procurement of large -scale commercial solar distributed generation 31 
+resources by January 1, 2018.  32 
+The bill also requires the commission to submit multiple reports on the effectiveness 33 
+of the bill credit program at increasing installations of distributed generation resources 34 
+and its expected short -term and long -term effect on ratepayers, as well as multiple  reports 35 
+regarding net energy billing and alternatives to net energy billing.  36 
+ 

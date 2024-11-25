@@ -1,0 +1,299 @@
+ALLIANCE 
+FQR AUTOMOTIVE 
+<41iii*" lNNOVATiC)N 
+May 9, 2023 
+Hon. Chip Curry, Senate Chair 
+Hon. Tiffany Roberts, House Chair 
+Committee on Innovation, Development, Economic Advancement and Business 
+100 State House Station 
+Augusta, ME 04333 
+RE: Opposed: Initiative Petition on Automotive Right to Repair Ballot — LD 1677 
+Dear Chairman Curry, Chairwoman Roberts, and Members of the Committee: 
+On behalf of the Alliance for Automotive lnnovationl , thank you for the opportunity to set the record 
+straight on LD 1677, the initiative petition misleadingly framed as necessary to ensure independent 
+repairers have the information needed to service modern vehicles. 
+Here's the truth: Automakers already make available to independent repair businesses all the information 
+needed to diagnose and service a vehicle. Questions around the repairability of modern automobiles 
+were definitively answered a decade ago under a nationwide agreement guaranteeing repairers and 
+vehicle owners access to the same repair and diagnostic information provided to auto dealers. To make it 
+even easier to retrieve the information needed to repair a vehicle, automakers also created a one~stop 
+location online to serve as a gateway to access virtually every automaker's repair website, logically found 
+at www.OEM1stop.com. 
+Automakers support vehicle owners’ right to repair. Consumers today have a wide range of options 
+when seeking repairs on their vehicle. They can bring it to an authorized dealer repair facility, a 
+national chain repairer, an independent repair facility, or a vehicle owner can undertake the repair 
+themselves if technologically inclined. There is no ”dealer monopoly" on the repair marketplace. l_|1 
+fact, over 70% of post—warrantv repair work today is performed outside of an automaker's authorized 
+dealer network. Competition is alive and well in the automotive repair industry. This is the very 
+definition of consumer choice. 
+You may wonder, that's today, what about the future? The national automotive right to repair agreement 
+signed in 2014 understood that the auto industry is constantly evolving, so it was consciously 
+futureproofed to account for changes. The memorandum of understanding (MOU) took a 2013 
+Massachusetts right to repair law and memorialized automaker commitments to it across the entire 
+country. Despite all the false and misleading assertions to the contrary, both the Massachusetts law and 
+the MOU address potential repairer needs to access telematic data — a catchall term for data generated on 
+the vehicle and then transmitted off it or data from external sources transmitted to the vehicle through an 
+1 From the manufacturers producing most vehicles sold in the U.S., to autonomous vehicle innovators, to equipment suppliers, 
+battery producers, and semiconductor makers — the Alliance for Automotive Innovation represents the full auto industry, a sector 
+supporting 10 million American jobs and five percent of the overall economy. Active in Washington, D. C. and all 50 states, the 
+association is committed to a cleaner, safer, and smarter personal transportation future. www.autosinnovate.org.
+1
+automaker ’s secure network. The MOU guarantees repairer access to telematics data if it meets three 
+simple, but important, criteria — 1. the access to the information is necessary to complete a repair; 2. the 
+information is also provided to an automaker ’s dealers; and 3. the information is not available from 
+another source, like a scan tool or other device. Likewise — anticipating the industry-defining shift toward 
+electric vehicles — the MOU is completely agnostic on powertrain. Regardless of whether a vehicle is 
+powered by an internal combustion engine or an electric motor, automakers are committed to the 
+obligations laid out in the national MOU. Simply put, it applies to all vehicles. 
+To demonstrate this MOU commitment, we have worked with Representative Bruce White to have after- 
+deadline legislation filed for consideration this session. We expect our proposal to be released from the 
+Revisor's Office in the coming days. This important legislation would codify into Maine law all the 
+protections necessary to ensure independent repair facilities continue to have access to the information 
+necessary to successfully diagnose and safely repair a vehicle on fair and reasonable terms. The legislation 
+is modeled after the current automobile Right to Repair MOU, which the Federal Trade Commission 
+describedz as having the” ...effect of creating a broad, if not complete, right to repair in the automotive 
+industry across the United States." 
+Automakers support a consumer's right to repair. Our members are the gold standard in providing 
+consumers with a full spectrum of repair options, as they provide all the parts, tools, and repair and 
+diagnostic information to service a vehicle throughout its long life. Despite this reality and despite our 
+proposal guaranteeing in Maine law independent repairers access to the information needed to complete 
+a repair, we know the groups bankrolling this campaign will still oppose our legislation. 
+So, if this is not about the ability to complete a repair today or in the future, what are the proponents 
+actually after? First, it is important to be clear about who are the true proponents that are forcing this 
+ballot question on Maine voters — out-of-state, big-box auto part retailers. This is not an initiative funded 
+by — or universally supported by — local repairers in Maine or elsewhere. 
+As of the ballot committee's most recent financial filing in April, of the $1.65 million raised so far by the 
+"Maine" Automotive Right to Repair Committee, not a single dollar was contributed by a Maine repairer 
+— not one dollar from any resident of Maine. Roughly two-thirds of it has come from the Coalition for 
+Auto Repair Equality — a shell group whose governing board according to tax documents is made up of 
+executives from AutoZone, Advanced Auto, NAPA, O'Rei|ly Auto Parts, and others. As best we can tell, 
+the rest of the money appears to come from corporations across the country who supply cheap, copycat 
+auto parts. 
+These proponents have done a great job of scaring local repairers that they will not have access to needed 
+repair information in the future, which is nothing short of fearmongering. What these big-box retailers 
+and others want is real-time access to vehicle systems to harvest a trove of private information — including 
+vehicle location in real time — for direct sales and marketing opportunities. It is that simple. Access to 
+telematics data is not necessary to complete a repair, but would be great for corporate chains to send 
+coupons for an oil change to your in—vehicle dashboard every time you drive are within a few miles of their 
+location, for example. 
+Z Federal Trade Commission, Nix The Fix: An FTC Report to Congress on Repair Restrictions, May 2021, Page 45. 
+Accessible at: https://www. ftc. qov/system/files/documents/reports/nixin<1- ﬁx~ftc-report-conoress-re,o0ir- 
+restrictions/nixino the fix report final 5521 630;Jm-508 OO2.pdf.
+2
+Our concerns go beyond just consumer privacy. The ballot proposal mandates not only that telematic 
+data must be shared, but it also mandates Q the information is to be shared. The ballot question 
+requires that a remote, bidirectional connection be established between the vehicle and any number of 
+possible third-party service entities, which has the practical effect of severely weakening the cybersecurity 
+of vehicles. Each automaker has developed its own telematics system to relay information to their 
+vehicles via a hardened connection. The ballot question seeks to change that and mandate a uniform 
+system of access "standardized across all makes and models of motor vehicles sold in this State.” it also 
+prohibits an automaker from providing any cybersecurity gateway which is precisely how automakers 
+protect vehicles from attack. 
+lf this sounds concerning, it is. When referencing the ballot question upon which Maine's question is 
+based that was pushed by the same parties in Massachusetts in 2020, the National Highway Traffic Safety 
+Administration3 said it would” ...raise substantial safety risks for American families. ” Further, the 
+Department of Justice‘ said it” ...creates a similar serious cybersecurity risk to motor vehicle safety... ” This 
+was not just a view held by government authorities; a cyber expert from the Massachusetts lnstitute of 
+Technologys also warned that countries with a history of cyberattacks could use such an open system 
+called for in this legislation to directly hack vehicles, saying it would,” ...accelerate society toward a major 
+cyber terrorism threat." The aftermarket part companies pushing for this ballot question are not experts 
+in cybersecurity, whereas the actual experts have condemned this idea unequivocally. 
+Let's also take a moment to acknowledge that the proponents are not pushing this ballot question after 
+first petitioning this committee for their desired changes. They have intentionally bypassed the normal 
+legislative process, and they have done so for two very clear reasons. 
+First, they do not want their proposal to be subject to the appropriate and typical scrutiny that comes 
+with the regular legislative process — where they would be forced to answer your questions and not 
+hide behind press conferences and vague, unchallenged statements. And second, when they 
+previously tried to push their ill-conceived plans to open vehicle systems to remote access by third 
+parties before the legislatures of California, Rhode Island, and Massachusetts, those bills never made it 
+out of the very first committee! 
+We are asking the Legislature to put forward our language as a competing ballot measure, as allowed 
+by the Maine state constitution, to stand in sharp contrast to this intentionally misleading ballot 
+proposal. The proponents should not be allowed to mislead Mainers. And as legislators, you should 
+not allow Maine voters to be fooled into believing that this monetizable data grab by national 
+aftermarket part manufacturers and retailers is necessary to ensure the repairability of automobiles 
+today and into the future. 
+Here's what automakers believe: Mainers should have the right to repair their vehicle anytime, anywhere, 
+anyplace. They do. And it isn't going away. 
+3 National Highway Traffic Safety Administration — Letter to Massachusetts Legislature, July, 2020. 
+Accessible at: httQs:[[bit.ly[3HtlYHN 
+4 US Department oflustice filing in Alliance for Automotive Innovation v. Healey/Campbell, June 2021. 
+Accessible at: httgs:[[bit.ly[3kFn5v1 
+5 Reimer, Bryan Ph.D, Letter to Massachusetts Legislature, January 2020. 
+Accessible at: httgs:[[bit.ly[3XZgnHE
+3
+We're confident Representative White's alternate ballot initiative ensures total driver choice and total 
+access for independent repairers to the information needed to repair a vehicle. 
+After all, that's exactly what the out-of-state big box retailers say they are fighting for. So, if they're 
+against Representative White's effort, Mainers ought to wonder why? 
+Considering the significant media attention to this issue, and the deliberate, ongoing, and bad faith effort 
+among out—of—state big-box retailers to pit independent repair businesses against automakers, we 
+appreciate the opportunity to set the record straight and voice our opposition to LD 1677. 
+Please find the attached memorandum for further information on the subject and do not hesitate to reach 
+out to me, at wweikel@aut0sinnovate.org, should you have additional questions. 
+Thank you for your consideration of our views. 
+Sincerely, 
+44“ »%¢/ Wayne Weikel 
+Vice-President, State Affairs 
+cc: Members, Committee on Innovation, Development, Economic Advancement and Business
+4
+MEMO 
+TO: Interested Parties 
+FROM: Alliance for Automotive Innovation 
+DATE: October 2022 
+RE: Dig Deeper: Maine Telematics Ballot Initiative 
+Here we go again. The country's biggest auto repair and parts chains have banded 
+together to fund another state ballot referendum to get their hands on a vehicle’s 
+electronic data. 
+This time, national automotive aftermarket companies are backing an initiative in Maine. 
+If passed, it would force the manufacturer of your vehicle to provide unrestricted remote 
+data access to your car or truck's computer — even if that data isn’t required to repair the 
+vehicle (and it isn’t). 
+What gives? This is a monetizable data grab from national aftermarket part 
+manufacturers and retailers masquerading as consumer protection and support for 
+small businesses. 
+Dig deeper. This ballot initiative is entirely unnecessary. Mainers already can have their 
+car repaired by any repair shop they choose. And all the information needed to diagnose 
+and repair a vehicle today is also already made available to all vehicle repair shops. But 
+the ballot initiative does pose a real cybersecurity and privacy threat to Maine’s drivers. 
+More on that below. 
+Take a step back. This effort in Maine is commonly (but wrongly) characterized as a fight 
+over vehicle "right to repair" seeking to pit small or independent repair shops against 
+auto manufacturers. That's not at all what this is about. 
+Automotive right to repair already exists and always will. Unlimited access by national 
+aftermarket manufacturers and retailers to your vehicle telematic data is not right to 
+repair. Don’t conflate the two. 
+Who is behind the Maine ballot initiative? 
+While local auto repairers have been made the face of this ballot initiative, in reality, it's 
+backed by national and international auto aftermarket part retailers and manufacturers 
+headquartered outside of Maine. When a similar effort was pushed in Massachusetts in 
+2020, the Massachusetts Right to Repair Coalition reported nearly $25 million in 
+expenditures. Nearly all of it — 99.975 percent — came from out-of-state interests ‘. 
+What is right to repair in the automotive context? 
+Right to repair is the principle that a vehicle owner should have the ability and choice to 
+service their vehicle anytime, anywhere, anyplace. Automakers agree and support 
+numerous initiatives to facilitate seamless independent auto service and repair. 
+1 Massachusetts Riqht to Repair Coalition OCPF Committee Number 95469 
+autosinnovate.org/RightToRepair 1
+Automakers offer drivers a wide range of repair options — more than any other industry. 
+In fact, automakers already and routinely make available to independent repair shops all 
+the parts, service information and vehicle data needed to diagnose and repair a vehicle. 
+What is auto telematics? 
+Auto telematics is a technology that allows remote, wireless access to vehicle systems. 
+This wireless access essentially gives someone the ability to receive electronic data 
+generated by a vehicle anytime and anywhere. 
+Automakers use this technology to provide consumers with updates on a vehicle’s 
+health — often through a smartphone app that provides turn-by-turn directions and other 
+geographic information like the nearest gas station. ln the future, automakers will be 
+able to provide software updates and fixes remotely — just like your phone carrier does 
+today — reducing the need to even bring your vehicle into a repair shop. 
+What is the question on the ballot in Maine? 
+The ballot paperwork filed in Maine asks this question: “Do you support independent 
+auto repair shops and car repair businesses to have access to electronic mechanical 
+data equipment and parts for all motor vehicles, including commercial motor vehicles, in 
+order to repair the vehicle and ensure motor vehicle roadway safety?” 
+Well, who disagrees with that? Certainly not the automotive industry. The actual ballot 
+language is seeking to codify something very different. It is an effort by the national 
+aftermarket to gain wireless access to, and even control of, a vehicle’s data, even when 
+the vehicle isn't in their shop for a repair or other service. 
+Do independent repair shops have access to information to diagnose and repair 
+vehicles? 
+Yes. Automakers make all the necessary information to repair vehicles available toa 
+range of independent repair businesses. This was settled nearly a decade ago based on 
+a commitment under a 2013 Massachusetts Automotive Right to Repair law. Automakers 
+guaranteed independent repairers access to the same vehicle repair and diagnostics 
+information provided to auto dealers. 
+Automakers and the independent repair industry put this commitment in writing in 2014 
+in a national memorandum of understanding (MOU). Because of this commitment, 
+automakers make available to consumers and independent repair facilities nationwide 
+the information necessary to diagnose and repair vehicles. There's even OEl\/llStop, a 
+centralized website created by automakers for repair technicians to get that information. 
+Keep in mind, the MOU applies to nearly 99 percent of all cars and light-duty trucks sold 
+in the United States each year. And it applies equally to cars propelled by internal 
+combustion engines and battery electric and hybrid vehicles. So, when someone says, 
+“but this doesn’t apply to electric vehicles or today’s increasingly connected cars...”- 
+that’s flat wrong. 
+The transition to EVs doesn’t change anything about the aftermarket ’s access to repair 
+and diagnostic information. This was recently reaffirmed during the adoption of 
+autosinn0vate.org €RightToRepair
+California's Advanced Clean Cars ll process, which will govern how EVs are built and 
+sold. Again, the MOU doesn't distinguish by propulsion system. lt applies to internal 
+combustion vehicles and EVs. 
+ls the system working? How do we know? 
+Yes. Very well. Automakers view independent repair shops as a vital part of the overall 
+repair universe. For almost a decade, the MOU has worked. 
+Today, most post-warranty work — 7O percent — is handled by the independent repair 
+community. The Federal Trade Commission — the government ’s top consumer protection 
+and competition agency - has cited the automotive industry as an example of the repair 
+aftermarket “working well.” Take a look at any automaker ’s authorized collision repair 
+network. lt isn't filled with dealer-owned collision shops. Most networks are actually more 
+than 70 percent non-dealer collision shops. 
+OK, automakers provide the information for traditional repairs, only? What about 
+telematics? That's the future as vehicles keep getting more digital and connected, 
+right? 
+First, access to telematic data has nothing to do with repairing a vehicle. ln fact, there 
+isn't one vehicle repair that requires access to telematic data to complete. Not a single 
+one. Don’t forget: every independent repairer also has easy access to a vehicle’s 
+information by plugging into its OBD-ll port to perform diagnostic tests. 
+Additionally, the MOU anticipated these advances in vehicle technology. The nationwide 
+agreement already requires the sharing of telematic data with an independent repairer 
+under these conditions: when it is necessary for a repair, is also provided to an 
+authorized dealer, and is not otherwise available. ln other words, the technologies of the 
+future were built into the agreement that is in place today. But those provisions have 
+never been used because telematic data is not needed to diagnose and complete a safe 
+and proper repair. 
+If the national aftermarket doesn't need telematic data to repair the car today, why do 
+they want it? 
+What national aftermarket part manufacturers and the big retailers are seeking is 
+unfettered access to a trove of your private telematic data for direct sales and marketing 
+opportunities. The data isn't needed to repair the vehicle, so that’s what we mean bya 
+monetizable data grab. 
+So what? 
+Here's a scenario. You get a routine repair done at your mechanic. After your leave, the 
+shop retains a pipeline of access to your vehicle’s telematic data and can continue to 
+receive that information wirelessly from your vehicle — days or months after the repair. 
+What can they do with that sensitive data? 
+The better question: what can’t they do with it? They can see where your car has been 
+and where you’ve driven. Your route. How fast you’ve been going. They can sell the 
+data. They can place ads on your in-vehicle computer, like their own advertising platform 
+autosinnovate.org/RightToRepair 3
+These are applications that more closely resemble what happens when you search the 
+internet than anything having do with a traditional vehicle repair. The ballot question 
+contains no limits on how long the data can be stored and no protections against the 
+copying, bundling and sale of this sensitive data to third parties, like insurance 
+companies. 
+Plus, this is a clear cybersecurity risk. There’s no telling if the shop has proper cyber 
+controls and firewalls in place or is vulnerable to a hack. independent shops aren’t 
+bound by the same cyber standards required of auto manufacturers handling this 
+sensitive data. 
+What do you mean by a cybersecurity risk? 
+Beyondjust the risk of improper data storage practices in a repair shop, the very 
+pipeline mandated by the ballot question could be attacked. Today, telematic systems 
+provide one, hardened connection to the outside world. The ballot question would 
+create any number of connections from each vehicle to third parties over which data 
+would be sent. 
+Criminals could exploit each of these digital connections between the vehicle and the 
+independent repair shop to not only access the vehicle's data but to hack into the- 
+vehicle or embed malicious code. An attack like this could target critical vehicle safety 
+systems. 
+The cyber risk associated with that type of direct vehicle access is a major concern of 
+both the National Highway Traffic Safety Administration (NHTSA) and the Department of 
+Justice. Each have raised concerns that unrestricted access to auto telematics is a cyber 
+risk and will make American families less safe. The Massachusetts institute of 
+Technology also suggested criminals from countries with a history of cyberattacks could 
+use the data stored at repair shops or third parties to hack vehicles. 
+Come on, can they really do that? That sounds alarmist. 
+That’s what the ballot initiative seeks. Data in the wrong hands or without proper 
+cybersecurity controls is a threat to privacy and safety. 
+But shouldn’t a small business or an independent repairer have the right to fix any 
+vehicle. Shouldn't consumers have a choice? 
+Yes and of course. Many repairers have been intentionally misled to believe that without 
+a new law, they won’t be able to service or repair vehicles now or in the future. it's 
+simply not true. Automakers don’t want that outcome either. 
+Again, roughly 70 percent of post-warranty work today is completed by the independent 
+repair community. Competition is alive and well in the automotive repair industry. 
+Drivers have a wide range of repair options, including: a dealer repair facility, a national 
+chain repairer, an independent repair facility or the vehicle owner. The system is 
+working. 
+Automotive right to repair exists. Always has, always will. 
+autosinnovate.org.iRightToRepair

@@ -1,0 +1,116 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1533
+H.P. 988 House of Representatives, April 5, 2023
+An Act to Provide for Consistent Billing Practices by Health Care 
+Providers
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MORRIS of Turner.
+
+Page 1 - 131LR1436(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24 MRSA §2989 is enacted to read:
+3§2989.  Billing by providers for off-campus outpatient services
+41. Definitions. For the purposes of this section, unless the context indicates otherwise, 
+5 the following terms have the following meanings. 
+6 A. "Campus" means the physical area immediately adjacent to a health care provider's 
+7 main buildings, other areas and structures that are not strictly contiguous to the main 
+8 buildings but are located within 250 yards of the main buildings and any other areas 
+9 determined on a case-by-case basis by the regional office of the federal Department of 
+10 Health and Human Services, Centers for Medicare and Medicaid Services for this State 
+11 to be part of the health care provider's campus.
+12 B. "Carrier" has the same meaning as in Title 24-A, section 4301-A, subsection 3.
+13 C. "Covered person" means a policyholder, subscriber, enrollee or other individual, 
+14 including a dependent of the policyholder or subscriber, participating in a health plan.
+15 D. "Facility" means an institution providing health care services or a health care setting, 
+16 including but not limited to hospitals, and includes the ultimate parent company of a 
+17 health care system.
+18 E. "Health care services" means services, including imaging, for the diagnosis, 
+19 prevention, treatment, cure or relief of a health condition, illness, injury or disease.
+20 F. "Health plan" has the same meaning as in Title 24-A, section 4301-A, subsection 7.
+21 G. "Items" means health care-related objects used in conjunction with the delivery of 
+22 health care services to a covered person, including but not limited to durable medical 
+23 equipment.
+24 H. "National Provider Identifier" or "NPI" means the standard, unique health identifier 
+25 for a health care provider that is issued by the National Plan and Provider Enumeration 
+26 System in accordance with 45 Code of Federal Regulations, Part 162.
+27 I. "Off-campus outpatient department of a facility" means a location:
+28 (1)  Whose operations are directly or indirectly owned or controlled by, in whole 
+29 or in part, or affiliated with a facility, regardless of whether the operations are under 
+30 the same governing body as the facility;
+31 (2)  That is located more than 250 yards from a facility's campus;
+32 (3)  That provides services that are organizationally and functionally integrated 
+33 with a facility; and
+34 (4)  That is an outpatient facility providing preventive, diagnostic, treatment or 
+35 emergency services.
+36 J. "Superintendent" means the Superintendent of Insurance.
+372. Applicability. This section applies to claims filed on or after January 1, 2024 for 
+38 health care services or items by a facility or off-campus outpatient department of a facility 
+39 in this State or any designee of a facility or off-campus outpatient department of a facility. 
+Page 2 - 131LR1436(01)13. National Provider Identifier. Notwithstanding any provision of law to the contrary, 
+2 for claims filed with a carrier, an off-campus outpatient department of a facility must apply 
+3 for, obtain and use a unique National Provider Identifier that is distinct from the NPI used 
+4 by the campus of the facility and any other off-campus location of the facility in order to 
+5 be reimbursed or paid for health care services or items provided in that off-campus 
+6 outpatient department of a facility.
+74. Billing requirements. A facility or its designee may not, with respect to health care 
+8 services or items furnished to a covered person at an off-campus outpatient department of 
+9 a facility, submit a claim to a carrier for such health care services or items and may not 
+10 hold a covered person liable for such health care services or items unless those health care 
+11 services or items are billed:
+12 A.  Using the distinct NPI established for the off-campus outpatient department of a 
+13 facility; and
+14 B.  Using the standardized claims form for professional services approved by the 
+15 Federal Government or the equivalent claims form used for an electronic claims 
+16 transaction.  
+17 A carrier is not required to pay any claim for health care services or items furnished to a 
+18 covered person at an off-campus outpatient department of a facility that is not billed in 
+19 accordance with the requirements of this subsection.
+205. Hold harmless. A facility, or its designee, that does not bill for health care services 
+21 or items rendered to a covered person at an off-campus outpatient department of a facility 
+22 as required by this section may not hold the covered person liable to pay for such health 
+23 care services or items.  A violation of this subsection constitutes a violation of the Maine 
+24 Unfair Trade Practices Act and the Attorney General may take action pursuant to Title 5, 
+25 section 209. 
+266. Enforcement; violations. The superintendent may refer to the Department of Health 
+27 and Human Services for enforcement any facility for a violation of this section. The 
+28 Department of Health and Human Services may take any enforcement action provided in 
+29 Title 22 against a licensed facility for a violation of this section. 
+307.  Rules. The superintendent may adopt rules as necessary to implement this section. 
+31 Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+32 chapter 375, subchapter 2-A.
+33SUMMARY
+34 This bill establishes consistent billing requirements for providers of outpatient health 
+35 care services delivered in off-campus outpatient departments owned by or affiliated with a 
+36 health care system. The bill's requirements must be followed by health care facilities and 
+37 health insurance carriers and apply to claims submitted to a health insurance carrier on or 
+38 after January 1, 2024.34
+35
+36
+37
+38

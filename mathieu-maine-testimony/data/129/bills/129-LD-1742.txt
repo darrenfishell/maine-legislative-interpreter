@@ -1,0 +1,304 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1742
+H.P. 1241 House of  Representatives, May 16, 2019
+An Act  To Encourage Broadband  Deployment in Unserved Areas
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative WADSWORTH  of Hiram.
+Cosponsored by President  JACKSON  of Aroostook and
+Representatives: MARTIN of  Eagle  Lake, McCREA of Fort  Fairfield,  STEWART of Presque 
+Isle, Senators: LUCHINI of Hancock, ROSEN of Hancock.
+
+Page 1 - 129LR1679(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §9202, as amended by PL 2015, c. 284, §2, is further 
+3amended to read:
+4§9202.  Definitions 
+5As used in this chapter, unless the context otherwise indicates, the following terms 
+6have the following meanings.
+71.  Advanced communications technology infrastructure.  "Advanced 
+8communications technology infrastructure" means any communications technology 
+9infrastructure or infrastructure improvement that expands the deployment of, or improves 
+10the quality of, broadband availability and wireless service coverage.
+112.  Authority.  "Authority" means the ConnectME Authority established in section 
+129203.
+132-A.  Broadband service.  "Broadband service" means a mass-market retail service 
+14using wireline or fixed wireless technology that provides the capability to transmit data 
+15from or to all or substantially all Internet devices.
+162-B.  Broadband service provider.  "Broadband service provider" means a 
+17communications service provider that provides broadband service, but does not include a 
+18provider of commercial mobile service as defined under 47 United States Code, Section 
+19332(d)(1) (2018).
+203.  Communications service.  "Communications service" means any wireline voice, 
+21satellite, data, fixed wireless data or video retail service.
+224.  Communications service provider.  "Communications service provider" means:
+23A.  Any entity offering communications service to customers in the State; or
+24B.  Any facilities-based provider of wireless voice or data retail service that 
+25voluntarily chooses to be assessed by the authority pursuant to section 9211 that is 
+26granted funds pursuant to section 9211-B.
+275.  Unserved or underserved area.  "Unserved or underserved area" means an area 
+28that the authority pursuant to section 9204-A, subsection 1 determines to meet criteria 
+29established by the authority by rule adopted pursuant to section 9205, subsection 3.
+306.  Household.  "Household" means a house and its occupants, regarded as a unit.
+317.  Infrastructure.  "Infrastructure" means a physical component or collection of 
+32physical components that provide the basic support for distributing communications 
+33service.
+348.  Underserved area.  "Underserved area" means a census block as described by the 
+35United States Department of Commerce, Bureau of the Census or aggregation of adjacent 
+36census blocks where broadband service exists but less than 10% of the households within 
+Page 2 - 129LR1679(01)-11that area have access to broadband service with minimum speeds of at least 50 megabits 
+2per second from the broadband service provider to the customer and at least 5 megabits 
+3per second from the customer to the broadband service provider.
+49.  Unserved area.  "Unserved area" means a census block as described by the 
+5United States Department of Commerce, Bureau of the Census or aggregation of adjacent 
+6census blocks without access to broadband service with minimum speeds of at least 25 
+7megabits per second from the broadband service provider to the customer and at least 3 
+8megabits per second from the customer to the broadband service provider.
+9Sec. 2.  35-A MRSA §9203, sub-§7 is enacted to read:
+107.  Limitations on activities of authority.  Notwithstanding any other provision of 
+11this chapter to the contrary, the authority may not provide any wireline, wireless, satellite, 
+12voice, data or video service at retail or wholesale.
+13Sec. 3.  35-A MRSA §9204-A, sub-§1, as enacted by PL 2015, c. 284, §7, is 
+14repealed.
+15Sec. 4.  35-A MRSA §9204-A, sub-§4, as enacted by PL 2015, c. 284, §7, is 
+16amended to read:
+174.  Support broadband infrastructure investment.  The authority shall expand the 
+18availability of broadband service to residential and small business customers in unserved 
+19or underserved areas by identifying, developing and providing funding for broadband 
+20infrastructure investments in unserved and underserved communities exclusively as 
+21provided in section 9211-B.  Such investments may include infrastructure that is used by 
+22a single provider or by multiple providers.
+23Sec. 5.  35-A MRSA §9211, as enacted by PL 2005, c. 665, §3, is amended to 
+24read:
+25§9211.  ConnectME Fund 
+261.  ConnectME Fund established.  The ConnectME Fund, referred to in this section 
+27as "the fund," is established as a nonlapsing fund administered by the authority for the 
+28purposes of supporting the activities and projects of the authority under this chapter.
+292.  Assessment.  After receiving authorization pursuant to Title 5, section 8072 to 
+30finally adopt major substantive rules under section 9205, subsection 3 or after January 15, 
+312007, whichever is later, the authority may require every communications service 
+32provider to contribute on a competitively neutral basis to the fund.   The assessment may 
+33not exceed 0.25% of the revenue received or collected for all communications services 
+34provided in this State by the communications service provider.  A facilities-based 
+35provider of wireless voice or data retail service may voluntarily agree to be assessed by 
+36the authority as a communications service provider under this subsection.
+373.  Explicit identification on customer bills.  A communications service provider 
+38assessed pursuant to subsection 2 may recover the amount of the assessment from the 
+Page 3 - 129LR1679(01)-11provider's customers.  If a provider recovers the amount from its customers, it must 
+2explicitly identify the amount owed by a customer on the customer's bill and indicate that 
+3the funds are collected for use in the ConnectME Fund.
+44.  Bond authorization.  The authority may provide by resolution for the issuance of 
+5bonds for the purpose of providing funding and support for the construction of advanced 
+6communications technology infrastructure as provided in section 9211-B and for the 
+7fulfillment of other undertakings that the authority may assume.  All money received 
+8from any bonds issued by the authority must be applied for the support of construction of 
+9advanced communications technology infrastructure in accordance with section 9211-B 
+10and for the fulfillment of other undertakings that are within the power of the authority, 
+11except that not more than 5% of money received from any bonds issued by the authority 
+12may be used to support community broadband planning grants distributed pursuant to 
+13section 9217.  A lien is created upon the money until so applied in favor of the 
+14bondholders or any member of the authority as may be provided for the bonds.
+15Sec. 6.  35-A MRSA §9211-A, as enacted by PL 2015, c. 323, §1, is repealed.
+16Sec. 7.  35-A MRSA §9211-B is enacted to read:
+17§9211-B.  Broadband Infrastructure Grant Program
+181.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+19following terms have the following meanings.
+20A.  "Program" means the Broadband Infrastructure Grant Program established in 
+21subsection 2.
+22B.  "Project" means a proposed deployment of advanced communications technology 
+23infrastructure used to provide broadband service at speeds meeting or exceeding the 
+24minimum thresholds described in section 9202, subsection 9 or 10 that is set forth in 
+25an application for grant funding authorized under this section.
+26C.  "Project area" means a census block as described by the United States Department 
+27of Commerce, Bureau of the Census or aggregation of adjacent census blocks 
+28proposed to be covered in an application for grant funding of a project authorized 
+29under this section.
+302.  Establishment; administration.  The Broadband Infrastructure Grant Program is 
+31established.  The authority shall administer and act as the fiscal agent for the program and 
+32is responsible for receiving and reviewing grant applications and awarding grants. 
+333.  Eligible projects.  Assistance under this section may be used to carry out a project 
+34in a project area only if, as of the date on which the application of the eligible applicant is 
+35submitted, the area to be served by the project for which a grant is sought constitutes an 
+36unserved area or underserved area.  A grant may not be used to support any project 
+37involving the upgrade of existing broadband infrastructure by an applicant to the 
+38minimum speed thresholds set forth in section 9202, subsections 9 and 10.  The use of a 
+39grant granted pursuant to this section is limited to only the unserved portions of the 
+40project area.
+Page 4 - 129LR1679(01)-114.  Eligible applicants.  An applicant for a grant under the program:
+2A.  May not receive a grant for a project covered by an application under a federal 
+3universal service fund as established pursuant to 47 United States Code, Section 254 
+4(2018) or any state government grant or loan program;
+5B.  Must commit to paying a minimum of 20% of the project costs out of the 
+6applicant's own funds and may not provide this minimum matching amount from any 
+7funds derived from government grants, loans or subsidies; and
+8C.  May be any entity with demonstrated experience in providing broadband service 
+9or other communications service to residential customers within the State.
+105.  Applications.  The following provisions govern applications under the program.
+11A.  The authority shall establish an annual period, which may not be less than 60 days 
+12or more than 90 days, for submission of applications for a grant under the program.
+13B.  An eligible applicant shall submit an application to the authority on a form 
+14prescribed by the authority.  An application for a grant to fund a project must include 
+15the following information:
+16(1)  Evidence demonstrating the applicant's experience and ability in building, 
+17operating and managing broadband service networks serving residential 
+18customers;
+19(2)  A description of the project area, including a list of census blocks covered by 
+20the proposed project.  If a census block included in an application already is 
+21partially served by a provider of broadband service, the application must describe 
+22the portions of the census block that are already served and the portions of the 
+23census block that constitute an unserved area or underserved area and must 
+24include a certification that none of the grant funding provided by the program for 
+25the project proposed in the application will be used to extend or deploy facilities 
+26to a household that is already served by a provider of broadband service;
+27(3)  A description of the advanced communications technology infrastructure that 
+28is proposed to be deployed, including facilities, equipment and network 
+29capabilities, including minimum speed thresholds;
+30(4)  Evidence, including a certification from the application signatory, 
+31demonstrating the unserved or underserved nature of the project area;
+32(5)  The number of households that would have new access to broadband service 
+33as a result of the grant;
+34(6)  The total cost of the proposal and the time frame in which it will be 
+35completed;
+36(7)  The amount of matching funds the applicant proposes to contribute and a 
+37certification that no portion of such funds are derived from a federal universal 
+38service fund or any state government grant or loan program;
+39(8)  Evidence demonstrating the economic and commercial feasibility of the 
+40proposed project;
+Page 5 - 129LR1679(01)-11(9)  A list of all government authorizations, permits and other approvals required 
+2in connection with the proposed project and a timetable for the applicant's 
+3acquisition of such approvals; and
+4(10)  Any other information required by the authority.
+56.  Review of applications; approval.  The following provisions govern the review 
+6and approval of applications under the program.
+7A.  Within 5 business days following the end of the period for submission of 
+8applications established pursuant to subsection 5, paragraph A, the authority shall 
+9make the applications available for review in a publicly accessible electronic file.
+10B.  A broadband service provider that provides service within or directly adjacent to a 
+11proposed project area may submit, within 45 days of the release of the applications 
+12pursuant to paragraph A, a written challenge to an application.  Such a challenge may 
+13include information:
+14(1)  Disputing an applicant's certification that a proposed project area is unserved 
+15or underserved or that a federal universal service fund or any state programs do 
+16not provide funding for a project for which program support is sought; or
+17(2)  Attesting to the challenging provider's existing, or planned, provision of 
+18broadband service within the applicant's proposed project area.
+19C.  During the 45-day challenge period established under paragraph B, a 
+20nongovernmental entity with demonstrated experience in providing broadband 
+21service or other communications service to residential customers within the State may 
+22submit a competing application for a grant for a project in any proposed project area 
+23that is the subject of an application submitted by or on behalf of a municipality.  In 
+24reviewing competing applications in any such project area, the authority shall give 
+25preference to the application submitted by a nongovernmental entity covering the 
+26project area, whether during the annual period for submission of applications 
+27established pursuant to subsection 5, paragraph A or through the competing 
+28application process authorized in this paragraph.
+29D.  In reviewing applications and any accompanying challenges, the authority shall 
+30conduct its own review of the proposed project areas to ensure that all awarded grants 
+31are used to deploy advanced communications technology infrastructure to unserved 
+32areas.  The authority may not award any grants to fund a project for any proposed 
+33project area that fails to meet the criteria for being unserved.
+34E.  The authority shall award grants for projects set forth in applications based upon a 
+35scoring system.  The scoring system must be released to the public at least 30 days 
+36prior to the period for submission of applications established pursuant to subsection 
+375, paragraph A.  The scoring system must give the highest weight or priority to the 
+38following factors:
+39(1)  The size and scope of the unserved area or underserved area proposed to be 
+40served;
+41(2)  The experience, technical ability and financial means of the applicant in 
+42successfully deploying and providing broadband service;
+Page 6 - 129LR1679(01)-11(3) The length of time the applicant has been providing broadband service in the 
+2State;
+3(4)  The extent to which government funding support is necessary to deploy 
+4advanced communications technology infrastructure in an economically feasible 
+5manner in the proposed project area;
+6(5)  The amount and proportion of the matching funds proposed to be committed 
+7by the applicant;
+8(6)  Whether the proposed project area is an unserved area, rather than an 
+9underserved area;
+10(7)  The service speed thresholds proposed in the application and the scalability 
+11of the advanced communications technology infrastructure proposed to be 
+12deployed to speeds higher than 25 megabits per second from the broadband 
+13service provider to the customer and 3 megabits per second from the customer to 
+14the broadband service provider;
+15(8)  The applicant's ability to leverage nearby or adjacent advanced 
+16communications technology infrastructure to facilitate the proposed project and 
+17provision of service to households;
+18(9)  The extent to which the proposed project does not duplicate any existing 
+19advanced communications technology infrastructure in the proposed project area; 
+20and
+21(10)  Such other factors the authority determines to be reasonable and 
+22appropriate, consistent with the purpose of facilitating the economic deployment 
+23of advanced communications technology infrastructure to unserved areas.
+24F.  In awarding grants, the authority may not include consideration of any new or 
+25additional regulatory obligations beyond those required under applicable law, 
+26including, but not limited to, open access network requirements or any rate, service or 
+27other obligations beyond the speed requirements set forth in section 9202, subsection 
+2810.  In awarding grants, the authority may not include consideration of factors that 
+29would constrain a recipient from offering or providing broadband service in the same 
+30manner as such service is offered without funding support by the broadband service 
+31provider in other areas of the State.
+32G.  An applicant must be afforded a reasonable time frame to complete a project 
+33selected for funding approval.
+347.  Implementation.  The following provisions govern the implementation of the 
+35program.
+36A.  The authority shall adopt rules within 180 days of the effective date of this section 
+37consistent with this section that implement the requirements of this section and 
+38govern the submission, review and approval of applications and the administration of 
+39projects funded under this section, including rules for grant agreements 
+40memorializing the award of funds.
+41B.  Rules that implement this section must include reasonable oversight and reporting 
+42provisions to ensure that grants are used as intended.  Such rules may not include 3rd-
+Page 7 - 129LR1679(01)-11party audit requirements, letter of credit or performance bond obligations or financial 
+2penalty or liquidated damages provisions or provisions that are not reasonably related 
+3to the deployment of advanced communications technology infrastructure by an 
+4applicant in accordance with the purposes and provisions of this section. Nothing in 
+5this paragraph precludes the authority from requiring disgorgement of grant funds in 
+6response to an applicant's pattern of failure, following notice and an opportunity to 
+7cure, to build out a project area in accordance with the time frames and timetables set 
+8forth in its application.
+9C.  Nothing in this section may be construed to preclude the authority from 
+10considering an applicant's financial ability to complete the project proposed in an 
+11application or making reasonable requests for information necessary for the oversight 
+12and administration of a project funded under this section.
+13D.  Nothing in this section may be construed to empower the authority to adopt rules 
+14or to impose any obligations or requirements on funding recipients, through grant 
+15agreements or any other mechanism, other than the program implementation rules 
+16expressly authorized in paragraph A.
+17E.  The provisions of this section supersede any contrary rules adopted prior to the 
+18effective date of this section by the authority to govern the disbursement of funds to 
+19support broadband investment.
+20SUMMARY
+21This bill facilitates the deployment of broadband infrastructure in unserved areas of 
+22this State by establishing the Broadband Infrastructure Grant Program under the 
+23ConnectME Authority to award grants to applicants for the purpose of extending 
+24deployment of facilities used to provide broadband service to unserved areas of the State 
+25and thus to encourage new investment in broadband service infrastructure.  The bill 
+26eliminates the Municipal Gigabit Broadband Network Access Fund.  The bill removes the 
+27authority of the ConnectME Authority to require communications service providers to 
+28contribute to the ConnectME Fund.  It allows the authority to issue bonds for the 
+29construction of advanced communications technology infrastructure.

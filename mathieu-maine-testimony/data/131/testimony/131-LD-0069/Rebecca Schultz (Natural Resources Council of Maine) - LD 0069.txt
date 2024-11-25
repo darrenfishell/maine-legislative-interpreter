@@ -1,0 +1,79 @@
+ 
+  
+ 
+Testimony in Opposition to LD 69, An Act to Improve Electrical Supply Cost Transparency  
+ 
+By Rebecca Schultz, Senior Advocate for Climate and Clean Energy 
+January 31, 2023 
+ 
+ 
+Senator Lawrence, Representative Zeigler, and members of the Joint Committee on Energy, Utilities and 
+Technology , my name is Rebecca Schultz. I am a senior advocate for cl imate and clean energy at the 
+Natural Resources Council of Maine, which is Maine’s leading environmental advocacy group with more 
+than 25,000 members and supporters. I am testifying in opposition to LD 69, An Act to Improve Electrical 
+Supply Cost Transpare ncy.1  
+ 
+There are many aspects of the hidden costs of electricity that would benefit from  improved 
+transparency to help  consumers , policy makers , and markets  alike deliver better social outcomes . This 
+bill, however , would not accomplish that  purpose . In fact, t his bill would do  little to communicate the 
+cost of electricity supply in a way that allow ed consumers  to make better informed decisions and  
+instead would risk misleading consumers with  confusing information .   
+ 
+The proposed bill would require “ a disclosure label that contains information on each energy source 
+used in the generation service that the customer is receiving including the cost per kilowatt hour of each energy source.” The requirement would  not be help ful for the following reasons:  
+ 
+• It is partially  redundant . Maine law already  requires electricity  suppliers to provide disclosure 
+labels to help educate customers about  their electricity service.  These fact sheets , available on 
+the Public Utilities Commis sion’s website, provide a breakdown of the energy resource mix and 
+air pollution emissions associated with  the previous year’s  standard offer supply.
+2 
+• Cost information would be retrospective . The standard offer supply price for electricity is set 
+annually through a competitive bidding process overseen by the Public Utilities Commission. Electricity suppliers develop estimates for the year ahead based on a variety of factors , including 
+forecasts of wholesale electricity prices.  These  estimates skyro cketed  for 2023 due to high 
+natural gas prices and our regional dependence on natural  gas for electricity . The resources that 
+suppliers ultimately use to meet their obligation s, however,  will only  be known after the fact . 
+Therefore, the disclosure would de scribe the previous year’s supply  costs  and not be useful for 
+informing consumer decision s. 
+• “Cost per kilowatt hour per energy source” is not relevant under our current market structure.  
+U.S. electricity  markets are based on a “uniform clearing price auction”  model.  The market  sets 
+prices for electricity regardless of what type of generator produce d that electricity. T he least 
+expensive resource available is dispatched first , and a s demand increases, increasingly expensive 
+resources are brought online  to meet demand. The clearing price for all dispatched resources is 
+ 
+1 LD 69, An Act to Improve Electrical Supply Cost Transparency , available at 
+https://legislature.maine.gov/bills/getPDF.asp?paper=HP0044&item=1&snum=131 .  
+2 Maine Public Utilities C ommission, Standard Offer Disclosure Labels, available at 
+https://www.maine.gov/mpuc/regulated- utilities/electricity/standard -offer/disclosure -labels .  
+ 
+  
+set by the marginal unit, or the price that would need to be paid to meet the next increment of 
+demand.  Therefore , while wind and solar may provide the cheapest energy on the market , they 
+get paid the marginal price , which in our region is often set by  natural gas.3 The proposed 
+requirement would disclos e the clearing price paid to resources but not reflect the cost of 
+producing the electricity . It is not clear what the intended purpose would be of providing 
+customers with this information.    
+ 
+Cost transparency is a noble cause, one that must be pursued at each turn in our clean energy transition 
+to ensure we are  keeping rates  down  for Maine ratepayers . LD 69  would not serve this purpose but  
+would run the risk of confusing consumers on a crucial topic at a time when we need an educated and 
+engaged public  to participate  in our climate future .   
+ Thank you for your consideration of this testimony .  
+ 
+Sincerely,  
+ 
+ 
+  
+Rebecca Schultz 
+Senior Advocate for Climate and Clean Energy  
+Natural Resources Council of Maine  
+rschultz@nrcm.org   
+   
+ 
+  
+  
+ 
+ 
+3 All markets in the U.S. use this uniform clearing price auction structure, which helps ensure that bids more closely 
+reflect actual costs and creates a strong incentive to build inexpensive resources . ISO New Engla nd, How Resources 
+Are Selected and Prices Are Set in the Wholesale Energy Markets, available at https://www.iso -ne.com/about/what -
+we-do/in -depth/how -resources -are-selected -and-prices -are-set. 

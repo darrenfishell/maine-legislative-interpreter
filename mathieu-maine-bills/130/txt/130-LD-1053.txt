@@ -1,0 +1,174 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 1053
+H.P. 782 House of  Representatives, March 11, 2021
+An Act  To Allow Microgrids  That  Are in the Public Interest
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GROHOSKI of Ellsworth.
+
+Page 1 - 130LR0950(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §2305-B, sub-§1, as enacted by PL 2001, c. 110, §2, is 
+3 amended to read:
+41.  Transmission and distribution utilities; microgrids.  A transmission and 
+5 distribution utility or a person that constructs, maintains or operates a new microgrid 
+6 approved in accordance with section 3351, subsection 3 may construct and maintain its 
+7 lines in, upon, along, over, across or under the roads and streets in any municipality in 
+8 which it is authorized to supply electricity, subject to the conditions and restrictions 
+9 provided in this chapter and chapter 25.
+10Sec. 2.  35-A MRSA §2305-B, sub-§2, as enacted by PL 2001, c. 110, §2, is 
+11 amended to read:
+122.  Persons other than transmission and distribution utilities or person that 
+13constructs, maintains or operates new microgrid.  A person other than a transmission 
+14 and distribution utility or person that constructs, maintains or operates a new microgrid 
+15 approved in accordance with section 3351, subsection 3 may not construct or maintain 
+16 electric lines, including poles or other related structures, in, upon, along, over, across or 
+17 under a road, street or other public way unless:
+18 A.  The person satisfies the requirements of section 2503;
+19 B.  The person or the person's contractor hired to construct the line provides to the 
+20 applicable licensing authority a performance bond:
+21 (1)  In the amount of the value of the line, including poles or other related 
+22 structures, to be located in the public way; and
+23 (2)  That is enforceable for one year from the date the line is energized;
+24 C.  Prior to constructing the line, the person notifies the transmission and distribution 
+25 utility in whose service territory the line is proposed to be built of the proposed location 
+26 of the line; and
+27 D.  If a public utility objects to the line on the basis that it may constitute a duplication 
+28 of existing transmission or distribution facilities or may interfere with the adequate and 
+29 safe delivery of electricity to others, the commission issues a finding that the line is not 
+30 a duplication of existing transmission or distribution facilities and does not interfere 
+31 with the adequate and safe delivery of electricity to others.  A finding is not required 
+32 under this paragraph unless a public utility has objected in writing to the applicable 
+33 licensing authority.
+34Sec. 3.  35-A MRSA c. 33-A is enacted to read:
+35CHAPTER 33-A
+36MICROGRIDS
+37§3351.  Microgrids
+381.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+39 following terms have the following meanings.
+Page 2 - 130LR0950(01)1 A.  "Distributed energy resources" means small-scale electrical generation sources 
+2 located close to where the generated electricity is used, energy storage resources, 
+3 energy efficiency resources or demand response resources.
+4 B.  "New microgrid" means a group of interconnected loads and distributed energy 
+5 resources within clearly defined electrical boundaries that acts as a single controllable 
+6 entity with respect to the electric grid and can connect and disconnect from the electric 
+7 grid to enable the new microgrid to operate in both electric grid-connected mode and 
+8 nongrid-connected mode, referred to in this chapter as "island mode," and that is 
+9 constructed after October 1, 2020.
+102.  Microgrids, public utility exception.   Notwithstanding section 2102 or any other 
+11 provision of this Title to the contrary, a person that constructs, maintains or operates a new 
+12 microgrid approved under subsection 3 does not, solely as a result of furnishing service 
+13 through that new microgrid to participating consumers, become a public utility and is not 
+14 subject to regulation as a public utility under this Title.
+153.  Commission approval; requirements.  A person may not construct or operate a 
+16 new microgrid without commission approval in accordance with this subsection.
+17 A.  The commission shall approve a petition to construct and operate a new microgrid 
+18 if the commission finds that operation of the new microgrid is in the public interest and 
+19 the new microgrid meets at least the following requirements:
+20 (1)  The proposed new microgrid will serve a total load of no more than 25 
+21 megawatts;
+22 (2)  The proposed new microgrid is located in the service territory of a transmission 
+23 and distribution utility with more than 50,000 customers;
+24 (3)  The distributed energy resources for the new microgrid meet the applicable 
+25 portfolio requirements in section 3210, subsections 3, 3-A, 3-B and 3-C;
+26 (4)  The person proposing the new microgrid demonstrates that the person has 
+27 secured the financial capacity to operate the proposed new microgrid;
+28 (5)  The person proposing the new microgrid demonstrates that the person has 
+29 secured the technical capability to operate the proposed new microgrid;
+30 (6)  There is a contractual relationship between the proposed new microgrid 
+31 operator and consumers within the area to be served by the proposed new 
+32 microgrid; and
+33 (7)  The proposed new microgrid will not negatively affect the reliability and 
+34 security of the electric grid.
+35 For the purposes of this paragraph, when determining whether a proposed new 
+36 microgrid is in the public interest, the commission shall consider possible ratepayer 
+37 effects, whether positive or negative; benefits due to the increased resilience or 
+38 reliability of the electric grid; economic development benefits; and any other factors 
+39 the commission considers necessary to promote the public interest.
+40 B.  As a condition of approval of a new microgrid, the commission shall:
+41 (1)  Require that any increase in costs to the electric transmission and distribution 
+42 system in the State as a result of the new microgrid must be fully recovered from 
+Page 3 - 130LR0950(01)43 the microgrid owner and customers of the microgrid and not passed on to other 
+44 electric ratepayers; and
+3 (2)  Impose any other terms, conditions or requirements on the construction, 
+4 maintenance or operation of the new microgrid as, in its judgment, it considers 
+5 necessary, which may include but are not limited to parameters regarding the 
+6 ability of the new microgrid to enter island mode, as defined by the commission 
+7 by rule, and the operation of the new microgrid in grid-connected mode and island 
+8 mode.
+94.  Commission oversight; grid protections; consumer protections.  A new 
+10 microgrid approved in accordance with subsection 3 is subject to commission oversight to 
+11 ensure reliability and security of the electric grid and consumer protections for customers 
+12 of the new microgrid.
+135.  Services.  Services provided by a new microgrid may include, but are not limited 
+14 to:
+15 A.  Standby electric service, as defined by the commission by rule, when the new 
+16 microgrid is operating in island mode; and
+17 B.  Selling electricity as a competitive electricity provider when the new microgrid is 
+18 operating in grid-connected mode.
+196.  Rulemaking. The commission may adopt rules to implement this section. Rules 
+20 adopted under this subsection are routine technical rules pursuant to Title 5, chapter 375, 
+21 subchapter 2-A.
+22Sec. 4.  Report.  The Public Utilities Commission shall submit a report by January 7, 
+23 2022 to the joint standing committee of the Legislature having jurisdiction over energy and 
+24 utility matters detailing its activities related to new microgrids as defined in the Maine 
+25 Revised Statutes, Title 35-A, section 3351, subsection 1, paragraph B, including whether 
+26 any new microgrids have been approved under Title 35-A, section 3351.  The report must 
+27 also include any recommendations for legislation that may be necessary to clarify or 
+28 enhance the law regarding new microgrids.  The committee may report out a bill to the 
+29 First Regular Session of the 131st Legislature based on the report.
+30Sec. 5.  Precedent established by Public Utilities Commission.  The provisions 
+31 of this Act may not be interpreted to modify or nullify the analytical framework and 
+32 precedent for analyzing whether an entity is a transmission and distribution utility or a 
+33 competitive electricity provider established by the Public Utilities Commission in opinions 
+34 and orders issued prior to the effective date of this Act, including, but not limited to, 
+35 opinions and orders issued under Docket Number 2000-653, Request for Commission 
+36 Investigation Regarding the Plans of Boralex Stratton Energy, Inc. to Provide Electric 
+37 Service Directly from Stratton Lumber Company and Docket Number 2011-200, ReEnergy 
+38 Rumford, LLC, Request for Advisory Ruling.
+39SUMMARY
+40 This bill directs the Public Utilities Commission to approve a petition to construct and 
+41 operate a new microgrid if the commission finds the proposal to be in the public interest 
+42 and the new microgrid meets other specified requirements.  It provides the commission 
+43 with the ability to impose such terms, conditions or requirements as, in its judgment, it 1
+2
+40
+41
+42
+43
+Page 4 - 130LR0950(01)44 considers necessary in approving a new microgrid and also gives the commission oversight 
+45 to ensure reliability and security of the electrical grid and consumer protections for new 
+46 microgrid consumers.  It specifies that a new microgrid does not become a public utility 
+47 solely as a result of its furnishing electrical service to participating consumers.  The bill 
+48 directs the Public Utilities Commission to submit a report to the joint standing committee 
+49 of the Legislature having jurisdiction over energy and utility matters by January 7, 2022.1
+2
+3
+4
+5
+6

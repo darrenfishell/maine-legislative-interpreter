@@ -1,0 +1,128 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 823
+S.P. 268 In Senate,  March  2, 2017
+An Act  To Promote Transparency with Respect to Surveillance 
+Technology
+Reference to the Committee on State  and Local Government suggested and  ordered printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator BELLOWS of Kennebec.
+Cosponsored by Representative MOONEN of Portland and
+Senators: BRAKEY of  Androscoggin, KATZ of Kennebec, LANGLEY of Hancock,  
+Representatives: BABBIDGE of Kennebunk, CEBRA of Naples, GUERIN of Glenburn, HARVELL of Farmington, JOHANSEN  of Monticello.
+
+ 
+ Page 1 - 128LR0999(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  5 MRSA §59 is enacted to read:  2 
+§59.  State acquisition and use of surveillance technology  3 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 4 
+followin g terms have the following meanings:  5 
+A.  "State entity" means any office, department, agency, authority, institution or other 6 
+instrumentality of the State;  7 
+B.  "Surveillance data" means any electronic data collected, captured, recorded, 8 
+retained, processed , intercepted, analyzed or shared by surveillance technology; and  9 
+C.  "Surveillance technology" means any electronic surveillance device, hardware or 10 
+software that is capable of collecting, capturing, recording, retaining, processing, 11 
+intercepting, analyzi ng, monitoring or sharing audio, visual, digital, location, thermal, 12 
+biometric or similar information or communications specifically associated with, or 13 
+capable of being associated with, any specific person or group or any system, device 14 
+or vehicle that is  equipped with an electronic surveillance device, hardware or 15 
+software.  16 
+2.  Surveillance technology; requirements for acquisition and use.  A state entity 17 
+may not seek funding or in -kind support to acquire surveillance technology; acquire, 18 
+share or borrow surveillance technology; use surveillance technology for a purpose or in 19 
+a manner not previously approved by the Legislature under this subsection; or request 20 
+proposals for or enter into an agreement with another entity to acquire, share, borrow or 21 
+otherwi se use surveillance technology or surveillance data, unless the state entity:  22 
+A.  Holds a public hearing regarding the functionality of the proposed surveillance 23 
+technology to be acquired or used; the proposed activity or activities relating to 24 
+surveillanc e technology; adverse effects, if any, the use of the proposed technology 25 
+could have on civil rights and civil liberties; measures that could be implemented to 26 
+avoid any adverse effects; and with which other entities, if any, the state entity may 27 
+voluntari ly share surveillance data. The state entity shall publish notice of the public 28 
+hearing in a newspaper with general circulation throughout the State at least 14 days 29 
+in advance of the public hearing. The state entity shall provide the opportunity for 30 
+membe rs of the public to provide written and oral testimony at the public hearing and 31 
+to file written testimony within 10 days of the close of the public hearing; and  32 
+B.  Obtains legislative approval of the proposed activity or activities relating to 33 
+surveillan ce technology. For the purposes of this paragraph, "legislative approval" 34 
+means enactment of legislation that:  35 
+(1)  Expressly approves the use of the surveillance technology for a specified 36 
+activity or activities;  37 
+(2)  Limits the use of the surveillance te chnology to the expressly approved 38 
+activity or activities under subparagraph (1);  39 
+ 
+ Page 2 - 128LR0999(01) -1 
+ (3)  Enumerates with which other entities, if any, the state entity may voluntarily 1 
+share the surveillance data; and  2 
+(4)  Provides that legislative approval for the use of th e surveillance technology is 3 
+contingent upon the implementation of any measures the Legislature considers 4 
+necessary to avoid adverse effects of that use on civil rights and civil liberties.  5 
+Sec. 2.  25 MRSA §4501, sub -§§3 and 4, as enacted by PL 2015, c. 3 07, §1, are 6 
+amended to read:  7 
+3.  Acquisition of unmanned aerial vehicles.  The Subject to the additional 8 
+requirements imposed by Title 5, section 59, the  acquisition of an unmanned aerial 9 
+vehicle by a law enforcement agency must be approved by the governin g body of the 10 
+governmental unit overseeing the law enforcement agency seeking to make such an 11 
+acquisition or, in the case of a state agency, by the commissioner of that agency.  12 
+4.  Law enforcement agency operation of unmanned aerial vehicles.   A law 13 
+enforc ement agency's operation of an unmanned aerial vehicle must fully comply with all 14 
+Federal Aviation Administration requirements and guidelines, including the acquisition of 15 
+a certificate of authorization or waiver from the Federal Aviation Administration and with 16 
+the requirements imposed in Title 5, section 59 .  Additionally, a law enforcement 17 
+agency's use of an unmanned aerial vehicle is governed by the following provisions.  18 
+A.  A law enforcement agency may not use an unmanned aerial vehicle before 19 
+adopting  standards that meet, at a minimum, the standards set forth in subsection 5.  20 
+B.  Except as permitted by a recognized exception to the requirement for a warrant 21 
+under the Constitution of Maine or the United States Constitution, a law enforcement 22 
+agency may not use an unmanned aerial vehicle for criminal investigations without a 23 
+warrant.  24 
+C.  Notwithstanding paragraph A, a law enforcement agency may use an unmanned 25 
+aerial vehicle for the purpose of a search and rescue operation when the law 26 
+enforcement agency determines that use of an unmanned aerial vehicle is necessary 27 
+to alleviate an immediate danger to any person or for training exercises related to 28 
+such uses.  29 
+D.  Notwithstanding paragraph A, a law enforcement agency may use an unmanned 30 
+aerial vehicle for p urposes other than the investigation of crime, including, but not 31 
+limited to, aerial photography for the assessment of accidents, forest fires and other 32 
+fire scenes, flood stages and storm damage.  33 
+E.  In no case may a weaponized unmanned aerial vehicle be used or its use 34 
+facilitated by a state or local law enforcement agency in this State.  35 
+F.  A law enforcement agency may not use an unmanned aerial vehicle to conduct 36 
+surveillance of private citizens peacefully exercising their constitutional rights of free 37 
+speech and assembly.  38 
+G.  Notwithstanding paragraph A, a law enforcement agency may use an unmanned 39 
+aerial vehicle for an emergency use approved by the chief administrative officer of 40 
+the agency or the Governor.  41 
+ 
+ Page 3 - 128LR0999(01) -1 
+ SUMMARY  1 
+This bill requires a state entity to hold a public hearing and obtain legislative 2 
+approval prior to engaging in certain activities relating to the acquisition and use of 3 
+surveillance technology.  4 
+ 

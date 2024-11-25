@@ -1,0 +1,676 @@
+State v. Millis
+Court of Appeals of Arizona, Division Two
+March 9, 2017, Filed
+No. 2 CA-CR 2015-0368
+Reporter
+391 P.3d 1225 *; 2017 Ariz. App. LEXIS 35 **; 241 Ariz. 802; 2017 WL 943895
+THE STATE OF ARIZONA, Appellee, v. JEREMY DAVID 
+MILLIS, Appellant.
+Subsequent History: Post-conviction relief granted at, Petition 
+granted by State v. Millis, 2021 Ariz. App. Unpub. LEXIS 584 
+(Ariz. Ct. App., May 20, 2021)
+Prior History:  [**1] Appeal from the Superior Court in Pima 
+County. No. CR20130560001. The Honorable Jane L. 
+Eikleberry, Judge.
+State v. Millis, 2015 Ariz. Super. LEXIS 812 (Ariz. Super. Ct., 
+Sept. 28, 2015)
+Disposition: AFFIRMED.
+Case Summary
+Overview
+HOLDINGS: [1]-The trial court did not abuse its discretion in 
+determining that testimony proffered by a defense expert was 
+inadmissible diminished capacity evidence; [2]-Defendant was 
+not entitled to a unanimous verdict as to the means of 
+commission of child abuse or first degree murder, and the State 
+presented substantial evidence to support all three alternative 
+means of child abuse and to support a determination that his 
+actions caused the victim's death; [3]-Defendant's rights to due 
+process and a fair trial were not violated when, pursuant to Ariz. 
+R. Crim. P. 39(b)(8)-(9), the trial court allowed the victim's 
+mother to have a facility dog and its handler sit beside the 
+mother during the trial, as the dog was not with the mother 
+when the mother testified, the dog was only with the mother 
+when she sat in the gallery, and was there to prevent undue 
+stress to the mother during a difficult trial about the death of 
+her infant son.
+Outcome
+Judgment affirmed.
+LexisNexis® HeadnotesCriminal Law & Procedure > Appeals > Standards of 
+Review
+HN1 [ ]  Appeals, Standards of Review
+An appellate court views the facts and all reasonable inferences 
+therefrom in the light most favorable to upholding the jury's 
+verdicts.
+Criminal Law & Procedure > ... > Standards of 
+Review > Abuse of Discretion > Witnesses
+Evidence > Admissibility > Expert Witnesses
+HN2 [ ]  Abuse of Discretion, Witnesses
+An appellate court reviews a ruling to admit or preclude expert 
+testimony for an abuse of discretion.
+Criminal Law & Procedure > ... > Standards of 
+Review > Harmless & Invited Error > Evidence
+HN3 [ ]  Harmless & Invited Error, Evidence
+When a defendant opposes the state's motion to preclude 
+testimony and makes an offer of proof, an appellate court 
+reviews for harmless error. Ariz. R. Evid. 103(a)
+Criminal Law & Procedure > Defenses > Diminished 
+Capacity
+HN4 [ ]  Defenses, Diminished Capacity
+Arizona does not recognize a "diminished capacity" defense, in 
+which expert psychiatric evidence about a defendant's mental 
+incapacity is offered to negate mens rea. Unlike insanity 
+
+Page 2 of 8
+pursuant to Ariz. Rev. Stat.§ 13-502(A) - an affirmative defense 
+that excuses, mitigates, or lessens a defendant's moral culpability 
+due to his psychological impairment - the diminished capacity 
+defense aims to rebut an element of mens rea.
+Criminal Law & 
+Procedure > ... > Reviewability > Waiver > Triggers of 
+Waivers
+HN5 [ ]  Waiver, Triggers of Waivers
+An appellate court does not address an argument made for the 
+first time on appeal.
+Criminal Law & Procedure > Appeals > Standards of 
+Review
+Criminal Law & 
+Procedure > Trials > Verdicts > Unanimity
+HN6 [ ]  Appeals, Standards of Review
+A denial of the right to a unanimous jury verdict constitutes 
+fundamental prejudicial error.
+Criminal Law & 
+Procedure > Trials > Verdicts > Unanimity
+HN7 [ ]  Verdicts, Unanimity
+The right to a unanimous jury verdict is established in the 
+Arizona Constitution. Ariz. Const. art. II, § 23. In the context of 
+statutes describing offenses that may be committed in multiple 
+ways—sometimes referred to as "alternative-means" or "single 
+unified offense" statutes—the jury must be unanimous as to 
+whether the charged criminal act has been committed. However, 
+the defendant is not entitled to a unanimous verdict on the 
+precise manner in which the act was committed as long as there 
+is substantial evidence to support each of the charged means of 
+commission. The jury may reach a verdict based on a 
+combination of alternative findings.
+Criminal Law & 
+Procedure > Trials > Verdicts > Unanimity
+HN8 [ ]  Verdicts, UnanimityFirst-degree murder is a single unified offense. It is unified 
+because the harm the murder statutes seek to prevent is the 
+same—the death itself. Thus, jury unanimity is not required 
+about the precise mechanism of death.
+Criminal Law & Procedure > ... > Domestic 
+Offenses > Children & Minors > Child Abuse
+Criminal Law & 
+Procedure > Trials > Verdicts > Unanimity
+HN9 [ ]  Children & Minors, Child Abuse
+Child abuse under circumstances likely to produce death or 
+serious physical injury pursuant to Ariz. Rev. Stat.§ 13-3623(A) 
+is a single unified offense. Although the crime can be committed 
+in three different ways, the statute focuses on a single harm to 
+the victim. Thus, a child abuse defendant does not have a right 
+to jury unanimity as to the precise manner in which the act was 
+committed.
+Criminal Law & Procedure > Appeals > Standards of 
+Review > Abuse of Discretion
+Criminal Law & Procedure > Trials > Judicial Discretion
+HN10 [ ]  Standards of Review, Abuse of Discretion
+In keeping with the trial court's "broad discretion" in managing 
+trial conduct, an appellate court will not disturb a trial court's 
+ruling regarding the use of a facility dog absent an abuse of 
+discretion.
+Criminal Law & Procedure > ... > Standards of 
+Review > Harmless & Invited Error > Harmless Error
+HN11 [ ]  Harmless & Invited Error, Harmless Error
+Harmless error review places burden on state to prove beyond 
+reasonable doubt error did not contribute to or affect verdict or 
+sentence.
+Criminal Law & Procedure > Trials > Witnesses
+HN12 [ ]  Trials, Witnesses
+Ariz. R. Crim. P. 39(b), gives a crime victim the right to be 
+accompanied at interviews, depositions, and court proceedings 
+391 P.3d 1225, *1225 ; 2017 Ariz. App. LEXIS 35, **1
+Page 3 of 8
+by a parent, relative, or other appropriate support person, Ariz. 
+R. Crim. P. 39(b)(8)-(9).
+Governments > Courts > Common Law
+Governments > Legislation > Interpretation
+HN13 [ ]  Courts, Common Law
+When the legislature has clearly spoken on a matter within its 
+domain, its word constitutes public policy on that subject and 
+controls, assuming no constitutional impediments exist.
+Counsel: Mark Brnovich, Arizona Attorney General, Joseph T. 
+Maziarz, Chief Counsel, Phoenix, By Kathryn A. Damstra, 
+Assistant Attorney General, Tucson, Counsel for Appellee.
+Dean Brault, Pima County Legal Defender, By Robb P. Holmes, 
+Assistant Legal Defender, Tucson, Counsel for Appellant.
+Judges: Judge Miller authored the opinion of the Court, in 
+which Presiding Judge Staring and Judge Espinosa concurred.
+Opinion by: MILLER
+Opinion
+ [*1228]  MILLER, Judge:
+P1 A jury found Jeremy Millis guilty of one count of intentional 
+or knowing child abuse under circumstances likely to result in 
+death or serious physical injury and one count of first-degree 
+murder, both committed against a victim under age fifteen. 
+Millis was sentenced to life imprisonment without the possibility 
+of release for thirty-five years for murder, to be followed by a 
+consecutive ten-year prison term for child abuse. On appeal, he 
+contends the trial court erroneously precluded expert testimony 
+about his autism, he was prejudiced by a duplicitous charge, and 
+the court erred by allowing the victim's mother to be 
+accompanied at trial by a facility dog.1 We affirm [**2]  for the 
+following reasons.
+1 Although cases refer to victim/witness support dogs using many 
+different terms, see, e.g., People v. Spence, 212 Cal. App. 4th 478, 151 Cal. 
+Rptr. 3d 374, 400 n.4 (Ct. App. 2012) ("therapy dog" or "support 
+canine"); State v. Jacobs, 2015-Ohio-4353, ¶ 19, 2015 WL 6180908 (Ohio 
+Ct. App. 2015) ("companion dog"); State v. Dye, 178 Wn.2d 541, 309 
+P.3d 1192, ¶ 1 (Wash. 2013) ("comfort animal" or "facility dog"), we 
+use the term "facility dog" in this opinion because that is the term our 
+legislature elected to use in a newly enacted statute on the subject, see 
+A.R.S. § 13-4442.Factual and Procedural Background
+P2 HN1 [ ] "We view the facts and all reasonable inferences 
+therefrom in the light most favorable to upholding the jury's 
+verdict[s]." State v. Causbie, 241 Ariz. 173, ¶ 2, 384 P.3d 1253, 
+1255 (App. 2016). Millis and S.F. began dating in 2012 and after 
+a few months they began sharing an apartment. Not long after 
+that, the relationship ended and Millis moved out, but they 
+remained on good terms with one another. In order to help 
+offset the cost of the lease that S.F. now bore on her own, Millis 
+agreed to watch S.F.'s two young sons one day a week while she 
+was at work.
+P3 On the morning of January 24, 2013, S.F. changed the diaper 
+of her eight-month-old son, C.K. He had no bruises on him. 
+She later took some pictures of C.K. "having a lot of fun . . . 
+and being very smiley" in his bouncer. Millis arrived to babysit 
+the boys and she left for work at around 2:00 p.m. Millis was the 
+only person watching the boys while S.F. was at work.
+P4 S.F. arrived home around 11:00 p.m. She looked in on the 
+boys and they appeared to be asleep. Millis told S.F. that C.K. 
+had been coughing and choking earlier that night, but S.F. was 
+not worried because she knew C.K. had a condition called 
+tracheomalacia, a "floppiness" [**3]  in the cartilage of the 
+trachea that sometimes caused him to make choking sounds, 
+cough, or wheeze. Millis left and S.F. went to bed.
+P5 C.K. woke up at about 2:30 or 3:00 a.m. and S.F. tried to 
+feed him a bottle. He did not eat much, but seemed to go back 
+to sleep after about fifteen or twenty minutes. Then at about 
+5:30 a.m., C.K. started crying in a way that "didn't sound right. 
+It wasn't his normal cry." S.F. picked him up but he would not 
+open his eyes or respond to his name, and she had to hold his 
+head up.
+P6 S.F. rushed C.K. to the hospital, which was across the street 
+from her apartment. When they arrived at the emergency room, 
+the staff took him right away, but he began  [*1229]  having 
+seizures. At 6:53 a.m., S.F. texted Millis and told him something 
+was wrong with C.K.—he was crying "weird" and was 
+nonresponsive. Millis replied that C.K. had been "a little weird 
+when he did that cho[]king thing" the night before. She asked if 
+C.K. had hit his head on anything, and Millis replied, "I don't 
+think so. Just from him sitting on the carpet and tip[p]ing over . 
+. . [b]ut nothing bad." She told Millis C.K. was "seizing" and had 
+a "head bleed," to which Millis replied, "Oh my god. Maybe 
+that's what he was [**4]  doing last night. I didn't know what he 
+was doing. I squeezed his neck a little [because] he was having 
+trouble breathing. He cried a little then went back to sleep so I 
+thought he was fine." In a subsequent recorded confrontation 
+call, Millis told S.F. he had found C.K. "stiff" and making 
+"gasping noises" at one point, and had responded by 
+391 P.3d 1225, *1225 ; 2017 Ariz. App. LEXIS 35, **1
+Page 4 of 8
+"squeez[ing] his neck" "firm[ly]."
+P7 C.K. had bilateral subdural hematomas, which caused 
+bleeding on both sides of his brain, bruising, and swelling. 
+Analysis of a CT scan indicated the head trauma had occurred 
+within approximately the last twenty-four hours, and could not 
+have been the result of C.K. merely falling back onto carpet 
+from a seated position. His fontanel was also bulging, and in 
+each eye he had "too many [retinal hemorrhages] to count" 
+across all layers of the retina. C.K. also had bruises on his head, 
+ears, neck, chin, upper arms, shoulders, and "wrap[ping] 
+around" his chest and rib cage. Numerous medical professionals 
+testified that C.K.'s injuries were not consistent with an 
+accidental fall, but were consistent with blunt force head trauma, 
+intentional choking, and violent shaking.
+P8 C.K. died on January 30, five days after he was admitted to 
+the hospital. [**5]  A forensic pathologist opined that the date 
+of the injuries was five to six days prior to death. The 
+pathologist ruled C.K.'s death a homicide and determined the 
+co-equal and interrelated causes of death to be (1) blunt force 
+trauma to the head, and (2) hypoxic ischemic injury, which is a 
+lack of oxygen and blood to the brain.
+P9 S.F. was interviewed by investigating detectives the day C.K. 
+was admitted to the hospital. She showed them her text message 
+exchange with Millis. They located Millis, advised him of his 
+Miranda2 rights, and he agreed to an interview. When they 
+confronted him with information about C.K.'s head injuries, 
+Millis told the detectives he had accidentally hit C.K.'s head on 
+the oven door while he was taking food out of the oven, even 
+though he had denied any head injuries when he was texting 
+with S.F. while she was at the hospital. He also told the 
+detectives that C.K. had been "crying a lot" and that he had 
+"choked [C.K.]" with his hand. In a second Mirandized 
+interview after C.K. died, Millis again admitted he had been 
+"frustrated" with C.K., "just wanted him to stop crying," and 
+"chok[ed]" him to get him to quiet down, adding that he "just 
+couldn't take it anymore" and [**6]  "I did what I did."3 Millis 
+also told his ex-wife in a recorded jail video call that "he [had] 
+choked [S.F.'s] baby."
+P10 At trial, Millis argued the blunt force trauma alone could 
+have caused the brain swelling, which in turn could have choked 
+off oxygenated blood to the brain, causing the hypoxic ischemic 
+injury notwithstanding any strangulation. However, the forensic 
+2 See Miranda v. Arizona, 384 U.S. 436, 444-45, 86 S. Ct. 1602, 16 L. Ed. 
+2d 694 (1966).
+3 At another point, Millis told the detective that he had only "squeezed" 
+C.K.'s neck because C.K. was having trouble breathing and Millis was 
+trying "to see if there was something there, if he could move [the neck] 
+around."pathologist testified that the blunt force trauma alone could not 
+account for certain injuries noted on an MRI. In closing, Millis 
+argued that his choking the baby was not what killed him, that 
+S.F. had inflicted the injuries that caused C.K.'s death after he 
+had left that night, and that "shaking plus impact explains the 
+[whole] universe of injuries that we have." In the alternative, he 
+argued he had choked C.K. recklessly or negligently, not 
+intentionally.
+P11 The jury convicted Millis of all charges and he was 
+sentenced as described above. We have jurisdiction pursuant to 
+A.R.S. §§ 13-4031 and 13-4033(A)(1).
+ [*1230]  Preclusion of Expert Testimony
+P12 Millis argues the trial court erred by precluding a defense 
+expert from testifying Millis suffers from autism spectrum 
+disorder (ASD) when it concluded that the proffered testimony 
+was diminished capacity [**7]  evidence as opposed to 
+character trait evidence. HN2 [ ] We review a ruling to admit 
+or preclude expert testimony for an abuse of discretion. State v. 
+Wright, 214 Ariz. 540, ¶ 5, 155 P.3d 1064, 1066 (App. 2007). 
+Because Millis HN3 [ ] opposed the state's motion to preclude 
+the testimony and made an offer of proof, we review for 
+harmless error. See Ariz. R. Evid. 103(a); State v. Henderson, 210 
+Ariz. 561, ¶ 18, 115 P.3d 601, 607 (2005).
+P13 Before trial, defense counsel filed a motion to assess Millis's 
+competency pursuant to Rule 11.2(a), Ariz. R. Crim. P. Counsel 
+attached to the motion the opinion of Dr. Pablo Stewart, who 
+concluded in relevant part that Millis suffers from ASD without 
+accompanying intellectual or language impairments. Relying on 
+the testimony of two other experts who rejected that diagnosis, 
+the trial court found Millis competent to stand trial.
+P14 Millis asked to continue the trial in order to accommodate 
+Dr. Stewart's schedule so that he could testify about the ASD 
+diagnosis. The state moved to preclude any ASD testimony, 
+which it characterized as evidence of diminished capacity. 
+Defense counsel argued the ASD diagnosis would not be 
+offered to show diminished capacity, but to show Millis had a 
+character trait of "difficulty in understanding how to interact 
+appropriately with others," which could have made it "more or 
+less likely that he formed the intent required [**8]  in this 
+particular case." After a hearing at which Millis made an offer of 
+proof, the trial court granted the state's motion to preclude 
+Stewart's testimony, finding it was offered to support a 
+diminished capacity defense and was not character evidence. 
+The court also denied Millis's motion to continue the trial.
+P15 HN4 [ ] Arizona does not recognize a "diminished 
+capacity" defense, in which expert psychiatric evidence about a 
+defendant's mental incapacity is offered to negate mens rea. State 
+391 P.3d 1225, *1229 ; 2017 Ariz. App. LEXIS 35, **4
+Page 5 of 8
+v. Mott, 187 Ariz. 536, 540-41, 544, 931 P.2d 1046, 1050-51, 
+1054 (1997); see State v. Schantz, 98 Ariz. 200, 212-13, 403 P.2d 
+521, 529 (1965). Unlike insanity pursuant to A.R.S. § 13-
+502(A)—an "affirmative defense that excuses, mitigates, or 
+lessens a defendant's moral culpability due to his psychological 
+impairment"—the diminished capacity defense aims to rebut an 
+element of mens rea. Mott, 187 Ariz. at 540, 931 P.2d at 1050. 
+The court in Mott observed that our legislature declined to adopt 
+a diminished capacity defense when given the opportunity, id. at 
+540-41, 931 P.2d at 1050-51, and instead confined "any 
+consideration of characteristic behavior associated with mental 
+disease" to its bearing on an insanity defense,4 Clark v. Arizona, 
+548 U.S. 735, 762, 126 S. Ct. 2709, 165 L. Ed. 2d 842 (2006); 
+Wright, 214 Ariz. 540, ¶ 15, 155 P.3d at 1069.
+P16 In Mott, our supreme court affirmed preclusion of evidence 
+that "battered-woman syndrome" and low intelligence 
+diminished the defendant's capacity to decide to seek medical 
+care for her child. 187 Ariz. at 544-45, 931 P.2d at 1054-55. 
+Similarly, in [**9]  State v. Buot, 232 Ariz. 432, 306 P.3d 89 (App. 
+2013), the defendant sought to introduce evidence that he had 
+"behavior consistent with an intermittent explosive disorder and 
+that his actions are reflexive and therefore impulsive and not the 
+result of a conscious thought process." Id. ¶ 11. We affirmed 
+preclusion of the evidence because it was offered to rebut a 
+knowing or reckless mens rea for a second-degree murder 
+charge. Id. ¶ 20; see also § 13-502(A) ("impulse control disorders" 
+cannot underpin insanity defense). And in State v. Lopez, 234 
+Ariz. 465, ¶¶ 20-23, 323 P.3d 748, 752 (App. 2014), we affirmed 
+the preclusion of evidence of a defendant's purported character 
+trait of "acting impulsively under stress without being aware of 
+the consequences of his actions," reasoning that the only 
+relevance of such evidence was for an impermissible diminished 
+capacity defense.
+ [*1231]  P17 Millis contends that Dr. Stewart's testimony 
+would not have rebutted an intentional or knowing mens rea, 
+which he agrees would violate Arizona law, but instead would 
+have established a lesser mens rea that would allow the jury to 
+convict on reckless or negligent child abuse. Conviction for a 
+lesser-included offense would also result in an acquittal on the 
+felony murder charge. See A.R.S. § 13-1105(A)(2). The state 
+correctly notes the circular nature of this argument. [**10]  
+Evidence that a person only acted with a mental state of 
+recklessness or negligence necessarily means the person did not 
+act knowingly or intentionally. See A.R.S. § 13-105(10). Millis 
+acknowledged this purpose when defense counsel explained at 
+the motion hearing the evidence would show "that being on the 
+autism spectrum made Jeremy Millis less likely to be able to 
+4 This limitation comports with due process. Clark v. Arizona, 548 U.S. 
+735, 769-71, 126 S. Ct. 2709, 165 L. Ed. 2d 842 (2006).form certain intent." Thus, the trial court did not abuse its 
+discretion in determining that Stewart's proffered testimony was 
+inadmissible diminished capacity evidence under Mott and its 
+progeny.
+P18 Millis argues in the alternative that Dr. Stewart should have 
+been allowed to present limited "observation evidence" about 
+Millis's character traits without mentioning the ASD diagnosis. 
+See Clark, 548 U.S. at 757-58 (defining "observation evidence" as 
+"testimony from those who observed what [the defendant] did 
+and heard what he said," including "testimony that an expert 
+witness might give about [the defendant's] tendency to think in a 
+certain way and his behavioral characteristics"); see generally Buot, 
+232 Ariz. 432, ¶ 13, 306 P.3d at 92; Wright, 214 Ariz. 540, ¶¶ 13-
+17, 155 P.3d at 1068-69. But he did not clearly present this 
+argument to the trial court, nor did he cite Clark or its 
+discussion of observation evidence below. To the contrary, his 
+offer of proof [**11]  specifically emphasized that Stewart 
+needed to opine that Millis suffers from ASD. Cf. Clark, 548 
+U.S. at 757-60 (distinguishing admissible "observation evidence" 
+from inadmissible "mental-disease evidence," i.e., "opinion 
+testimony that [the defendant] suffered from a mental disease 
+with features described by the witness"). HN5 [ ] We do not 
+address an argument made for the first time on appeal. See State 
+v. Flores, 160 Ariz. 235, 238, 772 P.2d 589, 592 (App. 1989).
+P19 Millis's reliance on State v. Christensen, 129 Ariz. 32, 628 P.2d 
+580 (1981), is unavailing. In that case our supreme court held 
+that expert testimony about the defendant's purported character 
+trait of impulsivity was admissible to rebut the premeditation 
+element of first-degree premeditated murder. Id. at 34-35, 628 
+P.2d at 582-83. But subsequent cases have clarified that 
+Christensen is only applicable in the context of premeditated 
+murder. See Lopez, 234 Ariz. 465, ¶ 22, 323 P.3d at 752. Here, 
+the jury was only instructed on felony murder, not on 
+premeditated murder.
+Duplicitous Charges
+P20 Millis next contends duplicitous charges deprived him of 
+his right to a unanimous jury verdict.5 Specifically, he argues 
+some jurors could have concluded the child died from blunt 
+force head trauma while others could have concluded he died 
+from a lack of oxygen to the brain caused by choking. He did 
+not object on this basis below; therefore, our review is [**12]  
+limited to fundamental error. Henderson, 210 Ariz. 561, ¶¶ 19-20, 
+115 P.3d at 607-08. HN6 [ ] A denial of the right to a 
+5 Millis does not argue he faced a duplicitous indictment. See generally 
+State v. Klokic, 219 Ariz. 241, ¶¶ 10-13, 196 P.3d 844, 846-47 (App. 
+2008) (distinguishing between duplicitous indictment and duplicitous 
+charge).
+391 P.3d 1225, *1230 ; 2017 Ariz. App. LEXIS 35, **8
+Page 6 of 8
+unanimous jury verdict constitutes fundamental prejudicial 
+error. See State v. Delgado, 232 Ariz. 182, ¶ 19, 303 P.3d 76, 82 
+(App. 2013).
+P21 HN7 [ ] The right to a unanimous jury verdict is 
+established in the Arizona Constitution. Ariz. Const. art. II, § 
+23. In the context of statutes describing offenses that may be 
+committed in multiple ways—sometimes referred to as 
+"alternative-means" or "single unified offense" statutes—the 
+jury must be unanimous as to whether the charged criminal act 
+has been committed. State v. West, 238 Ariz. 482, ¶¶ 13, 19, 362 
+P.3d 1049, 1055, 1056 (App. 2015). "However, 'the defendant is 
+not entitled to a unanimous verdict on the precise manner in 
+which the act was committed'"  [*1232]  as long as there is 
+substantial evidence to support each of the charged means of 
+commission. Id. ¶¶ 13, 15, quoting State v. Herrera, 176 Ariz. 9, 16, 
+859 P.2d 119, 126 (1993). The jury may reach a verdict "based 
+on a combination of alternative findings." Id. ¶ 13, quoting State v. 
+Dann, 220 Ariz. 351, ¶ 79, 207 P.3d 604, 620 (2009).
+P22 HN8 [ ] First-degree murder is a single unified offense. 
+See, e.g., State v. Tucker, 205 Ariz. 157, ¶¶ 50-51, 68 P.3d 110, 120 
+(2003), citing Schad v. Arizona, 501 U.S. 624, 643-45, 111 S. Ct. 
+2491, 115 L. Ed. 2d 555 (1991); see also State v. Gomez, 211 Ariz. 
+494, n.3, 123 P.3d 1131, 1135 n.3 (2005) (affirming conviction 
+where six jurors found first-degree felony murder and six found 
+first-degree premeditated murder). It is unified because the 
+harm the murder statutes seek to prevent is the same—the 
+death itself. See State v. O'Laughlin, 239 Ariz. 398, ¶¶ 7-9, 372 
+P.3d 342, 345-46 (App. 2016) (distinction between statutes 
+describing single unified offense rather [**13]  than multiple 
+offenses "often relies on the harm resulting from the crime"). 
+Thus, jury unanimity is not required about the precise 
+mechanism of death. See Schad, 501 U.S. at 631-32, citing Andersen 
+v. United States, 170 U.S. 481, 500, 18 S. Ct. 689, 42 L. Ed. 1116 
+(1898) (immaterial whether murder victim died by shooting or 
+drowning; government need not charge these alternatively); see 
+also State v. Payne, 233 Ariz. 484, ¶ 81, 314 P.3d 1239, 1263 
+(2013) ("jury need not be unanimous as to the theory of first 
+degree murder as long as all agree that the murder was 
+committed"), quoting Gomez, 211 Ariz. 494, n.3, 123 P.3d at 1135 
+n.3.
+P23 Similarly, HN9 [ ] child abuse under circumstances likely 
+to produce death or serious physical injury pursuant to A.R.S. § 
+13-3623(A) is also a single unified offense. West, 238 Ariz. 482, 
+¶¶ 19-22, 362 P.3d at 1056-57. Although the crime can be 
+committed in three different ways, the statute "focuses on a 
+single harm to the victim." Id. ¶ 21, quoting State v. Paredes-Solano, 
+223 Ariz. 284, ¶ 14, 222 P.3d 900, 906 (App. 2009); see Payne, 
+233 Ariz. 484, ¶¶ 80, 88, 90, 314 P.3d at 1262, 1263-64 (whether 
+committed by failing to feed or failing to provide medical care, 
+child abuse is "only one crime"). Thus, a child abuse defendant does not have a right to jury unanimity as to "the precise 
+manner in which the act was committed." West, 238 Ariz. 482, ¶ 
+30, 362 P.3d at 1059, quoting Herrera, 176 Ariz. at 16, 859 P.2d at 
+126.
+P24 Here, the trial court instructed the jury that in order to 
+convict Millis of first-degree felony murder, the state was 
+required to prove (1) the victim's death occurred in the course 
+of and in furtherance of the predicate felony (intentional [**14]  
+or knowing child abuse under circumstances likely to produce 
+death or serious physical injury), (2) "the death was proximately 
+caused by the acts of the defendant,"6 and (3) "but for the 
+defendant's conduct, the death would not have occurred." Millis 
+is correct that some jurors may have concluded he intentionally 
+or knowingly choked the child causing his death, while others 
+may have concluded he intentionally or knowingly inflicted head 
+trauma to cause death. But he was not entitled to a unanimous 
+verdict as to the means of commission of child abuse, nor of 
+first degree murder. Id. ¶ 46; see also Payne, 233 Ariz. 484, ¶¶ 88, 
+90, 314 P.3d at 1263-64. Furthermore, the state presented 
+substantial evidence to support all three alternative means of 
+child abuse. See West, 238 Ariz. 482, ¶ 30, 362 P.3d at 1059, citing 
+State v. Forrester, 134 Ariz. 444, 447, 657 P.2d 432, 435 (1982). 
+No duplicity error occurred.
+P25 Millis argues even if child abuse under § 13-3623(A)(1) is a 
+single unified offense, he suffered a duplicitous charge pursuant 
+State v. Klokic, 219 Ariz. 241, 196 P.3d 844 (App. 2008), because 
+the state introduced evidence of multiple acts to support the 
+child abuse charge that were not part of the same criminal 
+transaction. In West, a recent case also dealing with fatal child 
+abuse pursuant to § 13-3623(A), we considered and rejected this 
+argument. 238 Ariz. 482, ¶¶ 31-39, 362 P.3d at 1059-61. We 
+held the multiple-acts analysis in Klokic is generally 
+inapplicable [**15]  to cases involving a single unified offense 
+such as child abuse under § 13-3623(A). See West,  [*1233]  238 
+Ariz. 482, ¶¶ 38-39, 362 P.3d at 1061. Here, as in West, the state 
+had little choice but to allege the multiple acts because "it did 
+not know the precise timing and nature of the injury leading to 
+[C.K.'s] death." Id. ¶ 45. Moreover, as in West, even if the state 
+alleged multiple acts to support the child abuse charge, these 
+acts "'only caused a single result'—[C.K.'s] death—and were 
+part of a 'single criminal undertaking'" occurring over the course 
+of a single afternoon and evening. Id., quoting Klokic, 219 Ariz. 
+241, ¶ 28, 196 P.3d at 850; see also Payne, 233 Ariz. 484, ¶¶ 88, 90, 
+314 P.3d at 1263-64 (child abuse "only one crime"; jury 
+unanimity not required as to whether offense committed by 
+failing to feed or failing to seek medical attention).
+P26 Finally, even if a duplicity error had occurred, Millis has not 
+met his burden of showing prejudice. Henderson, 210 Ariz. 561, ¶ 
+6 The instruction went on to define proximate causation.
+391 P.3d 1225, *1231 ; 2017 Ariz. App. LEXIS 35, **12
+Page 7 of 8
+20, 115 P.3d at 607. First, as to the child abuse charge, 
+regardless of whether the choking actually caused death, no 
+reasonable juror could have failed to find that Millis knowingly 
+or intentionally choked C.K.7 Cf. Payne, 233 Ariz. 484, ¶ 90, 314 
+P.3d at 1264 (no reasonable jury could have failed to find 
+defendant guilty of child abuse for failing to seek medical care). 
+Millis repeatedly admitted choking C.K. so that he would stop 
+crying, and the jury [**16]  reasonably could have concluded 
+that the bruises wrapping around C.K.'s neck were inflicted 
+while Millis alone was watching him. And second, as to the first-
+degree murder charge, even if some jurors believed the choking 
+Millis admitted was a but-for cause of death, while others 
+believed the choking was not a cause of death but believed 
+Millis knowingly or intentionally inflicted the blunt force trauma 
+and that it caused C.K.'s death, Millis had no right to jury 
+unanimity as to the means of commission of murder. See Schad, 
+501 U.S. at 631-32.
+Victim's Use of Facility Dog at Trial
+P27 Millis argues the trial court denied him due process and a 
+fair trial by allowing a facility dog and its handler to sit beside 
+S.F. during the trial. HN10 [ ] In keeping with the trial court's 
+"broad discretion" in managing trial conduct, State v. Cornell, 179 
+Ariz. 314, 332, 878 P.2d 1352, 1370 (1994), this court will not 
+disturb a trial court's ruling regarding the use of a facility dog 
+absent an abuse of discretion, see State v. Dye, 178 Wn.2d 541, 
+309 P.3d 1192, ¶¶ 14-15, 19, 32 (Wash. 2013) (en banc) (ruling 
+allowing facility dog to accompany witness reviewed for abuse 
+of discretion).
+P28 Following S.F.'s appearance at various pretrial hearings 
+accompanied by a facility dog named "Blake," Millis brought a 
+motion in limine to preclude Blake's presence at trial. He 
+argued [**17]  Arizona crime-victim law gives a victim a right to 
+be accompanied by a support person, not a support animal, and 
+that the dog would unfairly prejudice him by inviting the jury to 
+base its decision on emotion or sympathy. The state argued 
+Blake would not prejudice Millis, and would help S.F. testify in 
+the midst of difficult circumstances. After a hearing, the trial 
+court found that the dog's presence would not unfairly prejudice 
+Millis. Although the judge expressed a personal preference that 
+Blake not be present, she saw no "legal basis" to exclude the 
+dog and denied the motion. Millis moved for reconsideration, 
+and the court denied that motion as well.8 Blake did not 
+7 The knowing or intentional mens rea for child abuse under § 13-
+3623(A)(1) applies only to the defendant's actions, not to the "under 
+circumstances likely to produce death or serious physical injury" prong. 
+See Payne, 233 Ariz. 484, ¶¶ 69-71, 314 P.3d at 1260-61.
+8 In his motion for reconsideration, Millis argued in the alternative that accompany S.F. while she testified, but only while she sat in the 
+gallery.
+P29 The state argues we should review the due process aspect 
+of Millis's claim for fundamental error, citing Henderson, 210 
+Ariz. 561, ¶¶ 19-20, 115 P.3d at 607-08. But  [*1234]  Millis 
+objected to Blake's presence at trial in his motion in limine, and 
+argued repeatedly that the dog would unfairly prejudice the jury 
+against him. His motion and argument were sufficient to present 
+the issue of trial fairness to the trial court, even if he never 
+invoked the words "due process" or "fair trial." See State v. 
+Foshay, 239 Ariz. 271, ¶¶ 27-28, 370 P.3d 618, 624 (App. 2016). 
+Accordingly, [**18]  we review for harmless error. See Henderson, 
+210 Ariz. 561, ¶ 18, 115 P.3d at 607 ( HN11 [ ] harmless error 
+review places burden on state to prove beyond reasonable doubt 
+error did not contribute to or affect verdict or sentence).
+P30 As Millis observed in his motion in limine, HN12 [ ] Rule 
+39(b), Ariz. R. Crim. P., gives a crime victim9 the right to be 
+accompanied at interviews, depositions, and court proceedings 
+by a parent, relative, or other "appropriate support person," Ariz. 
+R. Crim. P. 39(b)(8)-(9) (emphasis added), but is silent about 
+whether the victim may be accompanied by a support animal. At 
+the time of Millis's trial, no Arizona statute discussed the use of 
+a facility dog in the courtroom. Nor is there any Arizona case 
+law on the subject.
+P31 Several other states, however, have considered the question 
+and at least five have approved the use of dogs to accompany 
+witnesses under appropriate circumstances. See People v. Chenault, 
+227 Cal. App. 4th 1503, 175 Cal. Rptr. 3d 1, 9-12 (Ct. App. 
+2014); People v. Spence, 212 Cal. App. 4th 478, 151 Cal. Rptr. 3d 
+374, 404-06 (Ct. App. 2012); State v. Devon D., 321 Conn. 656, 
+138 A.3d 849, 864-67 (Conn. 2016); People v. Tohom, 109 A.D.3d 
+253, 969 N.Y.S.2d 123, 131-37 (App. Div. 2013); State v. Jacobs, 
+2015-Ohio-4353, ¶¶ 19-28, 2015 WL 6180908 (Ohio Ct. App. 
+2015); Dye, 309 P.3d 1192, ¶¶ 17-32.10
+he too should be allowed to have a dog with him during trial as a 
+matter of equal protection. The state did not oppose Millis's request, 
+but when the trial court asked Millis if having a dog with him at trial 
+would actually comfort him, he said he did not think so and he did not 
+need one. The court then denied Millis's request. He does not challenge 
+this ruling on appeal, nor does he raise an equal protection argument.
+9 It is undisputed that S.F., as C.K.'s mother, is a "victim" under 
+Arizona law. Ariz. Const. art. II, § 2.1(C); A.R.S. § 13-4401(19); Ariz. R. 
+Crim. P. 39(a)(1).
+10 Dye involved a developmentally disabled adult victim with an IQ of 
+65 and a mental age ranging from six to twelve years old who was "very 
+scared" to testify about burglaries of his home. 309 P.3d 1192, ¶¶ 2-6, 
+9-10, 26. All of the other cases cited involved minor victims testifying 
+about sexual abuse.
+391 P.3d 1225, *1233 ; 2017 Ariz. App. LEXIS 35, **15
+Page 8 of 8
+P32 Millis first asserts that a dog accompanying a victim is 
+"presumptively prejudicial" so as to jeopardize a fair trial in 
+every case, and contends it "present[s] a nonevidentiary 
+message" to the jury that the witness is an innocent victim. 
+Other courts have rejected these arguments, as do we. See 
+Chenault, 175 Cal. Rptr. 3d at 10 (support dog not inherently 
+prejudicial, just as support person not inherently 
+prejudicial); [**19]  Tohom, 969 N.Y.S.2d at 134 (no prejudice 
+from "the concededly unobtrusive presence of the dog in the 
+courtroom"). Since the time of Millis's trial, our own legislature 
+has endorsed the use of facility dogs in certain circumstances. 
+Section 13-4442, A.R.S., which came into effect after Millis filed 
+his opening brief in this appeal, governs the use of such dogs 
+for crime victims testifying in court. Among other things, it 
+gives the court discretion to allow an adult crime victim to be 
+accompanied by a dog.11 § 13-4442(B). Although § 13-4442 was 
+not in effect at the time of Millis's trial, it shows the policy of 
+the State of Arizona to accommodate crime victims' use of a 
+dog. See Taylor v. Graham Cty. Chamber of Commerce, 201 Ariz. 184, 
+¶ 27, 33 P.3d 518, 525 (App. 2001) ( HN13 [ ] "[W]hen . . . the 
+legislature has clearly spoken on a matter within its domain, its 
+word constitutes public policy on that subject and controls, 
+assuming no constitutional impediments exist."). Moreover, 
+there is no indication that this policy contaminates a fair trial in 
+every case. Cf. Dye, 309 P.3d 1192, ¶¶ 29-30 (no indication in 
+record that facility dog actually engaged in any prejudicial 
+behavior; court would not "speculate about what might have 
+happened at trial").
+P33 Millis further argues the trial court failed to inquire into and 
+weigh the appropriate factors to determine whether a facility 
+dog was appropriate [**20]  in this particular case and for this 
+particular victim, in an abdication of its role in exercising 
+discretion. See State v. Garza, 192 Ariz. 171, ¶ 16, 962 P.2d 898, 
+902 (1998) (failure to exercise discretion  [*1235]  may 
+constitute abuse of discretion). He notes that other jurisdictions 
+typically allow facility dogs for children or developmentally 
+disabled adult witnesses whose testimony might otherwise be 
+unavailable, and argues the state made no particularized showing 
+of why S.F.—an adult with no apparent disability—needed one. 
+However, the record indicates that the court considered factors 
+relevant to its discretionary balancing of potential benefits and 
+potential prejudices from a dog. For instance, the court was 
+informed that Blake would not accompany S.F. at the witness 
+stand, but would only sit with her in the gallery. This supports 
+the court's finding that the use of the dog would not unfairly 
+prejudice Millis, because the animal would have been less visible 
+and prominent to the jury in the gallery than it would have at 
+11 The statute also requires a jury instruction in cases involving a facility 
+dog, in order "[t]o ensure that the presence of [the] facility dog . . . does 
+not influence the jury or is not a reflection on the truthfulness of any 
+testimony" the witness offers. § 13-4442(C).the witness stand. Cf. Devon D., 138 A.3d at 863 (trial court 
+approved presence of dog at witness stand but ordered that dog 
+be placed such that jury would not see it). The trial court also 
+implicitly found that Blake would help prevent undue 
+stress [**21]  for S.F. during a difficult trial about the death of 
+her infant son.12 See Ariz. R. Evid. 611(a)(3). The court did not 
+abandon its duty to exercise discretion, nor did it abuse its 
+discretion.
+Disposition
+P34 We affirm Millis's convictions and sentences for the reasons 
+stated above.
+End of Document
+12 The factors the trial court considered in exercising its discretion in 
+this case are not the only factors a court may properly consider in 
+determining whether to allow witness accommodations, nor are they 
+necessary considerations in every case.
+391 P.3d 1225, *1234 ; 2017 Ariz. App. LEXIS 35, **18

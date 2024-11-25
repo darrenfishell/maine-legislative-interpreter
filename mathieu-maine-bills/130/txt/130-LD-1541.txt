@@ -1,0 +1,761 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1541
+H.P. 1146 House of  Representatives,  April 22, 2021
+An Act  To Support  and Improve Municipal Recycling Programs 
+and Save Taxpayer Money
+Received by the Clerk of the House on April  20, 2021.  Referred to  the Committee  on 
+Environment and  Natural  Resources pursuant to Joint  Rule  308.2 and  ordered printed  pursuant 
+to Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GROHOSKI of Ellsworth.
+Cosponsored by Senator BENNETT of Oxford and
+Representatives: HANLEY of Pittston, KESSLER of South Portland, PLUECKER of Warren, SKOLFIELD of Weld, ZEIGLER of Montville, Senators: BREEN of Cumberland,  BRENNER 
+of Cumberland, CARNEY of Cumberland.
+
+Page 1 - 130LR1620(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA §2146 is enacted to read:
+3§2146.  Stewardship program for packaging
+41.  Definitions.     As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Alternative collection program" means a program for the management of 
+7 packaging material that is operated by an individual producer or group of producers 
+8 and that has been approved by the department in accordance with subsection 8.
+9 B.  "Brand" has the same meaning as in section 1771, subsection 1.
+10 C.  "Collection" means the gathering of waste, including the preliminary sorting and 
+11 storage of waste for the purposes of transport to a recycling establishment.
+12 D.  "Franchisee" means a person that is granted a franchise by a franchisor authorizing 
+13 the use of the franchisor's trade name, service mark or related characteristic and the 
+14 sharing of the franchisor's proprietary knowledge or processes pursuant to an oral or 
+15 written arrangement for a definite or indefinite period.
+16 E.  "Franchisor" means a person that grants to a franchisee a franchise authorizing the 
+17 use of the person's trade name, service mark or related characteristic and the sharing of 
+18 the person's proprietary knowledge or processes pursuant to an oral or written 
+19 arrangement for a definite or indefinite period.
+20 F. "Low-volume producer" means a producer that sold, offered for sale or distributed 
+21 for sale in or into the State during the prior calendar year products contained, protected, 
+22 delivered, presented or distributed in or using more than one ton but less than 15 tons 
+23 of packaging material in total.  
+24 G.  "Municipality" means a city, town, county, township, village or plantation; a refuse 
+25 disposal district under chapter 17; or a regional association.
+26 H.  "Packaging material" means a discrete type of material, or a category of material 
+27 that includes multiple discrete types of material with similar management requirements 
+28 and similar commodity values, used for the containment, protection, delivery, 
+29 presentation or distribution of a product, including a product sold over the Internet, at 
+30 the time that the product leaves a point of sale with or is received by the consumer of 
+31 the product.  "Packaging material" does not include a discrete type of material, or a 
+32 category of material that includes multiple discrete types of material, that is:
+33 (1)  Intended to be used for the long-term storage or protection of a durable product 
+34 and that can be expected to be usable for that purpose for a period of at least 5 
+35 years;
+36 (2)  A beverage container, as defined in section 3102, subsection 2, subject to the 
+37 requirements of chapter 33; or
+38 (3)  A container for architectural paint, as defined in section 2144, subsection 1, 
+39 paragraph A, that is collected through a paint stewardship program that is in 
+40 operation and that has been approved by the department pursuant to section 2144, 
+41 as long as the stewardship organization operating that program:
+Page 2 - 130LR1620(01)1 (a)  Has demonstrated to the department's satisfaction that it recycles at least 
+2 90% of the containers of architectural paint collected under the program; or
+3 (b)  Subject to the approval of the department, if unable to satisfy the 
+4 requirements of division (a), has demonstrated to the department's satisfaction 
+5 that it recycles at least 80% of the containers of architectural paint collected 
+6 under the program.
+7 I.  "Packaging stewardship fund" or "fund" means a privately held account established 
+8 and managed by the stewardship organization pursuant to subsection 12.
+9 J.  "Packaging stewardship organization" or "stewardship organization" means the 
+10 entity contracted by the department under subsection 3 to operate the packaging 
+11 stewardship program.
+12 K.  "Packaging stewardship program" or "program" means the program implemented 
+13 under this section by the stewardship organization to assess and collect payments from 
+14 producers based on the weight of packaging material sold, offered for sale or 
+15 distributed for sale in or into the State by each producer and to reimburse participating 
+16 municipalities for certain municipal recycling and waste management costs. 
+17 L.  "Participating municipality" means a municipality that has complied with the 
+18 requirements of subsection 9 and is eligible for reimbursement of certain costs in 
+19 accordance with subsection 10. 
+20 M.  "Post-consumer recycled material" means new material produced using material 
+21 resulting from the recovery, separation, collection and reprocessing of material that 
+22 would otherwise be disposed of or processed as waste and that was originally sold for 
+23 consumption.  "Post-consumer recycled material" does not include post-industrial 
+24 material or pre-consumer material.
+25 N.  "Producer" means a person that:
+26 (1) Has legal ownership of the brand of a product sold, offered for sale or 
+27 distributed for sale in or into the State contained, protected, delivered, presented or 
+28 distributed in or using packaging material; or
+29 (2) Imports into the State for sale, offer for sale or distribution for sale in or into 
+30 the State a product contained, protected, delivered, presented or distributed in or 
+31 using packaging material that is branded by a person that meets the requirements 
+32 of subparagraph (1) and has no physical presence in the United States.
+33 "Producer" includes a low-volume producer and a franchisor of a franchise located in 
+34 the State, but does not include the franchisee operating that franchise.  "Producer" does 
+35 not include a nonprofit organization exempt from taxation under the United States 
+36 Internal Revenue Code, Section 501(c)(3).
+37 O.  "Proprietary information" has the same meaning as in section 1771, subsection 6-A.
+38 P.  "Readily recyclable" means, with respect to a type of packaging material, that the 
+39 type of packaging material, as determined by the department by rule:
+40 (1)  Can be sorted by entities that process recyclable material generated in the State; 
+41 and
+Page 3 - 130LR1620(01)1 (2)  Has a consistent market for purchase.  For the purposes of this subparagraph, 
+2 "consistent market for purchase" means, with respect to a type of packaging 
+3 material, that entities processing recyclable material are willing to purchase full 
+4 bales of that type of fully sorted packaging material in quantities equal to or in 
+5 excess of the supply of that fully sorted packaging material.
+6 "Readily recyclable" does not include types of packaging material that entities that 
+7 process recyclable material generally accept only in small quantities or that such 
+8 entities typically sort out from other recyclable material during processing.
+9 Q.  "Recycling" has the same meaning as in section 1771, subsection 7.
+10 R.  "Reuse" has the same meaning as in section 1771, subsection 8.
+11 S.  "Similar municipalities" means 2 or more municipalities that, as determined by 
+12 department rule in accordance with rules adopted pursuant to subsection 13, paragraph 
+13 A, subparagraph (3), have similar population sizes, geographic locations, proximity to 
+14 resources and regional recycling capacity and other factors determined by the 
+15 department to affect the costs associated with the collection, processing, transportation 
+16 and recycling or disposal of packaging material by municipalities. 
+17 T.  "Toxicity" means, with respect to packaging material, the presence in packaging 
+18 material or the use in the manufacturing, recycling or disposal of packaging material 
+19 of intentionally introduced metals or chemicals regulated pursuant to Title 32, chapter 
+20 26-A; food contact chemicals of high concern or priority food contact chemicals 
+21 regulated pursuant to Title 32, chapter 26-B; or chemicals of concern, chemicals of 
+22 high concern or priority chemicals identified pursuant to chapter 16-D.
+232.  Producer exemptions.  Notwithstanding any provision of this section to the 
+24 contrary, a producer is exempt from the requirements and prohibitions of this section in 
+25 any calendar year in which:
+26 A.  The producer realized less than $2,000,000 in total gross revenue during the prior 
+27 calendar year;
+28 B.  The producer sold, offered for sale or distributed for sale in or into the State during 
+29 the prior calendar year products contained, protected, delivered, presented or 
+30 distributed in or using less than one ton of packaging material in total; or
+31 C.  The producer realized more than 50% of its total gross revenue in the prior calendar 
+32 year from the sale of goods it acquired through insurance salvages, closeouts, 
+33 bankruptcies and liquidations. 
+34 A producer claiming an exemption under this subsection shall provide to the department 
+35 sufficient information to demonstrate that the producer meets the requirements for an 
+36 exemption under this subsection within 30 days of receiving a request from the department 
+37 to provide such information.
+383.  Selection of stewardship organization; contract.  Consistent with the 
+39 requirements of this subsection, the department shall select and enter into a contract with a 
+40 packaging stewardship organization to operate the packaging stewardship program under 
+41 this section.
+42 A.  No later than May 1, 2022, and consistent with applicable competitive bidding 
+43 requirements under state purchasing laws, the department shall issue a request for 
+Page 4 - 130LR1620(01)44 proposals for the operation of the packaging stewardship program by a packaging 
+45 stewardship organization. The proposals must be required to cover a 10-year operation 
+46 of the packaging stewardship program by the successful bidder and must be required 
+47 to include, at a minimum:
+5 (1)  A description of how the bidder will administer the stewardship organization, 
+6 including:
+7 (a)  The mechanism or process, to be developed with input from producers, by 
+8 which a producer may request and receive assistance from the stewardship 
+9 organization in the reporting of required information and regarding methods 
+10 by which the packaging material used by a producer may be modified so as to 
+11 reduce the producer's payment obligations under subsection 6; and
+12 (b)  The mechanism or process, to be developed with input from municipalities, 
+13 by which a participating municipality may request and receive assistance from 
+14 the stewardship organization in the reporting of required information and 
+15 regarding methods by which a municipality's recycling program may be 
+16 modified so as to increase access to and participation in the program; 
+17 (2)  A description of how the bidder intends to solicit and consider input from 
+18 interested persons, including, but not limited to, producers, municipalities, 
+19 environmental organizations and waste management and recycling establishments, 
+20 regarding the bidder's operation of the packaging stewardship program, if selected;
+21 (3)  A description of how the bidder intends to establish and manage the packaging 
+22 stewardship fund consistent with subsection 12, including, but not limited to: the 
+23 staffing the bidder intends to use for management of the fund; a plan to ensure 
+24 equity of access to the fund for financially challenged or otherwise disadvantaged 
+25 municipalities or communities; a plan for providing technical support to producers 
+26 and municipalities regarding program requirements; and a plan for administering 
+27 payments to and reimbursements from the fund and the financial mechanisms, 
+28 including investment types, if any, the bidder intends to use in managing the fund;
+29 (4)  A proposed financial assurance plan that ensures all funds held in the 
+30 packaging stewardship fund are immediately and exclusively forfeited and 
+31 transferred to or otherwise made immediately available to the department to 
+32 support waste diversion, reuse or recycling programs when the stewardship 
+33 organization's contract with the department is terminated by the department or 
+34 expires, unless the stewardship organization enters into a new contract with the 
+35 department in accordance with paragraph B prior to the expiration of the 
+36 stewardship organization's existing contract;
+37 (5)  A proposed budget outlining the anticipated costs of operating the packaging 
+38 stewardship program, including identification of any start-up costs that will not be 
+39 ongoing and a description of the method by which the bidder intends to determine 
+40 and collect producer payments during the initial start-up period of program 
+41 operation to fund the program's operational costs during that initial start-up period 
+42 and to reimburse or require additional payments by those producers subsequent to 
+43 that initial start-up period based on producer reporting of the actual amount of 
+44 packaging material sold, offered for sale or distributed for sale in or into the State 
+45 by each producer during that initial start-up period. The proposed budget under this 1
+2
+3
+4
+Page 5 - 130LR1620(01)46 subparagraph may overestimate the cost of operating the program during its initial 
+47 start-up period of operation but must describe the method and basis for any 
+48 overestimate;
+4 (6)  A certification that the bidder will not share, except with the department, 
+5 information provided to the bidder by a producer that is proprietary information 
+6 and that is identified by the producer as proprietary information. The certification 
+7 must include a description of the methods by which the bidder intends to ensure 
+8 the confidentiality of such information;
+9 (7)  A description of how the bidder will conduct representative audits of recyclable 
+10 material processed and sold by facilities that process recyclable material generated 
+11 in the State, which must include, but is not limited to:
+12 (a)  A description of the sampling techniques to be used in those audits, which 
+13 must include random sampling;
+14 (b)  A description of how those audits, at a minimum, will be designed to solicit 
+15 information regarding the extent to which recyclable material processed and 
+16 sold by those facilities reflects the tons of each type of packaging material 
+17 collected in the State for recycling and the tons of each type of packaging 
+18 material recycled in the State, as well as the ultimate destination of and 
+19 intended use for that recycled material;
+20 (c)  A description of how those audits will be designed so that information 
+21 obtained through the audit of one facility will not be used to infer information 
+22 about a different facility that uses different processing equipment, different 
+23 sorting processes or different staffing levels to conduct such processing; and 
+24 (d)  A description of the process by which a facility will be allowed to request 
+25 and receive an audit if it can credibly demonstrate that an audit result being 
+26 applied to its material output is not representative of its current operations;
+27 (8)  A description of how the bidder will conduct representative audits of municipal 
+28 solid waste disposed of in the State and representative audits of waste littered in 
+29 the State, which must include, but is not limited to:
+30 (a)  A description of the sampling techniques to be used in those audits, which 
+31 must include random sampling;
+32 (b)  For waste disposal audits, a description of the types and weight of 
+33 packaging material in the waste stream and the percentage by weight and 
+34 volume of the waste stream that is composed of packaging material; and 
+35 (c)  For litter audits, a description of packaging material type by weight in the 
+36 sampled litter, identification of the producer or producers of the packaging 
+37 material in the sampled litter, if identifiable, and an evaluation based on those 
+38 audits regarding the areas of the State in which litter accumulation is greatest; 
+39 and 
+40 (9)  Any additional information required by the department.
+41 B.  In accordance with applicable requirements of state purchasing laws, the 
+42 department shall enter into a contract with a bidder that has submitted a proposal in 
+43 accordance with the requirements of this subsection, the term of which must cover 10 1
+2
+3
+Page 6 - 130LR1620(01)44 years of operation of the packaging stewardship program by the stewardship 
+45 organization. The contract must, at a minimum, include provisions to ensure that the 
+46 stewardship organization will operate the program in accordance with all applicable 
+47 statutory requirements and the rules adopted by the department under this section. 
+5 If, at the close of the competitive bidding process under this subsection, the department 
+6 determines that no bidder has submitted, in accordance with this subsection, a proposal that 
+7 meets the requirements of this subsection, the department may reopen a new competitive 
+8 bidding process under this subsection.
+94. Prohibition; producer compliance information.  This subsection governs the sale 
+10 or distribution in the State of products with packaging not in compliance with the 
+11 requirements of this section and sets forth requirements for the collection and publication 
+12 of compliance information.
+13 A.  Beginning one calendar year following the effective date of the contract entered 
+14 into by the department and the stewardship organization pursuant to subsection 3:
+15 (1)  A producer may not sell, offer for sale or distribute for sale in or into the State 
+16 a product contained, protected, delivered, presented or distributed in or using 
+17 packaging material for which the producer has not complied with all applicable 
+18 requirements of this section; and
+19 (2)  A retailer may not sell, offer for sale or distribute for sale in or into the State a 
+20 product contained, protected, delivered, presented or distributed in or using 
+21 packaging material if, based on the information made available by the department 
+22 pursuant to paragraph C, the product is contained, protected, delivered, presented 
+23 or distributed in or using packaging material for which its producer has not 
+24 complied with all applicable requirements of this section.
+25 B.  At the department's request, the stewardship organization shall provide to the 
+26 department a list of producers that are participating in the program and are compliant 
+27 with the program's requirements and, if known to the stewardship organization, a list 
+28 of producers that are not participating in the program and are not compliant with the 
+29 program's requirements. 
+30 C.  Based on information provided to the department under paragraph B and any other 
+31 information considered by the department, the department shall make available on its 
+32 publicly accessible website a regularly updated list of producers that the department 
+33 has determined are compliant with all applicable requirements of this section and a list 
+34 of producers and, where applicable, specific products for which the department has 
+35 determined the producer has not complied with all applicable requirements of this 
+36 section.  The department shall conduct outreach to retailers to provide notification of 
+37 the information made available under this paragraph and any changes to that 
+38 information.
+395.  Annual reporting by stewardship organization.  Beginning one calendar year 
+40 following the effective date of the contract entered into by the department and the 
+41 stewardship organization pursuant to subsection 3, and annually thereafter, the stewardship 
+42 organization shall submit to the department and make available on its publicly accessible 
+43 website a report that includes, at a minimum, the following information:
+44 A.  Contact information for the stewardship organization;1
+2
+3
+4
+Page 7 - 130LR1620(01)1 B.  A list of participating producers and the brands of products associated with those 
+2 producers;
+3 C.  The total weight of each type of packaging material sold, offered for sale or 
+4 distributed for sale in or into the State by each participating producer as reported in 
+5 accordance with subsection 7;
+6 D.  As applicable, the total weight of each type of packaging material collected and 
+7 managed by each participating producer through alternative collection programs 
+8 approved by the department under subsection 8;
+9 E.  A complete accounting of payments made to and by the stewardship organization 
+10 during the prior calendar year, including information on how the stewardship 
+11 organization determined the amount of such payments in accordance with subsections 
+12 6 and 10 and the rules adopted under subsection 13, paragraph A, subparagraphs (1) 
+13 and (4);
+14 F.  A list of producers that are not participating in the program that are required to 
+15 participate in the program and any product-specific noncompliance, if known by the 
+16 stewardship organization;
+17 G.  A description of education and infrastructure investments made by the stewardship 
+18 organization in prior calendar years and an evaluation of how those investments were 
+19 designed to increase access to recycling in the State and to encourage the reuse of 
+20 packaging material; 
+21 H.  A description of the results of the representative audits required pursuant to 
+22 subsection 3, paragraph A, subparagraphs (7) and (8);
+23 I.  An assessment of the progress made toward the achievement of any program goals 
+24 required by the department by rule pursuant to subsection 13, paragraph D;  
+25 J.  An assessment of whether the payment schedule for producer payments adopted by 
+26 the department by rule pursuant to subsection 13, paragraph A, subparagraph (1) has 
+27 been successful in incentivizing improvements to the design of packaging material as 
+28 encouraged through the allowance of payment adjustments in accordance with 
+29 subsection 6, paragraph D;
+30 K.  Any proposals for changes to the packaging stewardship program or investments 
+31 in education and infrastructure designed to reduce the amount of packaging material 
+32 used, increase access to recycling, increase the recycling of or recyclability of 
+33 packaging material, reduce program costs or otherwise increase program efficiency, 
+34 which may include an analysis of best practices for municipal recycling programs;
+35 L.  The results of a 3rd-party financial audit of the stewardship organization; and 
+36 M.  Any additional information required by the department.
+376.  Producer payments.  In accordance with the provisions of this subsection and the 
+38 rules adopted by the department, no later than 180 days after the effective date of the 
+39 contract entered into by the department and the stewardship organization pursuant to 
+40 subsection 3, and annually thereafter, a producer shall make payments to the stewardship 
+41 organization to be deposited into the packaging stewardship fund under subsection 12 
+42 based on the net weight of each type of packaging material sold, offered for sale or 
+43 distributed for sale in or into the State by the producer and not managed by the producer 
+Page 8 - 130LR1620(01)44 under an approved alternative collection program.  The department shall adopt rules setting 
+45 forth the manner in which such payments must be calculated, which must include, but are 
+46 not limited to, provisions that:
+4 A.  Require the amount of a producer's payment to include that producer's share of the 
+5 program's operational costs as set forth in the proposed budget under subsection 3, 
+6 paragraph A, subparagraph (5) and that producer's share of the administrative and 
+7 enforcement costs incurred by the department pursuant to this section;
+8 B.  Require the amount of a producer's payment to reflect the per-ton costs associated 
+9 with the collection, processing, transportation and recycling or disposal of the 
+10 producer's packaging material by municipalities and the costs associated with 
+11 increasing access to recycling of that packaging material type through investments in 
+12 infrastructure and education under subsection 11;
+13 C.  Allow a low-volume producer to elect to pay a flat fee in lieu of a material-specific 
+14 producer payment calculated pursuant to this subsection, provided that a producer 
+15 seeking to pay a flat fee as a low-volume producer pursuant to this paragraph must 
+16 submit to the department the information necessary to demonstrate that the producer 
+17 meets the definition of "low-volume producer."  The department may adopt rules that 
+18 relieve a producer from paying fees under this subsection with respect to packaging 
+19 material acquired by the producer through insurance salvage, closeout, bankruptcy or 
+20 liquidation; and
+21 D.  Through an adjustment of a producer's payment responsibility calculated in 
+22 accordance with this subsection and subsection 13, paragraph A, subparagraph (1), 
+23 encourage packaging material waste reduction; the reuse of packaging material; the use 
+24 of readily recyclable materials in packaging material; the reduction of the toxicity of 
+25 packaging material; the use of post-consumer recycled material in packaging material 
+26 provided that such use does not increase the toxicity of packaging material; the 
+27 reduction of litter from packaging material; the use of single-material packaging that 
+28 includes prominent and easily understandable recycling or disposal instructions for 
+29 consumers or other design characteristics intended to reduce consumer confusion 
+30 regarding recyclability and to reduce recycling contamination; any other incentives 
+31 designed to support the management of packaging material consistent with the solid 
+32 waste management hierarchy in section 2101.
+33 Unless otherwise approved by the stewardship organization, a producer, other than a low-
+34 volume producer, that makes a payment required pursuant to this subsection shall submit 
+35 the payment to the stewardship organization at the same time that it submits its annual 
+36 report to the stewardship organization required pursuant to subsection 7. 
+377.  Annual reporting by producers.  Beginning no later than 180 days after the 
+38 effective date of the contract entered into by the department and the stewardship 
+39 organization pursuant to subsection 3, and annually thereafter, a producer shall report to 
+40 the stewardship organization the total weight of each type of packaging material sold, 
+41 offered for sale or distributed for sale in or into the State by the producer in the prior 
+42 calendar year.  
+43 A.  The report must include a description of the methods used by the producer in 
+44 determining the amounts reported for each type of packaging material, a description of 
+45 the characteristics of each type of packaging material reported that are relevant to the 1
+2
+3
+Page 9 - 130LR1620(01)46 payment adjustment criteria adopted by the department by rule pursuant to subsection 
+47 6, paragraph D and a list of all of the producer's brands associated with each type of 
+48 packaging material. 
+4 B.  A low-volume producer that elects to pay a flat fee determined by the department 
+5 by rule adopted pursuant to subsection 6, paragraph C is not required to submit an 
+6 annual report to the stewardship organization under this subsection.
+7 C.  The department shall adopt rules that authorize a producer that is unable to fully 
+8 satisfy the reporting requirements of this subsection due to a failure to obtain sufficient 
+9 information regarding the characteristics of the packaging material the producer sells, 
+10 offers for sale or distributes for sale in or into the State to alternatively report to the 
+11 stewardship organization an estimate of the total weight of the producer's packaging 
+12 material based on unit quantities, provided that such alternative reporting includes a 
+13 description of the methods used by the producer to calculate such estimates.
+148.  Alternative collection programs.  In accordance with the requirements of this 
+15 subsection and the rules adopted by the department, a producer or group of producers may 
+16 develop and operate an alternative collection program to collect and manage a type or types 
+17 of packaging material sold, offered for sale or distributed for sale in or into the State by the 
+18 producer or producers. A producer that manages a type of packaging material under an 
+19 approved alternative collection program through reuse, recycling and, where approved by 
+20 the department, management of that packaging material through incineration may wholly 
+21 or partially offset the producer's payment obligations under the packaging stewardship 
+22 program with respect to that same type of packaging material only. 
+23 A.  Beginning on the effective date of the contract entered into by the department and 
+24 the stewardship organization pursuant to subsection 3, a producer or group of producers 
+25 seeking to implement an alternative collection program shall submit a proposal for the 
+26 establishment of that program to the department for approval. The department shall 
+27 approve or deny the proposal within 120 days of receipt and shall provide an 
+28 opportunity for public review and comment on the proposal prior to its approval or 
+29 denial. The department may approve an alternative collection program for a term of 5 
+30 years and, at the expiration of such term, the producer or group of producers operating 
+31 the program may submit an updated proposal to the department for approval.
+32 B.  In determining whether to approve a proposed alternative collection program, the 
+33 department shall consider: 
+34 (1)  Whether the alternative collection program will provide year-round, 
+35 convenient, free, statewide collection opportunities for the types of packaging 
+36 material to be collected under that program;
+37 (2)  To what extent the alternative collection program intends to manage those 
+38 types of packaging material to be collected under the program through reuse for an 
+39 original purpose, through recycling or through disposal at an incineration facility. 
+40 The department may not approve an alternative collection program that proposes 
+41 management of a packaging material type through disposal at an incineration 
+42 facility unless that packaging material is not readily recyclable and the program 
+43 proposes a process to begin reuse or recycling of that type of packaging material 
+44 within a period of 3 years or less;1
+2
+3
+Page 10 - 130LR1620(01)1 (3)  Whether the education and outreach strategies proposed for the alternative 
+2 collection program can be expected to significantly increase consumer awareness 
+3 of the program throughout the State;
+4 (4)  How the alternative collection program intends to accurately measure the 
+5 weight of each packaging material type collected, reused, recycled, disposed of at 
+6 an incineration facility or otherwise managed under the program; and
+7 (5)  To what extent approval of the alternative collection program may 
+8 disproportionately impact any community in the State. 
+9 C.  A proposed modification to an approved alternative collection program must be 
+10 submitted to the department for written approval.  The department shall approve or 
+11 deny a proposed modification based on application of the criteria described in 
+12 paragraph B.  The department may waive payment of any fees associated with review 
+13 and approval of a proposed modification to an approved alternative collection program 
+14 if the review of the proposed modification does not require significant department staff 
+15 time.
+16 D.  Beginning no later than 180 days after the effective date of the contract entered into 
+17 by the department and the stewardship organization pursuant to subsection 3, and 
+18 annually thereafter, a producer or producers managing an approved alternative 
+19 collection program shall report annually to the stewardship organization and to the 
+20 department the following information:
+21 (1)  The total tons of each type of packaging material collected, reused, recycled, 
+22 disposed of at an incineration facility or otherwise managed under the alternative 
+23 collection program in the prior calendar year, including a breakdown of the total 
+24 tons of each type of material to be credited to each producer participating in the 
+25 alternative collection program;
+26 (2)  A list of the collection opportunities in the State for the types of packaging 
+27 material managed under the alternative collection program that were made 
+28 available in the prior calendar year;
+29 (3)  A description of the education and outreach strategies implemented by the 
+30 alternative collection program in the prior calendar year to increase consumer 
+31 awareness of the program throughout the State; and
+32 (4)  Any additional information required by the department.
+33 E.  If the department determines that an approved alternative collection program is not 
+34 operating in a manner consistent with the proposal approved under this subsection or 
+35 the provisions of this subsection, the department shall provide written notice to the 
+36 producer or producers operating the alternative collection program regarding the nature 
+37 of the deficiency, the actions necessary to correct the deficiency and the time by which 
+38 such actions must be implemented.  If the department determines that the producer or 
+39 group of producers have failed to implement the actions described in the written notice 
+40 within the required time frame, the department shall notify the producers or group of 
+41 producers as well as the stewardship organization in writing that the producer or group 
+42 of producers are ineligible to offset payment obligations under the packaging 
+43 stewardship program based on packaging material managed under the alternative 
+44 collection program.
+Page 11 - 130LR1620(01)19.  Requirements for participating municipalities.  In accordance with the provisions 
+2 of this subsection and the rules adopted by the department, a municipality may elect to, but 
+3 is not required to, participate in the packaging stewardship program under this section. To 
+4 be eligible for reimbursement of costs under subsection 10 as a participating municipality, 
+5 a municipality must, at a minimum:
+6 A.  Provide for the collection and recycling of packaging material that is generated in 
+7 the municipality and is readily recyclable; and
+8 B.  Annually report to the stewardship organization, on a form provided and approved 
+9 by the department, all information necessary for the stewardship organization to 
+10 determine the municipality's incurred costs associated with its collection, processing, 
+11 transportation and recycling or disposal of recyclable material and of municipal solid 
+12 waste.
+13 Two or more municipalities, municipally owned solid waste processing facilities or quasi-
+14 municipal entities that manage waste materials on behalf of a municipality may elect to 
+15 jointly report to the stewardship organization as required by paragraph B and to jointly 
+16 receive reimbursement payments pursuant to subsection 10 from the stewardship 
+17 organization. 
+1810.  Municipal reimbursements.  In accordance with the rules adopted by the 
+19 department pursuant to subsection 13, paragraph A, subparagraph (4), the stewardship 
+20 organization shall annually disburse to participating municipalities from the packaging 
+21 stewardship fund established under subsection 12 reimbursement payments for the median 
+22 per-ton cost of managing packaging material that is readily recyclable, reimbursement 
+23 payments for the median per-ton cost of managing packaging material that is not readily 
+24 recyclable and per capita payments associated with packaging material disposed of by 
+25 participating municipalities.  For the purposes of this subsection, the cost to a municipality 
+26 of managing packaging material may include, but is not limited to, the costs associated with 
+27 the collection of packaging material, the costs associated with the transportation of 
+28 packaging material to a recycling establishment or disposal facility and the costs associated 
+29 with the cleanup and abatement of packaging material litter.
+30 A.  In accordance with rules adopted by the department, the stewardship organization 
+31 shall determine the amount of payments to participating municipalities under this 
+32 subsection based on the following information:
+33 (1)  Information provided by participating municipalities to the stewardship 
+34 organization in accordance with subsection 9, paragraph B regarding the costs 
+35 incurred by those municipalities in recycling packaging material that is readily 
+36 recyclable and packaging material that is not readily recyclable and the tons of 
+37 municipal solid waste disposed of in those municipalities, including, but not 
+38 limited to, waste disposed of in public spaces and schools, which may include 
+39 packaging material collected for recycling or disposal in public spaces and schools;
+40 (2)  Information provided to the department by recycling establishments pursuant 
+41 to section 2145 and aggregated and made available by the department to the 
+42 stewardship organization, including the tons of recyclable material received by 
+43 each recycling establishment from each municipality and the tons of processed 
+44 recyclable material sold by each recycling establishment;
+Page 12 - 130LR1620(01)1 (3)  Information provided to the department by recycling establishments not 
+2 located in the State or by participating municipalities and made available by the 
+3 department to the stewardship organization regarding the tons of recyclable 
+4 material brokered by those municipalities to those recycling establishments and 
+5 processed and sold by those recycling establishments;
+6 (4)  Information obtained by the stewardship organization through the audits of 
+7 facilities that process recyclable material generated in the State as required by 
+8 subsection 3, paragraph A, subparagraph (7); and
+9 (5)  Any other information specified by the department by rule.
+10 B.  In accordance with procedures and requirements adopted by the department by rule, 
+11 the stewardship organization shall use the information described in paragraph A to 
+12 determine the total tons of each packaging material type recycled by all municipalities 
+13 at each recycling establishment and the percentage of those total tons attributable to 
+14 each participating municipality. In the case of 2 or more municipalities that jointly send 
+15 recyclable material to a recycling establishment, the stewardship organization shall 
+16 assume that an equal amount of the jointly sent material is attributable to each resident 
+17 of each municipality unless those municipalities by agreement identify an unequal per 
+18 capita division of that jointly sent material for the purposes of this subsection.
+1911.  Investments in education and infrastructure.  In accordance with the provisions 
+20 of this subsection and as approved by the department, the stewardship organization shall 
+21 biannually provide for the expenditure of funds within the packaging stewardship fund 
+22 established under subsection 12 that are designed to improve recycling education and 
+23 infrastructure in the State.
+24 A.  The total amount of investments in education and infrastructure made by the 
+25 stewardship organization pursuant to this subsection must be directly proportional to 
+26 the total amount of payments received from all producers for all packaging material 
+27 that is not readily recyclable and is not actually recycled.
+28 B.  Biannually, the department shall solicit proposals for investments in education and 
+29 infrastructure.  A municipality or group of municipalities, a business or a recycling 
+30 establishment may apply to the department to receive funding from the stewardship 
+31 organization for a proposed investment in education and infrastructure.  The 
+32 department shall review investment proposals received pursuant to this paragraph and 
+33 shall solicit input on those proposals from producers, participating municipalities and 
+34 recycling establishments.  
+35 C.  After determining the total amount of funds required for investment in accordance 
+36 with paragraph A and considering the input received pursuant to paragraph B, the 
+37 department shall direct the stewardship organization to award funds to applicants that 
+38 submitted proposals pursuant to paragraph B.  The department shall ensure that 
+39 preference for funding is given to proposals that support the State's solid waste 
+40 management hierarchy under section 2101, promote a circular economy for packaging 
+41 material types for which producers were required to make payments under subsection 
+42 6, increase the recyclability of packaging material that is not readily recyclable, 
+43 increase access to recycling infrastructure in the State, improve consumer education in 
+44 the State regarding recycling and recyclability and support recycling and education 
+45 efforts in financially challenged or otherwise disadvantaged municipalities or 
+Page 13 - 130LR1620(01)46 communities and in other municipalities or communities that have received minimal or 
+47 no prior funding pursuant to this paragraph.
+312.  Packaging stewardship fund; authorized expenditures.  In accordance with the 
+4 provisions of this subsection and the rules adopted by the department, the stewardship 
+5 organization shall establish and manage a packaging stewardship fund. The stewardship 
+6 organization shall deposit into the fund all payments received from producers in accordance 
+7 with subsection 6 and shall expend those funds for the following purposes: 
+8 A.  To reimburse participating municipalities in accordance with applicable provisions 
+9 in subsections 9, 10 and 13 and the applicable rules adopted by the department pursuant 
+10 to those subsections;
+11 B.  To cover the operating costs of the stewardship organization, which must be 
+12 annually verified by a 3rd-party financial audit paid for by the stewardship organization 
+13 as required by subsection 5, paragraph L;
+14 C.  To pay to the department all applicable fees required under subsection 13, paragraph 
+15 B, including reimbursement of any costs incurred by the department in adopting rules 
+16 and in administering and enforcing this section prior to the effective date of the contract 
+17 entered into by the department and the stewardship organization pursuant to subsection 
+18 3; and
+19 D.  To support investments in education and infrastructure made in accordance with 
+20 subsection 11.  
+2113.  Administration and enforcement; rulemaking; fees; department report.  The 
+22 department shall administer and enforce this section and shall adopt rules as necessary to 
+23 implement, administer and enforce this section.  Rules adopted pursuant to this section are 
+24 routine technical rules as defined in Title 5, chapter 375, subchapter 2-A. 
+25 A.  Rules adopted by the department pursuant to this section must include, at a 
+26 minimum:
+27 (1)  A process for annually determining a schedule of producer payments required 
+28 under subsection 6, which must include a flat fee option for low-volume producers 
+29 pursuant to subsection 6, paragraph C.
+30 (a)  The payment schedule adopted under this subparagraph must be designed 
+31 to ensure that the total amount of payments collected each year is equal to or 
+32 in excess of the anticipated amount of expenditures required pursuant to 
+33 subsection 12, paragraphs A to D.
+34 (b)  The payment schedule adopted under this subparagraph must provide for 
+35 a flat fee option to be assessed on a tiered basis such that a low-volume 
+36 producer is required to pay no more than $500 per ton of packaging material 
+37 and no more than $7,500 in total annual fees to the stewardship organization 
+38 under this section;
+39 (2)  A process for determining on an annual basis those types of packaging material 
+40 that are readily recyclable, which must involve consultation with the stewardship 
+41 organization and recycling establishments and must include a transitional period 
+42 between the time that a type of packaging material is determined to be readily 
+43 recyclable or to not be readily recyclable and the time that such determinations will 1
+2
+Page 14 - 130LR1620(01)44 be effective for the purposes of calculating producer payments and municipal 
+45 reimbursements in accordance with this section;
+3 (3)  A process for determining on an annual basis which municipalities are similar 
+4 municipalities, which must involve consultation with participating municipalities;
+5 (4)  For purposes of determining participating municipality reimbursements under 
+6 subsection 10, a process for determining the median per-ton cost of managing 
+7 packaging material that is readily recyclable, the median per-ton cost of managing 
+8 packaging material that is not readily recyclable and the costs associated with the 
+9 disposal of packaging material by participating municipalities, which must involve 
+10 consultation with participating municipalities; and
+11 (5)  Requirements for the assessment of program performance by the stewardship 
+12 organization, including the setting of program goals used to inform the producer 
+13 payment schedule determined pursuant to subparagraph (1) and the investments in 
+14 infrastructure and education made pursuant to subsection 11, which must include, 
+15 but are not limited to, program goals supporting an overall reduction by producers 
+16 in the amount of packaging material used, an increased reuse by producers of 
+17 packaging material and an increased amount of post-consumer recycled content in 
+18 packaging material used by producers; recycling access and collection rate goals 
+19 for municipalities; overall program and material-specific recycling rate goals; 
+20 packaging material litter reduction goals; and any other goals required by the 
+21 department.
+22 To the maximum extent practicable, material-specific recycling rate goals adopted 
+23 pursuant to this subparagraph must reflect the following recycling standards:
+24 (a)  Sorted glass is considered recycled if it does not require further processing 
+25 before entering a glass furnace or before use in the production of filtration 
+26 media, abrasive materials, glass fiber insulation or construction materials;
+27 (b)  Sorted metal is considered recycled if it does not require further processing 
+28 before entering a smelter or furnace;
+29 (c)  Sorted paper is considered recycled if it does not require further processing 
+30 before entering a pulping operation; and
+31 (d)  Plastic separated by polymer is considered recycled if it does not require 
+32 further processing before entering a pelletization, extrusion or molding 
+33 operation or, in the case of plastic flakes, does not require further processing 
+34 before use in a final product.
+35 B.  At the time that the stewardship organization submits its annual report to the 
+36 department pursuant to subsection 5, the stewardship organization shall pay to the 
+37 department a reasonable annual fee established by the department, not to exceed 
+38 $300,000, to cover the department's actual costs for review of the stewardship 
+39 organization's annual report and the department's costs in the prior fiscal year for its 
+40 oversight, administration and enforcement of the packaging stewardship program.  In 
+41 accordance with subsection 12, paragraph C, the annual fee required under this 
+42 paragraph may include reimbursement of any costs incurred by the department in 
+43 adopting rules and in administering and enforcing this section prior to the effective date 1
+2
+Page 15 - 130LR1620(01)44 of the contract entered into by the department and the stewardship organization 
+45 pursuant to subsection 3.
+3 C.  A producer or group of producers, when submitting a proposal to the department 
+4 for the establishment of an alternative collection program or submitting a proposal to 
+5 the department for modifications to an approved alternative collection program under 
+6 subsection 8, shall pay to the department a reasonable fee established by the department 
+7 to cover the department's actual costs for review of the proposal or proposed 
+8 modifications.  A producer or group of producers operating an approved alternative 
+9 collection program under subsection 8 shall pay to the department a reasonable annual 
+10 fee established by the department, not to exceed $10,000 per participating producer, to 
+11 cover the department's actual costs for review of the producer's or group's annual report 
+12 and the department's costs for the oversight, administration and enforcement of the 
+13 alternative collection program, which may be waived by the department if those 
+14 activities by the department do not require significant department staff time.
+15 D.  Beginning February 15, 2023, and annually thereafter, the department shall submit 
+16 a report to the joint committee of the Legislature having jurisdiction over environment 
+17 and natural resources matters regarding the packaging stewardship program and 
+18 alternative collection programs implemented pursuant to this section.  
+19 (1) The report must include, at a minimum, data on the amount and type of 
+20 packaging material associated with products sold, offered for sale or distributed for 
+21 sale in or into the State; data regarding how that packaging material was managed; 
+22 and any recommendations for amendments to the programs implemented under 
+23 this section, including, but not limited to, the establishment of new program goals 
+24 or the imposition of a prohibition on the sale, offer for sale or distribution for sale 
+25 in or into the State of products associated with packaging material that the 
+26 department has determined is nonessential, is contaminating collected recyclable 
+27 material, is a common source of litter or exhibits toxicity, particularly if that 
+28 toxicity is demonstrated to have a disproportionate impact on any community in 
+29 the State.
+30 (2)  Beginning February 15, 2027, and every 5 years thereafter, the report under 
+31 this paragraph must describe the results of a comprehensive review of the rules 
+32 adopted by the department pursuant to this section and shall include 
+33 recommendations by the department for any legislative changes to this section 
+34 determined necessary as a result of that review, including, but not limited to, 
+35 changes to the flat fee that may be paid by a low-volume producer pursuant to 
+36 subsection 6, paragraph C, as well as a description of any changes to those rules 
+37 that the department intends to propose in a future rulemaking.
+38 (3)  The report required under this paragraph may be included in the report required 
+39 pursuant to section 1772, subsection 1.
+4014.  Antitrust exclusions.   A producer or stewardship organization, including a 
+41 producer's or stewardship organization's officers, members, employees and agents that 
+42 organize a packaging stewardship program or an alternative collection program under this 
+43 section, is immune from liability for the producer's or stewardship organization's conduct 
+44 under state laws relating to antitrust, restraint of trade, unfair trade practices and other 
+45 regulation of trade or commerce only to the extent necessary to plan and implement the 1
+2
+Page 16 - 130LR1620(01)46 producer's or stewardship organization's packaging stewardship program or alternative 
+47 collection program consistent with the provisions of this section.
+315.  Proprietary information.  Proprietary information submitted to the department 
+4 pursuant to the requirements of this section or the rules adopted pursuant to this section 
+5 that is identified by the submittor as proprietary information is confidential and must be 
+6 handled by the department in the same manner as confidential information is handled under 
+7 section 1310-B.
+8Sec. 2.  Department of Environmental Protection; stewardship program 
+9for packaging; routine technical rulemaking.  On or before May 1, 2022, the 
+10 Department of Environmental Protection shall initiate routine technical rulemaking 
+11 consistent with the Maine Revised Statutes, Title 5, chapter 375, subchapter 2-A to adopt 
+12 rules necessary for the implementation, administration and enforcement of a stewardship 
+13 program for packaging pursuant to Title 38, section 2146.  The rulemaking required by this 
+14 section must be done within existing resources and, notwithstanding any provision of law 
+15 to the contrary, the department may use funds within the Maine Solid Waste Management 
+16 Fund established pursuant to Title 38, section 2201 to support its activities required by this 
+17 section except that, if the department uses funds within the Maine Solid Waste Management 
+18 Fund as authorized under this section, the department shall deposit back into that fund the 
+19 same amount of funds withdrawn once reimbursed pursuant to Title 38, section 2146, 
+20 subsection 13, paragraph B.
+21SUMMARY
+22 This bill establishes a stewardship program in the State for packaging material, to be 
+23 operated by a stewardship organization contracted by the Department of Environmental 
+24 Protection following a competitive bidding process.  Under the program, producers of 
+25 products contained, protected, delivered, presented or distributed in or using packaging 
+26 material pay into a fund based on the amount by weight of packaging material associated 
+27 with the products they sell, offer for sale or distribute for sale in or into the State.  Producers 
+28 can wholly or partially offset this payment obligation by implementing independent 
+29 programs to recycle packaging of the same material type for which they have a payment 
+30 obligation and can further reduce their payment obligation by reducing the amount of 
+31 packaging associated with the products they sell, offer for sale or distribute for sale in or 
+32 into the State or by meeting other program incentives.
+33 Producer payments received by the stewardship organization are used to reimburse 
+34 eligible municipalities for certain recycling and waste management costs.  To be eligible 
+35 for such reimbursements, a municipality must share with the stewardship organization 
+36 certain data regarding its recycling and waste management costs and must provide for the 
+37 collection and recycling of packaging material generated in the municipality that is 
+38 determined to be readily recyclable.  In addition to the payment of municipal 
+39 reimbursements, the stewardship organization is authorized to use producer payments to 
+40 cover the operational costs for the program, to pay department fees and to make 
+41 investments in education and infrastructure aimed at reducing packaging waste and 
+42 improving recycling outcomes in the State.1
+2
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32

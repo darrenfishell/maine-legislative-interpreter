@@ -1,0 +1,96 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 480
+S.P. 145 In Senate,  January  31, 2019
+An Act  To Ensure Pay Transparency and  To Reduce Gender and 
+Racial Wage Inequities
+Reference to the Committee on Labor and Housing suggested and  ordered printed.
+DAREK M.  GRANT
+Secretary of the Senate
+Presented by Senator MIRAMANT of Knox.
+Cosponsored by Representative EVANGELOS of Friendship and
+Senators: CARPENTER of Aroostook, DILL  of Penobscot, GRATWICK of Penobscot,  
+LIBBY of  Androscoggin,  Representatives: BEEBE-CENTER of Rockland, MATLACK of St. 
+George, RISEMAN of Harrison, RYKERSON  of Kittery.
+
+Page 1 - 129LR0942(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §4577 is enacted to read:
+3§4577.  Annual report of wage disparities
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5following terms have the following meanings.
+6A.  "EEO-1 report" means the federal Equal Employment Opportunity Commission's 
+7Employer Information Report or a successor report.
+8B.  "EEO-3 report" means the federal Equal Employment Opportunity Commission's 
+9Local Union Report or a successor report.
+10C.  "EEO-4 report" means the federal Equal Employment Opportunity Commission's 
+11State and Local Government Report or a successor report.
+12D.  "EEO-5 report" means the federal Equal Employment Opportunity Commission's 
+13Elementary-Secondary Staff Information Report or a successor report.
+14E.  "EEO reports" means the EEO-1 report, EEO-3 report, EEO-4 report and EEO-5 
+15report.
+16F.  "Employees" means all employees for whom information is required to be 
+17reported in EEO reports.
+18G.  "Gender, race and ethnicity" means gender, race and ethnicity identifications 
+19required to be reported in EEO reports.
+20H.  "Job category" means the job categories required to be reported in EEO reports.
+212.  Wage data report.  By March 31, 2020 and by March 31st each year thereafter, 
+22an entity required to file an EEO-1 report, EEO-3 report, EEO-4 report or EEO-5 report 
+23with the federal Equal Employment Opportunity Commission shall submit a wage data 
+24report to the Maine Human Rights Commission, which must include for the entity:
+25A.  The number of employees in each job category by gender, race and ethnicity;
+26B.  The aggregate number of male employees and the aggregate number of female 
+27employees;
+28C.  The aggregate number of white, non-Hispanic employees and the aggregate 
+29number of all other employees;
+30D.  The median wage of employees in each job category by gender, race and 
+31ethnicity;
+32E.  The median wage of employees in the groups described in paragraphs B and C;
+33F.  The percentage difference between the median wage of employees in each job 
+34category between white male employees and employees in other gender, racial and 
+35ethnic groups; and
+36G.  The percentage difference between the median wage of employees in the groups 
+37described in paragraphs B and C.
+Page 2 - 129LR0942(01)-11Wage data included in the report must be based on a single pay period from October, 
+2November or December immediately preceding the reporting deadline.  Wage data must 
+3be reported on an hourly basis.  For salaried employees, hourly wages may be calculated 
+4by dividing annual wages by 2,080.  For all other employees, hourly wages must be 
+5calculated based on actual hours worked and wages received during the pay period.  For 
+6the purposes of this subsection, wages include base pay, tips and incentive-based pay 
+7such as commissions.  Wages do not include overtime pay.
+83.  Availability of reports; redaction of certain data.  By June 30th of each year, 
+9the commission shall post wage data reports filed that year pursuant to this section on the 
+10commission's publicly accessible website, except that when the number of employees 
+11within a gender, ethnic or racial group is less than 5, data in the wage data report for that 
+12group must be redacted.
+134.  Retention of reports.  The commission shall retain the original, or exact copies 
+14of, wage data reports filed under this section for at least 10 years.
+155.  Use of reports in employment discrimination claims.  The commission may use 
+16wage data reports filed under this section in the commission's adjudication of 
+17employment discrimination claims.
+18SUMMARY
+19This bill requires certain employers, including, but not limited to, state agencies, to 
+20annually submit wage data reports regarding employee gender, race and ethnicity to the 
+21Maine Human Rights Commission.

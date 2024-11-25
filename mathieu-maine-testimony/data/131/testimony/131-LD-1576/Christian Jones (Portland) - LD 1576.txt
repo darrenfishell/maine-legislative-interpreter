@@ -1,0 +1,61 @@
+May 19, 2023 
+To: Senator Carney, Representative Moonen, and Honorable members of the Judiciary Committee 
+From: Christian Jones 
+Re: Testimony in Support of LD 1576, “An Act to Update the Laws Governing Electronic Device 
+Information as Evidence” 
+ 
+Good morning, Senator Carney, Representative Moonen, and honorable members of the Judiciary 
+Committee, my name is Christian Jones. I am a resident of Portland, and I am writing today as a student at 
+the University of Maine School of Law to testify in support of LD 1576, “An Act to Update the Laws 
+Governing Electronic Device Information as Evidence.”  
+Under the Fourth Amendment of the Constitution, American citizens maintain the right “to be secure in 
+their persons, houses, papers, and effects, against unreasonable searches and seizures. . . .”1 The Fourth 
+Amendment was enacted in an effort to protect the privacy and persons of American citizens. Similarly to 
+the external, offline information—since the private information could not be online in the time of the 
+drafting of the Constitution—the Founders recognized as components of Americans’ persons and worth 
+protection and privacy, our online data reveals critical information about us. From our banking transactions 
+to our private communications, online data reveals extremely private information about our lives and is thus 
+a part of us and our “persons.” We should have a right to protect this information from unreasonable 
+searches and seizures, as we would in an offline context, in the absence of a warrant. The online or offline 
+status of our personal information should not impact our rights. Mainers have a right to be free from 
+unreasonable and unwarranted searches and seizures, both online and offline, and we must act now as a 
+state to ensure the ongoing protections of our privacy and constitutional rights. 
+Though the Third-Party Doctrine is rooted in Supreme Court precedent and Fourth Amendment case law, 
+Supreme Court justices, like Justice Roberts, have placed the burden on the individual states to act to protect 
+the privacy rights of their respective citizens.2 Assuming this burden and acting accordingly, California and 
+Utah have both passed broad legal provisions to protect data held by third parties by requiring judicial 
+oversight and authorization over the process, subject to certain exceptions related to emergency situations.3 
+Maine should, likewise, follow suit and enact legislation to protect Mainers from unwarranted searches and 
+seizures of their data. 
+Additionally, LD 1576 “Ought to Pass” for the following reasons: 
+• LD 1576 updates the language of the current statute, modernizing the statute and bringing the law 
+into focus with the modern day as societal dependency on the law continues to evolve; 
+• LD 1576 provides clarification for situations in which a warrant would be required for the 
+obtainment of electronic communications and information, reducing ambiguity for law 
+enforcement while ensuring protections for Mainers; and 
+ 
+1 The text of the Fourth Amendment.  
+2 See Utah Becomes First State to Require Warrant for Data Held by Third-Parties, EPIC (Apr. 1, 2019), 
+https://epic.org/utah-becomes-first-state-to-require-warrant-for-data-held-by-third-parties/  (last accessed May 19, 
+2023); Nicole A. Ozer, It’s Time to Protect Digital Privacy in California, ACLU NORCAL (Feb. 8, 2015), 
+https://www.aclunc.org/blog/its-time-protect-digital-privacy-california (last accessed May 19, 2023). 
+3 Id.  
+• LD 1576 ensures that the government and law enforcement entities consult an independent judge 
+to obtain a warrant to search and obtain Mainers’ personal information from third parties, creating 
+a fair oversight and review in the search for evidence of a crime or otherwise.  
+As our lives continue to become further intertwined with the internet, the amount of information third 
+parties store about us will, likewise, continue to increase. Our current laws and the allowance of the Third-
+Party Doctrine loophole are outdated and do not align with modern society that utilizes the Internet for most 
+communications and information sharing and use. Our laws and protections apply to a context that is almost 
+exclusively offline, leaving Mainers increasingly vulnerable to warrantless searches by law enforcement 
+and violations of their Constitutional guarantees.4 By enacting LD 1576, we are choosing to update Maine’s 
+privacy protections to reflect the modern digital world while simultaneously reinforcing constitutional 
+rights by ensuring that police obtain a warrant before accessing Mainer’s digital information held by third 
+parties. 
+For these reasons, I respectfully urge this Committee to vote “Ought to Pass” on LD 1576.  
+ 
+Thank you,  
+Christian Jones  
+ 
+4 See Nicole A. Ozer, It’s Time to Protect Digital Privacy in California, ACLU NORCAL (Feb. 8, 2015), 
+https://www.aclunc.org/blog/its-time-protect-digital-privacy-california  (last accessed May 19, 2023).  

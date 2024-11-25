@@ -1,0 +1,143 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 849
+H.P. 617 House of  Representatives, March 8, 2021
+An Act  To Make  Permanent the Telehealth Reimbursement Options 
+Passed by  Emergency Measures
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative MATHIESON of Kittery.
+Cosponsored by Representatives:  BROOKS  of Lewiston, GRAMLICH  of Old Orchard Beach, 
+SACHS of Freeport, Senator: BRENNER of Cumberland.
+
+Page 1 - 130LR0808(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §3173-H, sub-§1, ¶D, as amended by PL 2019, c. 649, §1, is 
+3 further amended to read:
+4 D.  "Telehealth," as it pertains to the delivery of MaineCare services, means the use of 
+5 interactive visual and audio or other electronic media for the purpose of consultation 
+6 and education concerning and diagnosis, treatment, care management and self-
+7 management of a patient's physical and mental health and includes real-time interaction 
+8 between the patient and the patient's provider, electronic consultation between health 
+9 professionals regarding the patient, synchronous encounters, asynchronous encounters, 
+10 store and forward transfers and remote patient monitoring.  "Telehealth" includes 
+11 telephonic services when interactive telehealth services are unavailable or when a 
+12 telephonic service is medically appropriate for the underlying covered service.
+13Sec. 2.  22 MRSA §3173-H, sub-§5, ¶D, as amended by PL 2019, c. 649, §1, is 
+14 further amended to read:
+15 D.  Must include requirements for providers providing telehealth and telemonitoring 
+16 services; and
+17Sec. 3.  22 MRSA §3173-H, sub-§5, ¶E, as enacted by PL 2019, c. 649, §1, is 
+18 amended to read:
+19 E.  Must allow at least some portion of case management services covered by the 
+20 MaineCare program to be delivered through telehealth, without requiring qualifying 
+21 criteria regarding a patient's risk of hospitalization or admission to an emergency 
+22 room. ; and
+23Sec. 4.  22 MRSA §3173-H, sub-§5, ¶F is enacted to read:
+24 F.  Must provide for reimbursement to providers providing telehealth and 
+25 telemonitoring services at the same reimbursement rate as comparable services 
+26 provided through in-person consultation.
+27Sec. 5.  24 MRSA §2904, sub-§1, ¶A, as amended by PL 2019, c. 289, §1, is further 
+28 amended to read:
+29 A.  A licensed health care practitioner who voluntarily, without the expectation or 
+30 receipt of monetary or other compensation either directly or indirectly, provides 
+31 professional services, including services provided through telehealth as defined in Title 
+32 24‑A, section 4316, subsection 1, paragraph E  C, within the scope of that health care 
+33 practitioner's licensure:
+34 (1)  To a nonprofit organization;
+35 (2)  To an agency of the State or any political subdivision of the State;
+36 (3)  To members or recipients of services of a nonprofit organization or state or 
+37 local agency;
+38 (4)  To support the State's response to a public health threat as defined in Title 22, 
+39 section 801, subsection 10;
+40 (5)  To support the State's response to an extreme public health emergency as 
+41 defined in Title 22, section 801, subsection 4‑A; or
+Page 2 - 130LR0808(01)1 (6)  To support the State's response to a disaster as defined in Title 37‑B, section 
+2 703, subsection 2;
+3Sec. 6.  24-A MRSA §4316, sub-§1, ¶C, as enacted by PL 2019, c. 289, §2, is 
+4 amended to read:
+5 C.  "Telehealth," as it pertains to the delivery of health care services, means the use of 
+6 interactive real-time visual and audio or other electronic media for the purpose of 
+7 consultation and education concerning and diagnosis, treatment, care management and 
+8 self-management of an enrollee's physical and mental health and includes real-time 
+9 interaction between the enrollee and the telehealth provider, synchronous encounters, 
+10 asynchronous encounters, store and forward transfers, the use of audio-only telephone 
+11 and telemonitoring.  "Telehealth" does not include the use of audio-only telephone, 
+12 facsimile machine, e-mail or texting.
+13Sec. 7.  24-A MRSA §4316, sub-§1, ¶E, as enacted by PL 2019, c. 289, §2, is 
+14 repealed.
+15Sec. 8.  24-A MRSA §4316, sub-§2, as corrected by RR 2019, c. 2, Pt. A, §28, is 
+16 amended to read:
+172.  Parity for telehealth services.  A carrier offering a health plan in this State may 
+18 not deny coverage on the basis that the health care service is provided through telehealth if 
+19 the health care service would be covered if it were provided through in-person consultation 
+20 between an enrollee and a provider.  Coverage for health care services provided through 
+21 telehealth must be determined in a manner consistent with coverage for health care services 
+22 provided through in-person consultation.  A carrier shall reimburse a provider for the 
+23 diagnosis, consultation with or treatment of an enrollee delivered through telehealth 
+24 services on the same basis and at least at the rate of reimbursement at which the carrier 
+25 reimburses a provider for the provision of the same, or substantially similar, service through 
+26 in-person consultation.  If an enrollee is eligible for coverage and the delivery of the health 
+27 care service through telehealth is medically appropriate, a carrier may not deny coverage 
+28 for telehealth services.  A carrier may not offer a health plan under which any deductible 
+29 applied to health care services delivered through telehealth accumulates separately from 
+30 the deductible that applies in the aggregate to all services covered under the health plan. A 
+31 carrier may offer a health plan containing a provision for a deductible, copayment or 
+32 coinsurance requirement for a health care service provided through telehealth as long as 
+33 the deductible, copayment or coinsurance does not exceed the deductible, copayment or 
+34 coinsurance applicable to a comparable service provided through in-person consultation.  
+35 A carrier may not exclude a health care service from coverage solely because such health 
+36 care service is provided only through a telehealth encounter, as long as telehealth is 
+37 appropriate for the provision of such health care service.
+38Sec. 9.  24-A MRSA §4316, sub-§5, as enacted by PL 2019, c. 289, §2, is repealed.
+39Sec. 10.  Application.  The requirements of this Act apply to health plans, as defined 
+40 in the Maine Revised Statutes, Title 24-A, section 4301-A, subsection 7, executed, 
+41 delivered, issued for delivery, continued or renewed in this State on or after January 1, 
+42 2022.  For the purposes of this Act, all health plan contracts are deemed to be renewed no 
+43 later than the next yearly anniversary of the contract date.
+Page 3 - 130LR0808(01)1SUMMARY
+2 This bill makes permanent the authorization for the delivery of health care services 
+3 through telehealth by telephone that was provided through executive order during the 
+4 declared public health emergency related to COVID-19.
+5 Under current law, health insurance carriers are required to reimburse for services 
+6 delivered through telehealth at parity with the reimbursement that would be provided if the 
+7 services were delivered through an in-person consultation, but the use of audio-only 
+8 telephone to deliver those services is not permitted. This bill removes that prohibition. The 
+9 bill also clarifies that reimbursement for telehealth services must be made on the same basis 
+10 and at the same rate as if the services were delivered in person and that a carrier may not 
+11 establish separate deductible limits for telehealth services that are not applied in the 
+12 aggregate with other services covered under a health plan.
+13 Under current law, telehealth services reimbursed under the MaineCare program for 
+14 the delivery of service using the telephone are limited to when interactive telehealth 
+15 services are unavailable or when a telephonic service is medically appropriate for the 
+16 underlying covered service. This bill removes that limitation and also clarifies that services 
+17 provided through telehealth must be reimbursed at the same rate as comparable services 
+18 provided through an in-person consultation.
+19 The requirements in the bill apply to health plans issued or renewed on or after January 
+20 1, 2022.2
+3
+4

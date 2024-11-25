@@ -1,0 +1,207 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1887
+H.P. 1397 House of Representatives, January 5, 2022
+An Act To Establish the Securities Restitution Assistance Fund for 
+Victims of Securities Violations
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 203.
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative HARNETT of Gardiner.
+Cosponsored by Senator BAILEY of York and
+Representative: McCREA of Fort Fairfield.
+
+Page 1 - 130LR2349(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  32 MRSA c. 135, sub-c. 5-A is enacted to read:
+3SUBCHAPTER 5-A
+4SECURITIES RESTITUTION ASSISTANCE FUND
+5§16521. Definitions
+6 As used in this subchapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Claimant. "Claimant" means a victim that files an application for restitution 
+9 assistance under this subchapter. "Claimant" includes the named party in a restitution award 
+10 in a final order, the executor of a named party in a restitution award in a final order, the 
+11 heirs and assigns of a named party in a restitution award in a final order and any other 
+12 person with lawful authority to act for or on behalf of a named party in a restitution award 
+13 in a final order.
+142.  Eligible adult. "Eligible adult" means:
+15 A.  An individual 65 years of age or older; or
+16 B.  An individual protected under the Adult Protective Services Act.
+173.  Final order. "Final order" means a final order issued by the administrator under 
+18 this chapter or a final order issued by a court in a legal action initiated by the administrator 
+19 under this chapter.
+204.  Fund. "Fund" means the Securities Restitution Assistance Fund established under 
+21 section 16522.
+225.  Securities violation. "Securities violation" means a violation of this chapter and 
+23 any rules adopted pursuant to this chapter.
+246.  Victim. "Victim" means a person that suffered monetary injury as a result of a 
+25 securities violation and was awarded restitution in a final order.
+26§16522. Securities Restitution Assistance Fund
+271.  Fund established. The Securities Restitution Assistance Fund is established within 
+28 the Department of Professional and Financial Regulation, Office of Securities to provide 
+29 funds for restitution assistance for victims that were awarded restitution in a final order 
+30 issued by the administrator under this chapter or were awarded restitution in a final order 
+31 in a legal action initiated by the administrator under this chapter but did not receive the full 
+32 amount of restitution ordered before the application for restitution assistance under section 
+33 16523, subsection 2 was due.
+342.  Funding. The fund consists of the following amounts received by the administrator:
+35 A.  Five dollars of each annual agent renewal license fee paid if the operating fund 
+36 balance of the Office of Securities under section 16601, subsection 6 as of October 1st 
+37 of the previous calendar year exceeds 135% of the office's current annual budget;
+Page 2 - 130LR2349(01)1 B.  Five dollars of each annual investment adviser representative renewal license fee 
+2 paid if the operating fund balance of the Office of Securities under section 16601, 
+3 subsection 6 as of October 1st of the previous calendar year exceeds 135% of the 
+4 office's current annual budget;
+5 C.  All grants, donations and payments received or accepted by the administrator for 
+6 victim restitution assistance; and
+7 D.  Any other amounts designated by the administrator for victim restitution assistance.
+83.  Nonlapsing fund. The amounts received for the fund may be used by the 
+9 administrator only to pay awards of restitution assistance under this subchapter and to 
+10 administer this subchapter and may not be placed in the General Fund. Any balance in the 
+11 fund does not lapse but must be carried forward to be used for the same purposes.
+12§16523. Claims
+131.  Eligible victims. The following victims are eligible for restitution assistance:
+14 A.  A natural person who was a resident of the State at the time of the securities 
+15 violation; and
+16 B.  A person, other than a natural person, that was domiciled in the State at the time of 
+17 the securities violation.
+182.  Application. A person that is eligible for restitution assistance under this subchapter 
+19 may submit an application in a manner and form prescribed by the administrator. The 
+20 administrator may provide forms for the submission of applications.
+213.  Deadline. The application for restitution assistance under this subchapter must be 
+22 received by the administrator not more than one year after the date of the final order 
+23 awarding restitution to the victim.
+244.  Extension. Notwithstanding subsection 3, the administrator may grant an extension 
+25 of time for submission of an application for restitution assistance for good cause shown by 
+26 the claimant.
+27§16524. Confidentiality of personal information
+28 Personal information contained in an application for restitution assistance under this 
+29 subchapter is not subject to disclosure to the extent the information is designated as not a 
+30 public record by section 16607, subsection 2, paragraph E.
+31§16525. Payment of restitution assistance; limits
+321.  Payment cap. The administrator may award to a claimant restitution assistance that 
+33 is:
+34 A.  The lesser of $15,000 and 25% of the amount of unpaid restitution awarded in the 
+35 final order if the victim is not an eligible adult; or
+36 B.  The lesser of $30,000 and 50% of the amount of unpaid restitution awarded in the 
+37 final order if the victim is an eligible adult.
+382.  Waiver. The administrator may waive the payment caps in subsection 1 for good 
+39 cause shown.
+Page 3 - 130LR2349(01)13. Award limited. An award of restitution assistance under this subchapter may be 
+2 made to only one claimant per victim.
+3 Restitution assistance awards may be made under this subchapter only to victims 
+4 awarded restitution in a final order issued on or after the effective date of this subchapter.
+5§16526. Conditions under which award of restitution assistance prohibited
+6 The administrator may not award restitution assistance if:
+71.  Participating in or committing securities violation. The victim sustained the 
+8 monetary injury primarily as a result of:
+9 A.  Participating or assisting in a securities violation; or
+10 B.  Attempting to commit or committing a securities violation;
+112.  Profit from securities violation. The victim profited or would have profited from 
+12 a securities violation;
+133.  Previous restitution assistance. The victim has received restitution assistance 
+14 under this subchapter in the previous 5 years; or
+154.  Final order overturned. An award of restitution in a final order is overturned on 
+16 appeal.
+17§16527. Final order overturned; recovery of restitution assistance
+18 If an award of restitution in a final order is overturned on appeal after restitution 
+19 assistance under this subchapter has been paid, the administrator in the administrator's 
+20 discretion may recover the restitution assistance from the claimant by order or may request 
+21 that the Attorney General bring a civil action to recover the restitution assistance.
+22§16528. Award not subject to execution, attachment, garnishment or other process
+23 A restitution assistance award made by the administrator under this subchapter is not 
+24 subject to execution, attachment, garnishment or other process, except an execution, 
+25 attachment, garnishment or other process brought by or on behalf of the State.
+26§16529. Claimant convicted of forgery, fraud, deception or falsification forfeits 
+27restitution assistance award; recovery
+281.  Conviction in connection with claim. A claimant convicted of any crime involving 
+29 forgery, fraud, deception or falsification in connection with a claim made under this 
+30 subchapter forfeits any restitution assistance award paid to the claimant under this 
+31 subchapter.
+322.  Civil action for recovery. The administrator may request that the Attorney General 
+33 bring a civil action in accordance with section 16603 to recover funds awarded to a claimant 
+34 convicted of any crime involving forgery, fraud, deception or falsification in connection 
+35 with a claim made under this subchapter.
+36§16530. Rights of State
+371.  Subrogation. The State is subrogated to the rights of a claimant awarded restitution 
+38 assistance under this subchapter to the extent of the restitution assistance award made. The 
+39 subrogation rights are against the person ordered to pay restitution to a victim for a 
+40 securities violation.
+Page 4 - 130LR2349(01)12.  Lien on recovery. The State is entitled to a lien in the amount of the restitution 
+2 assistance award on any recovery made by or on behalf of a victim. The State may assert 
+3 its right to this amount in a separate action or intervene in an action brought by or on behalf 
+4 of the victim.
+5§16531. Refund of excess award
+6 A claimant shall refund to the administrator any amount of restitution received that 
+7 when combined with the restitution assistance under this subchapter exceeds the restitution 
+8 award in the final order.
+9§16532. Return of recovered money to fund
+10 The administrator shall return to the fund any money recovered by the administrator 
+11 under this subchapter.
+12§16533. Suspension of payment
+13 If payment of restitution assistance under this subchapter would result in a fund balance 
+14 below $250,000, the administrator may suspend payment of claims or prorate payment of 
+15 claims at the administrator's discretion until such time as the administrator determines a 
+16 sufficient balance has been restored to the fund.
+17§16534. Rulemaking
+18 The administrator may adopt rules pursuant to the Maine Administrative Procedure Act 
+19 to carry out the purposes of this subchapter. Rules adopted under this section are routine 
+20 technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+21Sec. 2.  32 MRSA §16601, sub-§6, as enacted by PL 2005, c. 65, Pt. A, §2, is 
+22 amended to read:
+236.  Nonlapsing operating fund.  There Except as provided in section 16522, 
+24 subsection 2, there is established an operating fund to be used to carry out the purposes of 
+25 this chapter and any other statutory duties of the administrator. The operating fund consists 
+26 of all annual renewal license fees for agents and investment adviser representatives 
+27 received pursuant to this chapter.  Any balance in the operating fund does not lapse, but 
+28 must be carried forward to be used for the same purposes.
+29Sec. 3. Transfers from available fiscal year 2022-23 Office of Securities 
+30Other Special Revenue Funds balances to Securities Restitution Assistance 
+31Fund. The State Controller shall transfer $350,000 from the available balance in the 
+32 Department of Professional and Financial Regulation, Office of Securities Other Special 
+33 Revenue Funds account to the Securities Restitution Assistance Fund established in the 
+34 Maine Revised Statutes, Title 32, section 16522. 
+35SUMMARY
+36 This bill establishes in the Department of Professional and Financial Regulation, Office 
+37 of Securities the Securities Restitution Assistance Fund. The fund will be used to provide 
+38 financial assistance to victims of securities violations that were awarded restitution in a 
+39 final order issued by the Securities Administrator or were awarded restitution in a final 
+40 order in a legal action initiated by the administrator but did not receive the full amount of 
+41 restitution ordered before the application for restitution assistance was due. The fund is 36
+37
+38
+39
+40
+41
+Page 5 - 130LR2349(01)42 funded initially by a one-time transfer of $350,000 from the available balance of the 
+43 dedicated revenue of the Office of Securities. Thereafter, the fund will be funded by a 
+44 portion of agent and investment adviser representative renewal license fees and any grants, 
+45 donations or other money received by the administrator for victim restitution assistance.1
+2
+3
+4

@@ -1,0 +1,145 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 101
+H.P. 87 House of  Representatives, January 15, 2019
+An Act  To Reestablish the Pesticide Notification Registry
+Reference to the Committee on Agriculture, Conservation and  Forestry suggested and 
+ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative PLUECKER of Warren.
+Cosponsored by Representatives:  DENK  of Kennebunk, GRAMLICH of Old Orchard Beach, 
+HEPLER of Woolwich, INGWERSEN of Arundel,  O'NEIL  of Saco,  PEBWORTH of Blue 
+Hill, RECKITT of  South Portland.
+
+Page 1 - 129LR0553(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §§1471-CC and 1471-DD are enacted to read:
+3§1471-CC.  Registry of property requiring notification for pesticides applications
+4The board shall develop and maintain a registry of the properties of residents, lessees 
+5and property owners in the State who request that their properties be placed on a registry 
+6in order that the residents, lessees and owners receive advance notification of the outdoor 
+7application of pesticides.
+81.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+9following terms have the following meanings.
+10A.  "Air-carrier equipment" means any application equipment that uses a 
+11mechanically generated airstream to propel spray droplets.  "Air-carrier equipment" 
+12does not include backpack sprayers or air-assisted application equipment in which the 
+13airstream is directed downward into the target canopy.
+14B.  "Land manager" means the owner of the land upon which pesticides are to be 
+15applied, a person leasing the land or a person, firm, company or other legal entity 
+16designated by the lessee or owner to manage the land, vegetation on the land or pests 
+17occurring on the land.
+182.  Development of registry.  The board shall solicit participation in the registry 
+19through newspaper articles, public notices distributed to municipal offices and a notice 
+20posted on the board's publicly accessible website.  For a property to be placed on the 
+21registry, a person must submit to the board, using a form provided on the board's publicly 
+22accessible website or a paper copy of the form, which must be provided by the board 
+23upon request, the following information:
+24A.  The person's full name;
+25B.  The person's telephone number;
+26C.  The physical location of the property being registered, including the street address 
+27if available. If a street address is not available, longitude and latitude coordinates or a 
+28description of the property in sufficient detail to be located on a 7.5-minute or 
+2915-minute series topographical map must be provided;
+30D.  The person's mailing address;
+31E.  The person's e-mail address if available; and
+32F.  The person's preferred means of notification.
+33Any resident, lessee or owner of property in the State is entitled to have that property 
+34placed on the registry. A fee may not be charged to register. Property must remain on the 
+35registry until the resident, lessee or owner notifies the board in writing that the property is 
+36to be removed from the registry or until the board staff determines that the contact is no 
+37longer valid.
+Page 2 - 129LR0553(01)-113.  Obligations to provide information to people on registry.  A land manager 
+2intending to conduct an outdoor application of pesticides using aircraft or air-carrier 
+3equipment shall access the registry to identify any person entitled to notification under 
+4subsection 4 and, except as provided in subsections 6 and 7, shall provide that person 
+5with notification no later than the day before and no earlier than 7 days before the day of 
+6the application. The notification must include:
+7A.  The date and approximate time of application;
+8B.  The type of equipment to be used and the manner in which the pesticides will be 
+9applied;
+10C.  The brand names and the United States Environmental Protection Agency's 
+11registration numbers for the pesticides to be used;
+12D.  Contact information for the land manager; and
+13E.  The location of the property that the land manager intends to spray.
+14Upon the request of a person receiving notification under this subsection, a land manager 
+15shall provide the material safety data sheets for the pesticides being used or copies of the 
+16pesticides labels. A land manager is not required to postpone an application pending 
+17delivery of the requested information.
+184.  Criteria requiring notification.  A land manager is required to notify a person 
+19whose property is on the registry if the pesticides are being applied using aircraft or air-
+20carrier equipment and the registered property lies within 1,320 feet of the intended spray 
+21area.
+225.  Means of notification.  A land manager conducting or contracting for a pesticides 
+23application using aircraft or air-carrier equipment shall make a good faith effort to convey 
+24the information required in subsection 3.  Acceptable means of notification include:
+25A.  Personal delivery of notification;
+26B.  Mailing of notification through the United States Postal Service;
+27C.  Electronic mailing of notification;
+28D.  Telephone calls, either personal or automated; or
+29E.  Other means determined acceptable by the board.
+306.  Delayed notification acceptable.  A land manager using integrated pest 
+31management, as defined in Title 7, section 2401, may provide the information required 
+32under subsection 3, paragraphs A to D on the day of the application but prior to the 
+33application when an immediate threat to a crop arises and a delay would:
+34A.   Result in significantly greater crop damage; or
+35B.  Necessitate a more extensive application of pesticides or use of more toxic 
+36pesticides.
+37A land manager providing delayed notification under this subsection shall inform the 
+38board no later than 10 days after the application of the circumstances necessitating the 
+Page 3 - 129LR0553(01)-11application and provide any other information required in rules adopted under subsection 
+29.
+37.  Waiver for public health emergencies and pest outbreaks that threaten severe 
+4economic or natural resource loss.  The board may waive notification requirements 
+5under subsection 3 in the event of a pest management emergency declared by the 
+6Governor, the commissioner or the Commissioner of Agriculture, Conservation and 
+7Forestry.
+88.  Records maintained.  The board shall require a land manager to maintain records 
+9sufficient to determine compliance with this section. The board shall establish record-
+10keeping requirements through rulemaking under subsection 9.
+119.  Rulemaking.  The board shall adopt rules to implement this section. The rules 
+12may provide additional means of identifying property registered under subsection 2 and 
+13alternate means of providing notification under subsection 3.  Rules adopted under this 
+14subsection are major substantive rules as defined in Title 5, chapter 375, subchapter 2-A.
+15§1471-DD.  Awareness of outdoor pesticides applications; role of the board
+161.  Public awareness.  The board shall increase awareness of the registry established 
+17under section 1471-CC using newspapers, public notices distributed to municipal offices 
+18and notices posted on the board's publicly accessible website and through cooperative 
+19efforts with other state agencies and private organizations.
+202.  Acceptance of funds.  The board may accept gifts, donations, grants and 
+21matching funds from any private or public source for the purposes of administering the 
+22pesticides notification registry established under section 1471-CC.  These funds may be 
+23used to publicize the registry, develop efficient mechanisms for land managers to access 
+24the registry and promote compliance.  The board shall deposit all funds accepted for these 
+25purposes with the Treasurer of State to be credited to the board's special fund under Title 
+267, section 621.  Any gift, donation, grant or matching funds accepted with a stipulated 
+27purpose may be used only for that purpose.
+28SUMMARY
+29This bill reestablishes the law, which was repealed by Public Law 2011, chapter 332, 
+30governing the development and maintenance of a registry of the properties of residents, 
+31lessees and property owners who request that their properties be placed on a registry in 
+32order that they receive advance notification of the outdoor application of pesticides near 
+33their properties.

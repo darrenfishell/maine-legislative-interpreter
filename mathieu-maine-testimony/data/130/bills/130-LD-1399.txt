@@ -1,0 +1,401 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1399
+H.P. 1033 House of  Representatives,  April 7, 2021
+An Act  To Provide  for Remote Notarization
+Received by the Clerk of the House on April  5, 2021.  Referred to  the Committee  on 
+Judiciary pursuant to  Joint Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative DOUDERA of Camden.
+
+Page 1 - 130LR1710(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  4 MRSA c. 19-A is enacted to read:
+3CHAPTER 19-A
+4REMOTE NOTARIZATION
+5§971.  Definitions
+6 As used in this chapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Appear.  "Appear" or "personally appear" or "in the presence of" means being in 
+9 the same physical location as another individual and close enough to see, hear, 
+10 communicate with and exchange tangible identification credentials with that individual; or 
+11 interacting with another individual by means of communication technology that complies 
+12 with the provisions of this chapter.
+132.  Communication technology.  "Communication technology" means an electronic 
+14 device or process that allows a notary public physically located in this State and a remotely 
+15 located individual to communicate with each other simultaneously by sight and sound, and 
+16 which, as necessary, makes reasonable accommodations for disabilities as required by state 
+17 and federal law. 
+183.  Credential analysis.  "Credential analysis" means a process or service that meets 
+19 the standards established by the secretary through which a 3rd person affirms the validity 
+20 of a government-issued identification credential through review of public and proprietary 
+21 data sources.
+224.  Electronic.  "Electronic" means relating to technology having electrical, digital, 
+23 magnetic, wireless, optical, electromagnetic or similar capabilities.
+245.  Electronic record.  "Electronic record" means information that is created, generated, 
+25 sent, communicated, received or stored by electronic means.
+266.  Electronic seal.  "Electronic seal" means information within a notarized electronic 
+27 record that confirms the remote online notary public's name, jurisdiction, identifying 
+28 number and commission expiration date and generally corresponds to information in notary 
+29 seals used on paper documents, as described in section 951.
+307.  Electronic signature.  "Electronic signature" means an electronic sound, symbol or 
+31 process attached to or logically associated with an electronic record and executed or adopted 
+32 by an individual with the intent to sign the electronic document.
+338.  Identity proofing.  "Identity proofing" means a process or service operating 
+34 according to standards established by the secretary through which a 3rd person affirms the 
+35 identity of an individual by means of dynamic knowledge-based authentication such as a 
+36 review of personal information from public or proprietary data sources or analysis of 
+37 biometric data such as, but not limited to, facial recognition, voiceprint analysis or 
+38 fingerprint analysis.
+Page 2 - 130LR1710(01)19.  Notarial act.  "Notarial act" means an act, whether performed with respect to a 
+2 tangible or electronic record, that a notarial officer may perform under the law of this State.  
+3 The term includes taking an acknowledgment, administering an oath or affirmation, taking 
+4 a verification on oath or affirmation, witnessing or attesting a signature, certifying or 
+5 attesting a copy and noting a protest of a negotiable instrument.
+610.  Notary public.  "Notary public" means a notary public commissioned in this State 
+7 in accordance with chapter 19.
+811.  Outside the United States.  "Outside the United States" means outside the 
+9 geographic boundaries of a state or commonwealth of the United States, the District of 
+10 Columbia, Puerto Rico, the United States Virgin Islands or any territory or insular 
+11 possession subject to the jurisdiction of the United States.
+1212.  Principal.  "Principal" means an individual making an oath, affirmation or 
+13 acknowledgement other than in the capacity of a witness for the remote online notarization 
+14 or an individual whose electronic signature is notarized in a remote online notarization.
+1513.  Remote online notarial certificate.  "Remote online notarial certificate" means a 
+16 form of an acknowledgement, jurat, verification on oath or affirmation or verification of 
+17 witness or attestation that is completed by a remote online notary public and:
+18 A.  Contains the remote online notary public's electronic signature, electronic seal, title, 
+19 commission and expiration date;
+20 B.  Contains required information concerning the date and place of the remote online 
+21 notarization;
+22 C.  Conforms to the requirements for an acknowledgement, jurat, verification on oath 
+23 or affirmation or verification of witness or attestation under the laws of this State; and
+24 D.  Indicates that the individual making the acknowledgement, oath or affirmation 
+25 appeared remotely online.
+2614.  Remote online notarization.  "Remote online notarization" or "remote online 
+27 notarial act" means a notarial act performed by means of communication technology that 
+28 meets the standards adopted under this chapter.
+2915.  Remote online notary public.  "Remote online notary public" means a notary 
+30 public who has been authorized by the secretary to perform remote online notarizations 
+31 under this chapter.
+3216.  Remote presentation.  "Remote presentation" means transmission to the remote 
+33 online notary public through communication technology of an image of a government-
+34 issued identification credential that is of sufficient quality to enable the remote online 
+35 notary public to identify the individual seeking the remote online notary public's services 
+36 and perform credential analysis.
+3717.  Remotely located individual.  "Remotely located individual" means an individual 
+38 who is not in the physical presence of the notary public.
+3918.  Secretary.  "Secretary" means the Secretary of State established in Title 5, chapter 
+40 5.
+41§972.  Standards for remote online notarization
+Page 3 - 130LR1710(01)1 The secretary shall, by rule, develop and maintain standards for remote online 
+2 notarization, including but not limited to standards for credential analysis and identity 
+3 proofing.  In developing standards for remote online notarization, the secretary shall review 
+4 and consider standards established by national associations and standard setting bodies for 
+5 notary publics.
+6§973.  Application; examination; fee
+7 A notary public may become a remote online notary public by meeting the 
+8 requirements of this section.
+91.  Application.  The notary public must submit to the secretary an application in a 
+10 format prescribed by the secretary, which must include:
+11 A.  The notary public's legal name and, if different, name to be used in acting as a 
+12 remote online notary public;
+13 B.  A certificate that the notary public will comply with the secretary's standards and 
+14 rules established pursuant to this chapter;
+15 C.  Proof of successful completion of the course and examination required under 
+16 subsection 2;
+17 D.  Disclosure of any and all professional or occupational license or commission 
+18 revocations or other disciplinary actions against the notary public;
+19 E.  Identification of the technology that the notary public intends to use, which must 
+20 conform to any rules or regulations adopted by the secretary; and
+21 F.  All information, evidence or declaration required by the secretary.
+222.  Instruction; examination.  The notary public shall complete a course of instruction 
+23 approved by the secretary and pass an examination based on the course.  The content of the 
+24 course shall include notarial rules, procedures and ethical obligations pertaining to 
+25 electronic notarization or any other relevant law or official guideline of the State.  The 
+26 course may be taken in conjunction with any course required by the secretary for a notary 
+27 public commission.
+283.  Fee.  The secretary may charge the notary public an application fee in an amount 
+29 necessary to administer this chapter.
+30§974.  Approval of application; term of registration
+311.  Approval.  Upon the notary public's fulfillment of the requirements for application 
+32 set out in section 973, the secretary shall approve the application and issue a unique 
+33 registration number to the applicant.
+342.  Failure to comply.  The secretary may reject an application if the notary public 
+35 fails to comply with any provision in this chapter.
+363.  Term.  Unless terminated pursuant to section 975, the term of registration to 
+37 perform electronic notarial acts begins on the registration start date set by the secretary and 
+38 continues as long as the notary public's commission pursuant to chapter 19 remains valid.
+39§975.  Disciplinary action; grounds; procedure; complaints
+Page 4 - 130LR1710(01)11.  Grounds.  The secretary may suspend, revoke or refuse to renew the commission 
+2 of a remote online notary public in the State.  The secretary's actions may be based on any 
+3 of the following grounds:
+4 A.  The remote online notary public has performed in an improper manner any duty 
+5 imposed upon the remote online notary public by law;  
+6 B.  The remote online notary public has performed acts not authorized by law; 
+7 C.  The remote online notary public violates the provisions of section 954-A or section 
+8 960;
+9 D.  The remote online notary public has been convicted of a crime as specified by rules 
+10 adopted by the secretary.  These rules must provide that a conviction for perjury, false 
+11 swearing, bribery, corrupt practices or forgery or related offenses may be a basis for 
+12 the secretary to suspend, revoke or refuse to renew the commission of a remote online 
+13 notary public; or 
+14 E.  The remote online notary public has allowed another individual to use that remote 
+15 online notary public's commission.
+162.  Procedure.  A remote online notary public commission may not be suspended, 
+17 revoked or refused for renewal for the grounds set forth in subsection 1 without prior 
+18 written notice and opportunity for hearing.  A remote online notary public commission may 
+19 not be suspended, revoked or refused for renewal under this section except by a decision 
+20 issued by the secretary or the secretary's designee.
+213.  Complaints.  Any person may file a complaint with the secretary seeking 
+22 disciplinary action against a remote online notary public.  Complaints must be in writing 
+23 in a form prescribed by the secretary.  The secretary may also bring a complaint against a 
+24 remote online notary public if the secretary determines that the remote online notary public 
+25 may have violated the provisions of subsection 1.  If the secretary determines that a 
+26 complaint alleges facts that, if true, would require revocation, suspension or nonrenewal of 
+27 commission or other disciplinary action, the secretary shall conduct a hearing pursuant to 
+28 the Maine Administrative Procedure Act.  Whenever the secretary establishes that a 
+29 complaint does not state facts that warrant a hearing, the complaint may be dismissed.  
+30 Persons making complaints must be advised in writing of all formal decisions made by the 
+31 secretary regarding that complaint.
+324.  Reinstatement.  Any individual whose remote online notary public commission 
+33 has been suspended, revoked or refused for renewal may apply to the secretary in writing 
+34 for the reinstatement of the remote online notary public commission or as set by rule for 
+35 convictions pursuant to subsection 1, paragraph D at a time specified in the decision of the 
+36 secretary, and, in the case of revocation, any individual may apply for a new commission 
+37 one year from the date of the secretary's original action.
+38§976.  Recommission; actions following termination
+391.  Recommissioned.  A former remote online notary public whose commission 
+40 terminated for a reason other than revocation or a denial of renewal and who is 
+41 recommissioned within 3 months of termination with the same electronic signature and 
+42 electronic seal is not required to comply with subsection 2.
+Page 5 - 130LR1710(01)12.  Required actions.  Except as provided in subsection 1, if a remote online notary 
+2 public's commission is terminated or revoked by the secretary, the remote online notary 
+3 public shall, within 4 months of termination or revocation:
+4 A.  Destroy the coding, disk, certificate, card, software or password that enables 
+5 electronic affixation of the remote online notary public's official electronic signature 
+6 or electronic seal; and
+7 B.  Certify compliance with this section to the secretary in accordance with rules 
+8 adopted by the secretary.
+9§977.  Authority to perform remote online notarizations
+101.  Location.  A remote online notary public physically located in this State may 
+11 perform a remote online notarial act using communication technology in accordance with 
+12 this chapter and any rules adopted by the secretary for a remotely located individual who 
+13 is physically located:
+14 A.  In the State;
+15 B.  Outside this State but within the United States; or
+16 C.  Outside the United States as long as:
+17 (1)  The remote online notary public has no actual knowledge that the act by the 
+18 remotely located individual of making a statement or signing a document is 
+19 prohibited in the jurisdiction in which the individual is located; and
+20 (2)  The individual placing the electronic signature on the electronic record 
+21 confirms to the remote online notary public that the requested remote online 
+22 notarial act and the electronic record:
+23 (a)  Are part of or pertain to a matter that is to be filed with or is currently 
+24 before a court, governmental entity or other entity in the United States;
+25 (b)  Relates to property located in the United States; or
+26 (c)  Relates to a transaction substantially connected to the United States.
+27§978.  Electronic record of remote online notarizations
+28 A remote online notary public:
+291.  Electronic journal.  Shall keep a secure electronic journal of each remote online 
+30 notarial act performed by the remote online notary public that contains:
+31 A.  The date and time of the notarization;
+32 B.  The type of notarial act;
+33 C.  The type, the title or a description of the electronic record or proceeding;
+34 D.  The printed name and address of each principal involved in the transaction or 
+35 proceeding;
+36 E.  The fee, if any, charged for the notarization; and
+37 F.  Evidence of the identity of each principal involved in the transaction or proceeding 
+38 in the form of:
+Page 6 - 130LR1710(01)1 (1)  A statement that the individual is personally known to the remote online notary 
+2 public;
+3 (2)  A notation of the type of identification document provided to the remote online 
+4 notary public;
+5 (3)  A record of the identity verification made under this chapter, if applicable; or 
+6 (4)  All of the following:
+7 (a)  The printed name and address of each credible witness swearing to or 
+8 affirming the individual's identity; and
+9 (b)  For each credible witness not personally known to the remote online notary 
+10 public, a description of the type of identification documents provided to the 
+11 remote online notary public;
+122.  Audio and video copy.  Shall create an audio and video copy of the performance 
+13 of the remote online notarial act;
+143.  Integrity.  Shall take reasonable steps to:
+15 A.  Ensure the integrity, security and authenticity of remote online notarizations;
+16 B.  Maintain a backup record for the electronic journal required by subsection 1 and 
+17 the recording required by subsection 2; and
+18 C.  Protect the backup record from unauthorized use;
+194.  Record retention.  Shall maintain the electronic journal required by subsection 1 
+20 and the recordings required by subsection 2 for at least 10 years after the date of the 
+21 transaction or proceeding; and
+225.  Custodian.  May designate a custodian of the recording and the electronic journal 
+23 required in this section, as long as:
+24 A.  If the custodian is the employer of the remote online notary public, the custodial 
+25 relationship is evidenced by a written document signed by the remote online notary 
+26 public and the employer; and 
+27 B.  The repository meets standards established by the secretary in rule.
+28§979.  Standards and procedures for record retention
+29 The secretary shall enact rules establishing standards for the retention of a video and 
+30 audio copy of the performance of a remote online notarial act, including standards for 
+31 3rd-party repositories and procedures for the preservation of the audio and video copy and 
+32 the electronic journal if the remote online notary public dies or is adjudicated incompetent 
+33 or if the remote online notary public's commission or authority to perform notarial acts is 
+34 otherwise terminated or revoked.
+35§980.  Use of electronic journal, signature and seal
+36 A remote online notary public:
+371.  Keep seal secure.  Shall keep the remote online notary public's electronic journal, 
+38 electronic signature and electronic seal secure;
+392.  Prohibit use.  May not allow another individual to use the remote online notary 
+40 public's electronic signature or electronic seal;
+Page 7 - 130LR1710(01)13.  Attach seal.  Shall attach the remote online notary public's electronic signature and 
+2 electronic seal to the remote online notarial certificate of an electronic record in a manner 
+3 that renders any subsequent change or modification to the electronic record to be evident;
+44.  Notify of theft.  Shall immediately notify an appropriate law enforcement agency 
+5 and the secretary of the theft or vandalism of the remote online notary public's electronic 
+6 journal under section 978, electronic signature or electronic seal; and
+75.  Notify of loss.  Shall immediately notify the secretary of the loss or use by another 
+8 individual of the remote online notary public's electronic journal, electronic signature or 
+9 electronic seal.
+10§981. Procedures for remote online notarization
+111.  Verification of identity.  In performing a remote online notarization, a remote 
+12 online notary public shall verify the identity of an individual creating an electronic 
+13 signature at the time that the signature is taken by using communication technology that 
+14 meets the requirements of this chapter and rules adopted by the secretary pursuant to this 
+15 chapter by:
+16 A.  The remote online notary public's personal knowledge of the individual creating 
+17 the electronic signature; or
+18 B.  Evidence of the following:
+19 (1)  Remote presentation by the individual creating the electronic signature of a 
+20 government-issued identification credential, such as a passport or driver's license, 
+21 that contains the signature and a photograph of the individual;
+22 (2)  Credential analysis; and
+23 (3)  Identity proofing.
+242.  Secure technology.  The remote online notary public shall take reasonable steps to 
+25 ensure that the communication technology used in a remote online notarization is secure 
+26 from unauthorized interception.
+273.  Certificate.  The remote online notarial certificate for a remote online notarization 
+28 must state that the individual making the acknowledgement or making the oath appeared 
+29 remotely online.
+30§982.  Fees for remote online notarization
+31 A remote online notary public or the remote online notary public's employer may 
+32 charge a fee for performance of remote online notarization.
+33§983.  Recording of electronic record
+341.  Originals.  If a law requires as a condition for recording that a document be an 
+35 original, be on paper or another tangible medium or be in writing, the requirement is 
+36 satisfied by a paper copy of an electronic record that complies with the requirements of this 
+37 chapter.
+382.  Signatures.  If a law requires, as a condition for recording, that a document be 
+39 signed, the requirement is satisfied by an electronic signature.  A requirement that a 
+40 document or a signature associated with a document be notarized, acknowledged, verified, 
+41 witnessed or made under oath is satisfied if the electronic signature of the individual 
+Page 8 - 130LR1710(01)42 authorized to perform that act, and all other information required to be included, is attached 
+43 to or logically associated with the document or signature.  A physical or electronic image 
+44 of a stamp, impression or seal need not accompany an electronic signature if the remote 
+45 online notary public has attached an electronic notarial certificate that meets the 
+46 requirements of this chapter.
+63.  Acknowledgments.  If the remote online notarial act is an acknowledgment, then 
+7 the acknowledgement form must indicate that the individual signing the document 
+8 appeared using communication technology.  The secretary by rule shall develop forms of 
+9 acknowledgement for an acknowledgement performed online.
+10§984.  Recording electronic records in tangible form
+111.  Originals.  If a law requires, as a condition for recording, that a document be an 
+12 original, be on paper or another tangible medium, be in writing or be signed, the 
+13 requirement is satisfied by a paper copy of an electronic document bearing an electronic 
+14 signature that a remote online notary public has certified to be a true and correct copy of a 
+15 document that was originally in electronic form and bearing an electronic signature 
+16 pursuant to this section.
+172.  Signatures.  A requirement that a document or a signature associated with a 
+18 document be notarized, acknowledged, verified, witnessed or made under oath is satisfied 
+19 by a paper copy of an electronic document bearing an electronic signature of the individual 
+20 authorized to perform that act that a remote online notary public has certified to be a true 
+21 and correct copy of a document that was originally in electronic form and bearing an 
+22 electronic signature of the individual pursuant to this section.  A physical or electronic 
+23 image of a stamp, impression or seal need not accompany an electronic signature.
+243.  Paper copies.  A paper copy of a document that was originally in electronic form 
+25 and that is otherwise entitled to be recorded under the laws of this State must be considered 
+26 satisfactory if the paper copy has been certified to be a true and correct copy of the 
+27 electronic original by a remote online notary public as evidenced by a certificate attached 
+28 to or made a part of the paper copy.  The certificate must be signed and dated by the remote 
+29 online notary public and be signed in the same manner as on file with the secretary, identify 
+30 the jurisdiction in which the certification is performed, contain the title of the remote online 
+31 notary public, indicate the date of expiration, if any, of the remote online notary public's 
+32 commission and include an official stamp of the remote online notary public affixed to or 
+33 embossed on the certificate.
+344.  Certification.  The following form of certificate is sufficient for the purposes of 
+35 subsection 3, if completed with the information required in subsection 3:
+36 State of Maine
+37 County of ……………
+38 I certify that the foregoing and annexed document entitled …………………, dated 
+39 ……… and containing …… pages is a true and correct copy of an electronic document 
+40 bearing one or more electronic signatures this ……… day of ……………………….. . 
+41 ………………………………
+42 Signature of notary public1
+2
+3
+4
+5
+Page 9 - 130LR1710(01)15.  Verification of certification.  A remote online notary public making the 
+2 certification provided in this section shall confirm that the electronic record contains an 
+3 electronic signature that is capable of independent verification and renders any subsequent 
+4 changes or modifications to the electronic record evident; shall personally print or 
+5 supervise the printing of the electronic record onto paper; and may not make any changes 
+6 or modifications to the electronic record other than the certification described in this 
+7 section.
+86.  Conclusive evidence.  If a certificate is completed with the information required by 
+9 this section and is attached to or made a part of a paper document, the certificate must be 
+10 conclusive evidence that the requirements of this section have been satisfied with respect 
+11 to the document.
+127.  Property conveyances; encumbrances.  A document purporting to convey or 
+13 encumber real property or any interest in real property that has, by inadvertence or 
+14 excusable neglect, been recorded by an individual recording a document for the jurisdiction 
+15 in which the real property is located, although the document may not have been certified 
+16 in accordance with the provisions of this section, imparts the same notice to 3rd persons 
+17 and is effective from the time of recording as if the document had been certified in 
+18 accordance with the provisions of this section.
+19 This section does not apply to a plat, map or survey of real property if under another 
+20 law of this State or under a rule, regulation or ordinance applicable to an individual 
+21 recording a document there are requirements of format or medium for the execution, 
+22 creation or recording of such plat, map or survey beyond the requirements applicable to a 
+23 deed to real property, or requirements that such plat, map or survey must be recorded in a 
+24 different location than a deed to real property.
+25§985.  Wrongful possession of software or hardware; criminal offense
+26 An individual who, without authorization, knowingly obtains, conceals, damages or 
+27 destroys the certificate, disk, coding, card, program, software or hardware enabling a 
+28 remote online notary public to affix an official electronic signature or electronic seal 
+29 commits a criminal offense.
+30§986.  Rulemaking
+31 The secretary shall adopt rules to implement this chapter, including rules to facilitate 
+32 remote online notarizations.  Rules adopted pursuant to this section are routine technical 
+33 rules as defined in Title 5, chapter 375, subchapter 2-A.
+34Sec. 2.  Rulemaking.  Within 12 months of the effective date of this Act, the 
+35 Secretary of State shall adopt rules to implement the Maine Revised Statutes, Title 4, 
+36 chapter 19-A.
+37SUMMARY
+38 This bill provides for remote online notarization by notary publics located in the State.  
+39 The bill is based on the model legislation of the Mortgage Bankers Association and the 
+40 American Land Title Association.38
+39
+40

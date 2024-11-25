@@ -1,0 +1,69 @@
+ 
+Internal Use 
+       
+ 
+ 
+Kathleen Newman, Director of Government Affairs 
+LD 1887, An Act to Clarify the Review and Procurement Process for Nonwires Alternatives 
+ 
+May 16, 2023 
+ 
+Testifying: Neither for nor against 
+Senator Lawrence, Representative Zeigler, Members of the Joint Standing Committee on Energy, 
+Utilities and Technology, my name is Kathleen Newman, presenting testimony on behalf of 
+Central Maine Power company neither for nor against portions of LD 1887, An Act to Clarify the 
+Review and Procurement Process for Nonwires Alternatives.   
+As currently drafted, CMP does not support the expansion of the nonwires alternative program 
+proposed in this legislation, and instead suggests possible exclusion criteria (see below). CMP has 
+significant concerns with adding broad categories like “substation component” to the MPUC and 
+NWA review process as many times substation upgrades are due to emergent issues or 
+unforeseen loading changes in high peak times of the year, thus these upgrades are often very 
+time sensitive. Requiring NWA and MPUC review for “substation components” will result in 
+unacceptable and unmanageable delays to time sensitive substation upgrades that are needed 
+for reliability and load growth and thus, the legislation written as is will result in additional costs 
+for CMP customers. For example, should an emergent substation upgrade need to undergo NWA 
+and MPUC review, CMP would then need to implement costly interim solutions- such as mobile 
+substations for long periods of times which can take away from the fleet of mobiles used to 
+perform substation maintenance and increase costs. Another complexity we have recently seen 
+with the expansion of Distributed Generation (“DG”) is not being able to allow DG’s to be in-
+service when mobile substations are in service due to reverse power protection concerns.  
+Other planned substation upgrades that are not driven from emergent issues are not typically 
+good NWA candidates. These projects are either being required to address asset condition, N-1 
+back-up redundancy or capacity constraints. NWA solutions are not viable alternatives to address 
+asset condition or N-1 redundancy driven upgrades. Regarding capacity constraints, traditional 
+wires upgrades generally provide considerable headroom which will be needed to accommodate 
+future load increases expected from beneficial electrification. NWA solutions do not provide a 
+comparable level of margin to the system which would require a re-evaluation, and likely 
+additional upgrades, when spot load growth occurs. CMP is seeing a substantial amount of spot 
+load growth requests across its’ entire service territory from EV chargers and heat pump 
+additions to Cannabis growing facilities. Planned upgrades due to asset conditions can also 
+quickly become emergent triggering the issues discussed above.  
+
+ 
+Internal UseIt is important to also note that CMP reviews all substation projects for potential NWA solutions 
+as part of its internal review process. For example, CMP identified two possible substation NWA 
+projects to address loading constraints (Lovell and Limerick Substations). These projects were 
+brought forward to the NWAC for review but were ultimately found not to be good NWA 
+candidates. 
+While CMP recognizes that certain substation component projects are excluded under 35-A 
+M.R.S. §3132-B, CMP’s concerns above remain true for all substation component projects 
+regardless of cost and therefore, CMP urges the Committee to amend the current language of 
+35-A M.R.S. §3132-A to include the similar exclusion criteria as included in §3132-B. The 
+proposed exclusion language would read:  
+  Excluded Projects; criteria: The Commission, by rule, shall develop criteria to exclude 
+from investigation by the nonwires alternative coordinator and MPUC review substation and 
+‘substation component’ projects under this rule best suited to transmission and distribution 
+investments, including but not limited to projects that are:   
+ A. Necessary for redundant supply to a radial load; 
+ B. Necessary to address maintenance, asset condition or safety needs;  
+ C. Necessary to address stability or short circuit problems; or  
+ D. Required to be in service within one year based on the controlling load forecast.  
+CMP adds in MPUC review into this exclusion, unlike the current criteria of §3132-B, as parties 
+have experienced with dockets like Section 31, Section 80, and recently Section 1, these 
+approvals take time and often stay open at the Commission for over six months. As discussed 
+above, these project upgrades are often time sensitive and waiting for NWA and then MPUC 
+approval for such upgrades will result in extra costs for CMP customers while temporary 
+solutions are deployed.  
+We appreciate your consideration of our position and will be available at the work session. 
+ 
+ 

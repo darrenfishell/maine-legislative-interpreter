@@ -1,0 +1,235 @@
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1778
+H.P. 1141 House of Representatives, April 25, 2023
+An Act to Ensure a Sustainable Electric Grid
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative PERKINS of Dover-Foxcroft.
+Cosponsored by Senator HARRINGTON of York and
+Representatives: ALBERT of Madawaska, BABIN of Fort Fairfield, CAMPBELL of 
+Orrington, FOSTER of Dexter, HENDERSON of Rumford, PAUL of Winterport.
+
+Page 1 - 131LR0775(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  26 MRSA §1304, sub-§1-A, as enacted by PL 2021, c. 705, §2, is amended 
+3 by amending the first blocked paragraph to read:
+4 "Assisted project" does not include a project for which the Public Utilities Commission 
+5 approved a term sheet or contract or otherwise provided project-specific authorization or 
+6 approval pursuant to Title 35-A on or before June 29, 2021 or a project that is participating 
+7 in net energy billing and that meets the requirements of Title 35-A, section 3209-A, 
+8 subsection 7 or Title 35-A, section 3209-B.
+9Sec. 2.  35-A MRSA §3209-A, as amended by PL 2021, c. 659, §§17 and 18 and c. 
+10 705, §13, is repealed.
+11Sec. 3.  35-A MRSA §3209-B, as amended by PL 2021, c. 659, §19, is repealed.
+12Sec. 4.  35-A MRSA §3209-C is enacted to read:
+13§3209-C.  Net energy billing requirement prohibited
+14 The commission may not by rule or order require a transmission and distribution utility 
+15 to allow a customer to participate in net energy billing. For the purposes of this section, 
+16 "net energy billing" means a billing and metering practice under which a customer of a 
+17 transmission and distribution utility has the ability to receive a bill credit or other 
+18 adjustment of the customer's transmission and distribution service bill by delivering 
+19 electricity to the transmission and distribution utility from an electric generating facility 
+20 owned or operated by that customer or in which that customer has a financial interest that 
+21 is located in the service territory of the transmission and distribution utility in the State.
+22Sec. 5.  35-A MRSA §3210, sub-§2, ¶B-3, as amended by PL 2019, c. 477, §1, is 
+23 further amended to read:
+24 B-3.  "Renewable capacity resource" means a source of electrical generation:
+25 (1)  Whose total power production capacity does not exceed 100 megawatts and 
+26 relies on one or more of the following:
+27 (a)  Fuel cells;
+28 (b)  Tidal power;
+29 (d)  Geothermal installations;
+30 (e)  Hydroelectric generators that meet all state and federal fish passage 
+31 requirements applicable to the generator;
+32 (f)  Biomass generators that are fueled by wood,  or wood waste  or, landfill gas  
+33 or anaerobic digestion of agricultural products, by-products or wastes; or
+34 ( g)  Anaerobic digestion of by-products of waste from animals or agricultural 
+35 crops, food or vegetative material, algae or organic refuse; or
+36 (h)  Wind power installations or solar power installations.
+37 ( 2)  That relies on wind power installations or solar power installations.
+38Sec. 6.  35-A MRSA §3210, sub-§2, ¶C, as amended by PL 2009, c. 542, §5, is 
+39 further amended to read:
+Page 2 - 131LR0775(01)1 C.  "Renewable resource" means a source of electrical generation:
+2 (1)  That qualifies as a small power production facility under the Federal Energy 
+3 Regulatory Commission rules, 18 Code of Federal Regulations, Part 292, Subpart 
+4 B, as in effect on January 1, 1997; or
+5 (2)  Whose total power production capacity does not exceed 100 megawatts and 
+6 that relies on one or more of the following:
+7 (a)  Fuel cells;
+8 (b)  Tidal power;
+9 (c)  Solar arrays and installations;
+10 (d)  Wind power installations;
+11 (e)  Geothermal installations;
+12 (f)  Hydroelectric generators;
+13 (g)  Biomass generators that are fueled by wood or wood waste, landfill gas or 
+14 anaerobic digestion of agricultural products, by-products or wastes; or
+15 (h)  Generators fueled by municipal solid waste in conjunction with recycling.
+16Sec. 7.  35-A MRSA §3623, sub-§3, ¶C, as enacted by PL 2021, c. 604, §3, is 
+17 amended to read:
+18 C.  Satisfy the limits on net generating capacity established in subsection 2, paragraph 
+19 A; and
+20Sec. 8.  35-A MRSA §3623, sub-§3, ¶D, as enacted by PL 2021, c. 604, §3, is 
+21 amended to read:
+22 D.  Be highly efficient, as determined by the commission; and .
+23Sec. 9.  35-A MRSA §3623, sub-§3, ¶E, as enacted by PL 2021, c. 604, §3, is 
+24 repealed.
+25Sec. 10.  35-A MRSA §10109, sub-§3-B is enacted to read:
+263-B.  Ceiling on energy efficiency spending.  There is established a ceiling on energy 
+27 efficiency spending from the trust fund equal to $5 per carbon dioxide allowance. Until 
+28 that price ceiling is adjusted or removed, only the first $5 of each carbon dioxide allowance 
+29 sold and deposited in the trust fund may be awarded to or directed to qualified projects for 
+30 purposes of energy efficiency improvements.
+31 A.  The trust shall transfer funds, to the extent funds are available, to the commission 
+32 each year during fiscal years 2023-24 and 2024-25 in accordance with this subsection 
+33 to be used by the commission for disbursements to affected customers. An affected 
+34 customer who uses the entire disbursement received by that customer toward an 
+35 efficiency measure approved by the trust in the fiscal year in which it is received must 
+36 receive $1 of assistance from the trust for every $3 of the disbursement plus any 
+37 additional customer funds that are applied by the affected customer toward the cost of 
+38 the approved efficiency measure as long as the total of assistance from the trust and the 
+39 disbursement allocated by the commission under this subsection for that customer for 
+40 that fiscal year does not exceed 65% of the total measure cost.
+Page 3 - 131LR0775(01)1 For the purposes of this subsection, "affected customer" means a customer who is not 
+2 primarily in the business of selling electricity, is receiving service at a transmission or 
+3 subtransmission voltage level as defined in section 10110, subsection 6 within the 
+4 electrical utility transmission system administered by an independent system operator 
+5 of the New England bulk power system or a successor organization and is an 
+6 energy-intensive manufacturer, as defined in reports prepared by the United States 
+7 Energy Information Administration. The commission may also determine that a 
+8 manufacturer not defined as an energy-intensive manufacturer in reports prepared by 
+9 the United States Energy Information Administration is an affected customer if that 
+10 manufacturer meets the other requirements of the definition under this subsection.
+11 The commission shall direct funds to be dispersed quarterly during fiscal years 2023-24 
+12 and 2024-25 for the benefit of affected customers in proportion to their retail purchase 
+13 of electricity as measured in kilowatt-hours for the prior calendar year. The total 
+14 amount to be disbursed from the fund, to the extent those funds are available, must be 
+15 $3,000,000 in fiscal year 2023-24 and $3,000,000 in fiscal year 2024-25.
+16 During fiscal years 2023-24 and 2024-25, an affected customer who receives a 
+17 disbursement under this subsection is not eligible to receive financial or other 
+18 assistance from the trust fund established in this section except as allowed under this 
+19 subsection. This ineligibility does not apply to any trust program opportunity notices 
+20 issued before July 1, 2016 or to any affected customer that elects in writing to the 
+21 commission prior to December 1, 2023 to not receive a disbursement under this 
+22 subsection for the full period of fiscal years 2023-24 and 2024-25. The commission 
+23 shall reduce the total amount to be disbursed as necessary to reflect the share of load 
+24 represented by affected customers electing to opt out.
+25 B.  In fiscal years 2023-24 and 2024-25, the trust shall transfer to the commission for 
+26 distribution to Maine-based energy-intensive businesses, other than affected 
+27 customers, any revenue received that is in excess of the sum of:
+28 (1)  The first $5 of each carbon dioxide allowance sold; and
+29 (2)  The transfer, in accordance with paragraph A, to the commission of $3,000,000 
+30 to be used for disbursements to affected customers.
+31 C.  Beginning with fiscal year 2025-26:
+32 (1)  Revenue received by the trust from carbon dioxide allowances valued above 
+33 $5 up to a limit of $3,000,000 per year must be transferred to the commission for 
+34 use by the commission for the benefit of affected customers in accordance with 
+35 paragraph A; and 
+36 (2)  Revenue received by the trust in excess of the amount transferred in accordance 
+37 with subparagraph (1) must be transferred to the commission for distribution to 
+38 Maine-based energy-intensive businesses, other than affected customers, up to an 
+39 additional $3,000,000 annually.
+40 Any funds received by the trust in excess of a value of $5 per carbon dioxide allowance 
+41 plus $6,000,000 must be transferred to the commission for distribution to electric 
+42 ratepayers in a manner designed to provide the greatest benefit to the state economy as 
+43 determined by the commission.
+Page 4 - 131LR0775(01)1 The commission may adopt rules to implement this subsection. Rules adopted under this 
+2 subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+3Sec. 11.  35-A MRSA §10109, sub-§4, as amended by PL 2021, c. 716, §2, is 
+4 further amended to read:
+54.  Expenditures; projects.  Except for transfers required under subsection 3-B and 
+6 other costs authorized in accordance with this chapter, funds in the trust fund must be 
+7 expended in accordance with this subsection.
+8 A.  Trust funds must be allocated for measures, investments, loans, technical assistance 
+9 and arrangements that reduce electricity consumption, increase energy efficiency or 
+10 reduce greenhouse gas emissions and lower energy costs at commercial or industrial 
+11 facilities and for investment in measures that lower residential heating energy demand 
+12 and reduce greenhouse gas emissions.  The measures that lower residential heating 
+13 demand must be fuel-neutral and may include, but are not limited to, energy efficiency 
+14 improvements to residential buildings, energy storage systems and upgrades to 
+15 efficient heating systems that will reduce residential energy costs and greenhouse gas 
+16 emissions, as determined by the board.  The trust shall ensure that measures to reduce 
+17 the cost of residential heating are available for low-income households as defined by 
+18 the trust.  When promoting electricity cost and consumption reduction, the trust may 
+19 consider measures at commercial and industrial facilities that also lower peak capacity 
+20 demand, including energy storage systems.  Subject to the apportionment pursuant to 
+21 this subsection, the trust shall fund conservation programs that give priority to 
+22 measures with the highest benefit-to-cost ratio, as long as cost-effective collateral 
+23 efficiency opportunities are not lost, and that:
+24 (1)  Reliably reduce greenhouse gas production and heating energy costs by fossil 
+25 fuel combustion in the State at the lowest cost in funds from the trust fund per unit 
+26 of emissions; or
+27 (2)  Reliably increase the efficiency with which energy in the State is consumed at 
+28 the lowest cost in funds from the trust fund per unit of energy saved.
+29 B.  Expenditures from the trust fund relating to conservation of electricity and 
+30 mitigation or reduction of greenhouse gases must be made predominantly on the basis 
+31 of a competitive bid process for long-term contracts, subject to rules adopted by the 
+32 board under section 10105.  Rules adopted by the board to implement the competitive 
+33 bid process under this paragraph may not include an avoided cost methodology for 
+34 compensating successful bidders.  Bidders may propose contracts designed to produce 
+35 greenhouse gas savings or electricity conservation savings, or both, on a unit cost basis.  
+36 Contracts must be commercially reasonable and may require liquidated damages to 
+37 ensure performance.  Contracts must provide sufficient certainty of payment to enable 
+38 commercial financing of the conservation measure purchased and its installation.
+39 C.  The board may target bid competitions in areas or to participants as they consider 
+40 necessary, as long as the requirements of paragraph A are satisfied.
+41 D.  Community-based renewable energy projects, as defined in section 3602, 
+42 subsection 1, may apply for funding from the trust to the extent they are eligible under 
+43 paragraph A.
+Page 5 - 131LR0775(01)1 E.  The size of a project funded by the trust fund is not limited as long as funds are 
+2 awarded to maximize energy efficiency and support greenhouse gas reductions and to 
+3 fully implement the triennial plan.
+4 F.  No more than $800,000 of trust fund receipts in any one year may be used for the 
+5 costs of administering the trust fund pursuant to this section. The limit on 
+6 administrative costs established in this paragraph does not apply to the following costs 
+7 that may be funded by the trust fund:
+8 (1)  Costs of the Department of Environmental Protection for participating in the 
+9 regional organization as defined in Title 38, section 580‑A, subsection 20 and for 
+10 administering the allowance auction under Title 38, chapter 3‑B; and
+11 (2)  Costs of the Attorney General for activities pertaining to the tracking and 
+12 monitoring of allowance trading activity and managing and evaluating the trust's 
+13 funding of conservation programs.
+14 G.  In order to minimize administrative costs and maximize program participation and 
+15 effectiveness, the trustees shall, to the greatest extent feasible, coordinate the delivery 
+16 of and make complementary the energy efficiency programs under this section and 
+17 other programs under this chapter.
+18 H.  The trust shall consider delivery of efficiency programs by means of contracts with 
+19 service providers that participate in competitive bid processes for reducing energy 
+20 consumption within individual market segments or for particular end uses.
+21 I.  A trade association aggregator is eligible to participate in competitive bid processes 
+22 under this subsection.
+23 J.  Trust fund receipts must, upon request by the Department of Environmental 
+24 Protection, fund research approved by the Department of Environmental Protection in 
+25 an amount of up to $100,000 per year to develop new categories for carbon dioxide 
+26 emissions offset projects, as defined in Title 38, section 580‑A, subsection 6, that are 
+27 located in the State.  Expenditures on research pursuant to this paragraph are not 
+28 considered administrative costs under paragraph F, subparagraph (1).
+29 K.  The trust shall establish an industrial climate transition initiative to develop and 
+30 support climate change mitigation strategies designed to reduce greenhouse gas 
+31 emissions at industrial facilities in the State.  In establishing the initiative and 
+32 developing climate change mitigation strategies for industrial facilities, the trust shall:
+33 (1)  Prioritize mitigation strategies identified in the State's climate action plan, as 
+34 adopted and updated under Title 38, section 577, that offer the most cost-effective 
+35 means of reducing greenhouse gas emissions at industrial facilities; and
+36 (2)  Consider mitigation strategies and other recommendations identified by any 
+37 working group, task force or other advisory body that is established by the Maine 
+38 Climate Council, established under Title 38, section 577‑A, to develop strategies 
+39 and other recommendations to reduce greenhouse gas emissions at industrial 
+40 facilities in the State.
+41 The trust may allocate funds from the trust fund, and may expend any federal funds or 
+42 other public or private funding that may be available, to establish the initiative under 
+Page 6 - 131LR0775(01)43 this paragraph and to develop and support climate change mitigation strategies 
+44 designed to reduce greenhouse gas emissions at industrial facilities in the State.
+3SUMMARY
+4 This bill makes the following changes to the energy laws. 
+5 1.  It repeals the laws governing net energy billing and provides that the Public Utilities 
+6 Commission may not require a transmission and distribution utility to allow a customer to 
+7 participate in net energy billing.
+8 2.  It changes the definitions of "renewable capacity resource" and "renewable 
+9 resource."
+10 3.  It sets a ceiling on energy efficiency spending from the Regional Greenhouse Gas 
+11 Initiative Trust Fund and directs revenue received in excess of this ceiling to affected 
+12 customers, Maine-based energy-intensive businesses and electric ratepayers.1
+2
+4

@@ -1,0 +1,142 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1845
+H.P. 1177 House of Representatives, April 27, 2023
+An Act to Regulate Outdoor Lighting
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative OSHER of Orono.
+Cosponsored by Senator GROHOSKI of Hancock and
+Representatives: KESSLER of South Portland, LOOKNER of Portland, O'NEIL of Saco, 
+RUNTE of York, WILLIAMS of Bar Harbor, Senator: BRENNER of Cumberland.
+
+Page 1 - 131LR1986(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §1769, sub-§2, ¶B, as enacted by PL 1991, c. 481, §1, is amended 
+3 to read:
+4 B.  The luminaire's maximum illuminance does not exceed the minimum illuminance 
+5 recommended for that purpose by the Illuminating Engineering Society of America or 
+6 the federal Department of Transportation; and
+7Sec. 2.  5 MRSA §1769, sub-§2, ¶B-1 is enacted to read:
+8 B-1.  In the case of a permanent outdoor luminaire installed to illuminate a building 
+9 owned or leased by the State or the grounds of such a building, the luminaire’s 
+10 illuminance is consistent with relevant lighting zone illuminance recommendations of 
+11 the Illuminating Engineering Society; and
+12Sec. 3.  38 MRSA c. 35 is enacted to read:
+13CHAPTER 35
+14LIGHT POLLUTION
+15§3131.  Outdoor lighting
+16 This section governs outdoor lighting fixtures. Nothing in this section limits the 
+17 application of Title 5, section 1769 or Title 23, section 708 governing the use of state funds 
+18 to install or replace outdoor lighting fixtures.
+191. Definitions.  As used in this section, unless the context otherwise indicates, the 
+20 following terms have the following meanings.
+21 A.  "Outdoor lighting fixture" means an outdoor artificial lighting device, whether 
+22 temporary, portable or permanently installed, including but not limited to a searchlight, 
+23 spotlight, floodlight or other device for lighting a landscape, advertisement, structure, 
+24 parking lot or street that uses:
+25 (1) One or more incandescent light bulbs that use in total more than 150 watts of 
+26 electricity; or
+27 (2) Any other lighting device that uses more than 70 watts of electricity.
+28 B.  "Mercury vapor lamp" has the same meaning as in 10 Code of Federal Regulations, 
+29 Section 431.282 (2009).
+30 C.  "Place" means, with respect to a temporary or portable outdoor lighting fixture, to 
+31 place and use outside.
+32 D. "Replace" means, with respect to an outdoor lighting fixture, to replace an outdoor 
+33 lighting fixture that is nonfunctional with a new outdoor lighting fixture. 
+34 E. "Shielded" means, with respect to an outdoor lighting fixture, that a shield or other 
+35 device has been placed on the fixture that ensures that light emitted from the fixture is 
+36 projected below a horizontal plane running through a point immediately above the 
+37 emitting light, as specified by the department by rule.
+Page 2 - 131LR1986(01)12. Prohibition.  Beginning January 1, 2024, except as provided in subsection 3, a 
+2 person may not:
+3 A. Place or install an outdoor lighting fixture unless the fixture is shielded or replace 
+4 an outdoor lighting fixture unless the replacement is shielded;
+5 B.  Illuminate an outdoor lighting fixture between 11 p.m. and sunrise unless the fixture 
+6 is shielded; or
+7 C. Place or install an outdoor lighting fixture that uses a mercury vapor lamp or replace 
+8 an outdoor lighting fixture with one that uses a mercury vapor lamp. 
+93. Exemptions.  The following are exempt from the requirements of subsection 2:
+10 A. An outdoor lighting fixture used to illuminate signs on the Maine Turnpike or an 
+11 interstate highway as defined in Title 23, section 1903, subsection 3;
+12 B. An outdoor lighting fixture used at an airport or otherwise necessary for aircraft 
+13 safety, as determined by the department by rule; and
+14 C.  An outdoor lighting fixture used at a farm for the safety of agricultural labor as 
+15 defined in Title 26, section 1043, subsection 1.
+164. Ratemaking; public utilities.  A public utility regulated by the Public Utilities 
+17 Commission under Title 35-A that prudently incurs costs to comply with the requirements 
+18 of subsection 2 or an ordinance described in subsection 5 is entitled to recover those costs 
+19 in rates.
+205. Application; enforcement.  This subsection governs the application and 
+21 enforcement of this section.
+22 A. The provisions of subsection 2 do not apply in a municipality that has adopted an 
+23 ordinance that includes the requirements of subsection 2 or requirements stricter than 
+24 those in subsection 2.   The ordinance must include the exemptions specified in 
+25 subsection 3 and no other exemptions.  A municipality that has adopted such an 
+26 ordinance shall notify the department and provide to the department an electronic link 
+27 to the ordinance.  The department shall post on its publicly accessible website a link to 
+28 each such ordinance.  This paragraph places express limitations on municipal home 
+29 rule authority.
+30 B. The department shall enforce the requirements of this section in any area of the State 
+31 not governed by an ordinance described in paragraph A. 
+326. Violations.  Whenever it appears, after investigation, that there is or has been a 
+33 violation of subsection 2,  the commissioner may, after holding an enforcement hearing in 
+34 accordance with section 347-A, subsection 2:
+35 A. For a first violation, issue to the violator an order to take such action as is necessary 
+36 for the violator to come into compliance, including but not limited to ceasing use of an 
+37 outdoor lighting fixture in violation of subsection 2 or replacing an outdoor lighting 
+38 fixture with one that complies with subsection 2; and
+39 B. If the commissioner finds that an order issued under paragraph A has not been 
+40 complied with after 30 days, or finds that the violator has committed another violation 
+41 of this section, assess the violator an administrative penalty not to exceed $25 for each 
+42 outdoor lighting fixture that is the subject of the violation.  The commissioner shall 
+Page 3 - 131LR1986(01)43 reduce the penalty, but not below $0, by any cost the commissioner finds the violator 
+44 incurs to replace an outdoor lighting fixture with one that complies with this section.
+3SUMMARY
+4 This bill regulates outdoor lighting fixtures.  Beginning January 1, 2024, it imposes, 
+5 with some exceptions, certain requirements related to the installation and use of outdoor 
+6 lighting fixtures.  It prohibits a person from placing or installing an outdoor lighting fixture 
+7 unless the fixture is shielded to direct the light downward.  It provides that if an outdoor 
+8 lighting fixture is not shielded it may not be operated between 11 p.m. and sunrise.  It 
+9 prohibits the installation of outdoor lighting fixtures that use a mercury vapor lamp.  These 
+10 provisions apply in the absence of a municipal ordinance that provides the same or more 
+11 restrictive requirements.  Where there is no such ordinance, the Department of 
+12 Environmental Protection has authority to enforce the requirements.  It also requires 
+13 outdoor luminaires for buildings owned or leased by the State to be consistent with certain 
+14 standards established by the Illuminating Engineering Society.1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14

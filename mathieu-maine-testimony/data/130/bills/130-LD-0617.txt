@@ -1,0 +1,96 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2021
+Legislative Document No. 617
+H.P. 453 House of  Representatives, March 1, 2021
+An Act  Concerning Prior Authorizations for Prescription Drugs
+Received by the Clerk of the House on February 25, 2021.  Referred to the Committee  on 
+Health Coverage, Insurance  and Financial Services pursuant to Joint  Rule 308.2 and  ordered 
+printed pursuant to Joint Rule  401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative BROOKS  of Lewiston.
+Cosponsored by Representatives:  ARFORD  of Brunswick, TEPLER of Topsham, Senators: 
+BRENNER of Cumberland, SANBORN  of Cumberland.
+
+Page 1 - 130LR1637(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §4304, sub-§2, ¶D, as enacted by PL 2019, c. 273, §1, is 
+3 amended to read:
+4 D.  The prior authorization standards used by a carrier must be clear and readily 
+5 available to enrollees, participating providers, pharmacists and other providers.  With 
+6 regard to prior authorization for prescription drugs, a carrier shall comply with the 
+7 requirements set forth in subsection 2-B.  A provider must make best efforts to provide 
+8 all information necessary to evaluate a request, and the carrier must make best efforts 
+9 to limit requests for additional information.
+10Sec. 2.  24-A MRSA §4304, sub-§2-B, as enacted by PL 2019, c. 273, §2, is 
+11 amended to read:
+122-B.  Electronic transmission of prior authorization requests.  Beginning no later 
+13 than January 1, 2020, if If a health plan provides coverage for prescription drugs, the carrier 
+14 must accept and respond to prior authorization requests in accordance with subsection 2 
+15 and this subsection through a secure electronic transmission using standards recommended 
+16 by a national institute for the development of fair standards and adopted by a national 
+17 council for prescription drug programs for electronic prescribing transactions. For the 
+18 purposes of this subsection, transmission of a facsimile through a proprietary payer portal 
+19 or by use of an electronic form is not considered electronic transmission.  A carrier's 
+20 electronic transmission system for prior authorization requests for prescription drugs must 
+21 comply with the following.
+22 A.  No later than January 1, 2023, unless a waiver is granted by the superintendent, a 
+23 carrier or entity under contract to a carrier shall make available to a provider in real 
+24 time at the point of prescribing one or more electronic benefit tools that are capable of 
+25 integrating with at least one electronic prescribing system or electronic medical record 
+26 system to provide complete, accurate, timely, clinically appropriate formulary and 
+27 benefit information specific to an enrollee, including, but not limited to, enrollee cost-
+28 sharing information, information on any available formulary alternatives that are 
+29 clinically appropriate and information about the formulary status and the utilization 
+30 review and prior authorization requirements of each drug presented.  Upon a carrier's 
+31 request, the superintendent may grant a waiver from the requirements of this paragraph 
+32 based on a demonstration of good cause.
+33Sec. 3.  Bureau of Insurance to monitor compliance.  Beginning January 1, 
+34 2022, the Department of Professional and Financial Regulation, Bureau of Insurance shall 
+35 monitor compliance by carriers authorized to do business in this State with the requirements 
+36 of the Maine Revised Statutes, Title 24-A, section 4304, subsection 2-B using its authority 
+37 under Title 24-A, section 221.  The bureau shall also request information from carriers on 
+38 the adoption and usage of electronic transmission by health care providers for requesting 
+39 prior authorization for prescription drugs from carriers.  No later than June 1, 2023, the 
+40 bureau shall submit a report to the joint standing committee of the Legislature having 
+41 jurisdiction over health coverage and insurance matters on the status of compliance by 
+42 carriers.  If the bureau determines that a carrier is not complying with the requirements of 
+43 Title 24-A, section 4304, subsection 2-B, the bureau shall take enforcement action against 
+44 the carrier as appropriate.  The joint standing committee of the Legislature having 
+Page 2 - 130LR1637(01)45 jurisdiction over health coverage and insurance matters may report out a bill to the Second 
+46 Regular Session of the 131st Legislature based on the report.
+3SUMMARY
+4 This bill does the following.
+5 1.  It requires carriers to provide by January 1, 2023 at least one electronic tool to 
+6 facilitate the availability of certain prescription drug benefit information in real time at the 
+7 point of prescribing and when submitting prior authorization requests for prescription 
+8 drugs. It also permits the Superintendent of Insurance to grant a waiver from the 
+9 requirements for good cause.
+10 2.  It requires the Department of Professional and Financial Regulation, Bureau of 
+11 Insurance to monitor compliance by carriers with the requirements of law related to 
+12 electronic transmission of prior authorization requests for prescription drugs and to submit 
+13 a report to the joint standing committee of the Legislature having jurisdiction over health 
+14 coverage and insurance matters on the status of that compliance by June 1, 2023.1
+2

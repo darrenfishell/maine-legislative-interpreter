@@ -1,0 +1,35 @@
+name: Python Package using Conda
+
+on: # specify when this action will run
+  schedule: 
+  - cron: "0 10 */7 * *" # runs at 10:00 UTC every 7 days
+  workflow_dispatch: # can also be run manually from the GitHub website
+
+jobs:
+  build-linux: # set up an ubuntu environment
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -el {0} # specify the shell to ensure Conda is used
+
+    steps:
+    # checkout a copy of the repo
+    - uses: actions/checkout@v3
+    # set up the conda environment using miniconda
+    - uses: conda-incubator/setup-miniconda@v2
+      with:
+        python-version: 3.11
+        use-mamba: true
+        miniforge-variant: Mambaforge
+        channels: conda-forge,defaults
+        channel-priority: true
+        activate-environment: nlp-proto
+        environment-file: environment.yml
+    # run the scraper script
+    - name: Scrape new LDs
+      run: |
+        python -B src/scraper.py
+    # automatically create a pull request with changed files
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+

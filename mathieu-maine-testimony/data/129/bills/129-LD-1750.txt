@@ -1,0 +1,413 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1750
+H.P. 1245 House of  Representatives, May 16, 2019
+An Act  To Establish Appliance  Energy  and Water Standards
+Reference to the Committee on Environment  and Natural Resources suggested  and ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative PLUECKER of Warren.
+Cosponsored by Senator CARSON of Cumberland and
+Representatives: BERRY of Bowdoinham, BLUME of York, DOUDERA of Camden, GRAMLICH of Old Orchard Beach, MAXMIN of Nobleboro, SKOLFIELD of Weld, ZEIGLER of  Montville, Senator: CHENETTE  of York.
+
+Page 1 - 129LR0878(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  38 MRSA c. 15-B is enacted to read:
+3CHAPTER 15-B
+4APPLIANCE ENERGY AND WATER STANDARDS
+5§1581.  Short title
+6This chapter may be known and cited as "the Appliance Energy and Water Standards 
+7Act."
+8§1582.  Purpose
+9The Appliance Energy and Water Standards Act is established for the purpose of 
+10ensuring that certain appliances and products sold or installed in the State meet or exceed 
+11energy and water efficiency standards adopted by the department by rule.
+12§1583.  Definitions
+13As used in this chapter, unless the context otherwise indicates, the following terms 
+14have the following meanings.
+151.  Air compressor.  "Air compressor" means a compressor designed to compress air 
+16that has an inlet open to the atmosphere or other air source and is composed of a 
+17compression element, a driver or drivers, mechanical equipment to drive the compressor 
+18element and any ancillary equipment.
+192.  Commercial dishwasher.  "Commercial dishwasher" means a machine designed 
+20to clean and sanitize plates, pots, pans, glasses, cups, bowls, utensils, trays and other 
+21dishware by applying sprays of detergent solution and a sanitizing rinse.
+223.  Commercial fryer.  "Commercial fryer" means an appliance, including, but not 
+23limited to, a cooking vessel, in which a cooking fluid is placed in a cooking area at a 
+24depth such that food items placed in the fluid are supported by displacement of the fluid 
+25and not by the bottom of the cooking area and in which heat is delivered to the fluid by 
+26means of an immersed electric element of band-wrapped vessel or by heat transfer from 
+27gas burners through either the walls of the cooking area or tubes passing through the 
+28cooking area.
+294.  Commercial hot food holding cabinet.  "Commercial hot food holding cabinet" 
+30means a heated, fully-enclosed compartment with one or more solid or transparent doors 
+31designed to maintain the temperature of hot food placed within the compartment that has 
+32previously been cooked or otherwise heated using a separate appliance or appliances.  
+33"Commercial hot food holding cabinet" does not include a heated glass merchandising 
+34cabinet, a drawer warmer or a cook-and-hold appliance.
+355.  Commercial steam cooker.  "Commercial steam cooker" means a countertop, 
+36wall-mounted, freestanding or floor-mounted device with one or more food-steaming 
+Page 2 - 129LR0878(01)-11compartments in which the energy in the steam produced by the device is transferred by 
+2direct contact to food placed within the compartments.
+36.  Compensation.  "Compensation" means money or other item of value, regardless 
+4of form, received or to be received by a person for services rendered.
+57.  Compressor.  "Compressor" means a machine or apparatus that converts different 
+6types of energy into the potential energy of gas pressure for displacement and 
+7compression of gaseous media to any higher-pressure values above atmospheric pressure 
+8and that has a pressure ratio greater than 1.3 at full-load operating pressure.  
+9"Compressor" includes, but is not limited to, an air compressor.
+108.  Dual-duct portable air conditioner.  "Dual-duct portable air conditioner" means 
+11a portable air conditioner that draws some or all of the condenser inlet air from outside 
+12the conditioned space through a duct attached to an adjustable window bracket; that may 
+13draw additional condenser inlet air from the conditioned space; and that discharges the 
+14condenser outlet air outside the conditioned space by means of a separate duct attached to 
+15an adjustable window bracket.
+169.  Dual-flush toilet.  "Dual-flush toilet" means a toilet that is designed to allow a 
+17user to flush the toilet with either a full volume of water or a reduced volume of water.
+1810.  Faucet.  "Faucet" means a lavatory faucet, a kitchen faucet or a public lavatory 
+19faucet.  "Faucet" includes a replacement aerator for a lavatory faucet, a kitchen faucet or a 
+20public lavatory faucet but does not include a metering faucet.
+2111.  General service lamp.  "General service lamp" means a lamp that has a base 
+22approved by the American National Standards Institute or its successor organization, that 
+23operates at any voltage, that has an initial lumen output of greater than or equal to 310 
+24lumens and less than or equal to 4,000 lumens or, for modified spectrum general service 
+25incandescent lamps, an initial lumen output of greater than or equal to 232 lumens and 
+26less than or equal to 4,000 lumens and that is used in general lighting applications.
+27A.  "General service lamp" includes a general service incandescent lamp, a compact 
+28fluorescent lamp, a general service light-emitting diode lamp and a general service 
+29organic light-emitting diode lamp.
+30B.  "General service lamp" does not include a light fixture, a light-emitting diode 
+31downlight retrofit kit, a general service fluorescent lamp, a linear fluorescent lamp of 
+32one to 8 feet in length, a circline fluorescent lamp, a fluorescent lamp designed for 
+33cold temperature applications, an impact-resistant fluorescent lamp, a reflectorized or 
+34aperture fluorescent lamp, a fluorescent lamp designed for use in reprographic 
+35equipment, a fluorescent lamp primarily designed to produce radiation in the 
+36ultraviolent region of the spectrum, a fluorescent lamp with a color rendering index 
+37of 87 or greater, an appliance lamp, a black light lamp, a colored lamp, an infrared 
+38lamp, a left-hand thread lamp, a marine lamp, a marine signal service lamp, a mine 
+39service lamp, a plant light lamp, a sign service lamp, a silver bowl lamp, a showcase 
+40lamp or a traffic signal lamp.
+Page 3 - 129LR0878(01)-1112.  Hand-held shower head.  "Hand-held shower head" means a shower head that is 
+2connected to a flexible hose and that is designed so that a user may spray water on the 
+3user by either holding the shower head or by fixing the shower head in place.
+413.  Metering faucet.  "Metering faucet" means a fitting that when turned on will 
+5gradually shut off over a period of several seconds.
+614.  On-demand water cooler.  "On-demand water cooler" means a water cooler 
+7designed to heat water on demand and then, following a period of heating, dispense the 
+8heated water, whether or not the water cooler is also designed to dispense cold or room-
+9temperature water by other means.
+1015.  Plumbing fixture.  "Plumbing fixture" means an exchangeable device that 
+11connects to a plumbing system and that is designed to deliver and drain away water and 
+12waste.  "Plumbing fixture" includes, but is not limited to, a urinal and a toilet.
+1316.  Portable air conditioner.  "Portable air conditioner" means a portable, encased 
+14assembly that delivers cooled, conditioned air to an enclosed space; that is powered by 
+15single-phase electric current; that includes a source of refrigeration; and that may include 
+16additional means for air circulation and heating.  "Portable air conditioner" includes, but 
+17is not limited to, a single-duct portable air conditioner and a dual-duct portable air 
+18conditioner, but does not include a packaged terminal air conditioner, a room air 
+19conditioner or a dehumidifier.
+2017.  Portable electric spa.  "Portable electric spa" means a factory-built electric spa 
+21or hot tub that may include any combination of integral controls, water heating equipment 
+22or water circulating equipment.
+2318.  Public lavatory faucet.  "Public lavatory faucet" means a fitting designed to be 
+24installed in a nonresidential bathroom that is intended for walk-in use by the general 
+25public.
+2619.  Replacement aerator.  "Replacement aerator" means an aerator designed to be 
+27installed in a faucet that is sold separately from the faucet as a replacement part.
+2820.  Residential ventilating fan.  "Residential ventilating fan" means a ceiling-
+29mounted, wall-mounted or remotely mounted in-line fan that is designed for use in a 
+30residential bathroom or utility room to move air from inside the residence to outside the 
+31residence.
+3221.  Shower head.  "Shower head" means a device through which water is discharged 
+33for a shower bath.  "Shower head" includes a hand-held shower head but does not include 
+34a safety shower shower head.
+3522.  Single-duct portable air conditioner.  "Single-duct portable air conditioner" 
+36means a portable air conditioner that draws all of the condenser inlet air from the 
+37conditioned space without the means of a duct and that discharges the condenser outlet air 
+38outside the conditioned space through a single duct attached to an adjustable window 
+39bracket.
+Page 4 - 129LR0878(01)-1123.  Spray sprinkler body.  "Spray sprinkler body" means the exterior case or shell 
+2of a sprinkler that incorporates a means of connection to a plumbing system that is 
+3designed to convey water to a nozzle or orifice.
+424.  Storage-type water cooler.  "Storage-type water cooler" means a water cooler 
+5that is designed to store thermally conditioned water in a storage tank so that the 
+6thermally conditioned water can be dispensed on demand.
+725.  Toilet.  "Toilet" means a plumbing fixture that includes a water-containing 
+8receptor that is designed to receive liquid and solid human waste through an exposed 
+9integral trap into a drainage system.  "Toilet" includes, but is not limited to, a dual-flush 
+10toilet.
+1126.  Trough-type urinal.  "Trough-type urinal" means a urinal that is designed for 
+12simultaneous use by 2 or more persons.
+1327.  Uninterruptible power supply.  "Uninterruptible power supply" means a 
+14battery charger consisting of a combination of converters, switches and energy storage 
+15devices that as a whole, constitutes a power system designed to maintain continuity of 
+16load power in the case of input power failure.
+1728.  Urinal.  "Urinal" means a plumbing fixture that is designed to receive only liquid 
+18human waste and to convey the waste through a trap into a drainage system.  "Urinal" 
+19includes, but is not limited to, a trough-type urinal.
+2029.  Water cooler.  "Water cooler" means a freestanding device that consumes 
+21energy in order to dispense cold water, room-temperature water or hot water, or any 
+22combination thereof.  "Water cooler" includes, but is not limited to, a storage-type water 
+23cooler and an on-demand water cooler.
+24§1584.  Adoption of standards; scope; prohibitions
+251.  Adoption of standards.  In accordance with the provisions of this section, the 
+26department shall adopt rules establishing minimum energy and water efficiency standards 
+27that are applicable to the products listed in subsection 2.  The department, when necessary 
+28and practicable, shall ensure that the rules adopted pursuant to this section are consistent 
+29with similar energy and water efficiency standards adopted federally and in other states.
+302.  Scope.  Except as provided in subsection 6, the provisions of this chapter and the 
+31rules adopted pursuant to this chapter apply to the following products: air compressors, 
+32commercial dishwashers, commercial fryers, commercial hot food holding cabinets, 
+33commercial steam cookers, faucets, general service lamps, portable air conditioners, 
+34portable electric spas, residential ventilating fans, shower heads, spray sprinkler bodies, 
+35toilets, uninterruptible power supplies, urinals, water coolers and any other products 
+36designated by the department by rule in accordance with subsection 7.
+373.  Sales prohibition.  Except as provided in subsection 5 or 6, beginning January 1, 
+382021, a person may not sell or offer for sale in the State a product listed in subsection 2 
+39unless the product meets or exceeds the applicable standards adopted by rule by the 
+40department pursuant to this section.
+Page 5 - 129LR0878(01)-114.  Installation prohibition.  Except as provided in subsection 5 or 6, beginning 
+2January 1, 2022, a person may not install for compensation in the State a product listed in 
+3subsection 2 unless the product meets or exceeds the applicable standards adopted by rule 
+4by the department pursuant to this section.
+55.  Sales and installation prohibitions for air compressors and portable air 
+6conditioners.  Notwithstanding subsections 3 and 4 and except as provided in subsection 
+76, beginning February 1, 2022, a person may not sell or offer for sale in the State an air 
+8compressor or a portable air conditioner unless the air compressor or a portable air 
+9conditioner meets or exceeds the applicable standards adopted by rule by the department 
+10pursuant to this section.  Beginning February 1, 2023, a person may not install for 
+11compensation in the State an air compressor or a portable air conditioner unless the air 
+12compressor or a portable air conditioner meets or exceeds the applicable standards 
+13adopted by rule by the department pursuant to this section.
+146.  Exceptions.  The prohibitions in subsections 3, 4 and 5 do not apply to any of the 
+15products listed in subsection 2 that are:
+16A.  Sold or offered for sale at retail or wholesale in the State in used condition;
+17B.  Manufactured in the State and sold or offered for sale at retail or wholesale 
+18outside the State in new condition;
+19C.  Manufactured outside the State and sold or offered for sale at wholesale in the 
+20State in new condition for final retail sale outside the State in new condition;
+21D.  Installed in a mobile manufactured home during the construction of the home; or
+22E.  Designed solely for installation and use in a recreational vehicle.
+237.  Designation of additional products.  The department may by rule designate an 
+24additional product to which the prohibitions in subsections 3 and 4 apply upon a 
+25determination that the designation of the additional product will promote energy or water 
+26conservation in the State and will be cost-effective for consumers who purchase and use 
+27the product.  An additional product designated by rule under this subsection may be 
+28subject to the prohibitions in subsections 3 and 4 no earlier than one year following the 
+29date on which the rule designating the product is finally adopted by the department.
+308.  Increased efficiency standards.  The department may by rule amend the 
+31standards adopted by rule pursuant to subsection 1 to increase the minimum energy and 
+32water efficiency standards upon a determination that the increase of the standards will 
+33promote energy or water conservation in the State and will be cost-effective for 
+34consumers who purchase and use the product subject to the increased standards.  
+35Increased efficiency standards adopted by rule pursuant to this subsection may take effect 
+36no earlier than one year following the date on which the rule increasing the standards is 
+37finally adopted by the department.
+Page 6 - 129LR0878(01)-11§1585.  Manufacturer testing, certification and labeling
+21.  Testing.  Except as provided in section 1584, subsection 6, a manufacturer of a 
+3product listed in section 1584, subsection 2 shall test the product to ensure the product 
+4meets the standards adopted by the department pursuant to section 1584.
+52.  Certification.  A manufacturer of a product listed in section 1584, subsection 2 
+6that is required to test the product under subsection 1 shall, prior to selling or offering for 
+7sale the product in the State, certify to the department that the product has been tested in 
+8accordance with subsection 1 and the applicable rules adopted pursuant to subsection 4 
+9and that the product meets the standards adopted by the department pursuant to section 
+101584.
+113.  Labeling.  A manufacturer of a product listed in section 1584, subsection 2 that is 
+12required to test the product under subsection 1 shall, prior to selling or offering for sale 
+13the product in the State and following certification to the department under subsection 2, 
+14affix a mark, label or tag to the product and the packaging of the product that, in 
+15accordance with applicable rules adopted pursuant to subsection 4, indicates that the 
+16product has been tested and certified as meeting the standards adopted by the department 
+17pursuant to section 1584.
+184.  Rules.  The department shall by rule adopt procedures and requirements for the 
+19testing, certification and labeling of the products listed in section 1584, subsection 2 by 
+20the manufacturers of those products.  The department, where necessary and practicable, 
+21shall ensure that the rules adopted pursuant to this subsection are consistent with similar 
+22testing, certification and labeling procedures and requirements relating to energy and 
+23water efficiency standards adopted federally and in other states.
+24§1586.  State testing and inspections
+251.  Testing.  The department may test or facilitate the testing of products required to 
+26be tested under section 1585, subsection 1 and sold or offered for sale in the State to 
+27ensure compliance with the requirements of section 1585 and the rules adopted pursuant 
+28to section 1585, subsection 4.  In addition to the initiation of an enforcement action 
+29pursuant to section 1587, subsection 1 and the imposition of a civil penalty pursuant to 
+30section 1587, subsection 2, if the department determines that a product tested pursuant to 
+31this subsection and sold or offered for sale in the State does not meet the standards 
+32adopted by the department pursuant to section 1584, the department:
+33A.  May require the manufacturer of the product to pay to the department all costs of 
+34the testing conducted pursuant to this subsection; and
+35B.  Shall post on its publicly accessible website a notice to consumers that the 
+36product does not meet the standards adopted pursuant to section 1584.
+372.  Inspections.  The department, with prior notice and during regular business hours, 
+38may inspect the facilities of manufacturers, distributors and retailers in the State that sell 
+39or offer for sale at wholesale or retail in the State a product required to be tested under 
+40section 1585, subsection 1 to ensure compliance with the requirements of this chapter and 
+41the rules adopted pursuant to this chapter.
+Page 7 - 129LR0878(01)-11§1587.  Administration and enforcement; violations; rules
+21.  Administration and enforcement.  The department shall administer and enforce 
+3the provisions of this chapter and the rules adopted pursuant to this chapter.  The 
+4department shall refer to the Attorney General for further action any activity the 
+5department determines to constitute a violation of this chapter or the rules adopted 
+6pursuant to this chapter.
+72.  Violations.  A person who violates a provision of this chapter or the rules adopted 
+8pursuant to this chapter must be issued a written warning by the commissioner regarding 
+9that violation, except that a person who violates a provision of this chapter or the rules 
+10adopted pursuant to this chapter after having previously committed a violation under this 
+11subsection is subject to a civil penalty, payable to the State, of not more than $100 for 
+12each day of that violation.
+133.  Rules.  In accordance with the provisions of this chapter, the department shall 
+14adopt rules as necessary for the implementation, administration and enforcement of this 
+15chapter.  Rules adopted pursuant to this chapter are routine technical rules as defined in 
+16Title 5, chapter 375, subchapter 2-A.
+17Sec. 2.  Department of Environmental Protection; establishment of 
+18minimum energy and water efficiency standards.  The Department of 
+19Environmental Protection shall adopt rules pursuant to the Maine Revised Statutes, Title 
+2038, section 1584, subsection 1 establishing minimum energy and water efficiency 
+21standards that are applicable to the products listed in Title 38, section 1584, subsection 2.  
+22The standards adopted by the department by rule pursuant to this section must include the 
+23following standards.  As used in this section, "Energy Star" means the energy efficiency 
+24rating program managed by the United States Environmental Protection Agency and 
+25Department of Energy.
+261.  The rules must require that air compressors subject to the requirements of Title 38, 
+27chapter 15-B meet the same requirements as set forth in the final rule "Energy 
+28Conservation Program: Energy Conservation Standards for Compressors" issued by the 
+29United States Department of Energy on December 5, 2016 as measured using the testing 
+30methods contained in 10 Code of Federal Regulations, Part 431, Appendix A to Subpart T 
+31that are in effect on July 3, 2017.
+322.  The rules must require that commercial dishwashers subject to the requirements of 
+33Title 38, chapter 15-B that are included in the scope of the Energy Star program 
+34requirements, product specification for commercial dishwashers, Version 2.0, meet the 
+35qualification criteria of that specification.
+363.  The rules must require that commercial fryers subject to the requirements of Title 
+3738, chapter 15-B that are included in the scope of the Energy Star program requirements, 
+38product specification for commercial fryers, version 2.0, meet the qualification criteria of 
+39that specification.
+404.  The rules must require that commercial hot food holding cabinets subject to the 
+41requirements of Title 38, chapter 15-B have a maximum idle energy rate of 40 watts per 
+Page 8 - 129LR0878(01)-11cubic foot of interior volume, as measured using the idle energy rate-dry test set forth in 
+2ATSM Standard F2140-11, "Standard Test Method for Performance of Hot Food Holding 
+3Cabinets," ASTM International, 2011 with the interior volume measured in accordance 
+4with Energy Star program requirements, product specification for commercial hot food 
+5holding cabinets, version 2.0.
+65.  The rules must require that commercial steam cookers subject to the requirements 
+7of Title 38, chapter 15-B meet the requirements as set forth in the Energy Star program 
+8requirements, product specification for commercial steam cookers, version 1.2.
+96.  The rules must require that faucets subject to the requirements of Title 38, chapter 
+1015-B, excluding metering faucets, meet the applicable standards in paragraphs A to C, as 
+11measured using the testing methods set forth in 10 Code of Federal Regulations, Part 430, 
+12Appendix S to Subpart B that are in effect on January 3, 2017.
+13A.  Lavatory faucets may not exceed a maximum flow rate of 1.5 gallons per minute 
+14at 60 pounds per square inch.
+15B.  Residential kitchen faucets may not exceed a maximum flow rate of 1.8 gallons 
+16per minute at 60 pounds per square inch, except that residential kitchen faucets may 
+17have an optional temporary flow of 2.2 gallons per minute at 60 pounds per square 
+18inch so long as the faucet defaults to a maximum flow rate of 1.8 gallons per minute 
+19at 60 pounds per square inch after each use.
+20C.  Public lavatory faucets may not exceed a maximum flow rate of 0.5 gallons per 
+21minute at 60 pounds per square inch.
+227.  The rules must require that general service lamps subject to the requirements of 
+23Title 38, chapter 15-B meet or exceed a lamp efficacy of 45 lumens per watt when tested 
+24in accordance with the testing methods set forth in 10 Code of Federal Regulations, Part 
+25430, Section 430.23(gg) that are in effect on January 3, 2017.
+268.  The rules must require that portable air conditioners subject to the requirements of 
+27Title 38, chapter 15-B meet the requirements contained in 10 Code of Federal 
+28Regulations, Part 430, Appendix CC to Subpart B that are in effect on January 3, 2017.
+299.  The rules must require that portable electric spas subject to the requirements of 
+30Title 38, chapter 15-B meet the requirements as set forth in the American National 
+31Standard for Portable Electric Spa Energy Efficiency, ANSI/APSP/ICC-14, 2011.
+3210.  The rules must require that residential ventilating fans subject to the 
+33requirements of Title 38, chapter 15-B meet the requirements as set forth in the Energy 
+34Star program requirements, product specification for residential ventilating fans, version 
+353.2.
+3611.  The rules must require that shower heads subject to the requirements of Title 38, 
+37chapter 15-B may not exceed a maximum flow rate of 2.0 gallons per minute at 80 
+38pounds per square inch when measured using the testing methods contained in 10 Code of 
+39Federal Regulations, Part 430, Appendix S to Subpart B that are in effect on January 3, 
+402017.
+Page 9 - 129LR0878(01)-1112.  The rules must require that spray sprinkler bodies subject to the requirements of 
+2Title 38, chapter 15-B that are not specifically excluded from the scope of the United 
+3States Environmental Protection Agency rule "WaterSense" specification for spray 
+4sprinkler bodies, version 1.0, include an internal pressure regulator and meet the water 
+5efficiency and performance criteria and other requirements of that specification.  As used 
+6in this subsection, "pressure regulator" means a device that is designed to maintain 
+7constant operating pressure immediately downstream from the device where there is 
+8higher operating pressure upstream from the device.
+913.  The rules must require that toilets subject to the requirements of Title 38, chapter 
+1015-B meet the applicable standards in paragraphs A and B, as measured using waste 
+11extraction testing methods for toilets set forth in the American Society of Mechanical 
+12Engineers, ASME A112.19.2/CSA B45.1-2013.
+13A.  Toilets, except for dual-flush tank-type toilets, must have a maximum flush 
+14volume of 1.28 gallons per flush.
+15B.  Dual-flush tank-type toilets must have a maximum dual flush effective flush 
+16volume of 1.28 gallons per flush.  As used in this paragraph, "dual-flush effective 
+17flush volume" means the average flush volume of 2 reduced flushes and one full 
+18flush.
+1914.  The rules must require that uninterruptible power supplies subject to the 
+20requirements of Title 38, chapter 15-B that utilize a National Electrical Manufacturers 
+21Association 1-15P or 5-15P input plug and have an AC output must have an average load 
+22adjusted efficiency that meets or exceeds the values contained in the prepublication final 
+23rule, "Energy Conservation Program: Energy Conservation Standards for Uninterruptible 
+24Power Supplies" issued by the United States Department of Energy on December 28, 
+252016, as measured using the testing methods contained in 10 Code of Federal 
+26Regulations, Part 430, Appendix Y to Subpart B that are in effect on January 11, 2017.
+2715.  The rules must require that wall-mounted and floor-mounted urinals, excluding 
+28trough-type urinals, that are subject to the requirements of Title 38, chapter 15-B have a 
+29maximum flush volume of 0.5 gallons per flush as measured using the testing methods set 
+30forth in 10 Code of Federal Regulations, Part 430, Appendix T to Subpart B that are in 
+31effect on January 3, 2017.
+3216.  The rules must require that water coolers subject to the requirements of Title 38, 
+33chapter 15-B that are included in the scope of the Energy Star program requirements, 
+34product specification for water coolers, version 2.0 must have an on mode with no water 
+35draw energy consumption less than or equal to the applicable values in paragraphs A to C 
+36as measured in accordance with that specification.
+37A.  For water coolers that provide cold water only or that provide cold water and a 
+38cooking function, 0.16 kilowatt-hours per day.
+39B.  For storage-type water coolers that provide hot and cold water, 0.87 kilowatt-
+40hours per day.
+41C.  For on-demand water coolers that provide hot and cold water, 0.18 kilowatt-hours 
+42per day.
+Page 10 - 129LR0878(01)-11Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+2chapter 375, subchapter 2-A.
+3Sec. 3.  Federal preemption review; report.  The Department of Environmental 
+4Protection, in consultation with the Attorney General, shall determine whether state 
+5energy efficiency standards applicable to general service lamps as set forth in section 2, 
+6subsection 7 and as adopted pursuant to the Maine Revised Statutes, Title 38, chapter 
+715-B are wholly or partially subject to federal preemption.  On or before January 15, 
+82020, the department shall submit a report to the Joint Standing Committee on 
+9Environment and Natural Resources containing its findings and recommendations, 
+10including any necessary proposed legislation, regarding federal preemption of state 
+11energy efficiency standards for general service lamps.  After reviewing the report, the 
+12committee may report out legislation to the Second Regular Session of the 129th 
+13Legislature to implement recommendations contained in the report.
+14SUMMARY
+15This bill enacts the Appliance Energy and Water Standards Act to be implemented, 
+16administered and enforced by the Department of Environmental Protection.  The Act 
+17generally provides that, beginning January 1, 2021, a person is prohibited from selling or 
+18offering for sale in the State certain appliances and products unless they meet or exceed 
+19applicable energy and water standards adopted by rule by the department.  Beginning 
+20January 1, 2022, a person is prohibited from installing for compensation in the State any 
+21of those appliances or products.

@@ -1,0 +1,19 @@
+bill_text_schema = [
+    'url',
+    'title',
+    'ordering',
+    'location',
+    'requestId',
+    'documentId',
+    'ldNumber',
+    'paperNumber',
+    'legislature',
+    'itemNumber',
+    'requestItemType',
+    'summary',
+    'broadSubject',
+    'majorSubject',
+    'minorSubject',
+    'detailSubject',
+    'body'
+]

@@ -1,0 +1,210 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 Date: b)-1/ 17 (()a j or i-lj L.D. 398 
+(Filing No. H-451> 
+EDUCATION AND CULTURAL AFFAIRS 
+Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+128TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMITTEE AMENDMENT ,ft" to H.P. 289, L.D. 398, Bill, "An Act To 
+Recognize Computer Science in the Path to Proficiency" 
+Amend the bill by striking out the title and substituting the following: 
+'Resolve, To Establish the Task Force To Recognize Computer Science in the Path 
+to Proficiency' 
+Amend the bill by striking out everything after the enacting clause and inserting the 
+following: 
+'Sec. 1. Science, Technology, Engineering and Mathematics Council to 
+form task force to recognize computer science in the path to proficiency. 
+Resolved: That the Science, Technology, Engineering and Mathematics Council, 
+referred to in this resolve as "the council," shall establish and convene a computer science 
+education task force, referred to in this resolve as "the task force," to develop an informed 
+strategy to integrate computer science into the State's proficiency-based high school 
+diploma requirements, as well as to expose all students to computer science as a basic 
+skill and as a potential career path. The council shall invite members to the task force and 
+appoint the task force chair, who must be a person whose professional responsibilities 
+include the advancement of computer science professional development and education in 
+the State and who is aligned with the State's business community in carrying out those 
+responsibilities; and be it further 
+Sec. 2. Duties. Resolved: That the duties of the task force must include, but are 
+not limited to, the following. 
+l. The task force shall recommend a framework for an effective kindergarten to grade 
+12 computer science education system in the State and outline a strategy to ensure 
+students have access to this education system. The task force shall: 
+A. Identify the key elements of computer science education that provide mathematics 
+or science competencies needed to attain a proficiency-based diploma; 
+Page 1 -128LR1196(02)-1 
+COMMITTEE AMENDMENT 
+R. of S. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 COMMITTEE AMENDMENT '4" to H.P. 289, L.D. 398 
+B. Identify models of age-appropriate computer science curricula that provide 
+students in kindergarten to grade 12 basic knowledge of and familiarity with 
+computer science concepts and applications and opportunities to explore how 
+computer science may serve their educational needs and career aspirations; and 
+C. Develop a sustainable professional development strategy to deliver kindergarten 
+to grade 12 computer science education and to ensure that all students have access to 
+computer science education. 
+2. In determining the strategy described in subsection 1, the task force shall 
+investigate best practices for and barriers to implementation of the strategy. The task 
+force shall: 
+A. Identify and inventory computer science education activities cun-ently underway 
+in the State and in other states, including: 
+(1) Classroom initiatives integrating computer science education into existing 
+cun-icular opp01tunities; 
+(2) Full access to courses that provide an opportunity for credit from an 
+institution of higher learning; and 
+(3) Models of education that effectively use offsite resources and online learning 
+opportunities to augment the resources available on site; and 
+B. Identify and inventory computer science professional development activities 
+cun-ently underway in the State and highlight best practices for and barriers 
+encountered in delivering computer science professional development to teachers 
+across the State; and be it further 
+Sec. 3. Coordination with Department of Education. Resolved: That the 
+task force shall coordinate with the Department of Education to provide information on 
+identified areas of computer science education in the State and to enable the department 
+to unde1take rulemaking related to improving access to computer science education in the 
+State. The work of the task force must inform and complement the work of the 
+department, and nothing in the duties of the task force may be construed to mean that the 
+department may not undertake initiatives or rulemaking related to computer science 
+education separate from the work of the task force; and be it futther 
+Sec. 4. Report; recommendations. Resolved: That the task force shall report 
+its findings of best practices for computer science education and a recommended strategy 
+· to develop and implement a high-quality computer science education curriculum for all 
+students to the Joint Standing Committee on Education and Cultural Affairs by January 
+15, 2018. The task force is authorized to make recommendations, including proposed 
+legislation and rules, in its report. The joint standing committee may report out a bill 
+based upon the report to the Second Regular Session of the 128th Legislature; and be it 
+fu1ther 
+Sec. 5. Resources. Resolved: That the council may provide funding and in-kind 
+donations received from public or private sources to fund the costs of the task force and 
+enable the task force to accomplish its duties. Any unused funds at the termination of the 
+task force may be retained by the council.' 
+Page 2 -128LR1196(02)-1 
+COMMITTEE AMENDMENT 
+A. of S. 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 COMMITTEE AMENDMENT ·A" to H.P. 289, L.D. 398 
+SUMMARY 
+This amendment is the majority report of the committee. The amendment strikes and 
+replaces the bill, which is a concept draft, with a resolve directing the Science, 
+Technology, Engineering and Mathematics Council to form a computer science education 
+task force to consider ways to develop an informed strategy to integrate computer science 
+into the State's proficiency~based high school diploma requirements, as well as to expose 
+all students to computer science as a basic skill and as a potential career path. 
+FISCAL NOTE REQUIRED 
+(See attached) 
+Page 3 -128LR1196(02)-1 
+COMMITTEE AMENDMENT 
+Fiscal Detail and Notes Approved: 05/28/17 .Nae 
+128th MAINE LEGISLATURE 
+LD398 LR 1196(02) 
+An Act To Recognize Computer Science in the Path to Proficiency ) 
+Fiscal Note for Bill as Amended by Committee Amendment A• CH ..., lf 5 Lf 
+Committee: Education and Cultural Affairs 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Additional costs to the Department of Education and the Science, Technology, Engineering and Mathematics Council 
+to implement the requirements of this legislation can be absorbed within existing budgeted resources. 
+LRl 196(02) -Fiscal Note -Page 1 of 1 

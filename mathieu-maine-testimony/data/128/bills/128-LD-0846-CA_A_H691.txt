@@ -1,0 +1,186 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+"~ 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 Date: 3 / /} 7 // f) 
+JUDICIARY L.D. 846 
+(Filing No. H-h ~ / ) 
+Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+128TH LEGISLATURE 
+SECOND REGULAR SESSION 
+COMMITTEE AMENDMENT" A "to H.P. 595, L.D. 846, Bill, "An Act To Enact 
+the Revised Uniform Fiduciary Access to Digital Assets Act" 
+Amend the bill by inserting after the title and before the enacting clause the 
+following: 
+1Emergency preamble. Whereas, acts and resolves of the Legislature do not 
+become effective until 90 days after adjournment unless enacted as emergencies; and 
+Whereas, Maine law currently does not address how a fiduciary, such as a personal 
+representative, can access and manage digital assets and communication; and 
+Whereas, Maine law currently does not address the authority of custodians of digital 
+assets and communications to deal with fiduciaries; and 
+Whereas, the Revised Unifonn Fiduciary Access to Digital Assets Act establishes 
+procedures, standards and legal responsibilities to ensure the proper management and 
+protection of digital assets and communications, consistent with federal requirements; 
+and 
+Whereas, the sooner these issues are resolved, the sooner fiduciaries can manage 
+and protect digital assets and communications to the extent authorized by this law; and 
+Whereas, in the judgment of the Legislature, these facts create an emergency within 
+the meaning of the Constitution of Maine and require the following legislation as 
+immediately necessary for the preservation of the public peace, health and safety; now, 
+therefore,1 
+Amend the bill in Part A in section 1 in section 10-102 in subsection 5 in the last line 
+(page 1, line 25 in L.D.) by inserting after the following: "limited conservator11 the 
+following: 'and a guardian exercising the powers of a conservator when a conservator has 
+not been appointed' 
+Amend the bill in Part A in section 1 in section 10-102 in subsection 17 in the last 
+line (page 2, line 28 in L.D.) by inserting after the following: "Act" the following: 1and a 
+Page 1 • 128LR1807(02)-1 
+COMMITTEE AMENDMENT 
+~· ~~· 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 COMMITTEE AMENDMENT "A" to H.P, 595, L,D, 846 
+person claiming to be a successor of the decedent user who presents an affidavit under 
+section 3-1201' 
+Amend the bill in Part A in section 1 in section 10-102 in subsection 20 in the last 
+line (page 2, line 35 in L.D.) by inserting after the following: "pending" the following: 
+'and an individual for whom a guardian has been appointed, when no conservator has 
+been appointed' 
+Amend the bill in Part A in section 1 in section 10-103 in subsection 1 in paragraph A 
+in the last line (page 3, line 17 in L.D.) by striking out the following: "January 1, 2018" 
+and inserting the following: 'July 1, 2018' 
+Amend the bill in Part A in section 1 in section 10-103 in subsection 1 in paragraph B 
+in the last line (page 3, line 19 in L.D.) by striking out the following: "January 1, 2018" 
+and inserting the following: 'July 1. 2018' 
+Amend the bill in Part A in section 1 in section 10-103 in subsection 1 in paragraph C 
+in the first line (page 3, line 20 in L.D.) by striking out the following: "January 1, 2018" 
+and inserting the following: 'July 1. 2018' 
+Amend the bill in Part A in section 1 in section 10-103 in subsection 1 in paragraph D 
+(page 3, line 22 in L.D.) by strildng out the following: "January 1. 2018" and inserting the 
+following: 'July 1, 2018' 
+Amend the bill in Part B by inserting before section B-1 the following: 
+'Sec. B-1. 18-A MRSA §1-201, sub-§(33), as enacted by PL 1979, c. 540, §1, is 
+amended to read: 
+(33). "Property" includes both real and personal property or any interest therein 
+and means anything that may be the subject of ownership, including a digital asset as 
+defined in section 10-102, subsection 9,' 
+Amend the bill by strildng out all of Part C. 
+Amend the bill by adding before the summary the following: 
+'Emergency clause. In view of the emergency cited in the preamble, this 
+legislation takes effect July 1, 2018.' 
+Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+section number to read consecutively. 
+SUMMARY 
+This amendment revises definitions to accommodate practices in Maine with regard 
+to certain guardians and with regard to small estates. 
+The definition of "conservator" is amended to include a guardian when the guardian 
+is exercising the powers of a conservator because no conservator has been appointed. To 
+be consistent, the definition of "protected person" is amended to include a person for 
+whom a guardian has been appointed when no conservator has been appointed. 
+Page 2 -128LR1807(02)-1 
+COMMITTEE AMENDMENT 
+~~' \,Q.' 
+1 
+2 
+3 
+4 
+5 
+6 
+7 COMMITTEE AMENDMENT" A" to H.P. 595, L.D. 846 
+The definition of "personal representative" is amended to cover a person claiming to 
+be a successor of the decedent user who presents an affidavit governing access to assets 
+in a small estate. 
+This amendment amends the definition of "property'' that applies to the entire Probate 
+Code to include a digital asset as defined in the bill. 
+This amendment adds an emergency preamble and emergency clause and changes the 
+effective date to July 1, 2018. 
+Page 3 -128LR1807(02)-1 
+COMMITTEE AMENDMENT 

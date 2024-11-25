@@ -1,0 +1,132 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1514
+H.P. 1122 House of  Representatives,  April 15, 2021
+An Act  To Provide  for Fairness in Property Taxation by Assessing a 
+One-time Tax on Financial Assets
+Received by the Clerk of the House on April  13, 2021.  Referred to  the Committee  on 
+Taxation pursuant to Joint  Rule 308.2 and ordered printed pursuant to  Joint  Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative LOOKNER of Portland.
+Cosponsored by Representatives:  BERRY of Bowdoinham, GRAMLICH of Old Orchard 
+Beach, SYLVESTER  of Portland.
+
+Page 1 - 130LR0935(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  36 MRSA c. 727 is enacted to read:
+3CHAPTER 727
+4FINANCIAL ASSET TAX
+5§4950.  Definitions
+6 As used in this chapter, unless the context otherwise indicates, the following terms 
+7 have the following meanings.
+81.  Cash and cash equivalent.  "Cash and cash equivalent" means cash, including 
+9 certificates of deposit, checking accounts, savings, accounts and money market accounts 
+10 and other assets that are readily convertible to cash, including marketable securities, 
+11 commercial paper and debt instruments within 6 months of maturity.
+122.  Eligible taxpayer.  "Eligible taxpayer" means a person who owns financial assets 
+13 having a fair market value of $5,000,000 or greater.
+143.  Fair market value.  "Fair market value" means:
+15 A.  For cash and cash equivalents, the account balance of cash and cash equivalents as 
+16 of December 31, 2021; and
+17 B.  For a financial instrument or security not readily convertible to cash, the closing 
+18 value of the financial instrument or security on an established stock exchange on 
+19 December 31, 2021 or the value determined by the assessor in accordance with rules 
+20 adopted under this chapter.
+214.  Financial asset.  "Financial asset" means cash and cash equivalents, financial 
+22 instruments including annuities, bonds, treasury bills, mutual funds, stocks, publicly traded 
+23 options, futures contracts, untraded equities, commodities contracts, certificates of interest 
+24 in gold and other precious metals or gems and other similar investments.  "Financial asset" 
+25 does not include any property subject to taxation under Part 2.
+265.  Security.  "Security" has the same meaning as in Title 11, section 8-1102, 
+27 subsection (1), paragraph (o).
+28§4951.  Amount of tax
+29 A tax is imposed upon each eligible taxpayer equal to 0.5% of the fair market value of 
+30 financial assets owned by the eligible taxpayer in excess of $5,000,000 in the aggregate as 
+31 of December 31, 2021.
+32§4952.  Administration
+331.  Authority of State Tax Assessor.  The assessor shall collect all taxes and penalties 
+34 provided by this chapter and shall enforce the collection of taxes and penalties provided by 
+35 this chapter.
+362.  Reporting.  On or before April 15, 2022, an eligible taxpayer shall file with the 
+37 assessor a statement of all financial assets owned by the eligible taxpayer as of December 
+Page 2 - 130LR0935(01)38 31, 2021.  The statement must be in the form and manner required by the assessor and it 
+39 must be accompanied by any other supporting documentation that the assessor may require.
+33.  Amount of tax determined.  The assessor shall determine the amount of tax due 
+4 and payable upon the financial assets of an eligible taxpayer and shall certify to the eligible 
+5 taxpayer the amount of the tax due.
+64.  Collection.  An eligible taxpayer shall pay the tax due to the assessor within a 
+7 reasonable time, as determined by the assessor, after the determination and certification of 
+8 the tax due and payable under subsection 3.  Payment must be made in the form and manner 
+9 required by the assessor. 
+105.  Distribution of receipts.  The assessor shall transfer all receipts from the tax 
+11 imposed under this chapter as follows:
+12 A.  Fifty percent to the Local Government Fund established in Title 30-A, section 5681 
+13 with 20% of this amount transferred to the Disproportionate Tax Burden Fund in 
+14 accordance with Title 30-A, section 5681, subsection 5; and
+15 B.  Fifty percent to the Housing Opportunities for Maine Fund established by Title 
+16 30-A, section 4853, subsection 1.
+176.  Rulemaking.  The assessor may adopt rules necessary for the administration and 
+18 enforcement of the tax imposed by this chapter.  Rules adopted pursuant to this subsection 
+19 are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+20§4953.  Enforcement and penalty
+21 If a person neglects or refuses to comply with the requirements of this chapter, the 
+22 assessor may obtain the necessary information by any methods the assessor considers 
+23 advisable and the necessary expense incurred in obtaining the information must be added 
+24 to the tax assessed under this chapter and paid to the assessor with the tax.  A person who 
+25 willfully fails to truthfully account for, report or pay the tax imposed by this chapter or 
+26 willfully attempts in any manner to evade or defeat the tax or the payment thereof is, in 
+27 addition to other penalties provided by law, liable for a penalty equal to the total amount 
+28 of the tax evaded, not collected or not accounted for and paid.  For purposes of this section, 
+29 "person" means an individual, corporation or partnership or an officer or employee of any 
+30 corporation, including a dissolved corporation, or a member or employee of any partnership 
+31 who, as an officer, employee or member, was, at the time of the violation, under a duty to 
+32 perform the act with respect to which the violation occurred.
+33§4954.  Limitation
+34 The tax imposed by this chapter applies only to the taxable year beginning on January 
+35 1, 2021.
+36SUMMARY
+37 This bill establishes a one-time tax on any person owning financial assets, including 
+38 cash and cash equivalents, securities and other financial instruments, with a fair market 
+39 value in excess of $5,000,000.  The tax is equal to 0.5% of the amount by which the fair 
+40 market value of a person's financial assets exceeds $5,000,000.  The bill requires any person 
+41 with financial assets in excess of $5,000,000 to file a statement with the State Tax Assessor 
+42 and authorizes the State Tax Assessor to determine the amount of tax due, enforce the 1
+2
+37
+38
+39
+40
+41
+42
+Page 3 - 130LR0935(01)43 collection of the tax and adopt routine technical rules necessary to administer and enforce 
+44 the tax.  The bill subjects any person who fails to pay the tax to certain penalties.  The bill 
+45 directs the State Tax Assessor to transfer 50% of the receipts from the tax to the Local 
+46 Government Fund and 50% of the receipts from the tax to the Housing Opportunities for 
+47 Maine Fund.1
+2
+3
+4
+5

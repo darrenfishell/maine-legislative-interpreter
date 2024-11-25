@@ -1,0 +1,89 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1485
+H.P. 1087 House of  Representatives,  April 4, 2019
+An Act  To Create an At-risk Persons  Program in  Maine
+Reference to the Committee on Criminal  Justice and Public Safety suggested and  ordered 
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative COSTAIN of Plymouth.
+Cosponsored by Senator DESCHAMBAULT  of York and
+Representatives: BEEBE-CENTER of Rockland, COOPER of  Yarmouth, COREY of 
+Windham, JOHANSEN  of Monticello,  MORALES of South Portland, PICKETT  of Dixfield, 
+WARREN of Hallowell, Senator: ROSEN of Hancock.
+
+Page 1 - 129LR1358(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  25 MRSA c. 261 is enacted to read:
+3CHAPTER 261
+4AT-RISK PERSONS PROGRAM
+5§2241.  Definitions
+6As used in this chapter, unless the context otherwise indicates, the following terms 
+7have the following meanings.
+81.  At-risk person.  "At-risk person" means a person:
+9A.  Who suffers from a mental or physical condition that may affect the person's 
+10ability to communicate with a law enforcement officer or who may benefit from a 
+11law enforcement officer's being aware of specific information and a contact person or 
+12persons; and
+13B.  Who voluntarily participates in the at-risk persons program and provides 
+14information and a contact person or persons that may be helpful in maximizing the 
+15safety of the at-risk person during an encounter with a law enforcement officer.
+162.  At-risk persons program.  "At-risk persons program" means the program 
+17developed and implemented pursuant to section 2242.
+183.  At-risk persons system.  "At-risk persons system" means a database and required 
+19interfaces to house and communicate voluntarily submitted information specific to an at-
+20risk person.  The system must include interfaces with the State's telecommunications and 
+21radio message switching system and must be accessible by law enforcement.
+224.  Department.  "Department" means the Department of Public Safety.
+235.  Law enforcement officer.  "Law enforcement officer" has the same meaning as in 
+24section 3701, subsection 3.
+256.  Legal guardian.  "Legal guardian" means a guardian appointed pursuant to Title 
+2618-C, section 5-301 or 5-701.
+27§2242.  At-risk persons program
+281.  At-risk persons program; program elements.  The department shall develop 
+29and implement the at-risk persons program using the at-risk persons system to assist law 
+30enforcement agencies by creating access to information voluntarily submitted by an at-
+31risk person or the legal guardian of the at-risk person.  The information that may be held 
+32by the program is limited to information submitted to a law enforcement agency by the 
+33at-risk person or that person's legal guardian.  The information may include, but is not 
+34limited to, the following:
+Page 2 - 129LR1358(01)-11A.  A person or persons who may be contacted to assist with the care and safety of an 
+2at-risk person; and
+3B.  Other information that may aid in maximizing the safety of the at-risk person 
+4during an encounter with a law enforcement agency.
+52.  Standards of procedure.  The at-risk persons program must include standards of 
+6procedure for law enforcement agencies consistent with rules adopted by the department.  
+7The standards must address processing the application of an at-risk person or that person's 
+8legal guardian, including the determination of identity and confirmation of legal 
+9guardianship, entering the information into the State's telecommunications and radio 
+10message switching system and properly accessing the information.
+113.  Rules.  The department may adopt routine technical rules pursuant to Title 5, 
+12chapter 375, subchapter 2-A to carry out the purposes of this chapter.
+13SUMMARY
+14This bill creates the at-risk persons program to provide law enforcement officers with 
+15the contact information for a person designated by an at-risk person or that person's legal 
+16guardian.  The program also provides access to information that may aid in maximizing 
+17the safety of the at-risk person during an encounter with a law enforcement officer.

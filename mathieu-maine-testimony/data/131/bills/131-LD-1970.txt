@@ -1,0 +1,546 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1970
+S.P. 804 In Senate, May 18, 2023
+An Act to Enact the Maine Indian Child Welfare Act
+Reference to the Committee on Judiciary suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+Cosponsored by Representative DANA of the Passamaquoddy Tribe and
+Senators: BEEBE-CENTER of Knox, BRAKEY of Androscoggin, BRENNER of Cumberland, CARNEY of 
+Cumberland, CHIPMAN of Cumberland, CURRY of Waldo, DAUGHTRY of Cumberland, DUSON of 
+Cumberland, GROHOSKI of Hancock, HICKMAN of Kennebec, President JACKSON of Aroostook, MOORE of 
+Washington, PIERCE of Cumberland, RAFFERTY of York, RENY of Lincoln, ROTUNDO of Androscoggin, 
+VITELLI of Sagadahoc, Representatives: ABDI of Lewiston, ANKELES of Brunswick, ARFORD of Brunswick, 
+BRENNAN of Portland, CLOUTIER of Lewiston, CLUCHEY of Bowdoinham, COLLINGS of Portland, 
+COPELAND of Saco, CRAFTS of Newcastle, CRAVEN of Lewiston, DHALAC of South Portland, DILL of Old 
+Town, DOUDERA of Camden, EATON of Deer Isle, FAULKINGHAM of Winter Harbor, FAY of Raymond, 
+GATTINE of Westbrook, GERE of Kennebunkport, GRAHAM of North Yarmouth, GRAMLICH of Old Orchard 
+Beach, HASENFUS of Readfield, HEPLER of Woolwich, JAUCH of Topsham, KUHN of Falmouth, LANDRY 
+of Farmington, LANIGAN of Sanford, LEE of Auburn, MADIGAN of Waterville, MALON of Biddeford, 
+MASTRACCIO of Sanford, MATLACK of St. George, MEYER of Eliot, MILLETT of Cape Elizabeth, 
+MILLIKEN of Blue Hill, MOONEN of Portland, MORIARTY of Cumberland, MURPHY of Scarborough, 
+O'CONNELL of Brewer, O'NEIL of Saco, OSHER of Orono, PAULHUS of Bath, PERRY of Calais, 
+PLUECKER of Warren, PRINGLE of Windham, RANA of Bangor, RIELLY of Westbrook, ROEDER of Bangor, 
+SACHS of Freeport, SALISBURY of Westbrook, SARGENT of York, SHAGOURY of Hallowell, SHAW of 
+Auburn, SHEEHAN of Biddeford, SKOLD of Portland, STOVER of Boothbay, Speaker TALBOT ROSS of 
+Portland, TERRY of Gorham, WARREN of Scarborough, WHITE of Waterville, WILLIAMS of Bar Harbor, 
+WORTH of Ellsworth, ZAGER of Portland.
+
+Page 1 - 131LR1324(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA c. 1066 is enacted to read:
+3CHAPTER 1066
+4MAINE INDIAN CHILD WELFARE ACT
+5§3941.  Short title
+6 This Act may be known and cited as "the Maine Indian Child Welfare Act."
+7§3942.  Declaration of policy
+8 The purpose of the Maine Indian Child Welfare Act is recognition by the State that 
+9 Indian tribes have a continuing and compelling governmental interest in an Indian child 
+10 whether or not the child is in the physical or legal custody of an Indian parent, an Indian 
+11 custodian or an Indian extended family member at the commencement of an Indian child 
+12 custody proceeding or the Indian child has resided or is domiciled on an Indian reservation. 
+13 The State is committed to protecting the essential tribal relations and best interests of an 
+14 Indian child by promoting practices in accordance with all laws designed to prevent the 
+15 Indian child's voluntary or involuntary out-of-home placement and, whenever such 
+16 placement is necessary or ordered, by placing the Indian child, whenever possible, in a 
+17 placement that reflects the unique values of the child's tribal culture and that is best able to 
+18 assist the child in establishing, developing and maintaining a political, cultural and social 
+19 relationship with the Indian child's tribe and tribal community. It is the policy of the State 
+20 to cooperate fully with Indian tribes and tribal members and citizens in this State and 
+21 elsewhere in order to ensure that the intent and provisions of this Act are enforced.
+22§3943.  Definitions
+23 As used in this Act, unless the context otherwise indicates, the following terms have 
+24 the following meanings.
+251.  Active efforts.  "Active efforts" means affirmative, active, thorough and timely 
+26 efforts tailored to the facts and circumstances of the case and intended primarily to maintain 
+27 or reunite an Indian child with that child's family.  When an agency is involved in the Indian 
+28 child custody proceeding, active efforts must include assisting the parent or parents or 
+29 Indian custodian through the steps of a case plan and with accessing or developing the 
+30 resources necessary to satisfy the case plan.  Active efforts may include:
+31 A. Conducting a comprehensive assessment of the circumstances of the Indian child's 
+32 family, with a focus on safe reunification as the most desirable goal;
+33 B. Identifying appropriate services and helping the parents to overcome barriers, 
+34 including actively assisting the parents in obtaining such services;
+35 C. Identifying, notifying and inviting representatives of the Indian child's tribe to 
+36 participate in providing support and services to the Indian child's family and in family 
+37 team meetings, permanency planning and resolution of placement issues;
+38 D. Conducting or causing to be conducted a diligent search for the Indian child's 
+39 extended family members and contacting and consulting with extended family 
+Page 2 - 131LR1324(01)40 members to provide family structure and support for the Indian child and the Indian 
+41 child's parents;
+3 E. Offering and implementing all available and culturally appropriate family 
+4 preservation strategies and facilitating the use of remedial and rehabilitative services 
+5 provided by the Indian child's tribe;
+6 F. Taking steps to keep siblings together whenever possible;
+7 G. Supporting regular visits with parents or Indian custodians in the most natural 
+8 setting possible as well as trial home visits of the Indian child during any period of 
+9 removal, consistent with the need to ensure the health, safety and welfare of the child;
+10 H. Identifying community resources including housing, financial, transportation, 
+11 mental health, substance abuse and peer support services and actively assisting the 
+12 Indian child's parents or, when appropriate, the child's family, in utilizing and accessing 
+13 those resources;
+14 I. Monitoring progress and participation in services;
+15 J. Considering alternative ways to address the needs of the Indian child's parents and, 
+16 when appropriate, the family, if the optimum services do not exist or are not available; 
+17 and
+18 K. Providing post-reunification services and monitoring.
+192.  Adoptive placement.  "Adoptive placement" means the permanent placement of an 
+20 Indian child for adoption, including any action resulting in a final decree of adoption.
+213.  Domicile.  "Domicile" means:
+22 A. For a parent or Indian custodian, the place at which a person has been physically 
+23 present and that the person regards as home; a person's true, fixed, principal and 
+24 permanent home, to which that person intends to return and remain indefinitely even 
+25 though the person may be currently residing elsewhere; and
+26 B. For an Indian child, the domicile of the Indian child's parents or Indian custodian or 
+27 guardian or, in the case of an Indian child whose parents are not married to each other, 
+28 the domicile of the Indian child's custodial parent.
+294.  Emergency proceeding.  "Emergency proceeding" means a court action that 
+30 involves the emergency removal or emergency placement of an Indian child, including 
+31 those pursuant to section 4034 or Title 18-C, Article 5.  
+325.  Extended family member.  "Extended family member" means a person who is 
+33 defined as a member of an Indian child's extended family by the law or custom of the Indian 
+34 child's tribe or, in the absence of such law or custom, a person who has reached 18 years 
+35 of age and who is the Indian child's grandparent, aunt or uncle, sibling, sibling-in-law, niece 
+36 or nephew, first or second cousin or stepparent. 
+376.  Foster care placement.  "Foster care placement" means the removal of an Indian 
+38 child from the home of the child's parent or Indian custodian for temporary placement in a 
+39 foster home, qualified residential treatment program, residential care center for Indian 
+40 children and youth, or shelter care facility, in the home of a relative other than a parent or 
+41 Indian custodian, or in the home of a guardian or conservator, from which placement the 
+42 parent or Indian custodian cannot have the child returned upon demand. "Foster care 1
+2
+Page 3 - 131LR1324(01)43 placement" does not include an adoptive placement, a preadoptive placement, an 
+44 emergency removal or the detention of an Indian child.  
+37.  Indian.  "Indian" means a person who is a member or citizen of an Indian tribe, or 
+4 who is an Alaska Native and a member of a Regional Corporation as defined in 43 United 
+5 States Code, Section 1606. Only an Indian tribe may determine its membership or 
+6 citizenship, including eligibility for membership or citizenship.  
+78.  Indian child.  "Indian child" means an unmarried person who is under 18 years of 
+8 age and is a member or citizen of an Indian tribe or is eligible for membership in or 
+9 citizenship of an Indian tribe and is the biological child of a member or citizen of an Indian 
+10 tribe.
+119.  Indian child custody proceeding.  "Indian child custody proceeding" means a 
+12 proceeding, other than an emergency proceeding, that may culminate in any of the 
+13 following outcomes:
+14 A.  Adoptive placement;
+15 B.  Foster care placement; 
+16 C.  Preadoptive placement; or
+17 D.  Termination of parental rights.
+18 An Indian child custody proceeding does not include a proceeding that may culminate in 
+19 an outcome for which placement is based upon an act by an Indian child that, if committed 
+20 by an adult, would be considered a crime or a placement upon award of custody to one of 
+21 the Indian child's parents in a divorce proceeding.
+2210.  Indian child's tribe.  "Indian child's tribe" means the Indian tribe in which an 
+23 Indian child is a member or citizen, or eligible for membership or citizenship. In cases in 
+24 which a child meets the definition of "Indian child" through more than one Indian tribe, the 
+25 Indian tribes must be given an opportunity to agree on which tribe is the Indian tribe for 
+26 purposes of this Act.  If the Indian tribes are not able to come to an agreement, the court 
+27 shall designate the Indian child's tribe for purposes of this Act based on which Indian tribe 
+28 has more significant contacts with the Indian child.
+2911.  Indian custodian.  "Indian custodian" means an Indian person who has legal 
+30 custody of an Indian child under tribal law or custom or under state law or to whom 
+31 temporary physical care, custody and control has been transferred by the parent of the 
+32 Indian child. 
+3312.  Indian organization.  "Indian organization" means a group, association, 
+34 partnership, corporation or other legal entity owned or controlled by Indians, or a majority 
+35 of whose members are Indians. 
+3613.  Indian tribe.  "Indian tribe" means an Indian tribe, band, nation or other organized 
+37 group or community of Indians recognized as eligible for the services provided to Indians 
+38 by the United States Secretary of the Interior because of their status as Indians, including 
+39 an Alaska Native village as defined in 43 United States Code, Section 1602(c). 
+4014.  Involuntary Indian child custody proceeding.  "Involuntary Indian child custody 
+41 proceeding" means an Indian child custody proceeding or emergency proceeding in which:1
+2
+Page 4 - 131LR1324(01)1 A.  The parent or Indian custodian does not consent of that parent's or Indian custodian's 
+2 free will to the foster care placement, preadoptive placement, adoptive placement or 
+3 termination of parental rights of or to an Indian child; or 
+4 B.  The parent or Indian custodian consents to the foster care placement, preadoptive 
+5 placement or adoptive placement under threat of removal of the Indian child by a state 
+6 court or agency.
+715.  Parent.  "Parent" means a biological parent or parents of an Indian child or an 
+8 Indian person who has lawfully adopted an Indian child, including adoptions under tribal 
+9 law or custom. "Parent" does not include an unwed father when paternity has not been 
+10 acknowledged or established.
+1116.  Preadoptive placement.  "Preadoptive placement" means the temporary 
+12 placement of an Indian child in a foster home or institution after the termination of parental 
+13 rights, but before or in lieu of adoptive placement.
+1417.  Qualified expert witness.  "Qualified expert witness" means a person who meets 
+15 the requirements of section 3954.
+1618.  Reservation.  "Reservation" means Indian country, as defined in 18 United States 
+17 Code, Section 1151, or any land not covered under that section to which title is either held 
+18 by the United States in trust for the benefit of an Indian tribe or Indian or held by an Indian 
+19 tribe or Indian, subject to a restriction by the United States against alienation.
+2019.  Termination of parental rights. "Termination of parental rights" means an action 
+21 resulting in the termination of the parent-child relationship.  
+2220.  Tribal court.  "Tribal court" means a court of an Indian tribe with jurisdiction 
+23 over Indian child custody proceedings, including a federal court of Indian offenses, a court 
+24 established and operated under the code or custom of an Indian tribe or any other 
+25 administrative body of an Indian tribe that is vested with authority over Indian child custody 
+26 proceedings. 
+2721.  Voluntary proceeding.  "Voluntary proceeding" means an Indian child custody 
+28 proceeding or emergency proceeding in which a parent or Indian custodian consents, of 
+29 that person's free will and without the threat of removal by a state agency, to:
+30 A.  The foster care placement, preadoptive placement or adoptive placement of an 
+31 Indian child; or 
+32 B.  The termination of parental rights to an Indian child.  
+33§3944. Jurisdiction over Indian child custody proceedings 
+341.  Exclusive jurisdiction.  An Indian tribe has jurisdiction exclusive as to the courts 
+35 of the State over any Indian child custody proceeding or emergency proceeding held in this 
+36 State involving an Indian child who resides or is domiciled within the reservation of that 
+37 Indian tribe, except when the jurisdiction is otherwise vested in this State by federal law.  
+38 When an Indian child is a ward of a tribal court, the Indian tribe retains exclusive 
+39 jurisdiction, notwithstanding the residence or domicile of the child.  Except as provided in 
+40 section 3953, any Indian child custody proceeding or emergency proceeding in District 
+41 Court or Probate Court that is within the exclusive jurisdiction of an Indian tribe must be 
+42 dismissed.  The court shall expeditiously notify the tribal court of the pending dismissal 
+43 based on the tribe's exclusive jurisdiction and ensure that the tribal court is sent all 
+Page 5 - 131LR1324(01)44 information regarding the proceeding, including but not limited to the pleadings and any 
+45 court record.
+32.  Transfer of proceedings; declination by tribal court.  In any proceeding for the 
+4 foster care placement of, or termination of parental rights to, an Indian child who is not 
+5 domiciled or residing within the reservation of the Indian child's tribe, the District Court or 
+6 Probate Court shall, upon the petition of the Indian child's parent, Indian custodian or tribe, 
+7 promptly notify the tribal court of the transfer petition and transfer the proceeding to the 
+8 jurisdiction of the Indian child's tribe unless any of the following applies:
+9 A.  A parent of the Indian child objects to the transfer;
+10 B.  The Indian child's tribe does not have a tribal court, or the tribal court of the Indian 
+11 child's tribe declines jurisdiction; or
+12 C.  The court determines that good cause exists to deny the transfer.  The party 
+13 opposing transfer has the burden to show good cause by clear and convincing evidence.  
+14 The good cause determination must be based on which court is best positioned to 
+15 adjudicate the proceeding, not on the potential outcome of the proceeding. In 
+16 determining whether good cause exists, the court may not consider: 
+17 (1)  Whether the foster care placement or termination of parental rights proceeding 
+18 is at an advanced stage if the Indian child's parent, Indian custodian or tribe did not 
+19 receive notice of the child custody proceeding until an advanced stage; 
+20 (2)  Whether there have been prior proceedings involving the Indian child for 
+21 which no petition to transfer was filed; 
+22 (3)  Whether transfer could affect the placement of the Indian child; 
+23 (4)  The Indian child's cultural connections with the tribe or its reservation; or 
+24 (5)  Socioeconomic conditions or any negative perception of tribal or United States 
+25 Department of the Interior, Bureau of Indian Affairs social services or judicial 
+26 systems.
+273.  Intervention.  An Indian child's Indian custodian or tribe may intervene in any 
+28 proceeding for the foster care placement of, or termination of parental rights to, an Indian 
+29 child at any point in the proceeding. 
+304.  Full faith and credit.  The State shall give full faith and credit to the public acts, 
+31 records and judicial proceedings of any Indian tribe that are applicable to an Indian child 
+32 custody proceeding to the same extent that the State gives full faith and credit to the public 
+33 acts, records and judicial proceedings of any other governmental entity.
+34§3945. Court proceedings
+351.  Determination of Indian child status.  In any Indian child custody proceeding or 
+36 emergency proceeding, the District Court or Probate Court shall ask each participant 
+37 whether the participant knows or has reason to know that the child is an Indian child.  The 
+38 court shall use the procedures in 25 Code of Federal Regulations, Section 23.107 to 
+39 determine if a child may be an Indian child.
+402.  Notice; time for commencement of proceedings; additional time for 
+41preparation.  In any involuntary Indian child custody proceeding in which the District 
+42 Court or Probate Court or a party to the proceeding knows or has reason to know that an 1
+2
+Page 6 - 131LR1324(01)43 Indian child is involved, the party seeking the adoptive placement, foster care placement, 
+44 preadoptive placement or termination of parental rights of or to an Indian child shall notify 
+45 the parent or Indian custodian and the Indian child's tribe of the pending proceedings and 
+46 of their right of intervention.  
+5 A.  The notice in any involuntary Indian child custody proceeding involving an Indian 
+6 child must be written in clear and understandable language and must conform with the 
+7 requirements of 25 Code of Federal Regulations, Section 23.111(d).  The District Court 
+8 and Probate Court may create a form that complies with this paragraph.
+9 B.  The notice must be sent by certified mail, return receipt requested.  The notice to 
+10 the Indian child's tribe must be sent by certified mail, return receipt requested, and via 
+11 e-mail, at the mailing address and e-mail address on file with the United States 
+12 Department of the Interior, Bureau of Indian Affairs.  
+13 C.  If the identity or location of the parent or Indian custodian and the Indian tribe 
+14 cannot be determined, notice under this subsection must be given to the United States 
+15 Secretary of the Interior in like manner, who has 15 days after receipt to provide the 
+16 requisite notice to the parent or Indian custodian and the Indian tribe. 
+17 D.  An original or a copy of each notice sent under this subsection must be filed with 
+18 the court together with any return receipts or other proof of service.  
+19 E.  The first hearing in the proceeding may not be held until at least 10 days after receipt 
+20 of the notice by the parent, Indian custodian and Indian tribe or the United States 
+21 Secretary of the Interior.  
+22 F.  On the request of a parent, Indian custodian or Indian tribe, the court shall grant a 
+23 continuance of up to 20 additional days to enable the requester to prepare for the 
+24 hearing.
+253.  Appointment of counsel.  Parents and Indian custodians are entitled to legal 
+26 counsel in any removal, placement or termination proceeding.  A parent or Indian custodian 
+27 may request the court to appoint legal counsel for them.  The District Court or Probate 
+28 Court, upon a finding that the parent or Indian custodian is indigent, shall appoint and pay 
+29 the reasonable costs and expenses of their legal counsel.  The court may, in its discretion, 
+30 appoint counsel for the Indian child upon a finding that such appointment is in the best 
+31 interest of the Indian child.  
+324.  Examination of reports or other documents.  Each party to a foster care placement 
+33 or termination of parental rights proceeding under state law involving an Indian child has 
+34 the right to examine all reports or other documents filed with the court upon which any 
+35 decision with respect to the proceeding may be based.
+365.  Remedial services, rehabilitative programs and preventive measures.  A party 
+37 seeking to effect a foster care placement of, or termination of parental rights to, an Indian 
+38 child under chapter 1071 or Title 18-C, Article 5 or 9 shall satisfy the court that active 
+39 efforts have been made to provide remedial services and rehabilitative programs designed 
+40 to prevent the breakup of the Indian family and that these efforts have proved unsuccessful. 
+416.  Foster care placement.  Foster care placement may not be ordered in the absence 
+42 of a determination, supported by clear and convincing evidence, including testimony of 
+43 qualified expert witnesses, that the continued custody of the Indian child by the parent or 
+44 Indian custodian is likely to result in serious emotional or physical damage to the Indian 1
+2
+3
+4
+Page 7 - 131LR1324(01)45 child.  The evidence must show a causal relationship between the particular conditions in 
+46 the home and the likelihood that continued custody of the Indian child will result in serious 
+47 emotional or physical damage to the particular Indian child who is the subject of the Indian 
+48 child custody proceeding.
+57.  Termination of parental rights.  Termination of parental rights may not be ordered 
+6 in the absence of a determination, supported by evidence beyond a reasonable doubt, 
+7 including testimony of qualified expert witnesses, that the continued custody of the Indian 
+8 child by the parent or Indian custodian is likely to result in serious emotional or physical 
+9 damage to the Indian child.  The evidence must show a causal relationship between the 
+10 particular conditions in the home and the likelihood that continued custody of the Indian 
+11 child will result in serious emotional or physical damage to the particular Indian child who 
+12 is the subject of the Indian child custody proceeding.  
+13§3946. Parental rights; voluntary termination 
+141. Consent; record; certification matters; invalid consents.  When a parent or Indian 
+15 custodian voluntarily consents to a foster care placement or to termination of parental 
+16 rights, this consent is not valid unless executed in writing and recorded before a judge of 
+17 the District Court or Probate Court.  The court shall certify in writing that the terms and 
+18 consequences of the consent were fully explained in detail and were fully understood by 
+19 the parent or Indian custodian. The court shall also certify that either the parent or Indian 
+20 custodian fully understood the explanation in English or that it was interpreted into a 
+21 language that the parent or Indian custodian understood. Consent given prior to, or within 
+22 10 days after, birth of an Indian child is not valid. 
+232.  Foster care placement; withdrawal of consent; return of custody.  Any parent 
+24 or Indian custodian may withdraw consent to a voluntary foster care placement under the 
+25 laws of this State at any time and, upon such withdrawal, the Indian child must be returned 
+26 to the parent or Indian custodian. 
+273.  Voluntary termination of parental rights or adoptive placement; withdrawal 
+28of consent; return of custody.  In any voluntary proceeding for termination of parental 
+29 rights to, or adoptive placement of, an Indian child, the consent of the parent or Indian 
+30 custodian may be withdrawn for any reason at any time prior to the entry of a final decree 
+31 of termination or adoption, as the case may be, and the Indian child must be returned to the 
+32 parent or Indian custodian. 
+334.  Collateral attack; vacation of decree and return of custody; limitations.  After 
+34 the entry of a final decree of adoption of an Indian child in the District Court or Probate 
+35 Court in a voluntary proceeding, the parent or Indian custodian may withdraw consent to 
+36 the adoption upon the grounds that consent was obtained through fraud or duress and may 
+37 petition the court to vacate the decree.  Upon a finding that the consent was obtained 
+38 through fraud or duress, the court shall vacate the decree and return the Indian child to the 
+39 parent or Indian custodian.  An adoption that has been effective for 2 years or longer may 
+40 not be invalidated under the provisions of this subsection. 
+41§3947. Petition to court of competent jurisdiction to invalidate action upon showing 
+42of certain violations 
+43 An Indian child who is the subject of an action for foster care placement or termination 
+44 of parental rights under the laws of this State, a parent or Indian custodian from whose 1
+2
+3
+4
+Page 8 - 131LR1324(01)45 custody the Indian child was removed under the laws of this State and the Indian child's 
+46 tribe may petition the District Court to invalidate the action upon a showing that the action 
+47 violated any provision of sections 3944 to 3946. 
+4§3948. Placement of Indian children  
+51.  Adoptive placements; preferences.  In an adoptive placement of an Indian child 
+6 under the laws of this State, placement preference must be given, in the absence of good 
+7 cause to the contrary, in descending order, as listed below:
+8 A.  An extended family member of the Indian child;
+9 B.  Another member or citizen of the Indian child's tribe;
+10 C.  A member or citizen of an Indian tribe in which the Indian child is eligible for 
+11 membership or citizenship, but that is not the Indian child's tribe;
+12 D.  Another Indian with whom the Indian child has a relationship; or
+13 E.  Another Indian from a tribe that is culturally similar to or linguistically connected 
+14 to the Indian child's tribe.
+152.  Foster care or preadoptive placements; criteria; preferences.  An Indian child 
+16 accepted for foster care placement or preadoptive placement must be placed in the least 
+17 restrictive setting that most approximates a family and in which that Indian child's special 
+18 needs, if any, may be met.  The Indian child must also be placed within reasonable 
+19 proximity to that Indian child's home, taking into account any special needs of the child.  
+20 In any foster care placement or preadoptive placement, placement preference must be 
+21 given, in the absence of good cause to the contrary, in descending order, as listed below: 
+22 A.  An extended family member of the Indian child;
+23 B.  A foster home licensed, approved or specified by the Indian child's tribe; 
+24 C.  An Indian foster home licensed or approved by an authorized non-Indian licensing 
+25 authority; or 
+26 D.  An institution for children approved by an Indian tribe or operated by an Indian 
+27 organization that has a program suitable to meet the Indian child's needs. 
+283. Good cause to deviate from placement preferences.  The party seeking departure 
+29 from the placement preferences under this section bears the burden of proving by clear and 
+30 convincing evidence that there is good cause to depart from the placement preferences.  A 
+31 court's determination of good cause to depart from the placement preferences must be made 
+32 on the record or in writing and may be based on one or more of the following 
+33 considerations:
+34 A.  The request of one or both of the Indian child's parents, if they attest that they have 
+35 reviewed the placement options, if any, that comply with the order of preference;
+36 B.  The request of the Indian child, if the Indian child is of sufficient age and capacity 
+37 to understand the decision that is being made;
+38 C.  The presence of a sibling attachment that can be maintained only through a 
+39 particular placement;1
+2
+3
+Page 9 - 131LR1324(01)1 D.  The extraordinary physical, mental or emotional needs of the Indian child, such as 
+2 specialized treatment services that may be unavailable in the community where 
+3 families who meet the placement preferences live; or
+4 E.  The unavailability of a suitable placement after a determination by the court that a 
+5 diligent search was conducted to find suitable placements meeting the preference 
+6 criteria, but none has been located. For purposes of a determination under this 
+7 paragraph, the standards for determining whether a placement is unavailable must 
+8 conform to the prevailing social and cultural standards of the Indian community in 
+9 which the Indian child's parent or extended family resides or with which the Indian 
+10 child's parent or extended family members maintain social and cultural ties.
+11 A placement may not depart from the preferences under this section based on the 
+12 socioeconomic status of any placement relative to another placement.  A placement may 
+13 not depart from the preferences based solely on ordinary bonding or attachment that 
+14 developed from time spent in a nonpreferred placement that was made in violation of this 
+15 Act.
+164.  Tribal resolution for different order of preference; personal preference 
+17considered; anonymity in application of preferences.  In the case of a placement under 
+18 subsection 1 or 2, if the Indian child's tribe establishes a different order of preference by 
+19 resolution, the agency or court effecting the placement shall follow that order as long as 
+20 the placement is the least restrictive setting appropriate to the particular needs of the Indian 
+21 child, as provided in subsection 2. When appropriate, the preference of the Indian child or 
+22 parent must be considered.  When a consenting parent evidences a desire for anonymity, 
+23 the court or agency must give weight to such desire in applying the preferences. 
+245.  Social and cultural standards applicable.  The standards to be applied in meeting 
+25 the preference requirements of this section must be the prevailing social and cultural 
+26 standards of the Indian community in which the parent or extended family resides or with 
+27 which the parent or extended family members maintain social and cultural ties. 
+286. Record of placement; availability.  A record of each placement under this section 
+29 of an Indian child must be maintained by the State, including evidence of the efforts made 
+30 to comply with the order of preference specified in this section. The record must be made 
+31 available at any time upon the request of the United States Secretary of the Interior or the 
+32 Indian child's tribe. 
+33§3949. Return of custody
+341.  Petition; best interests of Indian child.  Notwithstanding any provision of law to 
+35 the contrary, whenever a final decree of adoption of an Indian child has been vacated or set 
+36 aside or the adoptive parents voluntarily consent to the termination of their parental rights 
+37 to the Indian child, a biological parent or prior Indian custodian may petition for return of 
+38 custody and the court shall grant the petition unless there is a showing, in a proceeding 
+39 subject to the provisions of section 3945, that the return of custody is not in the best interests 
+40 of the Indian child. 
+412.  Removal from foster care placement; procedure.  Whenever an Indian child is 
+42 removed from a foster care home or institution for the purpose of further foster care 
+43 placement or preadoptive or adoptive placement, the placement must be in accordance with 
+44 the provisions of this chapter, except for a case in which an Indian child is being returned 
+Page 10 - 131LR1324(01)45 to the parent or Indian custodian from whose custody the Indian child was originally 
+46 removed.
+3§3950. Disclosure of tribal affiliation information
+4 Upon application by an individual who has reached 18 years of age and who was an 
+5 Indian child and the subject of an adoptive placement, the District Court or Probate Court 
+6 that entered the final decree shall inform the individual of the tribal affiliation, if any, of 
+7 the individual's biological parents and provide any other information necessary to protect 
+8 any rights of the individual arising from the individual's tribal relationship. 
+9§3951. Improper removal of Indian child from custody; declination of jurisdiction; 
+10forthwith return of Indian child; danger exception 
+11 When a petitioner in an Indian child custody proceeding before a state court has 
+12 improperly removed the Indian child from custody of the parent or Indian custodian or has 
+13 improperly retained custody after a visit or other temporary relinquishment of custody, the 
+14 court shall decline jurisdiction over the petition and shall forthwith return the Indian child 
+15 to the child's parent or Indian custodian unless returning the Indian child to the child's 
+16 parent or Indian custodian would subject the Indian child to a substantial and immediate 
+17 danger or threat of such danger. 
+18§3952. Higher state or federal standard applicable to protect rights of parent or 
+19Indian custodian of Indian child; interpretive guidance
+20 In any case in which state or federal law applicable to an Indian child custody 
+21 proceeding under state or federal law provides a higher standard of protection to the rights 
+22 of the parent or Indian custodian of an Indian child than the rights provided under this 
+23 chapter, the state or federal court shall apply the higher state or federal standard. 
+24 To the extent any procedure of an Indian child custody proceeding is not addressed in 
+25 this Act, 25 Code of Federal Regulations, Part 23 must inform state practice.  
+26§3953. Emergency removal or placement of Indian child; termination; appropriate 
+27action 
+28 This Act does not prevent the emergency removal of an Indian child who is a resident 
+29 of or is domiciled on a reservation, but temporarily located off the reservation, from their 
+30 parent or Indian custodian or the emergency placement of an Indian child in a foster home 
+31 or institution, under the laws of this State, in order to prevent imminent physical damage 
+32 or harm to the Indian child. 
+331.  Termination.  An emergency removal or placement of an Indian child in an 
+34 emergency proceeding must terminate immediately when the removal or placement is no 
+35 longer necessary to prevent imminent physical damage or harm to the Indian child.  An 
+36 emergency removal or placement of an Indian child may be terminated by, but is not 
+37 necessarily terminated by, one of the following actions:
+38 A.  Initiation of an Indian child custody proceeding subject to the provisions this Act;
+39 B.  Transfer of the Indian child to the jurisdiction of the appropriate Indian tribe; or
+40 C.  Restoration of the Indian child to the parent or Indian custodian.
+412.  Procedure applicable to emergency proceedings.  In any emergency proceeding 
+42 in District Court or Probate Court, the court shall:1
+2
+Page 11 - 131LR1324(01)1 A.  Make a finding on the record that the emergency removal or placement is necessary 
+2 to prevent imminent physical damage or harm to the Indian child;
+3 B.  Promptly hold a hearing on whether the emergency removal or placement continues 
+4 to be necessary whenever new information indicates that the emergency situation has 
+5 ended;
+6 C.  At any court hearing during the emergency proceeding, determine whether the 
+7 emergency removal or placement is no longer necessary to prevent imminent physical 
+8 damage or harm to the Indian child; and
+9 D.  Immediately terminate or ensure that the petitioning party immediately terminates 
+10 the emergency proceeding once the court or petitioning party possesses sufficient 
+11 evidence to determine that the emergency removal or placement is no longer necessary 
+12 to prevent imminent physical damage or harm to the Indian child. 
+13§3954. Qualified expert witness
+141.  Identification.  In any proceeding subject to this Act that requires the testimony of 
+15 a qualified expert witness, the qualified expert witness must be provided by the petitioner 
+16 and must meet the criteria of subsection 3 or 4.  A qualified expert witness may be identified 
+17 based on information from the Indian child's tribe or with the assistance of the United States 
+18 Department of the Interior, Bureau of Indian Affairs.  
+192.  Testimony provided.  In any proceeding subject to this Act that requires the 
+20 testimony of a qualified expert witness, at least one qualified expert witness must testify 
+21 regarding:
+22 A.  The prevailing social and cultural standards and child-rearing practices of the Indian 
+23 child's tribe; and
+24 B.  Whether the Indian child's continued custody by the Indian child's parent or Indian 
+25 custodian is likely to result in serious emotional or physical damage to the Indian child.  
+263.  Tribal qualification.  A person is a qualified expert witness under this section if 
+27 the Indian child's tribe has designated the person as being qualified to testify to the 
+28 prevailing social and cultural standards of the Indian tribe.
+294.  Alternative qualification.  If the Indian child's tribe has not designated a qualified 
+30 expert witness or the designated qualified expert witness is unavailable, the following 
+31 individuals, in order of priority, may testify as a qualified expert witness:
+32 A.  A member of the Indian child's tribe who is recognized by the tribal community as 
+33 knowledgeable in tribal customs as they pertain to family organization and child-
+34 rearing practices;
+35 B.  A member of another Indian tribe who is recognized to be a qualified expert witness 
+36 by the Indian child's tribe based on the member's knowledge of the delivery of child 
+37 and family services to Indians and the Indian child's tribe; 
+38 C.  A layperson who is recognized by the Indian child's tribe as having substantial 
+39 experience in the delivery of child and family services to Indians, and knowledge of 
+40 prevailing social and cultural standards and child-rearing practices within the Indian 
+41 child's tribe; or
+Page 12 - 131LR1324(01)1 D.  A professional person having substantial education and experience in the area of 
+2 the professional person's specialty who can demonstrate knowledge of the prevailing 
+3 social and cultural standards and child-rearing practices within the Indian child's tribe.
+45.  Disqualified persons.  A petitioning party, an employee of the petitioning party or 
+5 an employee of the Department of Health and Human Services may not serve as a qualified 
+6 expert witness or a professional under this section.
+7§3955. Agreements between the State and Indian tribes
+8 The State may enter into agreements with Indian tribes with respect to the care and 
+9 custody of Indian children and jurisdiction over Indian child custody proceedings, 
+10 including agreements that provide for orderly transfer of jurisdiction on a case-by-case 
+11 basis and agreements that provide for concurrent jurisdiction between the State and Indian 
+12 tribes. A revocation of an agreement under this section does not affect any action or 
+13 proceeding over which a court has already assumed jurisdiction, unless the agreement 
+14 provides otherwise.
+15SUMMARY
+16 This bill enacts the Maine Indian Child Welfare Act to establish procedures and 
+17 standards for cases concerning custody proceedings, foster care placements, termination of 
+18 parental rights and adoptions involving Indian children.16
+17
+18

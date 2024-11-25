@@ -1,0 +1,389 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2023
+Legislative Document No. 1791
+S.P. 716 In Senate, April 25, 2023
+An Act to Make the ConnectMaine Authority Responsible for 
+Attachments to and Joint Use of Utility Poles and to Establish 
+Procedures for Broadband Service Infrastructure Crossing Railroad 
+Tracks
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BENNETT of Oxford.
+Cosponsored by Senator: GROHOSKI of Hancock.
+
+Page 1 - 131LR0914(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §711, as amended by PL 2017, c. 199, §1, is further amended 
+3 to read:
+4§711.  Joint use of equipment
+51.  Joint use permitted.  The commission  authority may order that joint use be 
+6 permitted and prescribe reasonable compensation and reasonable terms and conditions for 
+7 the joint use when, after a hearing had upon its own motion or upon complaint of a joint 
+8 use entity affected, it finds the following:
+9 A.  That public convenience and necessity require a joint use entity to provide 
+10 nondiscriminatory access to any poles, ducts, conduits or rights-of-way owned or 
+11 controlled by another joint use entity;
+12 B.  That joint use will not result in irreparable injury to the owner or other users of the 
+13 poles, ducts, conduits or rights-of-way or in any substantial detriment to the service;
+14 C.  That the joint use entities have failed to agree upon the use or the terms and 
+15 conditions or compensation for the use; and
+16 D.  That the joint use entity seeking access to the poles, ducts, conduits or rights-of-
+17 way owned or controlled by another joint use entity has the technical and financial 
+18 capabilities to fulfill its obligations related to such joint use.
+192.  Liability of user.  If joint use is ordered, the joint use entity to whom the use is 
+20 permitted is liable to the owner or other users of the poles, ducts, conduits or rights-of-way 
+21 for damage that may result from its use to the property of the owner or other users.
+223.  Interests of customers.  Any actions taken or orders issued by the commission  
+23 authority under this section must take into account the interests of the customers of the 
+24 affected joint use entities.
+254.  Rules.  The commission  authority shall adopt rules governing the resolution of pole 
+26 attachment disputes and the rates, make-ready work, terms and conditions of joint use. The 
+27 rules must promote competition, further the state broadband policy set forth in section 
+28 9202‑A and ensure safe, nondiscriminatory access on just and reasonable terms. The rules 
+29 must also include a process for ensuring that a new joint use entity seeking access to the 
+30 poles, ducts, conduits or rights-of-way of another joint use entity meets the requirements 
+31 of subsection 1, paragraph D. In establishing rates, the commission  authority shall consider 
+32 various formulas, including, but not limited to, the formula adopted by the Federal 
+33 Communications Commission as codified in 47 Code of Federal Regulations, Part 1, 
+34 Subpart J, as amended.  Rules adopted or amended  pursuant to this subsection are routine 
+35 technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+366.  Limited jurisdiction.  A joint use entity not otherwise subject to the jurisdiction of 
+37 the commission  authority is subject to  commission  authority jurisdiction only for the 
+38 limited purpose of matters relating to the use of the poles, conduits, ducts or rights-of-way 
+39 in accordance with this section.
+407.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+41 following terms have the following meanings.
+Page 2 - 131LR0914(01)1 A.  "Information service provider" means a provider of information service as that term 
+2 is defined in 47 United States Code, Section 153(24).
+3 A-1.  "Authority" means the ConnectMaine Authority established under section 9203.
+4 B.  "Joint use entity" means a public utility, voice service provider, dark fiber provider, 
+5 wholesale or retail competitive local exchange carrier, cable television system, unlit 
+6 fiber provider, telecommunications service provider or information service provider.
+7 B-1.  "Make-ready work" has the same meaning as in section 2524, subsection 1, 
+8 paragraph A.
+9 C.  "Telecommunications service provider" means a provider of telecommunications 
+10 service as that term is defined in 47 United States Code, Section 153(53).
+11 D.  "Unlit fiber" means one or more strands within a bundle of fiber-optic cable through 
+12 which an associated light signal or light communication transmission must be provided 
+13 to provide communications service, but excluding the electronic equipment required in 
+14 order to render the fiber capable of transmitting communications.
+15 E.  "Unlit fiber provider" means a provider of unlit fiber.
+168.  Authority fees.  The authority may charge and make part of a rate for an attachment 
+17 and joint use of a pole a reasonable fee to pay for the administration of this section.
+18Sec. 2.  35-A MRSA §2311, as amended by PL 2001, c. 608, §1, is further amended 
+19 to read:
+20§2311.  Lines along railroads; application to Public Utilities Commission when 
+21disagreement
+22 A person maintaining or operating a telephone or electric line may construct a line 
+23 across, upon or along any railroad with the written permit of the person owning or operating 
+24 the railroad.  If the person maintaining or operating a telephone or electric line and the 
+25 person owning or operating the railroad can not agree as to the construction or manner of 
+26 construction of lines upon, along or across the railroad or as to the continued operation of 
+27 lines constructed upon, along or across the railroad, either party may apply to the 
+28 commission, who, after notice to those interested, shall hear and determine the matter.  The 
+29 commission's decision is binding upon the parties.  The commission may grant the person 
+30 seeking to construct or operate a line a permit with appropriate terms and conditions to 
+31 construct or operate the line along, upon or across the railroad or, in the case of a line across 
+32 the railroad, authorize, subject to appropriate terms and conditions, the person to take by 
+33 eminent domain an easement across the railroad.  The taking of an easement authorized by 
+34 the commission pursuant to this section must be in accordance with the procedures 
+35 established in chapter 65.  This section does not permit the commission to authorize the 
+36 taking of an easement over lands owned by the State.  The person seeking to construct lines 
+37 on the railroad shall pay the expenses of the hearing, except that if the commission finds 
+38 that parties owning or operating the railroad have unreasonably refused their consent, those 
+39 parties shall pay the expenses.  Without limiting the commission's jurisdiction under this 
+40 section, if a railroad company and a telephone or transmission and distribution utility enter 
+41 into an agreement involving a utility crossing of railroad property and that agreement or 
+42 some other agreement provides that the commission shall resolve disputes arising under 
+43 the original agreement, the commission may resolve those disputes.  As used in this section, 
+44 the term "railroad" includes, but is not limited to, a railroad whose abandonment has been 
+Page 3 - 131LR0914(01)45 approved pursuant to 49 United States Code, Chapter 109. This section does not apply to a 
+46 broadband service provider under section 9411.
+3Sec. 3.  35-A MRSA §2523, as enacted by PL 2013, c. 369, Pt. E, §1, is amended to 
+4 read:
+5§2523.  Street lights; use of poles
+6 This section governs street lights that are attached to utility poles in the public way. 
+7 For purposes of this section, "authority" means the ConnectMaine Authority under section 
+8 9203.
+91.  Ownership and maintenance options.  On or after October 1, 2014, a transmission 
+10 and distribution utility shall provide the following options to municipalities for street and 
+11 area lighting provided by light fixtures attached to poles owned by the transmission and 
+12 distribution utility or on shared-use poles in the electrical space under the contractual 
+13 management of the transmission and distribution utility located in the public way:
+14 A.  The transmission and distribution utility provides all of the components of the street 
+15 lighting system, including installation on the utility poles and maintenance, and 
+16 provides electricity delivery to the street lighting system from a power vendor selected 
+17 by the municipality. The transmission and distribution utility shall apply a monthly 
+18 charge for these services as approved by the commission that reflects the total cost to 
+19 provide street lighting equipment for each light and a separate charge for power 
+20 delivery consistent with subsection 3;
+21 B.  The transmission and distribution utility installs all of the components of the street 
+22 lighting hardware as selected, purchased and owned by the municipality on utility poles 
+23 owned by the transmission and distribution utility or in the electrical space under 
+24 contractual management of the transmission and distribution utility on shared-use poles 
+25 and connects the light to the power source on the pole. The transmission and 
+26 distribution utility may apply a one-time charge per light fixture for installation as 
+27 established by the commission  authority.
+28 Any repairs made by the transmission and distribution utility to the mounting hardware 
+29 or the power supply wire connection following installation must be billed at a rate 
+30 established by the commission  authority.  Maintenance of all components of the light 
+31 fixture is the responsibility of the municipality or its contractor.  Any person 
+32 performing maintenance work on behalf of the municipality pursuant to this provision 
+33 must be qualified pursuant to applicable federal or state standards or any standards 
+34 established by the commission  authority for such work and must have liability 
+35 insurance in an amount and with terms determined by the commission  authority.  Light 
+36 locations, the street lighting hardware installed and delivery charges are governed by 
+37 subsections 2 and 3; and
+38 C.  The transmission and distribution utility connects to the power lines a light fixture 
+39 either owned by or owned and installed by the municipality or its contractor on a pole 
+40 owned by the transmission and distribution utility or on a shared-use pole in the 
+41 electrical space under the contractual management of the transmission and distribution 
+42 utility.  Light locations, the street lighting hardware installed and delivery charges are 
+43 governed by subsections 2 and 3.  Maintenance of the light fixture and mounting 
+44 hardware is the responsibility of the municipality or its contractor.  Any person 1
+2
+Page 4 - 131LR0914(01)45 installing or working on municipally owned street lighting equipment pursuant to this 
+46 paragraph on behalf of the municipality must be qualified pursuant to applicable federal 
+47 and state standards or any standards established by the commission  authority for such 
+48 work and must have liability insurance in an amount and with terms determined by the 
+49 commission  authority.  The transmission and distribution utility may apply a one-time 
+50 power connection charge per light fixture as established by the commission  authority.
+72.  Lighting location and installation.  For municipally owned street lighting 
+8 hardware located on poles owned by the transmission and distribution utility or in the 
+9 electrical space under the contractual management of the transmission and distribution 
+10 utility on shared-use poles in the public way, the location on the pole and the street lighting 
+11 hardware installed, as well as any associated charges, are governed by the following 
+12 provisions.
+13 A.  The commission  authority shall establish criteria, based on standard utility industry 
+14 practice, for determining possible locations on the utility pole for the street lighting 
+15 hardware, determining any changes that may be needed, including, but not limited to, 
+16 relocating equipment already on the pole, installing a taller pole or bracing an existing 
+17 pole, as well as determining any one-time fees the transmission and distribution utility 
+18 may charge the municipality for making the determinations and undertaking the work 
+19 necessitated by the determinations.  The criteria must also specify the conditions under 
+20 which a request from a municipality to locate a light fixture on a pole may reasonably 
+21 be denied by the transmission and distribution utility.
+22 B.  The commission  authority shall establish basic criteria, consistent with standard 
+23 utility industry practice, for municipally owned street lighting hardware installed on 
+24 utility poles that address any reasonable safety and compatibility issues with other 
+25 equipment on or uses of the pole.  The criteria must provide a basis for determining 
+26 when no additional assessment work, and related fees pursuant to paragraph A, would 
+27 be warranted for a replacement light fixture because the new light fixture places 
+28 comparable or lower demands on the utility pole and related utility equipment than the 
+29 light fixture being replaced.
+303.  Delivery rates and associated charges.  The commission shall establish through 
+31 appropriate proceedings the charges for the transmission and distribution utility to deliver 
+32 electricity to the municipal street lighting systems as provided in subsection 1.  For 
+33 municipal street lighting system options described in subsection 1, paragraphs B and C, the 
+34 commission shall determine what, if any, ongoing fees beyond the power-only delivery 
+35 charge may be assessed, including  except a pole attachment fee , which is determined by 
+36 the authority under section 711, subsection 4.  In making this determination, the 
+37 commission shall weigh, among other factors, the municipal interest to serve the general 
+38 public and the location of the poles in municipal rights-of-way.
+394.  Transfer of ownership.  A transmission and distribution utility shall allow a 
+40 municipality to transfer utility-owned street and area lighting for which the municipality is 
+41 billed to either form of municipal ownership in subsection 1, paragraphs B and C in a time 
+42 frame and under terms established by the commission  authority.  The  commission  authority 
+43 shall also determine a fair and equitable cost for all aspects of the transfer and establish 
+44 guidelines to best enable the contiguous ownership of lighting fixtures.
+45Sec. 4.  35-A MRSA §9204-A, sub-§9 is enacted to read:1
+2
+3
+4
+5
+6
+Page 5 - 131LR0914(01)19.  Attachments and joint use of utility poles.  The authority shall manage and 
+2 administer the joint use of and attachments to utility poles under section 711.
+3Sec. 5.  35-A MRSA §9411 is enacted to read:
+4§9411.  Fiber-optic broadband lines crossing railroads
+51. Definitions. As used in this section, unless the context otherwise indicates, the 
+6 following terms have the following meanings.
+7 A. "Actual flagging expenses" means expenses directly attributable to the cost of 
+8 maintaining flaggers at the point of a crossing during the period of time construction is 
+9 actually occurring.
+10 B. "Broadband service provider" means a provider of broadband Internet access service 
+11 as defined in section 9301, subsection 1, paragraph A.
+12 C. "Crossing" means the point at which a broadband service provider's infrastructure 
+13 crosses the tracks of a railroad, including a railroad whose abandonment has been 
+14 approved pursuant to 49 United States Code, Chapter 109.
+15 D. "Direct expenses" means:
+16 (1) The cost of inspecting and monitoring a crossing site; 
+17 (2) Administrative and engineering costs for review of specifications and for 
+18 entering a crossing on the railroad's books, maps and property records and other 
+19 reasonable administrative and engineering costs incurred as a result of the crossing; 
+20 (3) Document and preparation fees associated with a crossing and any engineering 
+21 specifications related to the crossing; and 
+22 (4) Actual flagging expenses associated with a crossing.
+23 E. "Fiber-optic broadband line" means: 
+24 (1) A fiber-optic cable consisting of one or more thin flexible fibers with a glass 
+25 core through which light signals can transmit data as pulses, a coaxial cable or 
+26 other wireline system of technology used for broadband distribution; or
+27 (2) The middle mile infrastructure to Internet service providers.
+28 F. "License fee" means the fee under subsection 7 to be paid by a broadband service 
+29 provider to the railroad company for a crossing, including all occupancy or real 
+30 property rights.
+31 G. "Railroad company" includes a company, trustee or other person that owns, leases 
+32 or operates a railroad or owns or leases the land upon which a railroad is operated and 
+33 any company, trustee or other person to which a railroad company has granted rights 
+34 to collect or retain all or a portion of any revenue stream owed by a 3rd party for use 
+35 of or access to a railroad company's facilities or property.
+362. Application to railroad company. If a broadband service provider determines it 
+37 necessary in the construction of the provider's systems to cross the infrastructure of a 
+38 railroad company, including the company's tracks, bridges, facilities and all railroad 
+39 company rights-of-way and easements, the broadband service provider shall submit an 
+40 application for the crossing to the railroad company. The application must include: 
+Page 6 - 131LR0914(01)1 A. The license fee described in subsection 7; 
+2 B. Plans prepared by a registered professional engineer including design plans, 
+3 construction plans, bore plans, fraction mitigation plans, dewatering plans, rigging and 
+4 lifting plans and any other pertinent plans considered necessary; 
+5 C. The location of the crossing, including whether the crossing is located in a public 
+6 right-of-way; 
+7 D. The proposed date of commencement of work; 
+8 E. The anticipated duration of the work on the crossing; 
+9 F. The areas in which personnel will work; and
+10 G. The contact information of the broadband service provider's point of contact. 
+11 Notice must also be provided to the transmission and distribution utility in whose service 
+12 territory the crossing is proposed to be located.
+133. Application procedure. The procedure for an application under subsection 2 is as 
+14 set out in this subsection.
+15 A. Upon receipt of the application, the railroad company shall acknowledge receipt to 
+16 the broadband service provider of the application.
+17 B. The railroad company shall review the application and may request additional 
+18 information or clarification from the broadband service provider within 15 days of 
+19 receipt of the application. If additional information or clarification is requested, the 
+20 broadband service provider must respond within 10 days of the receipt of the request.
+21 C. The railroad company shall approve the broadband service provider's crossing 
+22 application within 35 days from the date the application is received unless the railroad 
+23 company petitions the commission pursuant to subsection 9.
+244. Crossing requirements. A proposed crossing must be:
+25 A. Located, constructed and operated so as not to impair, impede or obstruct, in any 
+26 material degree, the works and operations of the railroad to be crossed; 
+27 B. Supported by permanent and proper structures and fixtures; and 
+28 C. Controlled by customary and approved appliances, methods and regulations to 
+29 prevent damage to the works of the railroad and ensure the safety of the railroad's 
+30 passengers.
+315. Coordination of schedules. Within 30 days of the approval of the crossing 
+32 application or such later date as indicated in the application or mutually agreed upon by the 
+33 railroad company and the broadband service provider, the railroad company and the 
+34 broadband service provider shall coordinate the schedule of the construction dates under 
+35 subsection 2, paragraphs D and E.
+366. Responsibilities of the railroad company and the broadband service provider. 
+37 The broadband service provider is responsible for all aspects of the implementation of the 
+38 crossing, including the construction and installation of the fiber-optic broadband lines and 
+39 all related equipment, conduits, wire masts, poles, towers, attachments and other 
+40 infrastructure. The broadband service provider is responsible for ensuring that the crossing 
+41 is constructed and operated in accordance with accepted industry standards, including 
+Page 7 - 131LR0914(01)42 standards established by the National Electrical Safety Code, good utility practice and 
+43 industry-standard joint use processes of electric utilities. The railroad company is 
+44 responsible for flagging operations and other protective measures that the railroad company 
+45 determines appropriate during the actual construction of fiber-optic broadband lines. 
+57. Costs; license fee. The broadband service provider is responsible for the costs of a 
+6 crossing under this section. The license fee is $2,000 for each crossing, unless:
+7 A. Otherwise agreed to by the broadband service provider and the railroad company; 
+8 B. The railroad company has petitioned the commission under subsection 9 and the 
+9 commission has ordered a fee of a different amount, in which case the broadband 
+10 service provider shall pay the railroad company the different amount; or
+11 C. The crossing is within a public right-of-way, in which case no license fee may be 
+12 assessed.
+138. Reimbursement of railroad company direct expenses. The broadband service 
+14 provider shall reimburse the railroad company for direct expenses in addition to the license 
+15 fee. Direct expenses may not exceed $5,000 unless otherwise agreed to by the broadband 
+16 service provider and the railroad company or the railroad company petitions the 
+17 commission under subsection 9 for additional reimbursement and the commission has 
+18 ordered a different amount of reimbursement. The railroad company shall substantiate with 
+19 documentation and other direct evidence the direct expenses incurred to qualify for 
+20 reimbursement. Actual flagging expenses are pass-through expenses and may not exceed 
+21 the expense incurred by the railroad company.
+229. Petition to commission by railroad company. If the railroad company asserts that 
+23 the license fee is not adequate compensation for the proposed crossing, the proposed 
+24 crossing will cause undue hardship on the railroad company or the proposed crossing will 
+25 create the imminent likelihood of danger to public health or safety, the railroad company 
+26 may petition the commission for relief and provide simultaneous notice to the broadband 
+27 service provider within 35 days from the date the broadband service provider's application 
+28 is submitted under subsection 2. The commission may make any necessary findings of fact 
+29 and determinations related to the adequacy of compensation, the existence of undue 
+30 hardship on the railroad company or the imminent likelihood of danger to public health or 
+31 safety and any relief to be granted, including any amount to which the railroad company is 
+32 entitled in excess of the license fee set out in subsection 7. If the railroad company asserts 
+33 only that the license fee is not adequate compensation for the specified crossing, the issue 
+34 of compensation may be considered by the commission after the commencement or 
+35 completion of the work. 
+3610. Petition to commission by broadband service provider. The broadband service 
+37 provider may petition the commission for relief if the railroad company does not comply 
+38 with this section or has otherwise wrongfully rejected or delayed its application. Upon 
+39 receipt of a petition under this subsection, the commission:
+40 A. May employ expert engineers, to be paid equally by the railroad company and the 
+41 broadband service provider, to advise the commission or a representative of the 
+42 commission in examining the location, plans, specifications and descriptions of 
+43 appliances and the methods proposed to be employed; 1
+2
+3
+4
+Page 8 - 131LR0914(01)1 B. Shall hear any objections and consider any modifications offered by the railroad 
+2 company; and 
+3 C. At such time as the commission may determine, shall reject, approve or modify the 
+4 plans and specifications or issue a ruling on any other matter brought before the 
+5 commission. 
+611. Period of adjudication. The commission shall issue a final order on any matter 
+7 adjudicated under subsection 9 or 10 within 90 days of the petition's initial filing. The 
+8 commission has sole jurisdiction to hear and resolve claims between a railroad company 
+9 and a broadband service provider concerning a crossing under this section.
+1012. Abandoned track. Notwithstanding the provisions of subsection 7, if a broadband 
+11 service provider submits an application to a railroad company to cross a section of track 
+12 that has been legally abandoned pursuant to an order of a federal or state agency having 
+13 jurisdiction over the track and that is not being used for railroad service, the license fee 
+14 may not exceed $1,000.
+1513. State right-of-way. The State shall grant a right-of-way to a broadband service 
+16 provider seeking to use the right-of-way for broadband deployment to the extent that the 
+17 State owns an interest in real property crossed by a railroad or manages real property not 
+18 owned by the State that is crossed by a railroad.
+1914. Insurance. A broadband service provider shall maintain a commercial general 
+20 liability insurance policy or railroad protective liability insurance policy that:
+21 A. Does not exclude work within 50 feet of a railroad right-of-way;
+22 B. Includes the railroad company as an additional insured; and 
+23 C. Remains in effect during the period of time construction pursuant to this section is 
+24 occurring.
+2515. Liberal construction. The provisions of this section must be liberally construed 
+26 and construed in favor of broadband expansion.
+27SUMMARY
+28 This bill directs that the ConnectMaine Authority be responsible for the management 
+29 and administration of attachments to and joint use of utility poles. The bill also establishes 
+30 a procedure by which broadband service providers that need to cross a railroad track with 
+31 broadband infrastructure may apply to a railroad company, provides for responsibility of 
+32 costs in the crossing by the broadband service provider and provides for payment of a 
+33 license fee and reimbursement of expenses to the railroad company. The bill also 
+34 establishes procedures for either the railroad company or the broadband service provider to 
+35 petition the Public Utilities Commission if the railroad company and broadband service 
+36 provider cannot agree on the terms of the crossing of the railroad track.28
+29
+30
+31
+32
+33
+34
+35
+36

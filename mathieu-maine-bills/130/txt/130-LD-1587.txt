@@ -1,0 +1,86 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1587
+H.P. 1176 House of  Representatives,  April 27, 2021
+An Act  To Remove  the Municipal Ordinance Exemption for  the 
+Development of Nonessential  Transmission Lines
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative LANDRY of Farmington.
+
+Page 1 - 130LR0774(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  30-A MRSA §4352, sub-§4, as amended by PL 2009, c. 615, Pt. G, §1, is 
+3 further amended to read:
+44.  Exemptions.  Real estate used or to be used by a public utility, as defined in Title 
+5 35‑A, section 102, subsection 13, by a person who is issued a certificate by the Public 
+6 Utilities Commission under Title 35‑A, section 122 or by a renewable ocean energy project 
+7 as defined in Title 12, section 1862, subsection 1, paragraph F‑1 is wholly or partially 
+8 exempt from an ordinance only when on petition, notice and public hearing the Public 
+9 Utilities Commission determines that the exemption is reasonably necessary for public 
+10 welfare and convenience, except that the commission may not determine pursuant to this 
+11 subsection that real estate used or to be used by an investor-owned transmission and 
+12 distribution utility for the construction of a nonessential transmission line for the 
+13 transmission and distribution of electricity from a generation source located outside of the 
+14 State is wholly or partially exempt from an ordinance.  The Public Utilities Commission 
+15 shall adopt by rule procedures to implement this subsection.  Rules adopted pursuant to this 
+16 subsection are routine technical major substantive rules as defined in Title 5, chapter 375, 
+17 subchapter 2-A.
+18 For the purposes of this subsection, "nonessential transmission line" means a transmission 
+19 line that is not constructed primarily to provide electric reliability within the State and not 
+20 constructed primarily to provide electricity to retail customers within the State, as 
+21 determined by the Public Utilities Commission.  A generator interconnection transmission 
+22 facility as defined in section 3132, subsection 1-B is not a nonessential transmission line.
+23Sec. 2.  35-A MRSA §3131, sub-§4-A, as enacted by PL 2009, c. 655, Pt. A, §3, is 
+24 amended to read:
+254-A.  High-impact electric transmission line.  "High-impact electric transmission 
+26 line" means a transmission line greater than 50 miles in length that is not located in a 
+27 statutory corridor, as defined in section 122, subsection 1, paragraph F‑4, or a petitioned 
+28 corridor, as defined in section 122, subsection 1, paragraph D‑1, and that is:
+29 A.  Constructed to transmit direct current electricity; or
+30 B.  Capable of operating at 345 kilovolts or more and:
+31 (1)  Is not a generator interconnection transmission facility as defined in section 
+32 3132, subsection 1‑B; and
+33 (2)  Is not constructed primarily to provide electric reliability, as determined by the 
+34 commission.
+35Sec. 3.  35-A MRSA §3132, sub-§6-A, as enacted by PL 2009, c. 655, Pt. A, §5, is 
+36 repealed.
+37SUMMARY
+38 This bill removes the construction of a nonessential transmission line by an investor-
+39 owned transmission and distribution utility for the transmission and distribution of 
+40 electricity from a generation source located outside of the State from the whole or partial 
+41 exemption from an ordinance when the Public Utilities Commission determines that the 38
+39
+40
+41
+Page 2 - 130LR0774(01)42 exemption is reasonably necessary for public welfare and convenience.  It also changes the 
+43 rulemaking authority under the Maine Revised Statutes, Title 30-A, section 4352, 
+44 subsection 4 from routine technical to major substantive.
+4 The bill also removes an outdated cross-reference in the law regarding high-impact 
+5 electric transmission lines.1
+2
+3

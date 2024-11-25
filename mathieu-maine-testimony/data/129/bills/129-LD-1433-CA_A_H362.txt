@@ -1,0 +1,582 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 Date: 5/)Y)/1 (1/\o.. j or i'+y L.D. 1433 
+(Filing No. H-3 ~ 
+ENVIRONMENT AND NATURAL RESOURCES 
+Reproduced and distributed under the direction of the Clerk of the House. 
+STATE OF MAINE 
+HOUSE OF REPRESENTATIVES 
+129TH LEGISLATURE 
+FIRST REGULAR SESSION 
+COMMITTEE AMENDMENT "f].,, to H.P. 1043, L.D. 1433, Bill, "An Act To 
+Protect the Environment and Public Health by Further Reducing Toxic Chemicals in 
+Packaging" 
+Amend the bill by striking out everything after the enacting clause and inserting the 
+following: 
+'Sec.1. 32 MRSA §1731, as enacted by PL 1989, c. 849, §1, is amended to read: 
+§1731. Purpose 
+The purpose of this chapter is to reduce the toxicity of packaging and packaging 
+waste without impeding or discouraging the expanded use of post-consumer materials in 
+the production of packaging and its components. Under this chapter, reduction of the 
+toxicity in packaging and packaging waste is accomplished by prohibiting the 
+unnecessary addition of heavy metals certain chemicals, such as lead, mercury, cadmium 
+and.1 hexavalent chromium, PF AS and phthalates, in packaging and packaging 
+components. 
+Sec. 2. 32 MRSA §1732, as amended by PL 1995, c. 656, Pt. A, §§7 and 8, is 
+further amended to read: 
+§1732. Definitions 
+As used in this chapter, unless the context otherwise indicates, the following terms 
+have the following meanings. 
+1-A. Department. 11Department11 means the Department of Environmental 
+29 Protection. 
+30 1-B. Alternative. 11Altemative11 means a substitute process, product, material, 
+31 chemical, strategy or combination of these that serves a functionally equivalent purpose 
+32 to a chemical in a package or packaging component. 
+33 1-C. Chemical. 11Chemical11 means a substance with a distinct molecular 
+34 composition or a group of structurally related substances and includes the breakdown 
+Page 1 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A" to H.P. 1043, L.D. 1433 
+products of the substance or substances that form through decomposition, degradation or 
+2 metabolism. 
+3 2. Distributor. "Distributor" means any person, firm or corporation that sells a 
+4 packaged product to a retailer in this State or any person, firm or corporation that receives 
+5 a shipment or consignment of, or in any other manner acquires, packaged products 
+6 outside the State for sale to consumers in the State. 
+7 2-A. Incidental presence. "Incidental presence" means the presence of a regulated 
+8 metal or other regulated chemical as an unintended or undesired ingredient of a package 
+9 or packaging component. 
+10 2-B. Intentional introduction. "Intentional introduction" means the act of 
+11 deliberately using a regulated metal or other regulated chemical in the formation of a 
+12 package or packaging component when its continued presence is desired in the final 
+13 package or packaging component to provide a specific characteristic, appearance or 
+14 quality. 
+15 The use of a regulated metal or other regulated chemical as a processing agent or 
+16 intermediate to impart certain chemical or physical changes during manufacturing, when 
+17 the incidental retention of a residue of the metal or chemical in the final package or 
+18 packaging component is neither desired nor deliberate, is not considered intentional 
+19 introduction for the purposes ofthis chapter. 
+20 The use of recycled materials as feedstock for the manufacture of new packaging 
+21 materials, when a portion of the recycled materials may contain amounts of the regulated 
+22 metals or other regulated chemicals, is not considered intentional introduction for the 
+23 purposes of this chapter when the new package or packaging component is in compliance 
+24 with section 1733. 
+25 2-C. Food package. "Food package" means a package that is designed for direct 
+26 food contact. "Food package" includes, but is not limited to, a food or beverage product 
+27 that is contained in a food package or to which a food package is applied, a packaging 
+28 component of a food package and plastic disposable gloves used in commercial or 
+29 institutional food service. 
+30 3. Manufacturer. "Manufacturer" means any person whe that manufactures a 
+31 package or packaging component. 
+32 4. Package. "Package" means a container used in marketing, protecting or handling 
+33 a product and. "Package" includes a unit package and a shipping container defined by the 
+34 American Society for Testing and Materials in its annual book of standards as ASTM, 
+35 D996. "Package" also includes suoh; a food package; and unsealed receptacles such as 
+36 carrying cases, crates, cups, pails, rigid foil and other trays, wrappers and wrapping films, 
+37 bags and tubs. 
+38 5. Packaging component. "Packaging component" means any individual assembled 
+39 part of a package such as, but not limited to, any interior or exterior blocking, bracing, 
+40 cushioning, weatherproofmg, exterior strapping, coatings, closures, inks and labels. Tin-
+41 plated steel that meets the American Society for Testing and Materials specification A-
+42 623 must be considered as a single package component. Electrogalvanized coated steel 
+43 and hot-dipped coated galvanized steel that meets the American Society for Testing and 
+Page 2 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT .. /f" to H.P. 1043, L.D. 1433 
+1 Materials specifications A-525 and A-879 must be treated in the same manner as tin-
+2 plated steel. 
+3 5-A. Perfluoroalkyl and polyfluoroalkyl substances; PFAS. 11Perfluoroalkyl and 
+4 polyfluoroalkyl substances" or 11PFAS11 means any member of the class of fluorinated 
+5 organic chemicals containing at least one fully fluorinated carbon atom. 
+6 5-B. Phthalates. "Phthalates" means any member of the class of organic chemicals 
+7 that are esters of phthalic acid and that contain 2 carbon chains located in the ortho 
+8 position. 
+9 5-C. Safer alternative. "Safer alternative11 means an alternative that, when 
+10 compared to a chemical that it could replace, would reduce the potential for harm to 
+11 human health or the environment or that has not been shown to pose the same or greater 
+12 potential for harm to human health or the environment as that chemical. 
+13 6. Supplier. 11Supplier11 means any person, firm or corporation that sells packages or 
+14 packaging components to a distributor. 
+15 Sec. 3. 32 MRSA §1733, as enacted by PL 1989, c. 849, §1, is amended to read: 
+16 §1733. Prohibitions; substitute materials 
+17 1. Prohibition of sale of packaging containing certain heavy metals. A 
+18 manufacturer, supplier or distributor may not offer for sale or for promotional purposes in 
+19 the State a package or packaging component that includes inks, dyes, pigments, 
+20 adhesives, stabilizers, coatings or any other additives to which any lead, cadmium, 
+21 mercury or hexavalent chromium has been intentionally introduced during manufacturing 
+22 or distribution. This ·prohibition does not apply to the incidental presence of any of these 
+23 elements. 
+24 2. Prohibition of sale of product in packaging containing certain heavy metals. 
+25 A manufacturer or distributor may not offer for sale or for promotional purposes in the 
+26 State any product in a package that includes, in the package itself or any packaging 
+27 components, inks, dyes, pigments, adhesives, stabilizers, coatings or any other additives 
+28 to which any lead, cadmium, mercury or hexavalent chromium has been intentionally 
+29 introduced during manufacturing or distribution. This prohibition does not apply to the 
+30 incidental presence of any of these elements. 
+31 3. Concentration levels of certain heavy metals. +he For the purposes of 
+32 subsections 1 and 2, the sum of the concentration levels of lead, cadmium, mercury and 
+33 hexavalent chromium present in any package or packaging component may not exceed: 
+34 A. Effective April 1, 1992, 600 parts per million by weight, or 0.06%; 
+35 B. Effective April 1, 1993, 250 parts per million by weight, or 0.025%; and 
+36 C. Effective April 1, 1994, 100 parts per million by weight, or 0.01 %. 
+37 3-A. Prohibition of sale of food package containing phtbalates. Beginning 
+38 January 1, 2022, a manufacturer, supplier or distributor may not offer for sale or for 
+39 promotional purposes in the State a food package that includes inks, dyes. pigments, 
+40 adhesives, stabilizers, coatings. plasticizers or any other additives to which phthalates 
+41 have been intentionally introduced in any amount greater than an incidental presence. 
+Page 3 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT ,._fJy,, toH.P.1043, L.D. 1433 
+1 The prohibition in this subsection does not prevent a manufacturer that is located in the 
+2 State from offering for sale or for promotional purposes outside the State a food package 
+3 to which phthalates have been intentionally introduced in any amount greater than an 
+4 incidental presence. 
+5 3-B. Prohibition of sale of food package containing PFAS. In accordance with the 
+6 requirements of this subsection, the department may by rule prohibit a manufacturer, 
+7 supplier or distributor from offering for sale or for promotional purposes in the State a 
+8 food package to which PF AS have been intentionally introduced in any amount greater 
+9 than an incidental presence. 
+10 A. The department may not by rule prohibit the sale of a food package to which 
+11 PF AS have been intentionally introduced in any amount greater than an incidental 
+12 presence under this subsection unless the department has detennined that a safer 
+13 alternative to the use of PF AS in a specific application of PF AS to a food package is 
+14 available. To determine that a safer alternative is available, the department must find 
+15 that a safer alternative is readily available in sufficient quantity and at a comparable 
+16 cost and that the safer alternative performs as well as or better than PF AS in a 
+17 specific application of PF AS to a food package. 
+18 B. If the department detennines pursuant to paragraph A that a safer alternative to 
+19 the use of PF AS in a specific application of PFAS to a food package is available, the 
+20 department shall by rule prohibit the sale of a food package to which PF AS have been 
+21 intentionally introduced in arty amount greater than an incidental presence under this 
+22 subsection, except that such a prohibition may not take effect until January 1. 2022 or 
+23 2 years following the date on which the department determines that a safer alternative 
+24 is available, whichever is later. 
+25 The prohibition in this subsection does not prevent a manufacturer that is located in the 
+26 State from offering for sale or for promotional purposes outside the State a food package 
+27 to which PF AS have been intentionally introduced in any amount greater than an 
+28 incidental presence. 
+29 Rules adopted pursuant to this subsection are major substantive rules as defined in Title 
+30 5, chapter 375, subchapter 2-A. 
+31 3-C. Exemption to prohibition of sale of food package. The prohibitions in 
+32 subsections 3-A and 3-B do not apply to a manufacturer of a food or beverage product 
+33 that is contained in a food package or to which a food package is applied as long as that 
+34 manufacturer has less than $1,000,000,000 of total annual national sales of food and 
+35 beverage products. 
+36 4. Substitute materials. No material used to replace lead, cadmium, mercury et',. 
+37 hexavalent chromium. phthalates or PFAS in a package or packaging component may be 
+38 used in a quantity or manner that creates a hazard as great as or greater than the hazard 
+39 created by the lead, oaamilID'l, mercury or heJ(avalent ohromfum prohibited heavy metal 
+40 or chemical. 
+41 Sec. 4. 32 MRSA §1734, as amended by PL 1995, c. 656, Pt. A, §9, is :ft.uther 
+42 amended to read: 
+Page 4 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEEAMENDMENT"fo"toH.P. 1043,L.D. 1433 
+1 §1734. Exemptions 
+2 All packages and packaging components are subject to the provisions of section 1733 
+3 unless: 
+4 1. Manufactured prior to April 1, 1992. The package or packaging component has 
+5 a code indicating a date of manufacture prior to the effeetive date of this seetion April 1, 
+6 1992; 
+7 2. Health and safety requirements; feasibility; post-consumer materials. The 
+8 manufacturer, supplier or distributor petitions the department for an exemption for a 
+9 particular package or packaging component and the department grants an exemption for 
+10 one or more of the following reasons. 
+11 A. The package or packaging component contains lead, cadmium, mercury or 
+12 hexavalent chromium added in the manufacturing, forming, printing or distribution 
+13 process in order to comply with health or safety requirements of state or federal law. 
+14 B. There is no feasible alternative to the use of lead, cadmium, mercury or 
+15 hexavalent chromium in the package or packaging component. For the purposes of 
+16 this section, "no feasible alternative" means a use in which the regulated substance is 
+17 essential to the protection, safe handling or function of the package's contents. 
+18 C. The addition of post-consumer materials causes the package or packaging 
+19 component to exceed the maximum concentration levels set forth in section 1733, 
+20 subsection 3. 
+21 For packages or packaging components exempted under paragraph A or B, a 2-year 
+22 exemption may be granted and that exemption may be renewed for an additional 2 years. 
+23 An exemption granted under paragraph C is valid for 6 years; or 
+24 3. Alcoholic beverages bottled prior to April 1, 1992. The package or packaging 
+25 component contains an alcoholic beverage bottled prior to April 1, 1992t-e1:.,_ 
+26 Sec. 5. 32 MRSA §1735, sub-§3 is enacted to read: 
+27 3. Food package; limitation of scope of certificate. A manufacturer subject to the 
+28 prohibitions under section 1733, subsection 3-A or 3-B shall develop a certificate of 
+29 compliance under this section, except that the manufacturer may limit the scope of the 
+30 certificate to the prohibitions in section 1733, subsection 3-A or 3-B. A manufacturer 
+31 that is exempt under section 1733, subsection 3-C is also exempt from the requirements 
+32 of this subsection. 
+33 Sec. 6. 32 MRSA §1737, as amended by PL 1995, c. 656, Pt. A, §12 and PL 2011, 
+34 c. 657, Pt. W, §5, is repealed and the following enacted in its place: 
+35 §1737. Rules 
+36 The department shall adopt rules necessary for the implementation, administration 
+37 and enforcement of this chapter. Except as otherwise provided in this chapter. rules 
+38 adopted pursuant to this chapter are routine technical rules as defined in Title 5, chapter 
+39 375, subchapter 2-A. 
+40 Sec. 7. 32 MRSA §1739, as enacted by PL 1989, c. 849, §1, is repealed. 
+Page 5 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT" A" to H.P. 1043, L.D. 1433 
+Sec. 8. 32 MRSA c. 26-B is enacted to read: 
+2 CHAPTER 26-B 
+3 TOXIC CHEMICALS IN FOOD PACKAGING 
+4 §1741. Definitions 
+5 As used in this chapter, unless the context otherwise indicates, the following terms 
+6 have the following meanings. 
+7 1. Alternative. "Alternative" has the same meaning as in section 1732, subsection 
+8 1-B. 
+9 2. Board. "Board" means the Board of Environmental Protection. 
+10 3. Chemical. "Chemical" has the same meaning as in section 1732, subsection 1-C. 
+11 4. Commissioner. "Commissioner" means the Commissioner of Environmental 
+12 Protection. 
+13 5. Credible scientific evidence. "Credible scientific evidence" means the results of 
+14 a study, the experimental design and conduct of which have undergone independent 
+15 scientific peer review, that are published in a peer-reviewed journal or in a publication of 
+16 an authoritative federal or international governmental agency, including but not limited to 
+17 the United States Department of Health and Human Services, National Toxicology 
+18 Program, Food and Drug Administration and Centers for Disease Control and Prevention; 
+19 the United States Environmental Protection Agency; the World Health Organization; and 
+20 the European Union, European Chemicals Agency. 
+21 6. De minimis level. "De minimis level" means: 
+22 A. For a food contact chemical of high concern or priority food contact chemical that 
+23 is an intentionally added chemical in a food package, the practical quantification 
+24 limit; or 
+25 B. For a food contact chemical of high concern or priority food contact chemical that 
+26 is a contaminant present in a food package, a concentration of 100 parts per million. 
+27 7. Department. "Department" means the Department of Environmental Protection. 
+28 8. Distributor. "Distributor" has the same meaning as in section 1732, subsection 2. 
+29 9. Food contact chemical of high concern. "Food contact chemical of high 
+30 concern" means a chemical identified by the department pursuant to section 1742. 
+31 10. Food package. "Food package" has the same meaning as in section 1732, 
+32 subsection 2-C. 
+33 11. Intentionally added chemical. "Intentionally added chemical" means a 
+34 chemical that was added during the manufacture of a product or product component to 
+35 provide a specific characteristic, appearance or quality or to perform a specific :function. 
+36 12. Manufacturer. "Manufacturer" means any person who manufactured a food 
+37 package or whose brand name is affixed to a food package. In the case of a food package 
+38 that was imported into the United States, "manufacturer" includes the importer or first 
+Page 6 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A " to H.P. 1043, L.D. 1433 
+1 domestic distributor of the food package if the person who manufactured or assembled 
+2 the food package or whose brand name is affixed to the food package does not have a 
+3 presence in the United States. 
+4 13. Practical quantification limit. "Practical quantification limit" means the lowest 
+5 concentration of a chemical that can be reliably measured within specified limits of 
+6 precision, accuracy, representativeness, completeness and comparability during routine 
+7 laboratocy operating conditions. The practical quantification limit is based on 
+8 scientifically defensible, standard analytical methods. The practical quantification limit 
+9 for a given chemical may be different depending on the matrix and the analytical method 
+10 used. 
+11 14. Priority food contact chemical. "Priority food contact chemical" means a 
+12 chemical designated by the commissioner pursuant to section 1743. 
+13 15. Safer alternative. "Safer alternative" has the same meaning as in section 1732, 
+14 subsection 5-C. 
+15 §1742. Identification of food contact chemicals of high concern 
+16 In accordance with the requirements of this section, the department shall publish and 
+17 may revise a list of no more than 10 food contact chemicals of high concern. 
+18 1. Criteria. A chemical may be included on the list under this section only if: 
+19 A. The chemical is included on the list of chemicals of concern published by the 
+2,0 department in accordance with Title 38, section 1693 or the chemical has been 
+21 identified by an authoritative governmental entity on the basis of credible scientific 
+22 evidence as being: 
+23 (1) A carcinogen, a reproductive or developmental toxicant or an endocrine 
+24 disruptor: 
+25 (2) Persistent, bioaccumulative and toxic: or 
+26 (3) Very persistent and vety bioaccumulative: 
+27 B. The department determines that there is strong credible scientific evidence that 
+28 the chemical is a reproductive or developmental toxicant, endocrine disruptor or 
+29 human carcinogen: and 
+30 C. The department determines that there is strong credible scientific evidence that 
+31 the chemical meets one or more of the following additional criteria: 
+32 (1) The chemical has been found through biomonitoring studies to be present in 
+33 human blood, human breast milk, human urine or other human bodily tissues or 
+34 fluids: 
+35 (2) The chemical has been found through sampling and analysis to be present in 
+36 a food or beverage product; or 
+37 (3) The chemical has been added to or is present in a food package. 
+38 2. Revisions. The commissioner shall review the list published pursuant to this 
+39 section at least evety 3 years and shall remove from the list any food contact chemical of 
+Page 7 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A" to H.P. 1043, L.D. 1433 
+1 high concern that has been designated as a priority food contact chemical pursuant to 
+2 section 17 43 or that no longer meets the criteria of subsection 1. The commissioner may 
+3 add to the list additional food contact chemicals of high concern that meet the criteria of 
+4 subsection l, except that the list under this section may not at any one time include more 
+5 than 10 food contact chemicals of high concern. 
+6 §1743. Designation of priority food contact chemicals 
+7 The commissioner may designate a food contact chemical of high concern as a 
+8 priority food contact chemical if: 
+9 1. Chemical included on list of food contact chemicals of high concern. The food 
+10 contact chemical of high concern is included on the list of food contact chemicals of high 
+11 concern published by the department in accordance with section 1742; and 
+12 2. Additional criteria. The commissioner finds that the food contact chemical of 
+13 high concern: 
+14 A. Has been found through biomonitoring to be present in human blood, including 
+15 umbilical cord blood, breast milk, urine or other human bodily tissues or fluids; 
+16 B. Has been found through sampling and analysis to be present in a food or beverage 
+17 product; or 
+18 C. Is present in a food package. 
+19 §1744. Disclosure of information on priority food contact chemicals 
+20 1. Reporting of chemical use. A person who is a manufacturer or distributor of a 
+21 food package for sale in the State that contains a priority food contact chemical in any 
+22 amount greater than a de minimis level shall notify the department in writing unless 
+23 waived by the commissioner pursuant to this section. This written notice must be made 
+24 within 180 days after a priority food contact chemical is designated. If the sale in the 
+25 State of a food package by a manufacturer or distributor does not commence until after 
+26 the 180-day reporting period ends, this written notice must be made within 30 days of 
+27 sale of the food package in the State. This written notice must identify the food package, 
+28 the number of units sold or distributed for sale in the State or nationally. the priority food 
+29 contact chemical or chemicals contained in the food package, the amount of such 
+30 chemicals in each unit of the food package and the intended purpose of the chemicals in 
+31 the food package. 
+32 2. Supplemental information. The manufacturer or distributor of a food package 
+33 that contains a priority food contact chemical shall provide the following additional 
+34 information if requested by the department: 
+35 A. Information on the likelihood that the priority food contact chemical will be 
+36 released from the food package to the environment during the food package's life 
+37 cycle and the extent to which users of the food package are likely to be exposed to the 
+38 · chemical; 
+39 B. Information on the extent to which the priority food contact chemical is present in 
+40 the environment or human body; and 
+Page 8 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEEAMENDMENT"A"toH.P.1043,L.D.1433 
+C. An assessment of the availability, cost. feasibility and performance, including 
+2 potential for harm to human health and the environment, of alternatives to the priority 
+3 food contact chemical and the reason the chemical is used in the manufacture of the 
+4 food package in lieu of identified alternatives. If an assessment acceptable to the 
+5 department is not timely submitted. the department may assess a fee on the 
+6 manufacturer or distributor to cover the costs to prepare an independent report on the 
+7 availability of safer alternatives by a contractor of the department's choice. 
+8 The manufacturer or distributor of a food package that contains a priority food contact 
+9 chemical may provide additional information to the department regarding the potential 
+10 for harm to human health and the environment from specific uses of the chemical. 
+11 3. Waiver of reporting; fee; extension of deadline. The commissioner may waive 
+12 all or part of the notification requirement under subsection 1 for one or more specified 
+13 uses of a priority food contact chemical if the commissioner determines that substantially 
+14 equivalent information is already publicly available. that the information is not needed for 
+15 the purposes of this chapter or that the specified use or uses are minor in volume. The 
+16 department may assess a fee payable by the manufacturer or distributor upon submission 
+17 of the notification to cover the department's reasonable costs in managing the information 
+18 collected. The department may extend the deadline for submission of the information 
+19 required under subsection 1 for one or more specified uses of a priority food contact 
+20 chemical in a food package if it determines that more time is needed by the manufacturer 
+21 or distributor to comply with the submission requirement or if the information is not 
+22 needed at that time. 
+23 4. Failure to provide notice. A food package containing a priority food contact 
+24 chemical may not be sold, offered for sale or distributed for sale in the State if the 
+25 manufacturer or distributor has failed to provide the information required in this section 
+26 by the date required in this section. The commissioner shall exempt a food package from 
+27 this prohibition if, in the commissioner's judgment. the lack of availability of the food 
+28 package could pose an unreasonable risk to public health, safety or welfare. 
+29 5. Rulemaking to determine fees. If the department assesses a fee pursuant to 
+30 subsection 2. paragraph C or subsection 3, the department shall determine the appropriate 
+. 31 fee through major substantive rulemaking. as defined in Title 5, chapter 375, subchapter 
+32 2-A. 
+33 §1745. Sales prohibition; rules; safer alternatives to priority food contact chemicals 
+34 1. Authority. The board may adopt rules prohibiting the manufacture, sale or 
+35 distribution in the State of a food package containing a priority food contact chemical in 
+36 an ainount greater than a de minimis level if the board finds, after consideration of 
+37 information filed under section 1744 and other relevant information submitted to or 
+3 8 obtained by the board, that: 
+39 A. Distribution of the food package directly or indirectly exposes consumers to the 
+40 priority food contact chemical: and 
+41 B. One or more safer alternatives to the priority food contact chemical are available 
+42 at a comparable cost. 
+Page 9 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT"~" to H.P. 1043, L.D. 1433 
+1 If there are several available safer alternatives to a priority food contact chemical, the 
+2 board may prohibit the sale of a food package that does not contain the safer alternative 
+3 that is least toxic to human health or least harmful to the environment. 
+4 A rule adopted pursuant to this subsection must specify the effective date of the 
+5 prohibition, which may not be sooner than 2 years after notice of the proposed rule is 
+6 published as required under Title 5, section 8053, subsection 5. 
+7 Rules adopted pursuant to this subsection are major substantive rules as defmed in Title 
+8 5, chapter 375, subchapter 2-A. 
+9 2. Alternatives assessment; presumptions. For the purpose of determining 
+10 whether a safer alternative is available under subsection 1. paragraph B, the board may. in 
+11 the absence of persuasive evidence to the contrary: 
+12 A. Presume that an alternative is a safer alternative if the alternative does not satisfy 
+13 the criteria under section 1742, subsection 1. paragraph A; 
+14 B. Presume that a safer alternative is available if the sale of the food package 
+15 containing the priority food contact chemical has been banned by another state within 
+16 the United States based on the availability of a safer alternative: and 
+17 C. Presume that a safer alternative is available if the alternative is sold in the United 
+18 States. 
+19 3. Implementation. No later than 180 days prior to the effective date of a 
+20 prohibition adopted pursuant to subsection 1, the manufacturer or distributor of a food 
+21 package that contains the priority food contact chemical and that is subject to the 
+22 prohibition at the time of adoption shall file a compliance plan with the commissioner or 
+23 seek a waiver under subsection 5. A compliance plan must: 
+24 A. Identify the food package that contains the priority food contact chemical; 
+25 B. Specify whether compliance will be achieved by discontinuing the sale of the 
+26 food package in the State or by substituting a safer alternative in the food package; 
+27 and 
+28 C. If compliance is achieved by substitution of a safer alternative in the food 
+29 package, identify the safer alternative and the timetable for substitution. 
+30 4. Responsibility. The manufacturer or distributor of a food package that contains a 
+31 priority food contact chemical shall notify persons that offer the food package for sale or 
+32 distribution in the State of the requirements of this chapter. 
+33 5. Waiver for specific uses. The manufacturer or distributor of a food package that 
+34 contains a priority food contact chemical and that is subject to a prohibition adopted 
+35 pursuant to subsection 1 may apply to the commissioner for a waiver for one or more 
+36 specific uses of the priority food contact chemical. The waiver application must, at a 
+37 minimum: 
+38 A. Identify the specific use or uses of the food package for which the waiver is 
+39 sought: 
+40 B. Identify the alternatives considered for substitution of the priority food contact 
+41 chemical; 
+Page 10 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+CUMMITTEE AMENDMENT ·fa "to H.P. 1043, L.D. 1433 
+1 C. Explain the basis for concluding that the use of an alternative is not feasible; and 
+2 D. Identify the steps that have and will be taken to minimize the use of the priority 
+3 food contact chemical. 
+4 The commissioner may grant a waiver with or without conditions upon finding that there 
+5 is a need for the food package in which the priority food contact chemical is used and 
+6 there are no technically or economically feasible alternatives for the use of that chemical 
+7 in the food package. A waiver may be granted for a term not to exceed 5 years and may 
+8 be renewed for one or more additional 5-year terms upon written application 
+9 demonstrating that technically or economically feasible alternatives remain unavailable. 
+10 The commissioner shall deny or grant a waiver request within 60 days after receipt of a 
+11 completed waiver application. 
+12 6. Petitions. If rulemaking to prohibit the sale of a food package that contains a 
+13 priority food contact chemical is initiated by petition under Title 5, section 8055, the 
+14 department shall consider the info1mation submitted in support of the petition but is not 
+15 obligated to conduct a search of other sources of information on the chemical or its uses. 
+16 The petitioner bears the burden of demonstrating that the criteria under subsection 1 for 
+17 adoption of rules are met. 
+18 §1746. Applicability 
+19 The provisions of this chapter do not apply to: 
+20 1. Industry. A chemical used in or for industry or manufacturing, including 
+21 chemicals processed or otherwise used in or for industrial or manufacturing processes; 
+22 2. Retailers. A retailer of a food package unless the retailer knowingly sells a food 
+23 package that contains a priority food contact chemical after the effective date of its 
+24 prohibition under section 1745 for which that retailer has received prior notification from 
+25 a manufacturer, a distributor or the State; 
+26 3. Contaminants. A chemical that occurs in a food package only as a contaminant 
+27 as long as the manufacturer had in place a manufacturing control program and exercised 
+28 due diligence to minimize the presence of the contaminant in the food package; or 
+29 4. Certain manufacturers. A manufacturer of a food or beverage product that is 
+30 contained in a food package or to which a food package is applied as long as that 
+31 manufacturer has less than $1,000,000,000 of total annual national sales of food and 
+32 beverage products. 
+33 §1747. Implementation, administration and enforcement; rules; violations 
+34 The department shall implement, administer and enforce this chapter and shall adopt 
+35 rules as necessary for the implementation, administration and enforcement of this chapter. 
+36 1. Rules. Except as otherwise provided in this chapter, rules adopted by the 
+37 department pursuant to this chapter are routine technical rules as defined in Title 5, 
+38 chapter 375, subchapter 2-A. 
+39 2. Violations. A person that violates any provision of this chapter is subject to 
+40 penalties in accordance with Title 38, section 349. 
+Page 11 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT fa "to H.P. 1043, L.D. 1433 
+1 3. Certificate of compliance. If there are grounds to suspect that a food package is 
+2 being offered for sale in violation of this chapter, the department may request that the 
+3 manufacturer or distributor of the food package provide a certificate of compliance with 
+4 the applicable provisions of this chapter. Within 30 days ofreceipt of a request under this 
+5 subsection, the manufacturer or distributor shall: 
+6 A. Provide the department with the ce11ificate attesting that the food package does 
+7 not contain the priority food contact chemical; or 
+8 B. Notify persons who sell the food package in this State that the sale of the food 
+9 package is prohibited and provide the department with a list of the names and 
+1 O addresses of those notified. 
+11 4. Regulatory efficiency. The department may, in exercising its discretionary 
+12 authority under this chapter, consider the extent to which a food contact chemical of high 
+13 concern or a priority food contact chemical in a food package is adequately regulated by 
+14 the Federal Government or an agency of this State to reduce or prevent the same public 
+15 health threats that would be the basis for addressing the chemical under this chapter.' 
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+17 section number to read consecutively. 
+18 SUMMARY 
+19 This amendment, which is the majority report of the committee, amends the bill as 
+20 follows. 
+21 1. It clarifies that the sales prohibitions on food packaging containing intentionally 
+22 introduced perfluoroalkyl and polyfluoroalkyl substances, or PF AS, and phthalates in any 
+23 amount greater than an incidental presence applies only to sales occurring in the State and 
+24 clarifies the scope of the exemption to those prohibitions for certain manufacturers of 
+25 food or beverage products. 
+26 2. It provides that any rulemaking by the Department of Environmental Protection to 
+27 prohibit the sale of food packaging containing intentionally introduced PF AS is major 
+28 substantive rulemaking and requires the department to adopt by rule such a prohibition 
+29 upon a determination that a safer alternative to the use of PF AS in a specific application 
+30 of PF AS to a food package is available. 
+31 3. It removes from the bill the provisions authorizing the department to designate by 
+32 rule additional chemicals of concern in food packaging and instead enacts a new chapter 
+33 to regulate the use of additional toxic chemicals in food packaging. That new chapter is 
+34 modeled after the toxic chemicals in children's products law in the Maine Revised 
+35 Statutes, Title 38, chapter 16-D and incorporates the definitions and criteria from that law 
+36 into the new chapter, as adapted for application to food packaging. 
+37 4. It includes a number of technical changes to the bill as necessary to incorporate 
+38 the other amendments to the bill described in this summary. 
+39 FISCAL NOTE REQUIRED 
+40 (See attached) 
+Page 12 -129LR1184(02)-1 
+COMMITTEE AMENDMENT 
+Approved: 05/09/19 feac:.. 
+129th MAINE LEGISLATURE 
+LD 1433 LR 1184(02) 
+An Act To Protect the Environment and Public Health by Further Reducing Toxic Chemicals in 
+Packaging 
+Fiscal Note for Bill as Amended by Committee Amendment ,;4 { JI -5 b J) 
+Committee: Environment and Natural Resources 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -General Fund 
+Fiscal Detail and Notes 
+This bill amends the laws regarding the reduction of toxins in packaging to prohibit the sale of food packaging in the 
+State to which phthalates, perfluoroalkyl or polyfluoroalkyl substances (PF AS) have been intentionally introduced, 
+effective Janua1y 1, 2022. Any additional costs to the Department of Environmental Protection for additional 
+regulatory responsibilities and for related rnlemaking are anticipated to be minor and can be absorbed within existing 
+budgeted resources. 
+LR1184(02) -Fiscal Note -Page 1 of 1 

@@ -1,0 +1,99 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1155
+H.P. 844 House of  Representatives, March 7, 2019
+An Act  To Protect  Patients and the  Prudent Layperson Standard
+Reference to the Committee on Health  Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Speaker GIDEON  of Freeport.
+Cosponsored by Senator FOLEY of  York and
+Representatives: MASTRACCIO of Sanford, PERRY of  Calais,  SWALLOW of Houlton,  
+TEPLER of  Topsham, TUELL of East Machias, Senators: CARPENTER of Aroostook, 
+MOORE of Washington,  SANBORN, H. of Cumberland.
+
+Page 1 - 129LR1328(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  24-A MRSA §4301-A, sub-§§4-A and 4-B are enacted to read:
+34-A.  Emergency medical condition.  "Emergency medical condition" means the 
+4sudden and, at the time, unexpected onset of a physical or mental health condition 
+5manifesting itself by symptoms of sufficient severity, regardless of the final diagnosis 
+6that is given, that would lead a prudent layperson, possessing an average knowledge of 
+7medicine and health, to believe:
+8A.  That the absence of immediate medical attention for an individual could 
+9reasonably be expected to result in:
+10(1)  Placing the physical or mental health of the individual or, with respect to a 
+11pregnant woman, the health of the pregnant woman or her unborn child in serious 
+12jeopardy;
+13(2)  Serious impairment of a bodily function;
+14(3)  Serious dysfunction of any organ or body part; or
+15(4)  Inadequately controlled pain; or
+16B.  With respect to a pregnant woman who is having contractions, that there is:
+17(1)  Inadequate time to effect a safe transfer of the woman to another hospital 
+18before delivery; or
+19(2)  A threat to the health or safety of the woman or unborn child if the woman 
+20were to be transferred to another hospital.
+214-B.  Emergency service.  "Emergency service" means a health care item or service 
+22furnished or required to evaluate and treat an emergency medical condition that is 
+23provided in an emergency facility or setting by a health care provider.
+24Sec. 2.  24-A MRSA §4304, sub-§5, as enacted by PL 1999, c. 742, §13, is 
+25amended to read:
+265.  Emergency services.  When conducting utilization review or making a benefit 
+27determination for emergency services, a carrier shall provide benefits for emergency 
+28services consistent with the requirements of this subsection and any applicable bureau 
+29rule.
+30A.  A carrier may not require prior authorization for emergency services.
+31B.  Before a carrier denies benefits or reduces payment for an emergency service 
+32based on a determination of the absence of an emergency medical condition or a 
+33determination that a lower level of care was needed than is required for an emergency 
+34medical condition, the carrier shall review the enrollee's medical record related to the 
+35emergency medical condition subject to dispute.  If a carrier requests records related 
+36to a potential denial of or payment reduction for an enrollee's benefits when 
+37emergency services were furnished to an enrollee, a provider has an affirmative duty 
+38to respond to the carrier in a timely manner.  A carrier's utilization review of 
+Page 2 - 129LR1328(01)-11emergency services must be conducted by a clinical peer that is board certified in the 
+2same specialty and licensed to practice in this State.
+3Sec. 3.  24-A MRSA §4320-C, as enacted by PL 2011, c. 364, §34, is amended to 
+4read:
+5§4320-C.  Emergency services
+6If a carrier offering a health plan subject to the requirements of the federal Affordable 
+7Care Act provides or covers any benefits with respect to services in an emergency 
+8department of a hospital, the plan must cover emergency services in accordance with the 
+9requirements of the federal Affordable Care Act, including requirements that emergency 
+10services be covered without prior authorization and that cost-sharing requirements, 
+11expressed as a copayment amount or coinsurance rate, for out-of-network services are the 
+12same as requirements that would apply if such services were provided in network.  A 
+13carrier offering a health plan in this State shall also comply with the requirements of 
+14section 4304, subsection 5.
+15SUMMARY
+16This bill establishes a definition of "emergency medical condition" in the law 
+17governing utilization review in the Maine Insurance Code and makes clear that the 
+18determination of an emergency medical condition relies on the prudent layperson 
+19standard regardless of the final diagnosis that is given.  The bill also prohibits a carrier 
+20from requiring prior authorization for emergency services and requires that utilization 
+21review of benefit determinations for emergency services be conducted by a clinical peer, 
+22who is a licensed provider in the same or similar specialty as typically manages the 
+23medical condition, procedure or treatment under review.

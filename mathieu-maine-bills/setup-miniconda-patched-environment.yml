@@ -1,0 +1,14 @@
+name: nlp-proto
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - pypdf
+  - ca-certificates
+  - certifi
+  - openssl
+  - requests[security]
+  - urllib3
+  - python=3.11
+prefix: /home/philip/miniconda3/envs/nlp-proto

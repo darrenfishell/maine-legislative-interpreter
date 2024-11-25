@@ -1,0 +1,161 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1609
+H.P. 1198 House of  Representatives,  April 27, 2021
+An Act  To Stop Social Media Censorship
+Reference to the Committee on Judiciary  suggested and ordered  printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative SAMPSON of Alfred.
+Cosponsored by Senator MIRAMANT  of Knox and
+Representative: DRINKWATER of Milford, Senator: KEIM  of Oxford.
+
+Page 1 - 130LR0822(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  10 MRSA c. 1056 is enacted to read:
+3CHAPTER 1056
+4SOCIAL MEDIA DECEPTIVE TRADE PRACTICES
+5§9555. Short title
+6 This Act may be known and cited as "the Stop Social Media Censorship Act."
+7§9556. Definitions
+8 As used in this chapter, unless the context otherwise indicates, the following terms 
+9 have the following meanings. 
+101.  Algorithm.  "Algorithm" means a set of electronic instructions designed to perform 
+11 a specific task. 
+122.  Harassing spam.  "Harassing spam" means an unsolicited commercial message 
+13 directed indiscriminately to users of a social media website.
+143.  Hate speech.  "Hate speech" means a phrase communicating content that an 
+15 individual finds offensive based on the individual's personal moral code. 
+164.  Lascivious matter.  "Lascivious matter" means matter that is overtly sexual in 
+17 nature.
+185.  Obscene matter.  "Obscene matter" has the same meaning as in Title 17, section 
+19 2911, subsection 1, paragraph D.
+206.  Political speech.  "Political speech" means speech relating to the State, government 
+21 or public administration as it relates to governmental policy making, including discussion 
+22 of social issues and speech by government officials or candidates for office.
+237.  Religious speech.  "Religious speech" means speech that is faith-based assumptions 
+24 and assertions.
+258.  Shadowban.  "Shadowban" means the act of blocking or partially blocking a social 
+26 media website user or the social media website user's content from an online community 
+27 such that it will not be readily apparent to the social media website user that the social 
+28 media website user has been blocked.  Shadowbanning is also referred to as stealth banning, 
+29 ghost banning or comment ghosting.
+309.  Social media website.  "Social media website" means an Internet website or 
+31 application that enables users to communicate with one another by posting information, 
+32 comments, messages or images and that: 
+33 A.  Is open to the public;
+34 B.  Has more than 75,000,000 subscribers;
+35 C.  From its inception, has not been specifically affiliated with one religion or political 
+36 party; and
+Page 2 - 130LR0822(01)1 D.  Provides a means for the social media website's users to report obscene matter and 
+2 has in place procedures for evaluating those reports and removing obscene matter.
+3§9557. Civil actions; deceptive trade practices 
+41.  Private right of action.  A user of a social media website may bring a private action 
+5 in Superior Court against an owner or operator of a social media website that contracts with 
+6 the social media website user in this State if the social media website purposely: 
+7 A.  Deletes or censors the social media website user's religious speech or political 
+8 speech; or
+9 B.  Uses an algorithm to disfavor, shadowban or censor the social media website user's 
+10 religious speech or political speech. 
+112.  Relief.  A social media website user may be awarded the following relief under this 
+12 section:
+13 A.  Up to $75,000 in statutory damages for each purposeful deletion or censoring of 
+14 the social media website user's religious speech or political speech;
+15 B.  Actual damages;
+16 C.  If aggravating factors are present, punitive damages; and
+17 D.  Other forms of equitable relief.
+183.  Court costs and attorney's fees.  The prevailing party in an action under this 
+19 section may be awarded court costs and reasonable attorney's fees. 
+204.  Reduction of damages.  If a social media website restores from deletion or removes 
+21 the censoring of a social media website user's religious speech or political speech in a 
+22 reasonable amount of time, a court may consider reducing damages awarded under 
+23 subsection 2.
+245.  Defenses.  A social media website may not use a social media website user's alleged 
+25 hate speech as a basis for justification or defense of the social media website's actions in 
+26 violation of subsection 1. 
+276.  Attorney General.  The Attorney General may bring a civil action under this 
+28 chapter on behalf of a social media website user who resides in this State and whose 
+29 religious speech or political speech has been censored by a social media website. 
+307.  Unfair and deceptive trade practice.  An owner or operator of a social media 
+31 website that has engaged in practices described in subsection 1 has engaged in an unfair 
+32 trade practice in violation of Title 5, chapter 10 and a deceptive trade practice in violation 
+33 of chapter 206 and is subject to the penalties for violating those chapters in addition to relief 
+34 and court costs and attorney's fees as described in subsections 2 and 3.
+358.  Exclusions. This chapter does not apply to the following: 
+36 A.  A social media website that deletes or censors a social media website user's speech 
+37 or that uses an algorithm to disfavor, shadowban or censor speech: 
+38 (1)  That calls for immediate acts of violence;
+39 (2)  That calls for a user to self-harm; 
+40 (3)  That is obscene matter or lascivious matter or material harmful to minors;
+Page 3 - 130LR0822(01)1 (4)  As the result of operational error;
+2 (5)  As the result of a court order;
+3 (6) That comes from an inauthentic source or involves false impersonation; 
+4 (7) That entices criminal conduct;
+5 (8)  That involves minors bullying minors;
+6 (9)  That constitutes copyright or trademark infringement;
+7 (10)  That is excessively violent; or
+8 (11)  That is harassing spam; or
+9 B.  The censoring of a social media website user's speech by another social media 
+10 website user.
+119.  Cause of action.  Social media website users under 18 years of age do not have a 
+12 cause of action under this chapter. 
+1310.  Venue.  A social media website user or the Attorney General may bring an action 
+14 under this chapter in Superior Court.
+15§9558.  Legislative findings
+16 The Legislature finds that:
+171.  Federal Communications Decency Act.  While Section 230 of the federal 
+18 Communications Decency Act of 1996 protects online service providers who host 3rd-party 
+19 content, it does not protect against deceptive trade practices, bad faith transactions, unfair 
+20 dealing and fraudulent inducements; 
+212.  No preemption.  State laws consistent with Section 230 of the federal 
+22 Communications Decency Act of 1996 are not preempted by Section 230;
+233.  Social media website standards.  This State has a compelling interest in holding 
+24 certain social media websites that have created a digital semi-public square to higher 
+25 standards, especially when those websites have engaged in fraud, false advertising and 
+26 deceptive trade practices;
+274. Social media website practices.  Some social media websites have engaged in 
+28 fraud, false advertising and deceptive trade practices at great expense to the health, safety, 
+29 and welfare of consumers in this State, while making it difficult for others to compete with 
+30 those websites; 
+315.  Compelling interest of State.  The State has a compelling interest in helping its 
+32 citizens enjoy their free exercise of their rights in certain semi-public forums commonly 
+33 used for religious and political speech, regardless of the political or religious affiliation 
+34 they ascribe to; and
+356.  Protection of freedom of religion and speech.  This Act is necessary to ensure the 
+36 continued free practice by the citizens of Maine of religion and speech as guaranteed under 
+37 the First Amendment to the United States Constitution and under the Constitution of Maine, 
+38 Article I, Sections 3 and 4, respectively.
+Page 4 - 130LR0822(01)1SUMMARY
+2 This bill creates a private right of action for users of social media websites whose 
+3 religious or political speech has been subject to deletion, censorship or other disfavor by 
+4 the social media website. The bill also provides that the Attorney General may bring a civil 
+5 action on behalf of a social media website user who resides in this State and whose religious 
+6 or political speech has been censored by the social media website and makes violation an 
+7 unfair and deceptive trade practice.2
+3
+4
+5
+6
+7

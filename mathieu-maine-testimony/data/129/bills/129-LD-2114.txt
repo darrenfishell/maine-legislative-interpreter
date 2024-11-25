@@ -1,0 +1,93 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2114
+H.P. 1507 House of  Representatives, February 20, 2020
+An Act  To Implement  the Recommendations of the Secretary of 
+State Regarding  Automatic Voter  Registration
+Reported by Representative SCHNECK of Bangor for the Joint  Standing Committee  on 
+Veterans and Legal Affairs  pursuant to Public Law 2019,  chapter  409, section 7.
+Reference to the Committee on Veterans  and Legal Affairs suggested  and ordered  printed 
+pursuant to Joint Rule 218.
+ROBERT  B. HUNT
+Clerk
+
+Page 1 - 129LR3220(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  21-A MRSA §232, sub-§1, as enacted by PL 2019, c. 409, §6 and 
+3affected by §9, is amended to read:
+41.  Application for driver's license or nondriver identification card; creation of 
+5pending voter registration record.  If an individual applies for a driver's license or 
+6nondriver identification card from the bureau, unless the individual opts out under section 
+7234, the bureau shall scan record the documentation provided by the individual and create 
+8a pending voter registration record for that individual, which must be stored electronically 
+9in the bureau's database.  The pending voter registration record and the record of the 
+10accompanying scanned documentation must be in a searchable, auditable format.
+11Sec. 2.  21-A MRSA §232, sub-§1-A is enacted to read:
+121-A.  Creation of pending voter registration record in other circumstances.  If an 
+13individual has previously applied for a driver's license or nondriver identification card 
+14from the bureau and the bureau has recorded the necessary documentation provided by 
+15that individual, unless the individual opts out under section 234, the bureau shall create a 
+16pending voter registration record for that individual whenever the individual appears in 
+17person at the bureau's office to conduct other transactions.  The pending voter registration 
+18record and the record of the accompanying documentation must be in a searchable, 
+19auditable format.
+20Sec. 3.  Report.  By January 1, 2021, the Secretary of State shall submit a report to 
+21the joint standing committee of the Legislature having jurisdiction over voter registration 
+22matters on the progress made toward implementing automatic voter registration and the 
+23estimated time required to complete all activities necessary for implementation.  The 
+24report may include recommended legislation for the proper implementation of the 
+25automatic voter registration system, including recommended adjustments to the 
+26implementation date.  The joint standing committee may report out legislation to the First 
+27Regular Session of the 130th Legislature based on the report.
+28Sec. 4.  Effective date.  Those sections of this Act that amend the Maine Revised 
+29Statutes, Title 21-A, section 232, subsection 1 and enact Title 21-A, section 232, 
+30subsection 1-A take effect January 1, 2022.
+31SUMMARY
+32This bill, which is reported out by the Joint Standing Committee on Veterans and 
+33Legal Affairs pursuant to Public Law 2019, chapter 409, section 7, implements the 
+34recommendations of the Secretary of State for implementation of the automatic voter 
+35registration system. The committee has not taken a position on the substance of the bill 
+36and by reporting this bill out the committee is not suggesting and does not intend to 
+37suggest that it agrees or disagrees with any aspect of this bill. The committee is reporting 
+38the bill out for the sole purpose of obtaining a printed bill that can be referred to the 
+39committee for a public hearing and subsequent committee action in the normal course.  
+Page 2 - 129LR3220(01)-11The committee is taking this action to ensure clarity and transparency in the legislative 
+2review of the proposal.
+3The bill replaces the requirement that the Department of the Secretary of State, 
+4Bureau of Motor Vehicles scan documentation that will be used to create a pending voter 
+5registration record for an individual who has not opted out of automatic voter registration 
+6and who applies for a driver's license or nondriver identification card with a requirement 
+7that the bureau record the individual's documentation for pending voter registration 
+8record purposes.  The bill also authorizes the bureau to create a pending voter registration 
+9record for an individual who has previously applied for a driver's license or nondriver 
+10identification card and submitted documentation sufficient to create a pending voter 
+11registration record if the individual appears before the bureau to conduct another 
+12transaction and does not opt out of automatic voter registration.
+13The bill directs the Secretary of State to submit, by January 1, 2021, a report to the 
+14joint standing committee of the Legislature having jurisdiction over voter registration 
+15matters on the progress made toward implementing automatic voter registration and the 
+16estimated time required to complete all activities necessary for implementation. The joint 
+17standing committee may report out legislation to the First Regular Session of the 130th 
+18Legislature based on the report.

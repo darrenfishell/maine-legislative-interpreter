@@ -1,0 +1,2484 @@
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  1 
+  
+ 
+2022 WL 2132368  
+Only th e Westlaw citation is currently available.  
+United States District Court, D. Maine.  
+Mark ARDITO, Plaintiff,  
+v. 
+SOLVAY, S.A. , and Solvay Specialty 
+Polymers USA, LLC, Defendants.  
+1:21-cv-00142 -JAW  
+| 
+Signed 06/14/2022  
+Attorneys and Law Firms  
+David  G. Webbert , Johnson & Webbert, LLP, Augusta, 
+ME, Eric L. Siegel , Pro Hac Vice, Kalbian Hagerty LLP, 
+Washington, DC, Stacey D. Neumann , Alison E. Tozier , 
+Murray Plumb & Murray, Portland, ME, for Plaintiff.  
+B. Kurt Copper , Pro Hac  Vice, Jonathan D. Guynn , Pro 
+Hac Vice, Jones Day, Dallas, TX, Joshua A. Randlett , 
+Joshua A. Tardy , Jonathan P. Hunter , Rudman & 
+Winchell, Bangor, ME, Rick Bergstrom , Pro Hac Vice, 
+Jones Day, San Diego, CA, for Defendants.  
+ 
+ 
+ 
+ 
+ORDER ON PENDING MOTIONS  
+JOHN A. WOODCOCK, JR. , UNITED STATES 
+DISTRICT JUDGE  
+*1 An employer -defendant brings a motion to dismiss an 
+employee -plaintiff’s claims pursuant to Federal Rule of 
+Civil Procedure 12(b)(6) . The employee alleges that the 
+employer violated the Maine Human Rights Act and 
+Maine Whistleblowers ’ Protection Act by creating a 
+retaliatory hostile work environment. The Court 
+concludes that the plaintiff has properly stated a claim on 
+which  relief can be granted.  
+  
+ 
+ 
+I. PROCEDURAL HISTORY  On February 17, 2021, Mark Ardito filed a complaint in 
+Kennebec County Superior Court in the state of Maine 
+against Solvay S.A. (Solvay) and Solvay Specialty 
+Polymers USA, LLC (SSP) alleging violations of the 
+False Claims Act, Maine Whistleblowers ’ Protect ion Act, 
+and the Maine Human Rights Act. Def.’s Notice of 
+Removal  (ECF No. 1) ( Notice of Removal ), Attach. 1, 
+Compl. and Demand for Jury Trial and Injunctive Relief 
+Sought . On June 1, 2021, Solvay and SSP filed a notice 
+removing the case from state to fede ral court. Notice of 
+Removal  at 1-6. 
+  
+On June 8, 2021, Solvay and SSP filed separate motions 
+to dismiss. Mot. to Dismiss of Def. Solvay Specialty 
+Polymers USA, LLC  (ECF No. 9); Mot. to Dismiss of Def. 
+Solvay S.A.  (ECF No. 11). On September 7, 2021, Mr. 
+Ardito filed a motion for leave to file an amended 
+complaint in lieu of an opposition to SSP’s pending 
+motion to dismiss. Pl.’s Mot. for Leave to File Am. 
+Compl.  at 1 (ECF No. 19). In that motion he conceded 
+that the Court does not have personal jurisdiction  over 
+Solvay. Id. On September 27, 2021, the Court granted Mr. 
+Ardito leave to file an amended complaint, dismissed as 
+moot and without prejudice SSP’s motion to dismiss, and 
+dismissed without prejudice all claims against Solvay. 
+Order  at 1 (ECF No. 23). S SP remains the only 
+defendant.  
+  
+On September 29, 2021, Mr. Ardito filed his First 
+Amended Complaint alleging violations of the Maine 
+Whistleblowers ’ Protection Act and the Maine Human 
+Rights Act. First Am. Compl. and Demand for Jury Trial 
+and Injunctive R elief Sought  (ECF No. 24) ( First Am. 
+Compl. ). The First Amended Complaint is now the 
+operative complaint.  
+  
+On October 14, 2021, SSP filed a new motion to dismiss. 
+Mot. to Dismiss of Def. Solvay Specialty Polymers USA, 
+LLC (ECF No. 25) ( Def.’s Mot. ). On Oc tober 28, 2021, 
+Mr. Ardito responded in opposition to SSP’s motion to 
+dismiss. Pl.’s Opp’n to Def. ’s Mot. to Dismiss First Am. 
+Compl.  (ECF No. 26) ( Pl.’s Opp’n ). On November 4, 
+2021, SSP replied. Def.’s Reply in Supp. of its Mot. to 
+Dismiss Pl. ’s First Am.  Compl.  (ECF No. 27) ( Def.’s 
+Reply ). 
+  
+On March 5, 2022, Mr. Ardito filed a praecipe in support 
+of his opposition to SSP’ s motion to dismiss, requesting 
+that the Court take judicial notice of an attached 
+Right -to-Sue letter from the Maine Human Rights 
+Commission dated March 1, 2022. Pl.’s Praecipe in Supp. 
+of His Opp’n to Def. ’s Mot. to Dismiss First Am. Compl. 
+Pertaining to  Maine Human Rights Commission 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  2 
+ Right -to-Sue Letter  (ECF No. 31) ( Pl.’s Praecipe ). On 
+March 21, 2022, SSP objected to Mr. Ardito’s praecipe. 
+Def. Solvay Specialty Polymers USA, LLC’s Resp. to Pl. ’s 
+Praecipe in Supp. of His Opp’n to Def. ’s Mot. to Dismiss 
+First Am. Compl.  (ECF No. 32) ( Def.’s Opp’n to 
+Praecipe ). Finally, on March 23, 2022, Mr. Ardito 
+responded to SSP’s objection to his praecipe. Pl.’s Reply 
+to Def. ’s Resp. to His Praecip in Supp. of His Opp’n to 
+Def.’s Mot. to Dismiss First Am. Compl.  (ECF No . 33) 
+(Pl.’s Reply to Def. ’s Opp’n to Praecipe ). 
+  
+ 
+ 
+II. FACTS1 
+1 
+ Consistent with Federal Rule of Civil Procedure 
+12(b)(6) , in describing the facts, the Court has relied 
+upon the allegations in the Plaintiff’s ’ First Amended 
+Complaint. Foley v. Wells Fargo Bank, N.A. , 772 F.3d 
+63, 68 (1st C ir. 2014) ; Medina -Velázquez v. 
+Hern ández-Gregorat , 767 F.3d 103, 108 (1st Cir. 2014)  
+(“We examine whether the operative complaint states a 
+claim for which relief can be granted when we construe 
+the well -pleaded facts in the light most favorable to the 
+plaintiffs, accepting their truth and drawing all 
+reasonable inferences in plaintiffs ’ favor ” (internal 
+citation omitted)).  
+ 
+ 
+*2 In June 2003 Mr. Ardito began working for SSP, a 
+subsidiary of Solvay S.A., one of the world’s largest 
+chemical and plastics companies.2 First Am. Compl.  ¶¶ 
+13-14. By 2016 Mr. Ardito was a Sales Development 
+Manager responsible for the sale of high -performance 
+plastics to public and private customers in North America. 
+Id. ¶ 13. Throughout his employment at SSP, Mr. Ardito 
+performed well and received favorable performance 
+evaluations, including commendations for his strong work 
+ethic, ability to negotiate and close sales, customer 
+service, and his adaptability, drive, and commitment. Id. 
+¶¶ 15-16. 
+ 2 
+ The Plaintiff refers to the Defendant as “Solvay ” and 
+the Defendant refers to itself as “SSP. ” The Court uses 
+the Defendant’s preferred terminology.  
+ 
+ 
+In his position, Mr. Ardito was privy to highly 
+confidential customer information and trade secrets. Id. ¶ 
+13. Customers and potential customers regularly provide 
+SSP with confidential information about valuable 
+intellectual property so that SSP can furthe r their unique 
+interests. Id. ¶ 17. As a result, SSP enters into 
+non-disclosure agreements (NDAs) with its 
+high-performance plastics customers in the United States 
+to protect the customers ’ confidential information and trade secrets. Id. ¶ 18. Specifically , the NDAs prohibit 
+SSP from sharing confidential information and trade 
+secrets with its employees and affiliates who do not “need 
+to know ” that information. Id. ¶ 20. SSP stores 
+confidential client information on the cloud -based 
+platform, “Salesforce.com ” (Salesforce), a computing 
+service that allows businesses to connect with customers. 
+Id. ¶¶ 21-22. Mr. Ardito’s job frequently required him to 
+organize meetings to discuss confidential projects and 
+SSP management instructed him to document confidential 
+meetings on Salesforce. Id. ¶ 22. 
+  
+ 
+ 
+A. SSP’s 2016 Reorganization  
+In 2016, as part of its “Sky” reorganization project, SSP 
+reassigned Mr. Ardito to the “Electrical and Electronics ” 
+(E&E) market, reporting directly to Global Business 
+Development Manager, Ron Chan, a Chinese national 
+based out of SSP’s Chinese affiliate. Id. ¶ 23. The Sky 
+reorganization  promoted collaboration among newly 
+formed global market teams and provided SSP’s global 
+affiliates access to U.S. customers ’ confidential and trade 
+secret data stored on Salesforce. Id. ¶ 24. To Mr. Ardito’s 
+knowledge, he was the first American employee i n SSP’s 
+Global Business Unit (GBU) to report directly to a 
+Chinese citizen manager and the first American to report 
+to a manager based at SSP’s Chinese affiliate. Id. ¶ 25. As 
+part of the reorganization, SSP gave Mr. Ardito 
+responsibility over U.S. Electro nics and Semiconductor 
+business development accounts, which included high -tech 
+customers and amounted to over thirteen new accounts. 
+Id. ¶ 26. 
+  
+In May 2017 Mr. Chan offered Mr. Ardito an opportunity 
+to move to the west coast to be closer to his customers,  
+80% of whom were located there. Id. ¶ 27. Mr. Ardito 
+declined the offer, but SSP assured him that when it hired 
+a new west coast sales representative, Mr. Ardito would 
+have management and oversight over that person 
+remotely from Maine. Id. This would be a  promotional 
+opportunity considering Mr. Ardito’s well -documented 
+career development plan at SSP. Id. Mr. Ardito’s 
+performance records and evaluations reflect his career 
+plan to work towards an Area Development Manager 
+position at SSP, a higher -level posit ion than he occupied 
+at the time. Id. ¶ 29. The number and nature of Mr. 
+Ardito’s high -profile customers were, and are, directly 
+related to his ability and/or opportunity to be promoted to 
+a management level position at SSP. Id. ¶ 28. 
+  
+*3 In September 2017 Vivian Tong, also a Chinese 
+national, replaced Mr. Chan as Mr. Ardito’s immediate 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  3 
+ manager. Id. ¶ 30. Ms. Tong moved forward with hiring a 
+sales representative on the west coast. Id. ¶ 31. Mr. Ardito 
+expressed his willingne ss to relocate and be reassigned 
+and/or apply for the position given his experience at SSP 
+and relationships with SSP’s west coast customers. Id. 
+Ms. Tong informed Mr. Ardito that he would be 
+considered for the position or would have oversight over 
+the new  hire given his years of experience at SSP. Id. 
+However, SSP never interviewed or contacted Mr. Ardito 
+to discuss the position. Id. ¶ 32. 
+  
+ 
+ 
+B. Mark Ardito Raises Concerns About SSP’s Usage 
+of Client Information  
+In the fall of 2017, Mr. Ardito became aware of potential 
+breaches of U.S. customers ’ confidential and trade secret 
+information. Id. ¶ 33. Mr. Ardito discovered that Ms. 
+Tong’s other direct reports were interested in sharing a 
+confidential technical breakthrough Mr. Ardito developed 
+with a leading U.S. semiconductor client with other 
+prosp ective SSP customers competing in the same market. 
+Id. The potential market revenue for SSP as a result of 
+this new application was worth in excess of $90 million 
+per year globally. Id. Ms. Tong, who was responsible for 
+approximately $100 million in sales growth per year, was 
+also responsible for driving SSP’s polymer sales globally 
+for her team, and Mr. Ardito became concerned that Ms. 
+Tong and her direct reports were misusing confidential 
+information in violation of customers ’ NDAs. Id. ¶¶ 
+33-34. 
+  
+On Dec ember 15, 2017, after not hearing from Ms. Tong 
+about reassignment to the vacant west coast position, Mr. 
+Ardito contacted SSP’s Chief Executive Officer, Mike 
+Finelli, regarding the position but did not receive a 
+response. Id. ¶ 35. In January 2018, SSP hi red Patrick 
+West as the west coast Sales Development Manager. Id. at 
+36. Mr. Ardito thereafter began transferring accounts to 
+Mr. West with the understanding that he would have 
+oversight over Mr. West as the new Area Development 
+Manager; however, Mr. Ardit o’s managerial oversight 
+role never materialized. Id. ¶ 37. 
+  
+That same month, Mr. Ardito notified Ms. Tong that he 
+was concerned that SSP was misappropriating 
+confidential customer information by disclosing an 
+American customer’s information to its compet itors to 
+increase product sales. Id. ¶ 38. Ms. Tong disagreed with 
+Mr. Ardito and supported the spread of customers ’ 
+confidential information to competitors to increase SSP’s 
+polymer sales. Id. Mr. Ardito appealed Ms. Tong’s 
+decision to Wolf Sanner, anothe r SSP manager, who overrode Ms. Tong’s position and decision. Id. ¶ 39. 
+  
+From this point forward, Ms. Tong no longer supported 
+Mr. Ardito’s promotion to Area Development Manager or 
+his oversight over Mr. West. Id. ¶ 40. Around this same 
+time, Ms. Tong beg an stripping Mr. Ardito of his clients 
+and reassigning them to Mr. West. Id. ¶ 41. Of the 
+approximately thirteen customer accounts Mr. Ardito 
+handled before disclosing his concerns about the 
+misappropriation of customer information, Ms. Tong 
+reassigned nin e accounts to Mr. West without Mr. 
+Ardito’s involvement or oversight. Id. ¶ 42. Ms. Tong 
+instead assigned Mr. Ardito to handle exploratory 
+accounts for an experimental SSP product, which had 
+little potential for bonus compensation, was less 
+high-profile in  the plastics industry, and would not serve 
+as a vehicle for promotions in the future. Id. ¶ 43. 
+  
+ 
+ 
+C. Mark Ardito Escalates Disclosures of Concerns 
+About Client Information Misappropriation  
+On May 2, 2018, Mr. Ardito contacted SSP legal team 
+member, Wendy Ho, to ask for assistance in addressing 
+the confidentiality breach, protecting trade secrets o f his 
+other customers, and navigating how to report Ms. Tong. 
+Id. ¶ 44. Ms. Ho referred Mr. Ardito to Angela Reganall, 
+SSP’s Regional Human Resources (HR) Manager. Id. ¶ 
+45. Mr. Ardito also consulted his own outside legal 
+counsel and conducted his own rese arch on how to protect 
+and control confidential customer information and trade 
+secrets. Id. ¶ 52. 
+  
+*4 Mr. Ardito contacted Ms. Reganall and explained his 
+concerns about the misappropriation of American 
+customers ’ confidenti al and trade secret information to 
+benefit Solvay, S.A., SSP’s Chinese affiliate, and its 
+Chinese customers. Id. ¶ 46. Mr. Ardito also expressed his 
+concern about the high rate of turnover of Chinese 
+employees leaving SSP to join Chinese competitors, 
+poten tially using his customers ’ confidential and trade 
+secret information. Id. ¶ 47. Mr. Ardito asked Ms. 
+Reganall for tools to help him do his job in a legal and 
+ethical manner, while protecting his customers ’ 
+confidential information and trade secrets. Id. ¶ 48. Ms. 
+Reganall informed Mr. Ardito that SSP had no policies or 
+procedures to address protecting customers ’ confidential 
+information and trade secrets. Id. ¶¶ 48-49. 
+  
+Mr. Ardito also told Ms. Reganall of his newly adopted 
+practice of screening confident ial U.S. customer 
+information from Ms. Tong in an effort to protect his U.S. 
+customers pursuant to his NDA obligations, and to protect 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  4 
+ himself from legal exposure resulting from any trade 
+secret misappropriations. Id. ¶ 53. Ms. Reganall informed 
+Mr. Ardito  that Ms. Tong would likely find out about his 
+“whistleblower ” complaint. Id. ¶ 54. In response, Mr. 
+Ardito expressed concern that offending Ms. Tong would 
+damage his standing and career at SSP. Id. Ms. Reganall 
+expressed support for his screening practice s and agreed 
+that SSP needed to treat Chinese citizen employees 
+differently. Id. ¶ 55. However, Ms. Reganall did not offer 
+Mr. Ardito guidance or assistance on how to handle his 
+reporting issue or how to explain his screening practice to 
+Ms. Tong. Id. Mr. Ardito was concerned that Ms. 
+Reganall’s failure to provide concrete action items to 
+address his concern would lead to further retaliation from 
+Ms. Tong. Id. ¶ 56. Over the next few months Mr. Ardito 
+continued to screen American customers ’ confidential and  
+trade secret information on Salesforce and provided Ms. 
+Tong and other SSP Chinese affiliates confidential 
+information on a “need to know ” basis. Id. ¶ 57. 
+  
+Around the same time that Mr. Ardito disclosed his 
+concerns to Ms. Reganall, Ms. Tong began restr icting Mr. 
+Ardito’s travel by limiting him to the United States. Id. ¶ 
+50. During this time, Mr. Ardito was working on the final 
+stages of a high priority SSP project and needed to travel 
+to Asia to support the final production stages for the 
+customer’s pr oduct; however, Ms. Tong prevented Mr. 
+Ardito from working with the client overseas. Id. At the 
+same time, Ms. Tong permitted the new hire, Mr. West, to 
+travel globally for lower priority projects. Id. ¶ 51. 
+  
+ 
+ 
+D. SSP Orders Mark Ardito to Cease Screening 
+American Clients ’ Confidential Information  
+From May to September 2018, SSP repeatedly ordered 
+Mr. Ardito to share confidential and trade secret 
+information with Ms. Tong. Id. ¶ 60. Twice in September 
+2018, Ms. Tong confronted Mr. Ardito and ordered him to 
+stop screening his customers ’ information on Salesforce, 
+in one instance berating him to end hi s screening 
+procedures. Id. ¶¶ 58-59. Mr. Ardito alleges that Ms. 
+Tong’s demand was effectively an order for him to violate 
+SSP customers ’ NDAs and U.S. law. Id. ¶ 59. During this 
+time all discussions of a promotion to Area Development 
+Manager with associated oversight over the new west 
+coast sales hire ceased, Mr. Ardito’s customer base 
+dwindled, and his job responsibilities substantially 
+changed, negatively impacting  his bonus potential and 
+promotability. Id. ¶¶ 60-61. 
+  
+Feeling helpless, Mr. Ardito contacted Tom Wood, SSP’s 
+Business Director, on September 27, 2018, and explained that he was trying to protect SSP and himself from 
+liability. Id. ¶ 63. Mr. Wood responde d that “[b]ottom 
+line, it’s not your decision to decide what to inform your 
+manager or not. ” Id. ¶ 64. To Mr. Ardito, Mr. Wood’s 
+statement made clear SSP senior management’s 
+authorization to funnel American customers ’ confidential 
+and trade secret informat ion directly to SSP’s Chinese 
+affiliate. Id. Mr. Ardito alleges that he reasonably 
+believed that SSP’s directives violated state and federal 
+law but felt compelled to obey Mr. Wood’s orders out of 
+fear of losing his job. Id. ¶ 65. Mr. Ardito thereafter 
+acquiesced and allowed Ms. Tong unfettered access to 
+confidential information on Salesforce. Id. ¶ 66. Mr. 
+Ardito says that due to his managers ’ unlawful orders and 
+the knowledge that he was involved in the potential 
+misappropriation of confidential and trade  secret 
+information in violation of state and federal law he 
+reported to work each day with increasing stress resulting 
+in physical symptoms. Id. ¶ 67. 
+  
+ 
+ 
+E. Mark Ardito Discovers Repeated 
+Misappropriation of Trade Secrets  
+*5 Shortly after Mr. Wood and Ms. Tong ordered Mr. 
+Ardito to openly share c onfidential and trade secret 
+information, Mr. Ardito discovered specific incidents of 
+Chinese citizens located at SSP’s Chinese affiliate 
+knowingly violating United States customers ’ NDAs by 
+using their confidential and trade secret information to 
+further the interests of their Chinese customers. Id. ¶ 68. 
+Mr. Ardito alleges that the underlying motivation was the 
+financial benefit to SSP’s Chinese affiliate from increased 
+plastics business in China. Id. 
+  
+Mr. Ardito immediately reported his concerns about 
+unlawful confidentiality breaches, in writing, to Ms. 
+Reganall, Mr. Wood, and SSP Global Security Officer 
+Satchit Srinivasan, on or about October 10, 16, and 17, 
+November 9, and December 4 in 2018. Id. ¶ 69. 
+Specifically, Mr. Ardito reported that Ms. Tong a nd her 
+subordinates in China were funneling confidential 
+information from a U.S. customer to benefit a major 
+competitor in China, a company Mr. Ardito understood to 
+be controlled by the Chinese government. Id. On October 
+12, 2018, Mr. Ardito provided Mr. W ood with the 
+specifics of the U.S. customer’s NDA. Id. ¶ 70. Mr. Wood 
+reported back to Mr. Ardito that he asked Ms. Tong and 
+another employee if any wrongdoing had occurred and 
+concluded: “This is not an issue. ” Id. ¶ 71. However, 
+neither Mr. Wood, nor any  other SSP management 
+official or compliance employee, called for investigation 
+into Mr. Ardito’s allegations. Id. Instead, Mr. Wood 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  5 
+ instructed Mr. Ardito to improve communications with 
+Ms. Tong regarding his American customers ’ account 
+information. Id. ¶ 72. 
+  
+ 
+ 
+F. Mark Ardito Raises Concerns About Potential 
+Breaches of Government Contracts  
+In summe r 2018, Mr. Ardito reported his concerns to SSP 
+management that Chinese citizen employees had access to 
+confidential U.S. government and military information 
+stored on Salesforce. Id. ¶ 73. SSP did not restrict access 
+to highly confidential client informat ion on Salesforce. Id. 
+Mr. Ardito did not receive a response when he reported 
+these Salesforce security concerns in writing to 
+management. Id. In 2014, SSP granted Mr. Ardito 
+“Delegation of Authority ” to sign SSP’s U.S. government 
+contracts, which made him  a “Responsible Party ” to 
+ensure that SSP honored all contract terms. Id. ¶ 74. 
+Government contracts required SSP to provide its 
+employees with whistleblower training, which Mr. Ardito 
+never received. Id. ¶¶ 74-75. As a Responsible Party, Mr. 
+Ardito was vi gilant about his legal obligations and was 
+concerned when others at SSP did not treat the 
+government’s information with the same degree of 
+protection. Id. ¶ 75. 
+  
+In July 2018, Mr. Ardito attended a training conducted by 
+SSP’s Intellectual Assets Managemen t Group (IAM) 
+regarding the protection and confidentiality of intellectual 
+property and trade secrets. Id. ¶ 76. At the conclusion of 
+the training, Mr. Ardito provided written comments to 
+IAM explaining his concerns about Chinese nationals ’ 
+access to U.S. government and military applications on 
+Salesforce. Id. ¶ 77. Several months passed without 
+anyone from IAM contacting Mr. Ardito. Id. ¶ 78. 
+  
+In September 2018, Mr. Ardito learned that SSP never 
+limited access to specific customer accounts where 
+confident ial project information about a government 
+agency was held, resulting in Chinese employees, 
+including Ms. Tong, Mr. Chan and Jun Zhang, having 
+access through Salesforce. Id. ¶ 79. The government 
+project at issue was high profile. Id. Mr. Ardito sent out a 
+confidential call report about work on the project, which 
+he logged on Salesforce. Id. ¶ 80. Mr. Ardito later learned 
+that Mr. Sanner alerted SSP’s Salesforce management in 
+China to restrict access to this confidential government 
+information, but SSP never took protective action, leaving 
+this information vulnerable to misappropriation by the 
+Chinese government and other Chinese customers. Id. 
+  
+*6 On October 19, 2018, Mr. Ardito asked for assistance from Mr. Wood and Mr. Srinivasan and independently 
+asked each of them to be present at a one -on-one meeting 
+with Ms. Tong, initiated by Ms. Tong. Id. ¶ 81. Neither 
+Mr. Wood nor Mr. Srinivasan responded. Id. On 
+November 9, 2018, Mr. Ardito made a second reques t for 
+Mr. Wood and Mr. Srinivasan’s assistance in his 
+upcoming meeting with Ms. Tong, after Mr. Ardito 
+caught a Chinese SSP affiliate colleague actively using 
+Mr. Ardito’s customer’s confidential trade secret 
+information to benefit a specific and known com petitor in 
+China. Id. ¶ 82. Mr. Wood and Mr. Srinivasan declined. 
+Id. 
+  
+Ms. Reganall informed Mr. Ardito that he should proceed 
+with the one -on-one meeting with Ms. Tong and that 
+leadership would not be involved. Id. ¶ 83. On November 
+14, 2018, two days be fore the meeting, Mr. Ardito 
+insisted that an HR representative be present for the 
+meeting and Kerri Williams was assigned to attend the 
+meeting to take place at SSP’s headquarters in Georgia. 
+Id. ¶¶ 84-85. Prior to the meeting Mr. Ardito reached a 
+breakin g point and was hospitalized for severe anxiety 
+and panic attacks and was under a doctor’s orders not to 
+travel to Georgia. Id. ¶ 85. 
+  
+During this same period from September to November 
+2018, Ms. Tong praised Mr. West, the new west coast 
+hire, for sharing  information in collaboration with 
+Asia-based colleagues and criticized Mr. Ardito for not 
+sharing this same information. Id. ¶ 86. 
+  
+ 
+ 
+G. Mark Ardito Files a Formal Whistleblower 
+Complaint  
+Due to SSP’ s failure to respond to his complaints, Mr. 
+Ardito felt he had no other option but to force HR to act 
+by filing a formal complaint about Ms. Tong, which Mr. 
+Ardito did on November 10, 2018, in an email to Ms. 
+Reganall and Leesa Branch. Id. ¶ 88. In his ema il to HR, 
+Mr. Ardito reported that the situation was extremely 
+stressful and that he was concerned it would lead to 
+further issues. Id. ¶ 89. Mr. Ardito also reported his 
+concerns via email to Georges Houtappel, SSP’s Senior 
+Business Line Manager, on Novem ber 19, 2018. Id. ¶ 90. 
+Mr. Houtappel did not respond until December 4, 2018, 
+seventeen days later, during which time Mr. Ardito’s 
+colleagues continued to use confidential U.S. customer 
+information and trade secrets to benefit a Chinese 
+competitor. Id. ¶ 91. 
+  
+ 
+ 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  6 
+ H. SSP’s Lawyers Contact Mark Ardito  
+On December 5, 2018, Jeffrey Koenig, SSP’s Chief 
+Emp loyment Litigation Counsel, contacted Mr. Ardito for 
+the first time regarding Mr. Ardito’s whistleblower 
+reports informally dating back to December 2017 and 
+formally dating back to May 2, 2018. Id. ¶ 92. Mr. Koenig 
+told Mr. Ardito that his allegations were  being taken 
+seriously and SSP would conduct a through internal 
+investigation, which Mr. Ardito alleges never took place. 
+Id. ¶ 93. Mr. Ardito further contends that Mr. Koenig’s 
+December 5, 2018, communication is an admission that 
+SSP delayed for seven mon ths, and perhaps longer, before 
+investigating his whistleblower reports. Id. ¶ 95. 
+  
+On December 14, 2018, approximately five months after 
+Mr. Ardito’s disclosure to IAM, IAM lawyer Nikhil Patel 
+contacted Mr. Ardito regarding his concerns as reported 
+in Ju ly 2018. Id. ¶ 97. During a phone call between 
+Attorney Patel and Mr. Ardito, Mr. Ardito again 
+explained his concerns, specifically that Ms. Tong had 
+unfettered access on Salesforce to a U.S. military 
+customer account. Id. ¶ 98. Mr. Patel admitted that the  
+IAM team is responsible for SSP’s management of 
+confidential information and admitted that his team had 
+no idea how Salesforce worked. Id. ¶¶ 99-100. Salesforce 
+had been the mainframe database for SSP’s customer 
+information for more than seven years. Id. ¶ 100. During 
+the call Attorney Patel repeatedly stated that Mr. Ardito’s 
+concerns were “100% correct ” and that SSP had “missed 
+completely ” this hole in its confidentiality and trade secret 
+protections. Id. ¶ 101. Attorney Patel promised Mr. Ardito 
+he woul d send him the written materials from the July 
+2018 training on confidentiality and trade secrets, but 
+Attorney Patel never did. Id. ¶ 102. 
+  
+*7 Mr. Ardito maintains that he made diligent internal 
+whistleblowing reports for more than seven months from 
+May 2018 to December 2018 and that SSP took no 
+corrective actions to stop the alleged illegal activity or 
+prohibit retaliation against him. Id. ¶¶ 103-104. Instead, 
+Mr. Ardito asserts that he was denied promotional 
+opportunities  and stripped of high -profile accounts, and 
+that SSP altered the terms and conditions of his 
+employment making it impossible for him to conduct his 
+job without violating the law or experiencing health 
+problems. Id. Mr. Ardito alleges that SSP created an 
+ongoing hostile and/or abusive work environment 
+resulting in fear of losing his job, extreme distress, 
+anxiety, panic attacks, and physical symptoms. Id. ¶ 105. 
+  
+ 
+ 
+I. Mark Ardito Takes Medical Leave  As a result of intolerable and hostile working conditions, 
+repeated orders to violate the law, and SSP’s failure to 
+investigate his concerns, all resultin g in mental anguish 
+and distress, Mr. Ardito asserts he had no other 
+reasonable option but to go on medical leave from SSP 
+around December 10, 2018. Id. ¶ 107. Mr. Ardito’s 
+medical condition, extreme stress, and ongoing panic 
+attacks forced him to be out o f work between December 
+2018 and September 2019. Id. ¶ 108. Mr. Ardito initially 
+went on short -term disability for six months, and 
+thereafter continued on long -term disability. Id. ¶ 109. 
+While on long -term disability for his medical condition, 
+Mr. Ardito received approximately 60% of his salary, 
+thereby suffering economic damage as a result of SSP’s 
+actions. Id. ¶ 110. Mr. Ardito alleges that in a letter dated 
+May 15, 2019, SSP’s attorney Mr. Koenig falsely claimed 
+that Mr. Ardito never reported his concer ns regarding 
+Salesforce. Id. ¶ 111. This letter exacerbated Mr. Ardito’s 
+existing medical symptoms. Id. ¶ 112. 
+  
+Around July 3, 2019, Mr. Ardito learned from his 
+co-workers that the HR department had announced that he 
+was no longer employed at SSP. Id. ¶ 114. Because Mr. 
+Ardito was on long -term disability, he was no longer 
+considered employed, and SSP completely stopped 
+paying him. Id. ¶¶ 114-115. Mr. Ardito contacted SSP’s 
+Benefits Center, which confirmed that he was no longer 
+employed and provided former employee benefit 
+instructions, including assistance in transferring his 401K 
+from SSP’s retirement plan to an IRA. Id. ¶ 115. 
+  
+ 
+ 
+J. Mark Ardito Files a Complaint with the Maine 
+Human Rights Commission  
+On September 4, 2019, Mr. Ardito filed a complaint with 
+the Maine Human Rights Commission (MHRC) alleging 
+violations of the Maine Whistleblower  Protection Act 
+(MWPA) and the Maine Human Rights Act (MHRA). Id. 
+¶ 116. Prior to his filing this complaint, SSP offered to 
+reinstate Mr. Ardito. Id. ¶ 117. On September 16, 2019, 
+Mr. Ardito returned to work at SSP but with medical 
+restrictions, including travel restrictions related to 
+treatment for his ongoing medical symptoms. Id. ¶ 118. 
+Prior to returning to work, SSP offered Mr. Ardito two 
+options: (1) accept a different job with different 
+responsibilities (related to an experimental product he had 
+work ed on prior to his medical leave) and appointment to 
+a new “Steering Committee ” to investigate and address 
+protocols and security concerns related to American 
+customers ’ intellectual property; or (2) go back to his 
+former job in the E&E market but with a r educed and/or 
+different customer account load from the one he had. Id. ¶ 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  7 
+ 119. With no such protocols in place at SSP, Mr. Ardito 
+felt he had no choice but to accept the first option. Id. ¶ 
+120. 
+  
+ 
+ 
+K. The Steering Committee  
+Mr. Ardito alleges that the Steering Committee failed to 
+reach its objectives in 2019, 2020, or 2021, and has not 
+produced any output beyond asking another SSP 
+department to do the work assigned to it. Id. ¶ 122. Mr. 
+Ardito says that the Steering Committee  turned out to be a 
+sham, meeting only on three occasions since the first 
+meeting on October 18, 2019. Id. ¶ 123. Mr. Ardito was 
+the only member of the committee who was furloughed 
+for four weeks without pay during COVID -19 and was 
+not allowed to participa te in Steering Committee teams to 
+implement corrections to the confidentiality issues he had 
+previously raised. Id. ¶ 124. 
+  
+*8 Despite efforts to block his contributions to the 
+Steering Committee, Mr. Ardito created a 25 -slide, 
+90-minute PowerPoint presentation proposing a plan to 
+correct confidentiality failures and presented it to SSP 
+management on March 30, 2020, August 31, 2020, and 
+February 4, 5, and 8, 2021. Id. ¶ 126. Mr. Ardito 
+repeatedly reported his concerns to the  Steering 
+Committee, which included SSP attorney Wendy Ho, 
+about SSP’s failure to prioritize customer confidentiality. 
+Id. ¶ 127. In his capacity as a Steering Committee 
+member, Mr. Ardito learned in February 2021 that other 
+SSP staff had corroborated his concerns about security 
+vulnerabilities, misappropriation of confidential and trade 
+secret information, and potential legal exposure. Id. ¶ 128. 
+Shortly after this, SSP restricted Mr. Ardito from 
+receiving other information pertaining to his work on the 
+Steering Committee, despite his ongoing work for the 
+Committee. Id. ¶ 129. 
+  
+ 
+ 
+L. SSP Contacts Mar k Ardito’s Daughter  
+On February 18, 2020, Mr. Ardito refuted SSP’s answer 
+to his 2019 MHRC complaint and provided evidence to 
+support his retaliation claim, which he maintains 
+constituted protected activity under the MWPA. Id. ¶ 130. 
+In response to SSP’s r equest for an expedited 
+investigation process, the MHRC communicated that it 
+had a backlog of cases and an investigator likely would 
+not be assigned for “several months. ” Id. ¶ 131. 
+  Two weeks later, on March 3, 2020, SSP sent a 
+three -page, single -spaced demand letter to Mr. Ardito’s 
+adult daughter and her direct supervisor at the law firm 
+where she was employed in San Diego, California. Id. ¶ 
+132. Mr. Ardito had no prior dealings with this law firm. 
+Id. Mr. Ardito had not disclosed his daughter’s location , 
+or her job, and the letter disclosed sensitive and private 
+information about Mr. Ardito that he had not discussed 
+with his daughter or her employer on any 
+occasion —relating to his employment at SSP and his 
+health condition. Id. ¶ 133. The March 3, 2020, letter 
+demanded that Mr. Ardito’s daughter and her law firm 
+preserve all documents related to Mr. Ardito’s medical 
+condition and living conditions from January 1, 2017, 
+onward. Id. ¶ 134. The letter also instructed Mr. Ardito’s 
+daughter and her then -employ er to respond to SSP’s 
+demands by Friday, March 13, 2020, or ten days later, 
+even though MHRC had not assigned an investigator or 
+opened the investigation. Id. ¶ 135. 
+  
+ 
+ 
+M. ark Ardito’s Poor Performance Evaluation and 
+Reduced Involvement on the Steering Committee  
+On November 4, 2020, Mr. Ardito provided a detailed 
+response to the MHRC Investigator’s  report, further 
+refuting SSP’s answer and defenses, which Mr. Ardito 
+asserts is also protected activity under the MWPA. Id. ¶ 
+136. On November 16, 2020, Mr. Ardito testified against 
+SSP at the MHRC hearing, at which time MHRC issued a 
+Notice of Right to S ue. Id. ¶ 137. 
+  
+Approximately two months later, on January 29, 2021, 
+SSP issued and documented, with purportedly false 
+information, Mr. Ardito’s first negative performance 
+review after seventeen years of favorable performance 
+evaluations. Id. ¶ 139. Mr. A rdito achieved his largest 
+ever increase in sales of over $2,000,000, 114% of SSP’s 
+defined target. Id. ¶ 140. Additionally, the Steering 
+Committee members praised Mr. Ardito for his efforts in 
+delivering a comprehensive proposal to improve SSP’s 
+practices  for handling confidential information. Id. ¶ 141. 
+SSP CEO Mike Finelli previously told Mr. Ardito that the 
+Steering Committee’s efforts were one of his top five 
+priorities for the company and that the Committee would 
+continue to be 15 -20% of Mr. Ardito’s responsibilities. Id. 
+¶ 142. Mr. Ardito achieved his remaining responsibilities 
+with above -average price increases and successful 
+marketing activities. Id. ¶ 143. Mr. Ardito also led efforts 
+to improve the effectiveness of SSP’s credit and 
+collections effo rts to improve on -time payment 
+performance for two of his customers with poor payment 
+histories. Id. ¶ 144. In other words, Mr. Ardito says that 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  8 
+ 2020 was one of his best performing years. Id. ¶ 145. 
+  
+*9 Mr. Ardito alleges t hat his manager, Rosyln Smith, 
+repeatedly attempted to downgrade Mr. Ardito’s 
+performance, gave false information to him and SSP’s 
+attorney, Ms. Ho, and engaged in other conduct Mr. 
+Ardito found unethical and which he reported to Ms. 
+Reganall at HR. Id. ¶ 146. Ms. Smith repeatedly 
+attempted to reduce Mr. Ardito’s responsibilities on the 
+Steering Committee from 20% to 0% despite the CEO’s 
+priorities. Id. In February 2021, Ms. Smith downgraded 
+his performance evaluation to a “poor” rating, including a 
+score o f “2” on a 1 to 5 scale as a “partial contributor. ” Id. 
+¶ 147. Mr. Ardito protested the downgrade to HR and Ms. 
+Reganall but was not given an opportunity to appeal. Id. ¶ 
+148. Mr. Ardito alleges that just after his ninety -day 
+deadline to file a lawsuit exp ired, SSP reduced his role on 
+the Steering Committee from approximately 20% to 3% 
+with no underlying performance metrics. Id. ¶ 149. CEO 
+Finelli stated to Mr. Ardito that he had “changed his 
+mind ” about Mr. Ardito’s level of involvement in the 
+Committee. Id. 
+  
+ 
+ 
+N. Mark Ardito Files a MWPA Lawsuit  
+Mr. Ardito filed his Complaint in state court in February 
+2021, although SSP had no knowledge of the lawsuit until 
+it was served with the Complaint on May 11, 2021. Id. ¶¶ 
+151-152. On June 5, 2021, Keri Williams, SSP’s HR 
+representative, made clear that any further discussions 
+about promot ion were “off the table. ” Id. ¶ 153. Mr. 
+Ardito says that Ms. Williams ’ statement that his career at 
+SSP was at a dead end occurred less than one month after 
+SSP learned of Mr. Ardito’s state court action. Id. ¶ 154. 
+Around this same time, Mr. Ardito learn ed that Mr. 
+Koenig was behind efforts to downgrade his performance 
+and end his career at SSP. Id. ¶ 155. In an email to Ms. 
+Smith and Ms. Williams, on which Mr. Ardito was 
+copied, Mr. Koenig stated “Needless to say, we shouldn’t 
+trust him. We watch him lik e a hawk. ” Id. 
+  
+ 
+ 
+O. Mark Ardito Exhausts Administrative Remedies  
+On September 4, 2019, Mr. Ard ito filed an unlawful 
+whistleblower retaliation claim against SSP with the 
+MHRC. Id. ¶ 157. On November 18, 2020, Mr. Ardito 
+received a Notice of Right to Sue from the MHRC. Id. ¶ 
+158. On August 31, 2021, Mr. Ardito filed another 
+MHRC complaint covering ad ditional adverse actions. Id. ¶ 161. 
+  
+ 
+ 
+III. THE PARTIES ’ POSITIONS  
+ 
+A. SSP’s Motion to Dismiss  
+SSP argues that Mr. “Ardito cannot state a prima facie 
+case because he has not plausibly alleged that [SSP] 
+subjected him to a material adverse employment action 
+within the st atute of limitations. ” Def.’s Mot.  at 8. First, 
+SSP argues that “the Court must disregard [Mr.] Ardito’s 
+alleged adverse actions that postdate his 2019 MHRC 
+complaint. ” Id. at 9. It contends that Mr. Ardito’s 
+allegations related to his negative performance  review in 
+January 2021, and subsequent reduced role on the 
+Steering Committee, are the subject of a pending MHRC 
+complaint filed August 31, 2021, and thus, these claims 
+are not yet ripe. Id. SSP says that Mr. Ardito has 
+acknowledged the ripeness issue and  yet “is attempting to 
+plead his way around MHRA’s requirement that plaintiffs 
+exhaust their claims with the Commission or surrender 
+their right to seek monetary relief. ” Id. Ultimately, SSP’s 
+position is that those events “must be disregarded for 
+purposes  of the present Motion. ” Id. at 10.  
+  
+Second, SSP submits that “[Mr.] Ardito’s allegations that 
+he was denied a job transfer, denied a promotion, and 
+forced to transfer clients in 2017 and January 2018 are 
+outside of the statute of limitations. ” Id. It arg ues that 
+“[c]laims of retaliation under the MWPA are subject to 
+the [two year] limitations period[ ] provided by the 
+MHRA. ” Id. SSP says that a failure to promote or the 
+forced transfer of clients are all discrete acts and the clock 
+on filing discriminatio n charges for each act begins 
+running on the date that the event allegedly occurred. Id. 
+at 11. It therefore reasons that claims arising from events 
+in 2017 and early 2018 are untimely. Id. at 12.  
+  
+As to the promotion denial, SSP argues that it offered Mr . 
+Ardito the west coast position, which he rejected, and by 
+the time he changed his mind, there was already a search 
+underway for a different employee to fill the position. Id. 
+SSP emphasizes that Mr. Ardito did not allege that the 
+position was open or tha t he applied for it. Id. at 13. SSP 
+further argues that “[Mr.] Ardito cannot save his 
+newly -added untimely allegations through ‘relation back ’ 
+to his original complaint with the MHRC and the Superior 
+Court ” because his “initial MHRC complaint makes no 
+ment ion of the Sales Development Manager Position, 
+Area Development Manager position, that he was denied 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  9 
+ a promotion, or that he was forced to transfer his clients to 
+Mr. West. ” Id. It says that “[Mr.] Ardito’s original MHRC 
+complaint states that the ‘earliest  date’ the alleged 
+‘discrimination took place ’ was ‘05/02/2018. ’ ” Id. at 14. 
+SSP asserts that “the relevant inquiry is whether the[ ] 
+allegations were raised in a complaint filed in court within 
+two years of when they occurred ” but Mr. Ardito “first 
+raise d ... allegations in his FAC filed on September 7, 
+2021 – more than 3 years and 7 months after the events 
+allegedly occurred ” which means that “he cannot rely on 
+them to show a prima facie  case of employment 
+retaliation. ” Id. at 14 -15. SSP says that even i f Mr. Ardito 
+relied on his initial pleading with the Maine Superior 
+Court, the complaint would still be time barred. Id. at 15.  
+  
+*10 Third, SSP argues that Mr. Ardito “has not alleged a 
+plausible claim for failure -to-prom ote” because he “has 
+not alleged that: (1) there was an open Area Development 
+Manager position in late 2017 or early 2018, (2) that he 
+ever applied for that position, or (3) that [SSP] hired 
+someone with equal qualifications into that position 
+instead of h im.” Id. at 16. Thus, SSP reasons that Mr. 
+Ardito has “failed to plead the basic elements necessary 
+for this claim and it should be dismissed. ” Id. 
+  
+Fourth, SSP contends that “[Mr.] Ardito has not plausibly 
+alleged a hostile work environment. ” Id. It note s 
+specifically that “the Maine Law Court has not held that a 
+hostile work environment can constitute an adverse 
+employment action under the MWPA ” but instead “uses a 
+standard ‘concurrent with Title VII. ’ ” Id. at 16 -17. SSP 
+argues that this is a high stand ard, and Mr. Ardito has not 
+alleged that “supervisors or co -workers uttered offensive 
+statements ” about him, physically abused him, or 
+harassed him in any other way. Id. at 17 -18. It says that 
+allegations of mental anguish are “insufficient to plead a 
+‘hostile or abusive ’ work environment, particularly when 
+stacked up against the multiple olive branches that SSP 
+extended to [Mr.] Ardito. ” Id. at 18.  
+  
+SSP further argues that the bar of proof is even higher for 
+Mr. Ardito’s retaliatory hostile work environme nt claim 
+and he cannot build a case on “his coworker’s refusals to 
+take his side in his disagreement with his supervisor and 
+decision to single out his Chinese colleagues by 
+withholding information from them. ” Id. at 19.  
+  
+Fifth, SSP’s position is that “[Mr.] Ardito’s other 
+allegations fail as a matter of law. ” Id. SSP says that Mr. 
+Ardito does not explain why he believes that SSP 
+“materially changed the terms and conditions ” of his 
+employment, especially given that SSP offered him a 
+position with more co mpensation and responsibility upon 
+his return from medical leave. Id. As to the document preservation notice sent to Mr. Ardito’s daughter, SSP 
+argues that an adverse action must be material, meaning 
+that it must “dissuade a reasonable worker from engaging  
+in protected activity, ” unlike the issuance of litigation 
+notice letters which is “a routine practice by parties to 
+ensure compliance with discovery obligations. ” Id. at 20.  
+  
+ 
+ 
+B. Mark Ardito’s Opposition  
+First, Mr. Ardito asserts that his allegations of “2020 and 
+2021 adverse actions stemming from [his] 2021 MHRC 
+complaint [are] properly included in the Complaint. ” Pl.’s 
+Opp’n  at 5. He disputes SSP’s assertion that he is 
+“attempting to plead his way around administrative 
+exhaustion requirements ” and instea d says that he 
+included his 2021 MHRC complaint in the First Amended 
+Complaint to “eliminate any surprises and to allow those 
+actions to be the subject of discovery pending a motion to 
+amend to make those claims cognizable. ” Id. He also says 
+that he seeks to “avoid any future claim of prejudice by 
+[SSP] when he seeks leave of this Court to amend his 
+[First Amended Complaint] to conform to the issuance of 
+the Right to Sue letter in February 2022. ” Id. Mr. Ardito 
+“agrees with Defendant that these adverse acti ons should 
+be disregarded by the Court ” and alternatively “moves to 
+stay these proceedings until February 28, 2022 when he 
+receives his notice of right to sue from the MHRC. ” Id. at 
+5-6. 
+  
+Second, as to the substance of SSP’s arguments, Mr. 
+Ardito argues t hat he “has alleged sufficient facts of a 
+retaliatory hostile work environment to overcome 
+dismissal. ” Id. at 7. He disputes SSP’s assertion that 
+because “the Main[e] Law Court has not expressly held 
+that a hostile work environment can constitute an advers e 
+employment action under the WPA ” that the Court should 
+not recognize a WPA claim on his facts. Id. He reasons 
+that “[judicial] construction of the MHRA and WPA has 
+been guided by federal law, ” id. at 8 (quoting Currie v. 
+Indus. Sec., Inc. , 2007 ME 12, ¶ 13, 915 A.2d 400, 404 ), 
+and that “[t]he First Circuit Court of Appeals has 
+recognized a retaliatory hostile work environment claim 
+in the employment discrimination context for over 15 
+years. ” Id. (citing Noviello v. City of Bos. , 398 F.3d 76, 
+88-90 (1st Cir. 2005) ). 
+  
+*11 Mr. Ardito submits that “[a]nalyzing facts under 
+hostile work environment standards at the pleading stage 
+... is no t as onerous as later stages in the proceeding, ” id. 
+at 10, and “courts shy [away] from evaluating the specific 
+instances of misconduct alleged in a complaint against the 
+legal standard for hostile work environment claims, 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  10 
+ because there is no ‘obligation o n the pleader to identify 
+in the complaint all the evidence that would later be 
+offered in support of the claim pleaded. ’ ” Id. at 10 -11 
+(quoting Fisk v. Mid Coast Presbyterian Church , No. 
+2:16-cv-00490 -JDL, 2017 WL 1755950 at *4, 2017 U.S. 
+Dist. LEX IS 68177 at *10 -11 (D. Me. May 4, 2017) ). 
+Citing the First Amended Complaint, Mr. Ardito insists 
+that he “was gaslighted, intimidated and falsely accused 
+of misconduct, ” “excluded and denied support ” and 
+necessary travel, he experienced “open and direct  
+hostility, ” he was “torment[ed], humilat[ed], and 
+intimidate[d] ” by his supervisor, SSP pressed him into 
+breaching client NDAs and “fail[ed] to investigate and 
+take his concerns seriously, ” all of which “contributed to 
+physical and psychological problems that required 
+treatment. ” Id. at 11.  
+  
+Mr. Ardito submits that SSP “makes much of the fact that 
+[he] fails to allege that his supervisors or co -workers 
+‘uttered offensive comments ’ concerning him or that ‘he 
+was physically abused or menaced by anyone at [S SP].’ ” 
+Id. at 12  (quoting Def.’s Mot.  at 17). In response, Mr. 
+Ardito contends that he has presented “offensive 
+statements ” to support a retaliatory hostile work 
+environment claim, because “offensive ” literall y means 
+“causing someone to feel deeply hurt, upset or angry. ” Id. 
+(quoting Merriam -Webster Dictionary ). He reasons that 
+“he was repeatedly offended by [SSP] manager comments 
+and orders ” in that his supervisors “repeatedly threatened 
+and ordered him to par ticipate in the misappropriation of 
+trade secrets ” resulting in “extreme stress and anxiety, 
+deteriorating health and suffering an emotional 
+breakdown requiring hospitalization, ” thus “a reasonable 
+inference can be drawn that he was deeply hurt, upset, and  
+harbored resentment, i.e., offended. ” Id. at 12 -13. Mr. 
+Ardito says that he “has alleged facts demonstrating 
+adverse actions, unlawful orders, gaslighting, a 7 -month 
+failure to investigate his complaints, incl uding a formal 
+complaint against his manager, Ms. Tong ” which he says 
+together “plausibly constitute a retaliatory hostile work 
+environment. ” Id. at 13 . 
+  
+Mr. Ardito rejects SSP’s contention that it extended hi m 
+“olive branches, ” arguing that such “olive branches ” were 
+not actually given, nor were they sincere. Id. He says that 
+“management either ignored him, rebuffed him, [or] 
+gaslighted him ” and “neither [SSP] ’s legal team ... nor its 
+compliance department too k any action ” and did not 
+attempt to investigate for seven months. Id. at 13 -14. Mr. 
+Ardito further dismisses SSP’s argument that his paid 
+medical leave was an “olive branch ” because “medical 
+leave is a fringe benefit and [an] entitlement of all 
+employees. ” Finally, Mr. Ardito says that “placing him on 
+a Steering Committee was also a bogus ‘olive branch ’ because (1) the percentage of time for which he was given 
+credit toward his perform ance evaluation was reduced to 
+virtually zero ...; (2) the Steering Committee produced no 
+deliverables despite his diligent efforts; and (3) ... the 
+Committee has excluded him from meetings and other 
+actions. ” Id. at 14. Mr. Ardito further distinguishes th at 
+his case involves conduct by supervisors rather than 
+coworkers, and thus SSP’s reference to caselaw pertaining 
+to “failure to take sides ” and related tensions among 
+employees is misplaced. Id. at 14 -15. 
+  
+Third, Mr. Ardito argues that he “has not challe nged as 
+discrete adverse actions ” SSP’s “denial of a job transfer, 
+promotion denials and forced client account transfers in 
+2018; rather, they are part of the retaliatory hostile work 
+environment and are, therefore, actionable. ” Id. at 15. He 
+contends that  “Defendant’s argument that claims of 
+retaliation under the MWPA are subject to the 2 -year 
+limitations period provided by the MHRA is wrong ” and 
+that “[t]he time period can be longer than two years per 
+the statute because the law provides that the statute of 
+limitations runs 90 days after the MHRC has completed 
+the case. ” Id. He also submits that SSP’s actions “support 
+a basis for liability under a ‘continuing violations ’ theory, 
+which ‘allows an employee to seek damages for otherwise 
+time-barred allegation s if they are deemed part of an 
+ongoing series of discriminatory acts and there is “some 
+violation within the statute of limitations period that 
+anchors the earlier claims. ’ ” ” Id. at 16 (quoting 
+Lockridge v. Uni v. Me. Sys. , 597 F.3d 464, 474 (1st Cir. 
+2010)  (quoting O’Rourke v. City of Providence , 235 F.3d 
+713, 730 (1st Cir. 2001) )). Thus, Mr. Ardito claims that 
+“adverse actions that occurred in 2018 during the sam e 
+time that Mr. Ardito made protected disclosures that his 
+Chinese supervisor and co -workers were illegally 
+misappropriating trade secrets from his U.S. customers 
+are part of the ongoing retaliatory hostile work 
+environment, precluding dismissal. ” Id. at 17 (emphasis in 
+original).  
+  
+*12 Fourth, Mr. Ardito argues that the “Defendant’s 
+abrupt contact with [his] daughter and her law firm in 
+California with irrelevant discovery demands altered [his] 
+terms and conditions of empl oyment by intimidating him 
+and seeking to dissuade him from pursuing his internal 
+and MHRC complaints. ” Id. To begin, Mr. Ardito 
+disputes that he admitted that upon his return from leave 
+he was offered a better position “with more compensation 
+and responsi bilities. ” Id. at 18 (quoting Def.’s Mot.  at 19). 
+He says that he was “offered a Hobson’s Choice ” to either 
+go back to his original position where he would be forced 
+to participate in the misappropriation of trade secrets or 
+accept a less prestigious job w ith accompanying work on 
+the “sham ” Steering Committee. Id. 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  11 
+   
+Mr. Ardito submits that he did experience an adverse 
+employment action because “he was divested of 
+significant and lucrative job responsibilities and given 
+disadvantageous job assignments ... de spite his career 
+plan, years of exemplary job performance ... and previous 
+statements by SSP management that he was in line for 
+promotion. ” Id. at 19. Moreover, he explains that “[w]hile 
+litigants may routinely issue litigation hold letters during 
+pending litigation, there was no pending investigation by 
+MHRC and no ‘litigation ’ in the form of a lawsuit. ” Id. at 
+20. Mr. Ardito concludes that SSP’s letter “was not a 
+traditional litigation hold letter seeking merely to preserve 
+material[s] ” because the letter  sought “expansive and 
+irrelevant document[s] ” about Mr. Ardito’s “medical 
+condition, activities, whereabouts, and lifestyle and living 
+conditions. ” Id. 
+  
+ 
+ 
+C. SSP’s Reply  
+In reply, SSP claims that “[Mr.] Ardito agrees that his 
+allegations regarding a negative performance review and 
+decreased participation on the Steering Committee in 
+2021 post -date [his] September 2019 MHRC complaint, 
+are not part of this lawsuit, and should not be considered 
+on SSP’ s motion to dismiss. Def.’s Reply  at 1. Moreover, 
+SSP submits that “[Mr.] Ardito’s ‘failure to promote or 
+transfer ’ and ‘transfer of clients ’ allegations fail ” because 
+the “continuing violation ” doctrine does not apply here. 
+Id. at 2. It says that “[t]o in voke the continuing violation 
+doctrine, [Mr.] Ardito must demonstrate similarity and a 
+substantial relationship between the timely and untimely 
+acts,” which he has not done. Id. at 2-3. Alternatively, 
+SSP argues that Mr. Ardito’s allegations present “discr ete 
+acts” that fall outside the scope of the doctrine. Id. at 3. 
+  
+SSP reasserts that Mr. Ardito’s “retaliatory hostile work 
+environment claim is not cognizable under the MWPA as 
+a matter of law ” because, despite his insistence that the 
+Court can look to f ederal law recognizing such claims for 
+guidance, “[c]ourts applying Maine law have ruled on 
+such claims for decades, under appropriate statutory 
+predicates [which do not interpret “adverse action ” to 
+include a retaliatory hostile work environment], yet no 
+court has ever permitted an MWPA claim to move 
+forward under a retaliatory hostile work environment 
+theory. ” Id. at 4. SSP also repeats that “[Mr.] Ardito’s 
+allegations cannot meet the standard for pleading that he 
+was subjected to a hostile work environme nt,” because 
+although Mr. Ardito “identifies the allegations that he 
+thinks state a retaliatory hostile work environment claim ” 
+the First Amended Complaint “do[es] not actually contain the factual material he purports to recite in his brief. Id. at 
+5. 
+  
+Finally, SSP concludes that its “document preservation 
+letters were not retaliatory acts ” and says that Mr. 
+Ardito’s reliance on Rivera -Rivera v. Medina Medina, 
+Inc., 898 F.3d 77 (1st Cir. 2018) , is unpersuasive because 
+the case is factually disting uishable. Id. at 7.  
+  
+ 
+ 
+D. The Praecipe  
+In his praecipe, Mr. Ardito attaches his Marc h 1, 2022, 
+right -to-sue letter as proof that he exhausted his 
+administrative remedies and asks the Court to “take 
+judicial notice of [the] document. ” Pl.’s Praecipe  at 1. In 
+its objection to Mr. Ardito’s praecipe, SSP argues that Mr. 
+Ardito “provides no ra tionale to grant his request for 
+judicial notice ” and “fails to explain how judicial notice 
+of the Commission’s Right -to-Sue letter would bolster his 
+opposition to SSP’s Motion to Dismiss the First Amended 
+Complaint. ” Def.’s Opp’n to Praecipe  at 1. SSP fur ther 
+contends that “because [Mr.] Ardito has not sought leave 
+to inject his latest allegations against SSP into this case 
+through another amendment [of the complaint], the 
+Right -to-Sue letter is not relevant to [the] resolution of 
+SSP’s Motion to Dismiss. ” Id. at 2. SSP concludes by 
+reiterating its argument that dismissal is appropriate 
+regardless of Mr. Ardito’s latest right -to-sue letter. Id. at 
+3. In reply, Mr. Ardito asserts that the allegations 
+implicated by his latest right -to-sue letter are already 
+before the Court in the First Amended Complaint and that 
+no further amendment is needed. Pl.’s Reply to Def. ’s 
+Opp’n to Praecipe  at 2. As a result, Mr. Ardito submits 
+that the Court may take judicial notice of the March 1, 
+2022, letter pursuant to Federa l Rule of Evidence 201 . Id. 
+at 1-2. 
+  
+ 
+ 
+IV. LEGAL STANDARD  
+*13 Rule 12(b)(6)  requires dismissal of a complaint that 
+“fail[s] to state a claim upon which relief can be granted. ” 
+Fed. R. Civ. P. 12(b)(6) . To state a claim, a complaint 
+must contain, among other things, “a short and plain 
+statement of the claim showing that the pleader is entitled 
+to relief. ” Fed. R. Civ. P. 8(a)(2) . In other words, a 
+complaint must contain “sufficient factual matter, 
+accepted as true, to ‘state a claim to relief that is plausible 
+on its face. ’ ” Ashcroft v. Iqbal , 556 U.S. 662, 678, 129 
+S.Ct. 1937, 173 L.Ed.2d 868 (2009)  (quoting Bell Atl. 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  12 
+ Corp. v. Twombly , 550 U.S. 544, 570, 127 S.Ct. 1955, 
+167 L.Ed.2d 929 (2007) ). A claim is f acially plausible 
+when “the plaintiff pleads factual content that allows the 
+court to draw the reasonable inference that the defendant 
+is liable for the misconduct alleged. ” Id. (citing Twombly , 
+550 U.S. at 556, 127 S.Ct. 1955 ). Plausible means “ 
+‘something more than merely possible ’ or ‘merely 
+consistent with a defendant’s liability. ’ ” Germanowski v. 
+Harris , 854 F.3d 68, 71 -72 (1st Cir. 2017)  (internal 
+citation omitted) (quoting Schatz v. Republican State 
+Leadership Comm. , 669 F.3d 50, 55 (1st Cir. 2012) ; 
+Ocasio -Hern ández v. Fortuño -Burset , 640 F.3d 1, 11 (1st 
+Cir. 2011) ). This is a “ ‘context -specific ’ job that compels 
+[judges] ‘to draw on ’ [their] ‘judicial experience and 
+common sense. ’ ” Schatz , 669 F.3d at 55  (quoting Iqbal , 
+556 U.S. at 679, 129 S.Ct. 1937 ). 
+  
+This is a “two-step analysis. ” Cardigan Mountain Sch. v. 
+N.H. Ins. Co. , 787 F.3d 82, 84 (1st Cir. 2015) . “First, the 
+court must distinguish ‘the complaint’s factual allegations 
+(which must be accepted as true) from its conclusory legal 
+allegations (which need not be credited). ’ ” 
+Garc ía-Catal án v. United States , 734 F.3d 100, 103 (1st  
+Cir. 2013)  (quoting Morales -Cruz v. Univ. of P.R. , 676 
+F.3d 220, 224 (1st Cir. 2012) ); see also  Schatz , 669 F.3d 
+at 55  (stating that a court may “isolate and igno re 
+statements in the complaint that simply offer legal labels 
+and conclusions or merely rehash cause -of-action 
+elements ”). “Second, the court must determine whether 
+the factual allegations are sufficient to support ‘the 
+reasonable inference that the defend ant is liable for the 
+misconduct alleged. ’ ” García -Catalán , 734 F.3d at 103  
+(quoting Haley v. City of Bos. , 657 F.3d 39, 46 (1st Cir. 
+2011) ). 
+  
+ 
+ 
+V. DISCUSSION  
+ 
+A. The Maine Whistle blowers ’ Protection Act and 
+the Maine Human Rights Act  
+In his First Amended Complaint, Mr. Ardito alleges that 
+SSP retaliated against him in violation of the Maine 
+Whistleblowers ’ Protection Act (MWPA) and the Maine 
+Human Rights Act (MHRA). The MWPA provides, in 
+relevant part:  
+1. Discrimination prohibited.  No employer may 
+discharge, threaten or otherwise discriminate against an 
+employee regarding the employee’s compensation, 
+terms,  conditions, location or privileges of employment because:  
+A. The employee, acting in good faith, or a person 
+acting on behalf of the employee, reports orally or in 
+writing to the employer or a public body what the 
+employee has reasonable cause to believe is a 
+violation of a law or rule adopted under the laws of 
+this State, a political subdivision of this State or the 
+United States;  
+26 M.R.S. § 833(1)(A) . The plaintiff has the 
+“undemanding task of demonstrating a prima facie case3 
+of unlawful retaliation. ” Osher v. Univ. of Me. Sys. , 703 
+F. Supp. 2d 51, 64 (D. Me. 2010)  (citing Mesnick v. Gen. 
+Elec. Co. , 950 F.2d 816, 823 (1st Cir. 1991) ). To establish 
+a prima facie c ase of retaliation under the MWPA the 
+plaintiff must show: “(1) [ ]he engaged in activity 
+protected by the statute, (2) [ ]he was the subject of 
+adverse employment action, and (3) there was a causal 
+link between the protected activity and the adverse 
+emplo yment action. ”4 Sullivan v. St. Joseph’s Rehab. & 
+Residence , 2016 ME 107, ¶ 14, 143 A.3d 1283  (internal 
+quotation marks omitted).  
+ 3 
+ The First Circuit stated that “[t]he prima facie standard 
+is an evidentiary standard, not a pleading standard, and 
+there is no need to set fort h a detailed evidentiary 
+proffer in a complaint. ” Rodr íguez-Reyes v. 
+Molina -Rodríguez , 711 F.3d 49, 54 (1st Cir. 2013) . 
+Because the prima facie “elements are part of the 
+background against which a plausibility determination 
+should be made ” the Court uses these elements “as a 
+prism to shed light upon the plausibility of [Mr. 
+Ardito’s] claim. ” Id. at 54 . To  the extent that Mr. 
+Ardito properly alleges a prima facie case, “it ipso facto 
+satisfies the plausibility standard. ” Corson v. Modula, 
+Inc., No. 2:20 -CV-104-DBH, 2020 WL 4194498 at 
+*–––– , 2020 U.S. Dist. LEXIS 128437 at *14 (D. Me. 
+July 21, 2020)  (concluding that where the plaintiff 
+meets the prima facie standard in her complaint, she 
+simultaneous pleads a plausible claim to defeat a 
+motion to dismiss).  
+ 
+ 
+4 
+ As this Court has recognized, there is tension between 
+the statutory language of the MHRA and MWPA:  
+Maine courts have adopted the language of section 
+833 with regard to all three elements of an  MWPA 
+action even though section 4572, which is the 
+conduit for an MWPA action, defines adverse 
+employment action differently than section 833 . 
+Section 833  limits adverse employment action to 
+discharging, threatening, and otherwise 
+discrimi nating “against an employee regarding the 
+employee’s compensation, terms, conditions, 
+location[ ] or privileges of employment; ” section 
+4572 has a broader scope, defining unlawful 
+employment discrimination as “to discharge an 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  13 
+ employee or discriminate with respect to hire, tenure, 
+promotion, transfer, compensation, terms, conditions, 
+or privileges of employment or any other matter 
+directly or indirectly related to employment ” because 
+of an employee’s protected activity. 5 M.R.S. § 
+4572 . The clause, “any other matter directly or 
+indirectly related to employment, ” contemplates a 
+broader scope of employer conduct that could be 
+considered adverse employment action. It is 
+uncertain how this language applies to MWPA 
+claims, but since section 4572  is the provision 
+providing a right of action to whistleblowers, the 
+Court is reluctant to view it as surplusage.  
+Charette , 332 F. Supp. 3d at 356 n.41  (quoting Thayer 
+Corp. v. Reed , No. 2:10 -cv-00423 -JAW,  2011 WL 
+2682723 at * –––– , 2011 U.S. Dist. LEXIS 74229 at 
+*60-61 (D. Me. July 11, 2011) ). Here, however, Mr. 
+Ardito alleged violations of the MRHA retaliation 
+provision, 5 M.R.S. § 4633 , rather than section 4572 , 
+although both provisions  prohibit the same or similar 
+conduct and provide for the same remedies. See 
+Gallagher v. Penobscot Cmty. Healthcare , No. 
+CV-16-54, 2017 WL 590288 at * –––– , 2017 Me. 
+Super. LEXIS 215 at *10 -11 (Me. Super. Ct. Mar. 21, 
+2017)  (explaining the scope of protection and remedies 
+available under § 4633  and § 4572 ). 
+ 
+ 
+*14 Similarly, pursuant to the MHRA,5 “[a] person may 
+not discriminate against any individual because that 
+individual has opposed any act or practice that is unlawful 
+under this Act or because that individual made a charge, 
+testified, assisted or participat ed in any manner in an 
+investigation, proceeding or hearing under this Act. ” 5 
+M.R.S. § 4633 . As with the MWPA, a plaintiff bringing a 
+claim for retaliation under the MHRA “must show that: 
+(1) he engaged in protected conduct under the statute; (2) 
+he suffered an adverse employment action; and (3) a 
+causal connection existed between the protected conduct 
+and the adverse action. ” Bishop v. Bell Atl. Corp. , 299 
+F.3d 53, 58 (1st Cir. 2002) . 
+ 5 
+ “The MWPA and the MHRA do not contemplate 
+separate whistleblower causes of action. Rather, the 
+MHRA provides a cause of action to persons aggri eved 
+by violations of the MWPA. ” Thayer , 2011 U.S. Dist. 
+LEXIS 74229, 2011 WL 2682723 . 
+ 
+ 
+ 
+ 
+B. Administrative Exhaustion and the Statute of 
+Limitations under the MHRA and MWPA  
+To begin, the Court resolves the parties ’ dispute over Mr. 
+Ardito’s right to sue letter and his praecipe filed March 5, 2022, and t heir initial arguments that certain alleged 
+adverse actions fall outside of the statute of limitations.  
+  
+ 
+1. Mark Ardito’s 2022 Right -To-Sue Letter  
+SSP argues that Mr. Ardito’ s right -to-sue letter is an 
+“irrelevant distraction[ ] ” from its motion to dismiss 
+because he gave “no rationale to grant his request for 
+judicial notice [of the right -to-sue letter] ” and has not 
+filed a motion to amend his First Amended Complaint to 
+inclu de the right -to-sue letter. Def.’s Opp’n to Praecipe  at 
+1-2. In turn, Mr. Ardito contends that he has exhausted all 
+administrative remedies and filed the right -to-sue letter 
+with the Court as evidence of such. Pl.’s Reply to Def. ’s 
+Opp’n to Praecipe  at 1. Mr. Ardito submits that the First 
+Amended Complaint already contains all allegations that 
+he brought before the MHRC, so upon issuance of the 
+right -to-sue letter “such adverse actions are properly 
+before this Court for resolution through his First 
+Amended Complaint. ” Id. at 2. 
+  
+The MHRA6 provides that a plaintiff may not seek 
+attorney’ s fees or damages under the Act “unless [he] 
+alleges and establishes  that, prior to the filing of the civil 
+action, [he] first filed a complaint with the commission 
+and the commission ... [i]ssued a right -to-sue letter. ” 5 
+M.R.S. § 4622(1)  (emphasi s added). The MHRA 
+administrative exhaustion requirement is not a 
+jurisdictional requirement but rather a condition precedent 
+for recovery under the Act. Robertson v. Barber Foods, 
+LLC, No. 2:19 -cv-00455 -NT, 2020 WL 3104047, 2020 
+U.S. Dist. LEXIS 102 437 (D. Me. June 11, 2020)  (citing 
+5 M.R.S. § 4622 ; Burnett v. Ocean Props. Ltd. , 
+2:16-cv-00359 -JAW, 2017 WL 1331134, at * ––––  2017 
+U.S. Dist. LEXIS 55059, at *22 (D. Me. Apr. 11, 2017) ); 
+see also  Walton v. Nalco Chem. Co. , 272 F.3d 13, 20 -21 
+(1st Cir. 2001)  (“[S]ection 4622 more closely resembles a 
+condition precedent ” than an affirmative defense).  
+ 6 
+ “Maine ... whistleblower protections laws contain the 
+same administrative exhaustion requirement. ” Cole v. 
+Maine , No. 1:17 -cv-00071 -JAW, 2018 WL 276682 at 
+*–––– , 2018 U.S. Dist. LEXIS 163857 at *47 (D. Me. 
+Sept. 25, 2018)  (quoting Burnett v. Ocean Props. Ltd. , 
+327 F. Supp. 3d 198, 232 (D. Me. 2018) ). 
+ 
+ 
+To adequately plead a condition precedent, such as the 
+MHRA administrative exhaustion requirement, a party 
+must “allege generally that all conditions precedent have 
+occurred or been performed. ” Fed. R. Civ. P. 9(c) ; see 
+also 5A Charles Alan Wright, Arthur R. Miller & Edward 
+H. Cooper, Federal Practice and Procedure § 1302 (4th 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  14 
+ ed. 2021)  (“Notwithstandin g variations among the states 
+in pleading practice, Rule 9(c)  applies in all actions in the 
+federal courts, even when the pleading practice in the 
+state in which the court is sitting is different ”). Thus, the 
+First Circuit has stated that “the appropr iate inquiry ... is 
+whether either the original or amended complaint 
+include[s] an adequate  ‘general averment ’ that [the 
+plaintiff] had met all conditions precedent to the recovery 
+of damages under the MHRA, even [if] neither complaint 
+explicitly allege[s]  that [the plaintiff] ... filed an MHRC 
+charge. ” Walton , 272 F.3d at 22  (emphasis in original).  
+  
+*15 Mr. Ardito’s First Amended Complaint expressly 
+alleges that retaliation in t he form of SSP “fabricating 
+information to issue negative performance evaluations in 
+2021, stripping him of certain job duties to his detriment 
+and stating that his current job duties have no promotional 
+potential ” prompted him to file a second MHRC 
+compla int on August 30, 2021. First Am. Compl.  ¶ 5. At 
+the time of the First Amended Complaint, Mr. Ardito 
+acknowledged that the MHRC had not yet granted him a 
+right -to-sue letter on these claims, id., but he “proffer[ed 
+in his opposition to the motion to dismis s] ... that no 
+MHRC investigation will take place because of [his] 
+stated intention [to the MHRC] to seek a Notice of Right 
+to Sue at the expiration of the 180 -day deadline to include 
+those adverse actions in this lawsuit for adjudication. ” 
+Pl.’s Opp’n  at 7. Thus, it is clear through Mr. Ardito’s 
+First Amended Complaint and his opposition to SSP’s 
+motion to dismiss that he “placed [SSP] on reasonable 
+notice that he was claiming compliance with section 
+4622 ” pending receipt of the right -to-sue le tter, which he 
+alleged he would receive at the end of February 2022. 
+Walton , 272 F.3d at 23 ; see also  Stroudwater Assocs. v. 
+Kirsch , No. 2:21 -cv-00086 -NT, 2021 WL 5815910 at 
+*12, 2021 U.S. Dist. LEXIS 23400 0 at *39 -40 (D. Me. 
+Dec. 7, 2021)  (crediting plaintiffs with putting the 
+defendant “and the Court on Notice that [employment 
+discrimination] claims were coming down the pike ” 
+before receiving their right -to-sue letter). Mr. Ardito has 
+thus provided SSP with notice that he filed a charge of 
+discrimination with the MHRC and pled the condition 
+precedent to seek attorney’s fees or damages.  
+  
+Although Mr. Ardito could not establish exhaustion at the 
+time of filing the First Amended Complaint, because the 
+180-day period had not yet lapsed, the Notice of Right to 
+Sue issued March 1, 2022, nonetheless establishes 
+exhaustion because it is the type of extrinsic document the 
+Court may consider in resolving the pending motion to 
+dismiss the First Amended Complaint.  
+  
+In deciding a motion to dismiss “a court may not 
+[ordinarily] consider any documents that are outside of the complaint, or not expressly incorporated therein, 
+unless the motion is converted into one for summary 
+judgment. ” Alt. Energy, Inc. v. St. Paul Fire & Marine 
+Ins. Co. , 267 F.3d 30, 33 (1st Cir. 2001)  (citing Watterson 
+v. Page , 987 F.2d 1, 3 (1st Cir. 1993) ). There is a “narrow 
+exception ‘for documents the authentici ty of which are 
+not disputed by the parties; for official public records; for 
+documents central to plaintiffs ’ claim; or for documents 
+sufficiently referred to in the complaint. ’ ” Id. (quoting 
+Watterson , 987  F.2d at 3 ); see also  Foley v. Wells Fargo 
+Bank, N.A. , 772 F.3d 63, 74 (1st Cir. 2014)  (same); Doe v. 
+Pawtucket Sch. Dep’t , 969 F.3d 1, 8 (1st Cir. 2020)  
+(enumerating exceptions recognized by the First Circuit). 
+When an exception is met, the extrinsic document 
+“effectively merges into the pleadings and the trial court 
+can review it in deciding a motion to dismiss under Rule 
+12(b)(6) .” Beddall v. State St. Bank & Tr. Co. , 137 F.3d 
+12, 17 (1st Cir. 1998) . 
+  
+Notably, the First Circuit has held that a right -to-sue letter 
+falls within the parameters of the narrow Alternative 
+Energy  exception. See Jorge v. Rumsfeld , 404 F.3d 556, 
+559 (1st Cir. 2005)  (explaining on a motion to dismiss 
+that the district court properly considered a right -to-sue 
+letter forming the basis of a plaintiff’s administrative 
+exhaustion claim even thoug h it was not “annexed ” to the 
+complaint). As such, the Court may consider Mr. Ardito’s 
+March 1, 2022, right -to-sue letter as part of the First 
+Amended Complaint. Furthermore, SSP does not dispute 
+that the Court may properly consider the right -to-sue 
+letter  without converting the motion to dismiss into one 
+for summary judgment. See Def. ’s Opp’n to Pl. ’s 
+Praecipe  at 2 ( “SSP does not dispute that the 
+Right -to-Sue letter is such a ‘source ’ that, if relevant to 
+SSP’s Motion to Dismiss, the Court could consider 
+without ‘converting ’ the Motion to Dismiss ‘into a motion 
+for summary judgment ’ ” (quoting Freeman v. Town of 
+Hudson , 714 F.3d 29, 36 (1st Cir. 2013) ). Considering the 
+right -to-sue letter as incorporated in the Fi rst Amended 
+Complaint, Mr. Ardito has both sufficiently alleged and 
+established that he has met the administrative exhaustion 
+requirements pursuant to Rule 9(c) . The Court may 
+therefore consider the allegations in the 2021 MHRC 
+complaint, as detailed in Mr. Ardito’s First Amended 
+Complaint, in resolving the pending motion to dismiss.  
+  
+*16 To the extent that SSP argues that “[Mr.] Ardito has 
+not sought leave to inject his latest allegations against 
+SSP into this case through another amendment, ” id., Mr. 
+Ardito says that the “adverse actions [which are the 
+subject of the new right -to-sue letter] have already been 
+inclu ded in his First Amended Complaint for 
+expediency. ” Pl.’s Reply to Def. ’s Obj. to Praecipe  at 2. 
+The Court agrees. Mr. Ardito does not seek to add any 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  15 
+ new allegations to the First Amended Complaint save 
+notification that he received the right -to-sue letter , which, 
+as the Court previously noted, may be incorporated into 
+the First Amended Complaint by way of the Alternative 
+Energy  exception. Mr. Ardito need not amend his First 
+Amended Complaint solely to state that he has exhausted 
+his administrative  remedies, when the Court may already 
+otherwise consider the right -to-sue letter itself. The Court 
+concludes that Mr. Ardito has alleged administrative 
+exhaustion.  
+  
+ 
+ 
+C. Whether Alleged Retaliatory Actions in 2017 and 
+2018 are Subject to the MHRA & MWPA Statute of 
+Limitations  
+SSP contends that Mr. Ardito’s allegations that it denied 
+him a job transf er, denied him a promotion, and forced the 
+transfer of his clients in 2017 and 2018 should be 
+dismissed because they fall outside of the statute of 
+limitations as more than two years passed between when 
+the alleged acts occurred and when Mr. Ardito 
+commenc ed this action. Def.’s Mot.  at 10. Specifically, 
+SSP says that the Court should “analyze each alleged 
+discriminatory or retaliatory act ” to determine whether 
+each allegation falls within the statute of limitations 
+period. Id. at 11 . Mr. Ardito contends that because he 
+grounds his complaint in a retaliatory hostile work 
+environment, actions that would not be considered 
+“materially adverse ” standing alone “may collectively 
+amount to a retaliatory hostile work enviro nment. ” Pl.’s 
+Opp’n  at 16. He further alleges that even if some of the 
+actions underlying his claim fall outside the applicable 
+statutory period, they still support liability under a 
+“continuing violations ” theory. Id. 
+  
+The MHRA provides that “[t]he actio n must be 
+commenced not more than ... 2 years after the act of 
+unlawful discrimination complained of. ”7 5 M.R.S. § 
+4613(2)(C) . The “two-year limitation period begins to run 
+when an employee receives ‘unambiguous and 
+authoritative notice of the discriminatory act. ’ ” 
+Berounsky v. Oceanside Rubbish, Inc. , 2022 ME 3, ¶ 9, 
+266 A.3d 284  (quoting LePage v. Bath Iron Works Corp ., 
+2006 ME 130, ¶ 15, 909 A.2d 629 ). “The discriminatory 
+act needs to ‘have a degree of permanence, sufficient to 
+put a reasonable claimant on notice of discrimination, ’ 
+and ‘[m]ere suspicion and rumor are insufficient. ’ ” Id. 
+(quoting Lepage,  2006 ME 130, ¶ 11, 909 A.2d 629 ). 
+ 7 
+ MWPA claimants are subject to the same pre -filing 
+arbitration requirements and statute of limitations. See 
+26 M.R.S. § 834 -A; Faile v. Maine , No. 1:12-CV-00055 -JAW, 2012 WL 3990003 at *7, 2012 
+U.S. Dist. LEXIS 128944 at *20 -21 (D. Me. Aug. 6, 
+2012)  (“Claims of discrimination that are advanced 
+under the MHRA/MWPA must be commenced within 
+two years of the act of unlawful discrimination unless a 
+later filing date is allowed by virtue of the delay 
+occasioned by an administrative process ” (citing 5 
+M.R.S. §§ 4613(2)(C) , 4622(1) )). 
+ 
+ 
+However, the Maine Supreme Judicial Court 
+“distinguishe[s] claims arising from discrete acts of 
+discrimination from claims arising from a hostile work 
+environment involving an aggregation of a serie s of acts 
+in which the “ ‘unlawful employment practice ” ... cannot 
+be said to occur on any particular day. ’ ” LePage , 2006 
+ME 130, ¶ 12, 909 A.2d 629  (quoting Nat’l R.R. 
+Passenger Corp. v. Morgan , 536 U.S . 101, 111, 122 S.Ct. 
+2061, 153 L.Ed.2d 106 (2002) ); see also  Franchina , 881 
+F.3d at 47  (“Hostile work environment claims ... generally 
+do not turn on single acts but on an aggregation of hostile 
+acts extending over a period of time. For this reason, an 
+equitable exception to the 300 -day filing period is 
+recognized under Title VII for the ongoing patterns of 
+discrimination that are part and parcel with hostile work 
+environment claims ”); Tobin v. Liberty Mut. Ins. Co. , 553 
+F.3d 121, 130 (1st Cir. 2009)  (“[A] hostile work 
+environment claim cannot be said to occur on any 
+particular day ” because “the actionable wrong is the 
+environment not the individual acts that, taken together, 
+create the environment ” (quoting Ledbetter v. The 
+Goodyear Tire & Rubber Co. , 550 U.S. 618, 638, 127 
+S.Ct. 2162, 167 L.Ed.2d 982 (2007) )). Where a plaintiff 
+has alleged a hostile work environment, rather than 
+discrimination or retaliation by discrete acts, “it doe s not 
+matter ... that some of the alleged acts fall outside the 
+statutory time period, so long as an act that forms part of 
+the basis of the claim occurs within the period. ” Willey v. 
+Cty. of York , No. CV -15-0120, 2017 WL 6513584 at *4, 
+2017 Me. Supe r. LEXIS 182 at *9 (Me. Super. Ct. Oct. 
+10, 2017)  (citing Morgan , 536 U.S. at 117, 122 S.Ct. 
+2061 ); see also  Cordero -Suárez v. Rodríguez , 689 F.3d 
+77, 82 (1st Cir. 20 12).8 
+ 8 
+ In the alternativ e, Mr. Ardito argues that the continuing 
+violations doctrine saves his claims from being 
+time-barred. “[T]he continuing violations doctrine 
+applies where ‘a number of discriminatory acts emanate 
+from the same discriminatory animus, [with] each act 
+constitu ting a separate wrong actionable under Title 
+VII.” Thomas v. Eastman Kodak Co. , 183 F.3d 38, 54 
+(1st Cir. 1999)  (quoting Jensen v. Frank , 912 F.2d 517, 
+522 (1st Cir. 1993) ). In O’Rourke v. City of Providence , 
+the First Circuit explained that “there is a natural 
+affinity between the hostile work environment theory 
+and the  continuing violation doctrine ... [y]et the two 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  16 
+ theories are not the same and not every hostile work 
+environment claim presents a plausible continuing 
+violation. ” 235 F.3d at 727 . The O’Rourke  Court 
+“decline[d] to adopt a per se rule that a properly alleged 
+hostile work environment claim also constitutes a 
+continuing violation. ” Id. at 727 -28. The Law Court has 
+not definitively resolved whether the continui ng 
+violations doctrine is cognizable under Maine law, see 
+McKinnon v. Honeywell Intern., Inc.  2009 ME 69, ¶ 14, 
+977 A.2d 420  (“Although [the Law Court has] 
+discussed the possible applicability of the [continuing 
+violations] doctrine in the context  of employment 
+discrimination ... [it has] never adopted the continuing 
+violations doctrine as a means of tolling the statute of 
+limitations ”), but the Court need not resolve that issue 
+here because of the nature of Mr. Ardito’s claim. The 
+actionable wrong  Mr. Ardito alleges is the hostile work 
+environment itself, rather than SSP’s discrete acts or a 
+serial violation. Thus, Mr. Ardito’s underlying claim 
+bypasses the need to address and apply the continuing 
+violations doctrine.  
+Even if the Court had to apply  the continuing violations 
+doctrine, Mr. Ardito’s claim would still survive 
+dismissal because SSP’s actions could be considered a 
+“serial violation. ” See Thomas , 183 F.3d at 53 . 
+Accepting Mr. Ardito’s allegations  as true, each of 
+SSP’s allegedly retaliatory acts could be described as 
+“emanating from the same discriminatory animus ” of 
+punishing Mr. Ardito for reporting what he perceived to 
+be illegal conduct by SSP employees. Moreover, 
+because Mr. Ardito made a ser ies of reports over time, 
+it could plausibly have taken time for him to foresee 
+that SSP’s actions created a pattern of repeated 
+retaliatory acts. See id. at 54  (“The continuing violation 
+doctrine ensures that th ese plaintiffs ’ claims are not 
+foreclosed merely because the plaintiffs needed to see a 
+pattern of repeated acts before they realized that the 
+individual acts were discriminatory ”). 
+ 
+ 
+*17 Here, Mr. Ardito filed his claim in state superior 
+court on February 17, 2021. SSP is therefore correct that 
+all discrete  retaliatory acts predating February 17, 2019, 
+are time barred. Importantly, however, Mr. Ardito present 
+a claim for a retaliatory hostile work environment rather 
+than discrete retaliatory occurrences. Specifically, Mr. 
+Ardito contends that SSP retaliated against him by 
+creating a hostile work environment beginning in 2018 
+but continuing until 2021. In other words, the occurrences 
+underlying the alleged hostile work envi ronment fall both 
+inside and outside the two -year statute of limitations. 
+Because some of the alleged actions would not be time 
+barred as discrete incidences, all alleged actions that 
+constitute a continuing hostile work environment may be 
+considered in th is action. See id.  
+  
+Although the Law Court has not definitively resolved 
+whether retaliatory  hostile work environment claims are cognizable under Maine law, as discussed in greater detail 
+below, the Court concludes that the Law Court would 
+likely recognize a retaliatory hostile work environment 
+claim if faced with the question. Because the allege d 
+wrong that Mr. Ardito challenges is the working 
+environment itself, the Court concludes that SSP’s acts 
+that Mr. Ardito says constitute a pattern of retaliation are 
+alleged as part of a hostile work environment rather than 
+as discrete acts. As a result t hey are not time barred.  
+  
+ 
+ 
+D. Mark Ardito’s MWPA and MHRA Claims  
+The Court must next consider whether Mr. Ardito has 
+stated plausible claims for violations of the MWPA and 
+MHRA. Although Mr. Ardito need not allege a prima 
+facie case to survive dismissal at this stage, the Court 
+looks to the prima facie elements as a fra mework for its 
+analysis. The Court therefore considers whether Mr. 
+Ardito has plausibly alleged (1) a protected activity; (2) 
+an adverse employment action; and (3) a causal link 
+between the protected activity and adverse employment 
+action.  
+  
+ 
+1. Protected Activity  
+Under Maine law, an employee engages in a protected 
+activity if he “reports orally or in writing to the employer 
+... what the employee has reasonable cause to believe is a 
+violation of a law or rule adopted under the laws of this 
+State, a political subdivision of this State or the United 
+States. ” 26 M.R.S. § 833(1)(A) . To fall within the 
+purview of the MWPA, “the employee must first bring 
+‘the alleged violation,  condition or practice to the 
+attention of a person having supervisory authority with 
+the employer ’ and ‘allow [ ] the employer a reasonable 
+opportunity to correct that violation, condition or practice 
+unless the employee has specific reason to believe tha t the 
+reports to the employer will not result in correction of the 
+violation. ” Osher , 703 F. Supp. 2d at 66 n.15  (quoting 26 
+M.R.S. § 833(2) ). “[T]he complained -of-conduct need not 
+actually be illegal, but the employee must prove that a 
+reasonable person might have believed that it was. ” Id. at 
+66 (quoting Tripp v. Cole , 425 F.3d 5, 9 (1st Cir. 2005) ). 
+However, the re port must be made in good faith. See Hall 
+v. Mid -State Machine Prods. , No. 11 -CV-068, 2013 WL 
+5510308 at * –––– , 2013 Me. Super. LEXIS 169 at *15 -16 
+(Me. Super. Ct. Sept. 4, 2013)  (citing Gammon v. Crisi s 
+& Counseling Ctrs. , 762 F. Supp. 2d 165, 182 -83 (D. Me. 
+2011) ). “The good faith analysis begins with an 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  17 
+ assessment ‘of whether the purported whistleblower made 
+h[is] complaints for the purpose of exposing illegal or 
+unsafe practices. ’ ” Id. at *16 (qu oting Gammon , 762 F. 
+Supp. 2d at 183 ). In its motion to dismiss, SSP does not 
+dispute that Mr. Ardito engaged in a protected activity but 
+it reserves the right to contest that point later. Def.’s Mot.  
+at 8 n. 4. 
+  
+For the purposes of this motion to dismiss, the Court 
+agrees that Mr. Ardito has properly alleged a protected 
+activity. First, Mr. Ardito made several reports, both 
+orally and in writing, to his direct supervisors, including 
+to Ms. Tong, Mr. Wood, Mr.  Sanner, and Mr. Houtappel 
+about conduct of SSP employees. See First  Am. Compl.  
+¶¶ 33-34, 38 -39, 69 -70, 90. He also reported to Ms. 
+Reganall in HR, and spoke with Mr. Srinivasan and Ms. 
+Ho in their capacities as SSP’s attorneys. Id. ¶¶ 44 -46, 
+69, 76, 89 -90. In other words, Mr. Ardito has more than 
+sufficiently alleged that he brought his concerns to the 
+attention to his superiors. See Valentin -Almeyda , 447 F.3d 
+at 94  (holding that administrative complaints and oral 
+complaints to supervisors constitute “protected activity ”). 
+  
+*18 Mr. Ardito has also alleged th at he reasonably 
+believed that Ms. Tong and her other direct reports were 
+engaged in illegal conduct. Based on Mr. Ardito’s 
+knowledge and understanding of the NDAs and the nature 
+of the confidential information provided to SSP by its 
+customers, it was reas onable for Mr. Ardito to believe that 
+an apparent breach of such an agreement may be in 
+violation of federal or state law. See Tripp , 425 F.3d at 9  
+(“[T]he complained -of conduct need not actually  be 
+illegal, but th e employee must prove that a reasonable 
+person might have believed that it was ”) (internal 
+quotation marks omitted) (emphasis in original); Thayer , 
+2011 WL 2682723, at * ––––  2011 U.S. Dist. LEXIS 
+74229, at *64  (“[Plaintiff] need not have identifie d in his 
+Complaint what law he believes was violated since all 
+that is required is his good faith belief ‘that it crosses the 
+line’ when he complained to the employer —not whether 
+such a belief was legally correct ”). Furthermore, in his 
+email to Mr. Wood in  September 2018, Mr. Ardito stated 
+that he was raising his concerns with his superiors to 
+shield SSP and himself from liability. First Am. Compl.  ¶ 
+63. Taking these facts as true, it is reasonable to conclude 
+that Mr. Ardito made the reports and disclosure s in good 
+faith belief that the complained of conduct was illegal.  
+  
+Finally, Mr. Ardito has sufficiently alleged that he gave 
+SSP sufficient time and opportunity to correct the alleged 
+misconduct. Mr. Ardito’s first disclosure was made to Ms. 
+Tong and Mr.  Sanner in January 2018 and he escalated 
+his disclosures in May 2018 by contacting the SSP legal 
+department. Mr. Ardito alleges that he was not contacted by anyone from SSP until December 2018. Id. ¶ 91. Even 
+assuming that Mr. Ardito’s first major disclosu re occurred 
+in May 2018, a period of seven months is sufficient to 
+establish that he gave SSP ample opportunity to address 
+his concerns. Mr. Ardito has sufficiently alleged that he 
+engaged in a protected activity.  
+  
+ 
+2. Adverse Employment Action  
+Under the MWPA “[a]n adverse employment action is an 
+action that materially changes the conditions of an 
+employee’s employment, ” Sullivan , 2016 ME 107, ¶ 14, 
+143 A.3d 1283 , and under the MHRA such an action is 
+one that “could well dissuade a reasonable worker from 
+making or supporting a charge of discrimination. ” 
+Charette v. St. John Valley Soil & Water Conservation 
+Dist. , 332 F. Supp.  3d 316, 356 (D. Me. 2018)  (citing 
+Burlington N. & Santa Fe Ry. Co. v. White , 548 U.S. 53, 
+57, 126 S.Ct. 2405, 165 L.Ed.2d 345 (2006) ). “An 
+employee has suffered an adverse employment action 
+when the employee has been deprived either of 
+‘something of consequence ’ as a result of a demotion in 
+responsibility, a pay reduction, or termination, or the 
+employer has withheld “an accouterment of the 
+employment relationship, say, by failing to follow a 
+customary practic e of considering [the employee] for 
+promotion after a particular period of service. ” LePage , 
+2006 ME 130, ¶ 20, 909 A.2d 629  (quoting Blackie v. 
+State of Maine , 75 F.3d 716, 725 (1st Cir. 1996) ). Here,  
+Mr. Ardito contends that he “is not seeking relief for 
+discrete adverse actions ” namely, denial of a job transfer, 
+denial of a promotion, and the forced client account 
+transfers. Pl.’s Opp’n  at 15 -16. Instead, he submits that 
+these discrete acts “are part  of the pervasive orders to 
+violate the law, castigation, intimidation and threats for 
+Mr. Ardito’s refusal to violate the law, and other actions 
+from May through December 2018. ” Id. at 16 . 
+  
+ 
+a. Whether Hostile Work Environment is a Cognizable 
+“Adverse Action ” under the MHRA and MWPA  
+As both parties note, the Law Court has “not yet 
+addressed whether a hostile work environment claim ca n 
+constitute an adverse employment action pursuant to the 
+WPA. ” Blake v. State,  2005 ME 32, ¶ 10, 868 A.2d 234 ; 
+see also  LaCourse v. HallKeen Mgmt., Inc. , No. 
+2:10-cv-420-GZS, 2011 WL 3857149 at * –––– , 2011 
+U.S. Dist. LEXIS 98315 at *57 -59 (D. Me. Aug. 31, 
+2011) ; Bodman , 787 F. Supp. 2d at 110  (“To date, 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  18 
+ however, it re mains an open question in Maine whether a 
+retaliatory hostile work environment (and resulting 
+constructive discharge) constitutes an adverse 
+employment action in the context of a MWPA claim ”); 
+Doyle v. Dep’t of Hum. Servs. , 2003 ME 61, ¶ 24 n.14, 
+824 A.2d 48  (“We do not reach DHS’s argument that the 
+MHRA does not recognize a claim for a hostile work 
+environment because, assuming that such a claim is 
+cognizable, the undisputed facts do not demonstrate a 
+hostile incident or incidents of sufficient se verity or 
+pervasiveness to constitute a hostile work environment ”). 
+  
+*19 Because the Law Court has yet to decide this issue, 
+SSP argues that “[t]his Court should not create new state 
+law by recognizing this claim under the MWPA. ” Def.’s 
+Mot. at 17. Although SSP is correct that “[i]t is not [the 
+federal court’s] role to expand Maine law, ” Douglas , 433 
+F.3d at 149 , the First Circuit has also stated that “[w]here 
+the state’s highest court has not definitively weighed in, a 
+federal court applying state law ‘may consider analogous 
+decisions, consider[ ] dicta, scholarly works, and any 
+other reliable data t ending convincingly to show how the 
+highest court in the state would decide the issue at hand. ’ 
+” Janney Montgomery Scott LLC v. Tobin , 571 F.3d 162, 
+164 (1st Cir. 2009)  (quoting N. Am. Specialty Ins. Co. v. 
+Lapalme , 258 F.3d 35, 38 (1st Cir. 2001) ). In such 
+circumstances, the federal court “must ‘make an informed 
+prophecy —to discern the rule the state’s highest court 
+would be most likely to follow under these circumst ances, 
+even if our independent judgment might differ. ’ ” Id. 
+(quoting Lapalme , 258 F.3d at 38  (internal quotation 
+marks omitted)).  
+  
+The Court acknowledges that this a complicated issue, 
+however this is not the first time this District and the First 
+Circuit have been faced with deciphering state law absent 
+explicit guidance from the highest state court. See, e.g. , 
+Noviello , 398 F.3d at 91  (looking to federal law  in the 
+absence of precedent from the Massachusetts Supreme 
+Judicial Court in determining whether Massachusetts law 
+permitted claims for retaliatory hostile work 
+environments); Thayer , 2011 WL 2682723, at * ––––  
+2011 U.S. Dist. LEXIS 74229, at *54 -55 (comparing 
+federal law and Maine law on a motion to dismiss to 
+resolve whether the MWPA applied to former employees, 
+which was an open question under Maine law).  
+  
+Consistent with the First Circuit’s analysis in Noviello v. 
+City of Boston , the Court first considers Title VII, the 
+federal analogue of the MHRA and MWPA antiretaliation 
+provisions. The Noviello  Court began by comparing the 
+language of Title VII’s operative and anti -retaliation 
+provisions. Noviello , 398 F.3d at 88 -90. The operative 
+provision makes it unlawful “to discriminate against any individual with respect to his compensation, terms, 
+conditions, or privileges of employment, because of such 
+individual’s race, color, religion, se x or nation origin. ” 42 
+U.S.C. § 2000e -2(a)(1) . Based on this language, and 
+Congress ’ intent “ ‘to strike at the entire spectrum of 
+disparate treatment ... in employment, which includes 
+requiring people to work in a discrimin atorily hostile or 
+abusive work environment ’ ” the First Circuit concluded 
+that “the verb ‘discriminate ’ ... logically includes 
+subjecting a person to a hostile work environment. ” 
+Noviello , 389 F.3d at 90 (quoting Harris v. Forklift Sys., 
+Inc., 510 U.S. 17, 21, 114 S.Ct. 367, 126 L.Ed.2d 295 
+(1993) ); see also  Thayer , 2011 WL 2682723, at *20 2011 
+U.S. Dist. LEXIS 74229, at *57  (discussing the “linguistic 
+difference s between Title VII’s substantive 
+antidiscrimination and anti -retaliation provisions ” as 
+observed by the United States Supreme Court in 
+Burlington N. & Santa Fe Ry. Co. v. White , 548 U.S. 53, 
+62, 126 S.Ct. 2405, 165  L.Ed.2d 345 (2006) ). 
+  
+Turning to the language of Title VII’s anti -retaliation 
+provision, which “directs an employer not to discriminate 
+against any employee ‘because [the employee] has made a 
+charge, testified, assisted, or participated in any manner in 
+an investigation, proceeding or hearing under [Title VII], ’ 
+” Noviello , 389 F.3d at 90  (quoting 42 U.S.C. § 
+2000e -3(a)), the First Circuit concluded that because the 
+operative pr ovision of Title VII clearly stated Congress ’ 
+intention to prevent discrimination in the form of a hostile 
+work environment under the statute, it would be 
+inapposite to read the anti -retaliation provision more 
+restrictively. Id. (applying the cano n of interpretation that 
+“[a] term appearing in several places in a statutory text is 
+generally read the same way each time it appears ” 
+(quoting Ratzlaf v. United States , 510 U.S. 135, 143, 114 
+S.Ct. 655, 126 L.Ed .2d 615 (1994) )). 
+  
+*20 Indeed, the First Circuit reasoned that the 
+anti-retaliation provision’s use of the word 
+“discrimination ” without qualification was evidence that 
+the provision intended to “prohibit any discrimin ation that 
+is reasonably likely to deter protected activity, ” including 
+subjecting an employee to a hostile work environment. Id. 
+(quoting EEOC Compl. Man.  (CCH) P 8005, § 8-11.D.3 
+(2004)). Importantly, when faced with whether 
+Massachusetts law al so recognized a retaliatory hostile 
+work environment, the First Circuit concluded that “the 
+[Massachusetts] statute’s anti -discrimination and 
+anti-retaliation provisions are very similar to the 
+counterpart provisions contained in Title VII. ” Id. at 91 . 
+The First Circuit concluded that “were the [SJC] squarely 
+presented with the question, it would find a retaliatory 
+hostile work environment to be an adverse employment 
+action. ” Id. at 90 -91. 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  19 
+   
+Applying the First Circuit analytic approach, the Court 
+concludes that if faced with the same question, the Law 
+Court would likely permit a retaliatory hostile work 
+environment claim based on the similarity of the MHRA 
+and MWPA to bot h Title VII and the Massachusetts law9 
+in Noviello . First, the same linguistic similarities that the 
+First Circuit recognized between Title VII’s 
+anti-retaliation provision and the Massachusetts law exist 
+between Title VII and the MHRA and MWPA. The 
+MHRA states that “[a] person may not di scriminate 
+against any individual because that individual has 
+opposed any act or practice that is unlawful under this Act 
+or because that individual made a charge, testified, 
+assisted or participated in any manner in an investigation, 
+proceeding or hearing  under this Act. ” 5 M.R.S. § 
+4633(a) . The MWPA similarly provides that “[n]o 
+employer may discharge, threaten or otherwise 
+discriminate against an employee regarding the 
+employee’s compensation, terms, conditions, location or 
+privileges of employme nt because ” the employee reported 
+what they reasonably believed to be a violation of the law. 
+26 M.R.S. § 833(1)(A) . 
+ 9 
+ Chapter 151B of t he Massachusetts General Laws 
+states that it is unlawful:  
+For any person, employer, labor organization or 
+employment agency to discharge, expel or otherwise 
+discriminate against any person because he has 
+opposed any practices forbidden under this chapter 
+or because he has filed a complaint, testified or 
+assisted in any proceeding under section five.  
+Mass. Gen. Laws ch. 151B, § 4(4) . 
+ 
+ 
+As in Title VII and Massachusetts Chapter 151B, the 
+word “discriminate ” noticeably lacks a  qualifier in both 
+the MHRA and MWPA. Moreover, the phrase “or 
+otherwise discriminate ” in the MWPA suggests that the 
+Maine Legislature, like Congress, did not mean to limit 
+actionable types of retaliation solely to employee 
+“discharge ” or “threat[s]. ” In fact, in LePage , the Law 
+Court held that “[u]nlike 42 U.S.C.S. § 2000e -3(a), which 
+simply prohibits ‘discrimination ’ in response to a 
+protected activity, the MWPA specifically defines 
+discrimination by stating that ‘[n]o employer may 
+discharge, threaten  or otherwise discriminate against an 
+employee regarding the employee’s compensation, terms, 
+conditions, location or privileges of employment. ” Id. 
+(emphasis in LePage ) (quoting 26 M.R.S. § 833(1) ). The 
+Law Court thus interpreted the statutory language as 
+being broader than Title VII, which is consistent with the 
+reading the Court adopts here.  
+  
+This conclusion is further  consistent with the MHRC 
+Rules and Regulations which provide that “[c]onsistent with the public policy underlying the Act (as expressed in 
+§ 4552), and with firmly established principles for the 
+interpretation of such humanitarian legislation, the 
+remedia l provisions of the Act shall be given broad 
+construction and its exceptions shall be construed 
+narrowly. ” Me. Hum. Rts. Comm’n Reg.  ch. 3, § 1(3)(A); 
+see also  Wells v. Franklin Broadcasting Corp. , 403 A.2d 
+771, 7 73 (Me. 1979)  (“The legislative history of the 
+[Maine Human Rights Act] indicates that it was meant to 
+have very broad coverage ” (quoting Me. Hum. Rts. 
+Comm’n v. Local 1361, Me. , 383 A.2d 369, 373 (1978) ). 
+  
+*21 Finally, this Court similarly concluded in Thayer 
+Corporation v. Reed  that the MWPA should be broadly 
+construed. In Thayer , the Court relied on Burlington 
+Northern  to conclude that a narrow interpretation of 
+Maine’s anti -retaliation provision would foreclose an 
+entire category of plaintiffs, a result inconsistent with the 
+purpose of statutory antiretaliation provisions. 2011 WL 
+2682723, at * ––––  2011 U.S. Dist. LEXIS 74229, at 
+*58-60. The Court noted that in Burlington Northern , the 
+Supreme Court characterized Title VII’s antiretaliation 
+provision as a means to prevent discrimination by 
+“preventing an employer from interfering (through 
+retaliation) with an employee’s efforts to secure or 
+advance enforcement of the Act’s basic guarantees. ” Id. at 
+*58 (quoting Burlington N. , 548 U.S. at 63, 126 S.Ct. 
+2405 ) (alteration in Thayer ). The Court explained that the 
+Supreme Court cons trued the antiretaliation provision 
+broadly to “deter the many forms that effective retaliation 
+can take. ” Id. at *59 (quoting Burlington N. , 548 at 63, 
+126 S.Ct. 2405 ). The Court ultimately concluded that “the 
+same justifications the Burlin gton Northern  Court 
+identified for the Title VII antiretaliation provision’s 
+broad protection apply to the MWPA and these 
+protections would be hollow if an employer were free to 
+exact retaliation against whistleblowers outside of 
+employment. ” Id. at *60 . 
+  
+In light of the Supreme Court’s reasoning in Burlington 
+Northern , and the First Circuit’s reasoning in Noviello , 
+and given the purpose of the comparable Title VII and 
+Maine antiretaliation provisions, the Court concludes that 
+a hostile work environment may be an actionable adverse 
+employment action. A narrow construction of the MWPA 
+and MHRA would allow an employer to retaliate against 
+an employee in small continuous ways as long as the 
+action did not arise to the level of a discrete retaliatory 
+act. This would render the antiretaliation provision hollow 
+if an employer could legally make a work envi ronment 
+unpleasant in small but potentially meaningful ways over 
+an extended period of time and then use the statute of 
+limitations period as a shield against potentially 
+meritorious employee claims.  
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  20 
+   
+Finally, the Law Court has consistently interpreted th e 
+MWPA and MHRA with reference to Title VII. Currie , 
+2007 ME 12, ¶ 13, 915 A.2d 400  (noting that the Law 
+Court’s “construction of the MHRA and WPA has been 
+guided by federal law ” including Title VII, in the absence 
+of Law Court precedent); see als o Gammon , 762 F. Supp. 
+2d at 182  (“The MWPA analysis is guided by federal case 
+law construing analogous statutes ”); LePage , 2006 ME 
+130, ¶ 19, 909 A.2d 629  (citing the Law Court’s adoption 
+of the McD onnell Douglas  burden shifting analysis as an 
+example of how the Law Court looks to federal caselaw); 
+Winston v. Me. Technical Coll. Sys. , 631 A.2d 70, 74 -75 
+(Me. 1993)  (“We have stated that because the MHRA 
+gene rally tracks federal anti -discrimination statutes, it is 
+appropriate to look to federal precedent for guidance in 
+interpreting the MHRA ”). In particular, the Law Court 
+has articulated that:  
+In enacting the Human Rights Act, Maine was 
+legislating against th e background of prior federal 
+anti-discrimination statutes and a developing body of 
+case law construing and applying those statutes. Over 
+the years the federal cases have formulated a special 
+methodology for evaluating the evidence introduced in 
+cases of a lleged unlawful employment discrimination. 
+As we have previously held, the Maine legislature -- by 
+adopting provisions that generally track the federal 
+anti-discrimination statutes -- intended the courts to 
+look to the federal case law to provide significa nt 
+guidance in the construction of our statute.  
+Me. Hum. Rts. Comm’n v. City of Auburn , 408 A.2d 1253, 
+1261 (Me. 1979)  (internal quotation marks omitted).10 In 
+fact, the Law Court has stated that “[t]he special rules 
+developed by the federal courts provide ‘a sensible, 
+orderly way to evaluate the evidence in light of common 
+experience as it bears  on the critical question of 
+discrimination. ’ ” Id. at 1261  (quoting Furnco Constr. Co. 
+v. Waters , 438 U.S. 567, 577, 98 S.Ct. 2943, 57 L.Ed.2d 
+957 (1978) ). In su m, interpreting the MHRA and MWPA 
+as permitting a retaliatory hostile work environment claim 
+is consistent with precedent from the Law Court and this 
+District. See Thayer , 2011 WL 2682723, at *21 2011 U.S. 
+Dist. LEXIS 74229, at *59 -60 (“As such, the same 
+justifications the Burlington Northern  Court identified for 
+the Title VII antiretaliation provision’s broad protection 
+apply to the MWPA and these protections would be 
+hollow if an employer were free to exact retaliation 
+against whistleblowers outside of employment ”). 
+ 10 
+ In Moon v. Webber Oil Co. , No. 7 -126-B-W, 2008 WL 
+130361, 2008 U.S. Dist. LEXIS 2287 (D. Me. Ja n. 10, 
+2008) , aff’d  2008 U.S. Dist. LEXIS 8745 (D. Me. Feb. 
+5, 2008), this District noted that the Law Court rejected 
+a recommendation that federal precedent be applied to ambiguous statutory language in the MHRA. Id. at 
+*5-6. The Moon  court st ated that “City of Auburn  and 
+subsequent Maine Law Court cases have merely 
+concluded that the state courts will look to federal 
+precedent in situations where the federal statutory law 
+and state statutory law are analogous. ” Id. The Court’s 
+relianc e on City of Auburn  here is consistent with 
+Moon , as the Court is not presented with ambiguous 
+statutory language, but is instead tasked with 
+interpreting a provision of Maine law that runs parallel 
+to federal law.  
+ 
+ 
+*22 In light of these factors, the Court finds it appropriate 
+to treat Mr. Ardito’s hostile work environment retaliation 
+claim as cognizable in resolving this motion to dismiss. 
+To the extent that there is uncertainty as to how the Law 
+Court would interpret this question “the Court will not 
+foreclose a broad category of cases by deciding that [an] 
+employee cannot engage in protected activity and suffer 
+adverse employment action ” through a retaliatory hostile 
+work environment. Id. at *61.  
+  
+ 
+b. Application  
+The Court concludes that Mr. Ardito has plausibly alleged 
+a retaliatory hostile work environment and thus survives 
+dismissal. “Hostile environment claims involv e repeated 
+or intense harassment sufficiently severe or pervasive to 
+create an abusive working environment. ” Doyle , 2003 ME 
+61, ¶ 23, 824 A.2d 48  (citing Nat’l R.R. Passenger Corp. , 
+536 U.S. at 115 -16, 12 2 S.Ct. 2061 ). “In determining 
+whether an actionable hostile work environment claim 
+exists, we look to ‘all the circumstances, ’ including ‘the 
+frequency of the discriminatory conduct; its severity; 
+whether it is physically threatening or humiliating, or  a 
+mere offensive utterance; and whether it unreasonably 
+interferes with an employee’s work performance. ’ ” Id. 
+(quoting Nat’l R.R. Passenger Corp. , 536 U.S. at 115 -16, 
+122 S.Ct. 2061 ). Additionally, “[t]he [C]ourt must 
+determine whether the environment was subjectively 
+abusive to the employee, and, in addition, whether that 
+environment was hostile or abusive pursuant to an 
+objective standard. ” Blake , 2005 ME 32, ¶ 9, 868 A.2d 
+234. 
+  
+The First Circuit described the hostile work environment 
+inquiry as “distinguish[ing] between the ordinary, if 
+occasionally unpleasant, vicissitudes of the workplace and 
+actual harassment. ” Noviello , 398 F.3d at 92  (citing  
+Faragher v. City of Boca Raton , 524 U.S. 775, 788, 118 
+S.Ct. 2275, 141 L.Ed.2d 662 (1998) ). In other words, 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  21 
+ “rudeness or ostracism, standing alone, usually is not 
+enough to support a hostile work environment c laim. ” Id. 
+  
+A court’s analysis of retaliatory harassment is “more 
+nuanced ” because “[t]he very act of filing a charge 
+against a coworker will invariably cause tension and 
+result in a less agreeable workplace. ” Id. at 93 . As a 
+result, “actions that are hurtful to a complainant only 
+because coworkers do not take [his] side in a work -related 
+dispute may not be considered as contributing to a 
+retaliatory hostile work environment. ” Id. Rather, “[i]t is 
+only those actions, directed at a complainant, that stem 
+from a retaliatory animus which may be factored into the 
+hostile work environment calculus. ” Id. As to the 
+supervisor -supervisee relationship, the Law Court stated:  
+The relationship betwe en a supervisor and an employee 
+by its very nature involves a certain amount of tension, 
+and at times, may even generate some hostility. A 
+supervisor must be able to exert authority when 
+interacting with a subordinate. In order to demonstrate 
+a hostile wor k environment in the case of a 
+supervisor -subordinate, the subordinate must show that 
+the hostility was severe or pervasive, and that it 
+extended beyond the normal tension that exists in many 
+supervisor -supervisee relationships.  
+Blake , 2005 ME 32, ¶ 10, 868 A.2d 234 . 
+  
+Mr. Ardito points to several grievances that he believes 
+created a hostile work environment, including: (1) SSP 
+refusing to hire him for the west coast position and 
+refusing to give him oversight over its new hire in that 
+position, Mr. West; (2) the system atic stripping of Mr. 
+Ardito’s customers and his assignment to less significant 
+clients; (3) SSP “gaslighting ” Mr. Ardito by either failing 
+to respond to his complaints or denying that he ever made 
+a complaint; (4) SSP’s issuance of the demand letter to 
+Mr. Ardito’s daughter; and (5) an unfavorable 
+employment review in January of 2021.  
+  
+*23 One view is that SSP’s alleged conduct amounts to 
+nothing more than the type of “petty slights or minor 
+annoyances that often take pla ce at work and that all 
+employees experience. ” Billings v. Town of Grafton , 515 
+F.3d 39, 54 (1st Cir. 2008)  (quoting Burlington Northern , 
+548 U.S. at 68, 126 S.Ct. 2405 ). However, “cumulatively 
+these allegations plausibly paint a picture that would 
+allow a factfinder to find [SSP’s] conduct sufficient to 
+deter a reasonable person from challenging [SSP’s 
+confidentiality and trade secrets] practices had [he] 
+known[he] woul d be subjected to these abuses if 
+successful. ” Rodr íguez-Vives v. P.R. Firefighters Corps of 
+P.R., 743 F.3d 278, 285 (1st Cir. 2014)  (citing Burlington 
+Northern , 548 U.S . at 68, 126 S.Ct. 2405 ). Ultimately, 
+whether SSP’s conduct falls outside of the scope of anti-retaliation laws or whether it constitutes a hostile 
+work environment requires additional development of the 
+record, rendering dismissal inappropriate at this  time.  
+  
+Although the Court construes Mr. Ardito’s hostile work 
+environment allegations cumulatively, several specific 
+allegations bear note. First, Mr. Ardito alleges that he was 
+passed over for the west coast position initially offered to 
+him, he was nev er given supervisory responsibility over 
+Mr. West, despite SSP’s promise to grant him supervising 
+authority, SSP systematically transferred his clients away 
+to Mr. West, he was assigned to less high -profile accounts 
+with little promotional opportunity, and  over time, his 
+involvement in the Steering Committee was reduced from 
+20% to 3% and SSP restricted his access to Steering 
+Committee information. First Am. Compl.  ¶¶ 36-37, 
+128-129, 149. The First Circuit previously stated that a 
+“change in an employee’s r esponsibilities, ” such as a 
+refusal to promote, divestiture of significant 
+responsibilities, or withholding of recognition, may 
+constitute an adverse employment action. See 
+Colón -Fontánez v. Mun. of San Juan , 660 F. 3d 17, 37, 42 
+(1st Cir. 2011) ; Simas v. First Citizens’ Fed. Credit 
+Union , 170 F.3d 37, 50 (1st Cir. 1999)  (concluding that a 
+substantial divestment of responsibilities may constitute 
+an adverse employment act ion).  
+  
+Mr. Ardito alleges that his customer base dwindled, SSP 
+transferred nine out of his thirteen clients to Mr. West, 
+and over time, he was assigned less prestigious clients. 
+Accepting these facts as true, Mr. Ardito has alleged a 
+substantial change in  his job responsibilities, especially as 
+he set forth the important relationship at SSP between 
+bonus and career advancement opportunities and the 
+extent and prestige of his client base. First Am. Compl.  ¶¶ 
+27-29. Similarly, Mr. Ardito states that he was t old at 
+various points that he was no longer eligible for 
+promotion and that, by the time he filed his action in state 
+superior court, promotion was entirely “off the table. ” See 
+id. ¶ 153. Considering Mr. Ardito’s contention that his 
+client and career aspi rations were well documented over 
+the course of his employment with SSP, a jury could 
+reasonably conclude that these changes to his 
+advancement prospects and client base contributed to a 
+hostile work environment that would objectively dissuade 
+an employee from reporting his employer’s perceived 
+illegal conduct. This determination requires a holistic, 
+fact-intensive review of the employee’s unique situation.  
+  
+Although the denial of a promotion may arise to the 
+retaliatory level, courts have held that a chan ge in 
+responsibilities is not adverse unless it affects the 
+employee’s prior authority. See Colón -Fontánez , 660 F.3d 
+at 42  (citing Simas , 170 F.3d at 50 ). This case req uires 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  22 
+ further factual development to understand Mr. Ardito’s 
+position and how it changed, his discussions with SSP 
+regarding promotion, additional facts relating to the 
+alleged transfer of clients, and whether Ms. Tong’s 
+conduct went beyond the normal tens ions between 
+supervisor and supervisee. However, the Court takes Mr. 
+Ardito’s allegation as true for purposes of the motion to 
+dismiss and the allegations on this point are sufficient to 
+preclude dismissal.  
+  
+*24 Second, M r. Ardito alleges that upon returning from 
+leave, he was required to choose between going back to 
+his former job with a reduced client base or accepting a 
+different job with an experimental product and 
+responsibilities on the Steering Committee. First Am. 
+Compl.  ¶ 119. Based on Mr. Ardito’s allegations, it is 
+plausible that giving Mr. Ardito a choice between an 
+experimental product or a reduced client load, SSP 
+effectively forced Mr. Ardito to return to a less 
+prestigious job with diminished responsibilitie s, which 
+could constitute an adverse employment action. See 
+Rodr íguez-Vives , 743 F.3d at 286  (comparing 
+Morales -Vallellanes v. Potter , 605 F.3d 27, 38 (1st Cir. 
+2010)  (holding on summary judgment that reassignment 
+to duties which were not “more difficult, less prestigious, 
+or objectively inferior ” was not an adverse employment 
+action), with Tart v. Illinois Power Co. , 366 F.3d  461, 473 
+(7th Cir. 2004)  (jury could have found adverse 
+employment action where plaintiffs were reassigned to 
+“jobs ... [that] involved far less skill and significantly 
+harsher working conditions than the plaintiffs ’ prior 
+positions ”)); Morales -Vallellanes , 605 F.3d at 38  (“In 
+appropriate circumstances, disadvantageous work 
+assignments may qualify as materially adverse ”); Billings , 
+515 F.3d at 54  (“A jury could find that, as a result of [a] 
+transfer, [the plaintiff] occupied an objectively less 
+prestigious job, reporting to a lower ranked supervisor, 
+enjoying much less contact wit h the Board, the Town, and 
+members of the public, and requiring less experience and 
+fewer qualifications ”); Depaolo v. GHM Portland Mar, 
+LLC, No. 2:16 -cv-00468 -NT, 2018 WL 3822455 at 
+*–––– , 2018 U.S. Dist. LEXIS 135286 at *28 (D. Me. 
+Aug. 10, 2018)  (concluding on summary judgment that a 
+reasonable factfinder could conclude that an employee 
+was “demoted, ” and thus subjected to an adverse 
+employment action, where he was told that if he wanted 
+to come back from FMLA leave he could only return in a 
+general maintenance position). But see Tomasini v. U.S. 
+Postal Serv. , No. 17 -1552 (MEL), 2022 WL 889863, at 
+*26 2022 U.S. Dist. LEXIS 53817, at *71 (D.P.R. Mar. 
+24, 2022)  (“[A] purely  lateral transfer, that is, a transfer 
+that does not involve a demo tion in form or substance, 
+cannot rise to the level of a materially adverse 
+employment action ” (alteration in Tomasini ) (emphasis in original) (quoting Marrero v. Goya of P.R., Inc.  304 F.3d 
+7, 23 (1st Cir. 2002) ). 
+  
+Third, Mr. Ardito alleges that his manager issued a 
+negative performance evaluation after receiving praise 
+from Steering Committee members, and after years of 
+positive evaluations, consistently successful sales, and 
+high-performance metrics. See First  Am. Compl.  ¶¶ 
+139-143. Accepting Mr. Ardito’s assertions as true, such “ 
+‘unwarranted ’ negative job evaluations may constitute an 
+adverse employment action ” and would contribute to a 
+hostile work environment when cumulatively viewed 
+alongside his  other allegations. LaBrecque v. Mabus , No. 
+2:14-cv-00357 -JAW, 2017 WL 650060 at * –––– , 2017 
+U.S. Dist. LEXIS 21815 at *67 (D. Me. Feb. 16, 2017) . 
+  
+Finally, Mr. Ardito also alleges that SSP limited his travel 
+opportunities, failed to respond to h is concerns for several 
+months and subsequently insinuated that he had not made 
+a complaint, praised Mr. West for sharing information 
+while criticizing Mr. Ardito, disclosed personal 
+information to Mr. Ardito’s daughter and her employer in 
+the demand lette r, and otherwise berated Mr. Ardito and 
+pressured him to engage in illegal conduct. Accepted as 
+true and viewed cumulatively, these allegations plausibly 
+constitute a hostile working environment in combination 
+with the other allegations discussed above. See 
+Rodr íguez-Vives , 743 F.3d at 285  (explaining that 
+restricting an employee’s access to professional 
+advancement opportunities could reasonably deter an 
+employee from reporting illegal employer conduct (citing 
+Burlington Northern , 548 F.3d at 69 )); Tomasini , 2022 
+WL 889863 at *25, 2022 U.S. Dist. LEXIS 53817 at 
+*68-69 (“Discipline or a reprimand for the purposes of 
+retaliation may constitute an advers e employment action 
+if it was ‘undeserved ’ or ‘unfairly ’ imposed and if it 
+carries ‘tangible consequences ’ ” (quoting Espinal v. 
+Nat’l Grid NE Holdings 2, LLC , 794 F. Supp. 2d 285, 293 
+(D. Mass. 2011) ). But s ee Bhatti v. Trs. of Bos. Univ. , 659 
+F.3d 64, 73 (1st Cir. 2011)  (“[A] criticism that carries 
+with it no consequences is not materially adverse and 
+therefore not actionable ”). 
+  
+A reasonable person could find that such actions could 
+reasonably interfere with an employee’s job and go 
+beyond the normal unpleasantness of a work environment 
+or tension between supervisor and supervisee. Moreover, 
+it is plausible that an employee would be deterred from 
+reporting perceived illegality if they knew they would be 
+pressured to engage in conduct they perceived as illegal, 
+their personal information would be disclosed to others 
+without their knowledge and consent, they would be 
+berated and crit icized by their supervisors, they would 
+have job responsibilities and promotional opportunities 
+Ardito v. Solvay, S.A., Slip Copy (2022)   
+ 
+ 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  23 
+ taken away, and as a consequence, experience extreme 
+job-related stress and anxiety. This is ultimately a 
+question of fact that cannot be answered at this stage  in 
+the proceedings. See Thayer , 2011 WL 2682723, at * ––––  
+2011 U.S. Dist. LEXIS 74229, at *44 . 
+  
+ 
+3. Causal Link  
+*25 Finally, Mr. Ar dito has sufficiently alleged a causal 
+link. “One way of showing causation is by establishing 
+that the employer’s knowledge of the protected activity 
+was close in time to the employer’s adverse action. ” 
+Wyatt v. Cit y of Bos. , 35 F.3d 13, 16 (1st Cir. 1994) ; see 
+also Taghavidinani v. Riverview Psychiatric Ctr. , No. 
+1:16-cv-00208 -JDL, 2018 WL 1156287 at * –––– , 2018 
+U.S. Dist. LEXIS 35403 at *17 (D. Me. Mar. 5, 2018)  
+(quoting Daniels v. Narraguagus Bay Health Care 
+Facility , 2012 ME 80, 45 A.3d 722, 728 (Me. 2012) ). 
+  
+Here, Mr. Ardito sufficiently alleged a causal link 
+between his various reports to SSP regarding his concerns 
+about the inappropriate disclosures a nd NDA violations 
+and SSP’s alleged retaliatory actions. First, Mr. Ardito 
+alleges that in January 2018, he first informed Ms. Tong 
+and Mr. Sanner of his concerns about misappropriation of 
+confidential information. It was this same month that Mr. 
+West was hired for the west coast position instead of Mr. 
+Ardito. It was also around this same time that SSP 
+allegedly began to strip Mr. Ardito of his customers and 
+reassign him to lower profile clients. It is unclear from the 
+First Amended Complaint whether the a lleged retaliatory 
+actions occurred before or after Mr. Ardito reported his 
+concerns, which is itself sufficient justification for the 
+Court’s denial of this pending motion. However, based on 
+the pleadings, a reasonable person could conclude that 
+these eve nts occurred in close proximity.  
+  
+Mr. Ardito also made additional reports in the summer of 
+2018 and in October 2018, and he alleges that around this time he was criticized, his job changed and his client base 
+dwindled. First Am. Compl.  ¶¶ 60-61. Furthermo re, it was 
+in March 2020, three weeks after SSP attempted to 
+expedite the MHRC process, that SSP sent a demand 
+letter to Mr. Ardito’s daughter and her law firm. Again, 
+from the First Amended Complaint, Mr. Ardito has 
+alleged the retaliatory conduct occurre d in close 
+proximity to his reports. Finally, Mr. Ardito alleges that it 
+was only after he testified at the MHRC hearing that he 
+received a negative performance review and that the CEO 
+“changed his mind ” about Mr. Ardito’s involvement in 
+the Steering Commi ttee. For the purposes of dismissal, 
+Mr. Ardito has sufficiently alleged a causal connection.  
+  
+ 
+ 
+VI. SUMMARY  
+The Court concludes that Mr. Ardito has plausibly alleged 
+a claim for a retaliatory hostile work environment under 
+the MWPA and MHRA.  
+  
+ 
+ 
+VII. CONCLUSION  
+The Court OVERRULES Solvay Specialty Polymers 
+USA, LLC’s objections to Mark Ardito’s Praecipe (ECF 
+No. 32) and DENIES Solvay Specialty Polymers U SA, 
+LLC’s motion to dismiss Mark Ardito’s First Amended 
+Complaint (ECF No. 25).  
+  
+SO ORDERED.  
+  
+All Citations  
+Slip Copy, 2022 WL 2132368  
+ 
+End of Document  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works.  
+ 
+ 
+ 
+ 

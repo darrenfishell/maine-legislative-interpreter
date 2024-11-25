@@ -1,0 +1,186 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from scanned originals with text recognition applied 
+(searchable text may contain so me errors and/or omissions) 
+ 
+ 
+2 Date: 5 / 3 t/ ;),_ 0( 7 L.D. 406 
+(Filing No. S-l 11 ) 
+3 ENERGY, UTILITIES AND TECHNOLOGY 
+4 Reproduced and distributed under the direction of the Secretary of the Senate. 
+5 STATE OF MAINE 
+6 SENATE 
+7 128TH LEGISLATURE 
+8 FIRST REGULAR SESSION 
+9 COMMITTEE AMENDMENT "A.." to S.P. 133, L.D. 406, Bill, "An Act To 
+IO Amend the Law Regarding Joint Use of Ce11ain Utility and Telecommunications 
+11 Infrastructure" 
+12 Amend the bill by striking out eve1ything after the enacting clause and before the 
+13 summary and inse11ing the following: 
+14 'Sec. 1. 35-A MRSA §711, as amended by PL 2011, c. 623, Pt. B, §4, is fmiher 
+15 amended to read: 
+16 §711. Joint use of equipment 
+17 1. Joint use permitted. The commission may order that joint use be permitted and 
+18 prescribe reasonable compensation and reasonable terms and conditions for the joint use 
+19 when, after a hearing had upon its own motion or upon complaint of a public utility, voice 
+20 service provider, dark fiber provider, 1.vholesale competitive local mwhange carrier or 
+21 cable television system joint use entity affected, it finds the following: 
+22 A. That public convenience and necessity require the use by one public utility, voice 
+23 service provider, dark fiber provider, \Vholesale competitive local eKchange can-ier or 
+24 cable television system of the conduits, subways, ',Vires, a joint use entity to provide 
+25 nondiscriminatory access to any poles, pipes or other equipment, or any part of them, 
+26 on, over or under any street or highway and belonging to another public utility, voice 
+27 service provider, dark fiber provider, wholesale competitive local exchange carrier or 
+28 cable television S;'y'stem ducts, conduits or rights-of-way owned or controlled by 
+29 another joint use entity; 
+30 B. That joint use will not result in ineparable injury to the owner or other users of 
+31 the conduits, subv,rays, 1.vires, poles, pipes poles, ducts, conduits or other equipment 
+32 rights-of-way or in any substantial detriment to the service; ana 
+33 C. That the public utilities, voice service provider, dark fiber provider, v,rholesale 
+34 competitive local exchange carrier or cable television system joint use entities have 
+3 5 failed to agree upon the use or the terms and conditions or compensation for the use~~ 
+36 and 
+Page 1 -128LR0657(02)-l 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A "to S.P. 133, L.D. 406 
+1 D. That the joint use entity seeking access to the poles, ducts, conduits or rights-of-
+2 way owned or controlled by another joint use entity has the technical and financial 
+3 capabilities to fulfill its obligations related to such joint use. 
+4 2. Liability of user. If joint use is ordered, the public utility, voice service provider, 
+5 dark fiber provider, v,rl1olesale competitive local mwhange carrier or cable television 
+6 system joint use entity to whom the use is permitted is liable to the owner or other users 
+7 of the conduits, subways, v,rires, poles, pipes or other equipment poles, ducts, conduits or 
+8 rights-of-way for damage that may result from its use to the property of the owner or 
+9 other users. 
+10 3. Interests of customers. Any actions taken or orders issued by the commission 
+1 1 under this section shall must take into account the interests of the subscribers customers 
+12 of the affected cable television system, as well as the customers of the affected public 
+13 utilities joint use entities. 
+14 4. Rules. The commission shall adopt a--mle rules governing the resolution of pole 
+15 attachment rate disputes.,.----+fIB and the rates, terms and conditions of joint use. The rules 
+16 must promote competition, further the state broadband policy set forth in section 9202-A 
+17 and ensure safe, nondiscriminat01y access on just and reasonable te1ms. The rules must 
+18 also include a process for ensuring that a new joint use entity seeking access to the poles, 
+19 ducts, conduits or rights-of-way of another joint use entity meets the requirements of 
+20 subsection I, paragraph D. In establishing rates, the commission shall consider various 
+21 formulas, including, but not limited to, the fonnula adopted by the Federal 
+22 Communications Commission as codified in 47 Code of Federal Regulations, Part 1, 
+23 Subpart J, as amended. Rules adopted or amended pursuant to this subsection are routine 
+24 technical rules as defined in Title 5, chapter 375, subchapter 2-A. 
+25 5. Dark fiber proYider. This section applies to a dark fiber provider only with 
+26 respect to the construction and maintenance of federally supported dark fiber. 
+27 6. Limited jurisdiction. A joint use entity not othe1wise subject to the jurisdiction 
+28 of the commission is subject to commission jurisdiction only for the limited purpose of 
+29 matters relating to the use of the poles, conduits, ducts or rights-of-way in accordance 
+30 with this section. 
+31 7. Definitions. As used in this section, unless the context otherwise indicates, the 
+32 following tenns have the following meanings. 
+33 A. "lnfonnation service provider" means a provider of info1mation service as that 
+34 term is defined in 47 United States Code, Section 153(24). 
+35 B. "Joint use entity" means a public utility, voice service provider, dark fiber 
+36 provider, wholesale or retail competitive local exchange catTier, cable television 
+3 7 system, unlit fiber provider, telecommunications service provider or information 
+38 service provider. 
+39 C. "Telecommunications service provider" means a provider of telecommunications 
+40 service as that term is defined in 47 United States Code, Section 153(53). 
+41 D. "Unlit fiber" means one or more strands within a bundle of fiber-optic cable 
+42 through which an associated light signal or light communication transmission must be 
+Page 2 -128LR0657(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT "A "to S.P. 133, L.D. 406 
+1 provided to provide communications service, but excluding the electronic equipment 
+2 required in order to render the fiber capable of transmitting communications. 
+3 E. "Unlit fiber provider" means a provider of unlit fiber. 
+4 Sec. 2. 35-A MRSA §2301, as amended by PL 2011, c. 623, Pt. B, §6, is further 
+5 amended to read: 
+6 §2301. Construction, maintenance and operation of lines 
+7 Except as limited, every voice service provider, 1.vholesale competitive local 
+8 exchange carrier ana, telecommunications service provider as defined in section 711, 
+9 subsection 7, paragraph C, unlit fiber provider as defined in section 711, subsection 7, 
+10 paragraph E, info1mation service provider as defined in section 711, subsection 7, 
+11 paragraph A, dark fiber provider for the purposes of constructing and maintaining its 
+12 federally s,1pported dark fiber and every corporation organized for the purpose of 
+13 transmitting television signals by wire may construct, maintain and operate its lines upon 
+14 and along the route or routes and between the points stated in its certificate of 
+15 incorporation; and may construct its lines and necessary erections and fixtures for them 
+16 along, over, under and across any of the roads and streets and across or under any of the 
+17 waters upon and along the route or routes subject to the conditions and under the 
+18 restrictions provided in this chapter and chapter 25. 
+19 Sec. 3. 35-A MRSA §2501, sub-§2, as amended by PL 2009, c. 612, §8, is 
+20 further amended to read: 
+21 2. Applicability of section 2503. Except as otherwise provided, a person may not 
+22 construct facilities upon and along highways and public roads without applying for and 
+23 obtaining a written location pe1mit from the applicable licensing authority under section 
+24 2503. Included within this requirement is eve1y person operating telephones or 
+25 transmitting television signals by wire; every person that owns, controls, operates or 
+26 manages any pipeline within or through this State for the transportation as a common 
+27 carrier for hire of oil, gas, gasoline, petroleum or any other liquids or gases; every water 
+28 utility and eve1y person making, generating, selling, distributing and supplying gas or 
+29 electricity; every water utility or sewer company, district or system privately or 
+30 municipally owned; every municipally owned or operated fire alarm, police alarm or 
+31 street lighting circuit or system; eve1y cooperative organized under chapter 35; the 
+32 University of Maine System, for purposes described in section 2301-A; every dark fiber 
+33 provider for the purposes of constructing and maintaining its federally supported dark 
+34 Reef; every unlit fiber provider as defined in section 711, subsection 7, paragraph E; 
+35 eve1y telecommunications service provider as defined in section 711, subsection 7, 
+36 paragraph C; eve1y info1mation service provider as defined in section 711, subsection 7, 
+3 7 paragraph A; and any other person engaged in telecommunications or the transmission of 
+38 heat or electricity. 
+39 Sec. 4. Rules. The Public Utilities Commission shall amend its rules adopted 
+40 pursuant to the Maine Revised Statutes, Title 35-A, section 711, subsection 4 by Januaiy 
+41 15, 2018 to address the te1ms and conditions of joint use.' 
+Page 3 -128LR0657(02)-1 
+COMMITTEE AMENDMENT 
+COMMITTEE AMENDMENT" A "to S.P. 133, L.D. 406 
+SUMMARY 
+2 This amendment replaces the bill. Like the bill, it adds unlit fiber providers, 
+3 telecommunications service providers and info1mation service providers to the list of 
+4 entities that may be subject to an order for joint use of equipment. It defines the te1m 
+5 "joint use entity" and requires that the interests of customers of a joint use entity be 
+6 considered in any order or actions taken by the Public Utilities Commission. It requires 
+7 that a joint use entity seeking access to the poles, ducts, conduits or rights-of-way owned 
+8 or controlled by another joint use entity have the technical and financial capabilities to 
+9 fulfill its obligations related to such joint use and that the Public Utilities Commission 
+10 develop a process to ensure this through its rules. It requires that rules adopted by the 
+11 Public Utilities Commission promote competition, further the state broadband policy and 
+12 ensure safe, nondiscriminatory access on just and reasonable terms. It requires that the 
+13 Public Utilities Commission amend its rules by January 15, 2018 to address the terms and 
+14 conditions of joint use. It provides that the jurisdiction of the Public Utilities Commission 
+15 over joint use entities not otherwise under its jurisdiction is only for limited purposes, and 
+16 it makes changes to the Maine Revised Statutes, Title 35-A, sections 2301 and 2501 for 
+17 consistency with those provisions. 
+18 FISCAL NOTE REQUIRED 
+19 (See attached) 
+Page 4 -128LR0657(02)-1 
+COMMITTEE AMENDMENT 
+Approved: 05/23/17 feac 
+128th MAINE LEGISLATURE 
+LD 406 LR 657(02) 
+An Act To Amend the Law Regarding Joint Use of Certain Utility and Telecommunications 
+Infrastructure 
+Fiscal Detail and Notes Fiscal Note for Bill as Amended by Committee Amendment 'A" ( S -\ 11} 
+Committee: Energy, Utilities and Technology 
+Fiscal Note Required: Yes 
+Fiscal Note 
+Minor cost increase -Other Special Revenue Funds 
+Any additional costs to the Public Utilities Commission as a result of modifcations to the laws concerning joint use of 
+utility poles, ducts, conduits, or rights-of-ways and the Commission's authority regarding regulation of them are 
+anticipated to be minor and can be absorbed within existing budgeted resources. 
+LR0657(02) -Fiscal Note -Page I of 1 

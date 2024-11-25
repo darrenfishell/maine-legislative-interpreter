@@ -1,0 +1,77 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2022
+Legislative Document No. 1819
+H.P. 1352 House of Representatives, December 17, 2021
+An Act To Define "Discrete Electric Generating Facility"
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Received by the Clerk of the House on December 15, 2021.  Referred to the Committee on 
+Energy, Utilities and Technology pursuant to Joint Rule 308.2 and ordered printed pursuant to 
+Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative GROHOSKI of Ellsworth.
+
+Page 1 - 130LR2391(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3209-A, sub-§1, ¶A-1 is enacted to read:
+3 A-1.  "Discrete electric generating facility" means a facility that:
+4 (1)  Is not located on a lot or parcel or more than one adjoining lot or parcel created 
+5 by a division on or after November 22, 2019, except when the commission 
+6 determines that the primary purpose for such division was not the development of 
+7 a discrete electric generating facility on the resulting lot or parcel;
+8 (2)  Has its own point of interconnection with an investor-owned transmission and 
+9 distribution utility separate from any adjacent facility, including distinct metering 
+10 and the ability to be connected to or disconnected from the transmission and 
+11 distribution utility's system;
+12 (3)  Is fenced separately from any adjacent facility and not commingled with or 
+13 connected to any adjacent facility other than by the investor-owned transmission 
+14 and distribution utility's system;
+15 (4)  Has generation components, including, but not limited to, panels and inverters, 
+16 that are separate from the generation components of any adjacent facility but may 
+17 share nonoperational infrastructure with an adjacent facility such as access roads, 
+18 utility poles and other infrastructure necessary to provide physical access to each 
+19 facility; and
+20 (5)  Is located on a lot or a parcel or more than one adjoining lot or parcel where 
+21 the total nameplate capacity of the facility does not exceed 5 megawatts.
+22Sec. 2.  35-A MRSA §3209-A, sub-§1, ¶B, as enacted by PL 2019, c. 478, Pt. A, 
+23 §3, is amended to read:
+24 B.  "Distributed generation resource" means an a discrete electric generating facility 
+25 that uses a renewable fuel or technology under section 3210, subsection 2, paragraph 
+26 B‑3 and is located in the service territory of a transmission and distribution utility in 
+27 the State.
+28Sec. 3.  35-A MRSA §3481, sub-§4-A is enacted to read:
+294-A.  Discrete electric generating facility.  "Discrete electric generating facility" has 
+30 the same meaning as in section 3209-A, subsection 1, paragraph A-1.
+31Sec. 4.  35-A MRSA §3481, sub-§5, as enacted by PL 2019, c. 478, Pt. B, §1, is 
+32 amended to read:
+335.  Distributed generation resource.  "Distributed generation resource" means an a 
+34 discrete electric generating facility with a nameplate capacity of less than 5 megawatts that 
+35 uses a renewable fuel or technology under section 3210, subsection 2, paragraph B‑3 and 
+36 is located in the service territory of a transmission and distribution utility in the State.
+37SUMMARY
+38 This bill defines "discrete electric generating facility" for the purposes of net energy 
+39 billing and distributed generation laws.38
+39

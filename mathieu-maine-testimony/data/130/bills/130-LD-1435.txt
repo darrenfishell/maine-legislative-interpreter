@@ -1,0 +1,97 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1435
+H.P. 1051 House of  Representatives,  April 12, 2021
+An Act  Regarding the  Solicitation  of Contracts  for Distributed  
+Resources That  Use Renewable Energy
+Received by the Clerk of the House on April  8, 2021.  Referred to  the Committee  on 
+Energy, Utilities and Technology  pursuant  to Joint Rule  308.2 and ordered printed  pursuant to  
+Joint Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative FOSTER of Dexter.
+
+Page 1 - 130LR1649(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3210-F, sub-§1, ¶B, as enacted by PL 2013, c. 454, §2, is 
+3 amended to read:
+4 B.  "Long-term energy contract" means a contract with an investor-owned transmission 
+5 and distribution utility entered into under section 3210‑C, 3210-H or section 3604.
+6Sec. 2.  35-A MRSA §3210-H is enacted to read:
+7§3210-H.  Long-term contracts
+8 The commission shall direct investor-owned transmission and distribution utilities to 
+9 enter into contracts for distributed resources pursuant to this section.  For purposes of this 
+10 section, "distributed resource" means an electric generating facility that uses a renewable 
+11 fuel or technology under section 3210, subsection 2, paragraph B-3, regardless of the 
+12 facility's power production capacity, and is located in the service territory of a transmission 
+13 and distribution utility in the State.
+141.  Solicitations.  By January 1, 2025, the commission shall select at least 2 competitive 
+15 solicitations timed to coordinate with other procurements undertaken by the commission. 
+16 Following a review of the bids received, the commission may negotiate with one or more 
+17 potential suppliers of distributed resources.  If only one bid is offered, the commission shall 
+18 ensure that the negotiation with the bidder is based on a full project cost disclosure by the 
+19 potential supplier.  The commissioner shall negotiate a contract of up to 100 megawatts in 
+20 capacity that is commercially reasonable and commits all parties to commercially 
+21 reasonable behavior.  The commission may direct an investor-owned transmission and 
+22 distribution utility to enter into a contract of up to 375 megawatts if the aggregate of 
+23 projected costs of all contracts entered into under this section does not exceed the 
+24 commission's most recent best estimate of the aggregate of costs of long-term contracts 
+25 under section 3210-G.  If the pricing of one or more competitive bids is equivalent, the 
+26 commission shall give preference to a project that:
+27 A.  Supports the rural economy of the State;
+28 B.  Offers a solution to the needs of the electric grid; or
+29 C.  Includes a program to assist low-income residents of the State to obtain the benefits 
+30 of renewable energy.
+312.  Disposition of resources.  As directed by the commission pursuant to this section, 
+32 an investor-owned transmission and distribution utility shall sell distributed resource 
+33 capacity or energy purchased or take other action relative to distributed resource capacity 
+34 or energy.
+353.  Cost and benefit recovery.  The commission shall ensure that all costs and direct 
+36 financial benefits associated with a contract entered into under this section are allocated to 
+37 ratepayers in accordance with section 3210-F.  An amount charged to a ratepayer must 
+38 reflect any price differential that exists at any time during the term of the contract between 
+39 the contract price and the prevailing market price at which the distributed resource is sold 
+40 and any other differences from gains or losses derived from a contract.
+41Sec. 3.  35-A MRSA c. 34-C, as amended, is repealed.
+Page 2 - 130LR1649(01)1SUMMARY
+2 This bill repeals provisions of law regarding distributed generation of electricity and 
+3 directs the Public Utilities Commission by January 1, 2025 to solicit bids from suppliers of 
+4 distributed resources of renewable fuel or technology regardless of power production 
+5 capacity to enter into contracts with transmission and distribution utilities in whose service 
+6 territory the suppliers are located.  The Public Utility Commission is required to ensure that 
+7 all costs and direct financial benefits associated with a contract are allocated to ratepayers 
+8 and that the amount charged to a ratepayer reflects any price differential that exists at any 
+9 time during the term of the contract between the contract price and the prevailing market 
+10 price at which the distributed resource is sold and any other gains or losses derived from 
+11 the contract.2
+3
+4
+5
+6
+7
+8
+9
+10
+11

@@ -1,0 +1,112 @@
+Good afternoon. My name is Henry Sharpe. I am the President of Frenchman Bay United, a coalition 
+opposing the plan by American Aquafarms to use unproven, heavily polluting technology for the largest 
+salmon farm in North America located just 2000 feet from Acadia National Park. 
+That project consisted of two lease applications, each with its own DEP MEPDES application. The two 
+facilities would have discharged 4 billion gallons of untreated effluent ( 3x the treated effluent from the 
+14 municipal sewage treatment plants serving all of Manhattan ). Each of the two facilities would have 
+discharged nearly 1.2 tons of nitrogen (think fertilizer) per day. 
+The American Aquafarms project exposed some costs and risks that suggest some consideration going 
+forward. 
+• After 30 years of heavy investments and pursuit of the practice, ocean-based salmon farming 
+has been banned on North America’s entire west coast. Argentina has banned the practice 
+entirely. A month ago, Nova Scotia put a moratorium on all new applications for net pen salmon 
+farming while it engages in a process estimated to take three years to evaluate suitable 
+locations. And, in January 2023, Norway imposed a 40% resource use tax on any income derived 
+from ocean-based, net pen farming. These bans, moratoriums, and taxes guarantee that Maine 
+will be subject to huge financial pressures to develop the industry in territory that’s closest to 
+the world’s largest market, the US. Since all these regions have heavily engaged in fin-fishing 
+only to ban or reconsider the practice suggests that Maine (which has far less experience) has 
+much to learn. The lessons learned from around the world suggest that the long-term costs and 
+risks to the community as a whole outweigh any short-term benefits to investors seeking to 
+profit by extracting our resources. 
+• One key provision of the Clean Air and Water Acts is the intent to produce zero discharge. 
+Another key provision is that permitted projects must be reassessed every five years to use the 
+“best practicable” technology in pursuit of producing zero discharge. For salmon farming 
+specifically, and for finfish production in general, land-based facilities demonstrate proven 
+technologies that produce no nutrient, chemical, pharmaceutical, pesticide, bacterial or viral 
+discharges, no wild escapes, that can be renewably powered (instead of by diesel, among the 
+dirtiest fossil fuels), and that withdraw groundwater once without taxing aquifers. Importantly, 
+these land-based facilities can be located at the source of consumer demand, thereby 
+eliminating the significant climate impact of transportation. That sets the standard of practice 
+for use of the “best practicable technology” that should be required, and which therefore should 
+ban ocean-based fin-fishing. As Maine considers fin-fish aquaculture, it should limit production 
+to land-based production, and should consider not only ways to sell fish, but the technology 
+needed to raise it sustainably on land.  
+• At 2.35 tons/day, the total nitrogen discharged by the American Aquafarms project – think 
+fertilizer -- depending on the expert you believe, would have been equivalent to the nitrogen 
+discharged by Maine’s four to ten largest cities combined: So, at a minimum, more nitrogen 
+than Portland, Lewiston, Bangor, and South Portland combined would produce, and perhaps, on 
+the upper end, more nitrogen than Auburn, Biddeford, Sanford, Westbrook, and Augusta would 
+also have added. All into a small bay that two independent oceanographic models say does not 
+flush. The scale of this project, the speed, consequence, and multiple mechanisms for failures 
+that could manifest despite efforts to monitor them, the unproven nature of the underlying 
+technology, and the limited disclosure of financial capacity to avert harm were all not 
+considered during the application process. That should change as we consider aquaculture in 
+the future. 
+• American Aquafarms filed two separate MEPDES applications. Neither application disclosed that 
+the other sister project would be discharging the same volume of untreated effluent just 2.2 
+miles away. Both in terms of the proposed nitrogen load (that’s the load that would have been 
+discharged), and the permitted nitrogen loads (that’s the load that would supposedly use 20% of 
+the remaining assimilative capacity), current DEP regulations make it legal to ignore combined 
+impacts. These ignored combined impacts include not only discharges from multiple, but related 
+MEPDES discharges as described, but also from other sources like discharges to air and water 
+from diesel generators, or from ship and truck traffic, or from fish processing facilities that might 
+be part of the same large project, or from other unrelated, perhaps existing projects in the area. 
+Additionally, DEP regulations currently have no way to evaluate the carrying capacity of an 
+estuarine water body. If we want to assure the abundance of our marine habitats needed to 
+support the Public Trust vested in our regulatory agencies, understanding both combined 
+impacts, and overall carrying capacity is essential. 
+• To detail one aspect of this idea a bit further, the DEP’s permitting process didn’t consider the 
+potential adverse impacts from transporting, storing, and burning the proposed 80,000 gallons 
+of diesel fuel that would have been required every 7-10 days to generate the power needed to 
+pump water for the American Aquafarms project. Although a so-called “new minor source” 
+permit may have been required for generator’s air emissions, emissions into the water from this 
+activity were not considered. Once again, current regulations provide no way to consider the 
+combined, cumulative impacts of these air and water emissions in the scope of the whole 
+project. 
+• In both MEPDES applications, American Aquafarms assumed that fresh, unpolluted water would 
+continually move across the lease sites to transport waste away as it would in a river-based flow 
+system. This is a flawed assumption that yields erroneous results. Why? Because the proposed 
+discharges are in a coastal estuary where currents don’t simply flow downstream. Instead, they 
+are driven by complex, time-varying tidal flows, and by fresh and saltwater density gradients 
+that produce recirculating current gyres. Instead of flushing, these recirculating current gyres act 
+to both concentrate waste, and transport it further inland to higher, more sensitive 
+embayments where it then threatens sensitive eelgrass populations in nursery habitat areas 
+where nitrogen concentrations are already near, and in some cases, already exceeding 
+maximum limits. In summary, conventional methods used by the DEP for estimating and 
+regulating far-field dilution that were appropriate for river-based flows are inadequate for 
+understanding the temporal and spatial distribution of nutrients in coastal, estuarine 
+environments.  
+• Modeling and analysis by American Aquafarms’ water quality consultant was limited to 2D 
+Cormix software simulations. They acknowledged that this tool only provided a 15 second planar 
+snapshot of nutrient mixing and that it provides virtually no 3D insight into either the temporal 
+or spatial distribution of effluent across the bay. Modern, 4D (space and time) hydrodynamic 
+modeling tools are available that are cost-effective, well-tested, widely recognized across the 
+industry, and open-sourced. They are used in many regions but are not required in Maine. If 
+employed, they provide insight into the cumulative impacts of not only individual, but multiple 
+projects producing chemical and or nutrient discharges. My former colleague Chris Kincaid, from 
+the University of Rhode Island’s Graduate School of Oceanography and I used the Regional 
+Ocean Modelling System (ROMS) to definitively demonstrate that discharges from the American 
+Aquafarms project would not flush from the bay. 4D modeling tools like ROMS should be a 
+prerequisite for any Maine MEPDES application in tidal estuaries. 
+• The DEP currently uses two nutrient concentration thresholds to determine a parameter called 
+the remaining assimilative capacity that forms the basic criteria evaluated in MEPDES 
+applications: the less-stringent “total nitrogen threshold” of (0.32 mg/L), and the more-stringent 
+“eelgrass nitrogen threshold” (0.45mg/L) that applies when discharges are in proximity to 
+eelgrass populations. Our hydrodynamic modeling in both Frenchman’s Bay and other locations 
+suggests that in tidal estuaries like the sites proposed by the American Aquafarms project, 
+nutrients are transported away from discharge sites to areas that are higher in bays and further 
+inland. When the initial discharge occurs in areas without eelgrass, the less stringent “total 
+nitrogen” threshold is applied. However, because data suggests that nutrients are frequently 
+transported from the original discharge sites to more sensitive eelgrass areas before they can be 
+consumed by biological activity, we therefore recommend elimination of the less stringent, 
+(0.32 mg/L) non-eelgrass total nitrogen threshold, so that only the more stringent (0.45 mg/L) 
+eelgrass nitrogen threshold is used to calculate remaining assimilative capacity. 
+• As our climate becomes warmer and wetter, nitrogen delivered into tidal estuaries from both 
+land-based freshwater sources, and from deep ocean currents that intrude into all of Maine’s 
+bays are anticipated to rise significantly. This will exacerbate the algal blooms and 
+eutrophication that we’ve already seen increasing along our coastlines. In the short term, we 
+won’t be able to control those sources so we should limit the nutrient discharges from sources 
+like aquafarms and sewage treatment plants that we can control. MA, RI, CT, and NY have 
+protected their waters from algal blooms and eutrophication by requiring removal of nitrogen 
+from municipal sewage discharges. We should do the same. 

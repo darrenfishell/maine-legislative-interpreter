@@ -1,0 +1,120 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper128th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2017
+Legislative Document No. 1485
+S.P. 515 In Senate, April 18, 2017
+An Act  Regarding MaineCare Coverage  for Telehealth Services
+(AFTER  DEADLINE)
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+205.
+Reference to the Committee on Health  and Human Services suggested and  ordered printed.
+HEATHER  J.R. PRIEST
+Secretary of the Senate
+Presented by Senator GRATWICK of Penobscot.
+Cosponsored by Representative MASTRACCIO  of Sanford and
+Senators: KATZ of Kennebec, LIBBY of Androscoggin, SAVIELLO  of Franklin, 
+Representatives: PIERCE  of Dresden, RYKERSON of Kittery.
+
+ 
+ Page 1 - 128LR2196(01) -1 
+ Be it enacted by the People of the State of Maine as follows:  1 
+Sec. 1.  22 MRSA §3173 -H is enacted to read:  2 
+§3173 -H.  Services delivered through telehealth  3 
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 4 
+following term s have the following meanings.  5 
+A.  "Patient originating site" means a site where a patient is physically located at the 6 
+time that health care services are provided through telehealth.  7 
+B.  "Provider distant site" means a site where a provider is physically located while 8 
+providing health care services through telehealth.  9 
+C.  "Store and forward transfers" means transmission of a patient's recorded health 10 
+history through a secure electronic system to a provider.  11 
+D.  "Telehealth," as it pertains to the delivery of health care services, means the use 12 
+of interactive real -time visual and audio or other electronic media for the purpose of 13 
+consultation and education concerning and diagnosis, treatment, care management 14 
+and self -management of a patient's physical and me ntal health and includes real -time 15 
+interaction between the patient at a patient originating site and the telehealth provider 16 
+at a provider distant site, synchronous encounters, asynchronous encounters, store 17 
+and forward transfers and remote patient monitor ing. "Telehealth" does not include 18 
+the use of audio -only telephone, facsimile machine, e -mail or texting.  19 
+E.  "Telemonitoring," as it pertains to the delivery of health care services, means the 20 
+use of information technology to remotely monitor a patient's health status via 21 
+electronic means through the use of clinical data while the patient remains in a 22 
+residential setting, allowing the provider to track the patient's health data over time. 23 
+Telemonitoring may or may not take place in real time.  24 
+2.  Reimburse ment.  Services under MaineCare that are delivered through telehealth 25 
+must be reimbursed at the same rates as those services that are not delivered through 26 
+telehealth.  27 
+3.  Standards.  The department shall develop standards to facilitate and integrate the 28 
+use of telehealth under MaineCare. In developing standards, the department must consult 29 
+with health care providers, health care policy analysts, persons with expertise in health 30 
+care finance and the Legislature. The department may solicit, apply for and rec eive grants 31 
+that support the development of the technology infrastructure necessary to support the 32 
+delivery of health care services through telehealth and that support access to equipment, 33 
+technical support and education related to telehealth for health ca re providers.  34 
+4.  Annual report.  Beginning April 1, 2018 and annually thereafter, the department 35 
+shall report to the joint standing committee of the Legislature having jurisdiction over 36 
+health and human services matters on the use of telehealth in MaineCa re, including its 37 
+effect on health care costs, quality and access.  38 
+ 
+ Page 2 - 128LR2196(01) -1 
+ 5.  Rules.  The department shall adopt rules as necessary to implement this section. 1 
+Rules adopted pursuant to this subsection are major substantive rules as defined in Title 2 
+5, chapter 375 , subchapter 2 -A.  At a minimum, any rules adopted by the department 3 
+must:  4 
+A.  Define health care provider to include any licensed, registered or certified 5 
+provider in this State;  6 
+B.  Clarify that the practice of medicine occurs at a patient originating si te; 7 
+C.  Require that an originating facility fee may be billed for services provided 8 
+through telehealth only if a patient originating site is a health care provider's facility, 9 
+part of a hospital system, health care clinic or federally qualified health cen ter; 10 
+D.  Clarify that a health care provider at a patient originating site and a health care 11 
+provider at a provider distant site may be part of the same organization and that the 12 
+provider at the patient originating site may receive reimbursement for servic es 13 
+delivered through telehealth if the services are provided by a qualified health care 14 
+professional under contract with the provider at the patient originating site;  15 
+E.  When establishing criteria for a patient's eligibility for telehealth services, provi de 16 
+that the patient is eligible for telehealth services if a health care provider has 17 
+determined the delivery of health care services through telehealth is medically 18 
+appropriate and if the services are covered services under MaineCare;  19 
+F.  When establishin g criteria for a patient's eligibility for telemonitoring services, 20 
+eliminate any requirement that the patient have had at least 2 emergency room visits 21 
+or hospitalizations related to the patient's diagnosis in the past calendar year;  22 
+G.  Prohibit the use of geographic restrictions or requirements as a condition of 23 
+coverage;  24 
+H.  Prohibit restrictions on requirements for the patient originating site;  25 
+I.  Require health care providers to use in good faith equipment and products that are 26 
+compliant with standar ds required by the federal Health Insurance Portability and 27 
+Accountability Act of 1996, Public Law 104 -191; and  28 
+J.  Require the informed consent of a patient before the first telehealth encounter with 29 
+a health care provider.  30 
+Sec. 2.  Rulemaking.  Before De cember 31, 2017, the Department of Health and 31 
+Human Services shall amend its rule Chapter 101: MaineCare Benefits Manual, Chapter 32 
+I, Section 4, Telehealth Services to make the changes necessary to be consistent with the 33 
+provisions of this Act.  34 
+SUMMARY  35 
+This bill requires that services under MaineCare that are provided through telehealth 36 
+be reimbursed at the same rates as those services that are not provided through telehealth. 37 
+The bill also requires the Department of Health and Human Services to amend its ru le 38 
+relating to MaineCare coverage for services delivered through telehealth.  39 

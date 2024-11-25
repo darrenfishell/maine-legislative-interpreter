@@ -1,0 +1,93 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+SECOND REGULAR SESSION-2020
+Legislative Document No. 2097
+H.P. 1494 House of  Representatives, February 6, 2020
+An Act  To Establish Requirements  for the Construction  of Elective 
+Transmission Lines by Transmission  and Distribution Utilities
+Approved for  introduction by a majority  of the Legislative Council  pursuant to Joint Rule 
+203.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GROHOSKI of Ellsworth.
+Cosponsored by Senator LAWRENCE of York and
+Representatives: BERRY of Bowdoinham, Speaker GIDEON of Freeport,  GRIGNON of 
+Athens, KESCHL of Belgrade, RILEY of Jay, Senators: CYRWAY of Kennebec, President JACKSON of Aroostook, VITELLI of Sagadahoc.
+
+Page 1 - 129LR2767(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  35-A MRSA §3131, sub-§1-B is enacted to read:
+31-B.  Elective transmission line.  "Elective transmission line" means a transmission 
+4line that is:
+5A.  Not constructed primarily to provide electric reliability within the State, as 
+6determined by the commission; and
+7B.  Not constructed primarily to provide electricity to retail customers within the 
+8State.
+9Sec. 2.  35-A MRSA §3131, sub-§4-A, as enacted by PL 2009, c. 655, Pt. A, §3, 
+10is repealed.
+11Sec. 3.  35-A MRSA §3132, sub-§6-A, as enacted by PL 2009, c. 655, Pt. A, §5, 
+12is repealed.
+13Sec. 4.  35-A MRSA §3132, sub-§6-C is enacted to read:
+146-C.  Elective transmission line; certificate of public convenience and necessity.  
+15The commission shall evaluate and render a decision on any petition for a certificate of 
+16public convenience and necessity made by a transmission and distribution utility for an 
+17elective transmission line in accordance with this subsection. The commission may issue 
+18a certificate only if the petitioner has demonstrated:
+19A.  That the petitioner provided equal access to rights-of-way and data and 
+20information about the petitioner's transmission system to any person seeking to 
+21compete with the petitioner to construct the elective transmission line; and
+22B.  That the proposed elective transmission line:
+23(1)  Will not use ratepayer-funded assets; or
+24(2) Will use ratepayer-funded assets and:
+25(a)  The petitioner made these assets available on equal terms to any person 
+26seeking to compete with the petitioner to construct the elective transmission 
+27line; and
+28(b)  The petitioner agrees to provide a benefit to ratepayers in the State of 
+29equal value to the ratepayer-funded assets used to construct the elective 
+30transmission line. The commission shall by order establish the value of 
+31ratepayer-funded assets used to construct the elective transmission line and 
+32the benefit amount and method of delivery with preference to a reduction in 
+33electricity rates.
+34The commission shall adopt rules necessary to implement this subsection.  Rules adopted 
+35pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+36subchapter 2-A.
+Page 2 - 129LR2767(01)-11SUMMARY
+2This bill establishes requirements for the approval of construction of elective 
+3transmission lines when the party seeking approval from the Public Utilities Commission 
+4is a transmission and distribution utility.   The bill defines "elective transmission line" as 
+5a transmission line that is not being constructed primarily for reliability purposes or to 
+6serve retail customers in the State.  In addition to meeting the existing requirements in 
+7law for approval of a transmission line, a transmission and distribution utility petitioning 
+8for commission approval for an elective transmission line is required to demonstrate:
+91.  That the petitioner provided equal access to rights-of-way and data and 
+10information about the petitioner's transmission system to any person seeking to compete 
+11with the petitioner to construct the transmission line; and
+122.  That the proposed elective transmission line either will not use ratepayer-funded 
+13assets or will use ratepayer-funded assets and the petitioner made these assets available 
+14on equal terms to any person seeking to compete with the petitioner to construct the 
+15transmission line and agrees to provide a benefit to ratepayers in the State of equal value, 
+16as determined by the commission, to the ratepayer-funded assets used to construct the 
+17transmission line.

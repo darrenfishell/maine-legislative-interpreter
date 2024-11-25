@@ -1,0 +1,80 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper131st MAINE LEGISLATURE
+FIRST REGULAR SESSION-2023
+Legislative Document No. 952
+H.P. 599 House of Representatives, March 2, 2023
+An Act to Create a 21st-Century Electric Grid
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative RUNTE of York.
+Cosponsored by Representative: ZEIGLER of Montville, Senator: VITELLI of Sagadahoc.
+
+Page 1 - 131LR1065(01)1Be it enacted by the People of the State of Maine as follows:
+2CONCEPT DRAFT
+3SUMMARY
+4 This bill is a concept draft pursuant to Joint Rule 208.
+5 This bill would establish the Maine Independent Distribution System Operators or 
+6 "DSO," which would integrate and consolidate efforts that now span several state agencies 
+7 and ensure all electric grids in Maine are operated to optimize efficiency, equity, reliability 
+8 and customer service.  The DSO, which would report to the Public Utilities Commission, 
+9 would accomplish this by overseeing integrated system planning for all electric grids in 
+10 Maine and interconnecting the systems. 
+11 The DSO would have the same roles as the independent system operator of the New 
+12 England region, or "ISO-NE": electric grid operation, market administration and power 
+13 system planning. 
+141.  Scope of duties.  The scope of the DSO's duties would include the following:
+15 A. Act as the sole interface with the ISO-NE; 
+16 B. Operate an open market for distributed generation, functioning similarly to how 
+17 ISO-NE’s wholesale power market operates. Such a market would provide market-
+18 based incentives for growth in renewable distributed energy resources, such as solar, 
+19 wind, biomass and storage and microgrids. The market would not simply be for the 
+20 commodity supply value of the electricity but would include its nonenergy values;  
+21 C.  Review and approve integrated system designs for all utilities to optimize operation, 
+22 meet electric grid modernization goals and provide the basis for revenue requirements 
+23 related to system upgrade capital recovery; 
+24 D.  Assume the role of the nonwires alternative coordinator for the Office of the Public 
+25 Advocate;  
+26 E. Establish and manage energy efficiency programs;
+27 F.  Operate demand response and demand management programs;  
+28 G.  Operate vehicle-to-grid systems, including charging management and charging 
+29 stations, that would allow electric vehicle batteries to function as storage devices, 
+30 charging during times of low demand on the electric grid and providing that stored 
+31 energy to the electric grid during times of high demand; and 
+32 H. Acquire and share real-time data used to operate earnings adjustment mechanisms 
+33 for investor-owned utilities in order to optimize demand management and energy 
+34 efficiency programs.
+352.  Analysis.  Prior to establishing the DSO, this bill would require the Efficiency 
+36 Maine Trust to oversee an analysis by a 3rd-party consultant to:
+37 A. Identify costs and benefits of creating the DSO; 
+38 B. Determine what steps would be required to develop the DSO; 4
+Page 2 - 131LR1065(01)1 C. Assess the DSO's role in accelerating the achievement of Maine’s climate action 
+2 goals and growth in distributed energy resources;  
+3 D. Identify potential improvements in system reliability and performance; 
+4 E. Incorporate a system design that ensures energy equity; and 
+5 F.  Estimate the staffing and budget needed for operation.
+6 The analysis would be required to be completed by January 2024. The bill would also 
+7 provide funding to the Efficiency Maine Trust for the analysis.

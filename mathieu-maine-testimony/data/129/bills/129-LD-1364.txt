@@ -1,0 +1,75 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper129th MAINE LEGISLATURE
+FIRST REGULAR SESSION-2019
+Legislative Document No. 1364
+H.P. 986 House of  Representatives, March 21, 2019
+An Act  Regarding Net Neutrality and  Internet  Policy
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered  
+printed.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative GROHOSKI of Ellsworth.
+Cosponsored by Senator BELLOWS of Kennebec and
+Representatives: BERRY of Bowdoinham, CAIAZZO of Scarborough, DOUDERA of Camden, Speaker GIDEON of  Freeport, Senators: MIRAMANT of Knox, WOODSOME of 
+York.
+
+Page 1 - 129LR2222(01)-11Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  5 MRSA §1541-B is enacted to read:
+3§1541-B.  Net neutrality
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5following terms have the following meanings.
+6A.  "Commit state funds" means to enter into a contract, make a grant or otherwise 
+7commit any state funds, including but not limited to any act that would incur a 
+8financial obligation against the State Government subject to review under section 
+91541, subsection 2.
+10B.  "Internet service provider" has the same meaning as in section 200-B, subsection 
+111-A, paragraph A.
+122.  Provider agreement.  A state agency or instrumentality of the State may not 
+13commit state funds in a manner that the agency or instrumentality knows would result in 
+14a direct payment to an Internet service provider unless:
+15A.  The Internet service provider agrees in writing to conform to the requirements of 
+16the Federal Communications Commission order, FCC 15-24, adopted on February 
+1726, 2015, known as the Open Internet Order;
+18B.  The agency or instrumentality notifies the State Controller of its intent to commit 
+19state funds in a manner that would result in a direct payment to an Internet service 
+20provider and provides at the same time to the State Controller a written agreement 
+21from the Internet service provider that conforms to the requirements of paragraph A; 
+22and
+23C.  The State Controller finds that the requirements of paragraphs A and B have been 
+24satisfied and authorizes the state agency or instrumentality to commit state funds.
+25Nothing in this section limits the authority of the State Controller under any other 
+26provision of law to limit or prohibit a state agency or instrumentality of the State from 
+27committing state funds.
+28Upon receipt of information or complaint from any person that an Internet service 
+29provider may be failing to meet the requirements of an agreement made under this 
+30section, the Attorney General may undertake an investigation and take any action the 
+31Attorney General determines appropriate, including, but not limited to, action pursuant to 
+32section 192.
+33SUMMARY
+34This bill prohibits a state agency or instrumentality from committing state funds in a 
+35manner that the agency or instrumentality knows would result in a direct payment to an 
+36Internet service provider unless the Internet service provider agrees in writing to conform 
+37to the requirements of the Federal Communications Commission order, FCC 15-24, 
+38adopted on February 26, 2015, known as the Open Internet Order.

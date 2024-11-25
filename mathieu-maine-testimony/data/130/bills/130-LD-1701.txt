@@ -1,0 +1,257 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+Printed on recycled paper130th MAINE LEGISLATURE
+FIRST  SPECIAL  SESSION-2021
+Legislative Document No. 1701
+H.P. 1264 House of  Representatives, May 13, 2021
+An Act  To Establish a Managed Care Program  for MaineCare 
+Services
+Received by the Clerk of the House on May  11, 2021.   Referred  to the Committee on 
+Health and Human Services  pursuant to Joint Rule 308.2 and  ordered printed pursuant  to Joint 
+Rule 401.
+ROBERT  B. HUNT
+Clerk
+Presented by Representative MILLETT of Waterford.
+
+Page 1 - 130LR1040(01)1Be it enacted by the People of the State of Maine as follows:
+2Sec. 1.  22 MRSA §3174-FFF is enacted to read:
+3§3174-FFF.  MaineCare reform
+41.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5 following terms have the following meanings.
+6 A.  "Managed care organization" means an entity that contracts with the department to 
+7 provide managed care in the MaineCare program through a health insurer or health 
+8 maintenance organization authorized under Title 24-A that bears full risk under a 
+9 capitated payment.
+10 B.  "Managed care program" means a program of integrated managed care for all 
+11 covered MaineCare services implemented in accordance with this section.
+122.  Managed care program.  The department shall implement a managed care program 
+13 for all covered MaineCare services.  The department has full authority to manage the 
+14 program except that the department may not change eligibility categories and income 
+15 thresholds as determined in this Title.  The department shall include in the requests for 
+16 proposals and in the contract with each managed care organization the requirement that the 
+17 provision of services to members of the MaineCare program must be managed on a 
+18 phased-in schedule over 4 years as provided in this subsection.
+19 A.  The following MaineCare members must be enrolled within 2 years of the 
+20 implementation of a managed care program and in each year thereafter:
+21 (1)  Persons who are eligible for MaineCare under section 3174-G, subsection 1, 
+22 paragraphs A, E, F, G and H; and
+23 (2)  Children who are not disabled and who are eligible for MaineCare under 
+24 section 3174-G, subsection 1, paragraphs B and D.
+25 B.  All of the eligibility groups under section 3174-G, subsection 1 not included in 
+26 paragraph A must be enrolled in the managed care program after the 2nd year of 
+27 implementation but before the end of the 4th year on a schedule as required by the 
+28 department after the department has received approval from the federal Department of 
+29 Health and Human Services, Centers for Medicare and Medicaid Services and after the 
+30 department adopts rules.
+31 C.  A MaineCare member who is not enrolled under paragraph A or B may voluntarily 
+32 enroll in a managed care program that provides services in the region of the State in 
+33 which the member lives.
+34 D.  A MaineCare member may not be required to enroll in a managed care program 
+35 unless there are 3 managed care organizations that can each meet all the requirements 
+36 in this section.
+373.  Managed care organization requirements.  The following requirements apply to 
+38 contracts with managed care organizations.
+39 A.  The department shall require services in the managed care program to be provided 
+40 by managed care organizations that are capable of coordinating and delivering all 
+41 covered MaineCare services, including, but not limited to, physical health services, 
+42 prescription services, dental services, long-term care supports and services provided 
+Page 2 - 130LR1040(01)43 under waiver programs and behavioral health services, on a statewide basis to all 
+44 members.
+3 B.  The department shall select managed care organizations using requests for 
+4 proposals.  The procurement method must give the department broad flexibility and 
+5 power to negotiate value and must provide potential bidders the broad flexibility to 
+6 innovate.
+7 C.  The department shall include quality factors in the selection of managed care 
+8 organizations, including, but not limited to:
+9 (1)  Accreditation by a nationally recognized accrediting body;
+10 (2)  Documented policies and procedures for preventing fraud and abuse;
+11 (3)  Experience in serving members and achieving quality standards;
+12 (4)  Availability and accessibility of primary care and specialty care physicians in 
+13 a relevant network;
+14 (5)  Provision of nonmandatory benefits, particularly dental care and disease 
+15 management, and other initiatives that improve health outcomes;
+16 (6)  Capability to address social determinants of health or connect to programs that 
+17 address education, food insecurity and housing instability; and
+18 (7)  An office or a commitment to establishing an office for the managed care 
+19 organization in the State.
+20 D.  After negotiations are conducted under paragraph B, the department shall select 
+21 managed care organizations that the department determines to be responsive, to have 
+22 signed contracts with providers of covered services in sufficient numbers to meet 
+23 access standards established in this section and by rule and to provide the best value to 
+24 the department.
+25 E.  The department shall use a procurement method that results in 3 managed care 
+26 organizations that the department authorizes to enroll MaineCare members upon 
+27 negotiation of rates consistent with this section and applicable requirements of the 
+28 federal Department of Health and Human Services, Centers for Medicare and Medicaid 
+29 Services.
+30 F.  All contracts with managed care organizations entered into under this section are 
+31 contingent upon the appropriation and allocation by the Legislature of sufficient 
+32 funding to pay for the managed care program.
+33 G.  All contracts with managed care organizations entered into under this section are 
+34 contingent upon the managed care organizations having signed provider contracts as 
+35 required in paragraph D.
+36 H.  All contracts with managed care organizations include the responsibility for all 
+37 administrative services for members enrolled in the managed care program, including, 
+38 but not limited to, claims processing, care and case management, grievances, appeals 
+39 and other necessary administrative services.
+404.  Managed care organization accountability.  The following provisions apply to 
+41 managed care organizations in order to ensure standards for managed care organization 
+42 accountability.1
+2
+Page 3 - 130LR1040(01)1 A.  The department shall establish a 5-year contract with each managed care 
+2 organization selected through the procurement process described in this section.  A 
+3 managed care organization contract may be renewed for an additional 2 years.  The 
+4 department may extend the term of a managed care organization contract to cover any 
+5 delays during the transition to a new managed care organization.
+6 B.  The department shall establish contract requirements that are necessary for the 
+7 operation of the managed care program.  Contract requirements must include the 
+8 following:
+9 (1)  Defined measures and goals for risk-adjusted health outcomes, quality of care, 
+10 patient satisfaction and cost.  Each measure and goal must be subject to specific 
+11 accountability measures and include penalties;
+12 (2)  Access standards that are specific and that are population-based for the number, 
+13 type and regional distribution of providers in managed care organization networks 
+14 to ensure access to care for both adults and children.  The access standards must 
+15 allow the managed care organizations to limit the providers in their networks based 
+16 on credentials, quality indicators and cost;
+17 (3)  Measures for satisfaction compiled from members and disenrollment surveys;
+18 (4)  An internal process for reviewing and responding to grievances from members 
+19 and for submitting quarterly reports including the number, description and outcome 
+20 of grievances filed by members.  The grievance procedure must meet the 
+21 requirements of the department;
+22 (5)  Participation and coordination with departmental efforts in health care payment 
+23 reform, including value-based purchasing; quality improvement; delivery system 
+24 improvement; improvement in members' experience of care; and participation in 
+25 other departmental initiatives, including participation in the patient-centered 
+26 medical homes.  The department may require the managed care organization to 
+27 participate in initiatives regarding compensation for providers for coordination of 
+28 care, management of chronic disease and avoidance of the need for more costly 
+29 services;
+30 (6)  The managed care organization shall maintain and submit encounter and claims 
+31 data for all services provided to members in a manner and format and in accordance 
+32 with a time schedule specified by the department.  Claims data for each encounter 
+33 submitted under this subparagraph must include the amount paid by the managed 
+34 care organization to all providers of services attributable to the encounter;
+35 (7)  The managed care organization shall establish program integrity functions and 
+36 activities to reduce the incidence of fraud and abuse, including, at a minimum, a 
+37 provider credentialing system and ongoing provider monitoring, procedures for 
+38 reporting instances of fraud and abuse and designation of a program integrity 
+39 compliance officer;
+40 (8)  A managed care organization shall provide that the commissioner and the 
+41 medical director of the MaineCare program have the authority to override any 
+42 denial of care by the managed care organization on the basis of medical necessity;
+43 (9)  A managed care organization must be subject to financial consequences, 
+44 backed by a performance bond or similar guarantee, for failure to meet quality 
+Page 4 - 130LR1040(01)45 standards, access standards, member satisfaction standards or other requirements 
+46 of law or rule or of the contract between the department and the managed care 
+47 organization;
+4 (10)  A managed care organization is subject to the jurisdiction and oversight of 
+5 the Department of Professional and Financial Regulation, Bureau of Insurance and 
+6 shall comply with provisions of Title 24-A, including chapter 56-A;
+7 (11)  A managed care organization when providing to members and prospective 
+8 members written communications, including, but not limited to, notices, decisions 
+9 and explanations of benefits, shall provide those communications in a manner that 
+10 is readable at or near a 6th-grade reading level and offer translated versions of 
+11 materials, as required by the department;
+12 (12)  A managed care organization may allow for cost sharing in accordance with 
+13 the provisions of 42 United States Code, Section 1396o; and
+14 (13)  A managed care organization shall provide a reasonable contribution to pay 
+15 for the funding of the program integrity compliance officer under subparagraph 
+16 (7).
+175.  Payments to managed care organizations.  The department shall pay managed 
+18 care organizations on the basis of per member, per month payments negotiated pursuant to 
+19 this subsection.  Payments must be at risk-adjusted rates based on historical utilization and 
+20 spending data, projected and adjusted to reflect the eligibility category, geographic area 
+21 and clinical risk profile of the members with the provision for subsequent adjustment based 
+22 on actual enrollments and encounter data when available.  In negotiating rates with the 
+23 managed care organizations, the department shall consider any adjustments necessary to 
+24 encourage organizations to use the most cost-effective means of improving outcomes and 
+25 providing specialized management of particular subgroups of populations with complex or 
+26 high-cost needs.
+276.  Rate setting.  The department must establish rates in the contracts that include the 
+28 following:
+29 A.  Rates that are actuarially sound, including utilization assumptions that are 
+30 consistent with industry and local standards.  Rates must be adjusted for risk and 
+31 include a portion that is at risk if quality and outcome measures established in contracts 
+32 are not met, including value-based payments;
+33 B.  Appropriate rate floors for in-network primary care physicians and specialty care 
+34 physicians and pharmacy dispensing fees to ensure the achievement of goals; and
+35 C.  Rates for services in the remaining fee-for-service programs.
+367.  Rulemaking.  The department shall adopt rules as necessary to implement this 
+37 section. Rules adopted pursuant to this subsection are major substantive rules as described 
+38 in Title 5, chapter 375, subchapter 2-A.
+39Sec. 2.  Selection of managed care organizations.  The Department of Health 
+40 and Human Services shall issue a request for proposals no later than January 1, 2022 to 
+41 select managed care organizations pursuant to the Maine Revised Statutes, Title 22, section 
+42 3174-FFF.  No later than 2 years after the implementation of a managed care program, the 
+43 managed care organizations shall enroll the populations required in Title 22, section 1
+2
+3
+Page 5 - 130LR1040(01)44 3174-FFF, subsection 2, paragraph A.  No later than 4 years after the implementation of 
+45 the program, the managed care organizations shall enroll all members eligible for 
+46 MaineCare services, including members receiving long-term care supports and services 
+47 and home-based and community-based services under a waiver.
+5Sec. 3.  State plan amendment and waivers; contingent effective date.  By 
+6 November 1, 2021, the Department of Health and Human Services shall apply to the federal 
+7 Department of Health and Human Services, Centers for Medicare and Medicaid Services 
+8 for approval of a state plan amendment under the United States Social Security Act, Section 
+9 1932(a) to implement the provisions of this Act and for all necessary waivers.  The 
+10 provisions of this Act take effect upon notification from the Department of Health and 
+11 Human Services to the Revisor of Statutes that all necessary approvals under this section 
+12 have been granted.
+13Sec. 4.  Department of Health and Human Services to integrate benefits.  
+14 The Department of Health and Human Services shall explore options to create a companion 
+15 Medicare equivalent by managed care organizations with contracts with the department 
+16 that will facilitate the integration of the Medicaid and Medicare benefits under a single 
+17 provider for those individuals eligible for both programs.
+18SUMMARY
+19 This bill establishes a managed care program for all covered MaineCare services.  It 
+20 requires the Department of Health and Human Services to issue a request for proposals for 
+21 3 managed care organizations that are able to operate the managed care program on a 
+22 statewide basis.  Within 2 years of the implementation of a managed care program, the 
+23 Medicaid expansion population, those covered by the federal Children's Health Insurance 
+24 Program and members categorically eligible as Temporary Assistance for Needy Families 
+25 program recipients must be enrolled in managed care organizations.  Within 4 years of 
+26 implementation, all eligible MaineCare members must be enrolled in managed care 
+27 programs.  The bill establishes the requirements for contracts for managed care 
+28 organizations.  It requires the Department of Health and Human Services to apply for any 
+29 state plan amendments or waivers required by November 1, 2021.  It requires the 
+30 department to explore options to create a plan that integrates Medicaid and Medicare 
+31 benefits for individuals.1
+2
+3
+4
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31

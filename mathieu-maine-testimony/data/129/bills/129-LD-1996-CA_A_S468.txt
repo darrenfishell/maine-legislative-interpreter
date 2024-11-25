@@ -1,0 +1,146 @@
+ 
+MAINE STATE LEGISLATURE  
+ 
+ 
+ 
+The following document is provided by the 
+LAW AND LEGISLATIVE DIGITAL LIBRARY  
+at the Maine State Law and Legislative Reference Library 
+http://legislature.m aine.gov/lawlib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reproduced from electronic originals 
+(may include minor formatting diffe rences from printed original) 
+ 
+ 
+[This information is provided from the Bill Tracking & Text Search system for 
+the following unprinted amendment:]  
+ 
+Amendment Name: Amendment CA (S -468) (LD 1996 2020)  
+Date: 8/5/2020
+
+Page 1 - 129LR3042(02)-1
+COMMITTEE AMENDMENT1L.D. 1996
+2
+3HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4Reproduced and distributed under the direction of the Secretary of the Senate.
+5STATE OF MAINE
+6SENATE
+7129TH LEGISLATURE
+8SECOND SPECIAL SESSION
+9COMMITTEE AMENDMENT “      ” to S.P. 698, L.D. 1996, Bill, “An Act 
+10Concerning the Reporting of Health Care Information to the Emergency Medical 
+11Services' Board”
+12Amend the bill by striking out everything after section 1 and inserting the following:
+13'Sec. 2.  32 MRSA §91-B, sub-§1, ¶E is enacted to read:
+14E.  Information or records provided to the board under section 88, subsection 2, 
+15paragraph K are confidential if the information or records identify or permit the 
+16identification of a patient or a member of that patient's family.
+17Sec. 3.  32 MRSA §91-B, sub-§1, ¶F is enacted to read:
+18F.  Information or records provided to the board under section 96 are confidential if 
+19the information or records identify or permit the identification of a patient who 
+20received emergency medical treatment or a member of that patient's family.
+21Sec. 4.  32 MRSA §96 is enacted to read:
+22§96.  Monitoring and improving the provision of emergency medical services and 
+23health outcomes
+24For the purpose of monitoring and improving the provision of emergency medical 
+25services and health outcomes within the State, the board may request and collect health 
+26care information or records, including information or records that identify or permit 
+27identification of any patient, concerning individuals who have received emergency 
+28medical treatment within the State, except for any information or records identifying a 
+29patient, in any format, that include HIV/AIDS status or test results or that relate to 
+30referral, treatment or services for behavioral or mental health or substance use disorder.
+311.  Reporting by physicians and hospitals.  Hospitals and physicians shall report 
+32health care information concerning individuals who have received emergency medical 
+33treatment as follows and in accordance with this section and rules adopted by the board.Date: (Filing No. S-          )
+COMMITTEE AMENDMENT “      ” to S.P. 698, L.D. 1996
+Page 2 - 129LR3042(02)-1
+COMMITTEE AMENDMENT1A.  A hospital shall report to the board information or records requested by the board, 
+2including information or records that identify or permit identification of any patient, 
+3concerning an individual under or formerly under that hospital's care who received 
+4emergency medical treatment.
+5B.  A physician shall report to the board information or records requested by the 
+6board, including information or records that identify or permit identification of any 
+7patient, concerning an individual under or formerly under that physician's care who 
+8received emergency medical treatment.
+92.  Access to information through the state-designated statewide health 
+10information exchange or direct reporting.  A hospital or physician may satisfy the 
+11board's request for information under subsection 1 as follows.
+12A.  A hospital or physician that participates in the state-designated statewide health 
+13information exchange as described in Title 22, section 1711-C may satisfy the board's 
+14request for information by authorizing the board to retrieve that provider's data from 
+15the health information exchange.
+16B.  A hospital or physician that participates in the state-designated statewide health 
+17information exchange as described in Title 22, section 1711-C that does not authorize 
+18the board to retrieve that provider's data from the health information exchange shall 
+19provide the information to the board directly in the manner specified by rule.
+203.  Information requested.  When requesting information pursuant to this section 
+21and any rules adopted by the board, the board shall request only the minimum amount of 
+22information necessary to fulfill the purposes of this section.
+234.  No liability for physician or hospital reporting in good faith.  A physician or 
+24hospital that reports in good faith in accordance with this section is not liable for any civil 
+25damages for making the report.
+265.  Rulemaking.  The board shall adopt rules regarding the collection and reporting 
+27of information pursuant to this section, including, but not limited to, the frequency of 
+28reporting by hospitals and physicians.  Rules adopted pursuant to this subsection are 
+29routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+30Sec. 5.  Rulemaking by the Emergency Medical Services' Board.  In 
+31adopting rules pursuant to the Maine Revised Statutes, Title 32, section 96, subsection 5, 
+32the Department of Public Safety, Maine Emergency Medical Services, Emergency 
+33Medical Services' Board shall address the following issues:
+341.  How different quality initiatives are adopted by the board;
+352.  How providers are notified about these different quality initiatives;
+363.  How providers communicate their decisions to the board to authorize the state-
+37designated statewide health information exchange to provide information or records to 
+38the board;
+394.  For providers who authorize the state-designated statewide health information 
+40exchange to provide information or records to the board, the manner in which a provider 
+41may revoke that authorization; and
+COMMITTEE AMENDMENT “      ” to S.P. 698, L.D. 1996
+Page 3 - 129LR3042(02)-1
+COMMITTEE AMENDMENT15.  How information or records remitted from the state-designated statewide health 
+2information exchange to the board and data remitted from the board to any 3rd parties are 
+3tracked and reported to providers when data requests are made to the state-designated 
+4statewide health information exchange.
+5The rules must include a requirement that any executed agreements must be made 
+6available to providers if any 3rd parties are provided information or records under those 
+7agreements.' 
+8Amend the bill by relettering or renumbering any nonconsecutive Part letter or 
+9section number to read consecutively.
+10SUMMARY
+11Like the bill, this amendment makes changes to the laws governing the reporting of 
+12health care information to the Department of Public Safety, Maine Emergency Medical 
+13Services, Emergency Medical Services' Board.  The amendment allows the board to 
+14request and collect health care information or records, including information or records 
+15that identify a patient.  The amendment requires hospitals and physicians, upon request 
+16by the board for the purpose of monitoring and improving the provision of emergency 
+17medical services and health outcomes, to provide health care information concerning 
+18individuals who have received emergency medical treatment, except for information that 
+19includes HIV/AIDS status or test results or that relates to treatment or services for 
+20behavioral or mental health or substance use disorder.
+21The amendment makes the reportable health care information confidential.  
+22Personally identifiable trauma information is already confidential.
+23The amendment also requires the board to adopt routine technical rules to determine 
+24how frequently information is reported and guidelines for how the data will be used.
+25FISCAL NOTE REQUIRED
+26(See attached)
+Approved: 02/19/20
+LD 1 996 LR 3042 (02)
+Fiscal Detail and NotesMinor cost increase - General Fund
+Additional costs to the Department of Public Safety asso ciated with rulemaking can be absorbed within existing 
+budgeted resources.129th MAINE LEGISLATURE
+An Act Concerning the Reporting of Health Care Information to the Emergency Medical Services' 
+Board
+Fiscal Note for Bill as Amended b y Committee Amendment " "
+Committee: Health Covera ge, Insurance and Financial Services
+Fiscal Note Re quired: Yes
+Fiscal Note
+LR3042(02) - Fiscal Note - Page 1 of 1
