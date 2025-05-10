@@ -4,11 +4,11 @@ Through initial profiling, I discovered some basic legislative testimony trends 
 
 Overall, bill and testimony volumes have increased from the 126th through the 131rd legislature, with testimony volumes increasing sharply.
 
-![Testimony trend](figs/all_testimony_trend.png)
+![Testimony trend](../figs/all_testimony_trend.png)
 
 This has also been the case for the stakeholder, the Sierra Club of Maine, where their testimony volumes rose sharply in the last two sessions. Clearly, this has become an increasing focus for the Sierra Club and speaks to their interest in better understanding patterns within legislative testimony. 
 
-![Sierra Club trend](figs/sierra_testimony_trend.png)
+![Sierra Club trend](../figs/sierra_testimony_trend.png)
 
 Investigation of the Sierra Club's specific testimony trends also highlighted how the organization names can vary and will require some condensation, which I plan to do with a separate grouping table that will associate various name patterns to a common string. 
 
@@ -25,4 +25,4 @@ Below is a sample of the different entities associated with the Sierra Club that
 
 At first glance, the Legislature's categorization of bills by topic does appear to align with the Sierra Club's general priorities, though there are a number of bills that are not categorized, though this data is not missing at random -- most is tied to the 126th Legislature, the first year for which testimony is available through this particular endpoint. 
 
-![Sierra Club testimony by policy area](figs/sierra_testimony_by_topic.png)
+![Sierra Club testimony by policy area](../figs/sierra_testimony_by_topic.png)
