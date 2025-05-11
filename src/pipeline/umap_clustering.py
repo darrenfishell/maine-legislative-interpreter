@@ -17,7 +17,7 @@ import pandas as pd
 import numpy as np
 import os
 
-## Disable tokenizer parallelism, to accommodate pipeline use
+## Disable tokenizer parallelism, to accommodate dlt_pipeline use
 os.environ["TOKENIZERS_PARALLELISM"] = 'false'
 
 class SentenceTransformerEncoder(BaseEstimator, TransformerMixin):
@@ -97,11 +97,11 @@ def create_clustering_pipeline(distance_metric='euclidean'):
 # Define a function to evaluate parameters
 def evaluate_params(params, pipeline, X):
     """
-    Fits the pipeline with the given parameters and computes the DBCV score.
+    Fits the dlt_pipeline with the given parameters and computes the DBCV score.
 
     Args:
-        params (dict): Hyperparameters to set in the pipeline.
-        pipeline (Pipeline): The clustering pipeline (UMAP + HDBSCAN).
+        params (dict): Hyperparameters to set in the dlt_pipeline.
+        pipeline (Pipeline): The clustering dlt_pipeline (UMAP + HDBSCAN).
         X (array-like): Input data for clustering.
 
     Returns:
@@ -138,7 +138,7 @@ def clustering_hyperparameter_search(pipeline, param_dist, X, n_iter=20, n_jobs=
     Perform hyperparameter search using DBCV as the evaluation metric.
 
     Args:
-        pipeline (Pipeline): The clustering pipeline (UMAP + HDBSCAN).
+        pipeline (Pipeline): The clustering dlt_pipeline (UMAP + HDBSCAN).
         param_dist (dict): Parameter grid or distribution for hyperparameter search.
         X (array-like): Input data for clustering.
         n_iter (int, optional): Number of samples for random search (ignored for grid search).

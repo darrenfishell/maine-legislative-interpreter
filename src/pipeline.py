@@ -1,19 +1,15 @@
 import asyncio
 import pandas as pd
 import json
-import requests
-import os
-from pathlib import Path
-from io import BytesIO
 
 from pypdf import PdfReader
 
-from pipeline.legislative_session import LegislativeSession, get_current_session
+from src.dlt_pipeline import LegislativeSession, get_current_session
 from database.db_writer import Database
-from pipeline import async_fetch as fetch
+from src.dlt_pipeline import async_fetch as fetch
 from urllib.parse import urlencode
 
-import pipeline.endpoints as ep
+from src import dlt_pipeline as ep
 
 db = Database('maine_legislation_and_testimony')
 
