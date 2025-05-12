@@ -11,11 +11,7 @@ class Database:
         self.db_path = self.data_root / self.db_name
         os.makedirs(self.data_root, exist_ok=True)
 
-    def get_query(self, query):
-        with duckdb.connect(self.db_path) as conn:
-            return conn.sql(query).fetchall()
-
-    def latest_loaded_session(self):
+    def latest_loaded_session(self) -> int:
         query = f'''
             SELECT MAX(legislature)
             FROM legislation.bill_text
@@ -23,20 +19,13 @@ class Database:
         with duckdb.connect(self.db_path) as conn:
             return conn.sql(query).fetchone()[0]
 
-    def get_bill_text_sessions(self, session: int) -> pd.DataFrame:
-        query = '''
-                SELECT DISTINCT legislature 
-                FROM BILL_TEXT
-                '''
-        return self.get_query(query)
-
-    def get_testimony_metadata_inputs(self, session) -> pd.DataFrame:
+    def get_testimony_metadata_inputs(self) -> pd.DataFrame:
         query = f'''
-            SELECT DISTINCT paperNumber, legislature
-            FROM BILL_TEXT
-            WHERE legislature = {session}
+            SELECT DISTINCT paper_number, legislature
+            FROM legislation.bill_text
         '''
-        return self.get_query(query)
+        with duckdb.connect(self.db_path) as conn:
+            return conn.sql(query).df()
 
     def get_testimony_doc_ids(self, session) -> pd.DataFrame:
         query = f'''

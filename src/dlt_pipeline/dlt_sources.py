@@ -52,16 +52,59 @@ def bill_text():
         for page in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
             yield page
 
+@dlt.resource(primary_key='Id', parallelized=True,  max_table_nesting=1)
+def testimony_attributes():
+    base_params = {
+        '$filter': (
+            "(((Request/PaperNumber eq '{paper_number}') and "
+            "(Request/Legislature eq {legislature})) and "
+            "(Inactive ne true)) and "
+            "(not (startswith(LastName, '@') eq true))"
+        ),
+        '$orderby': 'LastName,FirstName,Organization',
+        '$expand': 'Request',
+        '$select': 'Id,SourceDocument,RequestId,FileType,FileSize,'
+                   'NamePrefix,FirstName,LastName,NameSuffix,'
+                   'Organization,PresentedDate,PolicyArea,Topic,Created,CreatedBy,LastEdited,LastEditedBy,Private,'
+                   'Inactive,TestimonySubmissionId,HearingDate,LDNumber,Request,CommitteeTestimonyDocumentContents'
+    }
+
+    client = RESTClient(
+        base_url='https://legislature.maine.gov/backend/breeze/data/CommitteeTestimony'
+    )
+
+    bill_df = db.get_testimony_metadata_inputs()
+
+    for index, row in bill_df.iterrows():
+        params = base_params.copy()
+        paper_number = row['paper_number']
+        legislature = row['legislature']
+        params['$filter'] = params['$filter'].format(paper_number=paper_number,
+                                                     legislature=legislature)
+
+        resp = client.get(path='/', params=params)
+
+        try:
+            content = json.loads(resp.content)
+            yield content
+        except json.JSONDecodeError as e:
+            print(f'Error decoding JSON for {paper_number}, Legislature {legislature}: {e}')
+
 @dlt.source
 def legislative_docs():
     yield bill_text()
+
+@dlt.source
+def testimony():
+    yield testimony_attributes()
 
 def main():
     print(f"Starting pipeline run...")
     # Run pipeline using the generator
     load_info = pipeline.run(
-        legislative_docs(),
-        write_disposition='merge'
+        testimony(),
+        write_disposition='merge',
+        refresh='drop_sources'
     )
     print(load_info)
 
