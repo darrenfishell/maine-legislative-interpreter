@@ -5,7 +5,7 @@ import json
 from pypdf import PdfReader
 
 from src.dlt_pipeline import LegislativeSession, get_current_session
-from database.db_writer import Database
+from src.dlt_pipeline.db_access import Database
 from src.dlt_pipeline import async_fetch as fetch
 from urllib.parse import urlencode
 

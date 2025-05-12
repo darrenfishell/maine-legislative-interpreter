@@ -1,7 +1,5 @@
-from database.db_writer import Database
-import seaborn as sns
+from src.dlt_pipeline.db_access import Database
 import matplotlib.pyplot as plt
-import pandas as pd
 from pathlib import Path
 
 name = 'maine_legislation_and_testimony'
