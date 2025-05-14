@@ -19,10 +19,14 @@ class Database:
         with duckdb.connect(self.db_path) as conn:
             return conn.sql(query).fetchone()[0]
 
-    def get_testimony_metadata_inputs(self) -> pd.DataFrame:
+    def get_testimony_metadata_inputs(self, session) -> pd.DataFrame:
+        '''
+        Gets all paper numbers from a given session.
+        '''
         query = f'''
-            SELECT DISTINCT paper_number, legislature
+            SELECT DISTINCT paper_number
             FROM legislation.bill_text
+            WHERE legislature = {session}
         '''
         with duckdb.connect(self.db_path) as conn:
             return conn.sql(query).df()
