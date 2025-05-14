@@ -1,4 +1,4 @@
-# Default target that runs the entire pipeline
+# Default target that runs the entire dlt_pipeline
 make-project: setup data figs
 
 # Set up the project environment

@@ -1,8 +1,8 @@
 # Project
 
-- [Plan](plan.md)
-- [Proposal](proposal.md)
-- **New**: [EDA results](eda_phase1.md)
+- [Plan](project-reports/plan.md)
+- [Proposal](project-reports/proposal.md)
+- **New**: [EDA results](project-reports/eda_phase1.md)
 
 # Reproducibility
 

@@ -5,11 +5,10 @@ from urllib.parse import urlencode
 import pandas as pd
 import requests
 import json
-from requests.exceptions import RequestException, JSONDecodeError
 from pypdf import PdfReader
 
-from pipeline import endpoints as lep
-from pipeline import async_fetch as pb
+from src.dlt_pipeline import endpoints as lep
+from src.dlt_pipeline import async_fetch as pb
 from database import schemas
 
 def get_current_session():
