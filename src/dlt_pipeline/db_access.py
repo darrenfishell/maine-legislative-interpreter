@@ -28,8 +28,8 @@ class Database:
         Gets all paper numbers from a given session.
         '''
         query = f'''
-            SELECT DISTINCT paper_number
-            FROM legislation.bill_text
+            SELECT DISTINCT bt.paper_number
+            FROM legislation.bill_text bt
             WHERE legislature = {session}
         '''
         with duckdb.connect(self.db_path) as conn:

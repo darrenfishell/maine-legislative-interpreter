@@ -2,7 +2,6 @@ from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
 import dlt
-import endpoints as ep
 import db_access as dba
 
 db_name = 'maine-legislative-testimony'
@@ -11,11 +10,12 @@ db = dba.Database(db_name)
 pipeline = dlt.pipeline(
     pipeline_name='maine_legislation_pipeline',
     destination=dlt.destinations.duckdb(db.db_path),
-    dataset_name='legislation'
+    dataset_name='legislation',
+    progress=dlt.progress.tqdm(colour="yellow")
 )
 
 def current_session():
-    base_url = ep.current_session['base_url']
+    base_url = 'https://legislature.maine.gov/backend/breeze/data/getCurrentLegislature'
     client = RESTClient(
         base_url=base_url
     )
@@ -36,8 +36,32 @@ def bill_text(session):
         )
     )
 
-    params = dict(ep.bill_text_config['params'])
-    params['legislature'] = session
+    params = {
+        'term': '',
+        'title': '',
+        'legislature': session,
+        'requestItemType': 'false',
+        'lmSponsorPrimary': 'false',
+        'reqAmendExists': 'false',
+        'reqAmendAdoptH': 'false',
+        'reqAmendAdoptS': 'false',
+        'reqChapterExists': 'false',
+        'reqFNRequired': 'false',
+        'reqEmergency': 'false',
+        'reqGovernor': 'false',
+        'reqBond': 'false',
+        'reqMandate': 'false',
+        'reqPublicLand': 'false',
+        'showExtraParameters': 'true',
+        'mustHave': '',
+        'mustNotHave': '',
+        'offset': 0,
+        'pageSize': 20,
+        'sortByScore': 'false',
+        'showBillText': 'false',
+        'sortAscending': 'false',
+        'excludeOrders': 'false'
+    }
 
     for page in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
         yield page
@@ -45,7 +69,6 @@ def bill_text(session):
 
 @dlt.resource(
     primary_key='Id',
-    max_table_nesting=1,
     parallelized=True
 )
 def testimony_attributes(session):
@@ -88,29 +111,45 @@ def testimony_attributes(session):
             print(f'Error JSON: {resp.text}')
             yield None
 
-def main():
+# @dlt.resource(
+#     primary_key='Id',
+#     parallelized=True
+# )
+# def testimony_texts(session):
+#
+#     base_params = {
+#         'doctype': 'test',
+#         'documentId': None
+#     }
+#
+#     client = RESTClient(
+#         base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
+#     )
+
+def main(test=False):
 
     last_session = db.latest_loaded_session()
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
+    if test:
+        sessions = range(end_session, end_session + 1)
 
     print(f"Processing sessions {last_session} through {end_session}")
+
     for session in sessions:
         print(f"Processing bills for {session}")
         load_info = pipeline.run(
             bill_text(session),
-            write_disposition='merge',
-            refresh='drop_sources'
+            write_disposition='merge'
         )
         print(load_info)
 
         print(f"Processing testimonies for {session}")
         load_info = pipeline.run(
             testimony_attributes(session),
-            write_disposition='merge',
-            refresh='drop_sources'
+            write_disposition='replace'
         )
         print(load_info)
 
 if __name__ == '__main__':
-    main()
+    main(test=True)
