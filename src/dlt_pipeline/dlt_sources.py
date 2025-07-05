@@ -90,8 +90,7 @@ def testimony_attributes(session):
 
 def main():
 
-    # Get the last processed session from the database
-    last_session = db.latest_loaded_session() or 122
+    last_session = db.latest_loaded_session()
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
 

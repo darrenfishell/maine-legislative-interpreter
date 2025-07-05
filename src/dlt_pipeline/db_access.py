@@ -17,7 +17,11 @@ class Database:
             FROM legislation.bill_text
         '''
         with duckdb.connect(self.db_path) as conn:
-            return conn.sql(query).fetchone()[0]
+            try:
+                start_session = conn.sql(query).fetchone()[0]
+            except:
+                start_session = 122
+            return start_session
 
     def get_testimony_metadata_inputs(self, session) -> pd.DataFrame:
         '''
