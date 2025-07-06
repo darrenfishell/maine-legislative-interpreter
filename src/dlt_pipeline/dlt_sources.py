@@ -3,10 +3,10 @@ from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
 import dlt
 import os
+import json
 
 from pathlib import Path
 from pypdf import PdfReader
-from io import BytesIO
 
 import db_access as dba
 
@@ -67,15 +67,16 @@ def session_data(session):
             'excludeOrders': 'false'
         }
 
-        for page in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
-            yield page
+        for bill_source in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
+            for bill in bill_source:
+                yield bill
 
-    @dlt.resource(
+    @dlt.transformer(
         primary_key='Id',
-        max_table_nesting=0
+        max_table_nesting=0,
+        parallelized=True
     )
-    @dlt.transformer(parallelized=True)
-    def testimony_attributes(page_of_bills):
+    def testimony_attributes(bill):
 
         base_params = {
             '$filter': (
@@ -96,7 +97,7 @@ def session_data(session):
             base_url='https://legislature.maine.gov/backend/breeze/data/CommitteeTestimony'
         )
 
-        for bill in page_of_bills:
+        if session >= 126:  # Testimony data only available starting with 126th Legislature
             params = base_params.copy()
             paper_number = bill.get('paperNumber')
             params['$filter'] = params['$filter'].format(paper_number=paper_number, legislature=session)
@@ -107,83 +108,75 @@ def session_data(session):
                 content = dlt_json.loads(resp.text)
                 for row in content:
                     row['legislature'] = session
-                yield content
+                    yield row
             except Exception as e:
                 print(f'Error decoding JSON for {paper_number}, Legislature {session}: {e}')
                 print(f'Error JSON: {resp.text}')
                 yield None
+        else:
+            yield None
 
-    @dlt.resource(primary_key='doc_id')
-    @dlt.transformer(parallelized=True)
-    def get_pdfs(testimonies):
+    @dlt.transformer(
+        primary_key='doc_id',
+        parallelized=True
+    )
+    def testimony_pdf(testimony):
 
         client = RESTClient(
             base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
         )
 
-        @dlt.defer
-        def fetch_pdf(doc_id):
-            params = {
-                'doctype': 'test',
-                'documentId': doc_id
-            }
-            resp = client.get(path='/', params=params)
-            return {
-                'doc_id': doc_id,
-                'session': session,
-                'content': resp.content
-            }
+        doc_id = testimony.get('Id')
+        params = {'doctype': 'test', 'documentId': doc_id}
+        resp = client.get(path='/', params=params)
 
-        for testimony in testimonies:
-            yield fetch_pdf(testimony.get('Id'))
-
-    @dlt.resource(primary_key='doc_id')
-    @dlt.transformer(parallelized=True)
-    def testimony_pdf(pdf_data):
-
-        filepath = pdf_repo / f"{pdf_data.get('doc_id')}.pdf"
+        filepath = pdf_repo / f'{doc_id}.pdf'
 
         with open(filepath, 'wb') as f:
-            f.write(pdf_data.get('content'))
+            f.write(resp.content)
 
         yield {
-            'doc_id': pdf_data.get('doc_id'),
+            'doc_id': doc_id,
             'session': session,
             'pdf_filepath': str(filepath)
         }
 
-    @dlt.resource(primary_key='doc_id')
-    @dlt.transformer(parallelized=True)
+    @dlt.transformer(
+        primary_key='doc_id',
+        parallelized=True
+    )
     def testimony_full_text(pdf_data):
 
-        with open(pdf_data.get('pdf_filepath'), 'rb') as f:
-            pdf_bytes = BytesIO(f.read())
+        filepath = pdf_data.get('pdf_filepath')
 
-            try:
-                reader = PdfReader(pdf_bytes)
-                full_text = ""
-                for page in reader.pages:
-                    full_text += page.extract_text()
-            except Exception as e:
-                print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
+        try:
+            with open(filepath, 'rb') as f:
+                pdf = PdfReader(f, strict=False)
+                doc_text = '\n'.join([page.extract_text() for page in pdf.pages])
+            yield {
+                'doc_id': pdf_data.get('doc_id'),
+                'session': session,
+                'full_text': json.dumps(doc_text)
+            }
+        except Exception as e:
+            print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
+            yield None
 
-        yield {
-            'doc_id': pdf_data.get('doc_id'),
-            'session': session,
-            'full_text': full_text
-        }
+    bill_text_limit = bill_text.add_limit(5)
 
-    load_testimony = bill_text | testimony_attributes
-    load_pdfs = load_testimony | get_pdfs | testimony_pdf
+    load_testimony = bill_text_limit | testimony_attributes
+    load_pdfs = load_testimony | testimony_pdf
     parse_pdf_text = load_pdfs | testimony_full_text
 
-    return bill_text, load_testimony, load_pdfs, parse_pdf_text
+    return bill_text_limit, load_testimony, load_pdfs, parse_pdf_text
 
 DB_NAME = 'maine-legislative-testimony'
 SCHEMA = 'bronze'
 db = dba.Database(DB_NAME, SCHEMA)
 
 def main(test=False, reset=False):
+    import logging
+    logging.getLogger("pypdf").setLevel(logging.ERROR)
 
     pipeline = dlt.pipeline(
         pipeline_name='me_legislation',
@@ -195,13 +188,12 @@ def main(test=False, reset=False):
     last_session = db.latest_loaded_session()
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
-    if test:
-        sessions = range(end_session, end_session + 1)
 
     print(f"Processing sessions {last_session} through {end_session}")
 
     for session in sessions:
         print(f"Processing session data for {session}")
+
         load_info = pipeline.run(
             session_data(session),
             write_disposition='merge'
@@ -209,4 +201,4 @@ def main(test=False, reset=False):
         print(load_info)
 
 if __name__ == '__main__':
-    main(test=True)
+    main(test=False, reset=True)
