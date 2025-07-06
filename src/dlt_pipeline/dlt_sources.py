@@ -2,17 +2,10 @@ from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
 import dlt
+import os
+from pathlib import Path
+
 import db_access as dba
-
-db_name = 'maine-legislative-testimony'
-db = dba.Database(db_name)
-
-pipeline = dlt.pipeline(
-    pipeline_name='maine_legislation_pipeline',
-    destination=dlt.destinations.duckdb(db.db_path),
-    dataset_name='legislation',
-    progress=dlt.progress.tqdm(colour="yellow")
-)
 
 def current_session():
     base_url = 'https://legislature.maine.gov/backend/breeze/data/getCurrentLegislature'
@@ -69,6 +62,7 @@ def bill_text(session):
 
 @dlt.resource(
     primary_key='Id',
+    max_table_nesting=0,
     parallelized=True
 )
 def testimony_attributes(session):
@@ -105,28 +99,67 @@ def testimony_attributes(session):
 
         try:
             content = dlt_json.loads(resp.text)
+            for row in content:
+                row['legislature'] = session
             yield content
         except Exception as e:
             print(f'Error decoding JSON for {paper_number}, Legislature {session}: {e}')
             print(f'Error JSON: {resp.text}')
             yield None
 
-# @dlt.resource(
-#     primary_key='Id',
-#     parallelized=True
-# )
-# def testimony_texts(session):
-#
-#     base_params = {
-#         'doctype': 'test',
-#         'documentId': None
-#     }
-#
-#     client = RESTClient(
-#         base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
-#     )
+@dlt.resource(
+    primary_key='doc_id',
+    parallelized=True
+)
+def testimony_pdfs(session):
 
-def main(test=False):
+    base_params = {
+        'doctype': 'test',
+        'documentId': None
+    }
+
+    client = RESTClient(
+        base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
+    )
+
+    doc_ids = db.get_testimony_doc_ids(session)
+
+    for doc_id in doc_ids:
+        params = base_params.copy()
+        params['documentId'] = doc_id
+
+        resp = client.get(path='/', params=params)
+        pdf_content = resp.content
+
+        pdf_repo = Path(__file__).parents[1] / 'testimony_pdfs' / str(session)
+        os.makedirs(pdf_repo, exist_ok=True)
+
+        filename = f'{doc_id}.pdf'
+        filepath = pdf_repo / filename
+        with open(filepath, 'wb') as f:
+            f.write(pdf_content)
+
+        yield {
+            'doc_id': doc_id,
+            'session': session,
+            'pdf_filepath': filepath
+        }
+
+DB_NAME = 'maine-legislative-testimony'
+SCHEMA = 'bronze'
+db = dba.Database(DB_NAME, SCHEMA)
+
+def main(test=False, reset=False):
+
+    pipeline = dlt.pipeline(
+        pipeline_name='me_legislation',
+        destination=dlt.destinations.duckdb(db.db_path),
+        progress=dlt.progress.tqdm(colour="yellow"),
+        dataset_name=SCHEMA
+    )
+
+    if reset:
+        pipeline.drop()
 
     last_session = db.latest_loaded_session()
     end_session = current_session()
@@ -137,19 +170,26 @@ def main(test=False):
     print(f"Processing sessions {last_session} through {end_session}")
 
     for session in sessions:
-        print(f"Processing bills for {session}")
-        load_info = pipeline.run(
-            bill_text(session),
-            write_disposition='merge'
-        )
-        print(load_info)
+        # print(f"Processing bills for {session}")
+        # load_info = pipeline.run(
+        #     bill_text(session),
+        #     write_disposition='merge'
+        # )
+        # print(load_info)
+        #
+        # print(f"Processing testimonies for {session}")
+        # load_info = pipeline.run(
+        #     testimony_attributes(session),
+        #     write_disposition='replace'
+        # )
+        # print(load_info)
 
-        print(f"Processing testimonies for {session}")
+        print(f"Processing PDF for {session}")
         load_info = pipeline.run(
-            testimony_attributes(session),
+            testimony_pdfs(session),
             write_disposition='replace'
         )
         print(load_info)
 
 if __name__ == '__main__':
-    main(test=True)
+    main(test=True, reset=True)
