@@ -60,7 +60,7 @@ def session_data(session):
             'mustHave': '',
             'mustNotHave': '',
             'offset': 0,
-            'pageSize': 20,
+            'pageSize': 100,
             'sortByScore': 'false',
             'showBillText': 'false',
             'sortAscending': 'false',
@@ -152,47 +152,46 @@ def session_data(session):
         try:
             with open(filepath, 'rb') as f:
                 pdf = PdfReader(f, strict=False)
-                doc_text = '\n'.join([page.extract_text() for page in pdf.pages])
+                raw_text = '\n'.join([page.extract_text() for page in pdf.pages])
+                json_text = json.dumps(raw_text)
             yield {
                 'doc_id': pdf_data.get('doc_id'),
                 'session': session,
-                'full_text': json.dumps(doc_text)
+                'doc_text': json_text
             }
         except Exception as e:
             print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
-            yield None
 
-    bill_text_limit = bill_text.add_limit(5)
-
-    load_testimony = bill_text_limit | testimony_attributes
+    load_testimony = bill_text | testimony_attributes
     load_pdfs = load_testimony | testimony_pdf
     parse_pdf_text = load_pdfs | testimony_full_text
 
-    return bill_text_limit, load_testimony, load_pdfs, parse_pdf_text
+    return bill_text, load_testimony, load_pdfs, parse_pdf_text
 
 DB_NAME = 'maine-legislative-testimony'
 SCHEMA = 'bronze'
 db = dba.Database(DB_NAME, SCHEMA)
 
-def main(test=False, reset=False):
+def main(dev_mode=False):
     import logging
     logging.getLogger("pypdf").setLevel(logging.ERROR)
 
     pipeline = dlt.pipeline(
         pipeline_name='me_legislation',
         destination=dlt.destinations.duckdb(db.db_path),
-        progress=dlt.progress.tqdm(colour="yellow"),
-        dataset_name=SCHEMA
+        progress=dlt.progress.tqdm(colour='blue'),
+        dataset_name=SCHEMA,
+        dev_mode=dev_mode
     )
 
     last_session = db.latest_loaded_session()
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
 
-    print(f"Processing sessions {last_session} through {end_session}")
+    print(f'Processing sessions {last_session} through {end_session}')
 
     for session in sessions:
-        print(f"Processing session data for {session}")
+        print(f'Processing session data for {session}')
 
         load_info = pipeline.run(
             session_data(session),
@@ -201,4 +200,4 @@ def main(test=False, reset=False):
         print(load_info)
 
 if __name__ == '__main__':
-    main(test=False, reset=True)
+    main(dev_mode=False)
