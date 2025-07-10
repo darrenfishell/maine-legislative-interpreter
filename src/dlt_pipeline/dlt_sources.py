@@ -1,14 +1,26 @@
+import os
+import re
+import json
+import spacy
+import pandas as pd
+import dlt
+import subprocess
+import sys
+
 from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
-import dlt
-import os
-import json
-
 from pathlib import Path
 from pypdf import PdfReader
+from streamlit import table
 
 import db_access as dba
+
+DB_NAME = 'maine-legislative-testimony'
+BRONZE_SCHEMA = 'bronze'
+SILVER_SCHEMA = 'silver'
+GOLD_SCHEMA = 'gold'
+db = dba.Database(DB_NAME, BRONZE_SCHEMA, SILVER_SCHEMA, GOLD_SCHEMA)
 
 def current_session():
     '''
@@ -168,9 +180,95 @@ def session_data(session):
 
     return bill_text, load_testimony, load_pdfs, parse_pdf_text
 
-DB_NAME = 'maine-legislative-testimony'
-SCHEMA = 'bronze'
-db = dba.Database(DB_NAME, SCHEMA)
+@dlt.source
+def text_vectorization():
+
+    def load_spacy_model(model_name='en_core_web_sm'):
+
+        try:
+            nlp = spacy.load(model_name)
+            return nlp
+        except OSError:
+            print(f'Model {model_name} not found. Downloading...')
+
+            subprocess.check_call([
+                sys.executable, '-m', 'spacy', 'download', model_name
+            ])
+
+            try:
+                nlp = spacy.load(model_name)
+                return nlp
+            except Exception as e:
+                print(f'Failed to load {model_name} after download: {e}')
+                raise
+
+    @dlt.resource
+    def unprocessed_sentences(batch_size=1000):
+
+        if db.table_exists(schema=SILVER_SCHEMA, table_name='testimony_sentences'):
+            base_query = f'''
+                SELECT doc_id, doc_text
+                FROM {BRONZE_SCHEMA}.testimony_full_text
+                WHERE doc_id NOT IN (
+                    SELECT DISTINCT doc_id 
+                    FROM {SILVER_SCHEMA}.testimony_sentences
+                )
+                ORDER BY doc_id
+            '''
+        else:
+            base_query = f'''
+                SELECT doc_id, doc_text
+                FROM {BRONZE_SCHEMA}.testimony_full_text
+                ORDER BY doc_id
+            '''
+
+        offset = 0
+
+        while True:
+            query = f"{base_query} LIMIT {batch_size} OFFSET {offset}"
+
+            docs_df = db.get_query_as_df(query)
+
+            if docs_df.empty:
+                break
+
+            yield docs_df
+
+            offset += batch_size
+
+    @dlt.transformer
+    def document_sentence():
+        nlp = load_spacy_model()
+
+        if not nlp.has_pipe('sentencizer'):
+            nlp.add_pipe('sentencizer')
+
+        def clean_text(text):
+            text = re.sub(r'\n+|\\n|\t+', ' ', text)
+            text = re.sub(r'\s+', ' ', text)
+            text = re.sub(r'[^a-zA-Z0-9.,()!?\- ]', '', text)
+            text = text.strip()
+            return text
+
+        def tokenize_sentences(docs):
+            nlp.max_length = max(docs['doc_text'].apply(len))
+            all_sentences = []
+            zip_pipe = zip(docs['doc_id'], nlp.pipe(docs['doc_text']))
+            with nlp.select_pipes(enable=['sentencizer']):
+                for doc_id, processed_doc in zip_pipe:
+                    sentences = [{
+                        'doc_id': doc_id,
+                        'sentence': sent.text.strip()
+                    } for sent in processed_doc.sents if len(sent) > 1]
+                    all_sentences.extend(sentences)
+
+            return pd.DataFrame(all_sentences)
+
+        for documents in db.get_unprocessed_document_batch():
+            documents['doc_text'] = documents['doc_text'].apply(clean_text)
+            yield tokenize_sentences(documents)
+
+    return unprocessed_sentences | document_sentence
 
 def main(dev_mode=False):
     import logging
@@ -188,16 +286,25 @@ def main(dev_mode=False):
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
 
-    print(f'Processing sessions {last_session} through {end_session}')
+    # print(f'Bronze load — sessions {last_session}-{end_session}')
+    #
+    # for session in sessions:
+    #     print(f'Processing session data for {session}')
+    #
+    #     bronze_load_info = pipeline.run(
+    #         session_data(session),
+    #         write_disposition='merge'
+    #     )
+    #     print(bronze_load_info)
 
-    for session in sessions:
-        print(f'Processing session data for {session}')
+    pipeline.dataset_name = 'silver'
 
-        load_info = pipeline.run(
-            session_data(session),
-            write_disposition='merge'
-        )
-        print(load_info)
+    silver_load_info = pipeline.run(
+        text_vectorization().add_limit(1),
+        write_disposition='replace'
+    )
+
+    print(silver_load_info)
 
 if __name__ == '__main__':
     main(dev_mode=False)
