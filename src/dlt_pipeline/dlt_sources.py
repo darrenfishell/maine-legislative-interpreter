@@ -6,6 +6,7 @@ import pandas as pd
 import dlt
 import subprocess
 import sys
+import unicodedata
 
 from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
@@ -13,8 +14,17 @@ from dlt.common import json as dlt_json
 from pathlib import Path
 from pypdf import PdfReader
 from streamlit import table
+from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
+
+# Optional: Add these for enhanced text cleaning
+# import nltk
+# from nltk.corpus import stopwords
+# from nltk.tokenize import word_tokenize
+# import ftfy  # For fixing text encoding issues
 
 import db_access as dba
+import duckdb
 
 DB_NAME = 'maine-legislative-testimony'
 BRONZE_SCHEMA = 'bronze'
@@ -84,12 +94,15 @@ def session_data(session):
                 yield bill
 
     @dlt.transformer(
+        data_from=bill_text,
         primary_key='Id',
         max_table_nesting=0,
-        parallelized=True
+        parallelized=True  
     )
     def testimony_attributes(bill):
-
+        if session < 126:  # Testimony data only available starting with 126th Legislature
+            pass
+            
         base_params = {
             '$filter': (
                 "(((Request/PaperNumber eq '{paper_number}') and "
@@ -109,31 +122,30 @@ def session_data(session):
             base_url='https://legislature.maine.gov/backend/breeze/data/CommitteeTestimony'
         )
 
-        if session >= 126:  # Testimony data only available starting with 126th Legislature
-            params = base_params.copy()
-            paper_number = bill.get('paperNumber')
-            params['$filter'] = params['$filter'].format(paper_number=paper_number, legislature=session)
+        paper_number = bill.get('paperNumber')
+        params = base_params.copy()
+        params['$filter'] = params['$filter'].format(paper_number=paper_number, legislature=session)
 
-            resp = client.get(path='/', params=params)
+        resp = client.get(path='/', params=params)
 
-            try:
-                content = dlt_json.loads(resp.text)
-                for row in content:
-                    row['legislature'] = session
-                    yield row
-            except Exception as e:
-                print(f'Error decoding JSON for {paper_number}, Legislature {session}: {e}')
-                print(f'Error JSON: {resp.text}')
-                yield None
-        else:
-            yield None
+        try:
+            content = dlt_json.loads(resp.text)
+            for row in content:
+                row['legislature'] = session
+                yield row
+        except Exception as e:
+            print(f'Error decoding JSON for {paper_number}, Legislature {session}: {e}')
+            print(f'Error JSON: {resp.text}')
 
     @dlt.transformer(
+        data_from=testimony_attributes,
         primary_key='doc_id',
-        parallelized=True
+        parallelized=True  # Enable parallelization for PDF downloads
     )
-    def testimony_pdf(testimony):
-
+    def testimony_pdfs(testimony):
+        if not testimony:  # Skip if no testimony data
+            pass
+            
         client = RESTClient(
             base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
         )
@@ -154,11 +166,14 @@ def session_data(session):
         }
 
     @dlt.transformer(
+        data_from=testimony_pdfs,
         primary_key='doc_id',
-        parallelized=True
+        parallelized=True  # Enable parallelization for text extraction
     )
     def testimony_full_text(pdf_data):
-
+        if not pdf_data:  # Skip if no PDF data
+            pass
+            
         filepath = pdf_data.get('pdf_filepath')
 
         try:
@@ -173,28 +188,22 @@ def session_data(session):
             }
         except Exception as e:
             print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
+            pass
 
-    load_testimony = bill_text | testimony_attributes
-    load_pdfs = load_testimony | testimony_pdf
-    parse_pdf_text = load_pdfs | testimony_full_text
-
-    return bill_text, load_testimony, load_pdfs, parse_pdf_text
+    return bill_text, testimony_attributes, testimony_pdfs, testimony_full_text
 
 @dlt.source
 def text_vectorization():
 
     def load_spacy_model(model_name='en_core_web_sm'):
-
         try:
             nlp = spacy.load(model_name)
             return nlp
         except OSError:
             print(f'Model {model_name} not found. Downloading...')
-
             subprocess.check_call([
                 sys.executable, '-m', 'spacy', 'download', model_name
             ])
-
             try:
                 nlp = spacy.load(model_name)
                 return nlp
@@ -203,74 +212,177 @@ def text_vectorization():
                 raise
 
     @dlt.resource
-    def unprocessed_sentences(batch_size=1000):
-
-        if db.table_exists(schema=SILVER_SCHEMA, table_name='testimony_sentences'):
-            base_query = f'''
-                SELECT doc_id, doc_text
-                FROM {BRONZE_SCHEMA}.testimony_full_text
-                WHERE doc_id NOT IN (
-                    SELECT DISTINCT doc_id 
-                    FROM {SILVER_SCHEMA}.testimony_sentences
-                )
-                ORDER BY doc_id
-            '''
-        else:
-            base_query = f'''
-                SELECT doc_id, doc_text
-                FROM {BRONZE_SCHEMA}.testimony_full_text
-                ORDER BY doc_id
-            '''
-
-        offset = 0
-
-        while True:
-            query = f"{base_query} LIMIT {batch_size} OFFSET {offset}"
-
-            docs_df = db.get_query_as_df(query)
-
-            if docs_df.empty:
+    def unprocessed_sentences(limit=None):
+        # Use the Database class streaming method with optional limit
+        count = 0
+        for doc in db.stream_unprocessed_documents(BRONZE_SCHEMA, SILVER_SCHEMA):
+            yield doc
+            count += 1
+            if limit and count >= limit:
                 break
 
-            yield docs_df
-
-            offset += batch_size
-
     @dlt.transformer
-    def document_sentence():
+    def document_sentence(doc, limit=None):
+        def clean_text(text):
+            """
+            Comprehensive text cleaning function to handle PDF extraction artifacts,
+            Unicode issues, and common text problems.
+            """
+            import re
+            import unicodedata
+            
+            # Convert to string if it's not already
+            if not isinstance(text, str):
+                text = str(text)
+            
+            # Decode common Unicode escape sequences
+            text = text.encode('utf-8', errors='ignore').decode('utf-8')
+            
+            # Handle common PDF extraction artifacts
+            text = re.sub(r'u[0-9a-fA-F]{4}', '', text)  # Remove u0000, u2018, etc.
+            text = re.sub(r'\\u[0-9a-fA-F]{4}', '', text)  # Remove escaped unicode
+            text = re.sub(r'\\x[0-9a-fA-F]{2}', '', text)  # Remove hex escapes
+            
+            # Remove control characters and non-printable characters
+            text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C')
+            
+            # Normalize Unicode characters
+            text = unicodedata.normalize('NFKC', text)
+            
+            # Replace common problematic characters
+            replacements = {
+                '\u2018': "'",  # Left single quotation mark
+                '\u2019': "'",  # Right single quotation mark
+                '\u201c': '"',  # Left double quotation mark
+                '\u201d': '"',  # Right double quotation mark
+                '\u2013': '-',  # En dash
+                '\u2014': '--', # Em dash
+                '\u2022': '•',  # Bullet
+                '\u00a0': ' ',  # Non-breaking space
+                '\u00b0': '°',  # Degree sign
+                '\u00ae': '®',  # Registered trademark
+                '\u00a7': '§',  # Section sign
+                '\u00bb': '»',  # Right-pointing double angle quotation mark
+                '\u00ab': '«',  # Left-pointing double angle quotation mark
+            }
+            
+            for old, new in replacements.items():
+                text = text.replace(old, new)
+            
+            # Remove excessive whitespace and normalize line breaks
+            text = re.sub(r'\n+|\\n|\r\n|\r', ' ', text)  # Replace all line breaks with space
+            text = re.sub(r'\t+', ' ', text)  # Replace tabs with space
+            text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
+            
+            # Remove common PDF artifacts
+            text = re.sub(r'[^\w\s.,!?;:()\'"\-–—•°®§»«]', '', text)  # Keep only readable characters
+            
+            # Clean up punctuation
+            text = re.sub(r'\s+([.,!?;:])', r'\1', text)  # Remove space before punctuation
+            text = re.sub(r'([.,!?;:])\s*([.,!?;:])', r'\1', text)  # Remove duplicate punctuation
+            
+            # Remove isolated characters and very short fragments
+            text = re.sub(r'\b[a-zA-Z]\b', '', text)  # Remove single letters
+            text = re.sub(r'\b\d+\b', '', text)  # Remove isolated numbers
+            
+            # Final cleanup
+            text = text.strip()
+            
+            # Remove sentences that are too short or contain mostly artifacts
+            if len(text) < 10:  # Too short to be meaningful
+                return ""
+            
+            # Check if text contains mostly readable content
+            readable_chars = len(re.findall(r'[a-zA-Z]', text))
+            total_chars = len(text.replace(' ', ''))
+            if total_chars > 0 and readable_chars / total_chars < 0.3:  # Less than 30% readable
+                return ""
+            
+            return text
+
         nlp = load_spacy_model()
 
         if not nlp.has_pipe('sentencizer'):
             nlp.add_pipe('sentencizer')
 
-        def clean_text(text):
-            text = re.sub(r'\n+|\\n|\t+', ' ', text)
-            text = re.sub(r'\s+', ' ', text)
-            text = re.sub(r'[^a-zA-Z0-9.,()!?\- ]', '', text)
-            text = text.strip()
-            return text
-
-        def tokenize_sentences(docs):
-            nlp.max_length = max(docs['doc_text'].apply(len))
-            all_sentences = []
-            zip_pipe = zip(docs['doc_id'], nlp.pipe(docs['doc_text']))
-            with nlp.select_pipes(enable=['sentencizer']):
-                for doc_id, processed_doc in zip_pipe:
-                    sentences = [{
+        # Extract document data
+        doc_id = doc.get('doc_id')
+        doc_text = doc.get('doc_text', '')
+        
+        if not doc_text or len(doc_text.strip()) == 0:
+            pass
+        
+        # Clean the text
+        cleaned_text = clean_text(doc_text)
+        
+        # Skip if cleaning resulted in empty text
+        if not cleaned_text or len(cleaned_text.strip()) == 0:
+            pass
+        
+        # Process the single document
+        nlp.max_length = len(cleaned_text)
+        
+        sentence_count = 0
+        with nlp.select_pipes(enable=['sentencizer']):
+            processed_doc = nlp(cleaned_text)
+            
+            # Generate sentences with proper indexing
+            for idx, sent in enumerate(processed_doc.sents):
+                sent_text = sent.text.strip()
+                if len(sent_text) > 10:  # Only yield sentences with meaningful length
+                    yield {
                         'doc_id': doc_id,
-                        'sentence': sent.text.strip()
-                    } for sent in processed_doc.sents if len(sent) > 1]
-                    all_sentences.extend(sentences)
+                        'sentence': sent_text,
+                        'sentence_index': idx
+                    }
+                    sentence_count += 1
+                    if limit and sentence_count >= limit:
+                        break
 
-            return pd.DataFrame(all_sentences)
+    @dlt.transformer(
+        max_table_nesting=0,
+        primary_key=['doc_id', 'sentence_index'],
+        columns={
+            "embedding": {"data_type": "json"}
+        }
+    )
+    def document_sentence_vector(sentence, limit=None):
+        
+        model_name = 'all-MiniLM-L12-v2'
+        
+        if not hasattr(document_sentence_vector, 'model'):
+            document_sentence_vector.model = SentenceTransformer(model_name)
+        
+        model = document_sentence_vector.model
+        
+        # Extract sentence text
+        sentence_text = sentence.get('sentence', '')
+        doc_id = sentence.get('doc_id')
+        sentence_index = sentence.get('sentence_index')
+        
+        if not sentence_text or len(sentence_text.strip()) == 0:
+            return None
+        
+        try:
+            # Encode the sentence to get embeddings
+            embedding = model.encode([sentence_text], show_progress_bar=False)[0]
+            
+            # Return the sentence with its embedding
+            return {
+                'doc_id': doc_id,
+                'sentence': sentence_text,
+                'sentence_index': sentence_index,
+                'embedding': embedding.tolist(),
+                'model_name': model_name,
+                'embedding_dimension': len(embedding)
+            }
+        except Exception as e:
+            print(f'Error encoding sentence for doc_id {doc_id}: {e}')
+            return None
 
-        for documents in db.get_unprocessed_document_batch():
-            documents['doc_text'] = documents['doc_text'].apply(clean_text)
-            yield tokenize_sentences(documents)
+    return unprocessed_sentences.add_limit(10) | document_sentence | document_sentence_vector
 
-    return unprocessed_sentences | document_sentence
-
-def main(dev_mode=False):
+def main(dev_mode=False, test_mode=False):
     import logging
     logging.getLogger("pypdf").setLevel(logging.ERROR)
 
@@ -278,7 +390,7 @@ def main(dev_mode=False):
         pipeline_name='me_legislation',
         destination=dlt.destinations.duckdb(db.db_path),
         progress=dlt.progress.tqdm(colour='blue'),
-        dataset_name=SCHEMA,
+        dataset_name=BRONZE_SCHEMA,
         dev_mode=dev_mode
     )
 
@@ -297,14 +409,14 @@ def main(dev_mode=False):
     #     )
     #     print(bronze_load_info)
 
-    pipeline.dataset_name = 'silver'
+    pipeline.dataset_name = SILVER_SCHEMA
 
     silver_load_info = pipeline.run(
-        text_vectorization().add_limit(1),
+        text_vectorization(),
         write_disposition='replace'
     )
 
     print(silver_load_info)
 
 if __name__ == '__main__':
-    main(dev_mode=False)
+    main(dev_mode=False, test_mode=True)  # Set test_mode=False for production

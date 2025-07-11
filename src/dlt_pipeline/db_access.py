@@ -38,51 +38,63 @@ class Database:
                 WHERE table_schema = '{schema}'
                 AND table_name = '{table_name}'
             '''
-            return conn.execute().fetchone()[0]
+            return conn.execute(check).fetchone()[0]
 
-    def get_unprocessed_document_batch(self, bronze_schema="bronze", silver_schema="silver", batch_size=1000):
-
-        # Check table existence once at the start
+    def stream_query_results(self, query):
+        """
+        Stream query results one row at a time.
+        
+        Args:
+            query (str): SQL query to execute
+            column_names (list, optional): Column names for the result set.
+                                         If None, will use default DuckDB column names.
+        
+        Yields:
+            dict: Each row as a dictionary with column names as keys
+        """
         with duckdb.connect(self.db_path) as conn:
-            table_exists = conn.execute(f"""
-                SELECT COUNT(*) > 0
-                FROM information_schema.tables 
-                WHERE table_schema = '{silver_schema}' 
-                AND table_name = 'testimony_sentences'
-            """).fetchone()[0]
+            # Execute the query and get results
+            result = conn.execute(query)
+            
+            
+            column_names = [desc[0] for desc in result.description]
+            
+            # Stream results one row at a time
+            for row in result.fetchall():
+                yield dict(zip(column_names, row))
 
-        # Build query based on table existence
-        if table_exists:
-            base_query = f"""
+    def stream_unprocessed_documents(self, bronze_schema, silver_schema):
+        """
+        Stream unprocessed documents for text processing.
+        
+        Args:
+            bronze_schema (str): Schema containing raw document data
+            silver_schema (str): Schema containing processed sentence data
+        
+        Yields:
+            dict: Each document with doc_id and doc_text
+        """
+        if self.table_exists(silver_schema, 'testimony_sentences'):
+            query = f'''
                 SELECT doc_id, doc_text
                 FROM {bronze_schema}.testimony_full_text
                 WHERE doc_id NOT IN (
                     SELECT DISTINCT doc_id 
                     FROM {silver_schema}.testimony_sentences
                 )
+                AND doc_text IS NOT NULL 
+                AND LENGTH(doc_text) > 0
                 ORDER BY doc_id
-            """
+            '''
         else:
-            base_query = f"""
+            query = f'''
                 SELECT doc_id, doc_text
                 FROM {bronze_schema}.testimony_full_text
+                WHERE doc_text IS NOT NULL 
+                AND LENGTH(doc_text) > 0
                 ORDER BY doc_id
-            """
-
-        offset = 0
-
-        while True:
-            query = f"{base_query} LIMIT {batch_size} OFFSET {offset}"
-
-            with duckdb.connect(self.db_path) as conn:
-                docs_df = conn.execute(query).fetch_df()
-
-            # Stop if no more results
-            if docs_df.empty:
-                break
-
-            yield docs_df
-
-            offset += batch_size
+            '''
+        
+        yield from self.stream_query_results(query)
 
 
