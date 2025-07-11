@@ -2,11 +2,11 @@ import os
 import re
 import json
 import spacy
-import pandas as pd
 import dlt
 import subprocess
 import sys
 import unicodedata
+import time
 
 from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
@@ -17,14 +17,7 @@ from streamlit import table
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
-# Optional: Add these for enhanced text cleaning
-# import nltk
-# from nltk.corpus import stopwords
-# from nltk.tokenize import word_tokenize
-# import ftfy  # For fixing text encoding issues
-
 import db_access as dba
-import duckdb
 
 DB_NAME = 'maine-legislative-testimony'
 BRONZE_SCHEMA = 'bronze'
@@ -50,13 +43,13 @@ def session_data(session):
     os.makedirs(pdf_repo, exist_ok=True)
 
     @dlt.resource(
-        primary_key=['ld_number', 'legislature', 'item_number']
+        primary_key=['ldNumber', 'legislature', 'itemNumber']
     )
     def bill_text():
         client = RESTClient(
             base_url='https://legislature.maine.gov/mrs-search/api/billtext',
             paginator=OffsetPaginator(
-                limit=200,
+                limit=500,
                 limit_param='pageSize',
                 total_path='hits.total.value'
             )
@@ -81,8 +74,6 @@ def session_data(session):
             'showExtraParameters': 'true',
             'mustHave': '',
             'mustNotHave': '',
-            'offset': 0,
-            'pageSize': 100,
             'sortByScore': 'false',
             'showBillText': 'false',
             'sortAscending': 'false',
@@ -94,7 +85,6 @@ def session_data(session):
                 yield bill
 
     @dlt.transformer(
-        data_from=bill_text,
         primary_key='Id',
         max_table_nesting=0,
         parallelized=True  
@@ -138,23 +128,24 @@ def session_data(session):
             print(f'Error JSON: {resp.text}')
 
     @dlt.transformer(
-        data_from=testimony_attributes,
         primary_key='doc_id',
         parallelized=True  # Enable parallelization for PDF downloads
     )
     def testimony_pdfs(testimony):
         if not testimony:  # Skip if no testimony data
             pass
-            
+
+        doc_id = testimony.get('Id')
+        filepath = pdf_repo / f'{doc_id}.pdf'
+
+        if os.path.exists(filepath): # Skip request if file exists locally
+            pass
+
         client = RESTClient(
             base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
         )
-
-        doc_id = testimony.get('Id')
         params = {'doctype': 'test', 'documentId': doc_id}
         resp = client.get(path='/', params=params)
-
-        filepath = pdf_repo / f'{doc_id}.pdf'
 
         with open(filepath, 'wb') as f:
             f.write(resp.content)
@@ -166,9 +157,8 @@ def session_data(session):
         }
 
     @dlt.transformer(
-        data_from=testimony_pdfs,
         primary_key='doc_id',
-        parallelized=True  # Enable parallelization for text extraction
+        parallelized=True
     )
     def testimony_full_text(pdf_data):
         if not pdf_data:  # Skip if no PDF data
@@ -176,11 +166,13 @@ def session_data(session):
             
         filepath = pdf_data.get('pdf_filepath')
 
+        if not os.path.exists(filepath):
+            time.sleep(0.2)
+
         try:
-            with open(filepath, 'rb') as f:
-                pdf = PdfReader(f, strict=False)
-                raw_text = '\n'.join([page.extract_text() for page in pdf.pages])
-                json_text = json.dumps(raw_text)
+            pdf = PdfReader(filepath, strict=False)
+            raw_text = '\n'.join([page.extract_text() for page in pdf.pages])
+            json_text = json.dumps(raw_text)
             yield {
                 'doc_id': pdf_data.get('doc_id'),
                 'session': session,
@@ -188,7 +180,16 @@ def session_data(session):
             }
         except Exception as e:
             print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
-            pass
+            yield {
+                'doc_id': pdf_data.get('doc_id'),
+                'session': session,
+                'doc_text': f"Error: {str(e)}"
+            }
+
+    bill_text = bill_text.add_limit(2)
+    testimony_attributes = bill_text | testimony_attributes
+    testimony_pdfs = testimony_attributes | testimony_pdfs
+    testimony_full_text = testimony_pdfs | testimony_full_text
 
     return bill_text, testimony_attributes, testimony_pdfs, testimony_full_text
 
@@ -380,9 +381,9 @@ def text_vectorization():
             print(f'Error encoding sentence for doc_id {doc_id}: {e}')
             return None
 
-    return unprocessed_sentences.add_limit(10) | document_sentence | document_sentence_vector
+    return unprocessed_sentences | document_sentence | document_sentence_vector
 
-def main(dev_mode=False, test_mode=False):
+def main(dev_mode=False):
     import logging
     logging.getLogger("pypdf").setLevel(logging.ERROR)
 
@@ -398,25 +399,25 @@ def main(dev_mode=False, test_mode=False):
     end_session = current_session()
     sessions = range(last_session, end_session + 1)
 
-    # print(f'Bronze load — sessions {last_session}-{end_session}')
+    print(f'Bronze load — sessions {last_session}-{end_session}')
+
+    for session in sessions:
+        print(f'Processing session data for {session}')
+
+        bronze_load_info = pipeline.run(
+            session_data(session),
+            write_disposition='append'
+        )
+        print(bronze_load_info)
+
+    # pipeline.dataset_name = SILVER_SCHEMA
     #
-    # for session in sessions:
-    #     print(f'Processing session data for {session}')
+    # silver_load_info = pipeline.run(
+    #     text_vectorization(),
+    #     write_disposition='replace'
+    # )
     #
-    #     bronze_load_info = pipeline.run(
-    #         session_data(session),
-    #         write_disposition='merge'
-    #     )
-    #     print(bronze_load_info)
-
-    pipeline.dataset_name = SILVER_SCHEMA
-
-    silver_load_info = pipeline.run(
-        text_vectorization(),
-        write_disposition='replace'
-    )
-
-    print(silver_load_info)
+    # print(silver_load_info)
 
 if __name__ == '__main__':
-    main(dev_mode=False, test_mode=True)  # Set test_mode=False for production
+    main(dev_mode=False)
