@@ -43,7 +43,8 @@ def session_data(session):
     os.makedirs(pdf_repo, exist_ok=True)
 
     @dlt.resource(
-        primary_key=['ldNumber', 'legislature', 'itemNumber']
+        primary_key=['ldNumber', 'legislature', 'itemNumber'],
+        parallelized=True
     )
     def bill_text():
         client = RESTClient(
@@ -80,23 +81,35 @@ def session_data(session):
             'excludeOrders': 'false'
         }
 
-        for bill_source in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
-            for bill in bill_source:
+        for bill_page in client.paginate(method="GET", params=params, data_selector='hits.hits[*]._source'):
+            for bill in bill_page:
                 yield bill
 
     @dlt.transformer(
         primary_key='Id',
         max_table_nesting=0,
-        parallelized=True  
+        parallelized=True
     )
     def testimony_attributes(bill):
         if session < 126:  # Testimony data only available starting with 126th Legislature
             pass
-            
+        
+        # Track processed paper numbers to avoid duplicates
+        if not hasattr(testimony_attributes, '_processed_papers'):
+            testimony_attributes._processed_papers = set()
+        
+        paper_number = bill.get('paperNumber')
+        
+        # Skip if we've already processed this paper number
+        if paper_number in testimony_attributes._processed_papers:
+            return
+
+        testimony_attributes._processed_papers.add(paper_number)
+
         base_params = {
             '$filter': (
                 "(((Request/PaperNumber eq '{paper_number}') and "
-                "(Request/Legislature eq {legislature})) and "
+                "(Request/Legislature eq {session})) and "
                 "(Inactive ne true)) and "
                 "(not (startswith(LastName, '@') eq true))"
             ),
@@ -112,9 +125,8 @@ def session_data(session):
             base_url='https://legislature.maine.gov/backend/breeze/data/CommitteeTestimony'
         )
 
-        paper_number = bill.get('paperNumber')
         params = base_params.copy()
-        params['$filter'] = params['$filter'].format(paper_number=paper_number, legislature=session)
+        params['$filter'] = params['$filter'].format(paper_number=paper_number, session=session)
 
         resp = client.get(path='/', params=params)
 
@@ -171,7 +183,7 @@ def session_data(session):
 
         try:
             pdf = PdfReader(filepath, strict=False)
-            raw_text = '\n'.join([page.extract_text() for page in pdf.pages])
+            raw_text = ' '.join([page.extract_text() for page in pdf.pages]).strip() or None
             json_text = json.dumps(raw_text)
             yield {
                 'doc_id': pdf_data.get('doc_id'),
@@ -186,7 +198,7 @@ def session_data(session):
                 'doc_text': f"Error: {str(e)}"
             }
 
-    bill_text = bill_text.add_limit(2)
+    bill_text = bill_text.add_limit(1)
     testimony_attributes = bill_text | testimony_attributes
     testimony_pdfs = testimony_attributes | testimony_pdfs
     testimony_full_text = testimony_pdfs | testimony_full_text
@@ -213,93 +225,79 @@ def text_vectorization():
                 raise
 
     @dlt.resource
-    def unprocessed_sentences(limit=None):
-        # Use the Database class streaming method with optional limit
-        count = 0
+    def doc_text():
         for doc in db.stream_unprocessed_documents(BRONZE_SCHEMA, SILVER_SCHEMA):
+            def clean_text(text):
+                """
+                Comprehensive text cleaning function to handle PDF extraction artifacts,
+                Unicode issues, and common text problems.
+                """
+
+                # Convert to string if it's not already
+                if not isinstance(text, str):
+                    text = str(text)
+                
+                # Decode common Unicode escape sequences
+                text = text.encode('utf-8', errors='ignore').decode('utf-8')
+                
+                # Handle common PDF extraction artifacts
+                text = re.sub(r'u[0-9a-fA-F]{4}', '', text)  # Remove u0000, u2018, etc.
+                text = re.sub(r'\\u[0-9a-fA-F]{4}', '', text)  # Remove escaped unicode
+                text = re.sub(r'\\x[0-9a-fA-F]{2}', '', text)  # Remove hex escapes
+                
+                # Remove control characters and non-printable characters
+                text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C')
+                
+                # Normalize Unicode characters
+                text = unicodedata.normalize('NFKC', text)
+                
+                # Replace common problematic characters
+                replacements = {
+                    '\u2018': "'",  # Left single quotation mark
+                    '\u2019': "'",  # Right single quotation mark
+                    '\u201c': '"',  # Left double quotation mark
+                    '\u201d': '"',  # Right double quotation mark
+                    '\u2013': '-',  # En dash
+                    '\u2014': '--',  # Em dash
+                    '\u2022': '•',  # Bullet
+                    '\u00a0': ' ',  # Non-breaking space
+                    '\u00b0': '°',  # Degree sign
+                    '\u00ae': '®',  # Registered trademark
+                    '\u00a7': '§',  # Section sign
+                    '\u00bb': '»',  # Right-pointing double angle quotation mark
+                    '\u00ab': '«',  # Left-pointing double angle quotation mark
+                }
+                
+                for old, new in replacements.items():
+                    text = text.replace(old, new)
+                
+                # Remove excessive whitespace and normalize line breaks
+                text = re.sub(r'\n+|\\n|\r\n|\r', ' ', text)  # Replace all line breaks with space
+                text = re.sub(r'\t+', ' ', text)  # Replace tabs with space
+                text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
+                
+                # Remove common PDF artifacts
+                text = re.sub(r'[^\w\s.,!?;:()\'"\-–—•°®§»«]', '', text)  # Keep only readable characters
+                
+                # Clean up punctuation
+                text = re.sub(r'\s+([.,!?;:])', r'\1', text)  # Remove space before punctuation
+                text = re.sub(r'([.,!?;:])\s*([.,!?;:])', r'\1', text)  # Remove duplicate punctuation
+                
+                # Remove isolated characters and very short fragments
+                text = re.sub(r'\b[a-zA-Z]\b', '', text)  # Remove single letters
+                text = re.sub(r'\b\d+\b', '', text)  # Remove isolated numbers
+                
+                # Final cleanup
+                text = text.strip()
+                
+                return text
+
+            doc['doc_text'] = clean_text(doc['doc_text'])
+
             yield doc
-            count += 1
-            if limit and count >= limit:
-                break
 
     @dlt.transformer
-    def document_sentence(doc, limit=None):
-        def clean_text(text):
-            """
-            Comprehensive text cleaning function to handle PDF extraction artifacts,
-            Unicode issues, and common text problems.
-            """
-            import re
-            import unicodedata
-            
-            # Convert to string if it's not already
-            if not isinstance(text, str):
-                text = str(text)
-            
-            # Decode common Unicode escape sequences
-            text = text.encode('utf-8', errors='ignore').decode('utf-8')
-            
-            # Handle common PDF extraction artifacts
-            text = re.sub(r'u[0-9a-fA-F]{4}', '', text)  # Remove u0000, u2018, etc.
-            text = re.sub(r'\\u[0-9a-fA-F]{4}', '', text)  # Remove escaped unicode
-            text = re.sub(r'\\x[0-9a-fA-F]{2}', '', text)  # Remove hex escapes
-            
-            # Remove control characters and non-printable characters
-            text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C')
-            
-            # Normalize Unicode characters
-            text = unicodedata.normalize('NFKC', text)
-            
-            # Replace common problematic characters
-            replacements = {
-                '\u2018': "'",  # Left single quotation mark
-                '\u2019': "'",  # Right single quotation mark
-                '\u201c': '"',  # Left double quotation mark
-                '\u201d': '"',  # Right double quotation mark
-                '\u2013': '-',  # En dash
-                '\u2014': '--', # Em dash
-                '\u2022': '•',  # Bullet
-                '\u00a0': ' ',  # Non-breaking space
-                '\u00b0': '°',  # Degree sign
-                '\u00ae': '®',  # Registered trademark
-                '\u00a7': '§',  # Section sign
-                '\u00bb': '»',  # Right-pointing double angle quotation mark
-                '\u00ab': '«',  # Left-pointing double angle quotation mark
-            }
-            
-            for old, new in replacements.items():
-                text = text.replace(old, new)
-            
-            # Remove excessive whitespace and normalize line breaks
-            text = re.sub(r'\n+|\\n|\r\n|\r', ' ', text)  # Replace all line breaks with space
-            text = re.sub(r'\t+', ' ', text)  # Replace tabs with space
-            text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
-            
-            # Remove common PDF artifacts
-            text = re.sub(r'[^\w\s.,!?;:()\'"\-–—•°®§»«]', '', text)  # Keep only readable characters
-            
-            # Clean up punctuation
-            text = re.sub(r'\s+([.,!?;:])', r'\1', text)  # Remove space before punctuation
-            text = re.sub(r'([.,!?;:])\s*([.,!?;:])', r'\1', text)  # Remove duplicate punctuation
-            
-            # Remove isolated characters and very short fragments
-            text = re.sub(r'\b[a-zA-Z]\b', '', text)  # Remove single letters
-            text = re.sub(r'\b\d+\b', '', text)  # Remove isolated numbers
-            
-            # Final cleanup
-            text = text.strip()
-            
-            # Remove sentences that are too short or contain mostly artifacts
-            if len(text) < 10:  # Too short to be meaningful
-                return ""
-            
-            # Check if text contains mostly readable content
-            readable_chars = len(re.findall(r'[a-zA-Z]', text))
-            total_chars = len(text.replace(' ', ''))
-            if total_chars > 0 and readable_chars / total_chars < 0.3:  # Less than 30% readable
-                return ""
-            
-            return text
+    def doc_sentence(doc):
 
         nlp = load_spacy_model()
 
@@ -310,22 +308,12 @@ def text_vectorization():
         doc_id = doc.get('doc_id')
         doc_text = doc.get('doc_text', '')
         
-        if not doc_text or len(doc_text.strip()) == 0:
-            pass
-        
-        # Clean the text
-        cleaned_text = clean_text(doc_text)
-        
-        # Skip if cleaning resulted in empty text
-        if not cleaned_text or len(cleaned_text.strip()) == 0:
-            pass
-        
         # Process the single document
-        nlp.max_length = len(cleaned_text)
+        nlp.max_length = len(doc_text)
         
         sentence_count = 0
         with nlp.select_pipes(enable=['sentencizer']):
-            processed_doc = nlp(cleaned_text)
+            processed_doc = nlp(doc_text)
             
             # Generate sentences with proper indexing
             for idx, sent in enumerate(processed_doc.sents):
@@ -336,9 +324,6 @@ def text_vectorization():
                         'sentence': sent_text,
                         'sentence_index': idx
                     }
-                    sentence_count += 1
-                    if limit and sentence_count >= limit:
-                        break
 
     @dlt.transformer(
         max_table_nesting=0,
@@ -347,7 +332,7 @@ def text_vectorization():
             "embedding": {"data_type": "json"}
         }
     )
-    def document_sentence_vector(sentence, limit=None):
+    def document_sentence_vector(sentence):
         
         model_name = 'all-MiniLM-L12-v2'
         
@@ -381,7 +366,8 @@ def text_vectorization():
             print(f'Error encoding sentence for doc_id {doc_id}: {e}')
             return None
 
-    return unprocessed_sentences | document_sentence | document_sentence_vector
+    return (doc_text,
+            doc_text | doc_sentence | document_sentence_vector)
 
 def main(dev_mode=False):
     import logging
@@ -406,18 +392,18 @@ def main(dev_mode=False):
 
         bronze_load_info = pipeline.run(
             session_data(session),
-            write_disposition='append'
+            write_disposition='merge'
         )
         print(bronze_load_info)
 
-    # pipeline.dataset_name = SILVER_SCHEMA
-    #
-    # silver_load_info = pipeline.run(
-    #     text_vectorization(),
-    #     write_disposition='replace'
-    # )
-    #
-    # print(silver_load_info)
+    pipeline.dataset_name = SILVER_SCHEMA
+
+    silver_load_info = pipeline.run(
+        text_vectorization(),
+        write_disposition='merge'
+    )
+
+    print(silver_load_info)
 
 if __name__ == '__main__':
     main(dev_mode=False)
