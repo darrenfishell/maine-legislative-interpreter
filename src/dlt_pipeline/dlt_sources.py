@@ -13,7 +13,6 @@ from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
 from pathlib import Path
 from pypdf import PdfReader
-from streamlit import table
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
@@ -41,6 +40,8 @@ def current_session():
 def session_data(session):
     pdf_repo = Path(__file__).parents[1] / 'testimony_pdfs' / str(session)
     os.makedirs(pdf_repo, exist_ok=True)
+
+    print(f'Retrieving session bills and testimony for {session}')
 
     @dlt.resource(
         primary_key=['ldNumber', 'legislature', 'itemNumber'],
@@ -93,13 +94,13 @@ def session_data(session):
     def testimony_attributes(bill):
         if session < 126:  # Testimony data only available starting with 126th Legislature
             pass
-        
+
         # Track processed paper numbers to avoid duplicates
         if not hasattr(testimony_attributes, '_processed_papers'):
             testimony_attributes._processed_papers = set()
-        
+
         paper_number = bill.get('paperNumber')
-        
+
         # Skip if we've already processed this paper number
         if paper_number in testimony_attributes._processed_papers:
             return
@@ -175,7 +176,7 @@ def session_data(session):
     def testimony_full_text(pdf_data):
         if not pdf_data:  # Skip if no PDF data
             pass
-            
+
         filepath = pdf_data.get('pdf_filepath')
 
         if not os.path.exists(filepath):
@@ -198,7 +199,6 @@ def session_data(session):
                 'doc_text': f"Error: {str(e)}"
             }
 
-    bill_text = bill_text.add_limit(1)
     testimony_attributes = bill_text | testimony_attributes
     testimony_pdfs = testimony_attributes | testimony_pdfs
     testimony_full_text = testimony_pdfs | testimony_full_text
@@ -206,11 +206,19 @@ def session_data(session):
     return bill_text, testimony_attributes, testimony_pdfs, testimony_full_text
 
 @dlt.source
-def text_vectorization():
+def text_vectorization(session):
+    import torch
+
+    print(f'Generating embeddings for {session} testimony')
 
     def load_spacy_model(model_name='en_core_web_sm'):
+        """Load spaCy model optimized for sentence extraction only."""
         try:
-            nlp = spacy.load(model_name)
+            nlp = spacy.load(model_name, disable=['tagger', 'attribute_ruler', 'lemmatizer', 'ner', 'parser'])
+            
+            if not nlp.has_pipe('sentencizer'):
+                nlp.add_pipe('sentencizer')
+            
             return nlp
         except OSError:
             print(f'Model {model_name} not found. Downloading...')
@@ -218,112 +226,133 @@ def text_vectorization():
                 sys.executable, '-m', 'spacy', 'download', model_name
             ])
             try:
-                nlp = spacy.load(model_name)
+                nlp = spacy.load(model_name, disable=['tagger', 'attribute_ruler', 'lemmatizer', 'ner', 'parser'])
+                
+                if not nlp.has_pipe('sentencizer'):
+                    nlp.add_pipe('sentencizer')
+                
                 return nlp
             except Exception as e:
                 print(f'Failed to load {model_name} after download: {e}')
                 raise
 
-    @dlt.resource
+    def clean_text(text):
+        """
+        Comprehensive text cleaning function to handle PDF extraction artifacts,
+        Unicode issues, and common text problems.
+        """
+
+        # Convert to string if it's not already
+        if not isinstance(text, str):
+            text = str(text)
+
+        # Decode common Unicode escape sequences
+        text = text.encode('utf-8', errors='ignore').decode('utf-8')
+
+        # Handle common PDF extraction artifacts
+        text = re.sub(r'u[0-9a-fA-F]{4}', '', text)  # Remove u0000, u2018, etc.
+        text = re.sub(r'\\u[0-9a-fA-F]{4}', '', text)  # Remove escaped unicode
+        text = re.sub(r'\\x[0-9a-fA-F]{2}', '', text)  # Remove hex escapes
+
+        # Remove control characters and non-printable characters
+        text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C')
+
+        # Normalize Unicode characters
+        text = unicodedata.normalize('NFKC', text)
+
+        # Replace common problematic characters
+        replacements = {
+            '\u2018': "'",  # Left single quotation mark
+            '\u2019': "'",  # Right single quotation mark
+            '\u201c': '"',  # Left double quotation mark
+            '\u201d': '"',  # Right double quotation mark
+            '\u2013': '-',  # En dash
+            '\u2014': '--',  # Em dash
+            '\u2022': '•',  # Bullet
+            '\u00a0': ' ',  # Non-breaking space
+            '\u00b0': '°',  # Degree sign
+            '\u00ae': '®',  # Registered trademark
+            '\u00a7': '§',  # Section sign
+            '\u00bb': '»',  # Right-pointing double angle quotation mark
+            '\u00ab': '«',  # Left-pointing double angle quotation mark
+        }
+
+        for old, new in replacements.items():
+            text = text.replace(old, new)
+
+        # Remove excessive whitespace and normalize line breaks
+        text = re.sub(r'\n+|\\n|\r\n|\r', ' ', text)  # Replace all line breaks with space
+        text = re.sub(r'\t+', ' ', text)  # Replace tabs with space
+        text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
+
+        # Remove common PDF artifacts
+        text = re.sub(r'[^\w\s.,!?;:()\'"\-–—•°®§»«]', '', text)  # Keep only readable characters
+
+        # Clean up punctuation
+        text = re.sub(r'\s+([.,!?;:])', r'\1', text)  # Remove space before punctuation
+        text = re.sub(r'([.,!?;:])\s*([.,!?;:])', r'\1', text)  # Remove duplicate punctuation
+
+        # Remove isolated characters and very short fragments
+        text = re.sub(r'\b[a-zA-Z]\b', '', text)  # Remove single letters
+        text = re.sub(r'\b\d+\b', '', text)  # Remove isolated numbers
+
+        # Final cleanup
+        text = text.strip()
+
+        return text
+
+    @dlt.resource(
+        primary_key='doc_id',
+        parallelized=True
+    )
     def doc_text():
-        for doc in db.stream_unprocessed_documents(BRONZE_SCHEMA, SILVER_SCHEMA):
-            def clean_text(text):
-                """
-                Comprehensive text cleaning function to handle PDF extraction artifacts,
-                Unicode issues, and common text problems.
-                """
+        unprocessed_docs = db.get_unprocessed_documents(BRONZE_SCHEMA, SILVER_SCHEMA, session)
+        print(f'Processing {len(unprocessed_docs)} docs for {session}')
 
-                # Convert to string if it's not already
-                if not isinstance(text, str):
-                    text = str(text)
-                
-                # Decode common Unicode escape sequences
-                text = text.encode('utf-8', errors='ignore').decode('utf-8')
-                
-                # Handle common PDF extraction artifacts
-                text = re.sub(r'u[0-9a-fA-F]{4}', '', text)  # Remove u0000, u2018, etc.
-                text = re.sub(r'\\u[0-9a-fA-F]{4}', '', text)  # Remove escaped unicode
-                text = re.sub(r'\\x[0-9a-fA-F]{2}', '', text)  # Remove hex escapes
-                
-                # Remove control characters and non-printable characters
-                text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C')
-                
-                # Normalize Unicode characters
-                text = unicodedata.normalize('NFKC', text)
-                
-                # Replace common problematic characters
-                replacements = {
-                    '\u2018': "'",  # Left single quotation mark
-                    '\u2019': "'",  # Right single quotation mark
-                    '\u201c': '"',  # Left double quotation mark
-                    '\u201d': '"',  # Right double quotation mark
-                    '\u2013': '-',  # En dash
-                    '\u2014': '--',  # Em dash
-                    '\u2022': '•',  # Bullet
-                    '\u00a0': ' ',  # Non-breaking space
-                    '\u00b0': '°',  # Degree sign
-                    '\u00ae': '®',  # Registered trademark
-                    '\u00a7': '§',  # Section sign
-                    '\u00bb': '»',  # Right-pointing double angle quotation mark
-                    '\u00ab': '«',  # Left-pointing double angle quotation mark
-                }
-                
-                for old, new in replacements.items():
-                    text = text.replace(old, new)
-                
-                # Remove excessive whitespace and normalize line breaks
-                text = re.sub(r'\n+|\\n|\r\n|\r', ' ', text)  # Replace all line breaks with space
-                text = re.sub(r'\t+', ' ', text)  # Replace tabs with space
-                text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
-                
-                # Remove common PDF artifacts
-                text = re.sub(r'[^\w\s.,!?;:()\'"\-–—•°®§»«]', '', text)  # Keep only readable characters
-                
-                # Clean up punctuation
-                text = re.sub(r'\s+([.,!?;:])', r'\1', text)  # Remove space before punctuation
-                text = re.sub(r'([.,!?;:])\s*([.,!?;:])', r'\1', text)  # Remove duplicate punctuation
-                
-                # Remove isolated characters and very short fragments
-                text = re.sub(r'\b[a-zA-Z]\b', '', text)  # Remove single letters
-                text = re.sub(r'\b\d+\b', '', text)  # Remove isolated numbers
-                
-                # Final cleanup
-                text = text.strip()
-                
-                return text
-
+        for doc in unprocessed_docs:
             doc['doc_text'] = clean_text(doc['doc_text'])
-
             yield doc
 
     @dlt.transformer
     def doc_sentence(doc):
+        if not hasattr(doc_sentence, 'nlp'):
+            doc_sentence.nlp = load_spacy_model()
+            if not doc_sentence.nlp.has_pipe('sentencizer'):
+                doc_sentence.nlp.add_pipe('sentencizer')
 
-        nlp = load_spacy_model()
-
-        if not nlp.has_pipe('sentencizer'):
-            nlp.add_pipe('sentencizer')
+        nlp = doc_sentence.nlp
 
         # Extract document data
         doc_id = doc.get('doc_id')
         doc_text = doc.get('doc_text', '')
-        
-        # Process the single document
-        nlp.max_length = len(doc_text)
-        
-        sentence_count = 0
+        doc_length = len(doc_text)
+
+        nlp.max_length = doc_length + 1000
+
+        sentences = []
         with nlp.select_pipes(enable=['sentencizer']):
             processed_doc = nlp(doc_text)
-            
-            # Generate sentences with proper indexing
+
+            # Collect all sentences for this document
             for idx, sent in enumerate(processed_doc.sents):
                 sent_text = sent.text.strip()
-                if len(sent_text) > 10:  # Only yield sentences with meaningful length
-                    yield {
+                if len(sent_text) > 10:
+                    sentences.append({
                         'doc_id': doc_id,
                         'sentence': sent_text,
                         'sentence_index': idx
-                    }
+                    })
+
+        # Return all sentences for this document as a batch
+        return sentences
+
+    def cleanup_gpu_resources():
+        """Clean up GPU resources."""
+        try:
+            if torch.backends.mps.is_available():
+                torch.mps.empty_cache()
+        except Exception as e:
+            print(f"GPU cleanup warning: {e}")
 
     @dlt.transformer(
         max_table_nesting=0,
@@ -332,42 +361,83 @@ def text_vectorization():
             "embedding": {"data_type": "json"}
         }
     )
-    def document_sentence_vector(sentence):
-        
+    def document_sentence_vector(sentence_batch):
         model_name = 'all-MiniLM-L12-v2'
-        
+
+        # Load model once (single process)
         if not hasattr(document_sentence_vector, 'model'):
+            # M3 Mac optimizations
+            if torch.backends.mps.is_available():
+                device = torch.device("mps")
+                print(f"Using M3 GPU (MPS) for embeddings")
+                batch_size = 128  # M3 can handle larger batches
+            else:
+                device = torch.device("cpu")
+                print(f"MPS not available, using CPU")
+                batch_size = 64
+
             document_sentence_vector.model = SentenceTransformer(model_name)
-        
+            document_sentence_vector.model.to(device)
+            document_sentence_vector.device = device
+            document_sentence_vector.batch_size = batch_size
+
         model = document_sentence_vector.model
-        
-        # Extract sentence text
-        sentence_text = sentence.get('sentence', '')
-        doc_id = sentence.get('doc_id')
-        sentence_index = sentence.get('sentence_index')
-        
-        if not sentence_text or len(sentence_text.strip()) == 0:
-            return None
-        
+        device = document_sentence_vector.device
+        batch_size = document_sentence_vector.batch_size
+
+        # Extract sentences and metadata
+        sentences = []
+        metadata = []
+
+        for sentence_data in sentence_batch:
+            sentence_text = sentence_data.get('sentence', '')
+            if sentence_text and len(sentence_text.strip()) > 0:
+                sentences.append(sentence_text)
+                metadata.append(sentence_data)
+
+        if not sentences:
+            return []
+
         try:
-            # Encode the sentence to get embeddings
-            embedding = model.encode([sentence_text], show_progress_bar=False)[0]
-            
-            # Return the sentence with its embedding
-            return {
-                'doc_id': doc_id,
-                'sentence': sentence_text,
-                'sentence_index': sentence_index,
-                'embedding': embedding.tolist(),
-                'model_name': model_name,
-                'embedding_dimension': len(embedding)
-            }
+            # Batch encode with M3-optimized settings
+            embeddings = model.encode(
+                sentences,
+                show_progress_bar=False,
+                device=device,
+                batch_size=batch_size,
+                convert_to_numpy=True,
+                normalize_embeddings=False
+            )
+
+            # Return all sentences with their embeddings
+            results = []
+            for embedding, sentence_data in zip(embeddings, metadata):
+                results.append({
+                    'doc_id': sentence_data['doc_id'],
+                    'sentence': sentence_data['sentence'],
+                    'sentence_index': sentence_data['sentence_index'],
+                    'embedding': embedding.tolist(),
+                    'model_name': model_name,
+                    'embedding_dimension': len(embedding)
+                })
+
+            return results
+
         except Exception as e:
-            print(f'Error encoding sentence for doc_id {doc_id}: {e}')
-            return None
+            print(f'Error encoding sentences for doc_id {metadata[0]["doc_id"] if metadata else "unknown"}: {e}')
+            return []
+
+        finally:
+            cleanup_gpu_resources()
 
     return (doc_text,
             doc_text | doc_sentence | document_sentence_vector)
+
+def get_bill_range():
+    last_session = db.latest_loaded_session()
+    end_session = current_session()
+    sessions = range(last_session, end_session + 1)
+    return sessions
 
 def main(dev_mode=False):
     import logging
@@ -381,29 +451,24 @@ def main(dev_mode=False):
         dev_mode=dev_mode
     )
 
-    last_session = db.latest_loaded_session()
-    end_session = current_session()
-    sessions = range(last_session, end_session + 1)
+    bill_range = get_bill_range()
+    print(f'Bronze load — sessions {min(bill_range)}-{max(bill_range)}')
 
-    print(f'Bronze load — sessions {last_session}-{end_session}')
-
-    for session in sessions:
-        print(f'Processing session data for {session}')
-
-        bronze_load_info = pipeline.run(
-            session_data(session),
-            write_disposition='merge'
-        )
-        print(bronze_load_info)
+    # for session in bill_range:
+    #     bronze_load_info = pipeline.run(
+    #         session_data(session),
+    #         write_disposition='merge'
+    #     )
+    #     print(bronze_load_info)
 
     pipeline.dataset_name = SILVER_SCHEMA
 
-    silver_load_info = pipeline.run(
-        text_vectorization(),
-        write_disposition='merge'
-    )
-
-    print(silver_load_info)
+    for session in range(126, max(bill_range)):
+        silver_load_info = pipeline.run(
+            text_vectorization(session),
+            write_disposition='merge'
+        )
+        print(silver_load_info)
 
 if __name__ == '__main__':
     main(dev_mode=False)

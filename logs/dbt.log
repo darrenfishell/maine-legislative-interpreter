@@ -1,0 +1,32 @@
+[0m10:46:33.633248 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1104489e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110b9aa50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110b9a7e0>]}
+
+
+============================== 10:46:33.636090 | 61fd6b06-0796-4e04-9315-fcf9594fc178 ==============================
+[0m10:46:33.636090 [info ] [MainThread]: Running with dbt=1.9.4
+[0m10:46:33.636375 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/Darren/.dbt', 'debug': 'False', 'warn_error': 'None', 'log_path': 'logs', 'version_check': 'True', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'invocation_command': 'dbt init maine_legislative_interpreter', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m10:46:33.644592 [debug] [MainThread]: Starter project path: /Users/Darren/miniconda3/envs/me_legislation/lib/python3.12/site-packages/dbt/include/starter_project
+[0m10:46:33.648546 [info ] [MainThread]: 
+Your new dbt project "maine_legislative_interpreter" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m10:46:33.648713 [info ] [MainThread]: Setting up your profile.
+[0m10:46:33.649455 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No adapters available. Learn how to install an adapter by going to https://docs.getdbt.com/docs/connect-adapters#install-using-the-cli
+[0m10:46:33.651413 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": false, "command_wall_clock_time": 0.059875667, "process_in_blocks": "0", "process_kernel_time": 0.139318, "process_mem_max_rss": "109412352", "process_out_blocks": "0", "process_user_time": 0.678727}
+[0m10:46:33.651632 [debug] [MainThread]: Command `dbt init` failed at 10:46:33.651585 after 0.06 seconds
+[0m10:46:33.651809 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11057de20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110bb52e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110b9a9c0>]}
+[0m10:46:33.651960 [debug] [MainThread]: Flushing usage events
+[0m10:46:34.237851 [debug] [MainThread]: An error was encountered while trying to flush usage events

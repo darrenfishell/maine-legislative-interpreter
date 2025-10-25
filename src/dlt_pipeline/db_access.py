@@ -40,61 +40,31 @@ class Database:
             '''
             return conn.execute(check).fetchone()[0]
 
-    def stream_query_results(self, query):
-        """
-        Stream query results one row at a time.
-        
-        Args:
-            query (str): SQL query to execute
-            column_names (list, optional): Column names for the result set.
-                                         If None, will use default DuckDB column names.
-        
-        Yields:
-            dict: Each row as a dictionary with column names as keys
-        """
-        with duckdb.connect(self.db_path) as conn:
-            # Execute the query and get results
-            result = conn.execute(query)
-            
-            
-            column_names = [desc[0] for desc in result.description]
-            
-            # Stream results one row at a time
-            for row in result.fetchall():
-                yield dict(zip(column_names, row))
-
-    def stream_unprocessed_documents(self, bronze_schema, silver_schema):
-        """
-        Stream unprocessed documents for text processing.
-        
-        Args:
-            bronze_schema (str): Schema containing raw document data
-            silver_schema (str): Schema containing processed sentence data
-        
-        Yields:
-            dict: Each document with doc_id and doc_text
-        """
-        if self.table_exists(silver_schema, 'testimony_sentences'):
+    def get_unprocessed_documents(self, bronze_schema, silver_schema, session):
+        if self.table_exists(silver_schema, 'document_sentence_vector'):
             query = f'''
-                SELECT doc_id, doc_text
-                FROM {bronze_schema}.testimony_full_text
-                WHERE doc_id NOT IN (
-                    SELECT DISTINCT doc_id 
-                    FROM {silver_schema}.testimony_sentences
-                )
-                AND doc_text IS NOT NULL 
-                AND LENGTH(doc_text) > 0
-                ORDER BY doc_id
+                SELECT t.doc_id, t.doc_text
+                FROM {bronze_schema}.testimony_full_text t
+                LEFT JOIN {silver_schema}.document_sentence_vector s ON t.doc_id = s.doc_id
+                WHERE s.doc_id IS NULL
+                AND t.doc_text IS NOT NULL
+                AND t.doc_text != 'null'
+                AND LENGTH(t.doc_text) > 10
+                AND t.session = '{session}'
+                ORDER BY t.doc_id
             '''
         else:
             query = f'''
                 SELECT doc_id, doc_text
                 FROM {bronze_schema}.testimony_full_text
                 WHERE doc_text IS NOT NULL 
-                AND LENGTH(doc_text) > 0
+                AND LENGTH(doc_text) > 10
+                AND session = '{session}'
                 ORDER BY doc_id
             '''
         
-        yield from self.stream_query_results(query)
+        with duckdb.connect(self.db_path) as conn:
+            result = conn.execute(query).df().to_dict('records')
+            return result
 
 

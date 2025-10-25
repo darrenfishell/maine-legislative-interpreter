@@ -3,3 +3,5 @@
 __pycache__
 /dbeaver-proj
 *.pdf
+.gitkeep
+.log
