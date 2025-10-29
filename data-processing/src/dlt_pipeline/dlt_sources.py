@@ -21,8 +21,7 @@ import db_access as dba
 DB_NAME = 'maine-legislative-testimony'
 BRONZE_SCHEMA = 'bronze'
 SILVER_SCHEMA = 'silver'
-GOLD_SCHEMA = 'gold'
-db = dba.Database(DB_NAME, BRONZE_SCHEMA, SILVER_SCHEMA, GOLD_SCHEMA)
+db = dba.Database(DB_NAME, BRONZE_SCHEMA, SILVER_SCHEMA)
 
 def current_session():
     '''

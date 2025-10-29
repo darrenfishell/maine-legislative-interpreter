@@ -5,13 +5,12 @@ from pathlib import Path
 
 
 class Database:
-    def __init__(self, db_name, bronze_schema, silver_schema, gold_schema):
+    def __init__(self, db_name, bronze_schema, silver_schema):
         self.db_name = db_name + '.duckdb'
         self.data_root = Path(__file__).resolve().parents[2] / 'data'
         self.db_path = self.data_root / self.db_name
         self.bronze_schema = bronze_schema
         self.silver_schema = silver_schema
-        self.gold_schema = gold_schema
         os.makedirs(self.data_root, exist_ok=True)
 
     def latest_loaded_session(self) -> int:
