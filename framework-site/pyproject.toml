@@ -1,0 +1,35 @@
+[project]
+name = "me-legislation-frontend"
+version = "0.1.0"
+description = "Maine legislation web interface"
+requires-python = ">=3.9"
+dependencies = [
+    "flask==3.0.*",
+    "werkzeug==3.0.*",
+    "streamlit",  # If using Streamlit
+]
+
+[project.optional-dependencies]
+dev = [
+    "poethepoet>=0.24.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.poe.tasks.install-node]
+help = "Install Node.js dependencies"
+cmd = "yarn install"
+
+[tool.poe.tasks.build]
+help = "Build frontend assets"
+cmd = "yarn build"
+
+[tool.poe.tasks.dev]
+help = "Run development server"
+cmd = "flask run --debug"
+
+[tool.poe.tasks.setup]
+help = "Setup frontend environment"
+sequence = ["install-node", "build"]

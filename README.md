@@ -1,8 +1,8 @@
 # Project
 
-- [Plan](project-reports/plan.md)
-- [Proposal](project-reports/proposal.md)
-- **New**: [EDA results](project-reports/eda_phase1.md)
+- [Plan](docs/project-reports/plan.md)
+- [Proposal](docs/project-reports/proposal.md)
+- **New**: [EDA results](docs/project-reports/eda_phase1.md)
 
 # Reproducibility
 
@@ -66,7 +66,7 @@ make
 make target-name
 ```
 
-There are additional scripts stored within this package that are still in development that will allow for extending this analysis to review specific subsets of the original information. This includes a class for `LegislativeSession` with methods that will ultimately replicate the data extraction functions currently within [`pipeline.py`](src/pipeline.py). 
+There are additional scripts stored within this package that are still in development that will allow for extending this analysis to review specific subsets of the original information. This includes a class for `LegislativeSession` with methods that will ultimately replicate the data extraction functions currently within [`pipeline.py`](data-processing/src/pipeline.py). 
 
 ### Reproducibility concerns for sentence embedding steps
 I have small prototypes of using `sentence_transformers` to get sentence embeddings from the testimony corpus. My intention is to attempt to build and run inference on this corpus locally, using GPU acceleration for Apple Silicon. The procedures I write will be adaptable to other GPUs, but will require some customization as I will not be able to test the performance of this step on other hardware. 

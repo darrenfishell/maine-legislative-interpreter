@@ -1,7 +1,7 @@
 /language-models
-/data
+/data-processing/data
 __pycache__
-/dbeaver-proj
+/data-processing/dbeaver-proj
 *.pdf
-.gitkeep
-.log
+*.gitkeep
+*.log
