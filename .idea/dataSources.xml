@@ -5,7 +5,7 @@
       <driver-ref>duckdb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.duckdb.DuckDBDriver</jdbc-driver>
-      <jdbc-url>jdbc:duckdb:$PROJECT_DIR$/data/maine-legislative-testimony.duckdb</jdbc-url>
+      <jdbc-url>jdbc:duckdb:$PROJECT_DIR$/data-processing/data/maine-legislative-testimony.duckdb</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

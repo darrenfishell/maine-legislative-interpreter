@@ -58,13 +58,21 @@ def session_data(session: int):
 
         doc_id = testimony.get('Id')
         filepath = pdf_repo / f'{doc_id}.pdf'
+        tmp_path = filepath.with_suffix(filepath.suffix + '.tmp')
+
+        # Clean up any stale temporary file from a previous interrupted run
+        if os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                if not Config.QUIET_ERRORS:
+                    tqdm.write(f'Could not remove stale tmp file: {tmp_path}')
 
         if os.path.exists(filepath):
             return
 
         try:
             content = download_document(doc_id)
-            tmp_path = filepath.with_suffix(filepath.suffix + '.tmp')
             with open(tmp_path, 'wb') as f:
                 f.write(content)
             # Atomic replace ensures we never leave a partially written target
@@ -72,6 +80,12 @@ def session_data(session: int):
         except Exception as e:
             if not Config.QUIET_ERRORS:
                 tqdm.write(f'download failed for doc_id={doc_id}: {e}')
+            # Best-effort cleanup of tmp file
+            try:
+                if os.path.exists(tmp_path):
+                    os.remove(tmp_path)
+            except Exception:
+                pass
             return
 
         yield {
