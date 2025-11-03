@@ -31,7 +31,7 @@ def session_data(session: int):
     )
     def testimony_attributes(bill):
         if session < 126:
-            pass
+            return
 
         if not hasattr(testimony_attributes, '_processed_papers'):
             testimony_attributes._processed_papers = set()
@@ -54,18 +54,21 @@ def session_data(session: int):
     )
     def testimony_pdfs(testimony):
         if not testimony:
-            pass
+            return
 
         doc_id = testimony.get('Id')
         filepath = pdf_repo / f'{doc_id}.pdf'
 
         if os.path.exists(filepath):
-            pass
+            return
 
         try:
             content = download_document(doc_id)
-            with open(filepath, 'wb') as f:
+            tmp_path = filepath.with_suffix(filepath.suffix + '.tmp')
+            with open(tmp_path, 'wb') as f:
                 f.write(content)
+            # Atomic replace ensures we never leave a partially written target
+            os.replace(tmp_path, filepath)
         except Exception as e:
             if not Config.QUIET_ERRORS:
                 tqdm.write(f'download failed for doc_id={doc_id}: {e}')
@@ -83,7 +86,7 @@ def session_data(session: int):
     )
     def testimony_full_text(pdf_data):
         if not pdf_data:
-            pass
+            return
 
         filepath = pdf_data.get('pdf_filepath')
         if not os.path.exists(filepath):
