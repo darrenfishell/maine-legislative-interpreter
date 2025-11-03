@@ -1,7 +1,8 @@
 import dlt
 from typing import List, Dict
 from ..config import Config
-import db_access as dba
+from .. import db_access as dba
+from tqdm import tqdm
 
 from ..utils.text import clean_text
 from ..utils.nlp import load_spacy_model
@@ -12,7 +13,7 @@ from ..services.embeddings import EmbeddingService
 def text_vectorization(session: int):
     import torch
 
-    print(f'Generating embeddings for {session} testimony')
+    tqdm.write(f'Generating embeddings for {session} testimony')
 
     @dlt.resource(
         primary_key='doc_id',
@@ -21,7 +22,7 @@ def text_vectorization(session: int):
     def doc_text():
         db = dba.Database(Config.DB_NAME, Config.BRONZE_SCHEMA, Config.SILVER_SCHEMA)
         unprocessed_docs = db.get_unprocessed_documents(Config.BRONZE_SCHEMA, Config.SILVER_SCHEMA, session)
-        print(f'Processing {len(unprocessed_docs)} docs for {session}')
+        tqdm.write(f'Processing {len(unprocessed_docs)} docs for {session}')
 
         for doc in unprocessed_docs:
             doc['doc_text'] = clean_text(doc['doc_text'])
@@ -84,14 +85,16 @@ def text_vectorization(session: int):
                 })
             return results
         except Exception as e:
-            print(f"Error encoding sentences for doc_id {metadata[0]['doc_id'] if metadata else 'unknown'}: {e}")
+            if not Config.QUIET_ERRORS:
+                tqdm.write(f"Error encoding sentences for doc_id {metadata[0]['doc_id'] if metadata else 'unknown'}: {e}")
             return []
         finally:
             try:
                 if torch.backends.mps.is_available():
                     torch.mps.empty_cache()
             except Exception as e:
-                print(f"GPU cleanup warning: {e}")
+                if not Config.QUIET_ERRORS:
+                    tqdm.write(f"GPU cleanup warning: {e}")
 
     return (doc_text, doc_text | doc_sentence | document_sentence_vector)
 

@@ -8,6 +8,9 @@ from ..constants import (
     TESTIMONY_BASE_URL,
     DOCUMENT_DOWNLOAD_URL,
 )
+from ..config import Config
+from ..utils.concurrency import retry
+from tqdm import tqdm
 
 
 def get_current_legislature() -> int:
@@ -78,7 +81,21 @@ def get_testimony_attributes(paper_number: str, session: int) -> List[Dict]:
 def download_document(doc_id: int) -> bytes:
     client = RESTClient(base_url=DOCUMENT_DOWNLOAD_URL)
     params = {'doctype': 'test', 'documentId': doc_id}
-    resp = client.get(path='/', params=params)
-    return resp.content
+
+    def _do():
+        resp = client.get(path='/', params=params)
+        return resp.content
+
+    def _on_err(e: BaseException, attempt: int):
+        if not Config.QUIET_ERRORS:
+            tqdm.write(f"download_document failed for doc_id={doc_id} (attempt {attempt}): {e}")
+
+    return retry(
+        _do,
+        exceptions=(Exception,),
+        attempts=Config.RETRY_ATTEMPTS,
+        backoff_sec=Config.RETRY_BACKOFF_SEC,
+        on_error=_on_err,
+    )
 
 

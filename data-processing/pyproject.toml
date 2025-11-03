@@ -32,8 +32,11 @@ packages = ["src"]
 help = "Fetch and prepare raw data"
 sequence = [
     { shell = "mkdir -p data" },
-    { cmd = "python src/dlt_pipeline/dlt_sources.py" },
+    { cmd = "python -m dlt_pipeline.dlt_sources" },
 ]
+
+# Ensure the local package in ./src is importable during task runs
+env = { PYTHONPATH = "src" }
 
 [tool.poe.tasks.pipeline]
 help = "Run full data pipeline"

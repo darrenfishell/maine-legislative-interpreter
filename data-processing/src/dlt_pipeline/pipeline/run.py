@@ -1,6 +1,6 @@
 import logging
 import dlt
-import db_access as dba
+from .. import db_access as dba
 from ..config import Config
 from ..dlt_sources import session_data, text_vectorization, current_session
 

@@ -3,16 +3,18 @@ import json
 import time
 import dlt
 from dlt.common import json as dlt_json
+from tqdm import tqdm
 
 from ..services.api import iterate_bill_text, get_testimony_attributes, download_document
 from ..services.storage import get_pdf_repo
+from ..config import Config
 
 
 @dlt.source
 def session_data(session: int):
     pdf_repo = get_pdf_repo(session)
 
-    print(f'Retrieving session bills and testimony for {session}')
+    tqdm.write(f'Retrieving session bills and testimony for {session}')
 
     @dlt.resource(
         primary_key=['ldNumber', 'legislature', 'itemNumber'],
@@ -44,7 +46,7 @@ def session_data(session: int):
             for row in get_testimony_attributes(paper_number, session):
                 yield row
         except Exception as e:
-            print(f'Error fetching testimony for {paper_number}, Legislature {session}: {e}')
+            tqdm.write(f'Error fetching testimony for {paper_number}, Legislature {session}: {e}')
 
     @dlt.transformer(
         primary_key='doc_id',
@@ -60,9 +62,14 @@ def session_data(session: int):
         if os.path.exists(filepath):
             pass
 
-        content = download_document(doc_id)
-        with open(filepath, 'wb') as f:
-            f.write(content)
+        try:
+            content = download_document(doc_id)
+            with open(filepath, 'wb') as f:
+                f.write(content)
+        except Exception as e:
+            if not Config.QUIET_ERRORS:
+                tqdm.write(f'download failed for doc_id={doc_id}: {e}')
+            return
 
         yield {
             'doc_id': doc_id,
@@ -93,7 +100,8 @@ def session_data(session: int):
                 'doc_text': json_text,
             }
         except Exception as e:
-            print(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
+            if not Config.QUIET_ERRORS:
+                tqdm.write(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
             yield {
                 'doc_id': pdf_data.get('doc_id'),
                 'session': session,
