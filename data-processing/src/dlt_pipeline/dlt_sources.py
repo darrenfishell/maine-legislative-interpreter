@@ -12,22 +12,32 @@ from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import OffsetPaginator
 from dlt.common import json as dlt_json
 from pathlib import Path
-from pypdf import PdfReader
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
 import db_access as dba
+from .config import Config
+from .constants import (
+    BREEZE_CURRENT_LEGISLATURE_URL,
+    BILL_TEXT_BASE_URL,
+    TESTIMONY_BASE_URL,
+    DOCUMENT_DOWNLOAD_URL,
+)
+from .utils.text import clean_text
+from .utils.nlp import load_spacy_model
+from .utils.pdf import read_pdf_text
+from .services.storage import get_pdf_repo
 
-DB_NAME = 'maine-legislative-testimony'
-BRONZE_SCHEMA = 'bronze'
-SILVER_SCHEMA = 'silver'
+DB_NAME = Config.DB_NAME
+BRONZE_SCHEMA = Config.BRONZE_SCHEMA
+SILVER_SCHEMA = Config.SILVER_SCHEMA
 db = dba.Database(DB_NAME, BRONZE_SCHEMA, SILVER_SCHEMA)
 
 def current_session():
     '''
     Returns: Latest legislative session
     '''
-    base_url = 'https://legislature.maine.gov/backend/breeze/data/getCurrentLegislature'
+    base_url = BREEZE_CURRENT_LEGISLATURE_URL
     client = RESTClient(
         base_url=base_url
     )
@@ -37,8 +47,7 @@ def current_session():
 
 @dlt.source
 def session_data(session):
-    pdf_repo = Path(__file__).parents[1] / 'testimony_pdfs' / str(session)
-    os.makedirs(pdf_repo, exist_ok=True)
+    pdf_repo = get_pdf_repo(session)
 
     print(f'Retrieving session bills and testimony for {session}')
 
@@ -48,7 +57,7 @@ def session_data(session):
     )
     def bill_text():
         client = RESTClient(
-            base_url='https://legislature.maine.gov/mrs-search/api/billtext',
+            base_url=BILL_TEXT_BASE_URL,
             paginator=OffsetPaginator(
                 limit=500,
                 limit_param='pageSize',
@@ -121,9 +130,7 @@ def session_data(session):
                        'Inactive,TestimonySubmissionId,HearingDate,LDNumber,Request'
         }
 
-        client = RESTClient(
-            base_url='https://legislature.maine.gov/backend/breeze/data/CommitteeTestimony'
-        )
+        client = RESTClient(base_url=TESTIMONY_BASE_URL)
 
         params = base_params.copy()
         params['$filter'] = params['$filter'].format(paper_number=paper_number, session=session)
@@ -153,9 +160,7 @@ def session_data(session):
         if os.path.exists(filepath): # Skip request if file exists locally
             pass
 
-        client = RESTClient(
-            base_url='https://legislature.maine.gov/backend/app/services/getDocument.aspx'
-        )
+        client = RESTClient(base_url=DOCUMENT_DOWNLOAD_URL)
         params = {'doctype': 'test', 'documentId': doc_id}
         resp = client.get(path='/', params=params)
 
@@ -182,8 +187,7 @@ def session_data(session):
             time.sleep(0.2)
 
         try:
-            pdf = PdfReader(filepath, strict=False)
-            raw_text = ' '.join([page.extract_text() for page in pdf.pages]).strip() or None
+            raw_text = read_pdf_text(filepath)
             json_text = json.dumps(raw_text)
             yield {
                 'doc_id': pdf_data.get('doc_id'),
