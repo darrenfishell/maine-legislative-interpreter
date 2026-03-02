@@ -47,19 +47,15 @@ def text_vectorization(session: int):
         for doc in unprocessed_docs:
             yield doc
 
+    nlp = load_spacy_model()
+    if not nlp.has_pipe('sentencizer'):
+        nlp.add_pipe('sentencizer')
+    nlp.max_length = 10_000_000  # safe: only sentencizer is active, no parser/NER memory concern
+
     @dlt.transformer(parallelized=True)
     def doc_sentence(doc: Dict):
-        if not hasattr(doc_sentence, 'nlp'):
-            doc_sentence.nlp = load_spacy_model()
-            if not doc_sentence.nlp.has_pipe('sentencizer'):
-                doc_sentence.nlp.add_pipe('sentencizer')
-
-        nlp = doc_sentence.nlp
-
         doc_id = doc.get('doc_id')
         doc_text_val = doc.get('cleaned_text', '')
-
-        nlp.max_length = len(doc_text_val) + 1000
 
         sentences: List[Dict] = []
         with nlp.select_pipes(enable=['sentencizer']):
