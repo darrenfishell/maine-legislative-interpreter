@@ -1,4 +1,5 @@
 from .sources.session import session_data
+from .sources.pdf_extraction import pdf_text_extraction
 from .sources.staging import text_cleaning
 from .sources.vectorization import text_vectorization
 from .services.api import get_current_legislature as current_session

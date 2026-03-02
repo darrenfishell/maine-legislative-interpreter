@@ -1,8 +1,5 @@
 import os
-import json
-import time
 import dlt
-from dlt.common import json as dlt_json
 from tqdm import tqdm
 
 from ..services.api import iterate_bill_text, get_testimony_attributes, download_document
@@ -68,25 +65,21 @@ def session_data(session: int):
                 if not Config.QUIET_ERRORS:
                     tqdm.write(f'Could not remove stale tmp file: {tmp_path}')
 
-        if os.path.exists(filepath):
-            return
-
-        try:
-            content = download_document(doc_id)
-            with open(tmp_path, 'wb') as f:
-                f.write(content)
-            # Atomic replace ensures we never leave a partially written target
-            os.replace(tmp_path, filepath)
-        except Exception as e:
-            if not Config.QUIET_ERRORS:
-                tqdm.write(f'download failed for doc_id={doc_id}: {e}')
-            # Best-effort cleanup of tmp file
+        if not os.path.exists(filepath):
             try:
-                if os.path.exists(tmp_path):
-                    os.remove(tmp_path)
-            except Exception:
-                pass
-            return
+                content = download_document(doc_id)
+                with open(tmp_path, 'wb') as f:
+                    f.write(content)
+                os.replace(tmp_path, filepath)
+            except Exception as e:
+                if not Config.QUIET_ERRORS:
+                    tqdm.write(f'download failed for doc_id={doc_id}: {e}')
+                try:
+                    if os.path.exists(tmp_path):
+                        os.remove(tmp_path)
+                except Exception:
+                    pass
+                return
 
         yield {
             'doc_id': doc_id,
@@ -94,41 +87,9 @@ def session_data(session: int):
             'pdf_filepath': str(filepath),
         }
 
-    @dlt.transformer(
-        primary_key='doc_id',
-        parallelized=True,
-    )
-    def testimony_full_text(pdf_data):
-        if not pdf_data:
-            return
-
-        filepath = pdf_data.get('pdf_filepath')
-        if not os.path.exists(filepath):
-            time.sleep(0.2)
-
-        try:
-            # Preserve prior behavior: store JSON-encoded text
-            from ..utils.pdf import read_pdf_text
-            raw_text = read_pdf_text(filepath)
-            json_text = json.dumps(raw_text)
-            yield {
-                'doc_id': pdf_data.get('doc_id'),
-                'session': session,
-                'doc_text': json_text,
-            }
-        except Exception as e:
-            if not Config.QUIET_ERRORS:
-                tqdm.write(f'Error processing {pdf_data.get("pdf_filepath")}: {e}')
-            yield {
-                'doc_id': pdf_data.get('doc_id'),
-                'session': session,
-                'doc_text': f"Error: {str(e)}",
-            }
-
     testimony_attributes_res = bill_text | testimony_attributes
     testimony_pdfs_res = testimony_attributes_res | testimony_pdfs
-    testimony_full_text_res = testimony_pdfs_res | testimony_full_text
 
-    return bill_text, testimony_attributes_res, testimony_pdfs_res, testimony_full_text_res
+    return bill_text, testimony_attributes_res, testimony_pdfs_res
 
 

@@ -39,6 +39,29 @@ class Database:
             '''
             return conn.execute(check).fetchone()[0]
 
+    def get_unextracted_pdfs(self, session):
+        """Get testimony doc IDs that have PDFs on disk but no extracted text."""
+        if self.table_exists(self.raw_schema, 'testimony_full_text'):
+            query = f'''
+                SELECT DISTINCT ta."Id" AS doc_id
+                FROM {self.raw_schema}.testimony_attributes ta
+                LEFT JOIN {self.raw_schema}.testimony_full_text ft
+                    ON ta."Id" = ft.doc_id
+                WHERE ft.doc_id IS NULL
+                AND ta.legislature = {session}
+                ORDER BY doc_id
+            '''
+        else:
+            query = f'''
+                SELECT DISTINCT "Id" AS doc_id
+                FROM {self.raw_schema}.testimony_attributes
+                WHERE legislature = {session}
+                ORDER BY doc_id
+            '''
+
+        with duckdb.connect(self.db_path) as conn:
+            return conn.execute(query).df()['doc_id'].tolist()
+
     def get_uncleaned_documents(self, session):
         """Get raw documents that have not yet been cleaned into staging."""
         if self.table_exists(self.staging_schema, 'stg_testimony_cleaned_text'):

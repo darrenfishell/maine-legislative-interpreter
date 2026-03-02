@@ -41,18 +41,22 @@ envfile = ".env"
 PYTHONPATH = "src"
 
 [tool.poe.tasks.pipeline]
-help = "Run the full pipeline (raw -> staging -> intermediate -> dbt)"
+help = "Run the full pipeline (raw -> extract -> staging -> intermediate -> dbt)"
 sequence = [
     { shell = "mkdir -p data" },
     { cmd = "python -m dlt_pipeline.pipeline.run --stage all" },
 ]
 
 [tool.poe.tasks.raw]
-help = "Run the raw ingestion stage only"
+help = "Run the raw ingestion stage only (API calls + PDF downloads)"
 sequence = [
     { shell = "mkdir -p data" },
     { cmd = "python -m dlt_pipeline.pipeline.run --stage raw" },
 ]
+
+[tool.poe.tasks.extract]
+help = "Run the extract stage only (PDF text extraction from disk, no API)"
+cmd = "python -m dlt_pipeline.pipeline.run --stage extract"
 
 [tool.poe.tasks.staging]
 help = "Run the staging (text cleaning) stage only"

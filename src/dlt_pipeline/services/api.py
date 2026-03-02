@@ -57,14 +57,13 @@ def iterate_bill_text(session: int) -> Iterable[Dict]:
         return bills
 
     def _on_err(e: BaseException, attempt: int):
-        if not Config.QUIET_ERRORS:
-            tqdm.write(f"iterate_bill_text failed for session {session} (attempt {attempt}): {e}")
+        tqdm.write(f"iterate_bill_text failed for session {session} (attempt {attempt}): {e}")
 
     yield from retry(
         _fetch_all,
         exceptions=(Exception,),
-        attempts=Config.RETRY_ATTEMPTS,
-        backoff_sec=Config.RETRY_BACKOFF_SEC,
+        attempts=5,
+        backoff_sec=10.0,
         on_error=_on_err,
     )
 

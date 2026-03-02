@@ -6,10 +6,12 @@ from typing import Optional
 import dlt
 from .. import db_access as dba
 from ..config import Config
-from ..dlt_sources import session_data, text_cleaning, text_vectorization, current_session
+from ..dlt_sources import session_data, pdf_text_extraction, text_cleaning, text_vectorization, current_session
+import pymupdf
+from ..sources.pdf_extraction import _progress as _extract_progress, _lock as _extract_lock
 
 
-STAGES = ('raw', 'staging', 'intermediate', 'dbt', 'all')
+STAGES = ('raw', 'extract', 'staging', 'intermediate', 'dbt', 'all')
 
 DBT_PROJECT_DIR = Path(__file__).resolve().parents[3] / 'dbt'
 
@@ -30,7 +32,36 @@ def run_raw(db: dba.Database, bill_range: range, dev_mode: bool):
     )
     print(f'Raw load -- sessions {min(bill_range)}-{max(bill_range)}')
     for s in bill_range:
-        load_info = pipeline.run(session_data(s), write_disposition='merge')
+        try:
+            load_info = pipeline.run(session_data(s), write_disposition='merge')
+            print(load_info)
+        except Exception as e:
+            print(f'Session {s} failed: {e}\nContinuing with next session...')
+
+
+def run_extract(db: dba.Database, bill_range: range, dev_mode: bool):
+    pipeline = dlt.pipeline(
+        pipeline_name='me_legislation',
+        destination=dlt.destinations.duckdb(db.db_path),
+        dataset_name=Config.RAW_SCHEMA,
+        dev_mode=dev_mode,
+    )
+    end_session = max(bill_range)
+    print(f'Extract (PDF text extraction) -- sessions 126-{end_session}')
+    for s in range(126, end_session + 1):
+        load_info = pipeline.run(pdf_text_extraction(s), write_disposition='merge')
+        pymupdf.TOOLS.mupdf_display_errors(True)
+        with _extract_lock:
+            stats = _extract_progress.pop(s, None)
+        if stats:
+            stats['pbar'].close()
+            ok = stats['total'] - stats['errors'] - stats['skipped']
+            summary = f'Session {s}: extracted {ok}/{stats["total"]} PDFs'
+            if stats['errors']:
+                summary += f', {stats["errors"]} errors'
+            if stats['skipped']:
+                summary += f', {stats["skipped"]} missing'
+            print(summary)
         print(load_info)
 
 
@@ -94,6 +125,9 @@ def run(stage: str = 'all', session: Optional[int] = None, dev_mode: bool = Fals
 
     if stage in ('raw', 'all'):
         run_raw(db, bill_range, dev_mode)
+
+    if stage in ('extract', 'all'):
+        run_extract(db, bill_range, dev_mode)
 
     if stage in ('staging', 'all'):
         run_staging(db, bill_range, dev_mode)
