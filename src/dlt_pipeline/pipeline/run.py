@@ -42,10 +42,9 @@ def run_staging(db: dba.Database, bill_range: range, dev_mode: bool):
         dataset_name=Config.STAGING_SCHEMA,
         dev_mode=dev_mode,
     )
-    start_session = max(126, min(bill_range))
     end_session = max(bill_range)
-    print(f'Staging (text cleaning) -- sessions {start_session}-{end_session}')
-    for s in range(start_session, end_session + 1):
+    print(f'Staging (text cleaning) -- sessions 126-{end_session}')
+    for s in range(126, end_session + 1):
         load_info = pipeline.run(text_cleaning(s), write_disposition='merge')
         print(load_info)
 
@@ -58,10 +57,9 @@ def run_intermediate(db: dba.Database, bill_range: range, dev_mode: bool):
         dataset_name=Config.INTERMEDIATE_SCHEMA,
         dev_mode=dev_mode,
     )
-    start_session = max(126, min(bill_range))
     end_session = max(bill_range)
-    print(f'Intermediate (vectorization) -- sessions {start_session}-{end_session}')
-    for s in range(start_session, end_session + 1):
+    print(f'Intermediate (vectorization) -- sessions 126-{end_session}')
+    for s in range(126, end_session + 1):
         load_info = pipeline.run(text_vectorization(s), write_disposition='merge')
         print(load_info)
 
