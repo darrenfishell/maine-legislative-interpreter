@@ -1,0 +1,75 @@
+[project]
+name = "me-legislation-pipeline"
+version = "0.1.0"
+description = "Maine legislation data pipeline"
+requires-python = ">=3.9"
+dependencies = [
+    "dbt-core",
+    "dbt-duckdb",
+    "dlt",
+    "pandas",
+    "duckdb",
+    "tqdm",
+    "PyMuPDF",
+    "ftfy",
+    "spacy",
+    "sentence_transformers",
+]
+
+[project.optional-dependencies]
+dev = [
+    "poethepoet>=0.24.0",
+    "pytest>=7.0.0",
+    "ruff>=0.1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+# ---------------------------------------------------------------------------
+# Poe the Poet task runner — invoke via: uv run poe <task>
+# ---------------------------------------------------------------------------
+
+[tool.poe]
+envfile = ".env"
+
+[tool.poe.env]
+PYTHONPATH = "src"
+
+[tool.poe.tasks.pipeline]
+help = "Run the full pipeline (raw -> staging -> intermediate -> dbt)"
+sequence = [
+    { shell = "mkdir -p data" },
+    { cmd = "python -m dlt_pipeline.pipeline.run --stage all" },
+]
+
+[tool.poe.tasks.raw]
+help = "Run the raw ingestion stage only"
+sequence = [
+    { shell = "mkdir -p data" },
+    { cmd = "python -m dlt_pipeline.pipeline.run --stage raw" },
+]
+
+[tool.poe.tasks.staging]
+help = "Run the staging (text cleaning) stage only"
+cmd = "python -m dlt_pipeline.pipeline.run --stage staging"
+
+[tool.poe.tasks.intermediate]
+help = "Run the intermediate (vectorization) stage only"
+cmd = "python -m dlt_pipeline.pipeline.run --stage intermediate"
+
+[tool.poe.tasks.dbt]
+help = "Run dbt models (staging SQL, intermediate SQL, mart)"
+cmd = "python -m dlt_pipeline.pipeline.run --stage dbt"
+
+[tool.poe.tasks.test]
+help = "Run Python unit tests"
+cmd = "python -m pytest tests/ -v"
+
+[tool.poe.tasks.lint]
+help = "Run ruff linter"
+cmd = "ruff check src/ tests/"

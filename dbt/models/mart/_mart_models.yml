@@ -1,0 +1,208 @@
+version: 2
+
+models:
+  - name: dim_bill
+    description: Bill dimension -- one row per bill (LD number + legislature).
+    columns:
+      - name: bill_key
+        description: Surrogate key for the bill.
+        tests:
+          - unique
+          - not_null
+      - name: ld_number
+        description: Legislative Document number.
+        tests:
+          - not_null
+      - name: legislature
+        description: Legislature session number.
+        tests:
+          - not_null
+      - name: title
+        description: Bill title.
+      - name: summary
+        description: Bill summary text.
+
+  - name: dim_person
+    description: Person dimension -- one row per unique testifier.
+    columns:
+      - name: person_key
+        description: Surrogate key for the person.
+        tests:
+          - unique
+          - not_null
+      - name: first_name
+        description: Testifier first name.
+      - name: last_name
+        description: Testifier last name.
+
+  - name: dim_organization
+    description: Organization dimension -- one row per canonical organization name.
+    columns:
+      - name: org_key
+        description: Surrogate key for the organization.
+        tests:
+          - unique
+          - not_null
+      - name: organization_name
+        description: Raw organization name.
+        tests:
+          - not_null
+      - name: standard_org_name
+        description: Canonical clustered organization name.
+
+  - name: dim_subject
+    description: Subject dimension -- one row per subject at any hierarchy level.
+    columns:
+      - name: subject_key
+        description: Surrogate key for the subject.
+        tests:
+          - unique
+          - not_null
+      - name: subject_name
+        description: Subject classification value.
+        tests:
+          - not_null
+      - name: subject_level
+        description: Hierarchy level (broad, major, minor, detail).
+        tests:
+          - accepted_values:
+              values: ['broad', 'major', 'minor', 'detail']
+
+  - name: dim_session
+    description: Session dimension -- one row per legislature number.
+    columns:
+      - name: session_key
+        description: Surrogate key for the session.
+        tests:
+          - unique
+          - not_null
+      - name: legislature_number
+        description: Legislature number (e.g. 131).
+        tests:
+          - unique
+          - not_null
+      - name: session_label
+        description: Human-readable session label (e.g. "131st Legislature").
+
+  - name: dim_date
+    description: Date dimension -- one row per calendar date appearing in testimony data.
+    columns:
+      - name: date_key
+        description: Surrogate key for the date.
+        tests:
+          - unique
+          - not_null
+      - name: full_date
+        description: The calendar date.
+        tests:
+          - unique
+          - not_null
+      - name: year
+        description: Calendar year.
+      - name: month
+        description: Calendar month (1-12).
+      - name: day
+        description: Day of month.
+      - name: day_of_week
+        description: Day name (Monday, Tuesday, etc.).
+
+  - name: fct_testimony
+    description: >
+      Testimony fact table -- one row per testimony document with foreign keys
+      to all dimension tables and measures.
+    columns:
+      - name: testimony_key
+        description: Surrogate key for the testimony.
+        tests:
+          - unique
+          - not_null
+      - name: testimony_id
+        description: Original testimony document ID.
+        tests:
+          - not_null
+      - name: bill_key
+        description: Foreign key to dim_bill.
+        tests:
+          - relationships:
+              to: ref('dim_bill')
+              field: bill_key
+      - name: person_key
+        description: Foreign key to dim_person.
+        tests:
+          - relationships:
+              to: ref('dim_person')
+              field: person_key
+      - name: org_key
+        description: Foreign key to dim_organization.
+        tests:
+          - relationships:
+              to: ref('dim_organization')
+              field: org_key
+      - name: session_key
+        description: Foreign key to dim_session.
+        tests:
+          - relationships:
+              to: ref('dim_session')
+              field: session_key
+      - name: position
+        description: Classified legislative position.
+        tests:
+          - accepted_values:
+              values: ['support', 'oppose', 'neither', 'mixed', 'unknown']
+      - name: file_type
+        description: File type of the testimony document.
+      - name: file_size
+        description: File size in bytes.
+      - name: text_length
+        description: Character length of cleaned text.
+      - name: policy_area
+        description: Policy area classification.
+      - name: topic
+        description: Topic classification.
+
+  - name: fct_testimony_sentence
+    description: >
+      Sentence-level fact table -- one row per sentence embedding for vector
+      similarity search and retrieval.
+    columns:
+      - name: doc_id
+        description: Source testimony document ID.
+        tests:
+          - not_null
+      - name: sentence_index
+        description: Position of the sentence within the document.
+        tests:
+          - not_null
+      - name: sentence_text
+        description: The sentence text.
+      - name: embedding
+        description: Vector embedding as JSON array.
+      - name: model_name
+        description: Embedding model name.
+      - name: embedding_dimension
+        description: Dimensionality of the embedding.
+      - name: bill_key
+        description: Foreign key to dim_bill.
+      - name: session_key
+        description: Foreign key to dim_session.
+
+  - name: bridge_bill_subject
+    description: >
+      Bridge table linking bills to subjects in a many-to-many relationship.
+    columns:
+      - name: bill_key
+        description: Foreign key to dim_bill.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_bill')
+              field: bill_key
+      - name: subject_key
+        description: Foreign key to dim_subject.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_subject')
+              field: subject_key
+      - name: subject_level
+        description: Subject hierarchy level for this mapping.

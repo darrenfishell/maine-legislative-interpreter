@@ -1,0 +1,7 @@
+maine_legislative_interpreter:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/maine-legislative-testimony.duckdb
+      threads: 4

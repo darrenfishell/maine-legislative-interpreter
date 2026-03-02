@@ -1,8 +1,37 @@
-/language-models
-/data-processing/data
-__pycache__
-/data-processing/dbeaver-proj
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Data
+data/
+*.duckdb
+*.duckdb.wal
 *.pdf
-*.gitkeep
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs
 *.log
-/.venv/
+logs/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# JS / Observable site
+site/.yarn/
+site/node_modules/
+site/.next/
+site/.observablehq/cache/
+.env

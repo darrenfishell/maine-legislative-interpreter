@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: stg_bills
+    description: Cleaned and deduplicated bill metadata with snake_case columns.
+    columns:
+      - name: ld_number
+        description: Legislative Document number.
+        tests:
+          - not_null
+      - name: legislature
+        description: Legislature session number.
+        tests:
+          - not_null
+      - name: paper_number
+        description: Paper number identifier.
+      - name: item_number
+        description: Item number within the request.
+      - name: title
+        description: Bill title.
+      - name: summary
+        description: Bill summary text.
+      - name: broad_subject
+        description: Broad subject classification.
+      - name: major_subject
+        description: Major subject classification.
+      - name: minor_subject
+        description: Minor subject classification.
+      - name: detail_subject
+        description: Detail subject classification.
+
+  - name: stg_testimony
+    description: Cleaned and deduplicated testimony metadata with snake_case columns and typed dates.
+    columns:
+      - name: testimony_id
+        description: Unique testimony document ID.
+        tests:
+          - unique
+          - not_null
+      - name: request_id
+        description: Associated bill request ID.
+      - name: first_name
+        description: Testifier first name.
+      - name: last_name
+        description: Testifier last name.
+      - name: organization
+        description: Testifier organization (raw, unclustered).
+      - name: hearing_date
+        description: Date of the committee hearing.
+      - name: presented_date
+        description: Date testimony was presented.
+      - name: ld_number
+        description: Associated LD number.
+      - name: legislature
+        description: Legislature session number.
+        tests:
+          - not_null

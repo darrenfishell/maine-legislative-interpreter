@@ -1,0 +1,60 @@
+version: 2
+
+models:
+  - name: int_testimony_position
+    description: >
+      Testimony documents classified by legislative position (support, oppose,
+      neither, mixed, unknown) using regex patterns on the cleaned text.
+    columns:
+      - name: doc_id
+        description: Testimony document ID.
+        tests:
+          - unique
+          - not_null
+      - name: position
+        description: Classified position (support, oppose, neither, mixed, unknown).
+        tests:
+          - accepted_values:
+              values: ['support', 'oppose', 'neither', 'mixed', 'unknown']
+      - name: legislature
+        description: Legislature session number.
+      - name: text_length
+        description: Character length of the cleaned testimony text.
+
+  - name: int_bill_subjects
+    description: >
+      Unpivoted bill subject classifications. Each row maps a bill to one
+      subject at a specific level (broad, major, minor, detail).
+    columns:
+      - name: ld_number
+        description: Legislative Document number.
+        tests:
+          - not_null
+      - name: legislature
+        description: Legislature session number.
+        tests:
+          - not_null
+      - name: subject_name
+        description: Subject classification value.
+        tests:
+          - not_null
+      - name: subject_level
+        description: Level in the subject hierarchy.
+        tests:
+          - accepted_values:
+              values: ['broad', 'major', 'minor', 'detail']
+
+  - name: int_org_clusters
+    description: >
+      Distinct organizations from testimony with frequency counts. The
+      standard_org_name column is a stub for future fuzzy-match clustering.
+    columns:
+      - name: organization_name
+        description: Raw organization name from testimony.
+        tests:
+          - unique
+          - not_null
+      - name: standard_org_name
+        description: Canonical organization name (currently same as raw; placeholder for clustering).
+      - name: testimony_count
+        description: Number of testimonies from this organization.
