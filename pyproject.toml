@@ -70,6 +70,13 @@ cmd = "python -m dlt_pipeline.pipeline.run --stage intermediate"
 help = "Run dbt models (staging SQL, intermediate SQL, mart)"
 cmd = "python -m dlt_pipeline.pipeline.run --stage dbt"
 
+[tool.poe.tasks.setup]
+help = "Install spacy models and other non-PyPI dependencies"
+sequence = [
+    { shell = "uv pip install pip" },
+    { cmd = "python -m spacy download en_core_web_sm" },
+]
+
 [tool.poe.tasks.test]
 help = "Run Python unit tests"
 cmd = "python -m pytest tests/ -v"
