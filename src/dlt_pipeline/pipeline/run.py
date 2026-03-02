@@ -9,6 +9,7 @@ from ..config import Config
 from ..dlt_sources import session_data, pdf_text_extraction, text_cleaning, text_vectorization, current_session
 import pymupdf
 from ..sources.pdf_extraction import _progress as _extract_progress, _lock as _extract_lock
+from ..sources.vectorization import _progress as _embed_progress, _lock as _embed_lock
 
 
 STAGES = ('raw', 'extract', 'staging', 'intermediate', 'dbt', 'all')
@@ -84,7 +85,6 @@ def run_intermediate(db: dba.Database, bill_range: range, dev_mode: bool):
     pipeline = dlt.pipeline(
         pipeline_name='me_legislation',
         destination=dlt.destinations.duckdb(db.db_path),
-        progress=dlt.progress.tqdm(colour='yellow'),
         dataset_name=Config.INTERMEDIATE_SCHEMA,
         dev_mode=dev_mode,
     )
@@ -92,6 +92,15 @@ def run_intermediate(db: dba.Database, bill_range: range, dev_mode: bool):
     print(f'Intermediate (vectorization) -- sessions 126-{end_session}')
     for s in range(126, end_session + 1):
         load_info = pipeline.run(text_vectorization(s), write_disposition='merge')
+        with _embed_lock:
+            stats = _embed_progress.pop(s, None)
+        if stats:
+            stats['pbar'].close()
+            ok = stats['docs_done'] - stats['errors']
+            summary = f'Session {s}: embedded {ok}/{stats["total"]} docs ({stats["sentences"]} sentences)'
+            if stats['errors']:
+                summary += f', {stats["errors"]} errors'
+            print(summary)
         print(load_info)
 
 
