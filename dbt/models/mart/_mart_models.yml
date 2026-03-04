@@ -175,6 +175,10 @@ models:
           - not_null
       - name: sentence_text
         description: The sentence text.
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "length(regexp_replace(sentence_text, '[^A-Za-z ]', '', 'g')) >= 8"
       - name: embedding
         description: Vector embedding as JSON array.
       - name: model_name

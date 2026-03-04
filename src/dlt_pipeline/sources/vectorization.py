@@ -62,8 +62,23 @@ def text_vectorization(session: int):
             processed_doc = nlp(doc_text_val)
             for idx, sent in enumerate(processed_doc.sents):
                 sent_text = sent.text.strip()
-                if len(sent_text) > 10:
-                    sentences.append({'doc_id': doc_id, 'sentence': sent_text, 'sentence_index': idx})
+                if not sent_text:
+                    continue
+
+                tokens = sent_text.split()
+                letters = sum(ch.isalpha() for ch in sent_text)
+                total = len(sent_text)
+                letter_ratio = letters / total if total else 0.0
+
+                # Drop very short / low-signal sentences (e.g. PDF glyph junk, closings)
+                if len(tokens) < 3:
+                    continue
+                if letters < 8:
+                    continue
+                if letter_ratio < 0.6:
+                    continue
+
+                sentences.append({'doc_id': doc_id, 'sentence': sent_text, 'sentence_index': idx})
 
         return sentences
 

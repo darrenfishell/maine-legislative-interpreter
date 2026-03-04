@@ -75,6 +75,7 @@ help = "Install spacy models and other non-PyPI dependencies"
 sequence = [
     { shell = "uv pip install pip" },
     { cmd = "python -m spacy download en_core_web_sm" },
+    { shell = "cd dbt && dbt deps" },
 ]
 
 [tool.poe.tasks.test]

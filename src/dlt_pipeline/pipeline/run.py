@@ -1,6 +1,7 @@
 import logging
 import argparse
 import subprocess
+import sys
 from pathlib import Path
 from typing import Optional
 import dlt
@@ -112,7 +113,7 @@ def run_dbt():
 
     print(f'Running dbt models from {DBT_PROJECT_DIR}')
     result = subprocess.run(
-        ['dbt', 'run'],
+        [sys.executable, '-m', 'dbt', 'run'],
         cwd=str(DBT_PROJECT_DIR),
         capture_output=True,
         text=True,

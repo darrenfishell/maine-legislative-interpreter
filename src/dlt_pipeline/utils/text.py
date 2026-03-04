@@ -1,6 +1,7 @@
 import re
 import unicodedata
 import ftfy
+from typing import List
 
 
 def fix_encoding(text: str) -> str:
@@ -34,6 +35,51 @@ def normalize_unicode(text: str) -> str:
     for old, new in replacements.items():
         text = text.replace(old, new)
     return text
+
+
+def strip_front_matter(text: str) -> str:
+    """Remove likely PDF front-matter / letterhead noise from the top of the document.
+
+    Heuristics (applied only to the first few lines):
+    - Very short lines with few or no letters.
+    - Lines dominated by non-alphanumeric symbols.
+    - Lines that look like standalone garbage tokens.
+    """
+    lines: List[str] = text.splitlines()
+    if not lines:
+        return text
+
+    def is_noise_line(line: str) -> bool:
+        stripped = line.strip()
+        if not stripped:
+            return False
+        total = len(stripped)
+        letters = sum(ch.isalpha() for ch in stripped)
+        digits = sum(ch.isdigit() for ch in stripped)
+        spaces = stripped.count(" ")
+        other = total - letters - digits - spaces
+
+        letter_ratio = letters / total
+        other_ratio = other / total
+
+        # Very short and mostly non-letters (e.g. PDF glyph junk)
+        if total <= 12 and letters <= 3:
+            return True
+
+        # Short lines with many non-alphanumeric symbols
+        if total <= 24 and letter_ratio < 0.4 and other_ratio > 0.3:
+            return True
+
+        return False
+
+    cleaned: List[str] = []
+    header_window = 8
+    for idx, line in enumerate(lines):
+        if idx < header_window and is_noise_line(line):
+            continue
+        cleaned.append(line)
+
+    return "\n".join(cleaned)
 
 
 def remove_pdf_artifacts(text: str) -> str:
@@ -96,6 +142,7 @@ def clean_text(text: str) -> str:
     text = fix_encoding(text)
     text = remove_control_characters(text)
     text = normalize_unicode(text)
+    text = strip_front_matter(text)
     text = remove_pdf_artifacts(text)
     text = normalize_whitespace(text)
     text = clean_punctuation(text)
