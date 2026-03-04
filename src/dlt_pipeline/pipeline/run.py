@@ -112,8 +112,9 @@ def run_dbt():
         return
 
     print(f'Running dbt models from {DBT_PROJECT_DIR}')
+    # When invoked via `uv run`, `dbt` will be resolved from the uv-managed venv.
     result = subprocess.run(
-        [sys.executable, '-m', 'dbt', 'run'],
+        ['dbt', 'run'],
         cwd=str(DBT_PROJECT_DIR),
         capture_output=True,
         text=True,
